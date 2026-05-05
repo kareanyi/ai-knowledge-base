@@ -20,12 +20,16 @@ AI 知识库助手自动从 GitHub Trending 和 Hacker News 采集 AI/LLM/Agent 
 
 ## 编码规范
 
+详细内容见 `specs/coding-standards.md`，核心要点如下：
+
 ### 风格
 
 - **PEP 8** 作为代码风格基准
 - 变量/函数名：`snake_case`
 - 类名：`PascalCase`
 - 常量：`UPPER_SNAKE_CASE`
+- Python 版本 **>=3.12**，格式化用 **black==24.4.0**
+- TypeScript 用 **prettier**，严格模式 `strict: true` + `noUncheckedIndexedAccess: true`
 
 ### 文档
 
@@ -48,9 +52,19 @@ def fetch_trending_repos(limit: int = 20) -> list[dict]:
     pass
 ```
 
+### 类型检查
+
+- Python 用 `mypy --strict`
+- 禁止硬编码业务常量，字面值抽成 `constants.py` 或枚举
+
+### 异常处理
+
+- 自定义异常继承 `BaseAppError`
+- 禁止裸 `except`
+
 ### 日志与输出
 
-- **禁止裸 `print()`**，统一使用 `log` 模块：
+- **禁止裸 `print()`**，统一使用 `log` 模块，`print()` 仅限 `__main__`
 
 ```python
 from utils.log import log
@@ -58,6 +72,28 @@ from utils.log import log
 log.info("任务完成，共处理 %d 条记录", count)
 log.warning("跳过重复条目: %s", url)
 ```
+
+### 依赖与 Import
+
+- 依赖用 `pyproject.toml`
+- import 用 `isort` 统一顺序
+
+### Git Commit
+
+- 用 **Conventional Commits** 格式
+
+### CI 验证
+
+```bash
+ruff check . && ruff format --check . && mypy . && pytest --cov --cov-fail-under=80
+check-jsonschema knowledge/**/*.json
+```
+
+| 层级 | 覆盖率要求 |
+|------|-----------|
+| 业务逻辑层 | >= 90% |
+| 工具层 | >= 80% |
+| 边界适配层 | >= 50% |
 
 ---
 
