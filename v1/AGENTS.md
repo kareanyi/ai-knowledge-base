@@ -113,8 +113,9 @@ check-jsonschema knowledge/**/*.json
 ├── knowledge/
 │   ├── raw/                 # 原始抓取数据（JSON，按日期分区）
 │   │   └── 2026-05-05/
+│   │       └── raw.json
 │   └── articles/            # AI 分析后的结构化知识条目
-│       └── entries.json
+│       └── {id}.json
 ├── utils/
 │   ├── log.py               # 日志封装
 │   └── dedup.py             # 去重工具
@@ -188,7 +189,7 @@ check-jsonschema knowledge/**/*.json
         │
         ▼
    ┌───────────┐
-   │ Organizer │──▶ 知识库（articles/entries.json）
+   │ Organizer │──▶ 知识库（articles/{id}.json）
    └───────────┘
         │
         ▼
@@ -219,7 +220,7 @@ check-jsonschema knowledge/**/*.json
 python main.py
 
 # 验证 JSON 输出
-python -c "import json; json.load(open('knowledge/articles/entries.json'))"
+python -c "import json, glob; [json.load(open(f)) for f in glob('knowledge/articles/*.json')]"
 
 # 查看采集日志
 python main.py --log-level DEBUG

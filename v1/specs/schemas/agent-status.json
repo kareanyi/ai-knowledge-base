@@ -1,0 +1,7 @@
+{
+  "status": "running | completed | failed",
+  "started_at": "ISO8601",
+  "completed_at": "ISO8601 | null",
+  "items_count": "integer",
+  "error_msg": "string | null"
+}
