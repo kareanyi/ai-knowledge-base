@@ -1,109 +1,190 @@
-# AI 知识库助手 · Agent 规范
+# AI 知识库助手 - AGENTS.md
 
-## 1. 项目概述
+## 项目概述
 
-一个 AI/LLM/Agent 领域的技术动态采集与分发系统：每日自动从 GitHub Trending 和 Hacker News 抓取相关内容，经 AI 结构化分析后以 JSON 格式存储，并支持推送至 Telegram/飞书等渠道。
+AI 知识库助手自动从 GitHub Trending 和 Hacker News 采集 AI/LLM/Agent 领域的技术动态，经 AI 分析后结构化存储为 JSON 格式的知识条目，并支持多渠道分发（ Telegram/飞书）。
 
 ---
 
-## 2. 技术栈
+## 技术栈
 
 | 类别 | 技术 |
 |------|------|
 | 语言 | Python 3.12 |
-| 模型 | OpenCode + 国产大模型（DeepSeek / Qwen / GLM） |
+| 模型 | OpenCode + 国产大模型（通义/智谱/DeepSeek） |
 | 编排 | LangGraph |
-| 技能框架 | OpenClaw |
+| 抓取 | OpenClaw（浏览器自动化） |
+| 存储 | JSON 文件（知识库）、SQLite（原始数据） |
 
 ---
 
-## 3. 编码规范
+## 编码规范
 
-- **风格**：[PEP 8](https://pep8.org/)
-- **命名**：snake_case（变量/函数/模块），PascalCase（类名）
-- **文档**：Google 风格 docstring
+### 风格
+
+- **PEP 8** 作为代码风格基准
+- 变量/函数名：`snake_case`
+- 类名：`PascalCase`
+- 常量：`UPPER_SNAKE_CASE`
+
+### 文档
+
+- 所有模块、类、公有函数使用 **Google 风格 docstring**
+- 示例：
 
 ```python
-def fetch_trending(lang: str = "python", days: int = 1) -> list[dict]:
-    """Fetch GitHub trending items.
+def fetch_trending_repos(limit: int = 20) -> list[dict]:
+    """获取 GitHub Trending 仓库列表。
 
     Args:
-        lang: Programming language filter.
-        days: Number of days to look back.
+        limit: 返回的仓库数量上限，默认 20。
 
     Returns:
-        List of trending repository dicts.
+        包含仓库信息的字典列表，每项含 name, url, description, stars。
+
+    Raises:
+        NetworkError: 网络请求失败时抛出。
     """
-    ...
+    pass
 ```
 
-- **日志**：统一使用 `logging`，禁止裸 `print()`
-- **类型**：所有公开函数必须标注类型提示
+### 日志与输出
+
+- **禁止裸 `print()`**，统一使用 `log` 模块：
+
+```python
+from utils.log import log
+
+log.info("任务完成，共处理 %d 条记录", count)
+log.warning("跳过重复条目: %s", url)
+```
 
 ---
 
-## 4. 项目结构
+## 项目结构
 
 ```
 .
 ├── .opencode/
-│   ├── agents/          # Agent 定义（角色、指令）
-│   └── skills/         # OpenClaw Skill 封装
+│   ├── agents/              # Agent 定义（LangGraph 节点）
+│   │   ├── collector.py     # 采集 Agent
+│   │   ├── analyzer.py      # 分析 Agent
+│   │   └── organizer.py     # 整理 Agent
+│   └── skills/              # Skill 定义（原子能力封装）
+│       ├── github_fetch.md
+│       ├── hn_fetch.md
+│       └── notify.md
 ├── knowledge/
-│   ├── raw/            # 原始抓取内容（JSONL）
-│   └── articles/       # AI 分析后的结构化条目
-└── AGENTS.md
+│   ├── raw/                 # 原始抓取数据（JSON，按日期分区）
+│   │   └── 2026-05-05/
+│   └── articles/            # AI 分析后的结构化知识条目
+│       └── entries.json
+├── utils/
+│   ├── log.py               # 日志封装
+│   └── dedup.py             # 去重工具
+├── main.py                  # 入口脚本
+├── requirements.txt
+└── AGENTS.md                # Agent 定义与规范
 ```
 
 ---
 
-## 5. 知识条目 JSON 格式
+## 知识条目 JSON 格式
 
 ```json
 {
-  "id": "gh-20250505-001",
-  "title": "GPT-4: One Year of Insights and Lessons",
-  "source_url": "https://github.com/some/repo",
-  "source_type": "github_trending",
-  "summary": "一篇总结 GPT-4 发布一年经验教训的博客文章...",
-  "tags": ["LLM", "GPT-4", "教训总结"],
-  "status": "analyzed",
-  "created_at": "2025-05-05T08:00:00Z",
-  "published_at": null
+  "id": "uuid-v4",
+  "title": "项目名称 / 文章标题",
+  "source": "github_trending | hacker_news",
+  "source_url": "https://...",
+  "summary": "AI 生成的一句话描述",
+  "tech_stack": ["Python", "LangChain", "OpenAI"],
+  "problem_solved": "解决什么问题",
+  "why_valuable": "为什么有价值",
+  "tags": ["AI", "Agent", "开源"],
+  "status": "raw | analyzed | published | archived",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
 }
 ```
 
 | 字段 | 类型 | 说明 |
 |------|------|------|
-| `id` | string | 格式：`{source}-{date}-{seq}`，如 `hn-20250505-001` |
-| `title` | string | 条目标题 |
+| `id` | string | UUID v4，唯一标识 |
+| `title` | string | 项目/文章标题 |
+| `source` | enum | 数据来源 |
 | `source_url` | string | 原始链接 |
-| `source_type` | string | `github_trending` / `hacker_news` |
-| `summary` | string | AI 生成摘要（50-200 字） |
-| `tags` | string[] | 关键词标签 |
-| `status` | string | `raw` → `analyzed` → `published` |
-| `created_at` | ISO8601 | 首次创建时间 |
-| `published_at` | ISO8601 | 渠道分发时间，null 表示未发布 |
+| `summary` | string | AI 生成摘要 |
+| `tech_stack` | string[] | 技术栈数组 |
+| `problem_solved` | string | 解决的问题 |
+| `why_valuable` | string | 价值描述 |
+| `tags` | string[] | 标签（用于分类过滤） |
+| `status` | enum | 当前状态 |
+| `created_at` | ISO8601 | 创建时间 |
+| `updated_at` | ISO8601 | 更新时间 |
+| `published_to` | string[] | 已分发的渠道 |
 
 ---
 
-## 6. Agent 角色概览
+## Agent 角色概览
 
 | 角色 | 职责 | 输入 | 输出 |
 |------|------|------|------|
-| **Collector** | 从 GitHub Trending / HN 抓取原始内容 | 关键词列表 | `knowledge/raw/*.jsonl` |
-| **Analyzer** | 读取 raw 条目，生成 summary / tags，决策是否值得分发 | `knowledge/raw/` | `knowledge/articles/*.json` |
-| **Curator** | 审核后分发至 Telegram / 飞书 | `knowledge/articles/` | 渠道消息 |
+| **Collector** | 采集 GitHub Trending / HN 最新动态，过滤 AI/LLM/Agent 相关条目 | 数据源 URL | 原始条目列表（raw） |
+| **Analyzer** | AI 分析条目内容，生成摘要、技术栈、标签等结构化信息 | 原始条目 | 分析后的知识条目（analyzed） |
+| **Organizer** | 去重检查、质量审核、打标签、决定分发渠道 | 分析后条目 | 可发布条目（published） |
+
+### 工作流
+
+```
+[GitHub Trending / HN]
+        │
+        ▼
+   ┌──────────┐
+   │ Collector │──▶ knowledge/raw/
+   └──────────┘
+        │
+        ▼
+   ┌──────────┐
+   │ Analyzer  │──▶ 生成 summary / tech_stack / tags
+   └──────────┘
+        │
+        ▼
+   ┌───────────┐
+   │ Organizer │──▶ 知识库（articles/entries.json）
+   └───────────┘
+        │
+        ▼
+   多渠道分发（Telegram / 飞书）
+```
 
 ---
 
-## 7. 红线（绝对禁止）
+## 红线（绝对禁止）
 
-以下操作即使在 `auto-accept` 模式下也必须停下来询问用户：
+以下操作无论任何情况均不可执行：
 
-- 删除 `knowledge/` 下的任何原始数据或分析结果
-- 提交任何包含真实 API Key / Token 的文件（`.env`、配置文件等）
-- 修改 `.opencode/agents/` 下的 Agent 定义文件
-- 更改 `knowledge/articles/` 的 JSON Schema
-- 向非用户明确指定的第三方渠道推送内容
-- 在生产环境（飞书/Telegram 生产频道）进行测试推送
+| 红线 | 说明 |
+|------|------|
+| **删除知识库文件** | 不得删除 `knowledge/` 目录下任何历史数据 |
+| **硬编码凭证** | API Token、密钥等必须通过环境变量注入，禁止写入代码 |
+| **修改历史条目** | `status=published` 的条目不可修改，只能新增或标记 `archived` |
+| **直接推送到生产** | 任何分发操作必须经过 `status=published` 审核 |
+| **爬取私有内容** | 仅限公开数据源，不碰 GitHub 私有仓库等 |
+| **日志泄露敏感信息** | 禁止在日志中打印 URL 参数、Token 等敏感数据 |
+
+---
+
+## 调试命令
+
+```bash
+# 本地单次运行
+python main.py
+
+# 验证 JSON 输出
+python -c "import json; json.load(open('knowledge/articles/entries.json'))"
+
+# 查看采集日志
+python main.py --log-level DEBUG
+```
