@@ -36,10 +36,10 @@ jobs:
         run: python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
 
       - name: Validate JSON
-        run: python scripts/validate_json.py
+        run: python hooks/validate_json.py
 
       - name: Check quality
-        run: python scripts/check_quality.py
+        run: python hooks/check_quality.py
 
       - name: Commit and push
         working-directory: .
