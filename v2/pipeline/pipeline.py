@@ -18,7 +18,7 @@ import random
 import re
 import sys
 import time
-import uuid
+
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -82,8 +82,10 @@ class AnalyzedItem:
     created_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
     updated_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
     published_to: list[str] = field(default_factory=list)
+    audience: str | None = None
 
 
+@dataclass
 class PipelineError(Exception):
     """流水线执行错误。"""
 
@@ -128,7 +130,7 @@ class Collector:
         for repo in data.get("items", [])[:effective_limit]:
             raw = RawItem(
                 id=f"github-{repo['id']}",
-                source="github_trending",
+                source="github",
                 source_url=repo["html_url"],
                 title=repo.get("full_name", ""),
                 content=repo.get("description", "") or "",
@@ -233,7 +235,7 @@ class Collector:
             item_id = f"rss-{hash(link) % 1000000}"
             raw = RawItem(
                 id=item_id,
-                source="hacker_news" if "hnrss" in feed_url else "rss",
+                source="rss",
                 source_url=link,
                 title=title,
                 content=content,
@@ -260,6 +262,7 @@ class Analyzer:
 4. why_valuable：为什么它有价值（1 句话）
 5. tags：生成 3-5 个标签，用于分类（必须是英文单词或短词）
 6. score：给出一个 1-10 的质量评分，10 最高
+7. audience：目标受众级别 (beginner/intermediate/advanced)
 
 输出格式：只输出 JSON，不要有其他内容。
 {
@@ -268,7 +271,8 @@ class Analyzer:
   "problem_solved": "...",
   "why_valuable": "...",
   "tags": ["AI", "Agent", ...],
-  "score": 8
+  "score": 8,
+  "audience": "intermediate"
 }
 """
 
@@ -340,7 +344,14 @@ class Analyzer:
             why_valuable=analysis.get("why_valuable", ""),
             tags=analysis.get("tags", [])[:5],
             score=min(10, max(1, int(analysis.get("score", 5)))),
+            audience=self._parse_audience(analysis),
         )
+
+    def _parse_audience(self, analysis: dict[str, Any]) -> str | None:
+        audience_val = analysis.get("audience")
+        if audience_val in {"beginner", "intermediate", "advanced"}:
+            return audience_val
+        return None
 
     def batch_analyze(self, items: list[RawItem]) -> list[AnalyzedItem]:
         """批量分析条目。
@@ -439,8 +450,16 @@ class Organizer:
 
     def _standardize_format(self, items: list[AnalyzedItem]) -> list[AnalyzedItem]:
         """标准化格式。"""
+        counters: dict[str, int] = {}
         for item in items:
-            item.id = str(uuid.uuid4())
+            source = item.source
+            if source not in counters:
+                counters[source] = 1
+            date_str = datetime.now(timezone.utc).strftime("%Y%m%d")
+            source_prefix = source.replace("_", "")[:8]
+            item.id = f"{source_prefix}-{date_str}-{counters[source]:03d}"
+            counters[source] += 1
+
             item.status = "analyzed"
             item.updated_at = datetime.now(timezone.utc).isoformat()
 
@@ -448,6 +467,8 @@ class Organizer:
                 item.tech_stack = [str(t)[:50] for t in item.tech_stack]
             if isinstance(item.tags, list):
                 item.tags = [str(t)[:30] for t in item.tags]
+                if len(item.tags) == 0:
+                    item.tags = ["general"]
 
         return items
 
