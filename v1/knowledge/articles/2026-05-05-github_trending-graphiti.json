@@ -1,0 +1,24 @@
+{
+  "id": "a8d4476a-be91-40c7-9419-a27e9205347d",
+  "title": "graphiti",
+  "source": "github_trending",
+  "source_url": "https://github.com/getzep/graphiti",
+  "summary": "为 Agent 构建实时知识图谱，增强记忆和检索能力，解决 Agent 记忆痛点。",
+  "tech_stack": [
+    "Python",
+    "Neo4j",
+    "LangChain"
+  ],
+  "problem_solved": "Agent 缺乏持久化记忆能力的问题",
+  "why_valuable": "RAG 进化方向，知识图谱增强检索",
+  "tags": [
+    "agent",
+    "knowledge-graph",
+    "rag",
+    "memory"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dc4f96ca-a53f-40cc-a711-9697fba83c25",
+  "title": "mlflow",
+  "source": "github_trending",
+  "source_url": "https://github.com/mlflow/mlflow",
+  "summary": "AI 工程平台，覆盖 ML/LLM 全生命周期管理，支持模型注册、实验追踪。",
+  "tech_stack": [
+    "Python",
+    "Databricks",
+    "ML"
+  ],
+  "problem_solved": "ML/LLM 模型全生命周期管理难题",
+  "why_valuable": "25k stars，MLOps 领域标杆",
+  "tags": [
+    "mlops",
+    "llmops",
+    "model-management",
+    "monitoring"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

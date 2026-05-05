@@ -1,0 +1,220 @@
+{
+  "summary_date": "2026-05-05",
+  "source_file": "github-trending-2026-05-05.json",
+  "item_count": 15,
+  "items": [
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": " Autonomous Agent 先驱项目，将复杂任务拆解为子任务并自动执行。",
+      "tech_highlights": [
+        "183k stars，开创 autonomous agent 范式",
+        "支持多模型接入：GPT-4、Claude、Local LLM",
+        "丰富插件生态，覆盖网页搜索、文件处理、代码执行等场景"
+      ],
+      "score": 9,
+      "score_reason": "开创性项目，定义 Agent 标准形态，生态成熟，star 数量说明一切。",
+      "tags": ["agent", "autonomous-agent", "llm", "openai"]
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "summary": "SD Web UI 提供强大生图界面，插件丰富，社区活跃。",
+      "tech_highlights": [
+        "162k stars，AI 生图领域最热门项目",
+        "支持 WebUI 扩展生态，插件数量超过 200+",
+        "提供一站式生图解决方案，降低 AI 绘图门槛"
+      ],
+      "score": 8,
+      "score_reason": "用户体量巨大，生态完善，是 AI 图像生成的事实标准界面。",
+      "tags": ["diffusion", "image-generation", "stable-diffusion", "webui"]
+    },
+    {
+      "name": "transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Hugging Face 核心框架，支持多模态模型推理与训练。",
+      "tech_highlights": [
+        "160k stars，NLP/CV 领域最具影响力项目",
+        "统一 API 支持 100+ 预训练模型",
+        "兼容 PyTorch/TensorFlow/JAX 三框架"
+      ],
+      "score": 9,
+      "score_reason": "行业基础设施级别项目，定义模型调用标准，大模型时代必备工具。",
+      "tags": ["deep-learning", "huggingface", "nlp", "transformer"]
+    },
+    {
+      "name": "langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "summary": "可视化 Agent 工作流构建工具，降低 AI 应用开发门槛。",
+      "tech_highlights": [
+        "147k stars，LangFlow 官方可视化编排工具",
+        "拖拽式界面，无需编码即可构建复杂 AI 流程",
+        "支持多 Agent 协作和 RAG 流程"
+      ],
+      "score": 7,
+      "score_reason": "可视化降低门槛，与 LangChain 生态深度集成，适合快速原型。",
+      "tags": ["agent", "langchain", "rag", "visual-flow"]
+    },
+    {
+      "name": "langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "LLM 应用开发框架，Python/TS 双语言支持，生态完善。",
+      "tech_highlights": [
+        "135k stars，LLM 应用开发事实标准框架",
+        "Python + TypeScript 双语言支持，适用全栈开发",
+        "丰富组件：Chain、Agent、Memory、RAG 一应俱全"
+      ],
+      "score": 8,
+      "score_reason": "生态完整，文档丰富，是 LLM 应用开发的首选框架。",
+      "tags": ["agent", "langchain", "llm", "rag"]
+    },
+    {
+      "name": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "自托管 LLM 界面，支持 Ollama/OpenAI API 等多后端。",
+      "tech_highlights": [
+        "135k stars，自托管 AI 界面最受欢迎方案",
+        "支持 Ollama、OpenAI API、Azure OpenAI 等多后端",
+        "开箱即用，部署简单，社区活跃"
+      ],
+      "score": 7,
+      "score_reason": "解决自托管痛点，实用性强，适合私有化部署场景。",
+      "tags": ["llm", "ollama", "open-webui", "self-hosted"]
+    },
+    {
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "多模型支持的开源 Agent 框架，扩展性强。",
+      "tech_highlights": [
+        "133k stars， NousResearch 出品的 Agent 框架",
+        "支持 Claude、ChatGPT、Mol 等多模型",
+        "与 OpenClaw 生态深度集成"
+      ],
+      "score": 7,
+      "score_reason": "多模型支持灵活，框架扩展性好，社区活跃。",
+      "tags": ["agent", "claude", "llm", "openai"]
+    },
+    {
+      "name": "ollama",
+      "url": "https://github.com/ollama/ollama",
+      "summary": "本地 LLM 运行工具，一键部署开源模型到本地。",
+      "tech_highlights": [
+        "132k stars，本地大模型运行最流行方案",
+        "支持 Llama、Mistral、Qwen 等 100+ 模型",
+        "一条命令即可运行模型，极简体验"
+      ],
+      "score": 8,
+      "score_reason": "本地 LLM 普及的关键项目，让大模型运行触手可及。",
+      "tags": ["local-llm", "llama", "mistral", "ollama"]
+    },
+    {
+      "name": "AnythingLLM",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "summary": "全栈知识管理方案，支持 RAG 和 Agent，私有化部署。",
+      "tech_highlights": [
+        "120k stars，私有化 AI 知识库完整解决方案",
+        "支持多向量数据库（Milvus、Pinecone 等）",
+        "提供桌面和 Docker 部署，开箱即用"
+      ],
+      "score": 7,
+      "score_reason": "私有化需求旺盛，项目解决实际问题，落地性强。",
+      "tags": ["knowledge-base", "llm", "rag", "self-hosted"]
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://github.com/acheong08/ChatGPT",
+      "summary": "逆向 ChatGPT 协议，支持多种后端的 Python 库。",
+      "tech_highlights": [
+        "108k stars，逆向工程 ChatGPT API 先驱项目",
+        "支持多种后端：OpenAI、Azure、Bing等",
+        "提供 Python 异步客户端，接口友好"
+      ],
+      "score": 6,
+      "score_reason": "技术上有意思，但使用场景受限，官方 API 越来越成熟。",
+      "tags": ["chatgpt", "openai", "python", "reverse-engineering"]
+    },
+    {
+      "name": "local.ai",
+      "url": "https://github.com/thest区/local.ai",
+      "summary": "本地 AI 推理聚合平台，简化本地模型部署。",
+      "tech_highlights": [
+        "105k stars，本地推理聚合方案",
+        "统一接口支持多种推理后端",
+        "适合隐私敏感和成本控制场景"
+      ],
+      "score": 6,
+      "score_reason": "解决本地部署痛点，但 Ollama 生态更成熟。",
+      "tags": ["inference", "local-ai", "llm", "self-hosted"]
+    },
+    {
+      "name": "agenticSeek",
+      "url": "https://github.com/Fosowl/agenticSeek",
+      "summary": "完全本地化的自主 Agent，无需 API 费用，代码即服务。",
+      "tech_highlights": [
+        "基于 DeepSeek-R1，完全本地运行",
+        "无需任何 API 费用，仅耗电",
+        "支持网页浏览、代码编写等自主任务"
+      ],
+      "score": 7,
+      "score_reason": "本地 Agent 方向有价值探索，成本优势明显，技术方案新颖。",
+      "tags": ["agentic-ai", "autonomous-agent", "deepseek", "local-llm"]
+    },
+    {
+      "name": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "summary": "OpenAI 开源的多 Agent 框架，轻量级功能强大。",
+      "tech_highlights": [
+        "OpenAI 官方出品，质量有保证",
+        "支持多 Agent 协作和复杂任务编排",
+        "Python 实现，学习成本低"
+      ],
+      "score": 7,
+      "score_reason": "官方框架有背书，架构清晰，但相对较新，生态待完善。",
+      "tags": ["agent", "framework", "llm", "openai"]
+    },
+    {
+      "name": "mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "summary": "AI 工程平台，覆盖 ML/LLM 全生命周期管理。",
+      "tech_highlights": [
+        "25k stars，Databricks 出品的 ML 平台",
+        "支持模型注册、实验追踪、服务部署",
+        "与主流云平台和 ML 框架深度集成"
+      ],
+      "score": 7,
+      "score_reason": "MLOps 领域标杆，解决模型管理老大难问题，适合企业级场景。",
+      "tags": ["mlops", "llmops", "model-management", "monitoring"]
+    },
+    {
+      "name": "graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "summary": "为 Agent 构建实时知识图谱，增强记忆和检索能力。",
+      "tech_highlights": [
+        "构建知识图谱实现 Agent 记忆持久化",
+        "支持时间维度检索，适合时序场景",
+        "与 LangChain 无缝集成"
+      ],
+      "score": 7,
+      "score_reason": "RAG 进化方向，解决 Agent 记忆痛点，概念新颖落地可行。",
+      "tags": ["agent", "knowledge-graph", "rag", "memory"]
+    }
+  ],
+  "trends": {
+    "common_themes": [
+      "Agent",
+      "本地 LLM",
+      "RAG",
+      "自托管"
+    ],
+    "new_concepts": [
+      "Agentic AI",
+      "本地 Agent",
+      "知识图谱增强 RAG"
+    ],
+    "notable_changes": [
+      "本地运行大模型成主流",
+      "Agent 框架从概念走向落地",
+      "私有化部署需求爆发"
+    ]
+  }
+}

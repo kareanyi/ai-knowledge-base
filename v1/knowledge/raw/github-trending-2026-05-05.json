@@ -1,0 +1,127 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-05T10:30:00Z",
+  "items": [
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT 致力于让 AI 变得人人可用，其目标是提供工具让开发者专注于重要的事情。作为 autonomous agent 先驱项目，支持自然语言指令执行复杂任务。",
+      "stars": 183996,
+      "language": "Python",
+      "topics": ["agentic-ai", "agents", "ai", "autonomous-agents", "llm"]
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "summary": "Stable Diffusion Web UI 提供了强大的 AI 生图 Web 界面，支持文本生成图像、图像转图像等多种功能，是目前最流行的 AI 图像生成工具之一。",
+      "stars": 162726,
+      "language": "Python",
+      "topics": ["ai", "ai-art", "deep-learning", "diffusion", "image-generation"]
+    },
+    {
+      "name": "transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Hugging Face Transformers 是当前最核心的模型定义框架，支持文本、视觉、音频等多模态模型推理与训练，兼容 PyTorch、TensorFlow 等主流深度学习框架。",
+      "stars": 160265,
+      "language": "Python",
+      "topics": ["deep-learning", "llm", "machine-learning", "nlp", "transformer"]
+    },
+    {
+      "name": "langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "summary": "Langflow 是一个强大的可视化工具，用于构建和部署 AI Agent 及工作流，通过拖拽方式降低 AI 应用开发门槛。",
+      "stars": 147705,
+      "language": "Python",
+      "topics": ["agents", "chatgpt", "generative-ai", "large-language-models", "multiagent"]
+    },
+    {
+      "name": "langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "Langchain 是 Agent 工程平台，支持 Python 和 TypeScript，提供 RAG、Agent、多模态等能力，是 LLM 应用开发的事实标准框架。",
+      "stars": 135827,
+      "language": "Python",
+      "topics": ["agents", "ai", "ai-agents", "langchain", "llm", "rag"]
+    },
+    {
+      "name": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "Open WebUI 是用户友好的 AI 界面，支持 Ollama、OpenAI API 等多种后端，提供自托管 LLM UI 解决方案。",
+      "stars": 135585,
+      "language": "Python",
+      "topics": ["llm", "llm-ui", "ollama", "open-webui", "self-hosted"]
+    },
+    {
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent 是与用户共同成长的 AI Agent，支持 Claude、ChatGPT 等多模型，作为开源 Agent 框架具有高度扩展性。",
+      "stars": 133563,
+      "language": "Python",
+      "topics": ["ai-agent", "ai-agents", "claude", "llm", "openai"]
+    },
+    {
+      "name": "ollama",
+      "url": "https://github.com/ollama/ollama",
+      "summary": "Ollama 让本地运行大语言模型变得简单，支持 Llama、Mistral 等多种开源模型，一键部署体验强大 LLM 能力。",
+      "stars": 132589,
+      "language": "Go",
+      "topics": ["llama", "llm", "local-llm", "mistral", "ollama"]
+    },
+    {
+      "name": "AnythingLLM",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "summary": "AnythingLLM 是全栈 AI 知识管理方案，支持 RAG、Agent 功能，可接入多种 LLM，提供完整的私有化 AI 应用部署。",
+      "stars": 120532,
+      "language": "JavaScript",
+      "topics": ["embeddings", "llm", "local-llm", "ollama", "rag"]
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://github.com/acheong08/ChatGPT",
+      "summary": "ChatGPT 逆向工程库，支持多种后端模型，为开发者提供调用 OpenAI API 的替代方案，具有高度灵活性。",
+      "stars": 108000,
+      "language": "Python",
+      "topics": ["ai", "chatbot", "chatgpt", "openai", "python"]
+    },
+    {
+      "name": "local.ai",
+      "url": "https://github.com/thest区/local.ai",
+      "summary": "Local.ai 提供本地化 AI 推理方案，在本地运行各类开源模型，适合注重隐私和成本控制的应用场景。",
+      "stars": 105000,
+      "language": "Go",
+      "topics": ["ai", "local-ai", "llm", "self-hosted", "inference"]
+    },
+    {
+      "name": "agenticSeek",
+      "url": "https://github.com/Fosowl/agenticSeek",
+      "summary": "agenticSeek 是完全本地化的 Manus AI 方案，无需 API 付费，仅需电费即可运行自主 Agent 执行浏览、编码等任务。",
+      "stars": 26207,
+      "language": "Python",
+      "topics": ["agentic-ai", "autonomous-agents", "deepseek-r1", "llm", "voice-assistant"]
+    },
+    {
+      "name": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "summary": "OpenAI 开源的多 Agent 工作流框架，轻量级但功能强大，支持多 Agent 协作和复杂任务编排。",
+      "stars": 25896,
+      "language": "Python",
+      "topics": ["agents", "ai", "framework", "llm", "openai"]
+    },
+    {
+      "name": "mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "summary": "MLflow 是 AI 工程开源平台，支持 Agent、LLM 和 ML 模型的调试、评估、监控与成本控制，适合团队协作。",
+      "stars": 25731,
+      "language": "Python",
+      "topics": ["agentops", "agents", "ai", "llmops", "mlops", "model-management"]
+    },
+    {
+      "name": "graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "summary": "Graphiti 为 AI Agent 构建实时知识图谱，支持 RAG 场景下的动态知识更新与检索，提升 Agent 的记忆能力。",
+      "stars": 25698,
+      "language": "Python",
+      "topics": ["agents", "graph", "llms", "rag"]
+    }
+  ]
+}

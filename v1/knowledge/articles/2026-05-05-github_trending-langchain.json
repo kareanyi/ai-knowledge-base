@@ -1,0 +1,24 @@
+{
+  "id": "6ea7daf3-4187-455b-8e5d-a8bcdde57f06",
+  "title": "langchain",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "summary": "LLM 应用开发框架，Python/TS 双语言支持，RAG、Agent 组件一应俱全。",
+  "tech_stack": [
+    "Python",
+    "TypeScript",
+    "LLM"
+  ],
+  "problem_solved": "LLM 应用开发缺少统一框架的问题",
+  "why_valuable": "135k stars，LLM 应用开发事实标准框架",
+  "tags": [
+    "agent",
+    "langchain",
+    "llm",
+    "rag"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

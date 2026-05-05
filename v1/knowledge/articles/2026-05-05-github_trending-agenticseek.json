@@ -1,0 +1,24 @@
+{
+  "id": "36aa37fd-776e-4589-8231-15844d697c4b",
+  "title": "agenticSeek",
+  "source": "github_trending",
+  "source_url": "https://github.com/Fosowl/agenticSeek",
+  "summary": "完全本地化的自主 Agent，基于 DeepSeek-R1，无需 API 费用，仅耗电。",
+  "tech_stack": [
+    "Python",
+    "DeepSeek-R1",
+    "Browser"
+  ],
+  "problem_solved": "API 费用高昂的 Agent 使用成本问题",
+  "why_valuable": "完全本地运行，成本优势明显",
+  "tags": [
+    "agentic-ai",
+    "autonomous-agent",
+    "deepseek",
+    "local-llm"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

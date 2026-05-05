@@ -1,0 +1,24 @@
+{
+  "id": "80ff9432-ae25-4360-ad47-783c5fbd1b33",
+  "title": "open-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "summary": "自托管 LLM 界面，支持 Ollama/OpenAI API 等多后端，开箱即用。",
+  "tech_stack": [
+    "Python",
+    "Ollama",
+    "Svelte"
+  ],
+  "problem_solved": "私有化部署 LLM 界面的需求",
+  "why_valuable": "135k stars，自托管 AI 界面最受欢迎方案",
+  "tags": [
+    "llm",
+    "ollama",
+    "open-webui",
+    "self-hosted"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

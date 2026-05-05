@@ -1,0 +1,24 @@
+{
+  "id": "76619738-bb01-4996-a9e3-43a7ac5959c2",
+  "title": "AnythingLLM",
+  "source": "github_trending",
+  "source_url": "https://github.com/Mintplex-Labs/anything-llm",
+  "summary": "全栈知识管理方案，支持 RAG 和 Agent，私有化部署，开箱即用。",
+  "tech_stack": [
+    "JavaScript",
+    "Electron",
+    "Milvus"
+  ],
+  "problem_solved": "企业私有化 AI 知识库需求",
+  "why_valuable": "120k stars，私有化 AI 知识库完整解决方案",
+  "tags": [
+    "knowledge-base",
+    "llm",
+    "rag",
+    "self-hosted"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

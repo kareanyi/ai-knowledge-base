@@ -1,0 +1,23 @@
+{
+  "id": "2b4e57a1-2261-4edb-8c25-d73c6e587e1e",
+  "title": "openai-agents-python",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/openai-agents-python",
+  "summary": "OpenAI 开源的多 Agent 框架，支持多 Agent 协作和复杂任务编排。",
+  "tech_stack": [
+    "Python",
+    "OpenAI API"
+  ],
+  "problem_solved": "多 Agent 协作框架需求",
+  "why_valuable": "OpenAI 官方出品，质量有保证",
+  "tags": [
+    "agent",
+    "framework",
+    "llm",
+    "openai"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

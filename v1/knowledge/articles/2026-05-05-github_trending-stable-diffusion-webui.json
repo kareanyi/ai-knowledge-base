@@ -1,0 +1,24 @@
+{
+  "id": "22401a6f-2f53-4b33-916b-0bb90bdcb942",
+  "title": "stable-diffusion-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "summary": "SD Web UI 提供强大生图界面，插件丰富社区活跃，降低 AI 绘图门槛。",
+  "tech_stack": [
+    "Python",
+    "Stable Diffusion",
+    "Gradio"
+  ],
+  "problem_solved": "让 AI 图像生成变得人人可用的 Web 界面",
+  "why_valuable": "162k stars，AI 生图领域最热门项目",
+  "tags": [
+    "diffusion",
+    "image-generation",
+    "stable-diffusion",
+    "webui"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

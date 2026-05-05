@@ -1,0 +1,24 @@
+{
+  "id": "39eada13-8cfc-44b9-b9e4-bbb21c29ac45",
+  "title": "langflow",
+  "source": "github_trending",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "summary": "可视化 Agent 工作流构建工具，拖拽式界面降低 AI 应用开发门槛。",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "React"
+  ],
+  "problem_solved": "无需编码即可构建复杂 AI 工作流",
+  "why_valuable": "147k stars，LangChain 官方可视化编排工具",
+  "tags": [
+    "agent",
+    "langchain",
+    "rag",
+    "visual-flow"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

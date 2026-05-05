@@ -1,0 +1,24 @@
+{
+  "id": "c26c8f98-c8f3-473a-a373-40257d0fcb58",
+  "title": "ChatGPT",
+  "source": "github_trending",
+  "source_url": "https://github.com/acheong08/ChatGPT",
+  "summary": "逆向 ChatGPT 协议，支持多种后端的 Python 库，提供灵活调用方案。",
+  "tech_stack": [
+    "Python",
+    "OpenAI",
+    "Azure"
+  ],
+  "problem_solved": "调用 ChatGPT API 的替代方案需求",
+  "why_valuable": "108k stars，逆向工程 ChatGPT API 先驱项目",
+  "tags": [
+    "chatgpt",
+    "openai",
+    "python",
+    "reverse-engineering"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

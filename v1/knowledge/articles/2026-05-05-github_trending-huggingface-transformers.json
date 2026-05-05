@@ -1,0 +1,24 @@
+{
+  "id": "5a18b18e-9644-42ff-b62e-44ae487dec3e",
+  "title": "transformers",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/transformers",
+  "summary": "Hugging Face 核心框架，支持多模态模型推理与训练，兼容主流深度学习框架。",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "problem_solved": "统一模型调用接口，降低大模型使用门槛",
+  "why_valuable": "160k stars，NLP/CV 领域最具影响力项目",
+  "tags": [
+    "deep-learning",
+    "huggingface",
+    "nlp",
+    "transformer"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}

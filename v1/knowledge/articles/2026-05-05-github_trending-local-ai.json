@@ -1,0 +1,24 @@
+{
+  "id": "85ccb547-88fb-4f50-a407-89fc8a19182a",
+  "title": "local.ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/localai-project/local-ai",
+  "summary": "本地 AI 推理聚合平台，统一接口支持多种推理后端，适合隐私敏感场景。",
+  "tech_stack": [
+    "Go",
+    "Docker",
+    "LLM"
+  ],
+  "problem_solved": "本地推理缺乏统一界面",
+  "why_valuable": "105k stars，本地推理聚合方案",
+  "tags": [
+    "inference",
+    "local-ai",
+    "llm",
+    "self-hosted"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-05-05T10:30:00Z",
+  "updated_at": "2026-05-05T10:30:00Z",
+  "published_to": []
+}
