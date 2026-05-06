@@ -10,6 +10,7 @@ import time
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
 from typing import Any, ClassVar
+from collections import defaultdict
 
 import httpx
 
@@ -29,6 +30,105 @@ class LLMResponse:
     content: str
     usage: dict[str, int] = field(default_factory=dict)
     raw_response: dict[str, Any] = field(default_factory=dict)
+
+
+class CostTracker:
+    """追踪 LLM 调用的 token 消耗和成本。
+
+    Attributes:
+        PRICING: 国产模型价格表，单位：元/百万 tokens。
+    """
+
+    PRICING: ClassVar[dict[str, tuple[float, float]]] = {
+        "deepseek": (1.0, 2.0),
+        "qwen": (4.0, 12.0),
+        "minimax": (2.1, 8.4),
+        "minimax2.7": (2.1, 8.4),
+    }
+
+    def __init__(self) -> None:
+        self._input_tokens: defaultdict[str, int] = defaultdict(int)
+        self._output_tokens: defaultdict[str, int] = defaultdict(int)
+        self._call_counts: defaultdict[str, int] = defaultdict(int)
+
+    def record(self, usage: dict[str, int], provider: str) -> None:
+        """记录一次 API 调用。
+
+        Args:
+            usage: token 使用量，包含 prompt_tokens/completion_tokens 或 input_tokens/output_tokens。
+            provider: 提供商名称。
+        """
+        name = provider.lower().replace("provider", "").strip()
+        self._input_tokens[name] += usage.get("prompt_tokens", usage.get("input_tokens", 0))
+        self._output_tokens[name] += usage.get("completion_tokens", usage.get("output_tokens", 0))
+        self._call_counts[name] += 1
+
+    def estimated_cost(self, provider: str | None = None) -> float:
+        """返回估算成本（元）。
+
+        Args:
+            provider: 提供商名称，为 None 则汇总所有提供商。
+
+        Returns:
+            估算成本（元）。
+        """
+        def normalize(name: str) -> str:
+            return name.lower().replace("provider", "").strip()
+
+        if provider:
+            name = normalize(provider)
+            input_price, output_price = self.PRICING.get(name, (2.1, 8.4))
+            input_tokens = self._input_tokens[name]
+            output_tokens = self._output_tokens[name]
+            return (input_tokens * input_price + output_tokens * output_price) / 1_000_000
+
+        total = 0.0
+        for name in self._input_tokens:
+            input_price, output_price = self.PRICING.get(name, (2.1, 8.4))
+            total += (self._input_tokens[name] * input_price + self._output_tokens[name] * output_price) / 1_000_000
+        return total
+
+    def report(self, provider: str | None = None) -> None:
+        """打印成本报告。
+
+        Args:
+            provider: 提供商名称，为 None 则打印所有提供商的汇总报告。
+        """
+        def normalize(name: str) -> str:
+            return name.lower().replace("provider", "").strip()
+
+        if provider:
+            name = normalize(provider)
+            input_t = self._input_tokens.get(name, 0)
+            output_t = self._output_tokens.get(name, 0)
+            cost = self.estimated_cost(name)
+            logger.info(
+                "[CostTracker] %s - calls: %d, input: %d tokens, output: %d tokens, cost: ¥%.4f",
+                name,
+                self._call_counts.get(name, 0),
+                input_t,
+                output_t,
+                cost,
+            )
+        else:
+            for name in self._input_tokens:
+                input_t = self._input_tokens[name]
+                output_t = self._output_tokens[name]
+                cost = self.estimated_cost(name)
+                logger.info(
+                    "[CostTracker] %s - calls: %d, input: %d tokens, output: %d tokens, cost: ¥%.4f",
+                    name,
+                    self._call_counts.get(name, 0),
+                    input_t,
+                    output_t,
+                    cost,
+                )
+            total_cost = self.estimated_cost()
+            total_calls = sum(self._call_counts.values())
+            logger.info("[CostTracker] TOTAL - calls: %d, cost: ¥%.4f", total_calls, total_cost)
+
+
+tracker = CostTracker()
 
 
 class LLMProvider(ABC):
@@ -103,9 +203,13 @@ class OpenAICompatibleProvider(LLMProvider):
         if choices and len(choices) > 0:
             content = choices[0].get("message", {}).get("content", "")
 
+        usage = data.get("usage", {})
+        if usage:
+            tracker.record(usage, self.name)
+
         return LLMResponse(
             content=content,
-            usage=data.get("usage", {}),
+            usage=usage,
             raw_response=data,
         )
 
@@ -166,6 +270,8 @@ class AnthropicCompatibleProvider(LLMProvider):
             "input_tokens": data.get("usage", {}).get("input_tokens", 0),
             "output_tokens": data.get("usage", {}).get("output_tokens", 0),
         }
+        if usage.get("input_tokens") or usage.get("output_tokens"):
+            tracker.record(usage, self.name)
 
         return LLMResponse(
             content=content,

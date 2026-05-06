@@ -26,7 +26,7 @@ from typing import Any
 
 import httpx
 
-from model_client import chat_with_retry
+from model_client import chat_with_retry, tracker
 
 logging.basicConfig(
     level=logging.INFO,
@@ -756,6 +756,8 @@ def main() -> int:
             import traceback
             traceback.print_exc()
         return 1
+    finally:
+        tracker.report()
 
 
 if __name__ == "__main__":
