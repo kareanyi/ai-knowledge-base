@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260506-003",
+  "source": "rss",
+  "source_url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+  "title": "Write some software, give it away for free",
+  "summary": "This appears to be an article discussing the philosophy or strategy of creating and distributing free software, possibly exploring the business rationale or personal motivations behind giving software away at no cost.",
+  "tech_stack": [
+    "General Software Development",
+    "Open Source"
+  ],
+  "problem_solved": "Exploring alternative software distribution models and the value proposition of free software in a commercial context.",
+  "why_valuable": "It challenges traditional software monetization assumptions and may offer insights into building user bases through generosity rather than paywalls.",
+  "tags": [
+    "Open Source",
+    "Software Business",
+    "Developer Culture",
+    "Free Software",
+    "Product Strategy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-05T23:54:49.433420+00:00",
+  "updated_at": "2026-05-06T00:00:37.765716+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-004",
+  "source": "github",
+  "source_url": "https://github.com/graykode/nlp-tutorial",
+  "title": "graykode/nlp-tutorial",
+  "summary": "A comprehensive NLP tutorial repository for deep learning researchers, featuring Jupyter Notebook implementations of popular NLP models including Transformers, BERT, and attention mechanisms using both PyTorch and TensorFlow frameworks.",
+  "tech_stack": [
+    "PyTorch",
+    "TensorFlow",
+    "Python",
+    "Jupyter Notebook",
+    "Deep Learning"
+  ],
+  "problem_solved": "Bridges the gap between theoretical NLP/deep learning concepts and practical implementation for researchers and developers.",
+  "why_valuable": "Provides well-documented, beginner-friendly code implementations of cutting-edge NLP models, making complex architectures accessible through hands-on learning.",
+  "tags": [
+    "NLP",
+    "Deep Learning",
+    "Transformer",
+    "BERT",
+    "Tutorial"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:51:10.404180+00:00",
+  "updated_at": "2026-05-06T00:00:37.756883+00:00",
+  "published_to": []
+}

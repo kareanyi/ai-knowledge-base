@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-005",
+  "source": "rss",
+  "source_url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+  "title": ".de TLD offline due to DNSSEC?",
+  "summary": ".de 德国国家顶级域名因 DNSSEC 配置错误导致大规模服务中断，影响数百万网站和用户访问。Verisign 的 DNSSEC 分析工具检测到 nic.de 的签名验证失败，这是一个全球性 DNS 基础设施安全问题的典型案例。",
+  "tech_stack": [
+    "DNS",
+    "DNSSEC",
+    "TLD Infrastructure",
+    "DNSSEC Analyzer"
+  ],
+  "problem_solved": "揭示了 DNSSEC 配置错误如何导致整个国家顶级域名离线，影响全球互联网可达性。",
+  "why_valuable": "提醒域名运营商 DNSSEC 配置的正确性和持续监控的重要性，一次错误配置可能导致国家级别的服务中断。",
+  "tags": [
+    "DNS",
+    "DNSSEC",
+    "TLD",
+    "Infrastructure",
+    "Outage"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:55:03.267994+00:00",
+  "updated_at": "2026-05-06T00:00:37.766066+00:00",
+  "published_to": []
+}

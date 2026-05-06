@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-007",
+  "source": "github",
+  "source_url": "https://github.com/clips/pattern",
+  "title": "clips/pattern",
+  "summary": "A comprehensive Python web mining library that combines tools for web scraping, natural language processing, machine learning, network analysis, and data visualization into a single, easy-to-use package.",
+  "tech_stack": [
+    "Python",
+    "Natural Language Processing",
+    "Machine Learning",
+    "Network Analysis",
+    "Web Scraping"
+  ],
+  "problem_solved": "Eliminates the need to combine multiple libraries by providing an all-in-one solution for web data extraction, text analysis, and network visualization in Python.",
+  "why_valuable": "With nearly 9,000 stars, it offers a mature, well-documented toolkit that makes complex web mining and NLP tasks accessible through a unified API.",
+  "tags": [
+    "web-mining",
+    "natural-language-processing",
+    "sentiment-analysis",
+    "network-analysis",
+    "python"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:51:42.552614+00:00",
+  "updated_at": "2026-05-06T00:00:37.757448+00:00",
+  "published_to": []
+}

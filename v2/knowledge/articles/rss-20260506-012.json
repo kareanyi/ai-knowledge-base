@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-012",
+  "source": "rss",
+  "source_url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+  "title": "Computer Use is 45x more expensive than structured APIs",
+  "summary": "This article analyzes and compares the cost differences between AI 'computer use' capabilities (where AI agents interact with computers like humans) and traditional structured APIs, finding that computer use is approximately 45x more expensive. It provides practical cost benchmarks for developers building AI-powered applications.",
+  "tech_stack": [
+    "Python",
+    "AI/LLM",
+    "APIs",
+    "Web Development",
+    "Anthropic Claude"
+  ],
+  "problem_solved": "Addresses the knowledge gap around cost implications of choosing AI computer use versus structured API approaches for application development.",
+  "why_valuable": "Provides concrete cost data that helps developers and organizations make informed architectural decisions when implementing AI features in their applications.",
+  "tags": [
+    "AI Agents",
+    "Cost Analysis",
+    "LLM",
+    "API Design",
+    "Computer Use"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:56:24.868121+00:00",
+  "updated_at": "2026-05-06T00:00:37.767350+00:00",
+  "published_to": []
+}

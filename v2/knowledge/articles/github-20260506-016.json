@@ -1,0 +1,24 @@
+{
+  "id": "github-20260506-016",
+  "source": "github",
+  "source_url": "https://github.com/google/lisp-koans",
+  "title": "google/lisp-koans",
+  "summary": "Common Lisp Koans is a structured, progressive learning exercise for Common Lisp, modeled after Ruby Koans and Python Koans. It uses broken unit tests that learners fix to progressively master Lisp features, making abstract concepts concrete through hands-on practice.",
+  "tech_stack": [
+    "Common Lisp"
+  ],
+  "problem_solved": "Provides a guided, interactive way for developers to learn Common Lisp syntax and idioms step by step.",
+  "why_valuable": "Transforms language learning into an engaging, test-driven experience where learners actively fix broken code rather than passively reading documentation.",
+  "tags": [
+    "Common Lisp",
+    "Koans",
+    "Learning",
+    "TDD",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:53:42.941474+00:00",
+  "updated_at": "2026-05-06T00:00:37.764603+00:00",
+  "published_to": []
+}

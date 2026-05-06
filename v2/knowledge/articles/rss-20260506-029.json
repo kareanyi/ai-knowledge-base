@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-029",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
+  "title": "GPT-5.5 is OpenAI&#8217;s most capable agentic AI model yet",
+  "summary": "OpenAI launched GPT-5.5 on April 23 as a new class of agentic AI model designed specifically for autonomous task execution, featuring built-in capabilities for planning, tool usage, self-verification, and independent problem-solving.",
+  "tech_stack": [
+    "OpenAI API",
+    "GPT-5.5",
+    "Agentic AI Framework",
+    "LLM"
+  ],
+  "problem_solved": "Enables AI agents to autonomously handle complex multi-step tasks without requiring constant human supervision or intervention.",
+  "why_valuable": "Provides the most capable agentic AI model to date, allowing businesses to build more sophisticated autonomous workflows and AI agents for real-world applications.",
+  "tags": [
+    "Agentic AI",
+    "OpenAI",
+    "GPT-5.5",
+    "Autonomous AI",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-06T00:00:02.729958+00:00",
+  "updated_at": "2026-05-06T00:00:37.770548+00:00",
+  "published_to": []
+}

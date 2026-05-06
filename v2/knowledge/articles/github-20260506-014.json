@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-014",
+  "source": "github",
+  "source_url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+  "title": "aadi1011/AI-ML-Roadmap-from-scratch",
+  "summary": "A comprehensive learning roadmap repository covering AI, ML, Generative AI, Deep Learning, Data Science, NLP, and Reinforcement Learning from beginner to advanced levels. It serves as a structured guide for anyone wanting to build AI/ML skills from scratch.",
+  "tech_stack": [
+    "Machine Learning",
+    "Deep Learning",
+    "Generative AI",
+    "Natural Language Processing",
+    "Reinforcement Learning"
+  ],
+  "problem_solved": "Addresses the challenge of navigating the complex and vast landscape of AI/ML learning by providing a structured 0 to 100 curriculum.",
+  "why_valuable": "Offers an organized, all-in-one resource that eliminates decision fatigue for learners by consolidating paths for multiple AI subfields into a single roadmap.",
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Roadmap",
+    "Deep Learning",
+    "Data Science"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:53:08.838138+00:00",
+  "updated_at": "2026-05-06T00:00:37.764233+00:00",
+  "published_to": []
+}

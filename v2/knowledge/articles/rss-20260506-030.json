@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-030",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
+  "title": "IBM launches AI platform Bob to regulate SDLC costs",
+  "summary": "IBM推出了名为Bob的AI平台，旨在监管软件开发生命周期(SDLC)成本和企业工程治理，解决技术债务、混合云结构和合规要求与AI编码助手快速发展之间的冲突。",
+  "tech_stack": [
+    "AI Platform",
+    "Enterprise Software",
+    "Hybrid Cloud",
+    "SDLC Governance"
+  ],
+  "problem_solved": "解决企业软件工程中技术债务堆积、混合云架构复杂性和合规要求与AI编码助手快速输出之间的成本失控问题。",
+  "why_valuable": "为企业提供了在快速AI辅助开发时代管控工程成本和治理风险的可行方案。",
+  "tags": [
+    "IBM",
+    "AI Platform",
+    "SDLC",
+    "Cost Management",
+    "Enterprise Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-06T00:00:18.053023+00:00",
+  "updated_at": "2026-05-06T00:00:37.770723+00:00",
+  "published_to": []
+}

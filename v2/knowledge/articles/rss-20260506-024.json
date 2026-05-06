@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-024",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+  "title": "Per-token AI charges come to GitHub Copilot",
+  "summary": "GitHub Copilot is transitioning from a flat-rate subscription model to a per-token pricing structure starting June 1st, 2026, replacing the current system that provided a set number of 'Premium Requests' with more granular usage-based billing.",
+  "tech_stack": [
+    "GitHub Copilot",
+    "AI",
+    "Token-based Pricing",
+    "GitHub",
+    "OpenAI"
+  ],
+  "problem_solved": "Addresses the need for more flexible, usage-based pricing for AI coding assistance tools instead of fixed monthly subscriptions.",
+  "why_valuable": "Provides developers with more cost-effective options by allowing them to pay only for what they use rather than a fixed monthly fee.",
+  "tags": [
+    "AI Coding",
+    "GitHub",
+    "Pricing Model",
+    "Developer Tools",
+    "Subscription"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:58:27.726411+00:00",
+  "updated_at": "2026-05-06T00:00:37.769624+00:00",
+  "published_to": []
+}

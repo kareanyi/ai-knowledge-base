@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-014",
+  "source": "rss",
+  "source_url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+  "title": "I'm scared about biological computing",
+  "summary": "A personal reflection expressing concerns and fears about the emerging field of biological computing, questioning its safety, ethics, and long-term implications for humanity.",
+  "tech_stack": [
+    "Biological Computing",
+    "Synthetic Biology",
+    "DNA Computing",
+    "Biotechnology"
+  ],
+  "problem_solved": "Addresses the lack of public discourse around the ethical and safety concerns of biological computing technology.",
+  "why_valuable": "Provides a human-centered perspective on emerging biotech risks, encouraging critical dialogue about responsible innovation in a rapidly advancing field.",
+  "tags": [
+    "Biological Computing",
+    "Synthetic Biology",
+    "Technology Ethics",
+    "Risk Assessment",
+    "Biotech Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:56:44.200180+00:00",
+  "updated_at": "2026-05-06T00:00:37.767788+00:00",
+  "published_to": []
+}

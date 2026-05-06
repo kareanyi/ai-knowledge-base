@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260506-002",
+  "source": "rss",
+  "source_url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+  "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+  "summary": "NPR conducted an investigative report on Polymarket's corporate headquarters in Panama, discovering no physical presence of the prediction market company at the claimed address, raising questions about transparency and regulatory compliance.",
+  "tech_stack": [
+    "Blockchain",
+    "Smart Contracts",
+    "Ethereum"
+  ],
+  "problem_solved": "Investigates corporate transparency and legitimacy concerns regarding Polymarket's claimed Panama headquarters.",
+  "why_valuable": "Highlights the importance of verification in the crypto space and raises awareness about potential corporate opacity in prediction markets.",
+  "tags": [
+    "Cryptocurrency",
+    "Prediction Markets",
+    "Investigative Journalism",
+    "Blockchain",
+    "Corporate Transparency"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-05T23:54:39.322380+00:00",
+  "updated_at": "2026-05-06T00:00:37.765524+00:00",
+  "published_to": []
+}

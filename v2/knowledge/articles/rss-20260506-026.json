@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260506-026",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+  "title": "AI agent governance takes focus as regulators flag control gaps",
+  "summary": "Australia's financial regulator APRA has issued a warning to financial institutions about poor AI agent governance and assurance practices, following a targeted review of large regulated entities' AI adoption in late 2025. As banks and superannuation trustees expand AI deployment in internal operations and customer-facing services, regulators are flagging significant control gaps in how AI agents are governed.",
+  "tech_stack": [
+    "AI Agents",
+    "Regulatory Compliance Systems",
+    "Financial Technology"
+  ],
+  "problem_solved": "Addresses the lack of proper governance frameworks for AI agents deployed in regulated financial institutions.",
+  "why_valuable": "Highlights critical regulatory compliance risks as AI agents become more autonomous in sensitive financial operations.",
+  "tags": [
+    "AI Governance",
+    "Regulatory Compliance",
+    "Financial AI",
+    "AI Agents",
+    "Risk Management"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:59:16.122523+00:00",
+  "updated_at": "2026-05-06T00:00:37.769987+00:00",
+  "published_to": []
+}

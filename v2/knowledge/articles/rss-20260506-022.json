@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+  "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+  "summary": "Google announced the Gemini Enterprise Agent Platform at Google Cloud Next '26, positioning it as the successor to Vertex AI and making agentic AI governance a native product feature rather than an afterthought. While Google has taken this significant step, the article suggests enterprises are still struggling to catch up with the governance challenges posed by autonomous AI agents.",
+  "tech_stack": [
+    "Google Cloud",
+    "Gemini",
+    "Vertex AI",
+    "Agentic AI",
+    "Enterprise AI"
+  ],
+  "problem_solved": "Provides structured governance frameworks for autonomous AI agents in enterprise environments, addressing the oversight and control challenges that have plagued agentic AI deployments.",
+  "why_valuable": "By integrating governance natively into the platform, Google offers enterprises a standardized way to deploy, monitor, and control autonomous AI agents safely at scale.",
+  "tags": [
+    "Agentic AI",
+    "AI Governance",
+    "Google Cloud",
+    "Enterprise AI",
+    "Gemini"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:58:10.920182+00:00",
+  "updated_at": "2026-05-06T00:00:37.769247+00:00",
+  "published_to": []
+}

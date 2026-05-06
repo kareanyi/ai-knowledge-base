@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-013",
+  "source": "github",
+  "source_url": "https://github.com/elixirschool/elixirschool",
+  "title": "elixirschool/elixirschool",
+  "summary": "Elixir School is a premier open-source educational platform for learning the Elixir programming language, featuring structured lessons and translations in multiple languages to make Elixir accessible to developers worldwide.",
+  "tech_stack": [
+    "Elixir",
+    "Phoenix",
+    "EEx",
+    "Poison",
+    "HTTPoison"
+  ],
+  "problem_solved": "Provides structured, high-quality Elixir learning resources in multiple languages to address the lack of accessible educational materials for non-English speakers.",
+  "why_valuable": "Democratizes Elixir education through community-driven translated lessons, enabling global developers to learn the language regardless of their native language.",
+  "tags": [
+    "educational",
+    "elixir",
+    "open-source",
+    "learning",
+    "community"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-05T23:52:54.626557+00:00",
+  "updated_at": "2026-05-06T00:00:37.764056+00:00",
+  "published_to": []
+}

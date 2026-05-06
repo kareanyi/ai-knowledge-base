@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-012",
+  "source": "github",
+  "source_url": "https://github.com/umlx5h/LLPlayer",
+  "title": "umlx5h/LLPlayer",
+  "summary": "LLPlayer is a language learning media player built with C#/WPF that provides dual subtitle support, AI-generated subtitles using Whisper for automatic speech recognition, real-time translation powered by Ollama LLMs, and video downloading via yt-dlp.",
+  "tech_stack": [
+    "C#",
+    "WPF",
+    "Flyleaf",
+    "Whisper",
+    "Ollama"
+  ],
+  "problem_solved": "Enables language learners to watch videos with dual subtitles and get real-time AI translations directly in their media player.",
+  "why_valuable": "It combines multiple AI capabilities (ASR, translation) into a seamless video player experience, making authentic language learning content more accessible without manual subtitle creation.",
+  "tags": [
+    "language-learning",
+    "media-player",
+    "AI-subtitles",
+    "translation",
+    "video-player"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:52:44.820885+00:00",
+  "updated_at": "2026-05-06T00:00:37.763878+00:00",
+  "published_to": []
+}

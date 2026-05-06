@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-003",
+  "source": "github",
+  "source_url": "https://github.com/apache/brpc",
+  "title": "apache/brpc",
+  "summary": "Apache brpc是一个工业级C++ RPC框架，专为高性能场景（搜索、存储、机器学习、广告推荐等）设计，作为Apache顶级项目提供稳定可靠的分布式服务通信能力。",
+  "tech_stack": [
+    "C++",
+    "RPC",
+    "gRPC",
+    "Protocol Buffers",
+    "HTTP"
+  ],
+  "problem_solved": "解决大规模分布式系统中高效、可靠的服务间通信问题",
+  "why_valuable": "作为Apache顶级项目提供生产级的性能与稳定性，在百度等大型互联网公司有成熟落地经验",
+  "tags": [
+    "RPC",
+    "C++",
+    "Distributed System",
+    "High Performance",
+    "Apache"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-05T23:51:01.724131+00:00",
+  "updated_at": "2026-05-06T00:00:37.756699+00:00",
+  "published_to": []
+}

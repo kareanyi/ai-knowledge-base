@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-010",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+  "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+  "summary": "A historical anecdote from Raymond Chen's Microsoft blog about how IBM originally objected to Microsoft using the Tab key for keyboard navigation between dialog fields in early Windows versions, citing historical mainframe conventions where Tab had different meanings.",
+  "tech_stack": [
+    "Windows",
+    "Dialog Systems",
+    "Keyboard Navigation",
+    "IBM Mainframe"
+  ],
+  "problem_solved": "Clarifies the historical context behind why Tab key navigation became standard in Windows dialogs, resolving a disagreement between IBM and Microsoft design philosophies.",
+  "why_valuable": "Provides fascinating insight into the evolution of UI conventions and how major technical decisions were influenced by corporate disagreements during the early PC era.",
+  "tags": [
+    "Windows",
+    "UI Design",
+    "History",
+    "Keyboard",
+    "IBM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:56:08.745198+00:00",
+  "updated_at": "2026-05-06T00:00:37.766976+00:00",
+  "published_to": []
+}

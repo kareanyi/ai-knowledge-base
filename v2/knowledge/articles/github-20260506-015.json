@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-015",
+  "source": "github",
+  "source_url": "https://github.com/salmer/CppDeveloperRoadmap",
+  "title": "salmer/CppDeveloperRoadmap",
+  "summary": "A comprehensive GitBook-based learning roadmap for C++ developers that guides users from beginner to intermediate/advanced levels through a structured, self-paced curriculum covering core language features, best practices, and development tools.",
+  "tech_stack": [
+    "C++",
+    "GitBook",
+    "Markdown",
+    "Git",
+    "Modern C++"
+  ],
+  "problem_solved": "Provides a clear, structured learning path for C++ developers to systematically navigate the language's complexity from basics to advanced concepts.",
+  "why_valuable": "Eliminates learning confusion by offering an organized progression through C++ topics, helping developers avoid common pitfalls and build solid foundations efficiently.",
+  "tags": [
+    "C++",
+    "Roadmap",
+    "Learning",
+    "Developer-Guidance",
+    "Self-Study"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:53:19.615533+00:00",
+  "updated_at": "2026-05-06T00:00:37.764426+00:00",
+  "published_to": []
+}

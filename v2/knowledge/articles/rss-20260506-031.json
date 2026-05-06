@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-031",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
+  "title": "The evolution of encoders: From simple models to multimodal AI",
+  "summary": "这篇文章探讨了AI编码器(encoders)的演变历程，从简单的模型发展到多模态AI系统。编码器作为翻译器，将混乱的现实世界信息转换为结构化语言，使AI系统能够理解和处理各种类型的数据。",
+  "tech_stack": [
+    "Neural Networks",
+    "Transformer",
+    "Computer Vision",
+    "NLP",
+    "Multimodal AI"
+  ],
+  "problem_solved": "解决AI系统如何理解和转换现实世界原始数据为可处理的结构化格式的问题。",
+  "why_valuable": "通过解释编码器的工作原理，帮助读者理解AI系统理解信息的底层机制，是理解现代AI的基础知识。",
+  "tags": [
+    "AI Encoders",
+    "Multimodal AI",
+    "Machine Learning",
+    "Neural Networks",
+    "Deep Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-06T00:00:36.647040+00:00",
+  "updated_at": "2026-05-06T00:00:37.770899+00:00",
+  "published_to": []
+}

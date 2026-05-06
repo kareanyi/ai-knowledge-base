@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-013",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+  "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+  "summary": "Google Blog announcing a technique to accelerate Gemma 4 inference using multi-token prediction drafters, which predicts multiple tokens simultaneously instead of traditional autoregressive sequential decoding, significantly reducing inference latency.",
+  "tech_stack": [
+    "Gemma",
+    "Multi-token Prediction",
+    "LLM Inference Optimization",
+    "Deep Learning",
+    "Drafting Techniques"
+  ],
+  "problem_solved": "Addresses the computational bottleneck of slow autoregressive token-by-token generation in large language models.",
+  "why_valuable": "Enables faster, more efficient LLM inference with reduced latency and computational costs while maintaining output quality.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Inference Optimization",
+    "Google",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:56:33.234913+00:00",
+  "updated_at": "2026-05-06T00:00:37.767536+00:00",
+  "published_to": []
+}

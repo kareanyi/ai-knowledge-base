@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-007",
+  "source": "rss",
+  "source_url": "https://paletteinspiration.com/",
+  "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+  "summary": "Developer built PaletteInspiration.com, a searchable archive of color palettes extracted from 3,000+ master paintings (Monet, Vermeer, Van Gogh, etc.). The tool addresses the problem that most color palette generators tend to produce similar muted pastels, ignoring the sophisticated color expertise developed by painters over centuries.",
+  "tech_stack": [
+    "Image Processing",
+    "Color Extraction",
+    "Web Frontend",
+    "Database",
+    "Color Theory Algorithms"
+  ],
+  "problem_solved": "Digital designers lack access to historically proven, sophisticated color combinations from master painters, relying instead on generic palette generators that produce repetitive results.",
+  "why_valuable": "It bridges centuries of artistic color wisdom with modern digital design, offering unique palette inspiration that stands out from generic tools.",
+  "tags": [
+    "Color Design",
+    "Digital Design",
+    "Art History",
+    "Design Tools",
+    "Color Palette"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:55:35.117168+00:00",
+  "updated_at": "2026-05-06T00:00:37.766435+00:00",
+  "published_to": []
+}

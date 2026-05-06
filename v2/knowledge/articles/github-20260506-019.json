@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-019",
+  "source": "github",
+  "source_url": "https://github.com/SciML/DifferentialEquations.jl",
+  "title": "SciML/DifferentialEquations.jl",
+  "summary": "DifferentialEquations.jl is a high-performance Julia library providing solvers for ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and stochastic partial differential equations (SPDEs), with integration for scientific machine learning workflows.",
+  "tech_stack": [
+    "Julia",
+    "Python",
+    "R",
+    "Scientific Machine Learning",
+    "Numerical Methods"
+  ],
+  "problem_solved": "Provides reliable, high-performance numerical solvers for solving complex differential equations in scientific computing and machine learning applications.",
+  "why_valuable": "Offers a comprehensive, well-optimized suite of differential equation solvers that bridges traditional scientific computing with modern AI/ML, enabling researchers to efficiently model and simulate complex dynamical systems.",
+  "tags": [
+    "Differential Equations",
+    "Scientific Computing",
+    "Scientific Machine Learning",
+    "Numerical Solvers",
+    "Dynamical Systems"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-05T23:54:15.669841+00:00",
+  "updated_at": "2026-05-06T00:00:37.765133+00:00",
+  "published_to": []
+}

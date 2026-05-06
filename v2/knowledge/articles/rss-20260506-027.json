@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-027",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
+  "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+  "summary": "Major tech companies (Microsoft, Alphabet, Meta, Amazon) collectively reported strong Q1 2026 earnings, proving their massive AI infrastructure investments are yielding results. Despite this success, all four companies raised their capital expenditure forecasts, committing $630-650 billion combined to AI infrastructure, indicating they see no end to the spending cycle as the AI race intensifies.",
+  "tech_stack": [
+    "Cloud Computing",
+    "AI Infrastructure",
+    "Data Centers",
+    "GPU Clusters",
+    "Machine Learning"
+  ],
+  "problem_solved": "Demonstrates that the enormous capital investments in AI infrastructure are generating returns, validating Big Tech's aggressive spending strategy.",
+  "why_valuable": "Provides market validation that AI infrastructure spending delivers measurable business outcomes, while signaling continued massive investment ahead.",
+  "tags": [
+    "AI",
+    "Big Tech",
+    "Cloud Infrastructure",
+    "Investment",
+    "Capital Expenditure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:59:33.894868+00:00",
+  "updated_at": "2026-05-06T00:00:37.770167+00:00",
+  "published_to": []
+}

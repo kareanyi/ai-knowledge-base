@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-009",
+  "source": "github",
+  "source_url": "https://github.com/CarperAI/trlx",
+  "title": "CarperAI/trlx",
+  "summary": "trlx is a distributed training framework for language models using Reinforcement Learning from Human Feedback (RLHF). It enables researchers and developers to fine-tune large language models with human preferences at scale, supporting models like GPT and T5. The repository provides implementations of RLHF algorithms including PPO and other reward-based training methods for LLM alignment.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Distributed Computing",
+    "Transformers",
+    "Hugging Face"
+  ],
+  "problem_solved": "Solves the challenge of aligning large language models with human preferences by providing a scalable framework for RLHF training.",
+  "why_valuable": "Makes RLHF accessible to the research community, enabling easier experimentation with human feedback-based LLM fine-tuning without building infrastructure from scratch.",
+  "tags": [
+    "RLHF",
+    "LLM",
+    "Reinforcement Learning",
+    "PyTorch",
+    "Fine-tuning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:52:07.781915+00:00",
+  "updated_at": "2026-05-06T00:00:37.757819+00:00",
+  "published_to": []
+}

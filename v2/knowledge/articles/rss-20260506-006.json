@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260506-006",
+  "source": "rss",
+  "source_url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+  "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+  "summary": "California farmers plan to destroy 420,000 peach trees following Del Monte's bankruptcy, prompting them to seek USDA aid for financial relief and transition support.",
+  "tech_stack": [
+    "Agriculture"
+  ],
+  "problem_solved": "This is agricultural news coverage, not a technical solution. It reports on the economic fallout from a major food company's bankruptcy on local farmers.",
+  "why_valuable": "It documents the real-world impact of corporate bankruptcy on agricultural communities and government response to farming crises.",
+  "tags": [
+    "Agriculture",
+    "California",
+    "Business",
+    "Farming",
+    "Food Industry"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-05-05T23:55:16.519749+00:00",
+  "updated_at": "2026-05-06T00:00:37.766243+00:00",
+  "published_to": []
+}

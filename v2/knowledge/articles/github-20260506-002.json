@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-002",
+  "source": "github",
+  "source_url": "https://github.com/huggingface/trl",
+  "title": "huggingface/trl",
+  "summary": "TRL 是 Hugging Face 官方的 Transformer 强化学习库，用于使用 RLHF (从人类反馈中学习强化学习) 技术微调和训练大型语言模型，支持 PPO、DPO、PPO-ptx 等多种训练算法。",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "RLHF",
+    "PPO"
+  ],
+  "problem_solved": "简化将强化学习技术应用于大语言模型微调的过程，让开发者无需从零实现复杂的 RL 算法。",
+  "why_valuable": "降低了 LLM RL 训练的技术门槛，提供了一套开箱即用的工具链，是 ChatGPT 等对齐技术的基础组件。",
+  "tags": [
+    "RLHF",
+    "LLM",
+    "Fine-tuning",
+    "Reinforcement Learning",
+    "Transformers"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-05T23:50:47.542091+00:00",
+  "updated_at": "2026-05-06T00:00:37.756512+00:00",
+  "published_to": []
+}

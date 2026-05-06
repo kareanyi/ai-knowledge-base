@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-015",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+  "title": "EEVblog: The 555 Timer is 55 years old [video]",
+  "summary": "EEVblog的Dave Jones制作了一个视频庆祝555定时器集成电路诞生55周年，深入探讨这个在电子工程历史上极具影响力且应用广泛的经典芯片。",
+  "tech_stack": [
+    "555 Timer IC",
+    "Analog Electronics",
+    "IC Design",
+    "Circuit Design"
+  ],
+  "problem_solved": "科普电子工程基础知识，通过回顾555定时器的发展历程帮助工程师和爱好者理解经典芯片设计原理",
+  "why_valuable": "555定时器是电子工程史上最成功、使用最广泛的芯片之一，学习其工作原理对硬件工程师和电子爱好者都有重要教育价值",
+  "tags": [
+    "Electronics",
+    "555 Timer",
+    "Analog IC",
+    "Circuit Design",
+    "Engineering Education"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:56:53.788446+00:00",
+  "updated_at": "2026-05-06T00:00:37.767966+00:00",
+  "published_to": []
+}

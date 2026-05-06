@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260506-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+  "title": "SAP: How enterprise AI governance secures profit margins",
+  "summary": "SAP discusses how enterprise AI governance helps secure profit margins by replacing probabilistic statistical AI with deterministic control systems that deliver more reliable and consistent outputs for business-critical decisions.",
+  "tech_stack": [
+    "Enterprise AI Systems",
+    "AI Governance Frameworks"
+  ],
+  "problem_solved": "Solves the problem of unreliable AI outputs in enterprise environments where statistical AI models can produce inconsistent results (e.g., 10% error rates in simple tasks like word counting).",
+  "why_valuable": "Provides enterprises with predictable, controlled AI systems that reduce decision-making risk and protect profit margins across business operations.",
+  "tags": [
+    "Enterprise AI",
+    "AI Governance",
+    "Deterministic AI",
+    "Business Strategy",
+    "SAP"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-05T23:58:20.369738+00:00",
+  "updated_at": "2026-05-06T00:00:37.769448+00:00",
+  "published_to": []
+}

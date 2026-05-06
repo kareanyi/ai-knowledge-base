@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260506-004",
+  "source": "rss",
+  "source_url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+  "title": "Why most product tours get skipped",
+  "summary": "An article exploring why users skip product tours during software onboarding, likely analyzing common UX mistakes and user behavior patterns that lead to low engagement with guided tours.",
+  "tech_stack": [
+    "UX Design",
+    "Product Management"
+  ],
+  "problem_solved": "Helps product teams understand why users ignore in-app tutorials and onboarding flows.",
+  "why_valuable": "Improves user adoption and engagement by teaching teams to design more effective, non-intrusive onboarding experiences that users actually complete.",
+  "tags": [
+    "Onboarding",
+    "UX",
+    "Product Design",
+    "User Experience",
+    "SaaS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:54:57.439851+00:00",
+  "updated_at": "2026-05-06T00:00:37.765891+00:00",
+  "published_to": []
+}

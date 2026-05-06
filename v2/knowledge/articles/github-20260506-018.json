@@ -1,0 +1,27 @@
+{
+  "id": "github-20260506-018",
+  "source": "github",
+  "source_url": "https://github.com/alibaba/ROLL",
+  "title": "alibaba/ROLL",
+  "summary": "ROLL is an efficient and user-friendly scaling library for reinforcement learning with large language models, developed by Alibaba. It provides abstractions and tools to simplify distributed RL training at scale, addressing the complexity of combining RL algorithms with LLMs.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Distributed Computing",
+    "Hugging Face Transformers"
+  ],
+  "problem_solved": "Reduces the technical barrier for scaling reinforcement learning training on large language models to production-level distributed environments.",
+  "why_valuable": "Enables researchers and engineers to efficiently scale RL training for LLMs without building infrastructure from scratch, democratizing access to large-scale RLHF and RLVR techniques.",
+  "tags": [
+    "reinforcement-learning",
+    "llm",
+    "rlhf",
+    "scaling",
+    "agentic"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:54:06.056505+00:00",
+  "updated_at": "2026-05-06T00:00:37.764956+00:00",
+  "published_to": []
+}

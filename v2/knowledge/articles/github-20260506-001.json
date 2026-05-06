@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-001",
+  "source": "github",
+  "source_url": "https://github.com/fighting41love/funNLP",
+  "title": "fighting41love/funNLP",
+  "summary": "这是一个收集了丰富中文NLP资源和工具的GitHub仓库，包含超过100种数据文件（如词库、语料库、数据集）和数十种工具库，涵盖从文本处理、实体识别到语音识别的全流程NLP任务，是中文NLP开发者必备的资源合集。",
+  "tech_stack": [
+    "Python",
+    "BERT",
+    "深度学习",
+    "自然语言处理",
+    "中文语料"
+  ],
+  "problem_solved": "解决中文NLP研究和开发过程中资料分散、需要大量时间收集各类词库、语料和工具的问题。",
+  "why_valuable": "提供了极为丰富的预训练资源、数据集和工具链，能显著加速中文NLP项目的开发进程，降低入门门槛。",
+  "tags": [
+    "NLP",
+    "Chinese-NLP",
+    "BERT",
+    "语料库",
+    "机器学习"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-05T23:50:39.764152+00:00",
+  "updated_at": "2026-05-06T00:00:37.756164+00:00",
+  "published_to": []
+}

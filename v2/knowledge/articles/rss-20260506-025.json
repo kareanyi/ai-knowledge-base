@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-025",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+  "title": "A guide to APIs, MCPs, and MCP Gateways",
+  "summary": "This article explains the fundamental differences between APIs and MCPs (Model Context Protocol) as communication mechanisms for system information exchange, highlighting their distinct designs and purposes. It provides guidance on how software developers should approach working with each technology, and introduces MCP Gateways as a solution for managing MCP interactions.",
+  "tech_stack": [
+    "API",
+    "MCP",
+    "MCP Gateway",
+    "Model Context Protocol"
+  ],
+  "problem_solved": "Clarifies the conceptual and practical differences between APIs and MCPs for developers who need to choose or implement integration methods.",
+  "why_valuable": "Provides clarity on when to use traditional APIs versus newer MCP protocols, helping developers make informed architectural decisions.",
+  "tags": [
+    "API",
+    "MCP",
+    "Integration",
+    "Protocols",
+    "Software Architecture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:59:01.032062+00:00",
+  "updated_at": "2026-05-06T00:00:37.769803+00:00",
+  "published_to": []
+}

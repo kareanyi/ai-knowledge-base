@@ -1,0 +1,27 @@
+{
+  "id": "github-20260506-005",
+  "source": "github",
+  "source_url": "https://github.com/gunthercox/ChatterBot",
+  "title": "gunthercox/ChatterBot",
+  "summary": "ChatterBot 是一个基于 Python 的机器学习对话引擎，用于创建可训练和改进的聊天机器人。项目提供了开箱即用的对话逻辑，支持通过示例对话数据进行训练。",
+  "tech_stack": [
+    "Python",
+    "scikit-learn",
+    "NLTK",
+    "SQLAlchemy"
+  ],
+  "problem_solved": "为开发者提供一个可训练的对话引擎，无需复杂配置即可快速构建具有学习能力的聊天机器人。",
+  "why_valuable": "通过机器学习方法让聊天机器人能够从对话历史中学习改进，降低了聊天机器人开发的技术门槛。",
+  "tags": [
+    "Chatbot",
+    "Machine-Learning",
+    "NLP",
+    "Python",
+    "Dialogue-System"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:51:25.226004+00:00",
+  "updated_at": "2026-05-06T00:00:37.757072+00:00",
+  "published_to": []
+}

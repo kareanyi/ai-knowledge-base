@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-008",
+  "source": "github",
+  "source_url": "https://github.com/OpenBMB/ToolBench",
+  "title": "OpenBMB/ToolBench",
+  "summary": "ToolBench is an open-source platform developed by OpenBMB for training, serving, and evaluating large language models specifically designed for tool learning. It was published as a spotlight paper at ICLR 2024, one of the top AI conferences, indicating significant academic recognition.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "FastAPI",
+    "LangChain"
+  ],
+  "problem_solved": "Enables LLMs to effectively learn and utilize external tools/APIs for enhanced reasoning and task completion.",
+  "why_valuable": "Provides a comprehensive benchmark and training framework that accelerates research in tool-augmented AI agents, addressing a critical capability gap in current LLM systems.",
+  "tags": [
+    "LLM",
+    "Tool Learning",
+    "AI Agent",
+    "Benchmark",
+    "ICLR2024"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-05T23:51:56.576823+00:00",
+  "updated_at": "2026-05-06T00:00:37.757633+00:00",
+  "published_to": []
+}

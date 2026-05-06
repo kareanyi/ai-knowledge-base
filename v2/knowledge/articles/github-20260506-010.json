@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-010",
+  "source": "github",
+  "source_url": "https://github.com/brightmart/albert_zh",
+  "title": "brightmart/albert_zh",
+  "summary": "brightmart/albert_zh 是一个开源的中文 ALBERT 预训练模型项目，提供了海量中文预训练 ALBERT 模型，用于自监督学习语言表征。该项目基于 Google 的 ALBERT 架构，针对中文语料进行了大规模预训练。",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "ALBERT",
+    "BERT"
+  ],
+  "problem_solved": "解决了中文 NLP 任务中缺乏高质量预训练语言模型的问题，为开发者和研究者提供了开箱即用的中文语言表征工具。",
+  "why_valuable": "该项目大幅降低了中文 NLP 任务的研究和应用门槛，开发者无需从零训练模型，可直接基于预训练模型进行微调，快速构建各类中文 NLP 应用。",
+  "tags": [
+    "ALBERT",
+    "BERT",
+    "Chinese-NLP",
+    "Pre-trained-Model",
+    "PyTorch"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:52:24.366962+00:00",
+  "updated_at": "2026-05-06T00:00:37.758001+00:00",
+  "published_to": []
+}

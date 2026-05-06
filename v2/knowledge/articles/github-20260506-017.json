@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-017",
+  "source": "github",
+  "source_url": "https://github.com/noahshinn/reflexion",
+  "title": "noahshinn/reflexion",
+  "summary": "Reflexion is a framework that enables language agents to improve their performance through verbal reinforcement learning and self-reflection, allowing LLMs to learn from past mistakes without gradient-based training. Presented at NeurIPS 2023, it introduces a novel approach where agents verbally reflect on failures and adjust future decisions accordingly.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "OpenAI API",
+    "Transformers",
+    "ReAct"
+  ],
+  "problem_solved": "Enables language model agents to continuously improve their decision-making by learning from failures through a verbal self-reflection mechanism instead of expensive retraining.",
+  "why_valuable": "Provides a lightweight, compute-efficient method to enhance LLM agent reliability and task completion rates without requiring traditional ML fine-tuning or gradient updates.",
+  "tags": [
+    "LLM",
+    "Reinforcement Learning",
+    "Language Agents",
+    "NeurIPS",
+    "Self-Reflection"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:53:51.133426+00:00",
+  "updated_at": "2026-05-06T00:00:37.764776+00:00",
+  "published_to": []
+}

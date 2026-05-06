@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-028",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
+  "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+  "summary": "An IDC research report analyzing how EMEA CIOs can overcome stalled enterprise AI deployments by conducting aggressive system audits and implementing strategic approaches to accelerate AI rollouts that have slowed despite heavy investment in LLMs and ML over the past 18 months.",
+  "tech_stack": [
+    "LLM",
+    "Machine Learning",
+    "AI Systems",
+    "Enterprise Infrastructure"
+  ],
+  "problem_solved": "How to restart stalled AI deployments in EMEA enterprises where boards have slowed down implementation despite significant prior investment.",
+  "why_valuable": "Provides actionable guidance for enterprise IT leaders struggling to move AI projects past initial testing phases into full operational deployment.",
+  "tags": [
+    "Enterprise AI",
+    "EMEA",
+    "CIO Strategy",
+    "Digital Transformation",
+    "AI Rollout"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-05T23:59:53.217713+00:00",
+  "updated_at": "2026-05-06T00:00:37.770367+00:00",
+  "published_to": []
+}

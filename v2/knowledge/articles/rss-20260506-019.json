@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260506-019",
+  "source": "rss",
+  "source_url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+  "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+  "summary": "iOS 27 正在为 Apple Wallet 添加一个'Create a Pass'按钮，允许用户直接在钱包应用中创建和保存数字通行证，如会员卡、活动门票、登机牌等，无需第三方应用。",
+  "tech_stack": [
+    "iOS",
+    "Apple Wallet",
+    "Swift",
+    "PassKit",
+    "JSON"
+  ],
+  "problem_solved": "让用户能够更便捷地在 Apple Wallet 中创建和管理自定义数字通行证，无需开发者或第三方服务。",
+  "why_valuable": "简化了数字通行证创建流程，降低了门槛，让普通用户也能轻松创建和管理会员卡、票据等数字凭证，提升了 Apple Wallet 的实用性和生态粘性。",
+  "tags": [
+    "iOS",
+    "Apple Wallet",
+    "PassKit",
+    "Mobile",
+    "User Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:57:37.676356+00:00",
+  "updated_at": "2026-05-06T00:00:37.768710+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "github-20260506-006",
+  "source": "github",
+  "source_url": "https://github.com/databrickslabs/dolly",
+  "title": "databrickslabs/dolly",
+  "summary": "Dolly 是 Databricks Labs 开发的开源大语言模型，基于 GPT 架构，专为对话和文本生成任务优化。该模型在 Databricks 机器学习平台上进行训练，支持企业级部署和微调，Stars 超过 10k，是当前最受欢迎的开源 LLM 项目之一。",
+  "tech_stack": [
+    "Python",
+    "Databricks",
+    "PyTorch",
+    "Transformers",
+    "GPT"
+  ],
+  "problem_solved": "为企业提供可在 Databricks 平台上快速部署和微调的开源大语言模型解决方案",
+  "why_valuable": "Databricks 背书的开源 LLM，兼顾社区活跃度与企业级部署需求，大幅降低企业使用大模型的门槛",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Databricks",
+    "Python",
+    "Enterprise AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-05T23:51:33.096775+00:00",
+  "updated_at": "2026-05-06T00:00:37.757250+00:00",
+  "published_to": []
+}

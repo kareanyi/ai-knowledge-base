@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260506-001",
+  "source": "rss",
+  "source_url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+  "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+  "summary": "Major news publishers including Alden Capital have filed a lawsuit against Meta, alleging that CEO Mark Zuckerberg personally authorized the use of copyrighted news content to train Meta's AI model Llama. The publishers claim Meta systematically scraped and ingested their articles without permission or compensation.",
+  "tech_stack": [
+    "Meta Llama",
+    "Generative AI",
+    "Large Language Models",
+    "Web Scraping"
+  ],
+  "problem_solved": "This lawsuit addresses the contentious issue of AI companies using copyrighted media content for training purposes without proper licensing or compensation.",
+  "why_valuable": "It highlights the critical legal battle over AI training data rights, potentially setting a precedent for how generative AI companies must handle intellectual property.",
+  "tags": [
+    "AI Copyright",
+    "Meta",
+    "Lawsuits",
+    "Publishing",
+    "Generative AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:54:25.765193+00:00",
+  "updated_at": "2026-05-06T00:00:37.765330+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260506-016",
+  "source": "rss",
+  "source_url": "https://susam.net/inverse-laws-of-robotics.html",
+  "title": "Three Inverse Laws of AI",
+  "summary": "This article presents satirical 'Inverse Laws of AI' that contrast with Asimov's optimistic Three Laws of Robotics, exploring how AI systems might actually behave in ways opposite to intended safety goals. The piece gained significant traction on Hacker News with 335 points and 236 comments, indicating strong resonance with the tech community's concerns about AI limitations and failure modes.",
+  "tech_stack": [
+    "General AI/ML Concepts"
+  ],
+  "problem_solved": "It provides a satirical yet thought-provoking framework for understanding AI limitations, failure modes, and the gap between programmer intentions and actual AI behavior.",
+  "why_valuable": "By inverting Asimov's famous laws, it offers a memorable philosophical lens through which developers and users can critically examine AI safety assumptions and potential risks in an engaging, accessible way.",
+  "tags": [
+    "AI",
+    "Robotics",
+    "Philosophy",
+    "Safety",
+    "Ethics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-05T23:57:05.895326+00:00",
+  "updated_at": "2026-05-06T00:00:37.768147+00:00",
+  "published_to": []
+}
