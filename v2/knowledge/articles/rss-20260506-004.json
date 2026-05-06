@@ -1,25 +1,26 @@
 {
   "id": "rss-20260506-004",
   "source": "rss",
-  "source_url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-  "title": "Why most product tours get skipped",
-  "summary": "An article exploring why users skip product tours during software onboarding, likely analyzing common UX mistakes and user behavior patterns that lead to low engagement with guided tours.",
+  "source_url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+  "title": "Multi-stroke text effect in CSS",
+  "summary": "A CSS technique for creating multi-stroke text effects where text can have multiple simultaneous outlines or borders, achieved using pure CSS properties without JavaScript dependencies.",
   "tech_stack": [
-    "UX Design",
-    "Product Management"
+    "CSS",
+    "SVG",
+    "HTML"
   ],
-  "problem_solved": "Helps product teams understand why users ignore in-app tutorials and onboarding flows.",
-  "why_valuable": "Improves user adoption and engagement by teaching teams to design more effective, non-intrusive onboarding experiences that users actually complete.",
+  "problem_solved": "Creates complex typographic effects with multiple text strokes that would typically require image editing software or JavaScript libraries.",
+  "why_valuable": "Enables stunning text effects purely with CSS, reducing page load and improving performance while maintaining design flexibility.",
   "tags": [
-    "Onboarding",
-    "UX",
-    "Product Design",
-    "User Experience",
-    "SaaS"
+    "CSS",
+    "Typography",
+    "Text-Effects",
+    "Frontend",
+    "Design"
   ],
   "score": 7,
   "status": "published",
-  "created_at": "2026-05-05T23:54:57.439851+00:00",
-  "updated_at": "2026-05-06T00:00:37.765891+00:00",
+  "created_at": "2026-05-06T10:30:50.918058+00:00",
+  "updated_at": "2026-05-06T10:37:43.855312+00:00",
   "published_to": []
 }

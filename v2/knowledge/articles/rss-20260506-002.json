@@ -1,26 +1,28 @@
 {
   "id": "rss-20260506-002",
   "source": "rss",
-  "source_url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-  "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-  "summary": "NPR conducted an investigative report on Polymarket's corporate headquarters in Panama, discovering no physical presence of the prediction market company at the claimed address, raising questions about transparency and regulatory compliance.",
+  "source_url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+  "title": "Reverse-engineering the 1998 Ultima Online demo server",
+  "summary": "技术博客详细记录了对1998年Ultima Online演示服务器的逆向工程过程，包括协议分析、数据结构解析和服务器模拟重建，揭示了早期MMORPG网络通信的内部实现机制。",
   "tech_stack": [
-    "Blockchain",
-    "Smart Contracts",
-    "Ethereum"
+    "Reverse Engineering",
+    "C++",
+    "Network Protocol",
+    "Binary Analysis",
+    "WinPcap"
   ],
-  "problem_solved": "Investigates corporate transparency and legitimacy concerns regarding Polymarket's claimed Panama headquarters.",
-  "why_valuable": "Highlights the importance of verification in the crypto space and raises awareness about potential corporate opacity in prediction markets.",
+  "problem_solved": "恢复和理解已失传20多年的早期MMORPG网络协议和服务器架构设计。",
+  "why_valuable": "保存了重要的游戏历史技术遗产，为研究早期网络游戏架构提供了珍贵的参考资料。",
   "tags": [
-    "Cryptocurrency",
-    "Prediction Markets",
-    "Investigative Journalism",
-    "Blockchain",
-    "Corporate Transparency"
+    "Reverse Engineering",
+    "Game Development",
+    "MMORPG",
+    "Network Protocol",
+    "Vintage Computing"
   ],
-  "score": 6,
+  "score": 8,
   "status": "published",
-  "created_at": "2026-05-05T23:54:39.322380+00:00",
-  "updated_at": "2026-05-06T00:00:37.765524+00:00",
+  "created_at": "2026-05-06T10:29:42.159714+00:00",
+  "updated_at": "2026-05-06T10:37:43.854818+00:00",
   "published_to": []
 }

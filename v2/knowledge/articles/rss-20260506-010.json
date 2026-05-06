@@ -1,27 +1,26 @@
 {
   "id": "rss-20260506-010",
   "source": "rss",
-  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-  "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-  "summary": "A historical anecdote from Raymond Chen's Microsoft blog about how IBM originally objected to Microsoft using the Tab key for keyboard navigation between dialog fields in early Windows versions, citing historical mainframe conventions where Tab had different meanings.",
+  "source_url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+  "title": "YouTube, your RSS feeds are broken",
+  "summary": "OpenRSS 发布了一篇文章，揭示了 YouTube 的 RSS 订阅功能存在的问题，包括视频顺序错乱、缺失重要视频、API 限制等，导致依赖 RSS 获取内容的用户无法正常使用。",
   "tech_stack": [
-    "Windows",
-    "Dialog Systems",
-    "Keyboard Navigation",
-    "IBM Mainframe"
+    "RSS",
+    "YouTube API",
+    "OpenRSS"
   ],
-  "problem_solved": "Clarifies the historical context behind why Tab key navigation became standard in Windows dialogs, resolving a disagreement between IBM and Microsoft design philosophies.",
-  "why_valuable": "Provides fascinating insight into the evolution of UI conventions and how major technical decisions were influenced by corporate disagreements during the early PC era.",
+  "problem_solved": "解决了用户在寻找可靠的 YouTube RSS 订阅源时遇到的视频顺序混乱和内容缺失问题。",
+  "why_valuable": "帮助依赖 RSS 阅读器获取 YouTube 更新的用户识别并绕过这些技术限制，确保内容订阅的可靠性。",
   "tags": [
-    "Windows",
-    "UI Design",
-    "History",
-    "Keyboard",
-    "IBM"
+    "RSS",
+    "YouTube",
+    "Feed",
+    "Aggregator",
+    "Open Source"
   ],
   "score": 7,
   "status": "published",
-  "created_at": "2026-05-05T23:56:08.745198+00:00",
-  "updated_at": "2026-05-06T00:00:37.766976+00:00",
+  "created_at": "2026-05-06T10:32:21.031144+00:00",
+  "updated_at": "2026-05-06T10:37:43.862532+00:00",
   "published_to": []
 }

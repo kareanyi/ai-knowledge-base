@@ -1,24 +1,26 @@
 {
   "id": "rss-20260506-006",
   "source": "rss",
-  "source_url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-  "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-  "summary": "California farmers plan to destroy 420,000 peach trees following Del Monte's bankruptcy, prompting them to seek USDA aid for financial relief and transition support.",
+  "source_url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+  "title": "Ombudsman column: The Pentagon is trying to silence me",
+  "summary": "A former Stars and Stripes ombudsman claims the Pentagon is attempting to silence their ability to report on military matters and address reader complaints, raising concerns about press freedom and government transparency within military-affiliated media.",
   "tech_stack": [
-    "Agriculture"
+    "Journalism",
+    "Content Management",
+    "News Publishing"
   ],
-  "problem_solved": "This is agricultural news coverage, not a technical solution. It reports on the economic fallout from a major food company's bankruptcy on local farmers.",
-  "why_valuable": "It documents the real-world impact of corporate bankruptcy on agricultural communities and government response to farming crises.",
+  "problem_solved": "Addresses allegations of government censorship and threats to independent military journalism oversight.",
+  "why_valuable": "Highlights critical issues around transparency, accountability, and First Amendment concerns within military media operations.",
   "tags": [
-    "Agriculture",
-    "California",
-    "Business",
-    "Farming",
-    "Food Industry"
+    "Press Freedom",
+    "Military",
+    "Censorship",
+    "Journalism",
+    "Government"
   ],
-  "score": 5,
+  "score": 7,
   "status": "published",
-  "created_at": "2026-05-05T23:55:16.519749+00:00",
-  "updated_at": "2026-05-06T00:00:37.766243+00:00",
+  "created_at": "2026-05-06T10:31:20.180730+00:00",
+  "updated_at": "2026-05-06T10:37:43.855750+00:00",
   "published_to": []
 }

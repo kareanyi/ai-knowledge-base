@@ -1,27 +1,25 @@
 {
   "id": "rss-20260506-001",
   "source": "rss",
-  "source_url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
-  "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-  "summary": "Major news publishers including Alden Capital have filed a lawsuit against Meta, alleging that CEO Mark Zuckerberg personally authorized the use of copyrighted news content to train Meta's AI model Llama. The publishers claim Meta systematically scraped and ingested their articles without permission or compensation.",
+  "source_url": "https://www.terrygodier.com/the-boring-internet",
+  "title": "The Boring Internet",
+  "summary": "这篇文章探讨了当代互联网变得无聊和平淡的现象，作者 Terry Godier 反思了互联网从创新驱动到商业化驱动的转变过程，以及这种变化如何导致了用户体验的趋同和创意表达的减少。",
   "tech_stack": [
-    "Meta Llama",
-    "Generative AI",
-    "Large Language Models",
-    "Web Scraping"
+    "Web",
+    "Internet"
   ],
-  "problem_solved": "This lawsuit addresses the contentious issue of AI companies using copyrighted media content for training purposes without proper licensing or compensation.",
-  "why_valuable": "It highlights the critical legal battle over AI training data rights, potentially setting a precedent for how generative AI companies must handle intellectual property.",
+  "problem_solved": "试图理解和分析互联网创新活力下降的问题",
+  "why_valuable": "提供了对互联网发展轨迹的有价值的反思视角",
   "tags": [
-    "AI Copyright",
-    "Meta",
-    "Lawsuits",
-    "Publishing",
-    "Generative AI"
+    "Internet",
+    "Technology",
+    "Culture",
+    "Innovation",
+    "Web"
   ],
-  "score": 7,
+  "score": 5,
   "status": "published",
-  "created_at": "2026-05-05T23:54:25.765193+00:00",
-  "updated_at": "2026-05-06T00:00:37.765330+00:00",
+  "created_at": "2026-05-06T10:29:33.658063+00:00",
+  "updated_at": "2026-05-06T10:37:43.854589+00:00",
   "published_to": []
 }

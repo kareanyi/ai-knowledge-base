@@ -1,28 +1,28 @@
 {
   "id": "rss-20260506-012",
   "source": "rss",
-  "source_url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-  "title": "Computer Use is 45x more expensive than structured APIs",
-  "summary": "This article analyzes and compares the cost differences between AI 'computer use' capabilities (where AI agents interact with computers like humans) and traditional structured APIs, finding that computer use is approximately 45x more expensive. It provides practical cost benchmarks for developers building AI-powered applications.",
+  "source_url": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+  "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+  "summary": "LG is in exploratory discussions with NVIDIA about physical AI, data centers, and mobility following a meeting between LG CEO and NVIDIA's Omniverse/Robotics leadership. The discussions highlight the operational infrastructure requirements needed to support complex automated systems at scale.",
   "tech_stack": [
-    "Python",
-    "AI/LLM",
-    "APIs",
-    "Web Development",
-    "Anthropic Claude"
+    "NVIDIA Omniverse",
+    "Robotics",
+    "Data Center Infrastructure",
+    "Physical AI Systems",
+    "Autonomous Mobility"
   ],
-  "problem_solved": "Addresses the knowledge gap around cost implications of choosing AI computer use versus structured API approaches for application development.",
-  "why_valuable": "Provides concrete cost data that helps developers and organizations make informed architectural decisions when implementing AI features in their applications.",
+  "problem_solved": "Defining the operational dependencies and infrastructure requirements needed to run complex automated and physical AI systems at enterprise scale.",
+  "why_valuable": "Reveals how major technology leaders are collaborating to establish foundational requirements for the emerging field of physical AI, bridging digital simulation with real-world automated systems.",
   "tags": [
-    "AI Agents",
-    "Cost Analysis",
-    "LLM",
-    "API Design",
-    "Computer Use"
+    "Physical AI",
+    "NVIDIA",
+    "LG",
+    "Robotics",
+    "Industrial Automation"
   ],
-  "score": 7,
+  "score": 6,
   "status": "published",
-  "created_at": "2026-05-05T23:56:24.868121+00:00",
-  "updated_at": "2026-05-06T00:00:37.767350+00:00",
+  "created_at": "2026-05-06T10:36:10.923234+00:00",
+  "updated_at": "2026-05-06T10:37:43.863017+00:00",
   "published_to": []
 }

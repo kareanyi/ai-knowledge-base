@@ -1,28 +1,26 @@
 {
   "id": "rss-20260506-009",
   "source": "rss",
-  "source_url": "https://arxiv.org/abs/2604.26752",
-  "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-  "summary": "智谱AI发布的GLM-5V-Turbo是一个原生多模态基础模型，专为多模态智能代理设计，支持视觉和语言的深度融合处理，旨在提升AI代理在复杂多模态任务中的表现。",
+  "source_url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+  "title": "Telus Uses AI to Alter Call-Agent Accents",
+  "summary": "Telus, a Canadian telecommunications company, is implementing AI technology to modify the accents of call center agents in real-time to improve customer comprehension. The initiative has sparked ethical debates about workplace authenticity, potential discrimination against certain accent groups, and the broader implications of AI in modifying human speech.",
   "tech_stack": [
-    "Large Language Model",
-    "Computer Vision",
-    "Multimodal AI",
-    "Python",
-    "Transformers"
+    "AI Voice Processing",
+    "Real-time Speech Synthesis",
+    "Accent Modification Technology"
   ],
-  "problem_solved": "解决现有模型在多模态理解与任务执行中的割裂问题，提供原生的一体化多模态智能代理解决方案。",
-  "why_valuable": "作为原生多模态基础模型，能够让AI代理更自然、高效地处理视觉+语言混合任务，推动人机交互和自动化流程的智能化升级。",
+  "problem_solved": "Addresses customer comprehension difficulties and potential dissatisfaction arising from call-center agents with diverse accents.",
+  "why_valuable": "This news article highlights the ethical complexities of deploying AI to alter human speech in workplace settings, raising important questions about authenticity, discrimination, and the boundaries of AI applications in employment.",
   "tags": [
-    "Multimodal AI",
-    "Foundation Model",
-    "AI Agent",
-    "Computer Vision",
-    "GLM"
+    "AI Ethics",
+    "Speech Processing",
+    "Call Center AI",
+    "Workplace Technology",
+    "Accent Bias"
   ],
-  "score": 8,
+  "score": 7,
   "status": "published",
-  "created_at": "2026-05-05T23:55:56.717665+00:00",
-  "updated_at": "2026-05-06T00:00:37.766797+00:00",
+  "created_at": "2026-05-06T10:32:11.352614+00:00",
+  "updated_at": "2026-05-06T10:37:43.856467+00:00",
   "published_to": []
 }

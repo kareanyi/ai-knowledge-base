@@ -1,25 +1,27 @@
 {
   "id": "rss-20260506-003",
   "source": "rss",
-  "source_url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-  "title": "Write some software, give it away for free",
-  "summary": "This appears to be an article discussing the philosophy or strategy of creating and distributing free software, possibly exploring the business rationale or personal motivations behind giving software away at no cost.",
+  "source_url": "https://microsoft.github.io/bocpy/",
+  "title": "Behavior-Oriented Concurrency for Python",
+  "summary": "Microsoft's Behavior-Oriented Concurrency (BoC) library for Python provides a novel approach to handling concurrent operations by organizing code around behavioral patterns rather than traditional threading or async models. It aims to simplify complex concurrent programming by making the control flow more intuitive and manageable.",
   "tech_stack": [
-    "General Software Development",
-    "Open Source"
+    "Python",
+    "AsyncIO",
+    "Concurrency",
+    "Microsoft"
   ],
-  "problem_solved": "Exploring alternative software distribution models and the value proposition of free software in a commercial context.",
-  "why_valuable": "It challenges traditional software monetization assumptions and may offer insights into building user bases through generosity rather than paywalls.",
+  "problem_solved": "Simplifies the complexity of managing concurrent operations in Python by providing behavior-oriented abstractions that are easier to reason about than traditional thread-based or callback-heavy async code.",
+  "why_valuable": "Offers a more intuitive mental model for concurrent programming, potentially reducing bugs and improving code maintainability for developers building multi-tasking Python applications.",
   "tags": [
-    "Open Source",
-    "Software Business",
-    "Developer Culture",
-    "Free Software",
-    "Product Strategy"
+    "Concurrency",
+    "Python",
+    "Microsoft",
+    "Async-Programming",
+    "Software-Engineering"
   ],
   "score": 6,
   "status": "published",
-  "created_at": "2026-05-05T23:54:49.433420+00:00",
-  "updated_at": "2026-05-06T00:00:37.765716+00:00",
+  "created_at": "2026-05-06T10:30:17.268931+00:00",
+  "updated_at": "2026-05-06T10:37:43.855078+00:00",
   "published_to": []
 }

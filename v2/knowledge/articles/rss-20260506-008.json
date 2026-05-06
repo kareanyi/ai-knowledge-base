@@ -1,26 +1,28 @@
 {
   "id": "rss-20260506-008",
   "source": "rss",
-  "source_url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-  "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-  "summary": "This Variety news article reports on a lawsuit alleging that Mark Zuckerberg personally authorized and encouraged Meta's AI systems to engage in copyright infringement by training on publishers' copyrighted content without permission.",
+  "source_url": "https://us.starlabs.systems/pages/starfighter",
+  "title": "StarFighter 16-Inch",
+  "summary": "Star Labs launches the StarFighter 16-inch Linux laptop, expanding their lineup of purpose-built Linux computers with a larger display form factor for developers and power users seeking desktop-class productivity on the go.",
   "tech_stack": [
-    "Meta AI",
-    "Large Language Models",
-    "Generative AI"
+    "Linux",
+    "Ubuntu",
+    "Open Source Hardware",
+    "Intel/AMD Processors",
+    "Custom BIOS"
   ],
-  "problem_solved": "Addresses the growing legal dispute over whether AI companies and their executives should be held personally liable for using copyrighted material to train AI models.",
-  "why_valuable": "Highlights the escalating tension between AI companies and content creators, raising critical questions about executive accountability and intellectual property rights in the AI era.",
+  "problem_solved": "Provides a larger-screen Linux-native laptop option for developers and enthusiasts who want a 16-inch display with fully supported Linux out of the box.",
+  "why_valuable": "Delivers a well-engineered 16-inch Linux laptop with optimized hardware-software integration, filling the gap for users who need larger displays without sacrificing the Linux experience.",
   "tags": [
-    "AI Copyright",
-    "Meta",
-    "Tech Legal",
-    "Zuckerberg",
-    "Publishers"
+    "Linux",
+    "Hardware",
+    "Laptop",
+    "Open Source",
+    "Product Launch"
   ],
   "score": 7,
   "status": "published",
-  "created_at": "2026-05-05T23:55:46.109160+00:00",
-  "updated_at": "2026-05-06T00:00:37.766618+00:00",
+  "created_at": "2026-05-06T10:31:54.717609+00:00",
+  "updated_at": "2026-05-06T10:37:43.856252+00:00",
   "published_to": []
 }

@@ -1,24 +1,26 @@
 {
   "id": "rss-20260506-011",
   "source": "rss",
-  "source_url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-  "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-  "summary": "Proliferate, a Y Combinator Winter 2025 startup, is hiring a Founding Engineer position offering $200k for junior engineers. This is an early-stage hiring post from a newly backed YC company seeking a key engineering team member.",
+  "source_url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+  "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+  "summary": "Google正在测试名为Remy的AI个人代理，旨在为用户执行工作和日常生活中的任务。该工具目前在员工专属版本的Gemini应用中进行内部测试，标志着Google在AI助手领域的新尝试，同时强调用户控制的重要性。",
   "tech_stack": [
-    "Not specified in post"
+    "Google Gemini",
+    "AI Agent",
+    "LLM"
   ],
-  "problem_solved": "This is a job posting for an early-stage startup seeking founding engineers to build their product.",
-  "why_valuable": "Offers competitive junior-level salary ($200k) with founding engineer equity upside at a YC-backed company.",
+  "problem_solved": "帮助用户自动化执行工作和日常任务，减少手动操作负担",
+  "why_valuable": "将AI能力与用户控制权结合，提供更安全、更可定制的自动化服务体验",
   "tags": [
-    "YC",
-    "Hiring",
-    "Startup",
-    "Founding Engineer",
-    "Early Stage"
+    "AI Agent",
+    "Google Gemini",
+    "Automation",
+    "Personal Assistant",
+    "LLM"
   ],
-  "score": 5,
+  "score": 7,
   "status": "published",
-  "created_at": "2026-05-05T23:56:14.638613+00:00",
-  "updated_at": "2026-05-06T00:00:37.767155+00:00",
+  "created_at": "2026-05-06T10:34:41.709870+00:00",
+  "updated_at": "2026-05-06T10:37:43.862768+00:00",
   "published_to": []
 }

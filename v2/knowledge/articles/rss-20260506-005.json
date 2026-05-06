@@ -1,27 +1,28 @@
 {
   "id": "rss-20260506-005",
   "source": "rss",
-  "source_url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-  "title": ".de TLD offline due to DNSSEC?",
-  "summary": ".de 德国国家顶级域名因 DNSSEC 配置错误导致大规模服务中断，影响数百万网站和用户访问。Verisign 的 DNSSEC 分析工具检测到 nic.de 的签名验证失败，这是一个全球性 DNS 基础设施安全问题的典型案例。",
+  "source_url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+  "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+  "summary": "Micron has launched the 6600 ION data center SSD featuring industry-leading 245TB capacity, designed for hyperscale data centers requiring high-density storage with consistent performance and low power consumption.",
   "tech_stack": [
-    "DNS",
-    "DNSSEC",
-    "TLD Infrastructure",
-    "DNSSEC Analyzer"
+    "NAND Flash",
+    "NVMe SSD",
+    "Data Center Storage",
+    "PCIe Gen4",
+    "QLC NAND"
   ],
-  "problem_solved": "揭示了 DNSSEC 配置错误如何导致整个国家顶级域名离线，影响全球互联网可达性。",
-  "why_valuable": "提醒域名运营商 DNSSEC 配置的正确性和持续监控的重要性，一次错误配置可能导致国家级别的服务中断。",
+  "problem_solved": "Addresses the growing storage density demands of hyperscale data centers that need more capacity per server rack while maintaining power efficiency.",
+  "why_valuable": "The 245TB capacity sets a new industry benchmark for single SSD form factor, enabling data centers to reduce server count, floor space, and total cost of ownership.",
   "tags": [
-    "DNS",
-    "DNSSEC",
-    "TLD",
-    "Infrastructure",
-    "Outage"
+    "Data Center",
+    "SSD",
+    "Storage",
+    "Hardware",
+    "Hyperscale"
   ],
-  "score": 8,
+  "score": 7,
   "status": "published",
-  "created_at": "2026-05-05T23:55:03.267994+00:00",
-  "updated_at": "2026-05-06T00:00:37.766066+00:00",
+  "created_at": "2026-05-06T10:31:01.827206+00:00",
+  "updated_at": "2026-05-06T10:37:43.855531+00:00",
   "published_to": []
 }
