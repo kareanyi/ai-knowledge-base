@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-006",
+  "source": "rss",
+  "source_url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
+  "title": "Building the TD4 4-Bit CPU",
+  "summary": "这是一篇详细教程，教你如何构建经典的TD4 4位CPU，这是一个由中山大学的中村先生设计的教育性处理器。文章详细介绍了CPU的各个组件、工作原理以及实现方法。",
+  "tech_stack": [
+    "数字电路设计",
+    "CPU架构",
+    "硬件描述语言/模拟电路",
+    "计算机组成原理",
+    "TTL逻辑"
+  ],
+  "problem_solved": "解决计算机组成原理教学中的理论与实践脱节问题，帮助读者理解CPU如何执行指令。",
+  "why_valuable": "通过亲手构建一个完整的CPU，将抽象的计算机原理转化为具体可触摸的项目，是学习计算机架构的最佳实践方式。",
+  "tags": [
+    "CPU设计",
+    "数字电路",
+    "教育项目",
+    "复古计算",
+    "硬件DIY"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:34:40.807654+00:00",
+  "updated_at": "2026-05-07T10:40:10.015749+00:00",
+  "published_to": []
+}

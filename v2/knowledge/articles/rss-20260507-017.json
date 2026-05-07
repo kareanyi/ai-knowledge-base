@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-017",
+  "source": "rss",
+  "source_url": "http://halupedia.com/",
+  "title": "Show HN: Hallucinopedia",
+  "summary": "Hallucinopedia is an encyclopedia-style resource documenting common hallucinations (false outputs) produced by AI and LLM models, serving as a reference tool to help users understand and identify when AI systems generate incorrect or fabricated information.",
+  "tech_stack": [
+    "Web Technologies",
+    "JavaScript",
+    "Database",
+    "LLM Integration",
+    "Search Technology"
+  ],
+  "problem_solved": "Addresses the widespread problem of AI hallucinations by creating a centralized, searchable knowledge base documenting known false outputs from AI systems.",
+  "why_valuable": "It provides AI users and developers with a practical reference to verify AI outputs and better understand the limitations of current language models, ultimately improving AI literacy and reducing misinformation.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Hallucinations",
+    "Documentation",
+    "AI-Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:37:10.239212+00:00",
+  "updated_at": "2026-05-07T10:40:10.025234+00:00",
+  "published_to": []
+}

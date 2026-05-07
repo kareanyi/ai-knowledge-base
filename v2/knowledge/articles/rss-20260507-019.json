@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-019",
+  "source": "rss",
+  "source_url": "https://tilde.run/",
+  "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+  "summary": "Tilde.run is a cloud-based agent sandbox platform that provides AI agents with a transactional, versioned filesystem environment. It allows developers to safely run and test AI agents with filesystem snapshots and rollback capabilities, similar to git but for agent execution states.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "Sandbox Technology",
+    "Transactional Filesystem",
+    "Version Control",
+    "Containerization"
+  ],
+  "problem_solved": "Provides safe, isolated environments for AI agent execution with the ability to rollback and version filesystem changes.",
+  "why_valuable": "Eliminates risk in AI agent testing by offering transactional guarantees and version control, preventing state corruption from agent errors.",
+  "tags": [
+    "AI Agents",
+    "Sandbox",
+    "Cloud Platform",
+    "Version Control",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:37:35.403413+00:00",
+  "updated_at": "2026-05-07T10:40:10.025611+00:00",
+  "published_to": []
+}

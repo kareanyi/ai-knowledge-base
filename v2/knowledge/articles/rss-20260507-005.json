@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260507-005",
+  "source": "rss",
+  "source_url": "https://github.com/wojtczyk/trust",
+  "title": "Show HN: Trust – Coding Rust like it's 1989",
+  "summary": "A Rust project that recreates the nostalgic coding style of 1989, embracing retro programming aesthetics and vintage computing era conventions in modern Rust development.",
+  "tech_stack": [
+    "Rust",
+    "Cargo",
+    "Git"
+  ],
+  "problem_solved": "Brings back the nostalgic charm and simplicity of late 1980s coding conventions to modern Rust development for fun and educational purposes.",
+  "why_valuable": "Offers a unique blend of retro computing nostalgia with modern Rust safety features, appealing to developers who appreciate vintage programming aesthetics.",
+  "tags": [
+    "Rust",
+    "Retro",
+    "Nostalgia",
+    "CodingStyle",
+    "HackerNews"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:34:25.634184+00:00",
+  "updated_at": "2026-05-07T10:40:10.015574+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-003",
+  "source": "rss",
+  "source_url": "https://unsloth.ai/blog/nvidia-collab",
+  "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+  "summary": "Unsloth has partnered with NVIDIA to significantly accelerate large language model training through optimized CUDA kernels and hardware-specific implementations, making LLM development more accessible to researchers and developers.",
+  "tech_stack": [
+    "Unsloth",
+    "NVIDIA CUDA",
+    "Python",
+    "PyTorch",
+    "Deep Learning"
+  ],
+  "problem_solved": "Dramatically reduces LLM training time and GPU memory usage for faster model development cycles.",
+  "why_valuable": "Enables researchers and developers to train large language models more efficiently with reduced computational costs.",
+  "tags": [
+    "LLM",
+    "Training",
+    "NVIDIA",
+    "Optimization",
+    "AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-07T10:34:01.014494+00:00",
+  "updated_at": "2026-05-07T10:40:10.015231+00:00",
+  "published_to": []
+}

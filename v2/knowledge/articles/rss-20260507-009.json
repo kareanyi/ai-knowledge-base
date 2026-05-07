@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-009",
+  "source": "rss",
+  "source_url": "https://permacomputing.net/principles/",
+  "title": "Permacomputing Principles",
+  "summary": "Permacomputing 是一个将永久农业理念应用于计算领域的框架，探讨如何让技术系统更加可持续、耐久、可修复和生态友好。该网站收集了一系列设计原则，指导构建更符合生态价值观的计算系统。",
+  "tech_stack": [
+    "Digital Preservation",
+    "Embedded Systems",
+    "Open Source Hardware",
+    "Sustainable Computing",
+    "FOSS"
+  ],
+  "problem_solved": "解决现代计算系统导致的电子浪费、不可持续发展和技术短命问题。",
+  "why_valuable": "它提供了一套实用的设计原则，帮助开发者构建更环保、更耐久、更易维护的计算系统，减少技术对环境的负面影响。",
+  "tags": [
+    "Sustainability",
+    "Permaculture",
+    "Green Computing",
+    "Open Source",
+    "Digital Longevity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-07T10:35:17.782010+00:00",
+  "updated_at": "2026-05-07T10:40:10.023635+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+  "title": "HP and the art of AI and data for the enterprise",
+  "summary": "HP's AI & Data Science Business Development Manager discusses enterprise AI implementation strategies, data processing for AI ingestion, and the comparison between local versus cloud computing infrastructure for AI workloads at an industry expo.",
+  "tech_stack": [
+    "AI",
+    "Data Processing",
+    "Cloud Computing",
+    "Edge Computing",
+    "Enterprise Infrastructure"
+  ],
+  "problem_solved": "Helps enterprises understand AI deployment strategies and compute infrastructure decisions between local and cloud environments.",
+  "why_valuable": "Provides practical insights from a major technology vendor on balancing AI data processing needs with appropriate compute infrastructure for enterprise environments.",
+  "tags": [
+    "Enterprise AI",
+    "Cloud Computing",
+    "Data Processing",
+    "Edge AI",
+    "Business Strategy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-07T10:38:13.480433+00:00",
+  "updated_at": "2026-05-07T10:40:10.026207+00:00",
+  "published_to": []
+}

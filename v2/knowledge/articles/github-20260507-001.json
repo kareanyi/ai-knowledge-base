@@ -1,0 +1,28 @@
+{
+  "id": "github-20260507-001",
+  "source": "github",
+  "source_url": "https://github.com/fighting41love/funNLP",
+  "title": "fighting41love/funNLP",
+  "summary": "这是一个极其全面的中文NLP资源仓库，收集整理了超过100个中英文NLP相关语料库、预训练模型、工具库和数据集，涵盖文本处理、词向量、语言生成、语音识别、知识图谱等几乎所有NLP方向。",
+  "tech_stack": [
+    "Python",
+    "BERT",
+    "Word2Vec",
+    "SpaCy",
+    "PyTorch"
+  ],
+  "problem_solved": "解决了中文NLP研究和开发中需要从分散来源搜集资源的问题，提供一站式的中文NLP开源资源库。",
+  "why_valuable": "汇集了中文NLP领域最全面的开源资源和工具，8万+星标说明其在社区中的极高认可度，能显著提升中文NLP项目的开发效率。",
+  "tags": [
+    "NLP",
+    "Chinese NLP",
+    "Machine Learning",
+    "Text Mining",
+    "Language Resources"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-07T10:28:53.189351+00:00",
+  "updated_at": "2026-05-07T10:40:10.014570+00:00",
+  "published_to": []
+}

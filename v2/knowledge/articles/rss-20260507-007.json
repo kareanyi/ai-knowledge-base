@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-007",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.03546",
+  "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+  "summary": "ProgramBench is a benchmark designed to evaluate whether large language models can accurately rebuild programs from scratch, testing their code memorization, understanding, and reconstruction capabilities across various programming scenarios.",
+  "tech_stack": [
+    "Large Language Models",
+    "Python",
+    "Code Generation",
+    "Benchmark Framework",
+    "Machine Learning Evaluation"
+  ],
+  "problem_solved": "Addresses the lack of standardized evaluation methods to assess how well LLMs can reproduce and rebuild existing code programs accurately.",
+  "why_valuable": "Provides researchers and developers with a systematic way to measure LLM code reconstruction abilities, revealing limitations in current models and guiding improvements in AI-assisted software development.",
+  "tags": [
+    "LLM",
+    "Code Generation",
+    "Benchmark",
+    "AI Research",
+    "Software Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:34:51.417845+00:00",
+  "updated_at": "2026-05-07T10:40:10.023226+00:00",
+  "published_to": []
+}

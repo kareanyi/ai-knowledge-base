@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-015",
+  "source": "rss",
+  "source_url": "https://blog.val.town/better-auth",
+  "title": "From Supabase to Clerk to Better Auth",
+  "summary": "Val Town engineers share their experience migrating from Supabase Auth to Clerk, detailing the pain points with Supabase's cookie-based authentication and how Clerk provided better DX with middleware support, simplified user management, and a more reliable email deliverability system.",
+  "tech_stack": [
+    "Clerk",
+    "Supabase",
+    "TypeScript",
+    "Middleware",
+    "OAuth"
+  ],
+  "problem_solved": "Val Town needed a more developer-friendly and reliable authentication solution that handles edge cases like serverless environments and multi-device sessions better than Supabase Auth.",
+  "why_valuable": "This case study offers practical insights and code examples for teams considering authentication provider migrations, with real metrics on email deliverability and user management improvements.",
+  "tags": [
+    "Authentication",
+    "Clerk",
+    "Supabase",
+    "Migration",
+    "Web Dev"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-07T10:36:36.853304+00:00",
+  "updated_at": "2026-05-07T10:40:10.024843+00:00",
+  "published_to": []
+}

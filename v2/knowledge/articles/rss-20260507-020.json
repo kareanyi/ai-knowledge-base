@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260507-020",
+  "source": "rss",
+  "source_url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+  "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+  "summary": "Valve has released the CAD files for the Steam Controller under a Creative Commons license, allowing the community to freely access, modify, and 3D print components for repairs or custom projects. This move supports the right-to-repair movement and extends the lifespan of the discontinued hardware.",
+  "tech_stack": [
+    "CAD",
+    "3D Printing",
+    "Creative Commons",
+    "Steam Hardware"
+  ],
+  "problem_solved": "Enables the community to repair, modify, and customize Steam Controllers without depending on Valve's manufacturing, supporting hardware longevity.",
+  "why_valuable": "Empowers users with hardware ownership rights and fosters an open-source hardware ecosystem around discontinued gaming peripherals.",
+  "tags": [
+    "Open Source Hardware",
+    "Gaming",
+    "3D Printing",
+    "Right to Repair",
+    "Steam"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:37:46.981628+00:00",
+  "updated_at": "2026-05-07T10:40:10.025828+00:00",
+  "published_to": []
+}

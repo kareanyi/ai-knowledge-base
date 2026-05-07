@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260507-011",
+  "source": "rss",
+  "source_url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+  "title": "RSS feeds send me more traffic than Google",
+  "summary": "A personal blog post sharing analytics data showing that RSS feed readers drive more traffic than Google search to the author's website, challenging the common assumption that search engines are the primary traffic source for indie websites.",
+  "tech_stack": [
+    "RSS",
+    "RSS Readers",
+    "Web Analytics"
+  ],
+  "problem_solved": "Demonstrates alternative traffic sources beyond Google search and challenges the SEO-centric approach to web publishing.",
+  "why_valuable": "Provides real-world data supporting the value of RSS/Atom feeds and the Fediverse as viable traffic alternatives to search engines.",
+  "tags": [
+    "RSS",
+    "Web Traffic",
+    "SEO",
+    "Indie Web",
+    "Content Distribution"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:35:46.497294+00:00",
+  "updated_at": "2026-05-07T10:40:10.024046+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260507-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+  "title": "AI helping ease the UK&#8217;s NHS burden",
+  "summary": "The article discusses how AI technologies are being deployed in the UK's National Health Service (NHS) to address the severe strain on healthcare workers, including a backlog of 7.25 million patients on waiting lists. New policies aim to shift care from hospitals to community settings, with AI playing a key role in streamlining operations and supporting medical staff.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Healthcare IT Systems",
+    "Automation Tools"
+  ],
+  "problem_solved": "AI is helping reduce the administrative and operational burden on NHS doctors and staff who are overwhelmed by record-high patient waiting lists and resource constraints.",
+  "why_valuable": "With NHS facing unprecedented pressure and staffing shortages, AI offers practical solutions to improve healthcare efficiency, reduce wait times, and free up medical professionals to focus on patient care.",
+  "tags": [
+    "Healthcare AI",
+    "NHS",
+    "UK Health",
+    "Medical Technology",
+    "Healthcare Automation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-07T10:37:58.831544+00:00",
+  "updated_at": "2026-05-07T10:40:10.026018+00:00",
+  "published_to": []
+}

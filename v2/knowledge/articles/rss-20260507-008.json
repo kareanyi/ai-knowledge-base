@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-008",
+  "source": "rss",
+  "source_url": "https://aniket.foo/posts/20260505-netboot/",
+  "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+  "summary": "A comprehensive guide on setting up diskless Linux boot infrastructure using ZFS for network-attached storage, iSCSI for block-level data transfer, and PXE for network boot initialization, enabling workstations to boot entirely over the network without local storage.",
+  "tech_stack": [
+    "Linux",
+    "ZFS",
+    "iSCSI",
+    "PXE",
+    "TFTP"
+  ],
+  "problem_solved": "Enables diskless computing by allowing machines to boot and run Linux entirely from network storage, eliminating the need for local hard drives.",
+  "why_valuable": "Provides a complete infrastructure solution for centralized system management, thin clients, and reduced hardware costs in enterprise environments.",
+  "tags": [
+    "Linux",
+    "Networking",
+    "Storage",
+    "PXE Boot",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-07T10:35:03.117116+00:00",
+  "updated_at": "2026-05-07T10:40:10.023438+00:00",
+  "published_to": []
+}

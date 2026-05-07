@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+  "title": "US government increases AI suppliers and rethinks Anthropic&#8217;s role",
+  "summary": "The US government has expanded its AI supplier roster for defense operations, adding Microsoft, Reflection AI, Amazon, and Nvidia to provide AI products for classified operations. These companies join OpenAI, xAI, and Google, while Anthropic's role in the defense ecosystem is being reconsidered.",
+  "tech_stack": [
+    "AI",
+    "Defense Technology",
+    "Cloud Infrastructure",
+    "Machine Learning",
+    "Classified Computing"
+  ],
+  "problem_solved": "Expanding the pool of approved AI vendors for US defense and classified operations beyond the initial consortium.",
+  "why_valuable": "Enables the US Department of Defense to leverage cutting-edge AI capabilities from multiple leading tech companies for national security applications.",
+  "tags": [
+    "Defense",
+    "Government",
+    "AI Policy",
+    "Enterprise AI",
+    "National Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:38:25.098524+00:00",
+  "updated_at": "2026-05-07T10:40:10.026397+00:00",
+  "published_to": []
+}

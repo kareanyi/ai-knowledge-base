@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-001",
+  "source": "rss",
+  "source_url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+  "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+  "summary": "ZAYA1-8B is an 8-billion parameter Mixture of Experts (MoE) model that achieves competitive performance with DeepSeek-R1 on math and coding tasks while using only 760M active parameters, making it efficient for deployment.",
+  "tech_stack": [
+    "MoE",
+    "LLM",
+    "DeepSeek-R1",
+    "Python",
+    "Open Source"
+  ],
+  "problem_solved": "Provides an efficient open-source math and coding AI model that matches frontier performance with significantly fewer active parameters, reducing computational costs.",
+  "why_valuable": " democratizes access to high-performance math and coding AI by achieving comparable results to DeepSeek-R1 with a much smaller active parameter footprint.",
+  "tags": [
+    "LLM",
+    "MoE",
+    "Math",
+    "Coding",
+    "OpenSource"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:33:36.626880+00:00",
+  "updated_at": "2026-05-07T10:40:10.014845+00:00",
+  "published_to": []
+}

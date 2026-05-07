@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-004",
+  "source": "rss",
+  "source_url": "https://github.com/darkrishabh/agent-skills-eval",
+  "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+  "summary": "Agent-skills-eval is a framework for systematically testing whether AI agent skills actually improve output quality. The tool allows developers to create benchmark tests that compare agent performance with and without specific skills, providing quantitative evidence of skill effectiveness. It addresses the challenge of validating AI agent improvements in a repeatable, measurable way.",
+  "tech_stack": [
+    "Python",
+    "pytest",
+    "LangChain",
+    "OpenAI API",
+    "JavaScript"
+  ],
+  "problem_solved": "Helps developers objectively determine if adding new skills to their AI agents produces measurable improvements or just adds complexity without value.",
+  "why_valuable": "Enables data-driven decisions about AI agent development by providing reproducible benchmarks for skill evaluation, reducing guesswork in agent optimization.",
+  "tags": [
+    "AI Agents",
+    "Testing",
+    "Benchmarking",
+    "Evaluation",
+    "Agent Skills"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:34:11.077749+00:00",
+  "updated_at": "2026-05-07T10:40:10.015401+00:00",
+  "published_to": []
+}

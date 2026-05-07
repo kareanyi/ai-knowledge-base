@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-016",
+  "source": "rss",
+  "source_url": "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non",
+  "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
+  "summary": "A research project presenting low-cost passive ultrasound tags designed for non-invasive and non-contact sensing applications. The technology enables battery-free tracking and sensing using ultrasonic waves, making it suitable for IoT and embedded systems deployments.",
+  "tech_stack": [
+    "Embedded Systems",
+    "Ultrasound Transducers",
+    "Signal Processing",
+    "PCB Design",
+    "Microcontrollers"
+  ],
+  "problem_solved": "Provides an affordable, battery-free alternative for wireless sensing and tracking in scenarios where traditional RFID or active sensors are too expensive or impractical.",
+  "why_valuable": "Enables scalable, low-maintenance sensing solutions for smart environments, healthcare monitoring, and industrial IoT applications without the need for onboard power sources.",
+  "tags": [
+    "Ultrasound",
+    "IoT",
+    "Sensors",
+    "Embedded Systems",
+    "Passive Tags"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-07T10:36:50.780395+00:00",
+  "updated_at": "2026-05-07T10:40:10.025032+00:00",
+  "published_to": []
+}

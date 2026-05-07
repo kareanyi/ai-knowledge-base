@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-013",
+  "source": "rss",
+  "source_url": "https://sander.ai/2026/05/06/flow-maps.html",
+  "title": "Learning the Integral of a Diffusion Model",
+  "summary": "A technical deep-dive exploring the mathematical relationship between diffusion models and flow matching, specifically focusing on understanding the integral/form of diffusion processes through flow maps. The article provides theoretical insights into how these generative AI techniques are mathematically connected.",
+  "tech_stack": [
+    "Diffusion Models",
+    "Flow Matching",
+    "Generative AI",
+    "Machine Learning",
+    "Probability Theory"
+  ],
+  "problem_solved": "Explains the mathematical foundations connecting diffusion models to flow matching by learning their integral representation.",
+  "why_valuable": "Provides researchers and practitioners with deeper theoretical understanding of diffusion models, enabling better intuition for model design and optimization.",
+  "tags": [
+    "Diffusion Models",
+    "Flow Matching",
+    "Generative AI",
+    "Mathematical Foundations",
+    "Deep Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-07T10:36:10.918875+00:00",
+  "updated_at": "2026-05-07T10:40:10.024435+00:00",
+  "published_to": []
+}

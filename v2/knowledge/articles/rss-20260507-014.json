@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-014",
+  "source": "rss",
+  "source_url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+  "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+  "summary": "Google Cloud announces Fraud Defense, the next evolution of reCAPTCHA that provides enterprise-grade fraud protection using advanced ML algorithms to detect bot attacks, account takeover attempts, and fraudulent transactions across web and mobile applications.",
+  "tech_stack": [
+    "Google Cloud",
+    "reCAPTCHA",
+    "Machine Learning",
+    "Cloud Identity",
+    "TensorFlow"
+  ],
+  "problem_solved": "Provides comprehensive fraud detection and bot protection for enterprises to prevent account takeover, credential stuffing, and transaction fraud.",
+  "why_valuable": "Consolidates Google's decades of anti-fraud expertise from reCAPTCHA into an integrated enterprise security solution with real-time threat detection capabilities.",
+  "tags": [
+    "Cloud Security",
+    "Fraud Detection",
+    "reCAPTCHA",
+    "Bot Protection",
+    "Enterprise Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-07T10:36:24.278703+00:00",
+  "updated_at": "2026-05-07T10:40:10.024627+00:00",
+  "published_to": []
+}

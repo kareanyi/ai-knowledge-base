@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260507-002",
+  "source": "rss",
+  "source_url": "https://CringeOut.com",
+  "title": "Show HN: Social Network for Corporate Cringe",
+  "summary": "A satirical social network platform where users can post and react to corporate jargon, humblebrags, and workplace cringe content, creating a community space for cathartic humor about corporate culture.",
+  "tech_stack": [
+    "Web Platform",
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Provides an outlet for corporate employees to share and react to workplace absurdity through humor instead of suffering in silence.",
+  "why_valuable": "Creates community catharsis around shared workplace frustrations while satirizing corporate culture norms that often feel inescapable.",
+  "tags": [
+    "social-network",
+    "satire",
+    "workplace-humor",
+    "corporate-culture",
+    "community"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-05-07T10:33:49.274254+00:00",
+  "updated_at": "2026-05-07T10:40:10.015046+00:00",
+  "published_to": []
+}
