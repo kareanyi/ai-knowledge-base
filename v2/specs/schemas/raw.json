@@ -1,0 +1,7 @@
+{
+  "title": "string",
+  "url": "string",
+  "description": "string",
+  "stars": "integer",
+  "language": "string | null"
+}

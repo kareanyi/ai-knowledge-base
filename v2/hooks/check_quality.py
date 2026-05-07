@@ -214,6 +214,8 @@ def resolve_files(pattern: str) -> list[Path]:
     p = Path(pattern)
     if p.exists() and p.is_file():
         return [p]
+    if p.exists() and p.is_dir():
+        return sorted(p.rglob("*.json"))
     expanded = list(Path(".").glob(pattern))
     if not expanded:
         expanded = list(Path.cwd().glob(pattern))
