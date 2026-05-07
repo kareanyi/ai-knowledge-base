@@ -569,6 +569,7 @@ def chat_json(
             except json.JSONDecodeError:
                 continue
 
+    logger.error("[chat_json] JSON parse failed, raw response: %r", text[:500] if text else "(empty)")
     raise json.JSONDecodeError("Failed to parse JSON after all fallback strategies", cleaned, 0)
 
 
