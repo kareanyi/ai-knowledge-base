@@ -4,6 +4,10 @@
 通过环境变量切换，默认 minimax。
 """
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 import json
 import logging
 import os

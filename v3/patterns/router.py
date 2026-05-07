@@ -11,30 +11,10 @@ import json
 import logging
 import os
 import re
-from pathlib import Path
 from urllib.parse import quote
 from urllib.request import urlopen, Request
 from typing import Literal
 
-
-def _load_dotenv(env_path: Path | None = None) -> None:
-    """从 .env 文件加载环境变量（如果未设置则覆盖）。"""
-    if env_path is None:
-        env_path = Path(__file__).resolve().parent.parent / ".env"
-    if not env_path.exists():
-        return
-    for line in env_path.read_text().splitlines():
-        line = line.strip()
-        if not line or line.startswith("#") or "=" not in line:
-            continue
-        key, _, value = line.partition("=")
-        key = key.strip()
-        value = value.strip().strip('"').strip("'")
-        if key and not os.environ.get(key):
-            os.environ[key] = value
-
-
-_load_dotenv()
 
 from workflows.model_client import chat, chat_json
 
