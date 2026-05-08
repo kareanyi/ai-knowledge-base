@@ -351,3 +351,33 @@ def save_node(state: KBState) -> dict:
 
     logger.info("[Saver] 保存完成，共 %d 条，已更新索引", len(saved_ids))
     return {"saved_ids": saved_ids}
+
+
+FEEDBACKS = [
+    "摘要过于笼统，缺乏具体技术细节，请补充更精准的描述。",
+    "标签覆盖面不足，缺少相关技术栈关键词，建议增加 2-3 个标签。",
+]
+
+
+def review_node_test(state: KBState) -> dict:
+    """测试用审核节点：前 2 次强制不通过，第 3 次通过。"""
+    iteration = state.get("iteration", 0)
+
+    logger.info("[Reviewer] 测试审核（iteration=%d）", iteration)
+
+    if iteration >= 2:
+        logger.info("[Reviewer] iteration=%d, review_passed=True", iteration)
+        return {
+            "review_passed": True,
+            "review_feedback": "",
+            "iteration": iteration + 1,
+        }
+
+    feedback = FEEDBACKS[iteration] if iteration < len(FEEDBACKS) else "请修正后重新提交。"
+    logger.info("[Reviewer] iteration=%d, review_passed=False, feedback=%s", iteration, feedback)
+
+    return {
+        "review_passed": False,
+        "review_feedback": feedback,
+        "iteration": iteration + 1,
+    }
