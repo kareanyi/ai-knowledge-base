@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260508-010",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+  "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+  "summary": "Canvas, a widely-used learning management system in schools, has been breached by the ShinyHunters hacker group, which is now threatening to leak sensitive schools' data. This incident has caused significant disruption to educational institutions that rely on the platform.",
+  "tech_stack": [
+    "Canvas LMS",
+    "Cloud Infrastructure",
+    "Educational Technology"
+  ],
+  "problem_solved": "This is a cybersecurity incident, not a problem-solving technology—it represents a data breach that has compromised sensitive school information.",
+  "why_valuable": "This incident highlights the growing threat of ransomware and data exfiltration attacks targeting educational institutions, raising awareness about the importance of cybersecurity in schools.",
+  "tags": [
+    "Cybersecurity",
+    "Data Breach",
+    "Education",
+    "Ransomware",
+    "ShinyHunters"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-08T09:35:51.268806+00:00",
+  "updated_at": "2026-05-08T09:42:07.710390+00:00",
+  "published_to": []
+}

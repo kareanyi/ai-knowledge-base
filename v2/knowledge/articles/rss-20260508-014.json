@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260508-014",
+  "source": "rss",
+  "source_url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+  "title": "AI slop is killing online communities",
+  "summary": "This article discusses how AI-generated content (derogatorily called 'AI slop') is flooding online communities, forums, and discussion platforms, degrading the quality of conversations and making it difficult to distinguish human contributions from machine-generated responses.",
+  "tech_stack": [
+    "LLM",
+    "ChatGPT",
+    "Online Forums",
+    "Social Media Platforms"
+  ],
+  "problem_solved": "Raises awareness about how uncontrolled AI-generated content is destroying the authenticity and quality of online community discussions.",
+  "why_valuable": "It provides a critical perspective on an emerging digital culture problem that affects how we communicate and build communities online.",
+  "tags": [
+    "AI",
+    "Online Communities",
+    "Content Quality",
+    "Digital Culture",
+    "Social Media"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-08T09:37:05.899239+00:00",
+  "updated_at": "2026-05-08T09:42:07.711201+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260508-004",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1066418/",
+  "title": "Digging into Drama at the Document Foundation",
+  "summary": "This LWN.net article examines internal conflicts and community tensions within the Document Foundation, the nonprofit organization behind the LibreOffice open-source office suite. The piece explores governance issues and interpersonal drama within the open-source project.",
+  "tech_stack": [
+    "LibreOffice",
+    "Open Source",
+    "Python",
+    "C++"
+  ],
+  "problem_solved": "Provides insight into open-source project governance challenges and community management issues at the Document Foundation.",
+  "why_valuable": "Highlights the human and organizational challenges that can affect open-source software projects, offering lessons for community governance.",
+  "tags": [
+    "Open Source",
+    "LibreOffice",
+    "Community",
+    "Governance",
+    "Document Foundation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-08T09:34:02.295816+00:00",
+  "updated_at": "2026-05-08T09:42:07.701604+00:00",
+  "published_to": []
+}

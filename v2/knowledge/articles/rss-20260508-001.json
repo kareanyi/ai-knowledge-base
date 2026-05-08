@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260508-001",
+  "source": "rss",
+  "source_url": "https://clojurescript.org/news/2026-05-07-release",
+  "title": "ClojureScript Gets Async/Await",
+  "summary": "ClojureScript releases support for async/await syntax, bringing the popular JavaScript asynchronous programming pattern to the functional Clojure ecosystem. This allows developers to write more readable async code while maintaining compatibility with existing ClojureScript codebases.",
+  "tech_stack": [
+    "ClojureScript",
+    "JavaScript",
+    "async/await",
+    "core.async",
+    "Clojure"
+  ],
+  "problem_solved": "Provides a more familiar imperative-style async pattern for developers while maintaining Clojure's functional paradigm and interop with JavaScript promises.",
+  "why_valuable": "Bridges the gap between Clojure's traditional channel-based async (core.async) and mainstream async/await patterns, making ClojureScript more accessible to a broader developer community while simplifying promise-based interop.",
+  "tags": [
+    "ClojureScript",
+    "async-await",
+    "JavaScript-interop",
+    "functional-programming",
+    "language-feature"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-08T09:33:21.700843+00:00",
+  "updated_at": "2026-05-08T09:42:07.700855+00:00",
+  "published_to": []
+}

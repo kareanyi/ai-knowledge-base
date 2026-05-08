@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260508-011",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+  "title": "Cloudflare to cut about 20% workforce",
+  "summary": "Cloudflare, a major internet infrastructure and cloud services company, announced plans to reduce its workforce by approximately 20%, affecting over 1,100 employees. The company stated this is part of a strategic restructuring to 'build for the future,' suggesting a shift in business focus or efficiency optimization amid changing market conditions.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "CDN",
+    "Network Security",
+    "Edge Computing",
+    "DDoS Protection"
+  ],
+  "problem_solved": "This news does not describe a technical solution; it reports on corporate restructuring and layoffs in the technology sector.",
+  "why_valuable": "This represents a significant development in the tech industry's ongoing workforce adjustments and provides insight into Cloudflare's strategic direction.",
+  "tags": [
+    "Cloudflare",
+    "Layoffs",
+    "Tech Industry",
+    "Workforce Reduction",
+    "Corporate Restructuring"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-08T09:36:06.813590+00:00",
+  "updated_at": "2026-05-08T09:42:07.710600+00:00",
+  "published_to": []
+}

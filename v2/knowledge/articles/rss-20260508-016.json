@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260508-016",
+  "source": "rss",
+  "source_url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+  "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+  "summary": "Brazil's government-backed instant payment system Pix, which has achieved massive adoption since its 2020 launch, now faces competitive pressure from Visa and Mastercard as these card networks launch their own instant payment solutions in the Brazilian market. The article discusses the market dynamics between public and private payment infrastructures.",
+  "tech_stack": [
+    "Instant Payment Infrastructure",
+    "Real-time Payments",
+    "API-based Systems",
+    "Digital Wallets",
+    "Fintech"
+  ],
+  "problem_solved": "Competition between government-backed and private payment networks in Brazil's digital payment ecosystem.",
+  "why_valuable": "Provides insights into how public payment infrastructure competes against established global payment giants and the future of digital payments in emerging markets.",
+  "tags": [
+    "Payments",
+    "Fintech",
+    "Digital Banking",
+    "Brazil",
+    "Financial Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-08T09:37:43.861356+00:00",
+  "updated_at": "2026-05-08T09:42:07.711636+00:00",
+  "published_to": []
+}

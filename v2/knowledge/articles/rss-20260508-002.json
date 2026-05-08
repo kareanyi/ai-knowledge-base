@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260508-002",
+  "source": "rss",
+  "source_url": "https://hantawatch.net/",
+  "title": "HantaWatch Real time hantavirus outbreak tracker",
+  "summary": "HantaWatch is a real-time web-based tracker that monitors and displays hantavirus outbreak data globally, providing public access to disease surveillance information.",
+  "tech_stack": [
+    "Web Platform",
+    "Real-time Data Visualization"
+  ],
+  "problem_solved": "Provides accessible real-time tracking and visualization of hantavirus outbreaks for public awareness and health monitoring.",
+  "why_valuable": "Enables early detection and awareness of hantavirus spread, helping communities and health officials respond more effectively to potential outbreaks.",
+  "tags": [
+    "Public Health",
+    "Disease Tracking",
+    "Outbreak Monitoring",
+    "Real-time Analytics",
+    "Hantavirus"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-05-08T09:33:33.214500+00:00",
+  "updated_at": "2026-05-08T09:42:07.701180+00:00",
+  "published_to": []
+}

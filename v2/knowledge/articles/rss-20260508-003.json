@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260508-003",
+  "source": "rss",
+  "source_url": "https://github.com/graemeg/blaise",
+  "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+  "summary": "Blaise is a modern, self-hosting Object Pascal compiler built from scratch targeting QBE (Quick Backend), designed with zero legacy constraints to provide a clean, contemporary implementation of the Pascal language.",
+  "tech_stack": [
+    "Object Pascal",
+    "QBE (Quick Backend)",
+    "Compiler Toolchain",
+    "LLVM"
+  ],
+  "problem_solved": "Provides a modern Object Pascal compiler without legacy baggage, enabling cleaner language implementation and easier maintenance compared to traditional Pascal compilers.",
+  "why_valuable": "Its self-hosting nature means the compiler is written in its own language, demonstrating practical use while offering a fresh foundation for Pascal development in modern contexts.",
+  "tags": [
+    "compiler",
+    "object-pascal",
+    "programming-language",
+    "qbe",
+    "self-hosting"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-08T09:33:48.356118+00:00",
+  "updated_at": "2026-05-08T09:42:07.701399+00:00",
+  "published_to": []
+}

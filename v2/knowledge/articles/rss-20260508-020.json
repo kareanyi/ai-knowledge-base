@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260508-020",
+  "source": "rss",
+  "source_url": "https://deepmind.google/blog/alphaevolve-impact/",
+  "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+  "summary": "AlphaEvolve is Google DeepMind's AI coding agent that combines Gemini's language model capabilities with evolutionary algorithms to automatically discover and improve algorithms across scientific and engineering domains. It has demonstrated real-world impact in matrix multiplication, chip design, and mathematical research by iteratively generating, testing, and evolving code solutions.",
+  "tech_stack": [
+    "Gemini",
+    "Large Language Models",
+    "Evolutionary Algorithms",
+    "Python",
+    "AI Agents"
+  ],
+  "problem_solved": "Automates the discovery and optimization of algorithms and computational solutions across diverse scientific and engineering domains.",
+  "why_valuable": "Combines the creative reasoning of LLMs with systematic evolutionary search to achieve algorithmic breakthroughs that neither approach could accomplish independently.",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "Evolutionary Algorithms",
+    "Algorithm Discovery",
+    "Scientific Computing"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-08T09:39:03.966072+00:00",
+  "updated_at": "2026-05-08T09:42:07.712483+00:00",
+  "published_to": []
+}

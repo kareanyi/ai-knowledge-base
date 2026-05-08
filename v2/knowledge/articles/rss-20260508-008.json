@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260508-008",
+  "source": "rss",
+  "source_url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+  "title": "Maybe you shouldn't install new software for a bit",
+  "summary": "A blog post discussing the philosophy of refraining from constantly installing new software, likely touching on themes of software fatigue, stability, security, and digital minimalism in development practices.",
+  "tech_stack": [
+    "General Software"
+  ],
+  "problem_solved": "Addresses the tendency of developers to constantly chase new tools and software, leading to cognitive overhead and potential instability.",
+  "why_valuable": "The high engagement (506 points, 260 comments) suggests this resonates with developers feeling overwhelmed by the constant stream of new tools and frameworks.",
+  "tags": [
+    "SoftwareEngineering",
+    "Productivity",
+    "DigitalMinimalism",
+    "DeveloperExperience",
+    "BestPractices"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-08T09:35:14.630685+00:00",
+  "updated_at": "2026-05-08T09:42:07.709925+00:00",
+  "published_to": []
+}

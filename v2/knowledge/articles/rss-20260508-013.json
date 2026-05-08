@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260508-013",
+  "source": "rss",
+  "source_url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+  "title": "Dirtyfrag: Universal Linux LPE",
+  "summary": "Dirtyfrag is a universal Linux local privilege escalation vulnerability affecting kernel versions 5.7+, disclosed via the oss-security mailing list with significant community attention (628 points, 258 comments).",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "GDB",
+    "Kernel Debugging",
+    "Exploit Development"
+  ],
+  "problem_solved": "Exploits a Linux kernel memory management vulnerability to escalate from unprivileged user to root privileges locally.",
+  "why_valuable": "Provides a proof-of-concept for a kernel-level privilege escalation that affects millions of Linux systems, critical for security hardening and patching prioritization.",
+  "tags": [
+    "Linux",
+    "Privilege Escalation",
+    "Vulnerability",
+    "Kernel",
+    "CVE"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-08T09:36:50.273113+00:00",
+  "updated_at": "2026-05-08T09:42:07.711005+00:00",
+  "published_to": []
+}

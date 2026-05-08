@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260508-012",
+  "source": "rss",
+  "source_url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+  "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+  "summary": "Two South African Home Affairs officials were suspended after discovering that an AI system deployed in their department produced 'hallucinations' - inaccurate or fabricated outputs. This incident highlights the risks of implementing AI in critical government services without proper oversight and validation mechanisms.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Government Systems"
+  ],
+  "problem_solved": "Addresses the accountability gap when AI systems produce false or misleading outputs in government operations.",
+  "why_valuable": "Demonstrates real-world consequences of AI hallucinations in public sector applications, serving as a cautionary case for AI governance.",
+  "tags": [
+    "AI",
+    "Hallucination",
+    "Government",
+    "Accountability",
+    "News"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-08T09:36:33.585875+00:00",
+  "updated_at": "2026-05-08T09:42:07.710806+00:00",
+  "published_to": []
+}

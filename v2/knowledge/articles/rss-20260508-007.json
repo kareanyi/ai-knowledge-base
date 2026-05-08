@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260508-007",
+  "source": "rss",
+  "source_url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+  "title": "Plasticity and language in the anaesthetized human hippocampus",
+  "summary": "Researchers from Baylor College of Medicine discovered that the human hippocampus maintains advanced language processing capabilities even under anesthesia, challenging the traditional view that higher-order linguistic functions require full consciousness. The study found evidence of syntactic processing and word familiarity detection in the unconscious brain.",
+  "tech_stack": [
+    "Intracranial EEG (iEEG)",
+    "Neural Recording",
+    "Statistical Analysis",
+    "Electrophysiology",
+    "Cognitive Neuroscience Methods"
+  ],
+  "problem_solved": "Understanding whether the hippocampus can process complex language features independent of conscious awareness.",
+  "why_valuable": "This research fundamentally challenges our understanding of consciousness requirements for language processing and may revolutionize approaches to anesthesia management and consciousness studies.",
+  "tags": [
+    "Neuroscience",
+    "Language Processing",
+    "Hippocampus",
+    "Consciousness",
+    "Brain Research"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-08T09:34:59.326899+00:00",
+  "updated_at": "2026-05-08T09:42:07.702185+00:00",
+  "published_to": []
+}
