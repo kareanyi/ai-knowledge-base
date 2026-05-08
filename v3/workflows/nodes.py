@@ -340,9 +340,28 @@ def _update_index(articles: list[dict]) -> None:
 
 
 def save_node(state: KBState) -> dict:
-    """保存节点：将 articles 写入 knowledge/articles/ 目录的 JSON 文件。"""
-    articles = state.get("articles", [])
-    logger.info("[Saver] 开始保存 %d 条文章...", len(articles))
+    """整理+保存节点：过滤、去重、赋值 ID、写入文件、更新索引。
+
+    在 review 通过后执行，负责将 analyses 转化为最终可发布的知识条目。
+    """
+    analyses = state.get("analyses", [])
+
+    logger.info("[Organizer] 开始整理并保存 %d 条 analyses...", len(analyses))
+
+    articles = [a for a in analyses if a.get("relevance_score", 0) >= 0.6]
+    logger.info("[Organizer] 过滤后（score>=0.6）：%d 条", len(articles))
+
+    before_dedup = len(articles)
+    articles = _dedup_by_url(articles)
+    logger.info("[Organizer] 去重后：%d 条（移除 %d 条重复）", len(articles), before_dedup - len(articles))
+
+    for idx, article in enumerate(articles):
+        if "id" not in article:
+            article["id"] = f"{datetime.now(timezone.utc).strftime('%Y-%m-%d')}-{idx:03d}"
+        if "source" not in article:
+            article["source"] = "github"
+        if "collected_at" not in article:
+            article["collected_at"] = datetime.now(timezone.utc).isoformat()
 
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
     saved_ids = []
@@ -352,21 +371,16 @@ def save_node(state: KBState) -> dict:
         if not article_id:
             continue
 
-        if "source" not in article:
-            article["source"] = "github"
-        if "collected_at" not in article:
-            article["collected_at"] = datetime.now(timezone.utc).isoformat()
-
         file_path = ARTICLES_DIR / f"{article_id}.json"
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(article, f, ensure_ascii=False, indent=2)
 
         saved_ids.append(article_id)
-        logger.info("[Saver] 已保存: %s", article_id)
+        logger.info("[Organizer] 已保存: %s", article_id)
 
     _update_index(articles)
 
-    logger.info("[Saver] 保存完成，共 %d 条，已更新索引", len(saved_ids))
+    logger.info("[Organizer] 整理保存完成，共 %d 条，已更新索引", len(saved_ids))
     return {"saved_ids": saved_ids}
 
 

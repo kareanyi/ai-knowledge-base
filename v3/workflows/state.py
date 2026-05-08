@@ -44,4 +44,5 @@ class KBState(TypedDict, total=False):
     review_feedback: str
     review_passed: bool
     iteration: int
+    needs_human_review: bool
     cost_tracker: dict

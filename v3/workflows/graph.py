@@ -1,28 +1,30 @@
 """LangGraph 工作流图定义。
 
-组装 collect → analyze → organize → review → save 的条件循环图。
-"""
+组装 collect → analyze → review → revise（循环）→ organize 的条件路由图。"""
 
 import logging
 
 from langgraph.graph import StateGraph, END
 
-from workflows.nodes import collect_node, analyze_node, organize_node, save_node
+from workflows.nodes import collect_node, analyze_node, save_node
 from workflows.reviewer import review_node
+from workflows.reviser import revise_node
+from workflows.human_flag import human_flag_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
 
 
-def _route_after_review(state: KBState) -> str:
+def route_after_review(state: KBState) -> str:
     """根据审核结果路由下一步。
 
     Args:
         state: 当前工作流状态。
 
     Returns:
-        "save" 表示通过审核，进入保存节点；
-        "organize" 表示未通过审核，回到整理节点修正。
+        "organize" 表示通过审核，进入整理保存节点；
+        "revise" 表示未通过审核且未达最大迭代，进入修订节点；
+        "human_flag" 表示未通过审核且已达最大迭代，进入人工处理节点。
     """
     review_passed = state.get("review_passed", False)
     iteration = state.get("iteration", 0)
@@ -30,20 +32,23 @@ def _route_after_review(state: KBState) -> str:
     logger.info("[Router] review_passed=%s, iteration=%d", review_passed, iteration)
 
     if review_passed:
-        return "save"
-    return "organize"
+        return "organize"
+    if iteration < 3:
+        return "revise"
+    return "human_flag"
 
 
 def build_graph() -> StateGraph:
     """构建并返回编译后的 LangGraph 应用。
 
     工作流拓扑：
-        collect → analyze → organize → review → save(true)
-                              ↑           │
-                              └──(false)──┘
+        collect → analyze → review ─┬─→ organize（整理+保存）→ END
+                                    ├─→ revise（iter<3） → review
+                                    └─→ human_flag（iter≥3）→ END
 
-        - (true): review_passed=True → save → END
-        - (false): review_passed=False → organize (loop)
+    - (true): review_passed=True → organize → END
+    - (false, iter<3): review_passed=False, iteration<3 → revise → review (loop)
+    - (false, iter>=3): review_passed=False, iteration>=3 → human_flag → END
 
     Returns:
         编译后的 StateGraph 应用。
@@ -52,23 +57,25 @@ def build_graph() -> StateGraph:
 
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
-    graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
-    graph.add_node("save", save_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("organize", save_node)
+    graph.add_node("human_flag", human_flag_node)
 
     graph.set_entry_point("collect")
 
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "review")
-    graph.add_edge("organize", "review")
 
     graph.add_conditional_edges(
         "review",
-        _route_after_review,
-        {"save": "save", "organize": "organize"},
+        route_after_review,
+        {"organize": "organize", "revise": "revise", "human_flag": "human_flag"},
     )
 
-    graph.add_edge("save", END)
+    graph.add_edge("revise", "review")
+    graph.add_edge("organize", END)
+    graph.add_edge("human_flag", END)
 
     return graph.compile()
 
@@ -105,17 +112,14 @@ if __name__ == "__main__":
             count = len(node_state.get("analyses", []))
             cost = node_state.get("cost_tracker", {}).get("total_cost_yuan", 0)
             logger.info("  → 分析完成 %d 条，cost=¥%.4f", count, cost)
-        elif node_name == "organize":
-            count = len(node_state.get("articles", []))
-            logger.info("  → 整理完成 %d 条待审", count)
         elif node_name == "review":
             passed = node_state.get("review_passed", False)
             iteration = node_state.get("iteration", 0)
             feedback = node_state.get("review_feedback", "")
             logger.info("  → 审核结果: passed=%s, iteration=%d, feedback=%s",
                          passed, iteration, feedback[:50] if feedback else "")
-        elif node_name == "save":
+        elif node_name == "organize":
             saved = node_state.get("saved_ids", []) if node_state else []
-            logger.info("  → 保存完成 %d 条: %s", len(saved), saved)
+            logger.info("  → 整理保存完成 %d 条: %s", len(saved), saved)
 
     logger.info("工作流执行完毕")

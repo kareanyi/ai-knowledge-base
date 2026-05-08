@@ -557,8 +557,10 @@ def chat_json(
                 break
         cleaned = "\n".join(lines[start:end])
 
-    cleaned = re.sub(r'<think>[\s\S]*?</>', '', cleaned)
-    cleaned = re.sub(r'<think>[^\n]*\n(?:[^\n]*\n)*?(\{)', r'\1', cleaned)
+    cleaned = re.sub(r'<(?:template)?\s*:[^>]*>[\s\S]*?</(?:template)?\s*:>', '', cleaned)
+    cleaned = re.sub(r'<think>[\s\S]*?</think>', '', cleaned)
+    cleaned = re.sub(r'<think>.*', '', cleaned)
+    cleaned = re.sub(r'</?(?:思考|reasoning|thought)[^>]*>', '', cleaned)
     cleaned = re.sub(r'</?[^>]+>', '', cleaned)
     cleaned = cleaned.strip()
 
@@ -567,14 +569,14 @@ def chat_json(
     except json.JSONDecodeError:
         pass
 
-    for pattern in (r'\{[\s\S]*?\}', r'\[[\s\S]*?\]'):
+    for pattern in (r'\[[\s\S]*\]', r'\{[\s\S]*?\}'):
         for match in re.finditer(pattern, cleaned):
             try:
                 return json.loads(match.group()), usage
             except json.JSONDecodeError:
                 continue
 
-    marker_match = re.search(r'===JSON_START===\s*(\{[\s\S]*?\})\s*===JSON_END===', cleaned)
+    marker_match = re.search(r'===JSON_START===\s*(\{[\s\S]*?\}|\[[\s\S]*\])\s*===JSON_END===', cleaned)
     if marker_match:
         try:
             return json.loads(marker_match.group(1)), usage

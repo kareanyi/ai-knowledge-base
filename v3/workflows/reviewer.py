@@ -166,7 +166,7 @@ def review_node(state: KBState) -> dict:
     return {
         "review_passed": review_passed,
         "review_feedback": feedback,
-        "iteration": iteration,
+        "iteration": iteration + 1,
         "cost_tracker": cost_tracker,
     }
 
