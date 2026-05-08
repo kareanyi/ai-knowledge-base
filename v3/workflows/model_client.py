@@ -495,6 +495,7 @@ def chat(
     system: str = "你是一个专业的 AI 技术分析师。",
     temperature: float = 0.3,
     max_tokens: int = 2000,
+    stream: bool = False,
     provider: str | None = None,
 ) -> tuple[str, dict]:
     """调用 LLM 并返回 (回复文本, token用量信息)
@@ -514,7 +515,7 @@ def chat(
         {"role": "user", "content": prompt},
     ]
 
-    response = chat_with_retry(messages, provider, temperature=temperature, max_tokens=max_tokens)
+    response = chat_with_retry(messages, provider, temperature=temperature, max_tokens=max_tokens, stream=stream)
 
     usage = {
         "prompt_tokens": response.usage.get("prompt_tokens", response.usage.get("input_tokens", 0)),
@@ -543,7 +544,7 @@ def chat_json(
     Raises:
         json.JSONDecodeError: 三种策略都失败时
     """
-    text, usage = chat(prompt, system=system, **kwargs)
+    text, usage = chat(prompt, system=system, stream=False, **kwargs)
 
     cleaned = text.strip()
     if cleaned.startswith("```"):
@@ -556,20 +557,31 @@ def chat_json(
                 break
         cleaned = "\n".join(lines[start:end])
 
+    cleaned = re.sub(r'<think>[\s\S]*?</>', '', cleaned)
+    cleaned = re.sub(r'<think>[^\n]*\n(?:[^\n]*\n)*?(\{)', r'\1', cleaned)
+    cleaned = re.sub(r'</?[^>]+>', '', cleaned)
+    cleaned = cleaned.strip()
+
     try:
         return json.loads(cleaned), usage
     except json.JSONDecodeError:
         pass
 
-    for pattern in (r"\{[\s\S]*\}", r"\[[\s\S]*\]"):
-        match = re.search(pattern, cleaned)
-        if match:
+    for pattern in (r'\{[\s\S]*?\}', r'\[[\s\S]*?\]'):
+        for match in re.finditer(pattern, cleaned):
             try:
                 return json.loads(match.group()), usage
             except json.JSONDecodeError:
                 continue
 
-    logger.error("[chat_json] JSON parse failed, raw response: %r", text[:500] if text else "(empty)")
+    marker_match = re.search(r'===JSON_START===\s*(\{[\s\S]*?\})\s*===JSON_END===', cleaned)
+    if marker_match:
+        try:
+            return json.loads(marker_match.group(1)), usage
+        except json.JSONDecodeError:
+            pass
+
+    logger.error("[chat_json] JSON parse failed, raw response: %r, cleaned: %r", text[:1000] if text else "(empty)", cleaned[:500] if cleaned else "(empty)")
     raise json.JSONDecodeError("Failed to parse JSON after all fallback strategies", cleaned, 0)
 
 

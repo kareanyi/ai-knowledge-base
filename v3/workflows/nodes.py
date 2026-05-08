@@ -159,7 +159,20 @@ def _analyze_single(item: dict, idx: int, iteration: int, feedback: str | None) 
     if iteration > 0 and feedback:
         system = "你是一个专业的 AI 技术分析师，负责根据审核反馈修正之前的分析结果，使其更准确、质量更高。"
 
-    result, usage = chat_json(prompt, system=system)
+    try:
+        result, usage = chat_json(prompt, system=system)
+    except Exception as e:
+        logger.warning("[Analyzer] 条目 #%d LLM 调用失败: %s，使用 fallback", idx + 1, e)
+        result = {
+            "summary": f"（LLM 解析失败）{description[:50]}..." if description else "（无描述）",
+            "tech_stack": [],
+            "tags": [],
+            "problem_solved": "未知",
+            "why_valuable": "未知",
+            "category": "unknown",
+            "relevance_score": 0.0,
+        }
+        usage = {"prompt_tokens": 0, "completion_tokens": 0}
     return {"item": item, "analysis": result, "usage": usage}
 
 
@@ -208,7 +221,11 @@ def _apply_feedback_correction(items: list[dict], feedback: str) -> list[dict]:
         "请返回修正后的 JSON 数组，保持相同结构，只修正有问题的部分。"
     )
 
-    corrected, usage = chat_json(prompt, system=SYSTEM_ORGANIZE)
+    try:
+        corrected, usage = chat_json(prompt, system=SYSTEM_ORGANIZE)
+    except Exception as e:
+        logger.warning("[Organizer] 审核反馈修正 LLM 调用失败: %s，跳过修正", e)
+        return items
     if isinstance(corrected, list):
         return corrected
     return items

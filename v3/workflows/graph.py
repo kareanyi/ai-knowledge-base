@@ -7,7 +7,8 @@ import logging
 
 from langgraph.graph import StateGraph, END
 
-from workflows.nodes import collect_node, analyze_node, organize_node, review_node, save_node
+from workflows.nodes import collect_node, analyze_node, organize_node, save_node
+from workflows.reviewer import review_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
@@ -58,7 +59,7 @@ def build_graph() -> StateGraph:
     graph.set_entry_point("collect")
 
     graph.add_edge("collect", "analyze")
-    graph.add_edge("analyze", "organize")
+    graph.add_edge("analyze", "review")
     graph.add_edge("organize", "review")
 
     graph.add_conditional_edges(
