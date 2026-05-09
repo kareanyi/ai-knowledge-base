@@ -1,8 +1,18 @@
 # AI 知识库助手 - AGENTS.md
 
-## 项目概述
+> 本文件是项目的"大脑"——OpenCode 启动时自动加载，指导所有 Agent 的行为。
 
-AI 知识库助手自动从 GitHub Trending 和 Hacker News 采集 AI/LLM/Agent 领域的技术动态，经 AI 分析后结构化存储为 JSON 格式的知识条目，并支持多渠道分发（Telegram/飞书）。
+## 项目定义
+
+**AI Knowledge Base V4（AI 知识库·生产版）** 是一个完整的技术情报平台。
+自动从 GitHub Trending 和 Hacker News 采集 AI/LLM/Agent 领域的技术动态，经 AI 分析后结构化存储为 JSON 格式的知识条目，并支持多渠道分发（Telegram/飞书）。
+
+### 核心价值
+
+- 每日自动采集 AI/LLM/Agent 领域的高质量技术文章与开源项目
+- 通过 Agent 协作完成 **采集 → 分析 → 整理 → 分发** 四阶段流水线
+- 多渠道内容分发：Telegram 频道、飞书群组
+- OpenClaw 网关统一接入，Docker 一键部署
 
 ---
 
@@ -15,6 +25,56 @@ AI 知识库助手自动从 GitHub Trending 和 Hacker News 采集 AI/LLM/Agent 
 | 编排 | LangGraph |
 | 抓取 | OpenClaw（浏览器自动化） |
 | 存储 | JSON 文件（知识库）、SQLite（原始数据） |
+| 容器化 | Docker + Docker Compose |
+
+---
+
+## 项目结构
+
+```
+.
+├── workflows/                      # LangGraph 工作流实现
+│   ├── __init__.py
+│   ├── state.py                   # KBState 定义（TypedDict）
+│   ├── graph.py                   # 工作流图定义与入口
+│   ├── planner.py                 # 策略节点（plan_strategy / planner_node）
+│   ├── collector.py               # 采集节点（collect_node）
+│   ├── analyzer.py                # 分析节点（analyze_node）
+│   ├── reviewer.py                # 审核节点（review_node）
+│   ├── reviser.py                 # 修订节点（revise_node）
+│   ├── organizer.py               # 整理保存节点（organize_node）
+│   ├── human_flag.py              # 人工介入节点（human_flag_node）
+│   └── model_client.py             # LLM 调用封装（chat_json / JSONTruncatedError）
+├── distribution/                  # 多渠道分发
+│   ├── __init__.py
+│   ├── formatter.py               # 格式转换（Markdown/Telegram/飞书）
+│   └── publisher.py                # 异步多渠道发布器
+├── bot/                           # 交互式机器人
+│   ├── __init__.py
+│   └── knowledge_bot.py           # 意图识别、命令系统、权限管理
+├── pipeline/                      # V2/V3 继承的采集分析流水线
+│   ├── __init__.py
+│   └── pipeline.py                # 三阶段流水线 + 自动发布
+├── patterns/                      # Agent 协作模式
+│   ├── supervisor.py
+│   └── router.py
+├── hooks/                         # 质量与安全钩子
+│   ├── validate_json.py
+│   └── check_quality.py
+├── tests/                         # 测试套件
+├── knowledge/                     # 知识库数据（Docker volume 挂载）
+│   ├── raw/                       # 原始抓取数据（JSON，按日期分区）
+│   │   └── 2026-05-05/
+│   │       └── raw.json
+│   ├── articles/                  # AI 分析后的结构化知识条目
+│   │   └── {id}.json
+│   └── pending_review/             # 待人工审核的条目（human_flag 兜底）
+├── openclaw/                      # OpenClaw 消息网关配置
+│   └── knowledge -> ../knowledge   # 软链接
+├── mcp_knowledge_server.py        # Local MCP tool
+├── main.py                        # 入口脚本
+└── AGENTS.md
+```
 
 ---
 
@@ -31,26 +91,27 @@ AI 知识库助手自动从 GitHub Trending 和 Hacker News 采集 AI/LLM/Agent 
 - Python 版本 **>=3.12**，格式化用 **black==24.4.0**
 - TypeScript 用 **prettier**，严格模式 `strict: true` + `noUncheckedIndexedAccess: true`
 
+### 文件命名
+
+- 原始数据：`knowledge/raw/{YYYY-MM-DD}/raw.json`
+- 知识条目：`knowledge/articles/{id}.json`
+- 待审核：`knowledge/pending_review/{id}.json`
+
+### JSON 格式
+
+- 使用 2 空格缩进
+- 日期格式：ISO 8601（`YYYY-MM-DDTHH:mm:ssZ`）
+- 字符编码：UTF-8
+
+### 语言约定
+
+- 代码、JSON 键名、文件名：英文
+- 摘要、分析、注释：中文
+- 标签（tags）：英文小写，用连字符分隔（如 `large-language-model`）
+
 ### 文档
 
 - 所有模块、类、公有函数使用 **Google 风格 docstring**
-- 示例：
-
-```python
-def fetch_trending_repos(limit: int = 20) -> list[dict]:
-    """获取 GitHub Trending 仓库列表。
-
-    Args:
-        limit: 返回的仓库数量上限，默认 20。
-
-    Returns:
-        包含仓库信息的字典列表，每项含 name, url, description, stars。
-
-    Raises:
-        NetworkError: 网络请求失败时抛出。
-    """
-    pass
-```
 
 ### 类型检查
 
@@ -97,42 +158,43 @@ check-jsonschema knowledge/**/*.json
 
 ---
 
-## 项目结构
+## 工作流规则
+
+### 四阶段流水线
 
 ```
-.
-├── workflows/                  # LangGraph 工作流实现
-│   ├── __init__.py
-│   ├── state.py               # KBState 定义（TypedDict）
-│   ├── graph.py                # 工作流图定义与入口
-│   ├── planner.py              # 策略节点（plan_strategy / planner_node）
-│   ├── collector.py            # 采集节点（collect_node）
-│   ├── analyzer.py             # 分析节点（analyze_node）
-│   ├── reviewer.py             # 审核节点（review_node）
-│   ├── reviser.py             # 修订节点（revise_node）
-│   ├── organizer.py            # 整理保存节点（organize_node）
-│   ├── human_flag.py           # 人工介入节点（human_flag_node）
-│   └── model_client.py         # LLM 调用封装（chat_json / JSONTruncatedError）
-├── knowledge/
-│   ├── raw/                   # 原始抓取数据（JSON，按日期分区）
-│   │   └── 2026-05-05/
-│   │       └── raw.json
-│   ├── articles/              # AI 分析后的结构化知识条目
-│   │   └── {id}.json
-│   └── pending_review/         # 待人工审核的条目（human_flag 兜底）
-├── mcp_knowledge_server.py    # Local MCP tool
-├── main.py                    # 入口脚本
-└── AGENTS.md
+[Collector] ──采集──→ knowledge/raw/
+                          │
+[Analyzer]  ──分析──→ knowledge/raw/ (enriched)
+                          │
+[Organizer] ──整理──→ knowledge/articles/
+                          │
+[Publisher] ──分发──→ Telegram / 飞书
 ```
+
+### Agent 协作规则
+
+1. **单向数据流**：Collector → Analyzer → Organizer → Publisher，不可反向
+2. **职责隔离**：每个 Agent 只操作自己权限范围内的文件
+3. **幂等性**：重复运行同一天的采集不应产生重复条目
+4. **质量门控**：Analyzer 评分低于 0.6 的条目，Organizer 应丢弃
+5. **可追溯**：每个条目保留 `source_url` 和 `collected_at` 用于溯源
+
+### 错误处理
+
+- 网络请求失败时，记录错误并跳过该条目，不中断整体流程
+- API 限流时，等待后重试，最多 3 次
+- 数据格式异常时，写入 `knowledge/raw/errors-{date}.json` 供人工排查
+- 发布失败时，记录到日志，不影响流水线其他阶段
 
 ---
 
-## 工作流节点
+## 工作流节点（LangGraph）
 
 ```
 plan → collect → analyze → review ─┬─→ organize（整理保存）→ END
-                                   ├─→ revise（iter < max） → review（循环）
-                                   └─→ human_flag（iter >= max）→ END
+                                    ├─→ revise（iter < max） → review（循环）
+                                    └─→ human_flag（iter >= max）→ END
 ```
 
 | 节点 | 文件 | 职责 |
@@ -144,6 +206,28 @@ plan → collect → analyze → review ─┬─→ organize（整理保存）�
 | **Reviser** | `reviser.py` | 根据 `review_feedback` 修正 `analyses` |
 | **Organizer** | `organizer.py` | 过滤、去重、写入 `knowledge/articles/` |
 | **HumanFlag** | `human_flag.py` | 达最大迭代后兜底，写入 `pending_review/` |
+
+---
+
+## 三档策略（Planner）
+
+| 档位 | 触发条件 | per_source_limit | relevance_threshold | max_iterations |
+|------|---------|-----------------|-------------------|----------------|
+| **lite** | target < 10 | 5 | 0.7 | 1 |
+| **standard** | 10 <= target < 20 | 10 | 0.5 | 2 |
+| **full** | target >= 20 | 20 | 0.4 | 3 |
+
+- `target_count` 默认从环境变量 `PLANNER_TARGET_COUNT` 读取（默认 10）
+- 每个策略 dict 含 `rationale` 字段说明选型理由
+
+---
+
+## Bot 交互规则
+
+1. **权限分级**：read（默认） / write（管理员） / delete（拥有者）
+2. **意图识别**：优先匹配命令前缀（/search），其次匹配自然语言关键词
+3. **引用来源**：所有回答必须附带来源链接或日期
+4. **简洁回复**：默认 3-5 句话，用户要求时才展开
 
 ---
 
@@ -201,19 +285,6 @@ plan → collect → analyze → review ─┬─→ organize（整理保存）�
 
 ---
 
-## 三档策略（Planner）
-
-| 档位 | 触发条件 | per_source_limit | relevance_threshold | max_iterations |
-|------|---------|-----------------|-------------------|----------------|
-| **lite** | target < 10 | 5 | 0.7 | 1 |
-| **standard** | 10 <= target < 20 | 10 | 0.5 | 2 |
-| **full** | target >= 20 | 20 | 0.4 | 3 |
-
-- `target_count` 默认从环境变量 `PLANNER_TARGET_COUNT` 读取（默认 10）
-- 每个策略 dict 含 `rationale` 字段说明选型理由
-
----
-
 ## Agent 角色概览
 
 | 角色 | 职责 | 输入 | 输出 |
@@ -224,39 +295,6 @@ plan → collect → analyze → review ─┬─→ organize（整理保存）�
 | **Reviser** | 根据审核反馈修正 analyses | analyses + review_feedback | 改进后的 analyses |
 | **Organizer** | 过滤、去重、写入 `knowledge/articles/` | analyses | saved_ids |
 | **HumanFlag** | 达最大迭代后兜底保存到 `pending_review/` | analyses + iteration | needs_human_review=True |
-
-### 工作流
-
-```
-[GitHub Trending / HN]
-        │
-        ▼
-   ┌──────────┐
-   │ Collector │──▶ knowledge/raw/
-   └──────────┘
-        │
-        ▼
-   ┌──────────┐
-   │ Analyzer  │──▶ 生成 summary / tech_stack / tags
-   └──────────┘
-        │
-        ▼
-   ┌──────────┐
-   │ Reviewer  │──▶ review_passed=True? ─┐
-   └──────────┘                        │
-        │ (False)                       │
-        ▼                               │
-   ┌──────────┐                        │
-   │ Reviser  │──▶ 再审                │
-   └──────────┘                        │
-        │                               ▼
-        │                        ┌───────────┐
-        └───────────────────────▶│ Organizer │──▶ 知识库（articles/{id}.json）
-                                 └───────────┘
-                                      │
-                                      ▼
-                              多渠道分发（Telegram / 飞书）
-```
 
 ---
 
