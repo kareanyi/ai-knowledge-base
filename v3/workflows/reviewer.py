@@ -6,7 +6,7 @@
 
 import logging
 
-from .model_client import chat_json, accumulate_usage, JSONTruncatedError
+from .model_client import chat_json, accumulate_usage, JSONTruncatedError, BudgetExceededError
 from .state import KBState
 
 logger = logging.getLogger(__name__)
@@ -67,8 +67,10 @@ def review_node(state: KBState) -> dict:
 
     for attempt in range(MAX_REVIEW_RETRIES + 1):
         try:
-            result, usage = chat_json(prompt, system=SYSTEM_REVIEW, temperature=0.1)
+            result, usage = chat_json(prompt, system=SYSTEM_REVIEW, temperature=0.1, node_name="reviewer")
             cost_tracker = accumulate_usage(cost_tracker, usage)
+        except BudgetExceededError:
+            raise
         except Exception as e:
             last_error = str(e)
             logger.warning("[Reviewer] LLM 调用失败（重试 %d/%d, iteration=%d）: %s",

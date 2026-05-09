@@ -8,7 +8,9 @@ import logging
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .model_client import chat_json, accumulate_usage
+from tests.security import filter_output
+
+from .model_client import chat_json, accumulate_usage, BudgetExceededError
 from .state import KBState
 
 logger = logging.getLogger(__name__)
@@ -44,13 +46,28 @@ def _apply_feedback_correction(items: list[dict], feedback: str) -> list[dict]:
     )
 
     try:
-        corrected, usage = chat_json(prompt, system=SYSTEM_ORGANIZE)
+        corrected, usage = chat_json(prompt, system=SYSTEM_ORGANIZE, node_name="organizer")
+    except BudgetExceededError:
+        raise
     except Exception as e:
         logger.warning("[Organizer] 审核反馈修正 LLM 调用失败: %s，跳过修正", e)
         return items
     if isinstance(corrected, list):
         return corrected
     return items
+
+
+def _mask_article_pii(article: dict) -> tuple[dict, int]:
+    """对 article 的文本字段进行 PII 脱敏，返回脱敏后副本及处理计数。"""
+    pii_count = 0
+    masked = dict(article)
+    text_fields = ["title", "summary", "description", "problem_solved", "why_valuable"]
+    for field in text_fields:
+        if field in masked and isinstance(masked[field], str):
+            cleaned, detections = filter_output(masked[field], mask=True)
+            masked[field] = cleaned
+            pii_count += len(detections)
+    return masked, pii_count
 
 
 def _update_index(articles: list[dict]) -> None:
@@ -120,20 +137,29 @@ def organize_node(state: KBState) -> dict:
 
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
     saved_ids = []
+    masked_articles = []
+    total_pii_masked = 0
 
     for idx, article in enumerate(articles):
         article_id = article.get("id")
         if not article_id:
             continue
 
+        masked_article, pii_count = _mask_article_pii(article)
+        masked_articles.append(masked_article)
+        total_pii_masked += pii_count
+
         file_path = ARTICLES_DIR / f"{article_id}.json"
         with open(file_path, "w", encoding="utf-8") as f:
-            json.dump(article, f, ensure_ascii=False, indent=2)
+            json.dump(masked_article, f, ensure_ascii=False, indent=2)
 
         saved_ids.append(article_id)
         logger.info("[Organizer] 保存进度 %d/%d（iteration=%d）: %s", idx + 1, len(articles), iteration, article_id)
 
-    _update_index(articles)
+    if total_pii_masked > 0:
+        logger.info("[Organizer] PII 脱敏处理完成，共处理 %d 处敏感信息", total_pii_masked)
+
+    _update_index(masked_articles)
 
     logger.info("[Organizer] 整理保存完成，共 %d 条，已更新索引", len(saved_ids))
     return {"saved_ids": saved_ids}

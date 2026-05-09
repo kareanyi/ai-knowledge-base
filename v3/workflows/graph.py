@@ -13,6 +13,7 @@ from workflows.reviser import revise_node
 from workflows.human_flag import human_flag_node
 from workflows.organizer import organize_node
 from workflows.planner import planner_node
+from workflows.model_client import get_cost_guard, BudgetExceededError
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
@@ -102,30 +103,41 @@ if __name__ == "__main__":
         "cost_tracker": {"prompt_tokens": 0, "completion_tokens": 0, "total_cost_yuan": 0.0},
     }
 
-    for event in app.stream(initial_state):
-        node_name = next(iter(event.keys()), "unknown")
-        node_state = event.get(node_name)
-        logger.info("[Event] Node: %s", node_name)
+    try:
+        for event in app.stream(initial_state):
+            node_name = next(iter(event.keys()), "unknown")
+            node_state = event.get(node_name)
+            logger.info("[Event] Node: %s", node_name)
 
-        if node_state is None:
-            logger.info("  → 节点返回空状态，跳过")
-            continue
+            if node_state is None:
+                logger.info("  → 节点返回空状态，跳过")
+                continue
 
-        if node_name == "collect":
-            count = len(node_state.get("sources", []))
-            logger.info("  → 采集到 %d 条仓库", count)
-        elif node_name == "analyze":
-            count = len(node_state.get("analyses", []))
-            cost = node_state.get("cost_tracker", {}).get("total_cost_yuan", 0)
-            logger.info("  → 分析完成 %d 条，cost=¥%.4f", count, cost)
-        elif node_name == "review":
-            passed = node_state.get("review_passed", False)
-            iteration = node_state.get("iteration", 0)
-            feedback = node_state.get("review_feedback", "")
-            logger.info("  → 审核结果: passed=%s, iteration=%d, feedback=%s",
-                         passed, iteration, feedback[:50] if feedback else "")
-        elif node_name == "organize":
-            saved = node_state.get("saved_ids", []) if node_state else []
-            logger.info("  → 整理保存完成 %d 条: %s", len(saved), saved)
+            if node_name == "collect":
+                count = len(node_state.get("sources", []))
+                logger.info("  → 采集到 %d 条仓库", count)
+            elif node_name == "analyze":
+                count = len(node_state.get("analyses", []))
+                cost = node_state.get("cost_tracker", {}).get("total_cost_yuan", 0)
+                logger.info("  → 分析完成 %d 条，cost=¥%.4f", count, cost)
+            elif node_name == "review":
+                passed = node_state.get("review_passed", False)
+                iteration = node_state.get("iteration", 0)
+                feedback = node_state.get("review_feedback", "")
+                logger.info("  → 审核结果: passed=%s, iteration=%d, feedback=%s",
+                             passed, iteration, feedback[:50] if feedback else "")
+            elif node_name == "organize":
+                saved = node_state.get("saved_ids", []) if node_state else []
+                logger.info("  → 整理保存完成 %d 条: %s", len(saved), saved)
 
-    logger.info("工作流执行完毕")
+        logger.info("工作流执行完毕")
+    except BudgetExceededError:
+        logger.warning("[Budget] 预算超出，工作流提前结束")
+
+    cost_report = get_cost_guard().get_report()
+    logger.info("[CostReport] total_cost=¥%.4f, total_calls=%d, usage_ratio=%.1f%%",
+                 cost_report["total_cost_yuan"], cost_report["total_calls"], cost_report["usage_ratio"] * 100)
+    for node_name, stats in cost_report["by_node"].items():
+        logger.info("  [%s] calls=%d, prompt_tokens=%d, completion_tokens=%d, cost=¥%.4f",
+                    node_name, stats["calls"], stats["prompt_tokens"],
+                    stats["completion_tokens"], stats["cost_yuan"])

@@ -17,10 +17,28 @@ from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
 from typing import Any, ClassVar
 from collections import defaultdict
+from datetime import datetime, timezone
+from pathlib import Path as _Path
 
 import httpx
+from dotenv import load_dotenv
+
+load_dotenv()
+
+from tests.cost_guard import BudgetExceededError, CostGuard
 
 logger = logging.getLogger(__name__)
+
+_cost_guard: CostGuard | None = None
+
+
+def get_cost_guard() -> CostGuard:
+    """获取全局 CostGuard 实例（懒加载）。"""
+    global _cost_guard
+    if _cost_guard is None:
+        budget_yuan = float(os.getenv("BUDGET_YUAN", "1.0"))
+        _cost_guard = CostGuard(budget_yuan=budget_yuan)
+    return _cost_guard
 
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "minimax").lower()
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
@@ -511,6 +529,7 @@ def chat(
     max_tokens: int = 8192,
     stream: bool = False,
     provider: str | None = None,
+    node_name: str = "unknown",
 ) -> tuple[str, dict]:
     """调用 LLM 并返回 (回复文本, token用量信息)
 
@@ -520,6 +539,7 @@ def chat(
         temperature: 采样温度
         max_tokens: 最大输出 token 数
         provider: 提供商名称，默认使用 LLM_PROVIDER 环境变量
+        node_name: 工作流节点名称，用于成本追踪
 
     Returns:
         (response_text, usage_dict) 其中 usage_dict 包含 prompt_tokens, completion_tokens
@@ -536,21 +556,27 @@ def chat(
         "completion_tokens": response.usage.get("completion_tokens", response.usage.get("output_tokens", 0)),
     }
 
+    cost_guard = get_cost_guard()
+    model_name = get_provider(provider).get_model_name()
+    cost_guard.record(node_name, usage, model_name)
+    cost_guard.check()
+
     return response.content, usage
 
 
 def chat_json(
     prompt: str,
     system: str = "你是一个专业的 AI 技术分析师。请用 JSON 格式回复。",
+    node_name: str = "unknown",
     **kwargs: Any,
 ) -> tuple[dict | list, dict]:
     """调用 LLM 并解析 JSON 响应（带容错）
 
-    容错策略:
-    1. 去掉 markdown 代码块包裹
-    2. 直接 json.loads
-    3. 失败则用正则匹配第一个 {...} 或 [...] 结构
-    4. 再失败才抛出
+    Args:
+        prompt: 用户 prompt
+        system: 系统 prompt
+        node_name: 工作流节点名称，用于成本追踪
+        **kwargs: 传递给 chat() 的额外参数
 
     Returns:
         (parsed_json, usage_dict)
@@ -559,7 +585,7 @@ def chat_json(
         JSONTruncatedError: 当检测到 JSON 被截断时，调用方应重试
         json.JSONDecodeError: 三种策略都失败时
     """
-    text, usage = chat(prompt, system=system, stream=False, **kwargs)
+    text, usage = chat(prompt, system=system, stream=False, node_name=node_name, **kwargs)
 
     cleaned = text.strip()
     if cleaned.startswith("```"):

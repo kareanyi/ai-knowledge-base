@@ -5,7 +5,7 @@
 
 import logging
 
-from .model_client import chat_json, accumulate_usage
+from .model_client import chat_json, accumulate_usage, BudgetExceededError
 from .state import KBState
 
 logger = logging.getLogger(__name__)
@@ -44,7 +44,9 @@ def _analyze_single(item: dict, idx: int, iteration: int, feedback: str | None) 
         system = "你是一个专业的 AI 技术分析师，负责根据审核反馈修正之前的分析结果，使其更准确、质量更高。"
 
     try:
-        result, usage = chat_json(prompt, system=system)
+        result, usage = chat_json(prompt, system=system, node_name="analyzer")
+    except BudgetExceededError:
+        raise
     except Exception as e:
         logger.warning("[Analyzer] 条目 #%d LLM 调用失败: %s，使用 fallback", idx + 1, e)
         result = {

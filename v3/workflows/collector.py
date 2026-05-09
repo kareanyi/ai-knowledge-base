@@ -12,6 +12,8 @@ import urllib.parse
 from datetime import datetime, timezone
 from pathlib import Path
 
+from tests.security import sanitize_input
+
 from .model_client import accumulate_usage
 from .state import KBState
 
@@ -127,8 +129,24 @@ def collect_node(state: KBState) -> dict:
         "language": r["language"],
     } for r in repos]
 
-    logger.info("[Collector] 采集完成，共 %d 条符合条件的仓库", len(sources))
+    cleaned_sources = []
+    suspicious_count = 0
+    for src in sources:
+        cleaned_title, title_warnings = sanitize_input(src.get("title", ""))
+        cleaned_desc, desc_warnings = sanitize_input(src.get("description", ""))
+        if title_warnings or desc_warnings:
+            suspicious_count += 1
+        cleaned_sources.append({
+            **src,
+            "title": cleaned_title,
+            "description": cleaned_desc,
+        })
+
+    if suspicious_count > 0:
+        logger.warning("[Collector] 清洗后发现 %d 条可疑输入已拦截", suspicious_count)
+
+    logger.info("[Collector] 采集完成，共 %d 条符合条件的仓库", len(cleaned_sources))
     return {
-        "sources": sources,
+        "sources": cleaned_sources,
         "cost_tracker": {"prompt_tokens": 0, "completion_tokens": 0, "total_cost_yuan": 0.0},
     }

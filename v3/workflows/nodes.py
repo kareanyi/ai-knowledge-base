@@ -160,7 +160,7 @@ def _analyze_single(item: dict, idx: int, iteration: int, feedback: str | None) 
         system = "你是一个专业的 AI 技术分析师，负责根据审核反馈修正之前的分析结果，使其更准确、质量更高。"
 
     try:
-        result, usage = chat_json(prompt, system=system)
+        result, usage = chat_json(prompt, system=system, node_name="analyzer")
     except Exception as e:
         logger.warning("[Analyzer] 条目 #%d LLM 调用失败: %s，使用 fallback", idx + 1, e)
         result = {
@@ -222,7 +222,7 @@ def _apply_feedback_correction(items: list[dict], feedback: str) -> list[dict]:
     )
 
     try:
-        corrected, usage = chat_json(prompt, system=SYSTEM_ORGANIZE)
+        corrected, usage = chat_json(prompt, system=SYSTEM_ORGANIZE, node_name="organizer")
     except Exception as e:
         logger.warning("[Organizer] 审核反馈修正 LLM 调用失败: %s，跳过修正", e)
         return items
@@ -291,7 +291,7 @@ def review_node(state: KBState) -> dict:
     articles_json = json.dumps(articles, ensure_ascii=False, indent=2)
     full_prompt = f"{prompt}\n\n文章列表:\n{articles_json}"
 
-    result, usage = chat_json(full_prompt, system=SYSTEM_REVIEW)
+    result, usage = chat_json(full_prompt, system=SYSTEM_REVIEW, node_name="reviewer")
 
     passed = result.get("passed", False)
     overall_score = result.get("overall_score", 0.0)
