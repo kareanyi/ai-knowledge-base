@@ -130,3 +130,13 @@ Dify 是一个开源的 LLM 应用开发平台，旨在让开发者能够快速�
 ---
 millerlin@192 v4-production %
 ```
+
+```shell
+millerlin@192 v4-production % uv run python3 -c "
+from distribution.formatter import generate_daily_digest_clawbot
+result = generate_daily_digest_clawbot(date='2026-05-09', top_n=5)
+print(result)
+"
+{'clawbot': '📚 2026-05-09 知识简报（共 5 条）\n\n1. 🟢 hiyouga/LlamaFactory (0.9) | [LLM微调 高效微调 多模态模型] | LlamaFactory 是一个统一的高效微调框架，支持超过100种大型语言模型（LLMs）和多模态模型（VLMs），在 ACL 2024 发表。它集成了多种参数高效微调方法（如 LoRA、QLoRA... | https://github.com/hiyouga/LlamaFactory\n\n2. 🟢 langchain-ai/langchain (0.9) | [LLM Agent Framework TypeScript Tool] | LangChain 是一个用于构建基于大型语言模型（LLM）的应用程序的工程平台，支持 TypeScript 和 Python。它提供了模块化的组件，用于处理提示、链、代理、记忆和工具集成，简化了开发... | https://github.com/langchain-ai/langchain\n\n3. 🟢 infiniflow/ragflow (0.9) | [RAG Agent 开源 LLM 上下文增强] | RAGFlow 是一个开源的检索增强生成（RAG）引擎，结合了先进的 RAG 技术与智能代理（Agent）能力，为大型语言模型（LLM）提供更优质的上下文层。它通过融合检索与生成，提升模型回答的准确性... | https://github.com/infiniflow/ragflow\n\n4. 🟢 Shubhamsaboo/awesome-llm-apps (0.9) | [LLM AI Agent RAG 应用集合 开源项目] | 该项目收集了100多个基于LLM的AI Agent和RAG应用实例，所有应用均可直接克隆、定制和部署。涵盖从简单聊天机器人到复杂多代理系统的各种场景，旨在降低AI应用开发门槛，促进快速原型验证和生产落... | https://github.com/Shubhamsaboo/awesome-llm-apps\n\n5. 🟢 langgenius/dify (0.9) | [agent workflow llm platform open-source] | Dify 是一个生产级的开源平台，专注于智能体工作流开发。它提供了可视化的界面和工具，帮助开发者快速构建、部署和管理基于大语言模型的智能体应用。支持多种模型集成、工作流编排、RAG 能力以及监控和日志... | https://github.com/langgenius/dify'}
+millerlin@192 v4-production %
+```
