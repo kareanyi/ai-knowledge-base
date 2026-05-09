@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260509-007",
+  "source": "rss",
+  "source_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+  "title": "Google broke reCAPTCHA for de-googled Android users",
+  "summary": "Google has broken reCAPTCHA verification for users running de-googled Android ROMs, making it difficult for privacy-conscious users to prove they're human on websites. The issue affects users of custom Android distributions like CalyxOS and GrapheneOS who have removed Google Play Services.",
+  "tech_stack": [
+    "Android",
+    "reCAPTCHA",
+    "Custom ROMs",
+    "Google Play Services"
+  ],
+  "problem_solved": "Reports on how Google's service changes are creating accessibility barriers for users who prefer privacy-focused, de-googled Android devices.",
+  "why_valuable": "Highlights the tension between user privacy choices and service accessibility, raising awareness about vendor lock-in and digital exclusion.",
+  "tags": [
+    "Privacy",
+    "Android",
+    "reCAPTCHA",
+    "Google",
+    "Custom ROMs"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:31:24.207178+00:00",
+  "updated_at": "2026-05-09T09:37:41.905045+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-001",
+  "source": "rss",
+  "source_url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+  "title": "All my clients wanted a carousel, now it's an AI chatbot",
+  "summary": "A web developer/agency owner's perspective on how client demands have shifted from requesting traditional website carousels (sliding banner components) to demanding AI chatbots, reflecting the broader AI hype cycle and changing client expectations in web development.",
+  "tech_stack": [
+    "AI/LLM",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Chatbot Framework"
+  ],
+  "problem_solved": "Illustrates the industry trend shift from traditional web UI components (carousels) to AI-powered interactive elements as client priorities change.",
+  "why_valuable": "Provides real-world insight into how AI trends are reshaping client expectations for web projects, useful for developers and agencies navigating the current market.",
+  "tags": [
+    "AI",
+    "Web Design",
+    "Chatbot",
+    "Client Trends",
+    "Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:29:27.577433+00:00",
+  "updated_at": "2026-05-09T09:37:41.904140+00:00",
+  "published_to": []
+}

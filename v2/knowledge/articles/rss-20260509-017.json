@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-017",
+  "source": "rss",
+  "source_url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+  "title": "AWS North Virginia data center outage – recovery to take hours",
+  "summary": "Major AWS data center outage in North Virginia disrupted services for FanDuel, Coinbase and other companies, with Amazon warning that recovery operations would take several hours to complete.",
+  "tech_stack": [
+    "AWS",
+    "Cloud Infrastructure",
+    "Data Center",
+    "EC2",
+    "Cloud Services"
+  ],
+  "problem_solved": "This is a breaking news incident report documenting an AWS cloud outage rather than a solution article.",
+  "why_valuable": "Demonstrates the real-world impact of cloud infrastructure failures on critical services and highlights the importance of disaster recovery planning and multi-region architecture for mission-critical applications.",
+  "tags": [
+    "Cloud Computing",
+    "AWS",
+    "Infrastructure",
+    "Outage",
+    "Incident Report"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-09T09:33:59.514199+00:00",
+  "updated_at": "2026-05-09T09:37:41.912869+00:00",
+  "published_to": []
+}

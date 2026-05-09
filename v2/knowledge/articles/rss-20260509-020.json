@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+  "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+  "summary": "RingCentral expanded its AI Receptionist (AIR) product with new integrations to Shopify, Calendly, and WhatsApp, enabling the AI to handle customer order inquiries through Shopify, schedule appointments via Calendly, and communicate via WhatsApp - moving beyond basic call answering into routine customer service tasks.",
+  "tech_stack": [
+    "AI",
+    "WhatsApp API",
+    "Shopify API",
+    "Calendly API",
+    "Automation"
+  ],
+  "problem_solved": "Automates routine customer service tasks like order inquiries and appointment scheduling without human intervention",
+  "why_valuable": "Reduces manual workload for businesses while providing customers with instant, 24/7 support for common inquiries",
+  "tags": [
+    "AI",
+    "Automation",
+    "Customer Service",
+    "Integration",
+    "Business"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:34:42.141809+00:00",
+  "updated_at": "2026-05-09T09:37:41.913237+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260509-014",
+  "source": "rss",
+  "source_url": "https://www.war.gov/UFO/",
+  "title": "US Government releases first batch of UAP documents and videos",
+  "summary": "The US Government has released the first batch of UAP (Unidentified Aerial Phenomena) documents and videos, marking a historic moment in government transparency regarding unidentified phenomena previously referred to as UFOs.",
+  "tech_stack": [
+    "Government Web Infrastructure",
+    "Document Management Systems"
+  ],
+  "problem_solved": "Addresses public demand for transparency and disclosure about unidentified aerial phenomena observed by military personnel.",
+  "why_valuable": "This unprecedented release provides researchers, scientists, and the public with official government data on UAP, potentially advancing our understanding of unexplained aerial incidents.",
+  "tags": [
+    "UAP",
+    "Government",
+    "Transparency",
+    "Disclosure",
+    "Defense"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:33:16.037369+00:00",
+  "updated_at": "2026-05-09T09:37:41.912514+00:00",
+  "published_to": []
+}

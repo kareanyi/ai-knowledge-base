@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-018",
+  "source": "rss",
+  "source_url": "https://mojolang.org/",
+  "title": "Mojo 1.0 Beta",
+  "summary": "Mojo 1.0 Beta marks a significant milestone for Modular's new programming language that aims to combine Python's simplicity with systems-level performance, targeting AI and machine learning workloads while providing low-level memory control.",
+  "tech_stack": [
+    "Mojo",
+    "Python",
+    "Systems Programming",
+    "LLVM",
+    "MLIR"
+  ],
+  "problem_solved": "Addresses Python's performance limitations while maintaining its ease of use, enabling high-performance AI/ML development without sacrificing developer productivity.",
+  "why_valuable": "Mojo bridges the gap between research prototyping (Python) and production deployment (C/C++), potentially revolutionizing AI development by offering both expressiveness and speed in one language.",
+  "tags": [
+    "Mojo",
+    "Programming Language",
+    "AI/ML",
+    "Systems Programming",
+    "Performance"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-09T09:34:16.324418+00:00",
+  "updated_at": "2026-05-09T09:37:41.912990+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-005",
+  "source": "rss",
+  "source_url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+  "title": "When is your birthday? The math behind hash collisions",
+  "summary": "A technical blog post explaining the birthday paradox and its direct connection to hash collision vulnerabilities in cryptographic systems, demonstrating how probability mathematics underlies security weaknesses in hash functions.",
+  "tech_stack": [
+    "Mathematics",
+    "Probability Theory",
+    "Cryptography",
+    "JavaScript",
+    "HTML/CSS"
+  ],
+  "problem_solved": "Explains why hash collisions occur more frequently than intuition suggests, using the birthday paradox as an intuitive mathematical framework.",
+  "why_valuable": "Provides developers and security professionals with the mathematical intuition needed to understand and mitigate hash collision attacks in real-world systems.",
+  "tags": [
+    "Cryptography",
+    "Hash Functions",
+    "Probability",
+    "Security",
+    "Mathematics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:30:55.182583+00:00",
+  "updated_at": "2026-05-09T09:37:41.904774+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-012",
+  "source": "rss",
+  "source_url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+  "title": "Can LLMs model real-world systems in TLA+?",
+  "summary": "This article explores whether Large Language Models can effectively model real-world systems using TLA+ (Temporal Logic of Actions), a formal specification language for describing and verifying concurrent and distributed systems. The research likely involves experiments testing LLMs' ability to generate accurate TLA+ specifications.",
+  "tech_stack": [
+    "TLA+",
+    "LLM",
+    "Formal Verification",
+    "Systems Modeling",
+    "Temporal Logic"
+  ],
+  "problem_solved": "Whether AI can automate or assist in creating formal specifications for complex real-world systems, which traditionally requires significant expertise and manual effort.",
+  "why_valuable": "Could dramatically lower the barrier to formal verification and system modeling, making it accessible to more developers while catching critical bugs before deployment.",
+  "tags": [
+    "LLM",
+    "TLA+",
+    "Formal Methods",
+    "Systems Verification",
+    "AI Testing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:32:44.826301+00:00",
+  "updated_at": "2026-05-09T09:37:41.912269+00:00",
+  "published_to": []
+}

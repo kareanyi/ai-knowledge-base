@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-013",
+  "source": "rss",
+  "source_url": "https://btxx.org/posts/memory/",
+  "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+  "summary": "A technical guide on running a website on a Raspberry Pi Zero by storing files in RAM using tmpfs, reducing SD card wear and improving performance on this low-memory (512MB) single-board computer.",
+  "tech_stack": [
+    "Linux",
+    "Raspberry Pi OS",
+    "Nginx",
+    "tmpfs",
+    "ARM"
+  ],
+  "problem_solved": "Optimizes website performance and extends SD card lifespan on resource-constrained devices like the Raspberry Pi Zero.",
+  "why_valuable": "Running websites in RAM dramatically improves response times while preventing SD card degradation, making it ideal for low-power, always-on projects.",
+  "tags": [
+    "Raspberry Pi",
+    "Linux",
+    "Embedded Systems",
+    "Performance Optimization",
+    "Web Server"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-09T09:32:57.933247+00:00",
+  "updated_at": "2026-05-09T09:37:41.912395+00:00",
+  "published_to": []
+}

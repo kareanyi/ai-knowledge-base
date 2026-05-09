@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-010",
+  "source": "rss",
+  "source_url": "https://lachlan.nz/blog/the-react2shell-story/",
+  "title": "The React2Shell Story",
+  "summary": "A developer's story about React2Shell, likely detailing a security vulnerability, exploitation technique, or tool that bridges React components with shell command execution capabilities.",
+  "tech_stack": [
+    "React",
+    "JavaScript",
+    "Node.js",
+    "Shell/Bash",
+    "Web Security"
+  ],
+  "problem_solved": "Explores the intersection of React frontend components and shell access, potentially addressing a security misconfiguration or demonstrating a novel attack vector.",
+  "why_valuable": "Provides security insights and real-world developer experience that helps the community understand potential attack surfaces in React applications.",
+  "tags": [
+    "React",
+    "Security",
+    "Shell",
+    "Web Development",
+    "Vulnerability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:32:04.072197+00:00",
+  "updated_at": "2026-05-09T09:37:41.912033+00:00",
+  "published_to": []
+}

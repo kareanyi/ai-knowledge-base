@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260509-003",
+  "source": "rss",
+  "source_url": "https://twitter.com/trq212/status/2052809885763747935",
+  "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+  "summary": "探讨使用 Claude Code（Anthropic 的 AI 编程 CLI 工具）结合 HTML 的强大功能，分享通过简单 HTML 实现复杂效果的示例，引用 Simon Willison 关于\"HTML 不合理有效性\"的观点。",
+  "tech_stack": [
+    "Claude Code",
+    "HTML",
+    "LLM",
+    "CLI Tools"
+  ],
+  "problem_solved": "展示如何利用 AI 编程工具更高效地创建轻量级、功能强大的 Web 页面。",
+  "why_valuable": "通过简单 HTML + AI 辅助的组合，证明了无需复杂框架即可构建有效应用的开发范式。",
+  "tags": [
+    "AI",
+    "Web Development",
+    "Claude Code",
+    "HTML",
+    "Programming Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:29:58.019600+00:00",
+  "updated_at": "2026-05-09T09:37:41.904513+00:00",
+  "published_to": []
+}

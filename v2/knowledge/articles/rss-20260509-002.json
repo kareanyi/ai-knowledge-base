@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260509-002",
+  "source": "rss",
+  "source_url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+  "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+  "summary": "The EU is pushing for stricter age verification measures online and has identified VPNs as a 'loophole' that allows users to bypass these restrictions, signaling potential future regulation targeting VPN services in the context of online safety policies.",
+  "tech_stack": [
+    "VPN Technology",
+    "Age Verification Systems"
+  ],
+  "problem_solved": "Addresses the challenge of enforcing age verification when users can simply use VPNs to bypass location-based restrictions and content controls.",
+  "why_valuable": "Highlights the ongoing tension between privacy tools and regulatory efforts to protect minors online, which could reshape the VPN industry and internet privacy landscape in Europe.",
+  "tags": [
+    "EU Regulation",
+    "VPN Privacy",
+    "Age Verification",
+    "Internet Policy",
+    "Online Safety"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-09T09:29:40.227498+00:00",
+  "updated_at": "2026-05-09T09:37:41.904371+00:00",
+  "published_to": []
+}

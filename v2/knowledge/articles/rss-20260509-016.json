@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-016",
+  "source": "rss",
+  "source_url": "https://meshtastic.org/docs/introduction/",
+  "title": "An Introduction to Meshtastic",
+  "summary": "Meshtastic is a mesh networking protocol that enables long-range, low-power communication using LoRa radios without requiring internet or cellular connectivity, making it ideal for off-grid scenarios, emergency situations, and outdoor adventures.",
+  "tech_stack": [
+    "LoRa Radio",
+    "ESP32",
+    "Mesh Networking",
+    "Bluetooth",
+    "Python"
+  ],
+  "problem_solved": "Provides reliable off-grid communication when traditional internet and cellular infrastructure is unavailable or destroyed.",
+  "why_valuable": "Enables community-driven, decentralized communication networks that work independently of existing infrastructure for emergency preparedness and remote connectivity.",
+  "tags": [
+    "Mesh Networking",
+    "LoRa",
+    "Off-Grid",
+    "Emergency Communication",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-09T09:33:46.527191+00:00",
+  "updated_at": "2026-05-09T09:37:41.912736+00:00",
+  "published_to": []
+}

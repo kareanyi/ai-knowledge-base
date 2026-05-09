@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-011",
+  "source": "rss",
+  "source_url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+  "title": "Cartoon Network Flash Games",
+  "summary": "The Web Design Museum preserves and exhibits classic Cartoon Network Flash games from the early 2000s, documenting an important era of browser-based gaming and web culture before Adobe Flash was deprecated.",
+  "tech_stack": [
+    "Adobe Flash",
+    "ActionScript",
+    "HTML",
+    "CSS",
+    "Web Archive"
+  ],
+  "problem_solved": "Preserves and makes accessible retro Flash games that would otherwise be lost due to Flash's deprecation.",
+  "why_valuable": "Provides historical preservation of 2000s web gaming culture and interactive web design heritage for future generations.",
+  "tags": [
+    "Flash Games",
+    "Web Preservation",
+    "Retro Gaming",
+    "Nostalgia",
+    "Web Design History"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-09T09:32:25.084316+00:00",
+  "updated_at": "2026-05-09T09:37:41.912158+00:00",
+  "published_to": []
+}

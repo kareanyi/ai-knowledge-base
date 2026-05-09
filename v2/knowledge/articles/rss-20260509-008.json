@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-008",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/teaching-claude-why",
+  "title": "Teaching Claude Why",
+  "summary": "Anthropic's research on teaching Claude to articulate the reasoning behind its decisions, moving beyond simple outputs to explainable AI reasoning. The article explores Constitutional AI techniques that enable models to self-critique and provide transparent explanations for their choices.",
+  "tech_stack": [
+    "Constitutional AI",
+    "Large Language Models",
+    "RLHF",
+    "Self-critique mechanisms",
+    "Python"
+  ],
+  "problem_solved": "Addresses the 'black box' problem by teaching AI models to explain their reasoning and decision-making process.",
+  "why_valuable": "Builds trust and enables better human oversight of AI systems by making model reasoning transparent and interpretable.",
+  "tags": [
+    "AI Safety",
+    "Interpretability",
+    "Constitutional AI",
+    "Claude",
+    "Explainable AI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-09T09:31:36.927224+00:00",
+  "updated_at": "2026-05-09T09:37:41.911660+00:00",
+  "published_to": []
+}

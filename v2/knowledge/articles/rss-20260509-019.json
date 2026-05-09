@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260509-019",
+  "source": "rss",
+  "source_url": "https://moq.dev/blog/webrtc-is-the-problem/",
+  "title": "OpenAI’s WebRTC problem",
+  "summary": "This article discusses the technical challenges and problems with OpenAI's implementation of WebRTC (Web Real-Time Communication) for real-time AI interactions. The author from moq.dev analyzes specific issues related to latency, connection management, and protocol handling in AI real-time applications.",
+  "tech_stack": [
+    "WebRTC",
+    "Real-Time Communication",
+    "OpenAI",
+    "JavaScript",
+    "Protocol Buffers"
+  ],
+  "problem_solved": "Addresses the technical challenges and architectural problems when implementing WebRTC for OpenAI's real-time AI streaming applications.",
+  "why_valuable": "Provides deep technical insights into real-time communication implementation pitfalls that affect AI application performance and user experience.",
+  "tags": [
+    "WebRTC",
+    "OpenAI",
+    "Real-Time",
+    "Streaming",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-09T09:34:27.525462+00:00",
+  "updated_at": "2026-05-09T09:37:41.913105+00:00",
+  "published_to": []
+}

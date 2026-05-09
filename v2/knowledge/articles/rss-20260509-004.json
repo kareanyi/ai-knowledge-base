@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260509-004",
+  "source": "rss",
+  "source_url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+  "title": "A recent experience with ChatGPT 5.5 Pro",
+  "summary": "Timothy Gowers, a Cambridge mathematics professor, shares his firsthand experience using ChatGPT 5.5 Pro, likely offering insights from the perspective of a researcher who has extensive experience with AI tools in mathematical and academic work.",
+  "tech_stack": [
+    "ChatGPT 5.5 Pro",
+    "OpenAI",
+    "Large Language Model"
+  ],
+  "problem_solved": "Provides firsthand user experience and evaluation of the latest OpenAI model's capabilities for technical/academic work.",
+  "why_valuable": "Gowers brings credibility as a distinguished mathematician who can evaluate AI capabilities rigorously for mathematical reasoning and academic tasks.",
+  "tags": [
+    "AI",
+    "ChatGPT",
+    "OpenAI",
+    "LLM",
+    "User Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-09T09:30:10.274092+00:00",
+  "updated_at": "2026-05-09T09:37:41.904649+00:00",
+  "published_to": []
+}

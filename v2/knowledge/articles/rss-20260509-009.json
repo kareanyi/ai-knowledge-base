@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260509-009",
+  "source": "rss",
+  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+  "title": "AI is breaking two vulnerability cultures",
+  "summary": "Jeff Tk explores how AI is disrupting two distinct vulnerability cultures - the security research community's practices around disclosure and the software industry's approach to handling bugs and vulnerabilities. The article examines how LLMs that can explain code are changing traditional workflows for both security researchers discovering vulnerabilities and developers fixing them.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Security Tools",
+    "Software Development"
+  ],
+  "problem_solved": "Understanding how AI is fundamentally changing the way vulnerabilities are discovered, disclosed, and fixed across security and development communities.",
+  "why_valuable": "Provides crucial insights into how AI is reshaping security practices and development culture, helping practitioners understand the shifting landscape of vulnerability management.",
+  "tags": [
+    "AI",
+    "Security",
+    "Vulnerability",
+    "Software Development",
+    "Culture"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-09T09:31:49.496008+00:00",
+  "updated_at": "2026-05-09T09:37:41.911886+00:00",
+  "published_to": []
+}
