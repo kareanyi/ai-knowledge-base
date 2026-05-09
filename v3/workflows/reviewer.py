@@ -6,7 +6,7 @@
 
 import logging
 
-from .model_client import chat_json, accumulate_usage
+from .model_client import chat_json, accumulate_usage, JSONTruncatedError
 from .state import KBState
 
 logger = logging.getLogger(__name__)
@@ -71,8 +71,8 @@ def review_node(state: KBState) -> dict:
             cost_tracker = accumulate_usage(cost_tracker, usage)
         except Exception as e:
             last_error = str(e)
-            logger.warning("[Reviewer] LLM 调用失败（尝试 %d/%d）: %s",
-                           attempt + 1, MAX_REVIEW_RETRIES + 1, e)
+            logger.warning("[Reviewer] LLM 调用失败（重试 %d/%d, iteration=%d）: %s",
+                           attempt + 1, MAX_REVIEW_RETRIES + 1, iteration, e)
             if attempt < MAX_REVIEW_RETRIES:
                 continue
             return {
@@ -84,8 +84,8 @@ def review_node(state: KBState) -> dict:
 
         if not isinstance(result, (dict, list)):
             last_error = f"返回类型错误: {type(result).__name__}"
-            logger.warning("[Reviewer] %s（尝试 %d/%d）",
-                           last_error, attempt + 1, MAX_REVIEW_RETRIES)
+            logger.warning("[Reviewer] %s（重试 %d/%d, iteration=%d）",
+                           last_error, attempt + 1, MAX_REVIEW_RETRIES, iteration)
             if attempt < MAX_REVIEW_RETRIES:
                 continue
             return {
@@ -98,8 +98,8 @@ def review_node(state: KBState) -> dict:
         if isinstance(result, list):
             if not result or not isinstance(result[0], dict):
                 last_error = f"返回空数组或元素不是 dict"
-                logger.warning("[Reviewer] %s（尝试 %d/%d）",
-                               last_error, attempt + 1, MAX_REVIEW_RETRIES)
+                logger.warning("[Reviewer] %s（重试 %d/%d, iteration=%d）",
+                               last_error, attempt + 1, MAX_REVIEW_RETRIES, iteration)
                 if attempt < MAX_REVIEW_RETRIES:
                     continue
                 return {

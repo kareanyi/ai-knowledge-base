@@ -7,7 +7,7 @@
 import json
 import logging
 
-from .model_client import chat_json, accumulate_usage
+from .model_client import chat_json, accumulate_usage, JSONTruncatedError
 from .state import KBState
 
 logger = logging.getLogger(__name__)
@@ -70,24 +70,24 @@ def revise_node(state: KBState) -> dict:
             cost_tracker = accumulate_usage(cost_tracker, usage)
         except Exception as e:
             last_error = str(e)
-            logger.warning("[Reviser] LLM 调用失败（尝试 %d/%d）: %s",
-                           attempt + 1, MAX_REVISE_RETRIES + 1, e)
+            logger.warning("[Reviser] LLM 调用失败（重试 %d/%d, iteration=%d）: %s",
+                           attempt + 1, MAX_REVISE_RETRIES + 1, iteration, e)
             if attempt < MAX_REVISE_RETRIES:
                 continue
             return {"analyses": analyses, "cost_tracker": cost_tracker}
 
         if not isinstance(result, list):
             last_error = f"返回类型错误: {type(result).__name__}"
-            logger.warning("[Reviser] %s（尝试 %d/%d）",
-                           last_error, attempt + 1, MAX_REVISE_RETRIES)
+            logger.warning("[Reviser] %s（重试 %d/%d, iteration=%d）",
+                           last_error, attempt + 1, MAX_REVISE_RETRIES, iteration)
             if attempt < MAX_REVISE_RETRIES:
                 continue
             return {"analyses": analyses, "cost_tracker": cost_tracker}
 
         if len(result) != len(analyses):
             last_error = f"返回数组长度不匹配: {len(result)} vs {len(analyses)}"
-            logger.warning("[Reviser] %s（尝试 %d/%d）",
-                           last_error, attempt + 1, MAX_REVISE_RETRIES)
+            logger.warning("[Reviser] %s（重试 %d/%d, iteration=%d）",
+                           last_error, attempt + 1, MAX_REVISE_RETRIES, iteration)
             if attempt < MAX_REVISE_RETRIES:
                 continue
             return {"analyses": analyses, "cost_tracker": cost_tracker}

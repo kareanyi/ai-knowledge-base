@@ -339,7 +339,7 @@ def _update_index(articles: list[dict]) -> None:
         json.dump(index_data, f, ensure_ascii=False, indent=2)
 
 
-def save_node(state: KBState) -> dict:
+def organize_node(state: KBState) -> dict:
     """整理+保存节点：过滤、去重、赋值 ID、写入文件、更新索引。
 
     在 review 通过后执行，负责将 analyses 转化为最终可发布的知识条目。

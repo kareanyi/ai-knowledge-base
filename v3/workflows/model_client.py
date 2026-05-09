@@ -26,6 +26,8 @@ LLM_PROVIDER = os.getenv("LLM_PROVIDER", "minimax").lower()
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
 QWEN_API_KEY = os.getenv("QWEN_API_KEY", "")
 MINIMAX_API_KEY = os.getenv("MINIMAX_API_KEY", "")
+DEBUG_LLM_CALLS = os.getenv("DEBUG_LLM_CALLS", "false").lower() == "true"
+_last_raw_response: dict[str, Any] = {}
 
 @dataclass
 class LLMResponse:
@@ -199,8 +201,20 @@ class OpenAICompatibleProvider(LLMProvider):
             "messages": messages,
             **kwargs,
         }
+        if DEBUG_LLM_CALLS:
+            debug_payload = {k: v for k, v in payload.items() if k != "messages"}
+            debug_payload["messages_count"] = len(messages)
+            debug_payload["messages_preview"] = [m.get("content", "")[:100] for m in messages]
+            print(f"[DEBUG LLM] url={url} payload={json.dumps(debug_payload, ensure_ascii=False)}")
+
         response = _request_with_retry("POST", url, headers=self.get_headers(), json=payload)
         data = response.json()
+
+        logger.info("[Provider] response status=%d, data keys=%s", response.status_code, list(data.keys()) if isinstance(data, dict) else type(data))
+
+        if DEBUG_LLM_CALLS:
+            _last_raw_response.clear()
+            _last_raw_response.update({"status": response.status_code, "data": data})
 
         choices = data.get("choices", [])
         content = ""
@@ -494,7 +508,7 @@ def chat(
     prompt: str,
     system: str = "你是一个专业的 AI 技术分析师。",
     temperature: float = 0.3,
-    max_tokens: int = 2000,
+    max_tokens: int = 8192,
     stream: bool = False,
     provider: str | None = None,
 ) -> tuple[str, dict]:
@@ -542,6 +556,7 @@ def chat_json(
         (parsed_json, usage_dict)
 
     Raises:
+        JSONTruncatedError: 当检测到 JSON 被截断时，调用方应重试
         json.JSONDecodeError: 三种策略都失败时
     """
     text, usage = chat(prompt, system=system, stream=False, **kwargs)
@@ -564,6 +579,14 @@ def chat_json(
     cleaned = re.sub(r'</?[^>]+>', '', cleaned)
     cleaned = cleaned.strip()
 
+    truncation_reason = _detect_json_truncation(text, cleaned)
+    if truncation_reason:
+        logger.warning("[chat_json] JSON 疑似被截断: %s", truncation_reason)
+        raise JSONTruncatedError(f"JSON truncated: {truncation_reason}", text)
+
+    print(f"[DEBUG chat_json] raw text len={len(text)}, preview: {repr(text[:800])}")
+    logger.info("[chat_json] raw text length=%d, preview: %r", len(text), text[:500] if text else "(empty)")
+
     try:
         return json.loads(cleaned), usage
     except json.JSONDecodeError:
@@ -584,7 +607,43 @@ def chat_json(
             pass
 
     logger.error("[chat_json] JSON parse failed, raw response: %r, cleaned: %r", text[:1000] if text else "(empty)", cleaned[:500] if cleaned else "(empty)")
+    if DEBUG_LLM_CALLS and _last_raw_response:
+        print(f"[DEBUG LLM] last raw response: {json.dumps(_last_raw_response, ensure_ascii=False)[:3000]}")
     raise json.JSONDecodeError("Failed to parse JSON after all fallback strategies", cleaned, 0)
+
+
+def _detect_json_truncation(raw_text: str, cleaned: str) -> str | None:
+    """检测 JSON 是否被截断。
+
+    常见截断特征:
+    - 存在 ===JSON_START=== 但缺少 ===JSON_END===
+    - 数组/对象开了但没闭合（括号计数不平衡）
+    - 末尾存在未闭合的字符串（以引号结尾）
+
+    Returns:
+        None 表示未检测到截断，str 表示截断原因描述
+    """
+    if "===JSON_START===" in raw_text and "===JSON_END===" not in raw_text.split("===JSON_START===")[-1]:
+        return "存在 ===JSON_START=== 但缺少 ===JSON_END==="
+
+    if "===JSON_START===" not in raw_text:
+        open_braces = cleaned.count("{") + cleaned.count("[")
+        close_braces = cleaned.count("}") + cleaned.count("]")
+        if open_braces > close_braces:
+            return f"括号不平衡: {open_braces} 个开括号 > {close_braces} 个闭括号（可能截断）"
+
+        if cleaned.endswith('"') or cleaned.endswith("'") or cleaned.endswith(",") or cleaned.endswith(":"):
+            return f"文本以不安全字符结尾: {repr(cleaned[-20:])}（可能截断）"
+
+    return None
+
+
+class JSONTruncatedError(Exception):
+    """JSON 输出被截断时的异常，调用方应重试。"""
+
+    def __init__(self, message: str, raw_response: str):
+        super().__init__(message)
+        self.raw_response = raw_response
 
 
 def accumulate_usage(tracker: dict, new_usage: dict) -> dict:

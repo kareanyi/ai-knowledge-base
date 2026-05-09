@@ -46,3 +46,4 @@ class KBState(TypedDict, total=False):
     iteration: int
     needs_human_review: bool
     cost_tracker: dict
+    plan: dict

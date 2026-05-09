@@ -6,10 +6,13 @@ import logging
 
 from langgraph.graph import StateGraph, END
 
-from workflows.nodes import collect_node, analyze_node, save_node
+from workflows.collector import collect_node
+from workflows.analyzer import analyze_node
 from workflows.reviewer import review_node
 from workflows.reviser import revise_node
 from workflows.human_flag import human_flag_node
+from workflows.organizer import organize_node
+from workflows.planner import planner_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
@@ -26,14 +29,16 @@ def route_after_review(state: KBState) -> str:
         "revise" 表示未通过审核且未达最大迭代，进入修订节点；
         "human_flag" 表示未通过审核且已达最大迭代，进入人工处理节点。
     """
-    review_passed = state.get("review_passed", False)
+    plan = state.get("plan", {}) or {}
+    max_iteration = int(plan.get("max_iterations", 3))
     iteration = state.get("iteration", 0)
+    review_passed = state.get("review_passed", False)
 
-    logger.info("[Router] review_passed=%s, iteration=%d", review_passed, iteration)
+    logger.info("[Router] review_passed=%s, iteration=%d, max_iteration=%d", review_passed, iteration, max_iteration)
 
     if review_passed:
         return "organize"
-    if iteration < 3:
+    if iteration < max_iteration:
         return "revise"
     return "human_flag"
 
@@ -42,28 +47,28 @@ def build_graph() -> StateGraph:
     """构建并返回编译后的 LangGraph 应用。
 
     工作流拓扑：
-        collect → analyze → review ─┬─→ organize（整理+保存）→ END
-                                    ├─→ revise（iter<3） → review
-                                    └─→ human_flag（iter≥3）→ END
+        plan → collect → analyze → review ─┬─→ organize（整理+保存）→ END
+                                    ├─→ revise（iter<max） → review
+                                    └─→ human_flag（iter≥max）→ END
 
     - (true): review_passed=True → organize → END
-    - (false, iter<3): review_passed=False, iteration<3 → revise → review (loop)
-    - (false, iter>=3): review_passed=False, iteration>=3 → human_flag → END
+    - (false, iter<max): review_passed=False, iteration<max → revise → review (loop)
+    - (false, iter>=max): review_passed=False, iteration>=max → human_flag → END
 
     Returns:
         编译后的 StateGraph 应用。
     """
     graph = StateGraph(KBState)
 
+    graph.add_node("plan", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("review", review_node)
     graph.add_node("revise", revise_node)
-    graph.add_node("organize", save_node)
+    graph.add_node("organize", organize_node)
     graph.add_node("human_flag", human_flag_node)
 
-    graph.set_entry_point("collect")
-
+    graph.add_edge("plan", "collect")
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "review")
 
@@ -77,6 +82,7 @@ def build_graph() -> StateGraph:
     graph.add_edge("organize", END)
     graph.add_edge("human_flag", END)
 
+    graph.set_entry_point("plan")
     return graph.compile()
 
 
