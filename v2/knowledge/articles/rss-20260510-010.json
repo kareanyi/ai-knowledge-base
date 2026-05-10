@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-010",
+  "source": "rss",
+  "source_url": "https://github.com/nooga/let-go",
+  "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+  "summary": "A Clojure-like language (~90% JVM Clojure compatible) implemented entirely in pure Go, featuring a ~10MB static binary with a cold boot time of just 7ms - approximately 50x faster than JVM Clojure and 3x faster than Babashka. The project delivers competitive throughput on algorithmic workloads comparable to GraalVM-backed sci.",
+  "tech_stack": [
+    "Go",
+    "Clojure",
+    "Interpreter",
+    "Lisp",
+    "Functional Programming"
+  ],
+  "problem_solved": "Eliminates JVM startup latency for Clojure scripts by providing a lightweight Go-based runtime with near-instant boot times.",
+  "why_valuable": "Enables Clojure developers to write scripts and CLIs with instant startup without sacrificing language familiarity or rewriting existing code.",
+  "tags": [
+    "programming-language",
+    "clojure",
+    "go",
+    "interpreter",
+    "lisp"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-10T09:49:04.578896+00:00",
+  "updated_at": "2026-05-10T09:55:45.219917+00:00",
+  "published_to": []
+}

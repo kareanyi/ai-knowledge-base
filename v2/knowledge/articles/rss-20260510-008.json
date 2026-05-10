@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-008",
+  "source": "rss",
+  "source_url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+  "title": "Local privilege escalation via execve()",
+  "summary": "FreeBSD 发布了安全公告，披露了 execve() 系统调用中的一个本地权限提升漏洞。该漏洞存在于特定条件下，可能允许本地攻击者获得 root 权限，官方已发布补丁修复。",
+  "tech_stack": [
+    "FreeBSD",
+    "C",
+    "Kernel",
+    "execve",
+    "POSIX"
+  ],
+  "problem_solved": "修复 FreeBSD execve() 系统调用中的本地权限提升漏洞，防止攻击者获取 root 权限",
+  "why_valuable": "这是一个关键安全补丁，直接关系到系统安全边界，建议所有 FreeBSD 用户立即应用更新",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "Privilege Escalation",
+    "FreeBSD",
+    "Kernel"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-10T09:48:33.308824+00:00",
+  "updated_at": "2026-05-10T09:55:45.219531+00:00",
+  "published_to": []
+}

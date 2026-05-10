@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-006",
+  "source": "rss",
+  "source_url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+  "title": "Sparse Cholesky Elimination Tree",
+  "summary": "This article explains elimination trees, a fundamental data structure used to represent and compute Cholesky factorization of sparse matrices efficiently. It covers how elimination trees capture the dependency patterns in sparse matrix factorization, enabling optimal fill-in minimization and efficient parallel computation.",
+  "tech_stack": [
+    "Sparse Matrix Algorithms",
+    "Cholesky Factorization",
+    "Elimination Trees",
+    "Numerical Linear Algebra",
+    "Scientific Computing"
+  ],
+  "problem_solved": "How to efficiently represent and compute Cholesky factorization of sparse matrices while minimizing fill-in and enabling parallel execution.",
+  "why_valuable": "Elimination trees are essential for building high-performance sparse matrix solvers used in finite element analysis, circuit simulation, machine learning, and scientific simulations at scale.",
+  "tags": [
+    "sparse-matrix",
+    "cholesky-factorization",
+    "numerical-analysis",
+    "elimination-tree",
+    "scientific-computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-10T09:48:05.111840+00:00",
+  "updated_at": "2026-05-10T09:55:45.211067+00:00",
+  "published_to": []
+}

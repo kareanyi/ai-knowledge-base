@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-007",
+  "source": "rss",
+  "source_url": "https://github.com/ThatXliner/rust-but-lisp",
+  "title": "Show HN: Rust but Lisp",
+  "summary": "A project combining Rust's performance and type safety with Lisp's expressive syntax and metaprogramming capabilities, likely implemented as a custom language or DSL that brings Lisp-style macros and homoiconicity to Rust development.",
+  "tech_stack": [
+    "Rust",
+    "Lisp",
+    "Macro Systems",
+    "Language Parser",
+    "Compiler/Transpiler"
+  ],
+  "problem_solved": "Brings Lisp's powerful metaprogramming and code-as-data paradigm to Rust developers who want more expressive syntax and macro capabilities.",
+  "why_valuable": "Combines Rust's memory safety and performance with Lisp's legendary metaprogramming power, potentially enabling new patterns in systems programming.",
+  "tags": [
+    "Programming Languages",
+    "Rust",
+    "Lisp",
+    "Metaprogramming",
+    "Language Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-10T09:48:24.017743+00:00",
+  "updated_at": "2026-05-10T09:55:45.211244+00:00",
+  "published_to": []
+}

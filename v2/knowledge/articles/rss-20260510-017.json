@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-017",
+  "source": "rss",
+  "source_url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+  "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+  "summary": "Bun's creator Jarred Sumner announced an experimental rewrite of Bun (originally written in Zig) in Rust, achieving 99.8% test compatibility on Linux x64 glibc, marking a significant milestone for one of the most prominent JavaScript runtimes.",
+  "tech_stack": [
+    "Rust",
+    "Zig",
+    "Bun",
+    "Linux",
+    "glibc"
+  ],
+  "problem_solved": "Completes a language migration of a JavaScript runtime from Zig to Rust while maintaining near-complete backward compatibility.",
+  "why_valuable": "Rust's mature ecosystem, memory safety guarantees, and tooling could make Bun more stable and easier to maintain long-term while preserving its performance advantages.",
+  "tags": [
+    "Rust",
+    "Bun",
+    "JavaScript-Runtime",
+    "Zig",
+    "Language-Migration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-10T09:51:24.292213+00:00",
+  "updated_at": "2026-05-10T09:55:45.221132+00:00",
+  "published_to": []
+}

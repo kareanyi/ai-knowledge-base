@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-011",
+  "source": "rss",
+  "source_url": "https://zed.dev/theme-builder",
+  "title": "Zed Editor Theme-Builder",
+  "summary": "Zed Editor has released a Theme-Builder tool that enables users to create and customize color themes for the Zed code editor through an interactive web-based interface, featuring live preview capabilities and simplified theme configuration.",
+  "tech_stack": [
+    "Zed Editor",
+    "Rust",
+    "JSON Theme Configuration",
+    "Web-based Interface",
+    "CSS Variables"
+  ],
+  "problem_solved": "Simplifies the theme creation process for Zed users by providing a visual builder instead of manual configuration file editing.",
+  "why_valuable": "Enables broader community participation in customizing the Zed editor experience, lowering the barrier for theme creation and personalization.",
+  "tags": [
+    "code-editor",
+    "theme-builder",
+    "developer-tools",
+    "customization",
+    "zed"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-10T09:49:29.691135+00:00",
+  "updated_at": "2026-05-10T09:55:45.220080+00:00",
+  "published_to": []
+}

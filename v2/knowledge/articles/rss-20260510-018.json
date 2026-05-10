@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260510-018",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.15597",
+  "title": "LLMs corrupt your documents when you delegate",
+  "summary": "This arxiv paper investigates a critical failure mode in LLMs where they corrupt or alter documents when asked to perform tasks on them, demonstrating that delegation to language models can introduce data integrity issues. The research likely provides empirical evidence of this problem across different models and tasks, with significant implications for AI-assisted workflows.",
+  "tech_stack": [
+    "LLMs",
+    "NLP",
+    "Document Processing",
+    "AI Reliability"
+  ],
+  "problem_solved": "Documents get corrupted or improperly modified when LLMs are delegated tasks to perform on them",
+  "why_valuable": "Reveals a fundamental reliability issue that affects anyone using LLMs for document processing workflows, helping practitioners avoid data loss",
+  "tags": [
+    "LLM",
+    "Data Integrity",
+    "AI Safety",
+    "Reliability",
+    "Document Processing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-10T09:51:56.030703+00:00",
+  "updated_at": "2026-05-10T09:55:45.221298+00:00",
+  "published_to": []
+}

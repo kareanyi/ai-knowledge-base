@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-013",
+  "source": "rss",
+  "source_url": "https://chrismorgan.info/no-query-strings",
+  "title": "I’ve banned query strings",
+  "summary": "A web developer explains their decision to remove query strings from URLs across their websites, discussing the benefits of cleaner URLs for caching efficiency and simpler URL structures. The post generated significant discussion in the developer community about best practices for URL design.",
+  "tech_stack": [
+    "HTTP",
+    "CDN",
+    "Web Servers",
+    "Static Assets",
+    "Browser Caching"
+  ],
+  "problem_solved": "Addresses caching inefficiencies where CDNs and proxies often bypass cache for URLs containing query strings, causing repeated downloads of identical content.",
+  "why_valuable": "Provides practical insights on URL optimization that can improve site performance, reduce server load, and simplify asset versioning strategies for web developers.",
+  "tags": [
+    "Web Development",
+    "Caching",
+    "URL Design",
+    "Performance",
+    "CDN"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-10T09:50:07.297759+00:00",
+  "updated_at": "2026-05-10T09:55:45.220421+00:00",
+  "published_to": []
+}

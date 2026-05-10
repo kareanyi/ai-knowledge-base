@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-014",
+  "source": "rss",
+  "source_url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+  "title": "Distributing Mac software is increasing my cortisol levels",
+  "summary": "A developer shares their frustrating experience distributing Mac software through Apple's ecosystem, highlighting the complexity of code signing, notarization requirements, Developer ID certificates, and App Store review processes that create significant friction for independent developers.",
+  "tech_stack": [
+    "Xcode",
+    "Swift",
+    "Apple Developer Program",
+    "Notarization",
+    "Code Signing"
+  ],
+  "problem_solved": "Documenting the pain points and frustrations developers face when trying to distribute macOS applications through Apple's restrictive ecosystem.",
+  "why_valuable": "Sheds light on real-world developer experience challenges with Apple's platform policies, potentially influencing improvements or helping other developers prepare for similar hurdles.",
+  "tags": [
+    "macOS",
+    "Developer Experience",
+    "Apple",
+    "Software Distribution",
+    "Code Signing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-10T09:50:27.665206+00:00",
+  "updated_at": "2026-05-10T09:55:45.220658+00:00",
+  "published_to": []
+}

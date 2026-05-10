@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260510-012",
+  "source": "rss",
+  "source_url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+  "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+  "summary": "CPanel experienced a significant ransomware attack affecting approximately 44,000 servers during their Black Week promotional period, prompting the company to urgently patch three newly discovered security vulnerabilities in their widely-used web hosting control panel software.",
+  "tech_stack": [
+    "CPanel/WHM",
+    "Linux servers",
+    "Web hosting infrastructure",
+    "Ransomware",
+    "Server management"
+  ],
+  "problem_solved": "Addresses critical security vulnerabilities in CPanel's server management software that were actively exploited during a ransomware campaign targeting shared hosting environments.",
+  "why_valuable": "Highlights the importance of timely security patching for widely-deployed hosting control panels and serves as a cautionary case study for web hosting providers and system administrators managing server infrastructure.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "Ransomware",
+    "Web Hosting",
+    "CPanel"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-10T09:49:50.232505+00:00",
+  "updated_at": "2026-05-10T09:55:45.220262+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260510-016",
+  "source": "rss",
+  "source_url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+  "title": "Internet Archive Switzerland",
+  "summary": "Internet Archive Switzerland is a regional initiative expanding the global mission of the Internet Archive to preserve digital knowledge and cultural heritage, with a focus on Swiss digital content and accessibility.",
+  "tech_stack": [
+    "Web Platform",
+    "Digital Preservation Systems",
+    "Open Source Infrastructure"
+  ],
+  "problem_solved": "Preserves digital knowledge and cultural heritage for future generations, ensuring Swiss digital content remains accessible.",
+  "why_valuable": "Provides free, universal access to preserved digital knowledge and cultural heritage, supporting education and research worldwide.",
+  "tags": [
+    "Digital Preservation",
+    "Open Access",
+    "Cultural Heritage",
+    "Knowledge Archive",
+    "Swiss Digital"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-10T09:51:01.303978+00:00",
+  "updated_at": "2026-05-10T09:55:45.220978+00:00",
+  "published_to": []
+}
