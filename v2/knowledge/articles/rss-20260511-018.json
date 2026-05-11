@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-018",
+  "source": "rss",
+  "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "title": "Local AI needs to be the norm",
+  "summary": "This article argues for making local AI deployment the standard practice rather than relying on cloud-based AI services. It emphasizes the importance of privacy, accessibility, and reduced dependency on centralized services, advocating for a paradigm shift in how AI is consumed and deployed. The high engagement (1237 points, 518 comments) indicates this is a timely and debated topic in the tech community.",
+  "tech_stack": [
+    "Local AI",
+    "Privacy",
+    "Edge Computing",
+    "LLM",
+    "Open Source"
+  ],
+  "problem_solved": "Addresses the over-reliance on cloud AI services and the associated privacy, cost, and accessibility concerns.",
+  "why_valuable": "Promotes user sovereignty over data, reduces costs, and enables AI access in offline/low-connectivity scenarios.",
+  "tags": [
+    "Local AI",
+    "Privacy",
+    "Decentralization",
+    "Edge AI",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-11T11:40:37.336456+00:00",
+  "updated_at": "2026-05-11T11:44:07.931824+00:00",
+  "published_to": []
+}

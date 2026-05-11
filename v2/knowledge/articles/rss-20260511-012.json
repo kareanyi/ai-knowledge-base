@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-012",
+  "source": "rss",
+  "source_url": "https://jola.dev/posts/running-local-models-on-m4",
+  "title": "Running local models on an M4 with 24GB memory",
+  "summary": "A practical guide on running large language models locally on Apple's M4 MacBook Pro with 24GB unified memory, covering optimization techniques, model selection strategies, and configuration tips for efficient inference within hardware constraints.",
+  "tech_stack": [
+    "Apple Silicon M4",
+    "llama.cpp",
+    "Ollama",
+    "Quantization",
+    "Python"
+  ],
+  "problem_solved": "Enables developers to run capable AI language models locally on consumer Mac hardware without expensive cloud GPU servers.",
+  "why_valuable": "Democratizes AI development by showing how to maximize limited RAM for local LLM inference, reducing costs and privacy concerns while maintaining acceptable performance.",
+  "tags": [
+    "AppleSilicon",
+    "LocalAI",
+    "LLM",
+    "Quantization",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-11T11:38:25.574710+00:00",
+  "updated_at": "2026-05-11T11:44:07.930787+00:00",
+  "published_to": []
+}

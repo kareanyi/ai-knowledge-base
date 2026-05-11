@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-015",
+  "source": "rss",
+  "source_url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+  "title": "Hardware Attestation as Monopoly Enabler",
+  "summary": "GrapheneOS founder discusses how hardware attestation, originally designed as a security feature to verify device integrity, can be weaponized by major tech companies to create monopoly lock-in by preventing users from installing alternative operating systems or custom ROMs on their own devices.",
+  "tech_stack": [
+    "Android",
+    "Linux Kernel",
+    "TEE (Trusted Execution Environment)",
+    "Mobile Security",
+    "Custom ROMs"
+  ],
+  "problem_solved": "Exposes how security features like hardware attestation can be exploited by corporations to restrict user freedom and maintain market dominance rather than genuinely protecting users.",
+  "why_valuable": "Highlights the critical tension between legitimate security measures and anti-competitive practices, raising awareness about digital rights and consumer freedom in the mobile ecosystem.",
+  "tags": [
+    "Privacy",
+    "Mobile Security",
+    "Monopoly",
+    "Digital Rights",
+    "Android"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-11T11:39:09.510987+00:00",
+  "updated_at": "2026-05-11T11:44:07.931323+00:00",
+  "published_to": []
+}

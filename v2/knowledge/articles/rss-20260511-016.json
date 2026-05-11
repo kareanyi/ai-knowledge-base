@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-016",
+  "source": "rss",
+  "source_url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+  "title": "Incident Report: CVE-2024-YIKES",
+  "summary": "A detailed post-mortem analysis of a security vulnerability (CVE-2024-YIKES), providing timeline, root cause analysis, impact assessment, and remediation steps taken by the organization. The report gained significant attention with 557 points and 142 comments on Hacker News.",
+  "tech_stack": [
+    "Security",
+    "CVE",
+    "Post-mortem",
+    "Incident Response",
+    "Vulnerability Management"
+  ],
+  "problem_solved": "Provides transparency and lessons learned from a security incident through structured incident reporting methodology.",
+  "why_valuable": "Offers actionable insights for security teams on vulnerability handling, communication strategies, and improving incident response processes through a real-world case study.",
+  "tags": [
+    "Security",
+    "CVE",
+    "Incident Report",
+    "Vulnerability",
+    "Post-mortem"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-11T11:39:34.815534+00:00",
+  "updated_at": "2026-05-11T11:44:07.931493+00:00",
+  "published_to": []
+}

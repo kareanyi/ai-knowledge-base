@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260511-005",
+  "source": "rss",
+  "source_url": "https://mipmip.org/advfamily/advfamily.html",
+  "title": "The Adventure Family Tree",
+  "summary": "A genealogical chart documenting the lineage and evolution of text adventure games, tracing how the original 'Colossal Cave Adventure' influenced countless derivatives, variants, and spiritual successors over decades of interactive fiction history.",
+  "tech_stack": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+  "problem_solved": "Maps the complex family tree of text adventure games to help enthusiasts understand the historical relationships between classic IF (Interactive Fiction) titles.",
+  "why_valuable": "Preserves gaming history by visually documenting how one seminal game spawned an entire genre and developer ecosystem.",
+  "tags": [
+    "text-adventure",
+    "interactive-fiction",
+    "game-history",
+    "classic-gaming",
+    "genealogy"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-05-11T11:36:29.451319+00:00",
+  "updated_at": "2026-05-11T11:44:07.922343+00:00",
+  "published_to": []
+}

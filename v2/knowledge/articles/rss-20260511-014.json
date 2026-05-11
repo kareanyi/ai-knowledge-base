@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260511-014",
+  "source": "rss",
+  "source_url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+  "title": "Obsidian plugin was abused to deploy a remote access trojan",
+  "summary": "Security researchers discovered that the Obsidian note-taking application's plugin system was exploited to distribute a remote access trojan called Phantom Pulse RAT, potentially compromising users who installed malicious plugins.",
+  "tech_stack": [
+    "Obsidian",
+    "JavaScript",
+    "Plugin Architecture",
+    "Phantom RAT"
+  ],
+  "problem_solved": "This is a security threat disclosure rather than a solution, exposing how a legitimate application's plugin ecosystem was weaponized for malware distribution.",
+  "why_valuable": "Provides critical threat intelligence about supply chain attacks targeting productivity tools and raises awareness for developers and security teams about plugin-based attack vectors.",
+  "tags": [
+    "Cybersecurity",
+    "Malware",
+    "RAT",
+    "Supply Chain Attack",
+    "Vulnerability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-11T11:38:51.518639+00:00",
+  "updated_at": "2026-05-11T11:44:07.931127+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-006",
+  "source": "rss",
+  "source_url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+  "title": "Mythos Finds a Curl Vulnerability",
+  "summary": "Daniel Stenberg (curl creator) blog post about a vulnerability discovered in curl by researcher Mythos. The article discusses a security flaw found in the widely-used command-line tool for data transfer.",
+  "tech_stack": [
+    "curl",
+    "C",
+    "Open Source",
+    "HTTP",
+    "Security Research"
+  ],
+  "problem_solved": "Discovered and documented a security vulnerability in the curl tool to help protect users from potential exploitation.",
+  "why_valuable": "As curl is used by billions of systems worldwide, identifying and patching vulnerabilities is critical for internet security infrastructure.",
+  "tags": [
+    "Security",
+    "curl",
+    "Vulnerability",
+    "Open Source",
+    "C Programming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-11T11:36:51.265672+00:00",
+  "updated_at": "2026-05-11T11:44:07.922542+00:00",
+  "published_to": []
+}

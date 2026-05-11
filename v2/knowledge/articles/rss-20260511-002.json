@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260511-002",
+  "source": "rss",
+  "source_url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+  "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
+  "summary": "This Wired article explores how former Hollywood TV production workers are now finding employment in AI training and data labeling roles, illustrating the profound workforce shift driven by AI adoption in creative industries.",
+  "tech_stack": [
+    "AI Training",
+    "Data Labeling",
+    "LLM"
+  ],
+  "problem_solved": "Addresses the employment transition and economic displacement experienced by creative industry workers as AI transforms entertainment production.",
+  "why_valuable": "Provides real-world perspective on how AI adoption is reshaping traditional creative industries and the human cost of automation beyond theoretical discussions.",
+  "tags": [
+    "AI Impact",
+    "Workforce",
+    "Hollywood",
+    "Creative Industry",
+    "Labor"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-11T11:35:36.094638+00:00",
+  "updated_at": "2026-05-11T11:44:07.921723+00:00",
+  "published_to": []
+}

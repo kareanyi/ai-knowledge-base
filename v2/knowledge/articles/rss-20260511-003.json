@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-003",
+  "source": "rss",
+  "source_url": "https://ratty-term.org/",
+  "title": "Ratty – A terminal emulator with inline 3D graphics",
+  "summary": "Ratty is a terminal emulator application that supports rendering inline 3D graphics directly within the terminal environment, combining traditional command-line interface functionality with modern 3D visualization capabilities.",
+  "tech_stack": [
+    "Rust",
+    "WebGPU",
+    "OpenGL",
+    "Terminal/CLI",
+    "3D Graphics"
+  ],
+  "problem_solved": "Enables users to display and interact with 3D graphics content directly within a terminal emulator without needing separate graphical applications.",
+  "why_valuable": "Provides seamless integration of 3D visualization into developer workflows, allowing for inline graphics display in CLI tools, data visualization, and interactive terminal-based applications.",
+  "tags": [
+    "terminal-emulator",
+    "3D-graphics",
+    "Rust",
+    "CLI-tools",
+    "visualization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-11T11:35:52.564516+00:00",
+  "updated_at": "2026-05-11T11:44:07.921931+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260511-011",
+  "source": "rss",
+  "source_url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+  "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+  "summary": "James Shore discusses how AI coding agents should be evaluated not just for their code-writing abilities but for their impact on long-term maintenance costs, which typically represent 40-80% of total software development expenses. The article argues that most AI coding tools optimize for short-term productivity but create technical debt that increases future maintenance burden.",
+  "tech_stack": [
+    "AI Agents",
+    "Large Language Models",
+    "Code Generation Tools",
+    "Software Development Lifecycle"
+  ],
+  "problem_solved": "Addresses the misalignment between AI coding tools that boost immediate productivity but increase long-term code maintenance costs.",
+  "why_valuable": "Maintenance costs dominate software budgets, so AI tools that reduce maintenance burden provide exponentially greater ROI than those that just speed up initial development.",
+  "tags": [
+    "AI Coding Agent",
+    "Software Maintenance",
+    "Technical Debt",
+    "Developer Productivity",
+    "Code Quality"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-11T11:38:09.989178+00:00",
+  "updated_at": "2026-05-11T11:44:07.930614+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-009",
+  "source": "rss",
+  "source_url": "https://github.com/adamjgmiller/adamsreview",
+  "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+  "summary": "adamsreview is a Claude Code plugin containing six slash commands that perform multi-stage, multi-agent PR reviews using parallel sub-agents, validation passes, and persistent JSON state, with optional ensemble review combining Codex CLI and PR bot comments for superior bug detection.",
+  "tech_stack": [
+    "Claude Code",
+    "Codex CLI",
+    "JSON",
+    "PR Bot Integration",
+    "Multi-Agent Architecture"
+  ],
+  "problem_solved": "Solves the problem of inadequate PR review quality by using parallel multi-agent validation that catches more real bugs than built-in review tools while reducing false positives.",
+  "why_valuable": "Its multi-stage parallel agent architecture with validation passes significantly outperforms single-pass review tools in bug detection accuracy, making code reviews more effective and reliable.",
+  "tags": [
+    "AI",
+    "PR Review",
+    "Multi-Agent",
+    "Code Review",
+    "Claude Code"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-11T11:37:38.221360+00:00",
+  "updated_at": "2026-05-11T11:44:07.930247+00:00",
+  "published_to": []
+}

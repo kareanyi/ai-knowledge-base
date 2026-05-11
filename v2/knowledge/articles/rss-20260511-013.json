@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260511-013",
+  "source": "rss",
+  "source_url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+  "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+  "summary": "Adam Dunkels experiments with using Claude (Anthropic's AI) to act as a user-space IP stack by communicating over a pseudo-terminal, and measures the latency of ICMP ping responses. The experiment explores whether an LLM can function as a network protocol handler.",
+  "tech_stack": [
+    "Claude",
+    "User-space IP Stack",
+    "ICMP Ping",
+    "Pseudo-terminal",
+    "Unix"
+  ],
+  "problem_solved": "Explores whether an AI model can serve as a functional network stack by responding to network protocol operations.",
+  "why_valuable": "Demonstrates creative applications of LLMs beyond traditional text tasks and provides real-world latency benchmarks for AI-mediated network operations.",
+  "tags": [
+    "AI",
+    "Networking",
+    "LLM",
+    "Experiment",
+    "Latency"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-11T11:38:37.409864+00:00",
+  "updated_at": "2026-05-11T11:44:07.930958+00:00",
+  "published_to": []
+}

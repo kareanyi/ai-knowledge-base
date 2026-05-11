@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260511-010",
+  "source": "rss",
+  "source_url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+  "title": "I'm going back to writing code by hand",
+  "summary": "A developer shares their decision to return to writing code manually instead of relying on AI code generation tools, expressing that the manual process helps maintain deeper understanding of their code and improves problem-solving skills.",
+  "tech_stack": [
+    "General Programming"
+  ],
+  "problem_solved": "Addresses the trade-off between AI-assisted coding efficiency and maintaining fundamental coding skills.",
+  "why_valuable": "Provides a counter-perspective to the AI coding trend, arguing that manual coding preserves cognitive engagement and code comprehension.",
+  "tags": [
+    "AI Coding",
+    "Developer Productivity",
+    "Programming Practices",
+    "Opinion",
+    "Skill Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-11T11:37:51.512745+00:00",
+  "updated_at": "2026-05-11T11:44:07.930443+00:00",
+  "published_to": []
+}
