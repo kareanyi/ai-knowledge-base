@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260512-020",
+  "source": "rss",
+  "source_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+  "title": "Google says criminal hackers used AI to find a major software flaw",
+  "summary": "Google reported that criminal hackers successfully used AI-powered tools to discover and exploit a major software vulnerability, marking a significant escalation in AI-assisted cyber attacks. This development highlights the evolving threat landscape where AI is being weaponized to accelerate vulnerability discovery and exploitation.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Cybersecurity Tools",
+    "Exploit Development"
+  ],
+  "problem_solved": "The article addresses the emerging cybersecurity threat of AI-assisted vulnerability discovery by criminal actors.",
+  "why_valuable": "This reporting provides critical awareness about the democratization of hacking through AI, enabling security teams to better prepare defenses against AI-powered attack vectors.",
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "Hacking",
+    "Vulnerability",
+    "Google"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-12T10:48:30.478564+00:00",
+  "updated_at": "2026-05-12T10:51:06.495033+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-015",
+  "source": "rss",
+  "source_url": "https://github.com/mamba-studio/TypedMemory",
+  "title": "Library for fast mapping of Java records to native memory",
+  "summary": "TypedMemory is a Java library that enables type-safe mapping of Java records to native memory regions, providing high-performance zero-copy access to off-heap memory while maintaining Java's type safety guarantees.",
+  "tech_stack": [
+    "Java",
+    "JVM",
+    "Native Memory",
+    "Java Records",
+    "Unsafe API"
+  ],
+  "problem_solved": "Eliminates performance overhead when frequently transferring data between JVM heap and native memory in high-performance Java applications.",
+  "why_valuable": "Enables Java developers to work with native memory efficiently while preserving type safety, making it ideal for low-latency trading systems, game engines, and high-throughput data processing.",
+  "tags": [
+    "Java",
+    "Performance",
+    "NativeMemory",
+    "Records",
+    "JVM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-12T10:47:08.064863+00:00",
+  "updated_at": "2026-05-12T10:51:06.494134+00:00",
+  "published_to": []
+}

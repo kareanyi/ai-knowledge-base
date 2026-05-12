@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-010",
+  "source": "rss",
+  "source_url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+  "title": "Postmortem: TanStack NPM supply-chain compromise",
+  "summary": "TanStack published a detailed postmortem analyzing a supply chain compromise of their NPM packages, documenting how attackers injected malicious code and the investigation process that followed. The incident highlights the ongoing vulnerabilities in the JavaScript open-source ecosystem and the importance of supply chain security practices.",
+  "tech_stack": [
+    "NPM",
+    "JavaScript",
+    "TypeScript",
+    "GitHub Actions",
+    "Open Source"
+  ],
+  "problem_solved": "Documents the investigation, remediation, and lessons learned from a supply chain attack targeting TanStack's NPM packages.",
+  "why_valuable": "Provides critical security insights for the open-source community about supply chain attack detection, response strategies, and prevention measures that can be applied to other projects.",
+  "tags": [
+    "Security",
+    "Supply Chain",
+    "NPM",
+    "Open Source",
+    "Incident Response"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-12T10:45:29.553926+00:00",
+  "updated_at": "2026-05-12T10:51:06.493261+00:00",
+  "published_to": []
+}

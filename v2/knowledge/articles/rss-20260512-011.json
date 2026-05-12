@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-011",
+  "source": "rss",
+  "source_url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+  "title": "I let AI build a tool to help me figure out what was waking me up at night",
+  "summary": "A developer used AI to build a custom sleep tracking tool to diagnose what was causing their nighttime awakenings, demonstrating how large language models can be leveraged to create personal health debugging utilities through iterative prompting and development.",
+  "tech_stack": [
+    "Python",
+    "LLM/AI APIs",
+    "Data Logging",
+    "Web Scraping",
+    "Personal Analytics"
+  ],
+  "problem_solved": "Helps individuals identify patterns and root causes of sleep disruptions that traditional methods might miss.",
+  "why_valuable": "Demonstrates practical AI application for personal health monitoring and shows developers how to rapidly prototype useful tools using natural language.",
+  "tags": [
+    "AI",
+    "Health",
+    "Sleep",
+    "Personal Tools",
+    "Prototyping"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:45:47.160547+00:00",
+  "updated_at": "2026-05-12T10:51:06.493453+00:00",
+  "published_to": []
+}

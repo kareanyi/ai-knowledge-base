@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260512-001",
+  "source": "rss",
+  "source_url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+  "title": "Learning Software Architecture",
+  "summary": "A technical article by Aleksey Kladov exploring software architecture principles, likely discussing how to design and structure software systems effectively based on his extensive engineering experience.",
+  "tech_stack": [
+    "Software Design",
+    "System Architecture",
+    "Engineering Practices"
+  ],
+  "problem_solved": "How to think about and design software architecture for maintainable, scalable systems.",
+  "why_valuable": "Author is a renowned systems programmer (rust-analyzer creator) sharing hard-won architectural insights from real-world large-scale software development.",
+  "tags": [
+    "Software Architecture",
+    "System Design",
+    "Engineering",
+    "Best Practices",
+    "Documentation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-12T10:42:39.267157+00:00",
+  "updated_at": "2026-05-12T10:51:06.484282+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-017",
+  "source": "rss",
+  "source_url": "https://bild.ai/jobs",
+  "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+  "summary": "Bild AI, a Y Combinator W25 startup, is recruiting founding product engineers to build AI products from the ground up as early team members. The company offers equity-rich compensation and the opportunity to shape product direction in an AI startup environment.",
+  "tech_stack": [
+    "AI/ML",
+    "Python",
+    "React",
+    "Cloud Infrastructure",
+    "TypeScript"
+  ],
+  "problem_solved": "Hiring founding engineers who want to build AI products at an early-stage startup with significant equity upside.",
+  "why_valuable": "Provides an opportunity to join a YC-backed AI startup as a founding member with equity upside and direct influence on product development.",
+  "tags": [
+    "AI Startup",
+    "Y Combinator",
+    "Hiring",
+    "Founding Engineer",
+    "Product Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:47:33.090088+00:00",
+  "updated_at": "2026-05-12T10:51:06.494509+00:00",
+  "published_to": []
+}

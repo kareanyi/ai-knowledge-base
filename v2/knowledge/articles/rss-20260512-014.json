@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260512-014",
+  "source": "rss",
+  "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "title": "If AI writes your code, why use Python?",
+  "summary": "This article explores whether Python remains relevant when AI can now generate code automatically, arguing that Python's value extends beyond just syntax convenience to encompass its ecosystem, readability, and suitability as a universal interface language for AI systems.",
+  "tech_stack": [
+    "Python",
+    "AI/AI Coding Tools",
+    "LLM"
+  ],
+  "problem_solved": "Addresses the question of Python's continued relevance in an era where AI increasingly writes code for developers.",
+  "why_valuable": "Python's value lies not in syntax brevity but in its vast ecosystem, readable syntax, and role as the de facto language for AI/ML development and integration.",
+  "tags": [
+    "Python",
+    "AI",
+    "Programming",
+    "LLM",
+    "Developer-Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:46:51.802886+00:00",
+  "updated_at": "2026-05-12T10:51:06.493963+00:00",
+  "published_to": []
+}

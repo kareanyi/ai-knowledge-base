@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-009",
+  "source": "rss",
+  "source_url": "https://github.com/davmlaw/they_live_adblocker",
+  "title": "They Live (1988) inspired Adblocker",
+  "summary": "A browser-based adblocker project inspired by the 1988 cult film 'They Live', where the protagonist wears special sunglasses to reveal hidden alien messages and advertising disguised as normal content. The project likely creates a similar effect by exposing or blocking hidden advertisements and sponsored content on web pages.",
+  "tech_stack": [
+    "JavaScript",
+    "Browser Extension API",
+    "CSS",
+    "HTML",
+    "Chrome/Firefox Extension"
+  ],
+  "problem_solved": "Reveals and blocks hidden advertising content on web pages in a visually dramatic way inspired by the iconic sunglasses scene from the film.",
+  "why_valuable": "Combines a clever pop-culture reference with practical ad-blocking functionality, making web browsing cleaner while adding an entertaining visual experience.",
+  "tags": [
+    "adblocker",
+    "browser-extension",
+    "web",
+    "privacy",
+    "creative"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:45:11.226313+00:00",
+  "updated_at": "2026-05-12T10:51:06.493086+00:00",
+  "published_to": []
+}

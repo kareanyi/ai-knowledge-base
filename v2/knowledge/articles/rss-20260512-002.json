@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-002",
+  "source": "rss",
+  "source_url": "https://www.phoronix.com/news/HDMI-2.1-DSC-AMDGPU-FRL",
+  "title": "HDMI 2.1 Display Stream Compression (DSC) Ready for Amdgpu Linux Driver",
+  "summary": "AMD's open-source AMDGPU Linux kernel driver has added preliminary support for HDMI 2.1 Display Stream Compression (DSC) with Fixed Rate Link (FRL), enabling higher bandwidth displays like 4K@120Hz and 8K monitors over HDMI connections on Linux systems.",
+  "tech_stack": [
+    "Linux Kernel",
+    "AMDGPU Driver",
+    "C Language",
+    "HDMI 2.1",
+    "DSC Compression"
+  ],
+  "problem_solved": "Enables AMD GPU users on Linux to connect and drive high-resolution, high-refresh-rate displays (4K@120Hz, 8K) that exceed standard HDMI 2.0 bandwidth limitations.",
+  "why_valuable": "Provides Linux desktop users with AMD graphics cards access to cutting-edge display capabilities previously only available on Windows or requiring DisplayPort connections.",
+  "tags": [
+    "Linux",
+    "AMD",
+    "GPU Driver",
+    "HDMI",
+    "Display Technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:42:54.329585+00:00",
+  "updated_at": "2026-05-12T10:51:06.484588+00:00",
+  "published_to": []
+}

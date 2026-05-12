@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260512-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+  "title": "Laserfiche unveils AI agents for natural language workflows",
+  "summary": "Laserfiche has launched AI agents that enable users to perform content management tasks through natural language prompts, with built-in compliance and security controls baked into their workflow automation capabilities.",
+  "tech_stack": [
+    "AI Agents",
+    "Natural Language Processing",
+    "Content Management",
+    "Enterprise Software"
+  ],
+  "problem_solved": "Simplifies complex enterprise content management workflows by allowing users to accomplish tasks through conversational language instead of manual processes.",
+  "why_valuable": "Democratizes access to enterprise workflow automation by removing technical barriers and ensuring security compliance is maintained automatically.",
+  "tags": [
+    "AI Agents",
+    "Enterprise Automation",
+    "Content Management",
+    "Natural Language Interface",
+    "Workflow Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:48:40.676356+00:00",
+  "updated_at": "2026-05-12T10:51:06.495204+00:00",
+  "published_to": []
+}

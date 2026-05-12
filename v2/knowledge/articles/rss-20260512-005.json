@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260512-005",
+  "source": "rss",
+  "source_url": "http://www.typewritten.org/Media/",
+  "title": "Screenshots of Old Desktop OSes",
+  "summary": "这是一个收藏经典桌面操作系统界面截图的网站，展示了包括CDE、NeXTSTEP、BeOS、Amiga等已消逝操作系统的原始界面图像，记录了GUI设计演变的重要历史时刻。",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "Static Web"
+  ],
+  "problem_solved": "保存和展示已消失的经典操作系统界面的视觉遗产。",
+  "why_valuable": "为计算机历史研究、UI/UX设计师和科技怀旧爱好者提供了珍贵的视觉参考资源。",
+  "tags": [
+    "retro-computing",
+    "desktop-OS",
+    "GUI-history",
+    "screenshot-archive",
+    "design-inspiration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:44:06.238896+00:00",
+  "updated_at": "2026-05-12T10:51:06.485132+00:00",
+  "published_to": []
+}

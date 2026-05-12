@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-008",
+  "source": "rss",
+  "source_url": "https://claude.com/blog/claude-platform-on-aws",
+  "title": "Claude Platform on AWS",
+  "summary": "Anthropic has made Claude available on AWS platform, enabling AWS customers to access Claude AI capabilities directly through their existing AWS infrastructure. This integration likely provides seamless deployment options for enterprise users who prefer AWS ecosystem.",
+  "tech_stack": [
+    "Claude",
+    "AWS",
+    "Amazon Bedrock",
+    "Cloud Infrastructure",
+    "AI/LLM"
+  ],
+  "problem_solved": "Enables AWS users to easily access and integrate Claude AI capabilities without leaving their preferred cloud infrastructure provider.",
+  "why_valuable": "Simplifies enterprise AI adoption by offering Claude through widely-used AWS services, reducing complexity and integration overhead for organizations already invested in the AWS ecosystem.",
+  "tags": [
+    "Anthropic",
+    "AWS Cloud",
+    "Enterprise AI",
+    "LLM Integration",
+    "Claude"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:44:54.522917+00:00",
+  "updated_at": "2026-05-12T10:51:06.492861+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260512-012",
+  "source": "rss",
+  "source_url": "https://thinkingmachines.ai/blog/interaction-models/",
+  "title": "Interaction Models",
+  "summary": "This article from thinkingmachines.ai explores frameworks and methodologies for designing effective interactions between humans and AI systems, particularly focusing on patterns for conversational AI, agent-based interactions, and best practices for building intuitive human-AI workflows.",
+  "tech_stack": [
+    "Python",
+    "LLM APIs",
+    "LangChain",
+    "Prompt Engineering",
+    "Vector Databases"
+  ],
+  "problem_solved": "Helps developers and designers understand how to structure and optimize communication patterns between users and AI systems for better usability and effectiveness.",
+  "why_valuable": "Provides practical guidance on designing interaction patterns that make AI systems more intuitive, efficient, and user-friendly in real-world applications.",
+  "tags": [
+    "AI Design",
+    "Human-AI Interaction",
+    "Conversational AI",
+    "UX Patterns",
+    "LLM Integration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-12T10:46:06.634830+00:00",
+  "updated_at": "2026-05-12T10:51:06.493625+00:00",
+  "published_to": []
+}
