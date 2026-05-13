@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-020",
+  "source": "rss",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+  "title": "Bambu Lab is abusing the open source social contract",
+  "summary": "Tech blogger Jeff Geerling accuses Bambu Lab of violating open source licensing agreements by using open source components without properly attributing or contributing back to the community, sparking a major debate in the 3D printing and maker community.",
+  "tech_stack": [
+    "3D Printing",
+    "Open Source Licensing",
+    "GitHub",
+    "GPL",
+    "Linux"
+  ],
+  "problem_solved": "Highlights the ethical concerns around a major hardware company potentially exploiting open source contributions without reciprocating to the community.",
+  "why_valuable": "Raises important questions about corporate responsibility in the open source ecosystem and the sustainability of community-driven projects.",
+  "tags": [
+    "3D Printing",
+    "Open Source",
+    "Ethics",
+    "Corporate",
+    "Licensing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:52:43.056999+00:00",
+  "updated_at": "2026-05-13T10:56:56.995682+00:00",
+  "published_to": []
+}

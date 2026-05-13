@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-005",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+  "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
+  "summary": "Cloudflare engineers discovered how a Linux kernel optimization for handling TCP 'idle' timeout semantics inadvertently broke QUIC protocol implementations, causing connections to fail in unexpected ways. The bug originated from misaligned assumptions between kernel-level TCP behavior and QUIC's own idle timeout mechanisms.",
+  "tech_stack": [
+    "Linux Kernel",
+    "QUIC",
+    "TCP",
+    "C/C++",
+    "Networking Protocols"
+  ],
+  "problem_solved": "This case study reveals and explains a subtle but critical networking bug where Linux kernel optimizations designed for TCP conflicted with QUIC protocol expectations, leading to connection failures.",
+  "why_valuable": "It provides a real-world example of how low-level kernel optimizations can unexpectedly break higher-level protocol implementations, serving as a cautionary tale for developers working across system layers.",
+  "tags": [
+    "Networking",
+    "QUIC",
+    "Linux Kernel",
+    "Bug Fixes",
+    "Protocol Debugging"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-13T10:43:38.510985+00:00",
+  "updated_at": "2026-05-13T10:56:56.985785+00:00",
+  "published_to": []
+}

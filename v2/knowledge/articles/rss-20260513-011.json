@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-011",
+  "source": "rss",
+  "source_url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+  "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+  "summary": "US-CERT is releasing six critical CVEs for serious security vulnerabilities in dnsmasq, a widely-used DNS caching and DHCP server software commonly found in embedded systems and routers. This is significant as dnsmasq is deployed in millions of devices worldwide.",
+  "tech_stack": [
+    "dnsmasq",
+    "DNS",
+    "DHCP",
+    "Embedded Systems",
+    "C"
+  ],
+  "problem_solved": "Discloses multiple serious security vulnerabilities affecting a widely deployed network service software.",
+  "why_valuable": "Critical security patches needed for dnsmasq installations across routers, IoT devices, and Linux systems to prevent potential remote attacks.",
+  "tags": [
+    "Security",
+    "CVE",
+    "DNS",
+    "Networking",
+    "Vulnerability"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-13T10:46:30.835828+00:00",
+  "updated_at": "2026-05-13T10:56:56.994082+00:00",
+  "published_to": []
+}

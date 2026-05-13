@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-001",
+  "source": "rss",
+  "source_url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+  "title": "SecurityBaseline.eu",
+  "summary": "这是一项针对欧洲政府网站安全状况的审计研究项目，通过 SecurityBaseline.eu 平台扫描发现欧洲政府运营着约3000个追踪站点、1000个配置不当的phpMyAdmin实例，以及99%的政府邮件存在加密质量问题，旨在提升政府网站安全透明度。",
+  "tech_stack": [
+    "Web Crawling",
+    "Security Scanning",
+    "Data Analysis",
+    "Email Security Analysis",
+    "Open Source Intelligence"
+  ],
+  "problem_solved": "解决欧洲政府网站安全状况不透明的问题，帮助识别和曝光政府基础设施中的安全弱点。",
+  "why_valuable": "通过开源审计和基准测试工具，为公众提供政府网站安全可见性，推动政府部门提升网络安全标准。",
+  "tags": [
+    "Cybersecurity",
+    "Government Audit",
+    "Privacy",
+    "Security Baseline",
+    "Open Source Intelligence"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:42:02.327532+00:00",
+  "updated_at": "2026-05-13T10:56:56.984963+00:00",
+  "published_to": []
+}

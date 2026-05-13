@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260513-007",
+  "source": "rss",
+  "source_url": "https://www.savethearchive.com/newsleaders/",
+  "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+  "summary": "A grassroots campaign urging major US news organizations (NYT, Atlantic, USA Today) to continue preserving and linking to archived web content through the Internet Archive's Wayback Machine, maintaining public access to historical digital records.",
+  "tech_stack": [
+    "Web Archiving",
+    "Internet Archive"
+  ],
+  "problem_solved": "Preserving public access to digital news archives and preventing link rot for historical web content.",
+  "why_valuable": "Ensures long-term public access to journalistic and historical digital records, maintaining accountability and research capabilities.",
+  "tags": [
+    "Digital Preservation",
+    "Internet Archive",
+    "Web Archives",
+    "News Media",
+    "Link Rot"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:44:25.004317+00:00",
+  "updated_at": "2026-05-13T10:56:56.986129+00:00",
+  "published_to": []
+}

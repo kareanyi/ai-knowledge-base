@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260513-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+  "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+  "summary": "JBS Dev president Joe Rose challenges the common misconception that data must be perfect before implementing AI workloads. The article explores the 'AI last mile' challenge - translating AI model capabilities into cost-effective, sustainable business solutions. This represents a shift from theoretical model potential to practical, economically viable deployment.",
+  "tech_stack": [
+    "Generative AI",
+    "Agentic AI",
+    "LLM"
+  ],
+  "problem_solved": "Addresses the barrier of unnecessary data perfection requirements that prevents many organizations from adopting AI solutions.",
+  "why_valuable": "It reframes a major adoption barrier by showing enterprises can begin AI initiatives without waiting for complete data quality, enabling faster time-to-value.",
+  "tags": [
+    "AI Adoption",
+    "Data Quality",
+    "Cost Optimization",
+    "Enterprise AI",
+    "Implementation Strategy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:53:28.775301+00:00",
+  "updated_at": "2026-05-13T10:56:56.995858+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-009",
+  "source": "rss",
+  "source_url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+  "title": "Scrcpy v4.0",
+  "summary": "Scrcpy v4.0是一个开源的Android设备屏幕镜像和控制工具，通过ADB连接实现电脑端无线操控Android设备，无需root权限，支持屏幕录制、文件传输等功能的跨平台解决方案",
+  "tech_stack": [
+    "C",
+    "Java",
+    "SDL2",
+    "ADB",
+    "Meson"
+  ],
+  "problem_solved": "解决在没有root权限的情况下，如何在电脑上低延迟镜像和控制Android设备屏幕的问题",
+  "why_valuable": "作为免费开源工具，它提供了轻量级、高性能的Android设备投屏体验，GitHub星标超10万，是开发者和普通用户的实用工具",
+  "tags": [
+    "Android",
+    "Screen Mirror",
+    "ADB",
+    "Open Source",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-13T10:45:00.974056+00:00",
+  "updated_at": "2026-05-13T10:56:56.993724+00:00",
+  "published_to": []
+}

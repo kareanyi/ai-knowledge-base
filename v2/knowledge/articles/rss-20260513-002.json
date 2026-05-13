@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-002",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.08419",
+  "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+  "summary": "A research paper presenting a deterministic, fully-static whole-binary translation system that eliminates heuristic-based approaches for translating binary executables across architectures without runtime guesswork.",
+  "tech_stack": [
+    "Binary Translation",
+    "Compiler Theory",
+    "Systems Programming",
+    "Emulation",
+    "Low-level Architecture Analysis"
+  ],
+  "problem_solved": "Removes non-deterministic behavior and heuristics from binary translation, enabling reproducible and predictable cross-architecture binary execution.",
+  "why_valuable": "Enables reliable binary translation for security research, legacy system emulation, and cross-platform compatibility where determinism and correctness are critical.",
+  "tags": [
+    "Binary-Translation",
+    "Emulation",
+    "Systems-Programming",
+    "Deterministic",
+    "Security-Analysis"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-13T10:42:54.451549+00:00",
+  "updated_at": "2026-05-13T10:56:56.985251+00:00",
+  "published_to": []
+}

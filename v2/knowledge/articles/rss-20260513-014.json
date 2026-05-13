@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-014",
+  "source": "rss",
+  "source_url": "https://deepmind.google/blog/ai-pointer/",
+  "title": "Reimagining the mouse pointer for the AI era",
+  "summary": "Google DeepMind explores how traditional mouse pointer and cursor-based interaction paradigms should evolve as AI becomes more integrated into computing experiences, reimagining the fundamental way users navigate and interact with digital interfaces in an AI-powered world.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Human-Computer Interaction",
+    "Multimodal AI",
+    "Pointer/Cursor Systems"
+  ],
+  "problem_solved": "Redefines traditional point-and-click interaction paradigms for the AI era where AI can proactively assist users rather than passive cursor control.",
+  "why_valuable": "Provides forward-thinking perspective on how fundamental UI/UX concepts must evolve as AI becomes a first-class citizen in computing interfaces, from Google DeepMind's research perspective.",
+  "tags": [
+    "AI",
+    "UX Design",
+    "Human-Computer Interaction",
+    "Pointer",
+    "Future of Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:47:43.111737+00:00",
+  "updated_at": "2026-05-13T10:56:56.994624+00:00",
+  "published_to": []
+}

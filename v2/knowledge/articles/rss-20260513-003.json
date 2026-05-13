@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-003",
+  "source": "rss",
+  "source_url": "https://www.spacex.com/updates#starship-v3",
+  "title": "Starship V3",
+  "summary": "SpaceX's official announcement about Starship Version 3, their next-generation fully reusable orbital-class spacecraft designed for missions to the Moon, Mars, and beyond. The update likely covers design improvements, specifications, and development milestones for the most powerful rocket system ever built.",
+  "tech_stack": [
+    "Stainless Steel Construction",
+    "Raptor Engines",
+    "Liquid Methane Propulsion",
+    "Heat Shield Technology",
+    "Orbital Refueling"
+  ],
+  "problem_solved": "Enables humanity to achieve reliable, cost-effective heavy-lift space transportation for interplanetary exploration and satellite deployment.",
+  "why_valuable": "Represents a paradigm shift in space access with full reusability, potentially reducing launch costs by orders of magnitude and making multi-planetary civilization feasible.",
+  "tags": [
+    "SpaceX",
+    "Starship",
+    "Rocketry",
+    "Space Exploration",
+    "Mars"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-13T10:43:07.895066+00:00",
+  "updated_at": "2026-05-13T10:56:56.985428+00:00",
+  "published_to": []
+}

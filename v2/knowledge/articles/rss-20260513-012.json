@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-012",
+  "source": "rss",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "summary": "Needle is a 26M parameter open-source model specialized in function-calling (tool use), designed to run on consumer devices at impressive speeds (6000 tok/s prefill, 1200 tok/s decode). The project challenges the assumption that tool-calling requires massive models, arguing that function-calling is fundamentally a retrieval-and-assembly task that smaller models can handle efficiently.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "ONNX",
+    "Machine Learning"
+  ],
+  "problem_solved": "Enables lightweight, on-device AI agent capabilities without requiring expensive hardware or cloud services.",
+  "why_valuable": "Democratizes agentic AI experiences by making tool-calling functionality accessible on budget phones and consumer devices, reducing cost and latency while improving privacy.",
+  "tags": [
+    "Open Source",
+    "Edge AI",
+    "Function Calling",
+    "On-Device ML",
+    "Small Language Models"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:47:09.685888+00:00",
+  "updated_at": "2026-05-13T10:56:56.994256+00:00",
+  "published_to": []
+}

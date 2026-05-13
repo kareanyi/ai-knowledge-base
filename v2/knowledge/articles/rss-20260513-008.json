@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-008",
+  "source": "rss",
+  "source_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+  "title": "Restore full BambuNetwork support for Bambu Lab printers",
+  "summary": "OrcaSlicer-bambulab是OrcaSlicer的开源分支项目，专门为Bambu Lab 3D打印机提供完整的BambuNetwork网络支持，使用户能够通过OrcaSlicer直接控制和监控Bambu Lab打印机，绕过官方软件的限制。",
+  "tech_stack": [
+    "C++",
+    "OpenSource",
+    "3DPrinting",
+    "NetworkProtocol",
+    "G-code"
+  ],
+  "problem_solved": "解决了OrcaSlicer用户无法通过原生方式访问Bambu Lab打印机网络功能的问题。",
+  "why_valuable": "它打破了Bambu Lab打印机的软件生态锁定，让开源3D打印社区能够自由选择切片软件同时保留完整的网络控制能力。",
+  "tags": [
+    "OpenSource",
+    "3DPrinting",
+    "BambuLab",
+    "OrcaSlicer",
+    "Firmware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:44:46.444328+00:00",
+  "updated_at": "2026-05-13T10:56:56.993487+00:00",
+  "published_to": []
+}

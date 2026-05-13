@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-013",
+  "source": "rss",
+  "source_url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+  "title": "Quack: The DuckDB Client-Server Protocol",
+  "summary": "DuckDB introduced 'Quack', a new client-server protocol that enables remote execution of DuckDB queries over a network, transforming DuckDB from a purely in-process OLAP database into a client-server database system capable of handling distributed analytical workloads.",
+  "tech_stack": [
+    "DuckDB",
+    "PostgreSQL Wire Protocol",
+    "Arrow Format",
+    "Rust",
+    "C++"
+  ],
+  "problem_solved": "Enables remote access to DuckDB databases, allowing client applications to execute analytical queries against DuckDB servers over network connections.",
+  "why_valuable": "Expands DuckDB's use cases from embedded-only scenarios to full client-server architecture, enabling distributed OLAP workloads while maintaining DuckDB's renowned analytical performance.",
+  "tags": [
+    "DuckDB",
+    "Client-Server",
+    "Database",
+    "OLAP",
+    "Remote Protocol"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-13T10:47:21.473170+00:00",
+  "updated_at": "2026-05-13T10:56:56.994426+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-015",
+  "source": "rss",
+  "source_url": "https://googlebook.google/",
+  "title": "Googlebook",
+  "summary": "Googlebook appears to be Google's book reading/social platform integrated into Android ecosystem, potentially a new or rebranded version of Google Play Books with social features. The project garnered significant attention on Hacker News with 790 points and 1303 comments, suggesting strong community interest in Google's reading platform strategy.",
+  "tech_stack": [
+    "Android",
+    "Google Play",
+    "Cloud Infrastructure",
+    "OAuth",
+    "Material Design"
+  ],
+  "problem_solved": "Provides a unified platform for discovering, reading, and socially sharing books within the Google ecosystem on Android devices.",
+  "why_valuable": "Leverages Google's massive user base and integration capabilities to compete with established reading platforms like Amazon Kindle, offering seamless cross-device reading experience.",
+  "tags": [
+    "Google",
+    "Android",
+    "Books",
+    "Reading",
+    "Social Platform"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-13T10:50:01.117418+00:00",
+  "updated_at": "2026-05-13T10:56:56.994810+00:00",
+  "published_to": []
+}

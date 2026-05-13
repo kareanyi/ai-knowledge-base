@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+  "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+  "summary": "Security researchers at HiddenLayer discovered a malicious Hugging Face repository masquerading as an OpenAI release that delivered infostealer malware targeting Windows machines, recording approximately 244,000 downloads before removal. The attackers likely inflated download numbers artificially to create a false sense of popularity and credibility.",
+  "tech_stack": [
+    "Hugging Face",
+    "Windows OS",
+    "Python",
+    "Malware Analysis Tools",
+    "AI Security Platforms"
+  ],
+  "problem_solved": "This case highlights the growing security threat of malicious AI model repositories on open platforms and the importance of verifying the authenticity of AI releases.",
+  "why_valuable": "It serves as a critical security awareness case demonstrating how attackers exploit trust in popular AI platforms to distribute infostealer malware, helping the security community understand emerging attack vectors in the AI ecosystem.",
+  "tags": [
+    "Security",
+    "Malware",
+    "AI Platform",
+    "Hugging Face",
+    "Open Source Threats"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:53:42.693870+00:00",
+  "updated_at": "2026-05-13T10:56:56.996025+00:00",
+  "published_to": []
+}

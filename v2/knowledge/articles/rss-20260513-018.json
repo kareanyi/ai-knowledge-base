@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-018",
+  "source": "rss",
+  "source_url": "https://obsidian.md/blog/future-of-plugins/",
+  "title": "The Future of Obsidian Plugins",
+  "summary": "Obsidian官方博客文章探讨其插件生态系统的未来发展方向，可能涉及新的API、更好的集成能力或开发者工具的改进，旨在提升笔记软件的可扩展性和用户体验。",
+  "tech_stack": [
+    "TypeScript",
+    "Electron",
+    "JavaScript",
+    "JSON Schema",
+    "Obsidian API"
+  ],
+  "problem_solved": "解决Obsidian插件生态系统的扩展性、标准化和开发者体验问题",
+  "why_valuable": "Obsidian作为流行的双链笔记工具，其插件系统的演进将影响数十万用户的知识管理工作流和生产力",
+  "tags": [
+    "Obsidian",
+    "Plugins",
+    "Note-taking",
+    "Knowledge Management",
+    "Extensibility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:51:57.373155+00:00",
+  "updated_at": "2026-05-13T10:56:56.995319+00:00",
+  "published_to": []
+}

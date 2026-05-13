@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-017",
+  "source": "rss",
+  "source_url": "https://www.hypercubic.ai/hopper",
+  "title": "Show HN: Agentic interface for mainframes and COBOL",
+  "summary": "Hypercubic launches Hopper, an AI agentic development environment designed specifically for mainframes and COBOL. The platform allows developers to interact with mainframe systems using natural language and AI agents, with immediate access available for testing. This addresses the growing challenge of mainframe modernization and the scarcity of COBOL expertise.",
+  "tech_stack": [
+    "AI Agents",
+    "COBOL",
+    "Mainframe Systems",
+    "Natural Language Processing",
+    "Cloud"
+  ],
+  "problem_solved": "Enables modern developers to work with legacy mainframe/COBOL systems through AI-powered natural language interfaces, addressing the expertise gap in mainframe development.",
+  "why_valuable": "Mainframes run critical infrastructure worldwide yet face developer shortages as COBOL experts retire; Hopper democratizes mainframe access using AI agents to accelerate development and modernization.",
+  "tags": [
+    "AI",
+    "Mainframe",
+    "COBOL",
+    "Legacy Modernization",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-13T10:51:13.639761+00:00",
+  "updated_at": "2026-05-13T10:56:56.995150+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260513-004",
+  "source": "rss",
+  "source_url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+  "title": "My graduation cap runs Rust",
+  "summary": "A developer shares their creative project of programming a graduation cap with Rust to display animated effects, demonstrating how Rust can be used for fun embedded hardware projects beyond traditional software development.",
+  "tech_stack": [
+    "Rust",
+    "Embedded Systems",
+    "LED Display",
+    "Microcontroller",
+    "no_std"
+  ],
+  "problem_solved": "Makes graduation ceremonies more festive by turning a graduation cap into a programmable LED display running Rust code.",
+  "why_valuable": "Showcases Rust's versatility in embedded contexts while providing an inspiring example for developers looking to combine creativity with code.",
+  "tags": [
+    "Rust",
+    "Embedded",
+    "Hardware",
+    "Creative Coding",
+    "IoT"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-13T10:43:25.307797+00:00",
+  "updated_at": "2026-05-13T10:56:56.985619+00:00",
+  "published_to": []
+}
