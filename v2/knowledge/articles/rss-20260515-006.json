@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260515-006",
+  "source": "rss",
+  "source_url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+  "title": "How Claude Code works in large codebases",
+  "summary": "An in-depth technical article explaining how Claude Code handles large codebases, covering the architecture, patterns for effective use, and best practices for developers working with extensive codebases. The article likely addresses context limitations and strategies for optimizing AI-assisted coding in enterprise-scale projects.",
+  "tech_stack": [
+    "Claude Code",
+    "Anthropic AI",
+    "Context Windows",
+    "Code Search",
+    "Tree-sitter"
+  ],
+  "problem_solved": "Addresses the challenge of scaling AI coding assistants to work effectively with large, complex codebases without losing context or performance.",
+  "why_valuable": "Provides practical guidance for developers struggling with AI tool limitations in real-world large-scale development environments.",
+  "tags": [
+    "AI Coding",
+    "Claude",
+    "Large Codebase",
+    "Developer Tools",
+    "Best Practices"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-15T10:35:51.186784+00:00",
+  "updated_at": "2026-05-15T10:42:50.843475+00:00",
+  "published_to": []
+}

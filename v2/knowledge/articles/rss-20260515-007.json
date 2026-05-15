@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260515-007",
+  "source": "rss",
+  "source_url": "https://dylan.gr/1775146616",
+  "title": "Solar-based sleep patterns compared to modern norms",
+  "summary": "An article exploring how human sleep patterns naturally align with solar cycles (sunrise and sunset) versus modern artificial lighting and irregular schedules that disrupt circadian rhythms. The content discusses historical and anthropological evidence of segmented sleep patterns before the industrial era.",
+  "tech_stack": [
+    "N/A - Non-technical article"
+  ],
+  "problem_solved": "Explains why modern humans struggle with sleep disorders despite technological comfort, linking the issue to artificial light exposure and departure from natural solar rhythms.",
+  "why_valuable": "Provides evidence-based insights into optimizing sleep by reconnecting with natural light cycles, which could benefit millions experiencing sleep disturbances.",
+  "tags": [
+    "Sleep",
+    "Health",
+    "Circadian Rhythm",
+    "Biology",
+    "Lifestyle"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:36:05.140602+00:00",
+  "updated_at": "2026-05-15T10:42:50.843659+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260515-002",
+  "source": "rss",
+  "source_url": "https://relax.ai/docs",
+  "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+  "summary": "RelaxAI offers UK-sovereign LLM inference services at 80% lower cost compared to OpenAI and Anthropic's Claude, targeting businesses requiring data residency in the UK while reducing AI operational expenses.",
+  "tech_stack": [
+    "LLM Infrastructure",
+    "Cloud Computing",
+    "API Services",
+    "Data Sovereignty Solutions"
+  ],
+  "problem_solved": "High costs associated with using major LLM providers like OpenAI and Anthropic Claude for businesses requiring UK-based AI inference.",
+  "why_valuable": "Delivers 80% cost savings while ensuring UK data sovereignty, making enterprise AI more accessible and compliant with regional data regulations.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Cost Optimization",
+    "UK Sovereignty",
+    "Cloud Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:34:51.754308+00:00",
+  "updated_at": "2026-05-15T10:42:50.842699+00:00",
+  "published_to": []
+}

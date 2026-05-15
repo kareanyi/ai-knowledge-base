@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260515-005",
+  "source": "rss",
+  "source_url": "https://github.com/GlycemicGPT/GlycemicGPT",
+  "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+  "summary": "GlycemicGPT is an open-source, self-hosted platform built by a Type 1 diabetic engineer that connects continuous glucose monitors (Dexcom G7), insulin pumps (Tandem t:slim X2/Mobi), and Nightscout instances to an AI analysis layer running entirely on the user's own infrastructure.",
+  "tech_stack": [
+    "Nightscout",
+    "Python",
+    "BLE (Bluetooth Low Energy)",
+    "Cloud API Integration",
+    "Self-hosted Infrastructure"
+  ],
+  "problem_solved": "Enables continuous diabetes data analysis and management when professional medical oversight is unavailable between clinical appointments.",
+  "why_valuable": "Provides a private, self-hosted AI-powered diabetes management system that works with multiple medical devices, reducing dependence on commercial platforms and clinicians.",
+  "tags": [
+    "Healthcare",
+    "Diabetes",
+    "Open Source",
+    "AI",
+    "IoT Medical Devices"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-15T10:35:36.809012+00:00",
+  "updated_at": "2026-05-15T10:42:50.843265+00:00",
+  "published_to": []
+}

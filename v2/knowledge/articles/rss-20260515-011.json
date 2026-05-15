@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260515-011",
+  "source": "rss",
+  "source_url": "https://writing.antonleicht.me/p/cut-off",
+  "title": "Access to frontier AI will soon be limited by economic and security constraints",
+  "summary": "This article discusses how access to advanced AI systems will become increasingly restricted due to mounting economic costs of running frontier models and tightening security measures by AI companies concerned about misuse and national security implications.",
+  "tech_stack": [
+    "AI/ML",
+    "Cloud Infrastructure",
+    "API Services"
+  ],
+  "problem_solved": "Explores the emerging tension between democratized AI access and the economic/security realities that may force a 'cut-off' of open AI development.",
+  "why_valuable": "Provides forward-looking analysis on how AI industry constraints could reshape the competitive landscape, affecting both developers and end-users.",
+  "tags": [
+    "AI Policy",
+    "Industry Analysis",
+    "Security",
+    "Technology Access",
+    "Frontier AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:37:13.655579+00:00",
+  "updated_at": "2026-05-15T10:42:50.851666+00:00",
+  "published_to": []
+}

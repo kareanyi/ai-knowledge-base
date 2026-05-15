@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260515-014",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+  "title": "UK government replaces Palantir software with internally-built refugee system",
+  "summary": "The UK government has replaced Palantir's controversial data analytics software (used for immigration enforcement) with a domestically-built system for processing refugees and asylum seekers, marking a shift toward digital sovereignty in sensitive government operations.",
+  "tech_stack": [
+    "Palantir Gotham",
+    "Government Cloud Infrastructure",
+    "Data Analytics",
+    "Immigration Processing Systems"
+  ],
+  "problem_solved": "The UK government reduced its dependency on a US defense contractor for sensitive immigration data processing and gained more control over critical national infrastructure.",
+  "why_valuable": "This demonstrates a growing trend of governments seeking digital sovereignty by building in-house solutions instead of relying on foreign commercial vendors for sensitive public sector data operations.",
+  "tags": [
+    "Government Tech",
+    "Digital Sovereignty",
+    "Immigration",
+    "Palantir",
+    "Public Policy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:37:58.738321+00:00",
+  "updated_at": "2026-05-15T10:42:50.852192+00:00",
+  "published_to": []
+}

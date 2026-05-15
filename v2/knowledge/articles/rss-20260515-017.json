@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260515-017",
+  "source": "rss",
+  "source_url": "https://github.com/anthropics/claude-for-legal",
+  "title": "Claude for Legal",
+  "summary": "Claude for Legal is an official Anthropics project providing guidance, prompts, and examples for leveraging Claude AI in legal workflows, including contract analysis, document review, and legal research tasks.",
+  "tech_stack": [
+    "Claude API",
+    "Python",
+    "Prompt Engineering",
+    "Legal Tech"
+  ],
+  "problem_solved": "Helps legal professionals and developers integrate Claude AI capabilities into legal document processing, contract review, and compliance workflows.",
+  "why_valuable": "Provides authoritative, vetted approaches from Anthropics for applying LLMs to time-consuming legal tasks, reducing manual review effort while maintaining accuracy.",
+  "tags": [
+    "Legal AI",
+    "Claude",
+    "Anthropics",
+    "Document Processing",
+    "Contract Review"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-15T10:39:22.881824+00:00",
+  "updated_at": "2026-05-15T10:42:50.852758+00:00",
+  "published_to": []
+}

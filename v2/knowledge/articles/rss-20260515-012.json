@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260515-012",
+  "source": "rss",
+  "source_url": "https://www.theembeddedrustacean.com/uferris",
+  "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+  "summary": "UFerris is a hardware learning board specifically designed for beginners starting their journey in Rust embedded systems programming. It provides a versatile platform for hands-on learning with embedded Rust concepts and practical projects.",
+  "tech_stack": [
+    "Rust",
+    "Embedded Systems",
+    "Hardware Design",
+    "Microcontrollers"
+  ],
+  "problem_solved": "Lowers the barrier to entry for beginners learning embedded Rust by providing purpose-built educational hardware.",
+  "why_valuable": "Offers a dedicated, beginner-friendly hardware platform that bridges the gap between theory and practical embedded Rust development.",
+  "tags": [
+    "Rust",
+    "Embedded",
+    "Hardware",
+    "Beginner-Friendly",
+    "Education"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:37:26.670906+00:00",
+  "updated_at": "2026-05-15T10:42:50.851839+00:00",
+  "published_to": []
+}

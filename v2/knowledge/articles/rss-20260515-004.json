@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260515-004",
+  "source": "rss",
+  "source_url": "https://explorer.samismith.com/",
+  "title": "Explore Wikipedia Like a Windows XP Desktop",
+  "summary": "A creative web project that reimagines Wikipedia browsing as a Windows XP desktop experience, featuring classic UI elements like the Start menu, taskbar, and desktop icons for exploring articles.",
+  "tech_stack": [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Web Technologies"
+  ],
+  "problem_solved": "Makes Wikipedia exploration more engaging and nostalgic by transforming the browsing experience into a familiar Windows XP interface.",
+  "why_valuable": "Combines retro UI nostalgia with practical utility, making knowledge discovery more fun and accessible through familiar desktop metaphors.",
+  "tags": [
+    "UI Design",
+    "Nostalgia",
+    "Wikipedia",
+    "Creative",
+    "Frontend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:35:21.098860+00:00",
+  "updated_at": "2026-05-15T10:42:50.843068+00:00",
+  "published_to": []
+}

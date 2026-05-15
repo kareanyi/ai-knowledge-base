@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260515-013",
+  "source": "rss",
+  "source_url": "https://github.com/rust-lang/rust-forge/pull/1040",
+  "title": "LLM Policy for Rust Compiler",
+  "summary": "This is a policy document from the Rust project establishing guidelines for the use of Large Language Models (LLMs) in Rust compiler development. The document addresses how AI-generated code contributions should be handled, reviewed, and integrated into the compiler codebase to maintain quality standards.",
+  "tech_stack": [
+    "Rust",
+    "LLM",
+    "GitHub",
+    "Compiler",
+    "Open Source"
+  ],
+  "problem_solved": "Establishes clear guidelines for using AI-generated code in Rust compiler development to maintain code quality and contributor accountability.",
+  "why_valuable": "Sets a precedent for responsible LLM usage in critical infrastructure projects, providing clarity for contributors while maintaining Rust's high code quality standards.",
+  "tags": [
+    "Rust",
+    "LLM",
+    "Policy",
+    "Compiler",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:37:44.018014+00:00",
+  "updated_at": "2026-05-15T10:42:50.852017+00:00",
+  "published_to": []
+}

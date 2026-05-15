@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260515-010",
+  "source": "rss",
+  "source_url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+  "title": "Mullvad exit IPs are surprisingly identifying",
+  "summary": "Security researcher发现Mullvad VPN的退出节点IP地址可以被用于追踪和识别用户，因为Mullvad的IP段具有独特的指纹特征，容易被网站和服务商检测和关联。该研究揭示了即使使用VPN，某些用户仍然可能通过IP地址被唯一识别的风险。",
+  "tech_stack": [
+    "VPN",
+    "Network Security",
+    "Privacy",
+    "Fingerprinting",
+    "IP Tracking"
+  ],
+  "problem_solved": "揭示了VPN用户在使用Mullvad时可能通过退出节点IP地址被追踪和识别的隐私泄露问题",
+  "why_valuable": "提醒用户VPN并非完全匿名，IP地址指纹技术仍然可以打破匿名屏障，对注重隐私的用户具有重要警示意义",
+  "tags": [
+    "Privacy",
+    "VPN",
+    "Fingerprinting",
+    "Security",
+    "Anonymity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-15T10:36:58.586855+00:00",
+  "updated_at": "2026-05-15T10:42:50.851487+00:00",
+  "published_to": []
+}

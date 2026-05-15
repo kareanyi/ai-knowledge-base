@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260515-019",
+  "source": "rss",
+  "source_url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+  "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+  "summary": "Security researchers at Synacktiv detail their findings on bypassing the firmware downgrade protection mechanism (ratchet) in Tesla Wall Connector's bootloader. This is the second part of a series exploring hardware vulnerabilities in the charging infrastructure through the charge port connector interface.",
+  "tech_stack": [
+    "Embedded Systems",
+    "Firmware Analysis",
+    "ARM Architecture",
+    "Hardware Reverse Engineering",
+    "Bootloader Security"
+  ],
+  "problem_solved": "Demonstrates how hardware security mechanisms in consumer EV charging equipment can be circumvented, exposing attack surfaces in widely deployed IoT devices.",
+  "why_valuable": "Reveals critical security vulnerabilities in Tesla's charging infrastructure that could help manufacturers improve secure boot implementations across the EV industry.",
+  "tags": [
+    "Hardware Security",
+    "Firmware Exploitation",
+    "IoT Security",
+    "Embedded Systems",
+    "Vehicle Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-15T10:39:58.864423+00:00",
+  "updated_at": "2026-05-15T10:42:50.853099+00:00",
+  "published_to": []
+}

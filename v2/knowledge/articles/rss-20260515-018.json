@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260515-018",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+  "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+  "summary": "Infracost, a Y Combinator W21 company, is hiring a Senior Developer Advocate to help make AI agents cloud cost-aware. This role focuses on bridging the gap between AI agent capabilities and cloud infrastructure cost management, enabling developers to build more cost-efficient solutions.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "DevOps",
+    "AI Agents",
+    "Infrastructure-as-Code",
+    "Developer Advocacy"
+  ],
+  "problem_solved": "Addresses the challenge of AI agents automatically generating cloud infrastructure without visibility into cost implications.",
+  "why_valuable": "As AI coding agents proliferate, ensuring they understand cloud costs prevents expensive infrastructure mistakes and promotes responsible cloud usage.",
+  "tags": [
+    "Hiring",
+    "DevRel",
+    "AI Agents",
+    "Cloud Cost",
+    "Y Combinator"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-15T10:39:40.201524+00:00",
+  "updated_at": "2026-05-15T10:42:50.852929+00:00",
+  "published_to": []
+}

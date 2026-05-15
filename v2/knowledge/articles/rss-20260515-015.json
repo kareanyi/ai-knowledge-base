@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260515-015",
+  "source": "rss",
+  "source_url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+  "title": "More than sixty percent of the United States is experiencing drought conditions",
+  "summary": "This news article reports that over sixty percent of the United States is experiencing drought conditions, with expert analysis from Virginia Tech linking these severe conditions to the La Niña weather phenomenon. The article provides scientific context for understanding the expanding drought patterns across the country.",
+  "tech_stack": [
+    "News Article",
+    "Hacker News"
+  ],
+  "problem_solved": "Informs the public about current drought severity and its connection to La Niña weather patterns affecting the US",
+  "why_valuable": "Provides valuable awareness about climate conditions and their environmental impact, helping people understand the science behind extreme weather events",
+  "tags": [
+    "Drought",
+    "La Nina",
+    "Climate",
+    "Weather",
+    "Environmental News"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:38:19.368549+00:00",
+  "updated_at": "2026-05-15T10:42:50.852396+00:00",
+  "published_to": []
+}

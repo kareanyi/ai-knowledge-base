@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260515-008",
+  "source": "rss",
+  "source_url": "https://github.com/pike00/coldkey",
+  "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+  "summary": "Coldkey is a post-quantum cryptographic key generation tool that allows users to create quantum-resistant keys and backup them onto paper for long-term cold storage. It addresses the emerging need for quantum-safe encryption in an era where traditional RSA/ECC keys may become vulnerable to quantum attacks.",
+  "tech_stack": [
+    "Python",
+    "cryptography",
+    "post-quantum algorithms",
+    "QR codes",
+    "paper backup"
+  ],
+  "problem_solved": "Provides quantum-resistant key generation with physical paper backup for secure, long-term key storage that won't be compromised by future quantum computers.",
+  "why_valuable": "As quantum computing advances, traditional encryption becomes vulnerable; Coldkey offers a practical solution for generating and preserving quantum-safe keys in an offline, physically durable format.",
+  "tags": [
+    "cryptography",
+    "post-quantum",
+    "security",
+    "key-management",
+    "cold-storage"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:36:22.984695+00:00",
+  "updated_at": "2026-05-15T10:42:50.851052+00:00",
+  "published_to": []
+}

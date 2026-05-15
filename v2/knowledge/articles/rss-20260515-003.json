@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260515-003",
+  "source": "rss",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+  "summary": "A tool that helps users find the best local LLM (Large Language Model) for their specific hardware by ranking different models based on benchmark performance. The project aims to solve the challenge of matching LLM capabilities to available hardware resources.",
+  "tech_stack": [
+    "Python",
+    "Shell",
+    "GitHub CLI"
+  ],
+  "problem_solved": "Helps users determine which local LLM will run optimally on their specific hardware configuration without trial and error.",
+  "why_valuable": "Saves time and computational resources by providing data-driven recommendations for LLM deployment based on actual hardware capabilities and benchmark performance.",
+  "tags": [
+    "LLM",
+    "local-AI",
+    "benchmarks",
+    "hardware-optimization",
+    "AI-deployment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:35:04.915841+00:00",
+  "updated_at": "2026-05-15T10:42:50.842883+00:00",
+  "published_to": []
+}

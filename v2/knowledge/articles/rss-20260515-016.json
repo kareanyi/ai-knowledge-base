@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260515-016",
+  "source": "rss",
+  "source_url": "https://antirez.com/news/165",
+  "title": "A few words on DS4",
+  "summary": "Salvatore Sanfilippo (antirez, creator of Redis) writes a brief update about DS4 (Data Structures 4), his experimental data structure research project written in C. The article discusses his thoughts on the project direction and design decisions.",
+  "tech_stack": [
+    "C",
+    "Data Structures",
+    "Redis",
+    "Systems Programming"
+  ],
+  "problem_solved": "Sharing insights and updates on the experimental DS4 project for community feedback.",
+  "why_valuable": "DS4 explores novel approaches to data structure design, continuing antirez's tradition of creating practical, well-designed systems software that the developer community highly respects.",
+  "tags": [
+    "Systems Programming",
+    "Data Structures",
+    "C Language",
+    "Open Source",
+    "Redis"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-15T10:38:48.285614+00:00",
+  "updated_at": "2026-05-15T10:42:50.852586+00:00",
+  "published_to": []
+}

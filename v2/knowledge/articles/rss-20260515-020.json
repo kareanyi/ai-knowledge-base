@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260515-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+  "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+  "summary": "British tech company Humanoid has partnered with German industrial supplier Schaeffler to deploy an estimated 1,000-2,000 humanoid robots across Schaeffler's global manufacturing sites by 2032, marking a significant step toward integrating physical AI in factory environments.",
+  "tech_stack": [
+    "Humanoid Robots",
+    "Physical AI",
+    "Manufacturing Automation",
+    "Industrial Robotics"
+  ],
+  "problem_solved": "Addresses labor shortages and operational efficiency challenges in global manufacturing by deploying humanoid robots for factory automation.",
+  "why_valuable": "Represents a major commercial deployment of humanoid robotics at scale in industrial settings, demonstrating real-world viability of Physical AI technology in manufacturing.",
+  "tags": [
+    "Humanoid Robots",
+    "Physical AI",
+    "Manufacturing",
+    "Factory Automation",
+    "Industrial Robotics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-15T10:40:07.606151+00:00",
+  "updated_at": "2026-05-15T10:42:50.853296+00:00",
+  "published_to": []
+}
