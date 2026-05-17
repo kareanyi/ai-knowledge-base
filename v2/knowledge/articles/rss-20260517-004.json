@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-004",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2601.19897",
+  "title": "Self-Distillation Enables Continual Learning [pdf]",
+  "summary": "This research paper presents a self-distillation approach for continual learning, where a neural network preserves knowledge from previous tasks by using its own predictions as supervision signals, effectively preventing catastrophic forgetting without needing separate teacher models.",
+  "tech_stack": [
+    "Deep Learning",
+    "Neural Networks",
+    "Knowledge Distillation",
+    "Python",
+    "PyTorch"
+  ],
+  "problem_solved": "Addresses catastrophic forgetting in neural networks during continual learning, where learning new tasks degrades performance on previously learned tasks.",
+  "why_valuable": "Provides a simple yet effective mechanism for lifelong learning in neural networks by leveraging self-distillation, eliminating the need for external teacher networks or complex memory replay systems.",
+  "tags": [
+    "Continual Learning",
+    "Catastrophic Forgetting",
+    "Self-Distillation",
+    "Knowledge Distillation",
+    "Neural Networks"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-17T09:54:57.270313+00:00",
+  "updated_at": "2026-05-17T10:01:12.594363+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-011",
+  "source": "rss",
+  "source_url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+  "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+  "summary": "Kioxia and Dell collaborated to develop an ultra-high-density storage server capable of storing 10 petabytes of data within just 2 rack units, representing a major breakthrough in storage density for enterprise data centers.",
+  "tech_stack": [
+    "NAND Flash Memory",
+    "Dell PowerEdge Servers",
+    "Enterprise Storage",
+    "High-Density Hardware",
+    "Data Center Infrastructure"
+  ],
+  "problem_solved": "Addresses the critical space and cost constraints in data centers by achieving unprecedented storage density—5 PB per rack unit—in a compact form factor.",
+  "why_valuable": "Enables enterprises to dramatically reduce their data center footprint and operational costs while scaling storage capacity, which is essential as global data volumes continue exponential growth.",
+  "tags": [
+    "Storage",
+    "Hardware",
+    "Data Center",
+    "Flash Memory",
+    "Enterprise"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-17T09:56:25.029138+00:00",
+  "updated_at": "2026-05-17T10:01:12.600619+00:00",
+  "published_to": []
+}

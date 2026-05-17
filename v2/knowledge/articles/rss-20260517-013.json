@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-013",
+  "source": "rss",
+  "source_url": "https://nvlabs.github.io/Sana/WM/",
+  "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+  "summary": "SANA-WM is an open-source 2.6 billion parameter world model developed by NVIDIA Labs capable of generating high-quality 1-minute 720p videos. It represents a significant step in accessible video synthesis technology, providing the research community with a powerful open alternative to proprietary video generation systems.",
+  "tech_stack": [
+    "PyTorch",
+    "Deep Learning",
+    "Transformers",
+    "Diffusion Models",
+    "Computer Vision"
+  ],
+  "problem_solved": "Enables high-resolution, long-form video generation with open-source accessibility, removing barriers for researchers and developers to work with world models.",
+  "why_valuable": " democratizes access to capable video generation capabilities, allowing researchers to explore world model development without relying on closed-source systems.",
+  "tags": [
+    "Video Generation",
+    "World Model",
+    "Open Source",
+    "AI Research",
+    "NVIDIA"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-17T09:57:00.296451+00:00",
+  "updated_at": "2026-05-17T10:01:12.600865+00:00",
+  "published_to": []
+}

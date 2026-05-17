@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260517-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+  "title": "Deloitte: Scale &#8216;autonomous intelligence&#8217; for real growth",
+  "summary": "Deloitte argues that enterprises must move beyond basic generative AI applications (text generation, summarization) and scale 'autonomous intelligence' systems capable of independent execution to achieve transformative business growth. Current AI deployments offer localized productivity gains but fail to alter core cost or revenue structures of large organizations.",
+  "tech_stack": [
+    "Generative AI",
+    "Autonomous Intelligence Systems",
+    "Enterprise AI Platforms",
+    "AI Orchestration"
+  ],
+  "problem_solved": "The gap between incremental AI productivity gains and transformative organizational growth through scalable autonomous AI systems.",
+  "why_valuable": "Provides strategic guidance for enterprise leaders seeking to move beyond tactical AI deployments toward systems that fundamentally reshape business economics.",
+  "tags": [
+    "Enterprise AI",
+    "Autonomous Intelligence",
+    "Digital Transformation",
+    "AI Strategy",
+    "Business Growth"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:58:44.953262+00:00",
+  "updated_at": "2026-05-17T10:01:12.601933+00:00",
+  "published_to": []
+}

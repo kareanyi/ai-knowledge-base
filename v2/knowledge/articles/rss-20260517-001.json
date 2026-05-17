@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-001",
+  "source": "rss",
+  "source_url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+  "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+  "summary": "This article describes a clever technique to play Atari ST YM music format on Amiga hardware without using any CPU cycles, likely by using the Amiga's Paula audio chip's DMA capabilities to directly handle the YM2149 chip's register data streams. The author demonstrates how to leverage the Amiga's custom hardware to achieve chip music compatibility.",
+  "tech_stack": [
+    "Assembly",
+    "Amiga Paula",
+    "DMA",
+    "YM2149 chip",
+    "Retro computing"
+  ],
+  "problem_solved": "Enables Atari ST chip music (YM format) to be played on Amiga hardware without CPU overhead by exploiting the Paula audio chip's programmable DMA engine.",
+  "why_valuable": "Demonstrates clever cross-platform hardware tricks for preserving and playing legacy game music formats, while minimizing CPU usage through direct hardware access.",
+  "tags": [
+    "retrocomputing",
+    "emulation",
+    "audio",
+    "assembly",
+    "amiga"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:54:36.518881+00:00",
+  "updated_at": "2026-05-17T10:01:12.593937+00:00",
+  "published_to": []
+}

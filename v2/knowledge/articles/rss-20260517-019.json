@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260517-019",
+  "source": "rss",
+  "source_url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+  "title": "We've made the world too complicated",
+  "summary": "A philosophical essay discussing how modern society has become unnecessarily complex, exploring the trade-offs between technological advancement and simplicity in everyday life.",
+  "tech_stack": [
+    "Bear Blog"
+  ],
+  "problem_solved": "Provokes reflection on whether we've over-engineered solutions to problems that had simpler answers before.",
+  "why_valuable": "Offers a counterpoint to the constant push for more complexity in technology and society, suggesting that simplicity has inherent value.",
+  "tags": [
+    "Philosophy",
+    "Technology",
+    "Society",
+    "Simplicity",
+    "Complexity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:58:01.552372+00:00",
+  "updated_at": "2026-05-17T10:01:12.601661+00:00",
+  "published_to": []
+}

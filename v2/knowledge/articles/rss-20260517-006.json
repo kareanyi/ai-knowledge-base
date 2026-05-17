@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-006",
+  "source": "rss",
+  "source_url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+  "title": "MCP Hello Page",
+  "summary": "A tutorial or introduction page on Model Context Protocol (MCP), a standard protocol for connecting AI models to external data sources and tools. The article provides a beginner-friendly 'Hello World' style guide to implementing MCP in applications.",
+  "tech_stack": [
+    "Model Context Protocol",
+    "Anthropic",
+    "JavaScript",
+    "Python",
+    "JSON-RPC"
+  ],
+  "problem_solved": "Provides developers with a starting point to understand and implement the Model Context Protocol for AI integration.",
+  "why_valuable": "Offers accessible entry point to MCP, helping developers bridge AI models with external tools and data sources using a standardized protocol.",
+  "tags": [
+    "MCP",
+    "AI",
+    "LLM",
+    "Integration",
+    "Protocol"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:55:28.911208+00:00",
+  "updated_at": "2026-05-17T10:01:12.594603+00:00",
+  "published_to": []
+}

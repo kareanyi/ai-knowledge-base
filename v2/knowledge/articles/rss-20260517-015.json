@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260517-015",
+  "source": "rss",
+  "source_url": "https://labs.randomquark.com/alphabet_cards/",
+  "title": "Greek Alphabet Cards",
+  "summary": "An educational tool featuring cards designed to help users learn and memorize the Greek alphabet, likely using visual flashcards for effective memorization.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "Provides an interactive way to learn and memorize all 24 Greek letters for students studying mathematics, science, or ancient languages.",
+  "why_valuable": "Greek letters are fundamental in mathematics, physics, and Greek language education, making this a practical learning resource with 126 community upvotes validating its usefulness.",
+  "tags": [
+    "Education",
+    "Greek",
+    "Learning",
+    "Cards",
+    "Alphabet"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:57:24.245456+00:00",
+  "updated_at": "2026-05-17T10:01:12.601145+00:00",
+  "published_to": []
+}

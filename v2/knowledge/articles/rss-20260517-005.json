@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-005",
+  "source": "rss",
+  "source_url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+  "title": "A nicer voltmeter clock",
+  "summary": "This article describes a creative electronics project where vintage voltmeter movements are repurposed to display time as a clock, with the needle position indicating hours and minutes through electronic signal manipulation rather than traditional digital displays.",
+  "tech_stack": [
+    "Electronics",
+    "Microcontroller",
+    "Signal Processing",
+    "Analog Hardware",
+    "Custom Circuitry"
+  ],
+  "problem_solved": "Transforms obsolete analog voltmeter instruments into functional, aesthetically unique timekeeping devices.",
+  "why_valuable": "Combines nostalgia for vintage analog equipment with modern electronics know-how to create one-of-a-kind decorative pieces that serve a practical purpose.",
+  "tags": [
+    "DIY",
+    "Hardware",
+    "Electronics",
+    "Vintage",
+    "Clock"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:55:13.274658+00:00",
+  "updated_at": "2026-05-17T10:01:12.594484+00:00",
+  "published_to": []
+}

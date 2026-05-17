@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-017",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.12357",
+  "title": "δ-mem: Efficient Online Memory for Large Language Models",
+  "summary": "δ-mem proposes an efficient online memory management system for large language models that dynamically optimizes context window utilization and KV cache management to reduce memory footprint while maintaining model performance. The approach likely employs differential memory strategies to selectively retain and evict information based on importance scoring.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "CUDA",
+    "LLM"
+  ],
+  "problem_solved": "Solves the memory inefficiency problem in LLMs where excessive KV cache consumption limits context length and increases inference costs.",
+  "why_valuable": "Enables running larger contexts and longer conversations on limited GPU memory, significantly reducing inference costs while maintaining response quality.",
+  "tags": [
+    "LLM",
+    "Memory Optimization",
+    "KV Cache",
+    "Inference Efficiency",
+    "Context Window"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:57:46.619963+00:00",
+  "updated_at": "2026-05-17T10:01:12.601391+00:00",
+  "published_to": []
+}

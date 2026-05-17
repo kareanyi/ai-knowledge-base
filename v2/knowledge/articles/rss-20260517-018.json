@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260517-018",
+  "source": "rss",
+  "source_url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+  "title": "Moving away from Tailwind, and learning to structure my CSS",
+  "summary": "Julia Evans shares her personal journey moving away from Tailwind CSS back to traditional CSS, discussing how she learned to structure CSS properly for maintainability. The article resonated with many developers, generating significant discussion on Hacker News about CSS architecture choices.",
+  "tech_stack": [
+    "CSS",
+    "Tailwind CSS",
+    "HTML"
+  ],
+  "problem_solved": "Addresses the challenge of managing and organizing CSS in projects when utility-first frameworks become unwieldy.",
+  "why_valuable": "Provides honest, practical insights from an experienced developer about CSS architecture trade-offs, helping others evaluate their own tool choices.",
+  "tags": [
+    "CSS",
+    "Tailwind",
+    "Web Development",
+    "Frontend",
+    "Developer Experience"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-17T09:57:54.590308+00:00",
+  "updated_at": "2026-05-17T10:01:12.601512+00:00",
+  "published_to": []
+}

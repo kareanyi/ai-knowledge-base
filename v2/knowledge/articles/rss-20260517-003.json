@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-003",
+  "source": "rss",
+  "source_url": "https://maurycyz.com/projects/mcusite/",
+  "title": "Hosting a website on an 8-bit microcontroller",
+  "summary": "An experimental project that demonstrates running a complete web server and hosting a website on an 8-bit microcontroller, pushing the limits of embedded systems capabilities. The project showcases how web technology can be implemented in extremely resource-constrained environments.",
+  "tech_stack": [
+    "8-bit Microcontroller",
+    "C Language",
+    "HTTP Protocol",
+    "Embedded Systems",
+    "TCP/IP Stack"
+  ],
+  "problem_solved": "Demonstrates the feasibility of running web services on extremely limited hardware platforms typically not considered capable of such tasks.",
+  "why_valuable": "Serves as both an educational resource for understanding low-level networking and a proof-of-concept that expands the boundaries of what's possible with minimal hardware resources.",
+  "tags": [
+    "Embedded Systems",
+    "Microcontroller",
+    "Hardware Hacking",
+    "IoT",
+    "Web Server"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:54:49.422455+00:00",
+  "updated_at": "2026-05-17T10:01:12.594232+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260517-010",
+  "source": "rss",
+  "source_url": "https://unstack.io/halt-and-catch-fire",
+  "title": "Halt and Catch Fire",
+  "summary": "Halt and Catch Fire (HCF) is a classic x86 assembly instruction (0xF4) that halts CPU execution. This appears to be a Hacker News discussion about the computing term/meme, likely exploring its origins in computer history, practical uses in debugging, or references to the acclaimed TV series about the PC revolution in the 1980s-90s.",
+  "tech_stack": [
+    "x86 Assembly",
+    "Low-level Programming",
+    "Computer Architecture",
+    "Retro Computing"
+  ],
+  "problem_solved": "Explores the infamous HCF instruction that causes processors to halt or enter unpredictable states.",
+  "why_valuable": "Provides historical and technical insights into one of computing's most iconic assembly instructions, relevant for understanding CPU behavior and debugging techniques.",
+  "tags": [
+    "Assembly",
+    "x86",
+    "CPU",
+    "Computer History",
+    "Debugging"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:56:17.072521+00:00",
+  "updated_at": "2026-05-17T10:01:12.600486+00:00",
+  "published_to": []
+}

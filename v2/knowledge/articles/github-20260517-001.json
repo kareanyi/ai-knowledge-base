@@ -1,0 +1,28 @@
+{
+  "id": "github-20260517-001",
+  "source": "github",
+  "source_url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+  "title": "jonyzhang2023/awesome-embodied-vla-va-vln",
+  "summary": "A curated collection of state-of-the-art research papers and resources focusing on embodied AI, vision-language-action (VLA) models, and vision-language navigation (VLN) tasks. This repository serves as a comprehensive knowledge hub for researchers and practitioners working at the intersection of computer vision, natural language processing, and robotics.",
+  "tech_stack": [
+    "Deep Learning",
+    "Computer Vision",
+    "Natural Language Processing",
+    "Reinforcement Learning",
+    "Multimodal Learning"
+  ],
+  "problem_solved": "Addresses the challenge of navigating the rapidly growing and fragmented research landscape in embodied AI and vision-language models by providing a centralized, well-organized curated resource.",
+  "why_valuable": "Saves researchers significant time in discovering relevant papers and tracking the latest developments in embodied AI and VLA/VLN, with 3,104 stars indicating strong community认可.",
+  "tags": [
+    "Embodied-AI",
+    "Vision-Language-Action",
+    "Vision-Language-Navigation",
+    "Multimodal-Learning",
+    "Research-Resources"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-17T09:54:29.151191+00:00",
+  "updated_at": "2026-05-17T10:01:12.593673+00:00",
+  "published_to": []
+}

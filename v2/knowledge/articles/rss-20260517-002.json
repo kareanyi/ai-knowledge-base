@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260517-002",
+  "source": "rss",
+  "source_url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+  "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+  "summary": "Mozilla submitted comments to UK regulators advocating for VPN services as essential privacy and security tools, warning that regulatory actions could undermine these critical protections for users. The company emphasizes that VPNs play a vital role in protecting digital rights and enabling safe internet access.",
+  "tech_stack": [
+    "VPN",
+    "Privacy-Enhancing Technologies",
+    "Network Security"
+  ],
+  "problem_solved": "Addresses potential regulatory threats to VPN services that could compromise user privacy and security in the UK.",
+  "why_valuable": "Mozilla's advocacy helps ensure that privacy-protective technologies remain accessible and不会被 regulatory overreach undermining, protecting fundamental digital rights.",
+  "tags": [
+    "Privacy",
+    "VPN",
+    "UK Regulation",
+    "Mozilla",
+    "Internet Policy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-17T09:54:43.469998+00:00",
+  "updated_at": "2026-05-17T10:01:12.594091+00:00",
+  "published_to": []
+}

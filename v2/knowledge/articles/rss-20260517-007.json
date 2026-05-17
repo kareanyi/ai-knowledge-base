@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-007",
+  "source": "rss",
+  "source_url": "https://crates.io/crates/zerostack/1.0.0",
+  "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+  "summary": "Zerostack is a coding agent built entirely in Rust, drawing inspiration from Unix philosophy to create modular, composable, and pipeline-friendly AI-assisted coding tools. Published on crates.io, it represents a fresh approach to AI coding assistants with strong emphasis on performance, small tools philosophy, and system-level integration.",
+  "tech_stack": [
+    "Rust",
+    "LLM Integration",
+    "CLI Tools",
+    "Unix Philosophy",
+    "crates.io"
+  ],
+  "problem_solved": "Provides a high-performance, composable alternative to traditional AI coding agents by applying Unix principles (small tools, single responsibility, pipe-and-filter patterns) to AI-assisted development.",
+  "why_valuable": "Rust guarantees memory safety and performance while Unix-inspired design enables powerful scripting, composability, and integration with existing command-line workflows, making it ideal for developers who prefer terminal-centric environments.",
+  "tags": [
+    "AI Agent",
+    "Rust",
+    "Unix",
+    "Coding Assistant",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-17T09:55:44.020045+00:00",
+  "updated_at": "2026-05-17T10:01:12.594731+00:00",
+  "published_to": []
+}

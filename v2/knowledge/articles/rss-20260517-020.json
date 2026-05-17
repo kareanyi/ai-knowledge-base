@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260517-020",
+  "source": "rss",
+  "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "title": "Frontier AI has broken the open CTF format",
+  "summary": "这篇文章探讨了前沿AI模型（如GPT-4、Claude等）如何颠覆了传统的公开CTF（夺旗赛）竞赛形式，因为AI能够以前所未有的速度和准确性解决安全挑战，使得原本用于测试人类黑客技能的比赛失去意义。",
+  "tech_stack": [
+    "Large Language Models",
+    "GPT-4",
+    "Claude",
+    "CTF Platforms",
+    "Security Tools"
+  ],
+  "problem_solved": "探讨了AI对网络安全竞赛和教育领域的冲击，以及如何重新设计竞赛形式以适应AI时代",
+  "why_valuable": "揭示了AI技术对传统技术竞技形式的影响，为安全社区提供了关于AI时代技能评估方式的反思和讨论",
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "CTF",
+    "Competition",
+    "Security Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-17T09:58:23.857244+00:00",
+  "updated_at": "2026-05-17T10:01:12.601802+00:00",
+  "published_to": []
+}
