@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260518-019",
+  "source": "rss",
+  "source_url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
+  "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
+  "summary": "这是一篇由著名组合数学家 Doron Zeilberger 撰写的数学哲学文章，发表于2007年。作者认为在数学研究中，精彩的引理往往比正式的定理更有价值，因为它能更直接地揭示问题的本质。",
+  "tech_stack": [
+    "Mathematics",
+    "LaTeX",
+    "Combinatorics"
+  ],
+  "problem_solved": "探讨了为什么数学家应该重视引理的发现，而非只关注最终定理的陈述。",
+  "why_valuable": "通过强调引理的实用价值，帮助数学研究者更好地理解和组织证明过程，提高数学交流的效率。",
+  "tags": [
+    "Mathematics",
+    "Lemmas",
+    "Proofs",
+    "Academic Writing",
+    "Philosophy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-18T11:58:35.297308+00:00",
+  "updated_at": "2026-05-18T12:02:12.430085+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260518-005",
+  "source": "rss",
+  "source_url": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+  "title": "Why is Google Maps back to showing old satellite images of Altadena?",
+  "summary": "Users on Reddit are questioning why Google Maps continues to display outdated satellite imagery of Altadena, a community that was significantly impacted by recent California wildfires. The post has gained moderate traction with 36 points and 20 comments, suggesting this is a shared frustration among local residents wanting to see current post-disaster conditions on the mapping platform.",
+  "tech_stack": [
+    "Google Maps",
+    "Satellite Imagery",
+    "Web Mapping",
+    "Geographic Information Systems"
+  ],
+  "problem_solved": "This post doesn't solve a problem but raises awareness about Google Maps' delayed satellite imagery updates for disaster-affected areas.",
+  "why_valuable": "It highlights the gap between real-world events and map data currency, demonstrating how outdated geographic data can be frustrating for affected communities and emergency responders.",
+  "tags": [
+    "Google Maps",
+    "Satellite Imagery",
+    "Mapping",
+    "Community Feedback",
+    "Geographic Data"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-05-18T11:53:41.017305+00:00",
+  "updated_at": "2026-05-18T12:02:12.422036+00:00",
+  "published_to": []
+}

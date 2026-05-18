@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-002",
+  "source": "rss",
+  "source_url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+  "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+  "summary": "A seminal 1979 paper from SRI International presenting a formal methodology for designing an operating system where security properties can be mathematically proven, rather than empirically tested. The work predates modern cybersecurity and represents foundational research in applying formal verification techniques to operating system construction.",
+  "tech_stack": [
+    "Formal Verification",
+    "Theorem Proving",
+    "Access Control Models",
+    "Multilevel Security",
+    "Formal Methods"
+  ],
+  "problem_solved": "Addresses the fundamental challenge of proving that an operating system cannot be compromised, rather than relying on testing and vulnerability discovery.",
+  "why_valuable": "Established foundational principles for formal security verification that influenced decades of subsequent research in secure system design and influenced modern verified systems like sel4.",
+  "tags": [
+    "Formal Verification",
+    "Operating Systems",
+    "Security",
+    "Computer Science History",
+    "Trusted Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-18T11:53:01.502602+00:00",
+  "updated_at": "2026-05-18T12:02:12.421589+00:00",
+  "published_to": []
+}

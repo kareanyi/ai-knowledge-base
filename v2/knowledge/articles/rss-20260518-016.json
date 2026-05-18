@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-016",
+  "source": "rss",
+  "source_url": "https://github.com/ERufian/ksharp",
+  "title": "kharp – k version 3 Language Interpreter in C#",
+  "summary": "ksharp is a C# implementation of K version 3 programming language, an APL-family array programming language. The project provides an interpreter that brings K's powerful array manipulation capabilities to the .NET ecosystem.",
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "Interpreter",
+    "Array Programming",
+    "K Language"
+  ],
+  "problem_solved": "Provides a K language interpreter implementation in C#, enabling developers familiar with .NET to use K's concise array programming paradigm",
+  "why_valuable": "Offers an open-source implementation of the K language for the .NET platform, which is rare and valuable for developers interested in APL-style array programming",
+  "tags": [
+    "Interpreter",
+    "Array-Programming",
+    "APL",
+    "K-Language",
+    "CSharp"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-18T11:57:01.149727+00:00",
+  "updated_at": "2026-05-18T12:02:12.429713+00:00",
+  "published_to": []
+}

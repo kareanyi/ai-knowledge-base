@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260518-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+  "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+  "summary": "Amazon launches Alexa for Shopping, integrating its Rufus AI shopping chatbot with Alexa+ across mobile app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, set shopping reminders, and handle scheduled or automated purchases.",
+  "tech_stack": [
+    "Amazon Alexa+",
+    "Rufus AI",
+    "Voice Recognition",
+    "E-commerce Integration"
+  ],
+  "problem_solved": "Simplifies online shopping by providing a unified conversational interface for product research, price tracking, and purchase management across multiple Amazon platforms.",
+  "why_valuable": "Combines voice AI capabilities with e-commerce functionality to create a more efficient, hands-free shopping experience for consumers.",
+  "tags": [
+    "AI Shopping",
+    "Voice Assistant",
+    "E-commerce",
+    "Amazon Alexa",
+    "Chatbot"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-18T11:59:02.186633+00:00",
+  "updated_at": "2026-05-18T12:02:12.430197+00:00",
+  "published_to": []
+}

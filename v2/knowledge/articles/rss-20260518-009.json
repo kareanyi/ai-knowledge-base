@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-009",
+  "source": "rss",
+  "source_url": "https://gencad.github.io/",
+  "title": "GenCAD",
+  "summary": "GenCAD is a project focused on generating CAD (Computer-Aided Design) files, likely using AI/code generation approaches. It appears to be an open-source tool hosted on GitHub Pages that enables programmatic or AI-assisted creation of CAD models, receiving significant attention on Hacker News with 351 points and 88 comments.",
+  "tech_stack": [
+    "GitHub Pages",
+    "CAD",
+    "Python",
+    "OpenSCAD",
+    "JavaScript"
+  ],
+  "problem_solved": "It simplifies the process of creating CAD designs through code generation rather than manual GUI-based modeling.",
+  "why_valuable": "Makes CAD design more accessible and automatable, enabling parametric and reproducible designs through code.",
+  "tags": [
+    "CAD",
+    "3D Modeling",
+    "Code Generation",
+    "Open Source",
+    "Design Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-18T11:54:44.729631+00:00",
+  "updated_at": "2026-05-18T12:02:12.428758+00:00",
+  "published_to": []
+}

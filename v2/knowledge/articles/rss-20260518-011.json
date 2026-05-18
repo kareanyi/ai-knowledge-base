@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260518-011",
+  "source": "rss",
+  "source_url": "https://github.com/MinishLab/semble",
+  "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+  "summary": "Semble is an open-source code search tool designed for AI coding agents that uses 98% fewer tokens than traditional grep-based searches. Built by Stephan and Thomas, it solves the problem of AI agents wasting tokens when searching large codebases by falling back to full file reads or subagents. The tool addresses the limitations of existing solutions which were either too slow, required API keys, or had poor retrieval quality.",
+  "tech_stack": [
+    "Python",
+    "Embeddings",
+    "Vector Search",
+    "Open Source"
+  ],
+  "problem_solved": "AI coding agents waste excessive tokens when searching codebases because they fall back to grep and full file reads when direct searches fail.",
+  "why_valuable": "It dramatically reduces token usage (98% reduction) while maintaining high retrieval quality, making AI-assisted coding more cost-effective and efficient.",
+  "tags": [
+    "AI Agents",
+    "Code Search",
+    "Developer Tools",
+    "LLM Optimization",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-18T11:55:08.945819+00:00",
+  "updated_at": "2026-05-18T12:02:12.429118+00:00",
+  "published_to": []
+}

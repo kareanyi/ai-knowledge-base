@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-003",
+  "source": "rss",
+  "source_url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
+  "title": "Where Are the Vibecoded Photoshops?",
+  "summary": "A reflective blog post questioning why, despite the vibecoding revolution (AI-assisted rapid prototyping), there aren't more professional-grade applications like Photoshop-level tools emerging. It explores the gap between AI coding tool hype and actual production-quality software output.",
+  "tech_stack": [
+    "Vibecoding",
+    "Cursor",
+    "Windsurf",
+    "AI Agents",
+    "Prototyping"
+  ],
+  "problem_solved": "Questions whether AI-assisted coding tools have actually delivered on their promise of enabling individuals to build professional-grade software quickly.",
+  "why_valuable": "Provides critical perspective on the vibecoding phenomenon by examining the disconnect between tool capability and real-world software quality.",
+  "tags": [
+    "AI Coding",
+    "Vibecoding",
+    "Software Development",
+    "Startup",
+    "Productivity Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-18T11:53:15.792723+00:00",
+  "updated_at": "2026-05-18T12:02:12.421751+00:00",
+  "published_to": []
+}

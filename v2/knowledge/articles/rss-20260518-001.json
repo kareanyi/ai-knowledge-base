@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260518-001",
+  "source": "rss",
+  "source_url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+  "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+  "summary": "NASA continues to maintain the Voyager spacecraft's original 1970s-era code, written in a programming language that almost no one on Earth fully understands anymore. The critical challenge is that the handful of engineers who comprehend this legacy code are now elderly, creating significant knowledge management risks for the ongoing mission.",
+  "tech_stack": [
+    "Assembly Language",
+    "FORTRAN",
+    "Legacy Systems",
+    "Real-time Systems"
+  ],
+  "problem_solved": "Maintaining operational spacecraft systems that have been running continuously since 1977 across interstellar distances.",
+  "why_valuable": "It demonstrates the extreme longevity requirements of space systems and the critical importance of preserving institutional knowledge in mission-critical legacy software.",
+  "tags": [
+    "Space Exploration",
+    "Legacy Code",
+    "NASA",
+    "Voyager",
+    "Programming History"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-18T11:52:49.748357+00:00",
+  "updated_at": "2026-05-18T12:02:12.421312+00:00",
+  "published_to": []
+}

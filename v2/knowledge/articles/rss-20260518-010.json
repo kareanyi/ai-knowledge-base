@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260518-010",
+  "source": "rss",
+  "source_url": "https://www.metalevel.at/prolog/horror",
+  "title": "Prolog Coding Horror",
+  "summary": "An educational article discussing the counterintuitive, confusing, or error-prone aspects of Prolog programming, highlighting common pitfalls that programmers encounter when working with this logic programming language.",
+  "tech_stack": [
+    "Prolog",
+    "Logic Programming",
+    "Constraint Programming"
+  ],
+  "problem_solved": "Helps Prolog programmers identify and avoid common coding mistakes and counterintuitive behaviors in the language.",
+  "why_valuable": "Prolog has a steep learning curve and this resource helps developers understand hidden traps and edge cases, saving time and frustration during development.",
+  "tags": [
+    "Prolog",
+    "Logic Programming",
+    "Programming Pitfalls",
+    "Education",
+    "Language Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-18T11:54:57.899959+00:00",
+  "updated_at": "2026-05-18T12:02:12.428979+00:00",
+  "published_to": []
+}

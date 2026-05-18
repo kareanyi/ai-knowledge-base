@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260518-015",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+  "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+  "summary": "This article reports on clinical trials using ibogaine, a hallucinogenic alkaloid, as a potential breakthrough treatment for PTSD in veterans. The research shows promising results in helping veterans overcome trauma, though the treatment comes with significant cardiac risks requiring medical supervision.",
+  "tech_stack": [
+    "Medical Research",
+    "Clinical Trials",
+    "Psychopharmacology",
+    "Neuroscience"
+  ],
+  "problem_solved": "Addresses the challenging treatment of PTSD in veterans who have not responded to conventional therapies.",
+  "why_valuable": "Offers a potentially transformative therapeutic option for millions suffering from treatment-resistant PTSD.",
+  "tags": [
+    "Psychedelic Medicine",
+    "PTSD",
+    "Veterans",
+    "Clinical Research",
+    "Mental Health"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-18T11:56:50.861200+00:00",
+  "updated_at": "2026-05-18T12:02:12.429596+00:00",
+  "published_to": []
+}

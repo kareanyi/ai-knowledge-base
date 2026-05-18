@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-007",
+  "source": "rss",
+  "source_url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+  "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+  "summary": "A technical writeup demonstrating an extreme code golfing achievement where the author created only 16 bytes of x86 assembly code that converts the Matrix digital rain visual effect into sound, showcasing deep knowledge of low-level audio synthesis and CPU architecture.",
+  "tech_stack": [
+    "x86 Assembly",
+    "Machine Code",
+    "Sound Synthesis",
+    "Low-level Programming",
+    "Code Golfing"
+  ],
+  "problem_solved": "Converts the visual Matrix rain effect into audio using only 16 bytes of x86 machine code, demonstrating minimal audio synthesis.",
+  "why_valuable": "It serves as a remarkable demonstration of extreme code optimization and deep understanding of hardware-level audio generation, pushing the boundaries of what's possible with minimal code.",
+  "tags": [
+    "assembly",
+    "code-golf",
+    "x86",
+    "audio-synthesis",
+    "hacking"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-18T11:54:09.216968+00:00",
+  "updated_at": "2026-05-18T12:02:12.422287+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-013",
+  "source": "rss",
+  "source_url": "https://github.com/alternbits/awesome-cuda-books",
+  "title": "CUDA Books",
+  "summary": "A curated GitHub repository listing excellent books for learning CUDA (Compute Unified Device Architecture), NVIDIA's parallel computing platform. The list is community-maintained and provides organized resources for developers looking to master GPU programming.",
+  "tech_stack": [
+    "CUDA",
+    "C/C++",
+    "GitHub",
+    "GPU Programming",
+    "Parallel Computing"
+  ],
+  "problem_solved": "Solves the problem of finding quality, curated learning resources for CUDA programming by aggregating recommended books in one place.",
+  "why_valuable": "It saves developers and researchers significant time in discovering the best CUDA learning materials, providing a vetted, community-approved reading list for mastering GPU programming.",
+  "tags": [
+    "CUDA",
+    "GPU",
+    "Parallel Computing",
+    "NVIDIA",
+    "Learning Resources"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-18T11:55:35.449315+00:00",
+  "updated_at": "2026-05-18T12:02:12.429373+00:00",
+  "published_to": []
+}

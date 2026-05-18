@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-012",
+  "source": "rss",
+  "source_url": "https://github.com/tech4bot/rk3562deb",
+  "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+  "summary": "A developer converted an inexpensive $80 RK3562 Android tablet into a fully functional Debian Linux workstation, demonstrating how to repurpose cheap consumer hardware for desktop computing by installing Linux and enabling peripherals like keyboard/mouse.",
+  "tech_stack": [
+    "Debian Linux",
+    "ARM/RK3562",
+    "Android",
+    "Linux",
+    "Embedded Systems"
+  ],
+  "problem_solved": "Transforms low-cost, low-power Android tablets into productive Linux workstations, reducing e-waste and providing affordable computing access.",
+  "why_valuable": "Shows that capable Linux workstations can be built from sub-$100 hardware, making computing more accessible and promoting hardware hacking/open-source philosophy.",
+  "tags": [
+    "Linux",
+    "ARM",
+    "Hardware Hacking",
+    "Debian",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-18T11:55:20.197665+00:00",
+  "updated_at": "2026-05-18T12:02:12.429248+00:00",
+  "published_to": []
+}

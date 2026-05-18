@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260518-008",
+  "source": "rss",
+  "source_url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+  "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+  "summary": "Two EA-18 Growler fighter jets collided during an airshow at Mountain Home Air Force Base in Idaho. Both pilots successfully ejected and no serious injuries were reported. The incident is under investigation.",
+  "tech_stack": [
+    "Military Aviation",
+    "F/A-18 Super Hornet"
+  ],
+  "problem_solved": "This is a breaking news event, not a technical solution. It reports on an aviation accident rather than solving a problem.",
+  "why_valuable": "Provides timely information about a public safety incident at a military facility, relevant to local residents and aviation enthusiasts.",
+  "tags": [
+    "Military",
+    "Aviation",
+    "Breaking News",
+    "Safety",
+    "Accident"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-05-18T11:54:27.623948+00:00",
+  "updated_at": "2026-05-18T12:02:12.422416+00:00",
+  "published_to": []
+}

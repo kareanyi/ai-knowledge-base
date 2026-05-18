@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260518-018",
+  "source": "rss",
+  "source_url": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
+  "title": "Profunctor Equipment in Haskell",
+  "summary": "Bartosz Milewski 在博客中探讨 Haskell 中 Profunctor Equipment 的范畴论概念，这是一种结合双函子和装备结构的数学抽象，用于增强函数式编程中的类型系统表达能力。",
+  "tech_stack": [
+    "Haskell",
+    "Category Theory",
+    "Functional Programming",
+    "Type Theory",
+    "Profunctors"
+  ],
+  "problem_solved": "解决如何在 Haskell 中形式化表达和操作双函子装备结构的问题",
+  "why_valuable": "为高级函数式编程提供坚实的数学基础，帮助开发者理解和实现更复杂的类型级编程模式",
+  "tags": [
+    "Haskell",
+    "Category Theory",
+    "Profunctor",
+    "Functional Programming",
+    "Advanced Types"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-18T11:57:21.774306+00:00",
+  "updated_at": "2026-05-18T12:02:12.429945+00:00",
+  "published_to": []
+}
