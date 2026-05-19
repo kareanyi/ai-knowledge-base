@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260519-013",
+  "source": "rss",
+  "source_url": "https://andonlabs.com/blog/andon-fm",
+  "title": "We let AIs run radio stations",
+  "summary": "Andon Labs runs an experiment where four AI agents autonomously operate a radio station company, handling both broadcast operations and business management without human intervention. This is their latest test in a series exploring AI-run businesses, following previous experiments in retail. The agents are currently struggling with revenue generation.",
+  "tech_stack": [
+    "AI Agents",
+    "LLM-based Automation",
+    "Media Broadcasting Tools",
+    "Business Management Systems",
+    "Autonomous Decision-Making"
+  ],
+  "problem_solved": "Tests the viability and challenges of full AI autonomy in running a media business with no human oversight",
+  "why_valuable": "Provides real-world empirical data on what happens when AI systems operate independently in business settings",
+  "tags": [
+    "AI Agents",
+    "Autonomous Operations",
+    "Media",
+    "Experiment",
+    "No-Human-in-the-Loop"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-19T11:34:37.366752+00:00",
+  "updated_at": "2026-05-19T11:40:06.860470+00:00",
+  "published_to": []
+}

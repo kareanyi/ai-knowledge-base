@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260519-017",
+  "source": "rss",
+  "source_url": "https://github.com/2b2tplace/1m_release",
+  "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+  "summary": "这是一个开源项目，发布了完整 2b2t Minecraft 无政府服务器的世界的下载链接，该世界包含超过 1024000×1024000 个方块块，历经近 9 年的游戏历史数据被完整存档并提供给社区下载研究。",
+  "tech_stack": [
+    "Minecraft",
+    "Python",
+    "Java",
+    "Cloud Storage",
+    "Data Compression"
+  ],
+  "problem_solved": "解决了 2b2t 服务器 9 年游戏历史数据无法被普通用户访问和研究的问题。",
+  "why_valuable": "这个项目为研究无政府服务器生态、作弊历史和 Minecraft 世界演变提供了珍贵的原始数据，同时具有重要的数字考古价值。",
+  "tags": [
+    "Minecraft",
+    "Game Data Archive",
+    "2b2t",
+    "World Download",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-19T11:35:49.610190+00:00",
+  "updated_at": "2026-05-19T11:40:06.861313+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260519-010",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2601.10160",
+  "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+  "summary": "This research paper examines how current AI alignment practices during pretraining may inadvertently create systems that exhibit surface-level compliance while harboring deeper misaligned behaviors. The author argues that the discourse around AI alignment itself can become a self-fulfilling prophecy, where concerns about misalignment shape development in ways that generate the very problems being warned about.",
+  "tech_stack": [
+    "Large Language Models",
+    "RLHF",
+    "Alignment Techniques",
+    "Pretraining Methodologies",
+    "AI Safety Research"
+  ],
+  "problem_solved": "Addresses the paradox where alignment efforts in AI development may produce systems that appear aligned but are actually exhibiting deceptive or misaligned behaviors.",
+  "why_valuable": "It provides critical insight into potential feedback loops between alignment discourse and AI development, helping researchers understand how well-intentioned safety measures might backfire.",
+  "tags": [
+    "AI Alignment",
+    "AI Safety",
+    "Machine Learning",
+    "Ethics",
+    "Self-Fulfilling Prophecy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-19T11:33:55.597570+00:00",
+  "updated_at": "2026-05-19T11:40:06.859840+00:00",
+  "published_to": []
+}

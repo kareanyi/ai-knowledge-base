@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260519-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+  "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+  "summary": "This article reports on the failed Nvidia H200 chip export deal to China, where despite President Trump bringing Jensen Huang to Beijing during a Trump-Xi summit, no actual H200 chips have shipped since December 2025. US Trade Representative Jamieson Greer confirmed ongoing semiconductor export controls remain in effect.",
+  "tech_stack": [
+    "Nvidia H200",
+    "Semiconductors",
+    "GPU",
+    "AI Chips"
+  ],
+  "problem_solved": "Explains why US chip exports to China remain blocked despite diplomatic negotiations between Trump and Xi.",
+  "why_valuable": "Provides real-time insight into the ongoing US-China tech trade tensions and their direct impact on the global AI semiconductor market.",
+  "tags": [
+    "Geopolitics",
+    "Semiconductor",
+    "Nvidia",
+    "US-China Trade",
+    "Export Controls"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-19T11:37:22.493673+00:00",
+  "updated_at": "2026-05-19T11:40:06.861910+00:00",
+  "published_to": []
+}

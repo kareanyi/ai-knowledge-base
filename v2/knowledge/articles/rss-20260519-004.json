@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260519-004",
+  "source": "rss",
+  "source_url": "https://github.com/harmont-dev/hsrs",
+  "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+  "summary": "Hsrs is a type-safe Haskell bindings generator for Rust that creates rich bindings between the two languages, filling a gap in the tooling ecosystem where no similar code generator existed before. It follows the same developer-friendly patterns as popular tools like pyo3 and napi-rs.",
+  "tech_stack": [
+    "Rust",
+    "Haskell",
+    "FFI",
+    "Code Generation"
+  ],
+  "problem_solved": "Solves the lack of type-safe, rich bindings generators for creating Haskell bindings from Rust code.",
+  "why_valuable": "Enables Rust developers to leverage Haskell's rich type system and features through type-safe FFI bindings, following proven patterns from established binding generators.",
+  "tags": [
+    "Rust",
+    "Haskell",
+    "FFI",
+    "Bindings",
+    "Type-Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-19T11:31:45.802334+00:00",
+  "updated_at": "2026-05-19T11:40:06.852122+00:00",
+  "published_to": []
+}
