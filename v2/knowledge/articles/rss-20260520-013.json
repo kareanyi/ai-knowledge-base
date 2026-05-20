@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260520-013",
+  "source": "rss",
+  "source_url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+  "title": "Minnesota becomes first state to ban prediction markets",
+  "summary": "Minnesota has become the first U.S. state to ban prediction markets through new legislation, raising questions about the future of platforms like Kalshi and the broader regulatory landscape for event contracts and forecasting markets.",
+  "tech_stack": [],
+  "problem_solved": "Addresses the regulatory and legal concerns around prediction markets in financial and political contexts.",
+  "why_valuable": "Sets a precedent for how states might handle prediction markets, which could influence similar legislation elsewhere and impact the rapidly growing forecasting industry.",
+  "tags": [
+    "Policy",
+    "Regulation",
+    "Finance",
+    "Prediction Markets",
+    "Legal"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-20T11:03:52.752232+00:00",
+  "updated_at": "2026-05-20T11:08:25.055174+00:00",
+  "published_to": []
+}

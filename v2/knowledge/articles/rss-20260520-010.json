@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-010",
+  "source": "rss",
+  "source_url": "https://github.com/wiltodelta/remove-ai-watermarks",
+  "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+  "summary": "Remove-AI-Watermarks is an open-source CLI tool and Python library designed to automatically detect and remove AI-generated watermarks from images. The tool analyzes image patterns to identify common AI watermarking signatures and applies inpainting or content-aware filling techniques to reconstruct the original image beneath the watermark.",
+  "tech_stack": [
+    "Python",
+    "Pillow",
+    "OpenCV",
+    "NumPy",
+    "Deep Learning"
+  ],
+  "problem_solved": "Removes unwanted AI-generated watermarks from images for users who need clean, watermark-free versions for legitimate use cases like content editing or archival purposes.",
+  "why_valuable": "Provides an accessible, automated solution for watermark removal that would otherwise require manual editing expertise or expensive commercial tools.",
+  "tags": [
+    "Image Processing",
+    "CLI Tool",
+    "Watermark Removal",
+    "Python",
+    "AI Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-20T11:03:11.836857+00:00",
+  "updated_at": "2026-05-20T11:08:25.054549+00:00",
+  "published_to": []
+}

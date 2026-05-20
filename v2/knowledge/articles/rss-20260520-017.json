@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-017",
+  "source": "rss",
+  "source_url": "https://xint.io/blog/copy-fail-pod-to-host",
+  "title": "CopyFail: From Pod to Host",
+  "summary": "A technical blog post discussing troubleshooting a file copy failure scenario when attempting to transfer files from a Kubernetes pod to the host system, likely covering root causes and solutions.",
+  "tech_stack": [
+    "Kubernetes",
+    "Docker",
+    "Container Runtime",
+    "Linux",
+    "kubectl"
+  ],
+  "problem_solved": "Diagnoses and resolves file copying failures when transferring data from Kubernetes pods to the host system.",
+  "why_valuable": "Provides practical debugging insights for Kubernetes networking and storage issues that developers commonly encounter in containerized environments.",
+  "tags": [
+    "Kubernetes",
+    "Debugging",
+    "Container",
+    "Networking",
+    "SysAdmin"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-20T11:05:29.562979+00:00",
+  "updated_at": "2026-05-20T11:08:25.055963+00:00",
+  "published_to": []
+}

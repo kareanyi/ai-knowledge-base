@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-005",
+  "source": "rss",
+  "source_url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+  "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+  "summary": "Infomaniak, a European cloud provider, is transitioning to a foundation model to enhance user data privacy and ensure data sovereignty within European jurisdiction. This move positions them as a sovereign cloud alternative to US-based hyperscalers, offering businesses AI capabilities while maintaining strict data control.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "Foundation Models",
+    "Sovereign Cloud",
+    "European Data Centers",
+    "AI/ML"
+  ],
+  "problem_solved": "Addresses data privacy concerns and loss of sovereignty when using cloud services from US-based hyperscalers.",
+  "why_valuable": "Enables European enterprises to leverage AI capabilities while keeping data within European jurisdiction and under user control.",
+  "tags": [
+    "Cloud",
+    "Privacy",
+    "AI",
+    "Data Sovereignty",
+    "European Tech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-20T11:02:09.790424+00:00",
+  "updated_at": "2026-05-20T11:08:25.046169+00:00",
+  "published_to": []
+}

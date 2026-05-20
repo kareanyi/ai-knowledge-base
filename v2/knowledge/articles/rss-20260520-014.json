@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260520-014",
+  "source": "rss",
+  "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+  "title": "Google changes its search box",
+  "summary": "Google announced a major redesign of its iconic search box with AI-powered features at Search I/O 2026, fundamentally changing how users interact with the world's most popular search engine. The update brings conversational AI capabilities directly into the search interface, marking a significant shift from traditional keyword-based searching to a more interactive, AI-driven experience.",
+  "tech_stack": [
+    "Google AI",
+    "Search Technology",
+    "Large Language Models",
+    "Google Cloud Platform"
+  ],
+  "problem_solved": "Making search more intuitive and conversational by integrating AI directly into the search interface, reducing friction between user queries and relevant answers.",
+  "why_valuable": "As Google's search handles billions of queries daily, any UI change affects how billions of people worldwide access and interact with information online.",
+  "tags": [
+    "Google",
+    "Search",
+    "AI",
+    "Product Update",
+    "UI Redesign"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-20T11:04:08.360896+00:00",
+  "updated_at": "2026-05-20T11:08:25.055373+00:00",
+  "published_to": []
+}

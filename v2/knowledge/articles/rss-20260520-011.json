@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-011",
+  "source": "rss",
+  "source_url": "https://openai.com/index/advancing-content-provenance/",
+  "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+  "summary": "OpenAI has adopted Google's SynthID watermarking technology for AI-generated images, implementing invisible digital watermarks that can detect AI-created content. The system includes a verification tool to help identify the origin of images, addressing growing concerns about AI-generated deepfakes and misinformation.",
+  "tech_stack": [
+    "SynthID",
+    "AI Watermarking",
+    "Deep Learning",
+    "Content Provenance",
+    "Image Generation"
+  ],
+  "problem_solved": "Addresses the challenge of identifying AI-generated images and verifying content authenticity to combat deepfakes and misinformation.",
+  "why_valuable": "Provides a practical solution for distinguishing AI-generated content from real images, building trust and transparency in the AI ecosystem.",
+  "tags": [
+    "AI-Watermarking",
+    "Content-Verification",
+    "Deepfake-Detection",
+    "Digital-Provenance",
+    "Generative-AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-20T11:03:20.580294+00:00",
+  "updated_at": "2026-05-20T11:08:25.054751+00:00",
+  "published_to": []
+}

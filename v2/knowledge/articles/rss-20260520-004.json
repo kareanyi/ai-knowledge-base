@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260520-004",
+  "source": "rss",
+  "source_url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+  "title": "Everything in C is undefined behavior",
+  "summary": "An analysis exploring the provocative claim that many common C programming patterns actually constitute undefined behavior according to the C standard, even when they work correctly in practice. The article delves into technical nuances of the C specification and compiler optimization implications.",
+  "tech_stack": [
+    "C",
+    "C Standard",
+    "Compiler Design"
+  ],
+  "problem_solved": "Raises awareness about the disconnect between common C coding practices and what the C standard actually guarantees as defined behavior.",
+  "why_valuable": "Helps developers understand the hidden risks in C code that may appear to work but technically invokes undefined behavior with potential security and portability implications.",
+  "tags": [
+    "C",
+    "undefined-behavior",
+    "systems-programming",
+    "language-specification",
+    "compiler"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-20T11:01:58.797296+00:00",
+  "updated_at": "2026-05-20T11:08:25.045946+00:00",
+  "published_to": []
+}

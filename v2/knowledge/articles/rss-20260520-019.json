@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-019",
+  "source": "rss",
+  "source_url": "https://twitter.com/karpathy/status/2056753169888334312",
+  "title": "I’ve joined Anthropic",
+  "summary": "Andrej Karpathy, a renowned AI researcher and educator (famous for his deep learning courses), has announced joining Anthropic, the AI safety company behind Claude. This is a significant industry move as Karpathy previously co-founded OpenAI and led Autopilot development at Tesla.",
+  "tech_stack": [
+    "AI",
+    "Deep Learning",
+    "Large Language Models",
+    "ML Infrastructure",
+    "Python"
+  ],
+  "problem_solved": "Major AI talent movement that could accelerate Anthropic's research and development capabilities while bringing a prominent educator and researcher to the AI safety field.",
+  "why_valuable": "Karpathy is one of the most influential figures in AI whose move to Anthropic signals potential shifts in the AI landscape and could strengthen AI safety research efforts.",
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Career",
+    "Machine Learning",
+    "Research"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-20T11:05:48.202304+00:00",
+  "updated_at": "2026-05-20T11:08:25.056391+00:00",
+  "published_to": []
+}

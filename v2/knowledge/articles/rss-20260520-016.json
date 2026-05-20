@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-016",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "title": "Gemini 3.5 Flash",
+  "summary": "Gemini 3.5 Flash 是 Google 最新一代的高效 AI 模型，专为需要快速响应和成本效益的应用场景设计。该模型在保持强大能力的同时，大幅优化了推理速度和成本，是 Google 主力推的轻量级模型。",
+  "tech_stack": [
+    "Google AI",
+    "Gemini API",
+    "Cloud Infrastructure",
+    "REST API",
+    "Python SDK"
+  ],
+  "problem_solved": "解决开发者在构建生产级 AI 应用时面临的成本高、响应慢的问题",
+  "why_valuable": "提供接近旗舰模型的性能，同时显著降低成本和延迟，适合大规模部署",
+  "tags": [
+    "AI",
+    "LLM",
+    "Google",
+    "API",
+    "Cost-efficiency"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-20T11:05:15.172926+00:00",
+  "updated_at": "2026-05-20T11:08:25.055769+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260520-009",
+  "source": "rss",
+  "source_url": "https://twitter.com/github/status/2056884788179726685",
+  "title": "GitHub is investigating unauthorized access to their internal repositories",
+  "summary": "GitHub disclosed they're investigating unauthorized access to their internal repositories, indicating a potential security breach of their internal systems that may affect their infrastructure and services.",
+  "tech_stack": [
+    "GitHub",
+    "Internal Infrastructure"
+  ],
+  "problem_solved": "This is a security incident report rather than a solution - it reveals unauthorized access to GitHub's internal systems that requires investigation and remediation.",
+  "why_valuable": "Security incidents at major platforms like GitHub have significant implications for millions of developers and projects that depend on their services, making transparency about such breaches crucial for the developer community.",
+  "tags": [
+    "Security Breach",
+    "GitHub",
+    "Incident Response",
+    "Unauthorized Access",
+    "Vulnerability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-20T11:03:02.782184+00:00",
+  "updated_at": "2026-05-20T11:08:25.054336+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-006",
+  "source": "rss",
+  "source_url": "https://andlukyane.com//blog/minimax-m27-workflows",
+  "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+  "summary": "A technical blog post that tests MiniMax M2.7 AI model through API integration, evaluating its performance across three practical machine learning and software development workflows. The author documents real-world use cases to assess the model's capabilities and limitations in production-like scenarios.",
+  "tech_stack": [
+    "MiniMax M2.7",
+    "API Integration",
+    "Python",
+    "Machine Learning",
+    "LLM"
+  ],
+  "problem_solved": "Evaluates whether MiniMax M2.7 can handle realistic ML and coding tasks that developers encounter in production environments.",
+  "why_valuable": "Provides practical, hands-on evaluation of an AI model on real workflows rather than synthetic benchmarks, helping developers make informed decisions about AI tool adoption.",
+  "tags": [
+    "AI",
+    "LLM",
+    "API",
+    "Machine Learning",
+    "Testing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-20T11:02:15.945521+00:00",
+  "updated_at": "2026-05-20T11:08:25.046364+00:00",
+  "published_to": []
+}

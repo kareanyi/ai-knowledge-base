@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260520-007",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+  "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+  "summary": "这篇文章讲述了日本大规模过敏症流行的历史根源，追溯到1950年代的一个政策决定或生态项目失误，导致如今日本民众深受花粉过敏之苦。",
+  "tech_stack": [
+    "History",
+    "Environmental Policy",
+    "Public Health"
+  ],
+  "problem_solved": "解释了为什么日本会出现如此大规模过敏症流行的历史原因",
+  "why_valuable": "揭示了历史决策的长期生态后果，警示当代政策制定者需要考虑长期影响",
+  "tags": [
+    "Japan",
+    "Allergies",
+    "Environmental History",
+    "Public Health",
+    "Policy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-20T11:02:25.551436+00:00",
+  "updated_at": "2026-05-20T11:08:25.046564+00:00",
+  "published_to": []
+}

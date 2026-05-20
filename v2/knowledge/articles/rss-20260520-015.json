@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-015",
+  "source": "rss",
+  "source_url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+  "title": "Gemini CLI will stop working from June 18, 2026",
+  "summary": "Google has announced that Gemini CLI will be deprecated and transitioned to Antigravity CLI, with the original service stopping on June 18, 2026. This transition affects developers who rely on Google's command-line interface tools for AI-assisted development. The announcement provides important timeline information for users to plan their migration to the new platform.",
+  "tech_stack": [
+    "Gemini CLI",
+    "Antigravity CLI",
+    "Google Cloud",
+    "AI/ML Tools",
+    "CLI Tools"
+  ],
+  "problem_solved": "Provides a clear migration path and timeline for developers to transition from Gemini CLI to Antigravity CLI before service discontinuation.",
+  "why_valuable": "Helps developers avoid service disruption by giving advance notice of the June 2026 cutoff date, allowing proper planning and migration.",
+  "tags": [
+    "Google",
+    "CLI",
+    "AI",
+    "Migration",
+    "Deprecation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-20T11:04:29.558820+00:00",
+  "updated_at": "2026-05-20T11:08:25.055567+00:00",
+  "published_to": []
+}

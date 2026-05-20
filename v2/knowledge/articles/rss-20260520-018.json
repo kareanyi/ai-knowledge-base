@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260520-018",
+  "source": "rss",
+  "source_url": "https://virtualosmuseum.org/",
+  "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+  "summary": "A developer created a virtual museum website that allows users to experience nearly every operating system imaginable directly in their browser, from classic Windows and Mac OS versions to rare and vintage systems that would otherwise require specialized hardware to run.",
+  "tech_stack": [
+    "JavaScript",
+    "WebAssembly",
+    "Browser-based Emulation",
+    "v86/DOSBox",
+    "Modern Web Framework"
+  ],
+  "problem_solved": "Preserves computing history by making thousands of vintage and rare operating systems accessible without needing physical hardware or complex setup.",
+  "why_valuable": "It serves as both an educational resource and nostalgic experience, democratizing access to computing heritage that would otherwise be lost to hardware degradation.",
+  "tags": [
+    "OS History",
+    "Emulation",
+    "Nostalgia",
+    "Web Technology",
+    "Digital Preservation"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-20T11:05:40.542658+00:00",
+  "updated_at": "2026-05-20T11:08:25.056186+00:00",
+  "published_to": []
+}

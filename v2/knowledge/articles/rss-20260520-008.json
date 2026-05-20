@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260520-008",
+  "source": "rss",
+  "source_url": "https://fivethirtyeightindex.com/",
+  "title": "FiveThirtyEight articles on the Internet Archive",
+  "summary": "A third-party index website that organizes and catalogs FiveThirtyEight's data journalism articles, making the publication's extensive archive more browsable and discoverable by topic, author, or date.",
+  "tech_stack": [
+    "Web Index Tool",
+    "FiveThirtyEight API"
+  ],
+  "problem_solved": "Makes FiveThirtyEight's vast archive of data journalism articles easier to navigate and discover compared to the official site's limited browsing capabilities.",
+  "why_valuable": "Provides a superior browsing experience for a respected data journalism source, helping readers find relevant historical articles based on various filters.",
+  "tags": [
+    "Data Journalism",
+    "Archive",
+    "Index",
+    "Browse Tool",
+    "Nate Silver"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-20T11:02:34.033450+00:00",
+  "updated_at": "2026-05-20T11:08:25.054112+00:00",
+  "published_to": []
+}

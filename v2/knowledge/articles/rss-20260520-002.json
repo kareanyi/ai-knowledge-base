@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260520-002",
+  "source": "rss",
+  "source_url": "https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold",
+  "title": "The weird, wild story of humanity's obsession with gold",
+  "summary": "An article from The Economist exploring humanity's long-standing fascination with gold throughout history, examining its cultural, economic, and symbolic significance across different civilizations and time periods.",
+  "tech_stack": [
+    "Digital Publishing",
+    "Web Content"
+  ],
+  "problem_solved": "Provides historical and cultural context on why gold has held such enduring importance in human civilization.",
+  "why_valuable": "Offers insightful cultural analysis into human psychology and economic behavior through the lens of gold.",
+  "tags": [
+    "History",
+    "Economics",
+    "Culture",
+    "Gold",
+    "Human Behavior"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-20T11:01:34.164680+00:00",
+  "updated_at": "2026-05-20T11:08:25.045504+00:00",
+  "published_to": []
+}

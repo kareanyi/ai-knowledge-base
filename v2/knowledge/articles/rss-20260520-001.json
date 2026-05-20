@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260520-001",
+  "source": "rss",
+  "source_url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+  "title": "Learnings from 100K lines of Rust with AI (2025)",
+  "summary": "A developer shares practical insights and lessons learned from using AI assistants (specifically Claude Code) to write approximately 100K lines of production Rust code, covering workflows, pitfalls, and best practices for AI-assisted development at scale.",
+  "tech_stack": [
+    "Rust",
+    "Claude Code",
+    "LLM/AI",
+    "Spec-Driven Development"
+  ],
+  "problem_solved": "How to effectively leverage AI tools for large-scale Rust development while maintaining code quality and developer productivity.",
+  "why_valuable": "Provides rare real-world data point from a substantial codebase, offering actionable guidance for developers adopting AI-assisted coding workflows.",
+  "tags": [
+    "Rust",
+    "AI-Assisted-Coding",
+    "Developer-Productivity",
+    "Software-Engineering",
+    "Best-Practices"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-20T11:01:07.459444+00:00",
+  "updated_at": "2026-05-20T11:08:25.045161+00:00",
+  "published_to": []
+}
