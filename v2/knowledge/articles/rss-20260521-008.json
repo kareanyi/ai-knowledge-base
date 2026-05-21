@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-008",
+  "source": "rss",
+  "source_url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+  "title": "Haskell Foundation 2026 Update",
+  "summary": "The Haskell Foundation's 2026 update discusses the organization's progress, initiatives, and roadmap for strengthening the Haskell programming language ecosystem, including community growth, tooling improvements, and ecosystem sustainability efforts.",
+  "tech_stack": [
+    "Haskell",
+    "Functional Programming",
+    "GHC",
+    "Cabal",
+    "Hackage"
+  ],
+  "problem_solved": "Provides transparency and community engagement regarding the Haskell Foundation's strategic direction and resource allocation for 2026.",
+  "why_valuable": "Keeps the Haskell community informed about organizational priorities and creates accountability for Foundation initiatives that benefit the broader functional programming ecosystem.",
+  "tags": [
+    "Haskell",
+    "Functional Programming",
+    "Open Source",
+    "Community",
+    "Ecosystem"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-21T11:37:02.863677+00:00",
+  "updated_at": "2026-05-21T11:40:05.205302+00:00",
+  "published_to": []
+}

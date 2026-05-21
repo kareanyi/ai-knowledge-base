@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-019",
+  "source": "rss",
+  "source_url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+  "title": "Saying goodbye to asm.js",
+  "summary": "Mozilla's SpiderMonkey JavaScript engine officially deprecates asm.js, a highly optimized JavaScript subset that served as a compilation target for C/C++ code before WebAssembly. The article marks the end of an era for web performance optimization, as WebAssembly has become the superior successor for near-native browser performance.",
+  "tech_stack": [
+    "JavaScript",
+    "WebAssembly",
+    "SpiderMonkey",
+    "Emscripten",
+    "C/C++"
+  ],
+  "problem_solved": "Legacy asm.js codebase now has a clear path to migrate to modern WebAssembly for better performance and browser support.",
+  "why_valuable": "Signals the complete transition of high-performance web computing from asm.js to WebAssembly, simplifying the web development ecosystem.",
+  "tags": [
+    "WebAssembly",
+    "Mozilla",
+    "JavaScript",
+    "Browser",
+    "Deprecation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-21T11:39:50.665422+00:00",
+  "updated_at": "2026-05-21T11:40:05.207378+00:00",
+  "published_to": []
+}

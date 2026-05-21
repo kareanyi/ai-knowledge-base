@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-013",
+  "source": "rss",
+  "source_url": "https://twitter.com/nottombrown/status/2057194829986300375",
+  "title": "Anthropic is expanding to Colossus2. Will use GB200",
+  "summary": "Anthropic is expanding their AI infrastructure to Colossus2, a next-generation supercomputer cluster that will utilize NVIDIA's GB200 Grace Blackwell processors for training and running large language models at scale.",
+  "tech_stack": [
+    "NVIDIA GB200 Grace Blackwell",
+    "GPU Computing",
+    "AI Infrastructure",
+    "Data Center",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Scaling AI compute infrastructure to meet the demands of training and deploying frontier AI models with greater efficiency and processing power.",
+  "why_valuable": "The GB200 chips represent cutting-edge AI accelerator technology that can significantly reduce training time and costs for large language models.",
+  "tags": [
+    "AI Infrastructure",
+    "NVIDIA",
+    "GPU",
+    "Data Center",
+    "LLM Training"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-21T11:38:11.526441+00:00",
+  "updated_at": "2026-05-21T11:40:05.206315+00:00",
+  "published_to": []
+}

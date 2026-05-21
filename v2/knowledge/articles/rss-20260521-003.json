@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260521-003",
+  "source": "rss",
+  "source_url": "https://noslopgrenade.com/",
+  "title": "No Slop Grenade",
+  "summary": "A tool or platform designed to help identify and filter out low-quality AI-generated content (referred to as 'slop'). It provides services to combat the proliferation of AI-spawned low-quality content across the internet.",
+  "tech_stack": [
+    "AI/ML",
+    "Content Analysis",
+    "Web Tool"
+  ],
+  "problem_solved": "Addresses the growing problem of low-quality AI-generated content flooding the internet and helping users identify/shun such content.",
+  "why_valuable": "In an era of AI content flooding, it helps maintain content quality standards and protects users from consuming low-value AI-generated material.",
+  "tags": [
+    "AI Content",
+    "Quality Control",
+    "Digital Tool",
+    "Anti-spam",
+    "Content Filtering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-21T11:36:06.027299+00:00",
+  "updated_at": "2026-05-21T11:40:05.195877+00:00",
+  "published_to": []
+}

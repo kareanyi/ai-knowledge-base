@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-005",
+  "source": "rss",
+  "source_url": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+  "title": "The famous O3 \"GeoGuessr\" prompt did not work",
+  "summary": "作者测试了 OpenAI O3 模型在 GeoGuessr 游戏中的表现，发现之前广为流传的 'GeoGuessr prompt' 并未如预期般有效。通过实际实验展示了 O3 模型在该场景下的局限性，为 AI 提示工程提供了真实的测试案例和反思。",
+  "tech_stack": [
+    "OpenAI O3",
+    "Prompt Engineering",
+    "Python",
+    "AI Testing",
+    "LLM Evaluation"
+  ],
+  "problem_solved": "验证了流行的 AI prompt 在实际场景中的真实效果，填补了理论提示与实际表现之间的认知差距。",
+  "why_valuable": "通过实际测试揭示了 AI 模型的真实能力边界，为开发者和研究者提供了宝贵的经验数据，帮助避免对 AI 能力的过度乐观预期。",
+  "tags": [
+    "OpenAI",
+    "O3",
+    "GeoGuessr",
+    "Prompt Engineering",
+    "AI Testing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-21T11:36:33.203835+00:00",
+  "updated_at": "2026-05-21T11:40:05.196253+00:00",
+  "published_to": []
+}

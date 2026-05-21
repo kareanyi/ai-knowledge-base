@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-020",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+  "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+  "summary": "This BBC Future article explores how Google's AI systems are being targeted by manipulation attempts from SEO spam artists, content creators, and various actors trying to game AI-powered search results, and details Google's quiet countermeasures to detect and prevent such attacks on its AI Overviews and Gemini-powered features.",
+  "tech_stack": [
+    "Large Language Models",
+    "AI Search Systems",
+    "Content Detection Algorithms",
+    "SEO Optimization",
+    "Machine Learning Classification"
+  ],
+  "problem_solved": "Addresses the growing challenge of adversarial manipulation attempts on AI-powered search results and the ongoing cat-and-mouse game between AI companies and those trying to exploit their systems.",
+  "why_valuable": "Provides rare insight into the real-world security challenges facing deployed AI systems, highlighting the gap between lab performance and production reliability in AI search products.",
+  "tags": [
+    "AI Security",
+    "Search Manipulation",
+    "Spam Detection",
+    "Google AI",
+    "LLM Vulnerabilities"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-21T11:40:04.141515+00:00",
+  "updated_at": "2026-05-21T11:40:05.207546+00:00",
+  "published_to": []
+}

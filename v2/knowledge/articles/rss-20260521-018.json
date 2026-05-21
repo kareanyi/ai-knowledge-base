@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260521-018",
+  "source": "rss",
+  "source_url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+  "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+  "summary": "GitHub confirmed a security breach where attackers used a malicious VSCode extension to compromise approximately 3,800 repositories, gaining unauthorized access to internal systems. This incident highlights the growing supply chain attack vector through developer tool extensions.",
+  "tech_stack": [
+    "GitHub",
+    "VSCode",
+    "VSCode Extensions",
+    "OAuth"
+  ],
+  "problem_solved": "Security incident response and supply chain attack investigation for a major code hosting platform.",
+  "why_valuable": "This breach demonstrates a critical vulnerability in the software supply chain through developer tooling, serving as a cautionary tale for the entire developer community about the risks of third-party extensions.",
+  "tags": [
+    "Security",
+    "Supply Chain Attack",
+    "GitHub",
+    "VSCode",
+    "Data Breach"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-21T11:39:35.531976+00:00",
+  "updated_at": "2026-05-21T11:40:05.207207+00:00",
+  "published_to": []
+}

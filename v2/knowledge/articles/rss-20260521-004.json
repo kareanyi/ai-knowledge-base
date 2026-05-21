@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-004",
+  "source": "rss",
+  "source_url": "https://github.com/helvesec/rmux",
+  "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+  "summary": "Rmux is a terminal multiplexer rebuilt from scratch in Rust that combines tmux compatibility with a programmable async SDK. It enables Playwright-style automation for terminals, replacing fragile grep-and-sleep scripts with structured snapshots, stable pane IDs, and locator-style waits.",
+  "tech_stack": [
+    "Rust",
+    "Async/Await",
+    "Playwright patterns",
+    "tmux compatibility layer",
+    "Daemon architecture"
+  ],
+  "problem_solved": "Eliminates fragile terminal automation that relies on grep, sleeps, and output scraping by providing structured APIs and reliable synchronization primitives.",
+  "why_valuable": "It brings modern web automation patterns (like Playwright) to terminal multiplexing, making CLI automation reliable and programmatic while maintaining backward compatibility with existing tmux workflows.",
+  "tags": [
+    "Terminal",
+    "Multiplexer",
+    "Rust",
+    "Automation",
+    "CLI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-21T11:36:18.911900+00:00",
+  "updated_at": "2026-05-21T11:40:05.196057+00:00",
+  "published_to": []
+}

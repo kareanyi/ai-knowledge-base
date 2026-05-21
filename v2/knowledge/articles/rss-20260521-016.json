@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260521-016",
+  "source": "rss",
+  "source_url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+  "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+  "summary": "This article chronicles the life of Qian Xuesen, a brilliant Chinese scientist who studied at MIT and Caltech, contributed to early U.S. rocket technology, was detained during the McCarthy era on suspicion of communist ties, and was eventually deported to China where he became the architect of China's ballistic missile and space programs.",
+  "tech_stack": [
+    "Rocket Science",
+    "Ballistic Missile Technology",
+    "Aerospace Engineering",
+    "Aeronautics"
+  ],
+  "problem_solved": "Historical analysis of how political paranoia during the Cold War era led America to deport a scientific genius who subsequently built China's missile and space program.",
+  "why_valuable": "Provides a cautionary tale about the unintended consequences of McCarthy-era anti-communist witch hunts on national security and scientific leadership.",
+  "tags": [
+    "History",
+    "Cold War",
+    "Rocket Science",
+    "Biography",
+    "Geopolitics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-21T11:39:04.507865+00:00",
+  "updated_at": "2026-05-21T11:40:05.206849+00:00",
+  "published_to": []
+}

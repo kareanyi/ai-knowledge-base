@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-015",
+  "source": "rss",
+  "source_url": "https://docs.flipper.net/one/general/tech-specs",
+  "title": "Flipper One Tech Specs",
+  "summary": "Flipper One is a portable multi-tool device designed for security researchers and penetration testers, featuring technical specifications including processor, memory, connectivity options, and supported protocols for interacting with various electronic systems.",
+  "tech_stack": [
+    "Embedded Hardware",
+    "RFID/NFC",
+    "Sub-GHz Wireless",
+    "GPIO",
+    "USB-C"
+  ],
+  "problem_solved": "Provides security researchers with a portable, all-in-one device for interacting with and analyzing wireless protocols and electronic systems.",
+  "why_valuable": " democratizes hardware security research by offering an affordable, open-source multi-tool that replaces expensive specialized equipment.",
+  "tags": [
+    "Hardware",
+    "Security",
+    "IoT",
+    "Embedded",
+    "Penetration-Testing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-21T11:38:35.592756+00:00",
+  "updated_at": "2026-05-21T11:40:05.206674+00:00",
+  "published_to": []
+}

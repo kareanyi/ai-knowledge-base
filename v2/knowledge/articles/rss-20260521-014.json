@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260521-014",
+  "source": "rss",
+  "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+  "summary": "OpenAI's reasoning model (o1) has successfully disproved a central conjecture in discrete geometry, marking a significant milestone in AI-assisted mathematical research. This achievement demonstrates that AI systems can perform at a high level in pure mathematical reasoning, potentially transforming how complex mathematical problems are approached.",
+  "tech_stack": [
+    "Large Language Models",
+    "Reinforcement Learning",
+    "Mathematical Theorem Proving",
+    "Reasoning AI",
+    "OpenAI o1"
+  ],
+  "problem_solved": "Demonstrates that AI can contribute meaningfully to pure mathematical research by independently disproving a longstanding conjecture in discrete geometry.",
+  "why_valuable": "This breakthrough proves AI's capability for deep mathematical reasoning beyond pattern matching, opening new possibilities for automated mathematical discovery and collaboration between humans and AI in advancing mathematical knowledge.",
+  "tags": [
+    "AI Research",
+    "Mathematics",
+    "Discrete Geometry",
+    "Theorem Proving",
+    "Scientific Breakthrough"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-21T11:38:29.887966+00:00",
+  "updated_at": "2026-05-21T11:40:05.206494+00:00",
+  "published_to": []
+}
