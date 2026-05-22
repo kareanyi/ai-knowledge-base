@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-008",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.12460",
+  "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+  "summary": "This paper introduces Multi-Stream LLMs, a novel architecture that parallelizes and separates prompt processing, reasoning/thinking, and I/O stages instead of the traditional sequential generation approach. By allowing these three components to run concurrently, similar to CPU instruction pipelining, it enables more efficient utilization of compute resources during LLM inference.",
+  "tech_stack": [
+    "LLM",
+    "Parallel Processing",
+    "Inference Optimization",
+    "Pipeline Architecture",
+    "Python"
+  ],
+  "problem_solved": "Solves the inefficiency of traditional sequential LLM inference where prompt processing, thinking, and output generation cannot overlap, causing wasted compute cycles and high latency.",
+  "why_valuable": "This approach can significantly reduce LLM inference latency and improve throughput by enabling concurrent execution of different processing stages, making AI responses faster and more resource-efficient.",
+  "tags": [
+    "LLM",
+    "Parallel Processing",
+    "Inference Optimization",
+    "Architecture",
+    "Efficiency"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-22T10:58:34.550892+00:00",
+  "updated_at": "2026-05-22T11:02:27.432316+00:00",
+  "published_to": []
+}

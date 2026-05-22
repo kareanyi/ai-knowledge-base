@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-004",
+  "source": "rss",
+  "source_url": "https://slumber.lucaspickering.me",
+  "title": "Slumber a TUI HTTP Client",
+  "summary": "Slumber is a terminal-based TUI HTTP client for making and testing API requests, providing a lightweight alternative to GUI tools like Postman or Insomnia. It allows developers to construct HTTP requests, view formatted responses, and manage collections directly from the terminal with keyboard-driven navigation.",
+  "tech_stack": [
+    "Rust",
+    "Ratatui",
+    "reqwest",
+    "serde",
+    "clap"
+  ],
+  "problem_solved": "Provides a lightweight, keyboard-driven alternative to GUI-based API testing tools for developers who prefer working in the terminal",
+  "why_valuable": "Enables fast, portable API testing without heavy GUI dependencies, ideal for developers who spend most of their time in the terminal",
+  "tags": [
+    "TUI",
+    "HTTP-client",
+    "API-testing",
+    "Developer-tools",
+    "Rust"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T10:57:59.759268+00:00",
+  "updated_at": "2026-05-22T11:02:27.431612+00:00",
+  "published_to": []
+}

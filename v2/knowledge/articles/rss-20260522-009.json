@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260522-009",
+  "source": "rss",
+  "source_url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+  "title": "Using Kagi Search with Low Vision",
+  "summary": "A personal blog post from a user with low vision sharing their positive experience using Kagi Search, highlighting how its clean interface, typography options, and minimalist design make web searching more accessible compared to mainstream search engines.",
+  "tech_stack": [
+    "Kagi Search",
+    "Web Accessibility",
+    "Typography"
+  ],
+  "problem_solved": "Improves web accessibility for users with low vision by providing a cleaner, more customizable search experience that doesn't overwhelm with cluttered interfaces.",
+  "why_valuable": "Demonstrates real-world accessibility solutions and shows how thoughtful product design can significantly improve daily digital experiences for users with disabilities.",
+  "tags": [
+    "accessibility",
+    "low-vision",
+    "search-engine",
+    "kagi",
+    "ux-design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T10:58:40.045724+00:00",
+  "updated_at": "2026-05-22T11:02:27.439411+00:00",
+  "published_to": []
+}

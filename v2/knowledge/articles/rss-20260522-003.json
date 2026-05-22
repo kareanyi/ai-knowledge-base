@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-003",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.19269",
+  "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+  "summary": "CODA presents a novel approach to optimize Transformer block execution on GPUs by rewriting attention and feed-forward layers as GEMM-epilogue programs, treating the entire transformer computation as fused matrix operations rather than separate kernels.",
+  "tech_stack": [
+    "CUDA",
+    "GEMM",
+    "Transformer",
+    "PyTorch",
+    "GPU Computing"
+  ],
+  "problem_solved": "Optimizes transformer inference and training efficiency by reducing kernel launch overhead and improving memory access patterns on GPU hardware.",
+  "why_valuable": "Enables faster and more efficient LLM execution through low-level GPU kernel fusion, potentially reducing compute costs significantly for large-scale deployments.",
+  "tags": [
+    "GPU Optimization",
+    "Transformers",
+    "CUDA",
+    "Performance",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-22T10:57:54.825449+00:00",
+  "updated_at": "2026-05-22T11:02:27.431400+00:00",
+  "published_to": []
+}

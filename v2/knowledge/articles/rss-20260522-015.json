@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260522-015",
+  "source": "rss",
+  "source_url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+  "title": "Spotify will start reserving concert tickets for fans",
+  "summary": "Spotify is launching a new feature that will reserve concert tickets for superfans, creating an exclusive ticketing system tied to their streaming platform. The feature leverages listening data to identify the most dedicated fans and give them priority access to artist concert tickets.",
+  "tech_stack": [
+    "Spotify Platform",
+    "User Analytics",
+    "Ticketing System",
+    "Streaming Infrastructure"
+  ],
+  "problem_solved": "Solves the problem of superfans struggling to get concert tickets due to bots and scalpers dominating primary ticket sales.",
+  "why_valuable": "Creates stronger artist-fan relationships, generates new revenue streams for Spotify, and differentiates the platform from competitors while providing exclusive benefits to loyal users.",
+  "tags": [
+    "Music Streaming",
+    "Ticketing",
+    "Superfan",
+    "Platform Strategy",
+    "Live Events"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T10:59:18.651687+00:00",
+  "updated_at": "2026-05-22T11:02:27.440469+00:00",
+  "published_to": []
+}

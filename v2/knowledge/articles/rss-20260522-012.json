@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-012",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48225852",
+  "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+  "summary": "ParadeDB, a Y Combinator S23 batch company, is recruiting experienced distributed systems and platform engineers to build their product. This is a hiring post from a well-funded database startup looking to expand their engineering team.",
+  "tech_stack": [
+    "Distributed Systems",
+    "PostgreSQL",
+    "Rust",
+    "Cloud Infrastructure",
+    "Kubernetes"
+  ],
+  "problem_solved": "Addresses the talent acquisition need for building ParadeDB's next-generation database product targeting enterprise search workloads.",
+  "why_valuable": "Offers an opportunity to join a YC-backed startup with potential to work on challenging distributed systems problems at scale.",
+  "tags": [
+    "Hiring",
+    "YC",
+    "Startup",
+    "Distributed Systems",
+    "Database"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-05-22T10:59:00.798013+00:00",
+  "updated_at": "2026-05-22T11:02:27.439959+00:00",
+  "published_to": []
+}

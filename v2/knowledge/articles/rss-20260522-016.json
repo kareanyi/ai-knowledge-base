@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-016",
+  "source": "rss",
+  "source_url": "https://valhovey.github.io/gaia-mary/",
+  "title": "Project Hail Mary – Stellar Navigation Chart",
+  "summary": "Project Hail Mary – Stellar Navigation Chart is an interactive web-based visualization tool that allows users to explore and navigate through stellar data, inspired by Andy Weir's sci-fi novel. The project likely utilizes ESA's Gaia mission data to render star positions and enable exploration of space navigation concepts.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "Gaia Star Data",
+    "WebGL",
+    "GitHub Pages"
+  ],
+  "problem_solved": "Makes complex astronomical data accessible and interactive for space enthusiasts to understand stellar navigation",
+  "why_valuable": "Combines science fiction inspiration with real ESA data to create an engaging educational tool for understanding our galaxy",
+  "tags": [
+    "astronomy",
+    "visualization",
+    "interactive",
+    "space-exploration",
+    "open-source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-22T10:59:30.313535+00:00",
+  "updated_at": "2026-05-22T11:02:27.440659+00:00",
+  "published_to": []
+}

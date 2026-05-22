@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-011",
+  "source": "rss",
+  "source_url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+  "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+  "summary": "This investigative report reveals Seattle Shield, a police-operated intelligence-sharing network that partners with private companies to conduct surveillance, raising concerns about privacy, accountability, and the expansion of surveillance infrastructure in urban areas.",
+  "tech_stack": [
+    "Surveillance Systems",
+    "License Plate Readers",
+    "Facial Recognition",
+    "Data Sharing Platforms",
+    "Biometric Databases"
+  ],
+  "problem_solved": "Police departments face challenges coordinating surveillance data across multiple private and public entities, and Seattle Shield addresses this by creating a centralized intelligence-sharing network.",
+  "why_valuable": "It exposes the growing partnership between law enforcement and private surveillance companies, informing public debate about civil liberties and government surveillance practices.",
+  "tags": [
+    "Privacy",
+    "Surveillance",
+    "Law Enforcement",
+    "Civil Liberties",
+    "Transparency"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-22T10:58:55.565299+00:00",
+  "updated_at": "2026-05-22T11:02:27.439791+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-010",
+  "source": "rss",
+  "source_url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+  "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+  "summary": "A blogger shares their experience migrating a personal blog that ran continuously on Ubuntu 16.04 for 10 years to FreeBSD, documenting the process, challenges, and reasons for choosing FreeBSD as the new platform.",
+  "tech_stack": [
+    "Ubuntu",
+    "FreeBSD",
+    "Linux",
+    "Bash",
+    "Nginx"
+  ],
+  "problem_solved": "Migrates a long-running blog from an outdated Ubuntu 16.04 LTS system to FreeBSD with minimal downtime.",
+  "why_valuable": "Provides real-world experience and practical insights for anyone considering migrating from Linux to FreeBSD, with documented lessons learned from a decade-long deployment.",
+  "tags": [
+    "FreeBSD",
+    "Ubuntu",
+    "Linux",
+    "Migration",
+    "Sysadmin"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T10:58:45.830615+00:00",
+  "updated_at": "2026-05-22T11:02:27.439617+00:00",
+  "published_to": []
+}

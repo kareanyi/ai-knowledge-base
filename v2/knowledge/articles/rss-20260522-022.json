@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+  "title": "China&#8217;s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+  "summary": "China has used AI to map its entire renewable energy grid infrastructure, addressing the critical challenge of AI's massive electricity consumption straining power grids worldwide. In the US alone, PJM grid operator capacity market prices have risen tenfold in two years, driven largely by data-center growth.",
+  "tech_stack": [
+    "AI",
+    "Renewable Energy",
+    "Energy Grid Infrastructure",
+    "Data Centers",
+    "Power Management"
+  ],
+  "problem_solved": "AI's unprecedented electricity consumption is overwhelming power grids designed for older infrastructure, creating capacity crisis worldwide.",
+  "why_valuable": "China's AI-powered grid mapping demonstrates how artificial intelligence can optimize energy infrastructure to support its own growing power demands, offering a potential template for global energy management.",
+  "tags": [
+    "AI",
+    "Renewable Energy",
+    "Energy Grid",
+    "Sustainability",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-22T11:01:08.687069+00:00",
+  "updated_at": "2026-05-22T11:02:27.441660+00:00",
+  "published_to": []
+}

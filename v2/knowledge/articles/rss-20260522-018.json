@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260522-018",
+  "source": "rss",
+  "source_url": "https://freenet.org/",
+  "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+  "summary": "Freenet is a ground-up redesign of the classic peer-to-peer network (originally Hyphanet from the 2000s), now running with early applications like River (decentralized group chat), Delta (decentralized CMS), and Atlas (in-development search engine). Users are already building custom apps including games on this censorship-resistant platform.",
+  "tech_stack": [
+    "Peer-to-Peer Networking",
+    "Decentralized Architecture",
+    "Open Source"
+  ],
+  "problem_solved": "Enables privacy-focused, censorship-resistant decentralized applications without centralized servers.",
+  "why_valuable": "Provides true network decentralization with built-in anonymity, anti-censorship, and offline-first capabilities backed by 5 years of development.",
+  "tags": [
+    "P2P",
+    "Decentralization",
+    "Privacy",
+    "Open Source",
+    "Networking"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-22T11:00:19.091831+00:00",
+  "updated_at": "2026-05-22T11:02:27.440989+00:00",
+  "published_to": []
+}

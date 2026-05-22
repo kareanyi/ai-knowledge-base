@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-006",
+  "source": "rss",
+  "source_url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+  "title": "The memory shortage is causing a repricing of consumer electronics",
+  "summary": "This article examines how the escalating memory demands of AI applications are fundamentally changing the consumer electronics market, particularly impacting affordable smartphones. As AI workloads require increasingly powerful hardware with more memory, the economics of cheap devices are being disrupted, leading to a repricing of entry-level consumer electronics.",
+  "tech_stack": [
+    "AI/ML",
+    "Mobile Hardware",
+    "DRAM Memory",
+    "System-on-Chip",
+    "Consumer Electronics"
+  ],
+  "problem_solved": "Explains why affordable consumer electronics are disappearing as AI workloads demand more memory than budget devices can provide.",
+  "why_valuable": "Provides critical insight into how AI capabilities are reshaping hardware economics and potentially limiting technology access for price-sensitive consumers.",
+  "tags": [
+    "AI",
+    "Consumer Electronics",
+    "Memory",
+    "Smartphones",
+    "Hardware Economics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T10:58:24.185636+00:00",
+  "updated_at": "2026-05-22T11:02:27.431970+00:00",
+  "published_to": []
+}

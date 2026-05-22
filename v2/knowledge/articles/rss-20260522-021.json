@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260522-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+  "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+  "summary": "OpenAI is establishing its first Applied AI Lab outside the US in Singapore through a partnership with the Ministry of Digital Development and Information, announced at the ATx Summit with over S$300 million in backing. The initiative, called 'OpenAI for Singapore,' will focus on agentic AI development while Singapore's IMDA updates its AI governance framework.",
+  "tech_stack": [
+    "OpenAI Models",
+    "Agentic AI",
+    "AI Governance Framework"
+  ],
+  "problem_solved": "Expands AI infrastructure and expertise in the Asia-Pacific region while establishing updated regulatory frameworks for responsible AI deployment.",
+  "why_valuable": "This S$300M+ investment positions Singapore as a key AI hub in Southeast Asia and demonstrates growing cross-border collaboration between AI companies and governments.",
+  "tags": [
+    "OpenAI",
+    "Singapore",
+    "Agentic AI",
+    "Government Partnership",
+    "AI Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T11:01:02.406175+00:00",
+  "updated_at": "2026-05-22T11:02:27.441475+00:00",
+  "published_to": []
+}

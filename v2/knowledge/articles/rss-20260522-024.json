@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-024",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+  "title": "Nvidia&#8217;s Vera chip is the US$200 billion bet Jensen Huang doesn&#8217;t want you to overlook",
+  "summary": "Nvidia's Vera chip is highlighted as an often overlooked but strategically important $200 billion market opportunity, overshadowed by Nvidia's impressive Q1 earnings of $81.62 billion and Q2 guidance of $91 billion that exceeded analyst expectations.",
+  "tech_stack": [
+    "Semiconductor Manufacturing",
+    "GPU Architecture",
+    "AI Accelerators",
+    "Custom Silicon",
+    "Data Center Infrastructure"
+  ],
+  "problem_solved": "Addresses the growing demand for specialized AI computing chips beyond traditional GPUs, capturing new market segments in AI infrastructure.",
+  "why_valuable": "Represents Nvidia's strategic diversification into a $200 billion market opportunity beyond its dominant GPU business, positioning the company for continued AI dominance.",
+  "tags": [
+    "Nvidia",
+    "AI Chips",
+    "Semiconductor",
+    "Vera",
+    "Earnings"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T11:01:23.099516+00:00",
+  "updated_at": "2026-05-22T11:02:27.441984+00:00",
+  "published_to": []
+}

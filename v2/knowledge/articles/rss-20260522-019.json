@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-019",
+  "source": "rss",
+  "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+  "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+  "summary": "A detailed walkthrough of running Google's 31B parameter Gemma4 model locally on a 2021 MacBook with 50GB of swap memory to index and search through a year's worth of video content, demonstrating the feasibility of running large AI models on consumer hardware.",
+  "tech_stack": [
+    "Gemma4-31B",
+    "Apple Silicon",
+    "macOS",
+    "LLM Inference",
+    "Video Processing"
+  ],
+  "problem_solved": "Enables local video content indexing and semantic search without relying on cloud-based AI services or expensive dedicated hardware.",
+  "why_valuable": "Demonstrates practical democratization of AI by running a 31B parameter model on everyday consumer hardware, saving costs and preserving privacy while achieving useful results.",
+  "tags": [
+    "Local AI",
+    "Gemma",
+    "LLM",
+    "Video Indexing",
+    "Apple Silicon"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-22T11:00:40.283290+00:00",
+  "updated_at": "2026-05-22T11:02:27.441150+00:00",
+  "published_to": []
+}

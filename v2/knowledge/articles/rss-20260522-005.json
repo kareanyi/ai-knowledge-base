@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260522-005",
+  "source": "rss",
+  "source_url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+  "title": "Cleve Moler has died",
+  "summary": "This is a news announcement about the death of Cleve Moler, founder of MathWorks and creator of MATLAB, one of the most important numerical computing platforms in scientific and engineering fields.",
+  "tech_stack": [
+    "MATLAB",
+    "Numerical Computing",
+    "MathWorks",
+    "Mathematical Software",
+    "Scientific Computing"
+  ],
+  "problem_solved": "This marks the passing of a computing pioneer whose MATLAB revolutionized numerical computation and became foundational to engineering and scientific research worldwide.",
+  "why_valuable": "Cleve Moler's contributions fundamentally changed how engineers and scientists perform numerical analysis, making complex mathematical computations accessible to millions.",
+  "tags": [
+    "MATLAB",
+    "Obituary",
+    "MathWorks",
+    "Numerical Computing",
+    "Computing History"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-22T10:58:05.658345+00:00",
+  "updated_at": "2026-05-22T11:02:27.431788+00:00",
+  "published_to": []
+}
