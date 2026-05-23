@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260523-010",
+  "source": "rss",
+  "source_url": "https://www.kanbots.dev/",
+  "title": "Open source Kanban desktop app that runs parallel agents on every card",
+  "summary": "KanBots is an open-source Kanban desktop application that leverages AI agents to automate and enhance task management. Each card in the Kanban board can run parallel AI agents to handle various sub-tasks, enabling intelligent automation of workflow processes.",
+  "tech_stack": [
+    "Electron",
+    "Node.js",
+    "AI/LLM Integration",
+    "JavaScript"
+  ],
+  "problem_solved": "Automates repetitive task management workflows by running AI agents on each Kanban card to handle sub-tasks in parallel.",
+  "why_valuable": "Combines visual project management with AI automation, allowing users to delegate complex multi-step workflows to intelligent agents while maintaining a familiar Kanban interface.",
+  "tags": [
+    "AI Agents",
+    "Kanban",
+    "Open Source",
+    "Desktop App",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-23T10:02:15.873294+00:00",
+  "updated_at": "2026-05-23T10:04:07.658995+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260523-018",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+  "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+  "summary": "Circle Medical, a Y Combinator-backed healthcare startup (S15 batch), is hiring a Mobile Engineer specializing in Android development to build their mobile health application.",
+  "tech_stack": [
+    "Android",
+    "Kotlin",
+    "Java",
+    "Mobile Development"
+  ],
+  "problem_solved": "This is a job posting rather than a technical article, so it does not solve a technical problem - it represents a career opportunity in mobile healthcare development.",
+  "why_valuable": "Provides insight into the technical stack and requirements for Android engineers at a YC-backed digital health company.",
+  "tags": [
+    "Job-Posting",
+    "Android",
+    "Healthcare",
+    "Y Combinator",
+    "Mobile"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-05-23T10:03:29.699233+00:00",
+  "updated_at": "2026-05-23T10:04:07.660916+00:00",
+  "published_to": []
+}

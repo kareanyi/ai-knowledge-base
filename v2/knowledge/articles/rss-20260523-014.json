@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260523-014",
+  "source": "rss",
+  "source_url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+  "title": "CISA tries to contain data leak",
+  "summary": "Krebs on Security reports on CISA attempting to contain a significant data leak incident, with members of Congress demanding official explanations and accountability regarding the breach.",
+  "tech_stack": [
+    "Cybersecurity",
+    "Government IT Security",
+    "Incident Response"
+  ],
+  "problem_solved": "Reports on CISA's efforts to contain and respond to a data leak while addressing Congressional inquiries about the incident.",
+  "why_valuable": "Highlights the importance of government cybersecurity accountability and the need for transparency when sensitive data is compromised.",
+  "tags": [
+    "Cybersecurity",
+    "CISA",
+    "Data Breach",
+    "Government",
+    "Incident Response"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-23T10:02:44.463840+00:00",
+  "updated_at": "2026-05-23T10:04:07.659997+00:00",
+  "published_to": []
+}

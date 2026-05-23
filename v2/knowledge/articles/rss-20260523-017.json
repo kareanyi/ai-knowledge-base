@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260523-017",
+  "source": "rss",
+  "source_url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+  "title": "I’m writing again",
+  "summary": "Technology columnist Robert Cringely announces his return to writing after a hiatus, sharing his perspectives on technology trends, predictions, and industry observations that have made him a respected voice in tech journalism for decades.",
+  "tech_stack": [
+    "Blogging",
+    "WordPress",
+    "Personal Publishing"
+  ],
+  "problem_solved": "Communicating technology insights and predictions to a broad audience interested in tech industry trends",
+  "why_valuable": "Cringely's track record of accurate tech predictions and distinctive writing style provides valuable industry insights",
+  "tags": [
+    "Technology",
+    "Blogging",
+    "Personal Writing",
+    "Industry Analysis",
+    "Tech Journalism"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-23T10:03:17.949250+00:00",
+  "updated_at": "2026-05-23T10:04:07.660670+00:00",
+  "published_to": []
+}

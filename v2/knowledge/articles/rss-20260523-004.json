@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260523-004",
+  "source": "rss",
+  "source_url": "https://github.com/amatsuda/rubish",
+  "title": "Rubish: A Unix shell written in pure Ruby",
+  "summary": "Rubish is a Unix shell implementation written entirely in pure Ruby, created by Ruby core contributor amatsuda. It allows developers to use Ruby's syntax for shell operations, bringing Ruby's expressive power to command-line interactions.",
+  "tech_stack": [
+    "Ruby"
+  ],
+  "problem_solved": "Provides an alternative Unix shell that leverages Ruby's readable and expressive syntax instead of traditional shell scripting.",
+  "why_valuable": "Demonstrates Ruby's capability for system-level tooling and offers Ruby developers a familiar syntax for everyday shell tasks.",
+  "tags": [
+    "Ruby",
+    "Unix",
+    "Shell",
+    "CLI",
+    "Programming Languages"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-23T10:01:15.679356+00:00",
+  "updated_at": "2026-05-23T10:04:07.645579+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-009",
+  "source": "rss",
+  "source_url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+  "title": "A blueprint for formal verification of Apple corecrypto",
+  "summary": "Apple documents their formal verification methodology for the corecrypto cryptographic library, detailing how they use mathematical proofs and formal methods to verify the correctness of their cryptographic implementations, including the use of Fiat-Crypto for automatic generation of cryptographic code from formal specifications.",
+  "tech_stack": [
+    "Formal Verification",
+    "Coq",
+    "Fiat-Crypto",
+    "C",
+    "Mathematical Proofs"
+  ],
+  "problem_solved": "Ensures cryptographic implementations in Apple's corecrypto are mathematically proven to be correct rather than relying solely on testing and auditing.",
+  "why_valuable": "Provides transparency into Apple's security engineering practices and demonstrates how formal methods can catch subtle bugs in cryptographic code that traditional testing might miss.",
+  "tags": [
+    "Cryptography",
+    "Formal Verification",
+    "Security",
+    "Apple",
+    "Open Source"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-23T10:02:09.054106+00:00",
+  "updated_at": "2026-05-23T10:04:07.658687+00:00",
+  "published_to": []
+}

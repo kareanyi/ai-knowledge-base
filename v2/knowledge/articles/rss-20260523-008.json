@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-008",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/glasswing-initial-update",
+  "title": "Project Glasswing: An Initial Update",
+  "summary": "Project Glasswing是Anthropic的一个研究项目更新，该项目似乎涉及AI系统的安全性或对齐方面的研究。作为Anthropic的官方研究更新，它提供了项目的初步进展和里程碑信息。",
+  "tech_stack": [
+    "AI Research",
+    "Machine Learning",
+    "Safety Engineering",
+    "Python",
+    "Reinforcement Learning"
+  ],
+  "problem_solved": "解决AI系统安全性研究中的关键挑战，提供更可靠的AI开发方法",
+  "why_valuable": "来自Anthropic这样领先AI公司的研究更新，对AI安全领域具有重要参考价值，能够帮助理解前沿AI技术发展方向",
+  "tags": [
+    "Anthropic",
+    "AI Safety",
+    "Research",
+    "Machine Learning",
+    "Alignment"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-23T10:01:56.102277+00:00",
+  "updated_at": "2026-05-23T10:04:07.658392+00:00",
+  "published_to": []
+}

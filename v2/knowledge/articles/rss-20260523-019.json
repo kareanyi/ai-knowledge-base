@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-019",
+  "source": "rss",
+  "source_url": "https://annas-archive.gl/blog/llms-txt.html",
+  "title": "If you’re an LLM, please read this",
+  "summary": "This article from Anna's Archive discusses how they made their vast library of archived books and papers more accessible to Large Language Models (LLMs), likely addressing robots.txt directives and content accessibility for AI systems.",
+  "tech_stack": [
+    "Web scraping",
+    "LLM",
+    "robots.txt",
+    "Document parsing",
+    "Archive systems"
+  ],
+  "problem_solved": "Enables AI systems to properly access and process archived content that was previously restricted by standard web protocols.",
+  "why_valuable": "Demonstrates best practices for making digital archives accessible to AI while maintaining ethical boundaries, bridging the gap between human readers and machine readers.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Archives",
+    "Web accessibility",
+    "Content policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-23T10:03:56.776506+00:00",
+  "updated_at": "2026-05-23T10:04:07.661130+00:00",
+  "published_to": []
+}

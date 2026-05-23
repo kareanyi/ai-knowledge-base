@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260523-003",
+  "source": "rss",
+  "source_url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+  "title": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
+  "summary": "A Spanish court has declined to fine NordVPN for non-compliance with LaLiga's piracy blocking order, establishing an important precedent regarding VPN provider liability in copyright enforcement cases.",
+  "tech_stack": [
+    "VPN",
+    "DNS",
+    "Encryption"
+  ],
+  "problem_solved": "Clarifies the legal responsibility of VPN providers when ordered to block piracy-related domains.",
+  "why_valuable": "Sets a precedent protecting VPN services from being held liable for user activities, reinforcing online privacy rights while balancing copyright enforcement.",
+  "tags": [
+    "VPN",
+    "Privacy",
+    "Copyright",
+    "Legal",
+    "Streaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-23T10:01:06.622371+00:00",
+  "updated_at": "2026-05-23T10:04:07.645324+00:00",
+  "published_to": []
+}

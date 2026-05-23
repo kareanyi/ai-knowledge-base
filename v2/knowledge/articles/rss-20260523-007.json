@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-007",
+  "source": "rss",
+  "source_url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+  "title": "Shipping a laptop to a refugee camp in Uganda",
+  "summary": "A personal narrative about shipping a laptop to a refugee camp in Uganda, detailing the logistics, challenges, and impact of providing technology access to displaced people. The article explores personal initiative in bridging the digital divide for humanitarian purposes.",
+  "tech_stack": [
+    "Hardware",
+    "Laptop",
+    "Linux",
+    "Cloud Services",
+    "Open Source"
+  ],
+  "problem_solved": "Provides digital access and educational opportunities to refugees who lack technology infrastructure in Uganda.",
+  "why_valuable": "Demonstrates how individual tech contributions can create meaningful impact in underserved communities while documenting practical lessons for similar humanitarian tech efforts.",
+  "tags": [
+    "Humanitarian Tech",
+    "Refugees",
+    "Hardware Donation",
+    "Africa",
+    "Digital Inclusion"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-23T10:01:43.702754+00:00",
+  "updated_at": "2026-05-23T10:04:07.646359+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-005",
+  "source": "rss",
+  "source_url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+  "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+  "summary": "PCMag reports that Kash Patel's Based Apparel merchandise website was discovered hosting a 'ClickFix' attack, a social engineering technique that mimics browser error dialogs to trick visitors into downloading and executing malware on their systems.",
+  "tech_stack": [
+    "ClickFix attack",
+    "Social Engineering",
+    "Malware Distribution",
+    "Browser Exploitation",
+    "Phishing"
+  ],
+  "problem_solved": "Documents and exposes a malware distribution campaign targeting visitors through a legitimate-looking e-commerce site.",
+  "why_valuable": "Alerts the public about evolving social engineering threats and raises awareness about the risks of trusting websites associated with public figures.",
+  "tags": [
+    "cybersecurity",
+    "malware",
+    "social-engineering",
+    "news",
+    "threat-intelligence"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-23T10:01:26.607922+00:00",
+  "updated_at": "2026-05-23T10:04:07.645849+00:00",
+  "published_to": []
+}

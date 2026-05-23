@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-012",
+  "source": "rss",
+  "source_url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+  "title": "Bun support is now limited and deprecated",
+  "summary": "yt-dlp项目宣布限制并弃用Bun JavaScript运行时的支持，原因是维护成本过高且Bun用户群体相对较小。这是开源项目在资源有限情况下做出务实取舍的典型案例，引发了社区关于多运行时支持策略的讨论。",
+  "tech_stack": [
+    "Bun",
+    "JavaScript",
+    "yt-dlp",
+    "Python",
+    "Node.js"
+  ],
+  "problem_solved": "解决开源项目维护多运行时支持带来的复杂性和资源消耗问题",
+  "why_valuable": "展示了开源项目在维护成本与用户覆盖之间的权衡决策过程，具有参考价值",
+  "tags": [
+    "Bun",
+    "OpenSource",
+    "JavaScript",
+    "yt-dlp",
+    "Deprecation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-23T10:02:28.165315+00:00",
+  "updated_at": "2026-05-23T10:04:07.659523+00:00",
+  "published_to": []
+}

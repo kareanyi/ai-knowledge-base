@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-001",
+  "source": "rss",
+  "source_url": "https://xcancel.com/josefprusa/status/2054602354851254330",
+  "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+  "summary": "PrusaSlicer creator Josef Prusa accuses BambuStudio of violating the AGPL license since their fork of the open-source 3D printing slicer software. This appears to be a licensing compliance dispute in the 3D printing community.",
+  "tech_stack": [
+    "AGPL License",
+    "PrusaSlicer",
+    "BambuStudio",
+    "3D Printing Slicer",
+    "Open Source"
+  ],
+  "problem_solved": "Addresses potential open-source license violations when companies fork and modify AGPL-licensed software without proper compliance.",
+  "why_valuable": "Highlights the importance of understanding and respecting open-source license obligations, especially regarding copyleft licenses like AGPL.",
+  "tags": [
+    "open-source",
+    "license-compliance",
+    "AGPL",
+    "3D-printing",
+    "legal"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-23T10:00:53.564312+00:00",
+  "updated_at": "2026-05-23T10:04:07.644548+00:00",
+  "published_to": []
+}

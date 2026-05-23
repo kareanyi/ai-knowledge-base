@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-016",
+  "source": "rss",
+  "source_url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+  "title": "A Forth-inspired language for writing websites",
+  "summary": "A project introducing a Forth-inspired concatenative programming language designed specifically for building websites, combining Forth's stack-based paradigm with web development workflows. The language likely offers a unique approach to web page creation using Forth's minimalist, extensible syntax.",
+  "tech_stack": [
+    "Forth",
+    "Web Technologies",
+    "Custom Language",
+    "HTML",
+    "Stack-based Programming"
+  ],
+  "problem_solved": "Provides an alternative, more elegant approach to writing websites using Forth's concatenative programming model instead of traditional HTML/CSS/JS workflows.",
+  "why_valuable": "Forth-inspired languages offer extreme simplicity, extensibility, and direct control over computation, making web development potentially more expressive and minimal.",
+  "tags": [
+    "Forth",
+    "Web Development",
+    "Programming Languages",
+    "Stack-based",
+    "Concatenative"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-23T10:03:11.908570+00:00",
+  "updated_at": "2026-05-23T10:04:07.660453+00:00",
+  "published_to": []
+}

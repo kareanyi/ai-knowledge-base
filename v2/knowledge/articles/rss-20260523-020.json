@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260523-020",
+  "source": "rss",
+  "source_url": "https://deno.com/blog/v2.8",
+  "title": "Deno 2.8",
+  "summary": "Deno 2.8 是由 Node.js 作者 Ryan Dahl 创建的 JavaScript/TypeScript 运行时的版本更新，引入新特性和性能改进，继续完善 Deno 作为现代后端运行时的生态系统。",
+  "tech_stack": [
+    "Deno",
+    "JavaScript",
+    "TypeScript",
+    "Rust",
+    "V8"
+  ],
+  "problem_solved": "为 JavaScript/TypeScript 开发者提供一个更安全、更现代的运行时环境，简化后端开发流程。",
+  "why_valuable": "Deno 2.8 的发布继续推动 JavaScript 运行时生态的创新，提供原生 TypeScript 支持、内置工具链和增强的安全性。",
+  "tags": [
+    "JavaScript",
+    "TypeScript",
+    "Runtime",
+    "Deno",
+    "Backend"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-23T10:04:06.683306+00:00",
+  "updated_at": "2026-05-23T10:04:07.661355+00:00",
+  "published_to": []
+}
