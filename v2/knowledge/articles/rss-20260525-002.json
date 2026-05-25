@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260525-002",
+  "source": "rss",
+  "source_url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+  "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+  "summary": "IBM has spun off the first pure-play quantum chip foundry as part of a $2 billion CHIPS Act investment, focusing on 300mm superconducting silicon wafer fabrication for quantum computing hardware. This move represents a significant shift toward dedicated quantum chip manufacturing infrastructure separate from traditional semiconductor production.",
+  "tech_stack": [
+    "Quantum Computing",
+    "Superconducting Qubits",
+    "300mm Silicon Fabrication",
+    "CHIPS Act Funding",
+    "Semiconductor Manufacturing"
+  ],
+  "problem_solved": "Addresses the lack of dedicated manufacturing infrastructure for quantum computing chips, which require specialized processes different from traditional silicon fabrication.",
+  "why_valuable": "Creates specialized quantum chip production capability essential for scaling quantum computing from laboratory research to commercial viability.",
+  "tags": [
+    "Quantum Computing",
+    "Semiconductor",
+    "IBM",
+    "Chip Manufacturing",
+    "CHIPS Act"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-25T12:00:02.955848+00:00",
+  "updated_at": "2026-05-25T12:04:16.697043+00:00",
+  "published_to": []
+}

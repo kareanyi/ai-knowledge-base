@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260525-006",
+  "source": "rss",
+  "source_url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+  "title": "Defeating Git Rigour Fatigue with Jujutsu",
+  "summary": "This article explores Jujutsu (jj), a Rust-based version control system designed as a modern alternative to Git that simplifies distributed version control workflows and reduces the cognitive overhead of managing complex git histories.",
+  "tech_stack": [
+    "Jujutsu",
+    "Git",
+    "Rust",
+    "CLI",
+    "Distributed VCS"
+  ],
+  "problem_solved": "Addresses Git's steep learning curve and complexity fatigue that makes version control unintuitive for developers.",
+  "why_valuable": "Jujutsu provides a cleaner, more predictable VCS experience with first-class features like auto-rebase and virtual branches that Git lacks, making daily version control tasks less error-prone.",
+  "tags": [
+    "VCS",
+    "Git",
+    "Rust",
+    "Developer-Tools",
+    "CLI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-25T12:00:27.258104+00:00",
+  "updated_at": "2026-05-25T12:04:16.697712+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260525-018",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+  "title": "Scammers are abusing an internal Microsoft account to send spam links",
+  "summary": "Security researchers discovered that scammers are exploiting an internal Microsoft account to send spam emails containing malicious links, bypassing traditional email filters by leveraging the trusted Microsoft domain infrastructure.",
+  "tech_stack": [
+    "Email Security",
+    "Microsoft Infrastructure",
+    "SPF/DKIM",
+    "Phishing Detection",
+    "Domain Reputation Systems"
+  ],
+  "problem_solved": "Reports on a new email spoofing technique where attackers abuse legitimate Microsoft infrastructure to distribute spam and phishing campaigns under the guise of trusted Microsoft communications.",
+  "why_valuable": "Raises awareness about advanced email-based attacks that exploit trusted cloud service providers' own infrastructure, helping organizations better understand emerging threats in their email security posture.",
+  "tags": [
+    "Cybersecurity",
+    "Microsoft",
+    "Email Security",
+    "Phishing",
+    "Spam"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-25T12:03:51.540350+00:00",
+  "updated_at": "2026-05-25T12:04:16.707004+00:00",
+  "published_to": []
+}

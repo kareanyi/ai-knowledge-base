@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260525-014",
+  "source": "rss",
+  "source_url": "https://susam.net/childhood-computing.html",
+  "title": "Childhood Computing",
+  "summary": "A nostalgic personal essay recounting the author's early computing experiences and journey into programming during childhood, shared on Hacker News where it garnered significant engagement with 218 points and 102 comments.",
+  "tech_stack": [
+    "BASIC",
+    "Early Computer Systems",
+    "Hacker Culture"
+  ],
+  "problem_solved": "Sharing personal computing journey and nostalgia for early programming experiences with the tech community",
+  "why_valuable": "Personal computing histories provide insight into how programmers develop their skills and passion, inspiring future generations of developers",
+  "tags": [
+    "computing-history",
+    "nostalgia",
+    "personal-essay",
+    "hacker-culture",
+    "programming-journey"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-25T12:02:25.641301+00:00",
+  "updated_at": "2026-05-25T12:04:16.706264+00:00",
+  "published_to": []
+}

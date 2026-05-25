@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260525-011",
+  "source": "rss",
+  "source_url": "https://audiomass.co/?multitrack=1",
+  "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+  "summary": "Audiomass is a free, open-source multitrack audio editor that runs entirely in the web browser, eliminating the need for desktop software installation. The project gained significant traction on Hacker News with 391 points and 87 comments, positioning itself as a accessible alternative for audio editing needs.",
+  "tech_stack": [
+    "Web Audio API",
+    "WebAssembly",
+    "JavaScript",
+    "Web Audio Worklets",
+    "TypeScript"
+  ],
+  "problem_solved": "Provides a free, browser-based multitrack audio editing solution without requiring downloads, installations, or expensive software licenses.",
+  "why_valuable": "Democratizes professional audio editing by making multitrack capabilities accessible directly in the browser with zero cost and no installation barrier.",
+  "tags": [
+    "Audio Editing",
+    "Web Audio",
+    "Open Source",
+    "Multitrack",
+    "Browser-based"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-25T12:01:25.463123+00:00",
+  "updated_at": "2026-05-25T12:04:16.705760+00:00",
+  "published_to": []
+}

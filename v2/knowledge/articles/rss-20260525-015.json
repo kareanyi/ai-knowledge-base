@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260525-015",
+  "source": "rss",
+  "source_url": "https://mastering.dyalog.com/README.html",
+  "title": "Mastering Dyalog APL",
+  "summary": "Mastering Dyalog APL is a comprehensive online book providing in-depth guidance on learning Dyalog APL, a powerful array-oriented programming language known for its concise syntax and mathematical elegance. The resource covers fundamentals to advanced topics with practical examples and exercises.",
+  "tech_stack": [
+    "Dyalog APL",
+    "Array Programming",
+    "Functional Programming"
+  ],
+  "problem_solved": "Provides structured learning resources for developers wanting to master the unique APL programming language and its distinctive array-based paradigm.",
+  "why_valuable": "It offers a complete, freely accessible guide to mastering APL—a language that enables solving complex problems with remarkably compact code, making it invaluable for quantitative finance, scientific computing, and data manipulation tasks.",
+  "tags": [
+    "APL",
+    "Array Programming",
+    "Dyalog",
+    "Learning Resource",
+    "Functional Programming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-25T12:02:40.599118+00:00",
+  "updated_at": "2026-05-25T12:04:16.706462+00:00",
+  "published_to": []
+}

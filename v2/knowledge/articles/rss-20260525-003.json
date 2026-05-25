@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260525-003",
+  "source": "rss",
+  "source_url": "https://www.tinyvolt.com/geomatic",
+  "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+  "summary": "Geomatic is a command-driven geometry studio that uses autodiff (automatic differentiation) to enable interactive geometric construction through text commands like `\\line a b`. It combines broadcasting semantics similar to NumPy/PyTorch with backpropagation, gradient descent, and vector field visualization capabilities.",
+  "tech_stack": [
+    "Autodiff",
+    "Broadcasting Semantics",
+    "NumPy/PyTorch-style Operations",
+    "Gradient Descent",
+    "Vector Fields"
+  ],
+  "problem_solved": "Enables geometric construction and numerical optimization visualization through a simple command-driven interface with built-in automatic differentiation.",
+  "why_valuable": "Bridges the gap between intuitive command-line geometry creation and powerful autodiff-based numerical analysis, allowing users to visualize optimization processes like gradient descent on geometric constructions.",
+  "tags": [
+    "geometry",
+    "autodiff",
+    "visualization",
+    "command-line",
+    "mathematical-tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-25T12:00:07.422387+00:00",
+  "updated_at": "2026-05-25T12:04:16.697215+00:00",
+  "published_to": []
+}

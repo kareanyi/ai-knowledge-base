@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260525-007",
+  "source": "rss",
+  "source_url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+  "title": "Migrating from Go to Rust",
+  "summary": "A comprehensive migration guide helping developers transition from Go to Rust, covering key differences in language features, tooling, and best practices. The guide addresses the paradigm shifts required when moving between these two popular systems programming languages.",
+  "tech_stack": [
+    "Go",
+    "Rust",
+    "Cargo",
+    "Go Modules",
+    "Systems Programming"
+  ],
+  "problem_solved": "Helps developers understand the practical differences and migration strategies when moving from Go to Rust, reducing the learning curve for the transition.",
+  "why_valuable": "Provides a structured, practical approach to migrating between Go and Rust, addressing real-world concerns like error handling, concurrency models, and tooling differences that developers face during the transition.",
+  "tags": [
+    "Go",
+    "Rust",
+    "Migration",
+    "Systems Programming",
+    "Programming Languages"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-25T12:00:31.467008+00:00",
+  "updated_at": "2026-05-25T12:04:16.697863+00:00",
+  "published_to": []
+}

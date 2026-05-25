@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260525-019",
+  "source": "rss",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+  "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+  "summary": "A randomized controlled trial published in the BMJ testing whether regular didgeridoo playing can reduce symptoms of obstructive sleep apnea. The study found that participants who practiced didgeridoo showed significant improvements in daytime sleepiness and sleep disturbance compared to the control group, suggesting that wind instrument training may strengthen upper airway muscles.",
+  "tech_stack": [
+    "RCT methodology",
+    "Polysomnography",
+    "Epworth Sleepiness Scale",
+    "Statistical analysis"
+  ],
+  "problem_solved": "Provides a non-invasive, drug-free alternative treatment option for obstructive sleep apnea patients who struggle with CPAP compliance.",
+  "why_valuable": "Demonstrates that a musical instrument can serve as effective therapy for a common sleep disorder, offering patients a more enjoyable treatment alternative with proven clinical benefits.",
+  "tags": [
+    "Medical research",
+    "Sleep apnea",
+    "Alternative therapy",
+    "Respiratory health",
+    "Clinical trial"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-25T12:04:16.043718+00:00",
+  "updated_at": "2026-05-25T12:04:16.707176+00:00",
+  "published_to": []
+}

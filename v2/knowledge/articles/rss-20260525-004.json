@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260525-004",
+  "source": "rss",
+  "source_url": "https://seriot.ch/computation/jira.html",
+  "title": "Jira Is Turing-Complete",
+  "summary": "A research article demonstrating that Jira's workflow automation system is Turing-complete, meaning it has the theoretical computational power equivalent to any computer. The author likely shows how Jira's workflow rules, conditions, and actions can simulate basic computational operations like those in a Turing machine.",
+  "tech_stack": [
+    "Jira",
+    "Workflow Automation",
+    "Atlassian Platform"
+  ],
+  "problem_solved": "Proves that Jira, typically seen as a simple project management tool, has full computational capabilities comparable to a universal computer.",
+  "why_valuable": "This demonstration is both academically interesting and practically significant—it reveals hidden computational complexity in enterprise tools and could inform discussions about automation system security and limits.",
+  "tags": [
+    "computation",
+    "turing-complete",
+    "automation",
+    "research",
+    "formal-verification"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-25T12:00:16.313506+00:00",
+  "updated_at": "2026-05-25T12:04:16.697377+00:00",
+  "published_to": []
+}

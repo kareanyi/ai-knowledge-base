@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260525-012",
+  "source": "rss",
+  "source_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+  "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+  "summary": "DeepSeek Reasonix is a native coding agent tool that leverages high caching mechanisms to minimize API costs while providing AI-powered coding assistance, developed by DeepSeek as part of their expanded AI product lineup including the V4 Pro model with permanent price reductions.",
+  "tech_stack": [
+    "DeepSeek AI Models",
+    "LLM-based Coding Agent",
+    "API Caching System",
+    "DeepSeek V4 Pro"
+  ],
+  "problem_solved": "Reduces the high operational costs associated with AI coding assistants by implementing intelligent caching to avoid redundant API calls.",
+  "why_valuable": "Provides developers with affordable AI coding assistance without sacrificing performance, making advanced AI tools accessible to cost-conscious teams and individuals.",
+  "tags": [
+    "AI Coding",
+    "Cost Efficiency",
+    "Caching",
+    "Developer Tools",
+    "DeepSeek"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-25T12:01:45.166506+00:00",
+  "updated_at": "2026-05-25T12:04:16.705916+00:00",
+  "published_to": []
+}

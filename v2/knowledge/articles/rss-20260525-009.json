@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260525-009",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+  "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+  "summary": "Flick is a Y Combinator F25 startup building 'Figma for AI Filmmaking' - a collaborative web-based tool for AI-powered video creation. They are actively hiring a Senior Front End Engineer to help build this creative platform.",
+  "tech_stack": [
+    "Frontend Engineering",
+    "Web Development",
+    "Collaborative Tools",
+    "AI/ML Integration",
+    "JavaScript/TypeScript"
+  ],
+  "problem_solved": "Democratizes AI filmmaking by providing collaborative tools that make AI-powered video creation as accessible as traditional design tools like Figma.",
+  "why_valuable": "As the creator economy and AI video generation market rapidly expands, tools that simplify and democratize AI-powered content creation have significant market potential and societal impact.",
+  "tags": [
+    "AI Filmmaking",
+    "Frontend Engineering",
+    "Y Combinator",
+    "Startup",
+    "Creative Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-25T12:01:12.873129+00:00",
+  "updated_at": "2026-05-25T12:04:16.705426+00:00",
+  "published_to": []
+}

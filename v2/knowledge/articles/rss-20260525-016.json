@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260525-016",
+  "source": "rss",
+  "source_url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+  "title": "Greg Brockman interview [video]",
+  "summary": "An in-depth video interview with Greg Brockman, President and Chairman of OpenAI, on The Knowledge Project podcast. The conversation explores OpenAI's founding story, the challenges of building AI systems, lessons learned from developing transformative technology, and thoughts on AI's future impact on society.",
+  "tech_stack": [
+    "OpenAI",
+    "GPT Models",
+    "AI/LLM",
+    "Podcast/Audio Technology"
+  ],
+  "problem_solved": "Provides rare firsthand insights from a central figure in AI development about building and scaling transformative technology companies.",
+  "why_valuable": "Offers unfiltered access to the strategic thinking, decision-making frameworks, and lessons from one of the key architects of modern AI, enabling listeners to understand both technical and organizational challenges of groundbreaking AI development.",
+  "tags": [
+    "AI",
+    "OpenAI",
+    "Leadership",
+    "Machine Learning",
+    "Technology"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-05-25T12:03:03.537330+00:00",
+  "updated_at": "2026-05-25T12:04:16.706655+00:00",
+  "published_to": []
+}
