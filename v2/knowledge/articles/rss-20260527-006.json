@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260527-006",
+  "source": "rss",
+  "source_url": "https://github.com/craigmccaskill/posthorn",
+  "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+  "summary": "Posthorn is a self-hosted email gateway that solves the common problem of VPS providers blocking SMTP ports. It provides a single Docker container or Go binary that acts as a relay between self-hosted applications and transactional email providers, eliminating the need to configure complex Postfix setups.",
+  "tech_stack": [
+    "Go",
+    "Docker",
+    "SMTP"
+  ],
+  "problem_solved": "VPS providers like DigitalOcean blocking default SMTP ports prevents self-hosted applications from sending transactional emails without complex configuration.",
+  "why_valuable": "It provides a simple, one-time setup solution that replaces complex Postfix relay configurations with a single container deployment.",
+  "tags": [
+    "self-hosted",
+    "email",
+    "docker",
+    "devops",
+    "SMTP"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-27T11:46:15.961310+00:00",
+  "updated_at": "2026-05-27T11:50:29.579509+00:00",
+  "published_to": []
+}

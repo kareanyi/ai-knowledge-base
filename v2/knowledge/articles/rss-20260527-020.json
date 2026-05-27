@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260527-020",
+  "source": "rss",
+  "source_url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+  "title": "What Is a Direct Attach Copper (DAC) Cable",
+  "summary": "This article explains Direct Attach Copper (DAC) cables, which are copper-based cabling solutions used for short-distance high-speed network connections in data centers, typically for 10Gbps to 100Gbps applications between switches and servers.",
+  "tech_stack": [
+    "Networking Hardware",
+    "SFP+",
+    "QSFP",
+    "Copper Cabling",
+    "Data Center Infrastructure"
+  ],
+  "problem_solved": "Provides cost-effective, low-latency connectivity solutions for short-distance data center network connections as an alternative to expensive fiber optic cables.",
+  "why_valuable": "DAC cables offer significant cost savings over fiber optics for short-range connections while maintaining comparable bandwidth performance, making them ideal for data center rack-to-rack or switch-to-server connections.",
+  "tags": [
+    "DAC Cable",
+    "Networking",
+    "Data Center",
+    "Hardware",
+    "Cabling"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-27T11:48:45.506079+00:00",
+  "updated_at": "2026-05-27T11:50:29.588959+00:00",
+  "published_to": []
+}

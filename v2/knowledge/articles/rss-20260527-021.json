@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260527-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+  "title": "Autonomous AI systems test governance in physical environments",
+  "summary": "This article discusses how autonomous AI systems are expanding from digital environments into physical spaces like warehouses, delivery networks, and public areas, creating a governance gap as existing AI regulations primarily address online harms rather than physical-world deployments.",
+  "tech_stack": [
+    "Autonomous AI",
+    "Embodied AI",
+    "Robotics Systems",
+    "AI Governance Frameworks",
+    "Physical AI"
+  ],
+  "problem_solved": "Addresses the regulatory mismatch between current AI governance frameworks designed for digital/online contexts and the emerging need for oversight of AI systems operating in physical environments.",
+  "why_valuable": "Highlights a critical and timely policy gap as AI systems increasingly interact with the physical world, where failures could cause tangible harm to people and property rather than just information-related issues.",
+  "tags": [
+    "AI Governance",
+    "Autonomous Systems",
+    "Robotics",
+    "Policy Regulation",
+    "Embodied AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-27T11:49:01.798635+00:00",
+  "updated_at": "2026-05-27T11:50:29.589133+00:00",
+  "published_to": []
+}

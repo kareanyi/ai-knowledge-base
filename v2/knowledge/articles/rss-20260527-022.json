@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260527-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/",
+  "title": "Proving the case on day two at TechEx North America",
+  "summary": "Conference coverage from TechEx North America day two focusing on the challenge of moving AI pilots from proof-of-concept to production systems. The event addressed the 'AI graveyard' phenomenon where many AI projects fail to become durable enterprise systems.",
+  "tech_stack": [
+    "AI",
+    "Big Data"
+  ],
+  "problem_solved": "Addresses the challenge of proving AI implementation value and avoiding the common failure of AI pilots becoming production systems.",
+  "why_valuable": "Provides insights into enterprise AI adoption challenges and strategies for achieving measurable ROI in AI implementations.",
+  "tags": [
+    "AI",
+    "Enterprise",
+    "Conference",
+    "Implementation",
+    "ROI"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-05-27T11:49:48.472607+00:00",
+  "updated_at": "2026-05-27T11:50:29.589334+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260527-008",
+  "source": "rss",
+  "source_url": "https://codeberg.org/lindenii/tunecat/",
+  "title": "Tunecat: Simple Internet Radio",
+  "summary": "Tunecat is an open-source simple internet radio application hosted on Codeberg, providing a lightweight way to stream internet radio stations. The project has gained modest attention on Hacker News with 54 points and appears to be part of the Rust ecosystem based on naming conventions.",
+  "tech_stack": [
+    "Rust",
+    "Open Source"
+  ],
+  "problem_solved": "Provides a simple, lightweight solution for listening to internet radio streams without bloated features.",
+  "why_valuable": "As an open-source project, it offers a privacy-respecting alternative to commercial internet radio applications.",
+  "tags": [
+    "internet-radio",
+    "open-source",
+    "audio-streaming",
+    "rust",
+    "floss"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-27T11:46:44.747692+00:00",
+  "updated_at": "2026-05-27T11:50:29.579815+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260527-014",
+  "source": "rss",
+  "source_url": "https://www.minicor.com/",
+  "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+  "summary": "Minicor is a YC P26 startup building AI-powered desktop RPA (Robotic Process Automation) solutions that enable companies to automate Windows desktop workflows at scale, even when target systems have no API. The founders were prompted to build this after a customer promised a deal within 2 days if they could solve a desktop integration problem.",
+  "tech_stack": [
+    "RPA",
+    "Windows Desktop",
+    "AI Integration",
+    "Desktop Automation",
+    "Scalable Infrastructure"
+  ],
+  "problem_solved": "Enables AI companies to programmatically control desktop applications through mouse clicks and keystrokes when no API is available.",
+  "why_valuable": "It unlocks automation capabilities for legacy enterprise systems and software that lack API access, which represents a massive market of unattended automation opportunities.",
+  "tags": [
+    "RPA",
+    "Desktop Automation",
+    "YC Startup",
+    "AI",
+    "B2B SaaS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-27T11:47:56.686629+00:00",
+  "updated_at": "2026-05-27T11:50:29.587899+00:00",
+  "published_to": []
+}

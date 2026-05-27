@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260527-007",
+  "source": "rss",
+  "source_url": "https://tsduck.io/",
+  "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+  "summary": "TSDuck is an open-source, cross-platform toolkit for analyzing and manipulating MPEG Transport Streams, widely used in digital TV broadcasting, DVB/ATSC environments, and streaming applications with a plugin-based architecture.",
+  "tech_stack": [
+    "C++",
+    "Plugin Architecture",
+    "MPEG-TS",
+    "Command-line Tools",
+    "Cross-platform"
+  ],
+  "problem_solved": "Provides professional-grade tools for analyzing, debugging, monitoring, filtering, and modifying MPEG Transport Streams in broadcast and streaming environments.",
+  "why_valuable": "Offers a comprehensive, extensible, and free solution that saves broadcast engineers and developers from building custom TS analysis tools from scratch.",
+  "tags": [
+    "Broadcasting",
+    "MPEG-TS",
+    "DTV",
+    "Streaming",
+    "Open-source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-27T11:46:31.458048+00:00",
+  "updated_at": "2026-05-27T11:50:29.579647+00:00",
+  "published_to": []
+}

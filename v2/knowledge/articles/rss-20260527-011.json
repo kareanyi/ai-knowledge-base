@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260527-011",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+  "title": "That Methyl Methacrylate Tank",
+  "summary": "This Science.org blog post discusses a real-world chemistry incident involving a methyl methacrylate tank, likely exploring the science behind industrial chemical storage, potential hazards, and lessons learned from the event.",
+  "tech_stack": [
+    "Chemistry",
+    "Industrial Safety",
+    "Material Science"
+  ],
+  "problem_solved": "Provides scientific analysis and safety insights related to industrial chemical storage incidents.",
+  "why_valuable": "Offers educational value about chemical safety and real-world applications of chemistry in industrial settings.",
+  "tags": [
+    "Chemistry",
+    "Industrial Safety",
+    "Materials Science",
+    "Chemical Engineering",
+    "Case Study"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-27T11:47:25.017800+00:00",
+  "updated_at": "2026-05-27T11:50:29.587395+00:00",
+  "published_to": []
+}

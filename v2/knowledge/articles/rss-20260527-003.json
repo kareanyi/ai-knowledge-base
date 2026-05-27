@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260527-003",
+  "source": "rss",
+  "source_url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
+  "title": "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
+  "summary": "The article provides benchmark results for Nvidia's Vera CPU architecture featuring Olympus cores, demonstrating competitive performance metrics. Phoronix, known for detailed hardware benchmarking, has published performance comparisons of this new CPU architecture. The content has garnered moderate discussion with 14 comments and 35 points on Hacker News.",
+  "tech_stack": [
+    "Nvidia Vera",
+    "Olympus Cores",
+    "CPU Architecture",
+    "Benchmarking",
+    "Hardware Analysis"
+  ],
+  "problem_solved": "Provides objective performance data and benchmarking results for Nvidia's Vera CPU with Olympus cores.",
+  "why_valuable": "Offers concrete performance metrics for evaluating Nvidia's new CPU architecture, valuable for hardware enthusiasts and developers considering the platform.",
+  "tags": [
+    "CPU",
+    "Hardware",
+    "Benchmarks",
+    "Nvidia",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-27T11:45:43.162584+00:00",
+  "updated_at": "2026-05-27T11:50:29.579038+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260527-017",
+  "source": "rss",
+  "source_url": "https://padhye.org/raft-minority/",
+  "title": "Raft Consensus with a Minority of Nodes",
+  "summary": "A technical blog post explaining the Raft consensus algorithm's behavior when dealing with a minority of nodes in a distributed system, addressing edge cases and practical implications for fault-tolerant systems.",
+  "tech_stack": [
+    "Raft",
+    "Distributed Systems",
+    "Consensus Algorithms",
+    "Fault Tolerance"
+  ],
+  "problem_solved": "Explains how Raft consensus handles scenarios where only a minority subset of cluster nodes participate in leader election or log replication.",
+  "why_valuable": "Provides critical understanding of distributed consensus behavior for building reliable distributed databases and systems that must maintain consistency despite node failures.",
+  "tags": [
+    "Distributed Systems",
+    "Raft",
+    "Consensus",
+    "Fault Tolerance",
+    "Distributed Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-27T11:48:19.340799+00:00",
+  "updated_at": "2026-05-27T11:50:29.588419+00:00",
+  "published_to": []
+}

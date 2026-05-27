@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260527-019",
+  "source": "rss",
+  "source_url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+  "title": "A portentous reunion",
+  "summary": "Bryan Cantrill 的个人博客文章，讨论某个具有重要意义的技术重聚(reunion)事件，可能涉及 DTrace、操作系统或 Joyent 相关的历史回顾与展望。",
+  "tech_stack": [
+    "DTrace",
+    "Operating Systems",
+    "Solaris"
+  ],
+  "problem_solved": "记录和分享技术领域重要人物或技术之间的重聚及其深远影响",
+  "why_valuable": "Bryan Cantrill 作为 DTrace 和 Joyent 的创始人，其技术洞察和历史视角具有重要的参考价值",
+  "tags": [
+    "DTrace",
+    "Bryan Cantrill",
+    "Reunion",
+    "Technical History",
+    "Systems Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-27T11:48:41.114399+00:00",
+  "updated_at": "2026-05-27T11:50:29.588772+00:00",
+  "published_to": []
+}

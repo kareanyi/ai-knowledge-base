@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260527-016",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+  "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+  "summary": "Spain's gambling regulator has ordered the blocking of prediction markets Polymarket and Kalshi, requiring them to halt operations until obtaining proper gambling licenses. The platforms, which allow users to trade contracts on real-world events like elections and sports outcomes, face regulatory action for operating without authorization. This marks an intensification of European scrutiny on prediction markets, following similar moves by other EU member states.",
+  "tech_stack": [
+    "Prediction Markets",
+    "Smart Contracts",
+    "Blockchain",
+    "Web3"
+  ],
+  "problem_solved": "Addresses the regulatory gap where prediction markets operated in Spain without proper gambling licensing compliance.",
+  "why_valuable": "Highlights the growing regulatory pressure on DeFi and Web3 prediction market platforms across European jurisdictions, which could set precedent for other regions.",
+  "tags": [
+    "Regulation",
+    "Prediction Markets",
+    "Polymarket",
+    "Kalshi",
+    "Gambling Law"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-27T11:48:14.268281+00:00",
+  "updated_at": "2026-05-27T11:50:29.588254+00:00",
+  "published_to": []
+}

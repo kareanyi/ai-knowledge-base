@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260527-018",
+  "source": "rss",
+  "source_url": "https://badhost.org/",
+  "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+  "summary": "CVE-2026-48710 is a critical authentication bypass vulnerability discovered in Starlette, a popular Python ASGI web framework, allowing attackers to circumvent host-based access controls through crafted Host headers.",
+  "tech_stack": [
+    "Python",
+    "Starlette",
+    "ASGI",
+    "Uvicorn",
+    "Web Security"
+  ],
+  "problem_solved": "Exposes and documents a dangerous Host Header injection vulnerability that could allow attackers to bypass authentication mechanisms in Starlette-based applications.",
+  "why_valuable": "Provides critical security awareness for developers using Starlette, enabling them to patch vulnerable endpoints and implement proper host validation before authentication checks.",
+  "tags": [
+    "CVE",
+    "Security",
+    "Vulnerability",
+    "Authentication",
+    "Python"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-27T11:48:35.206786+00:00",
+  "updated_at": "2026-05-27T11:50:29.588600+00:00",
+  "published_to": []
+}
