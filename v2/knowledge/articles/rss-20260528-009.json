@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260528-009",
+  "source": "rss",
+  "source_url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+  "title": "I analysed 20 years of my chats",
+  "summary": "A personal data analysis project where the author examined 20 years of their chat message history to gain insights into their communication patterns and relationships, presented as a self-reflective journey to understand their friendships.",
+  "tech_stack": [
+    "Python",
+    "Data Analysis",
+    "Data Visualization",
+    "NLP",
+    "Pandas"
+  ],
+  "problem_solved": "Helps individuals understand their long-term communication patterns and social relationships through retrospective chat analysis.",
+  "why_valuable": "Demonstrates how personal data can reveal behavioral insights about social connections and provides a replicable methodology for self-analytics enthusiasts.",
+  "tags": [
+    "Personal Analytics",
+    "Data Science",
+    "Chat Analysis",
+    "Self-Tracking",
+    "Digital Footprints"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-28T11:45:46.315383+00:00",
+  "updated_at": "2026-05-28T11:46:54.103702+00:00",
+  "published_to": []
+}

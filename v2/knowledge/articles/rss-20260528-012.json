@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260528-012",
+  "source": "rss",
+  "source_url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+  "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+  "summary": "作者分享了他探索开源mesh网络技术的经历，重点介绍了Meshtastic（基于LoRa的设备mesh通信）、MeshCore和Reticulum（LPWAN mesh协议）三种解决方案。这些技术能在无传统网络基础设施的环境下实现去中心化通信，在灾难应急和偏远地区有重要应用价值。",
+  "tech_stack": [
+    "Meshtastic",
+    "MeshCore",
+    "Reticulum",
+    "LoRa",
+    "Python"
+  ],
+  "problem_solved": "解决在没有传统互联网基础设施情况下的去中心化通信问题，特别是在灾难救援和偏远地区场景。",
+  "why_valuable": "提供了抗审查、抗故障的开放通信网络，让用户能在紧急情况下保持联系，完全可控且可自托管。",
+  "tags": [
+    "Mesh Networking",
+    "Decentralized",
+    "Open Source",
+    "LoRa",
+    "Emergency Comms"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-28T11:46:20.922462+00:00",
+  "updated_at": "2026-05-28T11:46:54.104238+00:00",
+  "published_to": []
+}

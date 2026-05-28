@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260528-013",
+  "source": "rss",
+  "source_url": "https://sverre.me/blog/rust-on-kindle/",
+  "title": "Rust (and Slint) on a Jailbroken Kindle",
+  "summary": "A developer demonstrates how to cross-compile Rust applications for a jailbroken Kindle e-reader, featuring the Slint UI framework for building interfaces. The article covers setting up the cross-compilation toolchain, dependencies, and running compiled binaries on the ARM-based Kindle device.",
+  "tech_stack": [
+    "Rust",
+    "Slint",
+    "ARM",
+    "Cross-compilation",
+    "Kindle"
+  ],
+  "problem_solved": "Enables running native Rust applications with UI on a jailbroken Kindle e-reader device.",
+  "why_valuable": "Demonstrates practical cross-compilation workflows for embedded devices and explores running modern UI frameworks on unconventional hardware platforms.",
+  "tags": [
+    "Rust",
+    "Embedded",
+    "Cross-compilation",
+    "Kindle",
+    "Jailbreak"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-28T11:46:25.558258+00:00",
+  "updated_at": "2026-05-28T11:46:54.104413+00:00",
+  "published_to": []
+}

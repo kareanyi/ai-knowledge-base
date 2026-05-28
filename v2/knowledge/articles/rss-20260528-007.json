@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260528-007",
+  "source": "rss",
+  "source_url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+  "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+  "summary": "A Google employee has been charged with insider trading after allegedly placing $1 million in bets on Polymarket, a crypto prediction market platform, using confidential internal search trend data to gain an unfair advantage on future events.",
+  "tech_stack": [
+    "Polymarket",
+    "Prediction Markets",
+    "Google Search Data"
+  ],
+  "problem_solved": "This case highlights the risks of insider trading and misuse of privileged corporate data access for personal financial gain in prediction markets.",
+  "why_valuable": "Serves as a cautionary tale about data security, insider trading risks, and the need for stricter controls on employees with access to sensitive market-moving information.",
+  "tags": [
+    "insider-trading",
+    "prediction-market",
+    "fraud",
+    "crypto",
+    "data-security"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-28T11:45:32.964371+00:00",
+  "updated_at": "2026-05-28T11:46:54.096872+00:00",
+  "published_to": []
+}

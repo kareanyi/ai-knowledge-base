@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260528-002",
+  "source": "rss",
+  "source_url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+  "title": "AI sticker shock hits corporate America",
+  "summary": "This Axios article examines the growing sticker shock corporations are experiencing as they grapple with massive AI implementation costs and the challenge of demonstrating clear return on investment for enterprise AI deployments.",
+  "tech_stack": [
+    "AI",
+    "Enterprise Software",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Addresses the disconnect between high AI spending and measurable business returns that corporate America is currently facing.",
+  "why_valuable": "Highlights the real financial challenges enterprises face in justifying AI investments, offering valuable insights for business leaders navigating AI adoption decisions.",
+  "tags": [
+    "Enterprise AI",
+    "Business Strategy",
+    "Technology Costs",
+    "ROI",
+    "Corporate Technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-28T11:44:54.926072+00:00",
+  "updated_at": "2026-05-28T11:46:54.095928+00:00",
+  "published_to": []
+}

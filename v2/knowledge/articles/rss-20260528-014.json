@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260528-014",
+  "source": "rss",
+  "source_url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+  "title": "What Apple and Google are doing to push notifications",
+  "summary": "This article examines the strategies and approaches Apple and Google are implementing for push notifications on their respective mobile platforms, likely discussing differences in permission models, delivery mechanisms, and developer APIs.",
+  "tech_stack": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "Mobile APIs"
+  ],
+  "problem_solved": "Helps mobile developers understand how Apple and Google are evolving their push notification ecosystems and what these changes mean for app engagement strategies.",
+  "why_valuable": "Provides insights into platform-specific notification strategies that directly impact app reach, user engagement, and developer implementation decisions.",
+  "tags": [
+    "Mobile",
+    "iOS",
+    "Android",
+    "Push Notifications",
+    "Platform Strategy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-28T11:46:29.412593+00:00",
+  "updated_at": "2026-05-28T11:46:54.104595+00:00",
+  "published_to": []
+}

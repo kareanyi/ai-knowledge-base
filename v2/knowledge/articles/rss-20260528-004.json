@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260528-004",
+  "source": "rss",
+  "source_url": "https://hallucinate.site",
+  "title": "Hallucinate – Massively Multiplayer Online Rave",
+  "summary": "Hallucinate is a web-based massively multiplayer online rave platform that allows users to participate in virtual party experiences with real-time audio and visual interactions. The project garnered significant attention on Hacker News with 229 points and 97 comments, indicating strong community interest in innovative social entertainment experiences.",
+  "tech_stack": [
+    "WebGL",
+    "WebRTC",
+    "Web Audio API",
+    "Node.js",
+    "WebSocket"
+  ],
+  "problem_solved": "Provides a virtual space for people to experience shared music events and social gatherings online, especially relevant in an era where in-person raves and concerts are limited.",
+  "why_valuable": "Creates an accessible, creative outlet for collective music experiences that breaks geographic barriers and offers a unique psychedelic visual/social environment for users.",
+  "tags": [
+    "Online Rave",
+    "Virtual Event",
+    "Multiplayer",
+    "WebGL",
+    "Social Platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-28T11:45:04.977721+00:00",
+  "updated_at": "2026-05-28T11:46:54.096305+00:00",
+  "published_to": []
+}

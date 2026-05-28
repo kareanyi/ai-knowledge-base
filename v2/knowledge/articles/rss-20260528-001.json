@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260528-001",
+  "source": "rss",
+  "source_url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+  "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+  "summary": "AMD made controversial changes to Vivado's licensing model that negatively impact Linux users, effectively performing a 'bait-and-switch' by changing terms after users committed to the platform.",
+  "tech_stack": [
+    "Vivado",
+    "FPGA tools",
+    "Linux",
+    "License management"
+  ],
+  "problem_solved": "Reports on problematic licensing changes that disadvantage Linux users of AMD's FPGA development tools.",
+  "why_valuable": "Raises awareness about vendor lock-in practices and the importance of cross-platform support in professional development tools.",
+  "tags": [
+    "AMD",
+    "Vivado",
+    "FPGA",
+    "Linux",
+    "Licensing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-28T11:44:43.291760+00:00",
+  "updated_at": "2026-05-28T11:46:54.095649+00:00",
+  "published_to": []
+}

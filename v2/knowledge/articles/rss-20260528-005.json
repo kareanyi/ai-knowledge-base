@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260528-005",
+  "source": "rss",
+  "source_url": "https://github.com/BurntSushi/biff",
+  "title": "Biff is a command line datetime Swiss army knife",
+  "summary": "Biff is a command-line datetime Swiss army knife created by BurntSushi (known for ripgrep), designed to handle various datetime parsing, formatting, and conversion operations directly in the terminal. It provides a unified interface for common datetime tasks that are otherwise tedious to perform via shell commands.",
+  "tech_stack": [
+    "Go",
+    "CLI",
+    "Command Line"
+  ],
+  "problem_solved": "Solves the pain of datetime manipulation at the command line, where developers otherwise need to write custom scripts or combine multiple utilities to parse, convert, or format dates.",
+  "why_valuable": "It provides a fast, focused, all-in-one datetime tool that eliminates the need for writing one-off code for common date operations in shell scripts and command-line workflows.",
+  "tags": [
+    "CLI",
+    "datetime",
+    "Go",
+    "command-line-tool",
+    "utility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-28T11:45:10.780407+00:00",
+  "updated_at": "2026-05-28T11:46:54.096489+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260528-008",
+  "source": "rss",
+  "source_url": "https://mlsu.io/posts/day-off/",
+  "title": "Can we have the day off?",
+  "summary": "A personal essay or reflection about taking time off from work, likely discussing the challenges and cultural dynamics around vacation and work-life balance in the tech industry. The post gained significant traction on Hacker News with 1114 points and 648 comments, suggesting it resonated strongly with developers facing similar workplace challenges.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "Addresses the difficulty and hesitation many workers face when requesting time off from work.",
+  "why_valuable": "The high engagement on Hacker News indicates it speaks to a widespread challenge that many tech workers experience but rarely discuss openly.",
+  "tags": [
+    "Work-Life Balance",
+    "Vacation",
+    "Remote Work",
+    "Mental Health",
+    "Software Industry"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-28T11:45:39.113006+00:00",
+  "updated_at": "2026-05-28T11:46:54.103496+00:00",
+  "published_to": []
+}

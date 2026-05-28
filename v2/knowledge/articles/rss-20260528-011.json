@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260528-011",
+  "source": "rss",
+  "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "title": "YouTube to automatically label AI-generated videos",
+  "summary": "YouTube announced it will automatically label AI-generated videos to enhance transparency for viewers, requiring creators to disclose AI-generated content or face penalties. This is a major platform-level policy shift addressing the growing challenge of distinguishing synthetic media from real content.",
+  "tech_stack": [
+    "AI Content Detection",
+    "Machine Learning",
+    "Creator Attribution Tools",
+    "Content Moderation Systems",
+    "Metadata Labeling"
+  ],
+  "problem_solved": "Addresses the challenge of distinguishing AI-generated content from human-created videos, reducing misinformation and improving viewer transparency.",
+  "why_valuable": "Provides essential transparency for viewers making content consumption decisions while establishing clear creator accountability standards for synthetic media.",
+  "tags": [
+    "YouTube",
+    "AI-Generated Content",
+    "Content Moderation",
+    "Transparency",
+    "Deepfakes"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-28T11:46:10.703646+00:00",
+  "updated_at": "2026-05-28T11:46:54.104049+00:00",
+  "published_to": []
+}

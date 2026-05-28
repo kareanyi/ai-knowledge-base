@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260528-017",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+  "title": "I think Anthropic and OpenAI have found product-market fit",
+  "summary": "Simon Willison discusses how Anthropic and OpenAI have achieved product-market fit in the AI industry, analyzing their success factors and market positioning. Based on the title and Hacker News engagement (898 points, 1017 comments), this appears to be a thoughtful analysis of what makes these companies succeed in the competitive AI landscape.",
+  "tech_stack": [
+    "LLMs",
+    "AI Products",
+    "API Services"
+  ],
+  "problem_solved": "Understanding what distinguishes successful AI companies in terms of product-market fit",
+  "why_valuable": "Provides insights into what makes AI products truly resonate with users and achieve market success",
+  "tags": [
+    "AI",
+    "Product-Market Fit",
+    "Anthropic",
+    "OpenAI",
+    "Business Strategy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-28T11:46:49.589874+00:00",
+  "updated_at": "2026-05-28T11:46:54.104984+00:00",
+  "published_to": []
+}
