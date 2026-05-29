@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-014",
+  "source": "rss",
+  "source_url": "https://nick.winans.io/blog/nice-nano/",
+  "title": "I made a million dollar product from my dorm room (2025)",
+  "summary": "An indie maker shares how they built a profitable product (Nice Nano, a mechanical keyboard project) from their college dorm room, documenting the journey from idea to revenue. The post likely covers product development, marketing strategies, and lessons learned from starting a business while being a student.",
+  "tech_stack": [
+    "Next.js",
+    "Stripe",
+    "Supabase",
+    "React",
+    "Tailwind CSS"
+  ],
+  "problem_solved": "Demonstrates how a college student can launch and monetize a physical product business with minimal resources and capital.",
+  "why_valuable": "Provides real-world insights and practical tactics for aspiring indie hackers, showing that you don't need a team or venture capital to build a successful product.",
+  "tags": [
+    "Indie Hacker",
+    "SaaS",
+    "Mechanical Keyboard",
+    "Bootstrapped",
+    "College Startup"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-29T11:37:22.265742+00:00",
+  "updated_at": "2026-05-29T11:39:47.001947+00:00",
+  "published_to": []
+}

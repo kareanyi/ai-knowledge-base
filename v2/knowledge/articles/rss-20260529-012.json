@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260529-012",
+  "source": "rss",
+  "source_url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+  "title": "Garnix (A Nix CI) is shutting down",
+  "summary": "Garnix, a free CI service specifically built for Nix/NixOS projects, announced it's shutting down. The maintainer is stepping away citing personal reasons, leaving the Nix community without a popular free CI option for open-source projects.",
+  "tech_stack": [
+    "Nix",
+    "NixOS",
+    "CI/CD",
+    "Haskell"
+  ],
+  "problem_solved": "Provided free continuous integration for Nix-based projects without requiring self-hosted runners",
+  "why_valuable": "Offered a rare free CI solution tailored for Nix's unique build system, which is expensive to host independently due to its reproducibility requirements",
+  "tags": [
+    "Nix",
+    "CI/CD",
+    "DevOps",
+    "OpenSource",
+    "Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-29T11:37:02.855569+00:00",
+  "updated_at": "2026-05-29T11:39:47.001626+00:00",
+  "published_to": []
+}

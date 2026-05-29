@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260529-018",
+  "source": "rss",
+  "source_url": "https://github.com/enumura1/py-sql-cleaner",
+  "title": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+  "summary": "py-sql-cleaner is a CLI tool that detects and formats SQL queries embedded within Python string literals, addressing the gap where neither Python nor SQL formatters properly handle SQL written inside Python code.",
+  "tech_stack": [
+    "Python",
+    "SQL",
+    "CLI",
+    "argparse"
+  ],
+  "problem_solved": "Formats SQL embedded in Python strings without breaking the surrounding Python code structure.",
+  "why_valuable": "It solves a common pain point for developers maintaining codebases with long, unformatted SQL queries embedded in Python files, improving code readability and maintainability.",
+  "tags": [
+    "SQL",
+    "Python",
+    "CLI",
+    "Code Formatting",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:38:09.649209+00:00",
+  "updated_at": "2026-05-29T11:39:47.002569+00:00",
+  "published_to": []
+}

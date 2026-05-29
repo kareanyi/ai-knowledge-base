@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-008",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+  "title": "Cars collect a startling amount of data about you",
+  "summary": "Modern cars collect extensive personal data including location history, driving behavior, biometric data, and phone connectivity without most owners' awareness, with data collection expected to increase significantly as vehicles become more connected and autonomous.",
+  "tech_stack": [
+    "Connected Vehicles",
+    "Telematics",
+    "In-vehicle Infotainment Systems",
+    "IoT Sensors",
+    "Cloud Connectivity"
+  ],
+  "problem_solved": "Raises awareness about the extent of data collection by modern vehicles and the privacy implications for car owners who remain largely uninformed about surveillance happening in their cars.",
+  "why_valuable": "Exposes a critical yet overlooked privacy issue affecting billions of car owners, highlighting how vehicles have become data collection platforms with minimal transparency or consent mechanisms.",
+  "tags": [
+    "Privacy",
+    "Connected Cars",
+    "Data Collection",
+    "Automotive Technology",
+    "Surveillance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:36:36.791421+00:00",
+  "updated_at": "2026-05-29T11:39:46.993689+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-024",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+  "title": "Google folds Display Ads into AI-first Demand Gen platform",
+  "summary": "Google is consolidating its traditional Display Ads (Google Display Network) into a new AI-powered Demand Gen platform, effectively ending the almost 20-year-old digital advertising model that relied on predictable targeting frameworks and static creative.",
+  "tech_stack": [
+    "AI",
+    "Demand Gen Platform",
+    "Google Display Network",
+    "Digital Advertising",
+    "Machine Learning"
+  ],
+  "problem_solved": "Modernizes outdated display advertising by replacing manual targeting and bidding with AI-driven optimization.",
+  "why_valuable": "Offers marketers more intelligent, automated ad placement and targeting capabilities compared to the legacy GDN model.",
+  "tags": [
+    "Digital Advertising",
+    "AI",
+    "Google",
+    "Demand Gen",
+    "Marketing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:38:43.038840+00:00",
+  "updated_at": "2026-05-29T11:39:47.003481+00:00",
+  "published_to": []
+}

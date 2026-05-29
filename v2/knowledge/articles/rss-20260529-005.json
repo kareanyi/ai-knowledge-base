@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-005",
+  "source": "rss",
+  "source_url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+  "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+  "summary": "Volkswagen has implemented client assertion requirements that effectively block the homeassistant-volkswagencarnet open-source integration from accessing VW vehicle data through their API. This OAuth 2.0 security change prevents third-party home automation tools like Home Assistant from connecting to Volkswagen accounts, forcing users to rely on official VW apps instead of the flexible open-source alternatives.",
+  "tech_stack": [
+    "Python",
+    "OAuth 2.0",
+    "Home Assistant",
+    "Volkswagen API",
+    "GitHub"
+  ],
+  "problem_solved": "Volkswagen blocked unauthorized third-party access to their car connectivity services by requiring client assertion validation in their OAuth flow",
+  "why_valuable": "This issue highlights the ongoing tension between manufacturer lock-in and user freedom in connected car ecosystems, where car owners cannot easily access their own vehicle data through third-party tools they prefer",
+  "tags": [
+    "Volkswagen",
+    "OAuth",
+    "Home Automation",
+    "API Access",
+    "Connected Cars"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:36:11.047619+00:00",
+  "updated_at": "2026-05-29T11:39:46.993191+00:00",
+  "published_to": []
+}

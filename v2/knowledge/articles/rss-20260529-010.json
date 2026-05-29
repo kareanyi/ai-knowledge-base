@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260529-010",
+  "source": "rss",
+  "source_url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+  "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+  "summary": "An in-depth technical article exploring undocumented configuration options for Claude Code by analyzing its open source codebase, revealing hidden settings and parameters not available in official documentation.",
+  "tech_stack": [
+    "Claude Code",
+    "CLI Tools",
+    "Configuration Systems"
+  ],
+  "problem_solved": "Reveals hidden Claude Code configuration options that developers can't find in official docs but can leverage to customize their workflow.",
+  "why_valuable": "Provides insider knowledge from source code analysis that gives developers a competitive edge in customizing their AI coding assistant workflow.",
+  "tags": [
+    "Claude Code",
+    "CLI",
+    "Configuration",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-29T11:36:51.916477+00:00",
+  "updated_at": "2026-05-29T11:39:47.001298+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-006",
+  "source": "rss",
+  "source_url": "https://github.com/HeidiSQL/HeidiSQL",
+  "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+  "summary": "HeidiSQL is a lightweight, open-source database management tool that provides a free GUI for managing MariaDB, MySQL, SQL Server, PostgreSQL, and SQLite databases. It enables developers and DBAs to perform database operations, query editing, and data management through an intuitive interface.",
+  "tech_stack": [
+    "Delphi",
+    " Lazarus IDE",
+    "SQL",
+    "MariaDB",
+    "MySQL"
+  ],
+  "problem_solved": "Provides a free, lightweight alternative to expensive commercial database management tools for Windows users.",
+  "why_valuable": "It offers multi-database support in a single free tool, making it accessible for developers who work with different database systems without needing multiple separate tools.",
+  "tags": [
+    "Database",
+    "GUI Tool",
+    "Open Source",
+    "MySQL",
+    "MariaDB"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-29T11:36:18.495756+00:00",
+  "updated_at": "2026-05-29T11:39:46.993361+00:00",
+  "published_to": []
+}

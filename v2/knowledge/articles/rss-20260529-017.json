@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260529-017",
+  "source": "rss",
+  "source_url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+  "title": "Building durable workflows on Postgres",
+  "summary": "This article demonstrates how to build durable, fault-tolerant workflows using PostgreSQL as the core persistence layer, leveraging features like transactions, advisory locks, and SKIP LOCKED to create reliable workflow execution without specialized orchestration frameworks.",
+  "tech_stack": [
+    "PostgreSQL",
+    "SQL",
+    "ACID transactions",
+    "Advisory Locks"
+  ],
+  "problem_solved": "Eliminates the need for complex distributed workflow/orchestration systems by using Postgres's built-in durability features to handle failure recovery and reliable execution.",
+  "why_valuable": "Reduces infrastructure complexity by allowing a single database to handle both data storage and durable workflow orchestration, which is particularly valuable for developers already using Postgres.",
+  "tags": [
+    "PostgreSQL",
+    "Durable Execution",
+    "Workflows",
+    "Backend",
+    "Database"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-29T11:38:00.363697+00:00",
+  "updated_at": "2026-05-29T11:39:47.002415+00:00",
+  "published_to": []
+}

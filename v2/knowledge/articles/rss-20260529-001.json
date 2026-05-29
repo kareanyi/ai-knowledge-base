@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260529-001",
+  "source": "rss",
+  "source_url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+  "title": "Is This Sustainable?",
+  "summary": "A reflective blog post questioning the long-term sustainability of the current AI boom, examining whether rapid AI advancement can be maintained economically, environmentally, and socially.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Machine Learning"
+  ],
+  "problem_solved": "Raises critical questions about the environmental and economic costs of continuous AI scaling and deployment.",
+  "why_valuable": "Provides important perspectives on the unintended consequences and long-term viability of rapid AI adoption in both industry and society.",
+  "tags": [
+    "AI",
+    "Sustainability",
+    "Ethics",
+    "Environment",
+    "Tech Industry"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:35:44.850053+00:00",
+  "updated_at": "2026-05-29T11:39:46.992296+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-004",
+  "source": "rss",
+  "source_url": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
+  "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+  "summary": "This article from Phoronix benchmarks Cache-Aware Scheduling (CAS), a Linux kernel feature that intelligently places threads on CPU cores based on shared cache topology. Testing on AMD Zen 5 with PostgreSQL and Valkey workloads demonstrates measurable performance improvements by reducing cross-CCX cache traffic.",
+  "tech_stack": [
+    "Linux Kernel",
+    "AMD Zen 5",
+    "PostgreSQL",
+    "Valkey",
+    "Cache-Aware Scheduling"
+  ],
+  "problem_solved": "Traditional Linux schedulers lack awareness of CPU cache topology, causing suboptimal thread placement and unnecessary cache misses for workloads sharing data.",
+  "why_valuable": "Cache-Aware Scheduling provides transparent performance gains for database and in-memory workloads by keeping cache-sharing threads co-located, requiring no application code changes.",
+  "tags": [
+    "Linux",
+    "AMD",
+    "Kernel",
+    "Performance",
+    "Scheduling"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:36:00.319220+00:00",
+  "updated_at": "2026-05-29T11:39:46.993026+00:00",
+  "published_to": []
+}

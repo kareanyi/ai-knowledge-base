@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260529-016",
+  "source": "rss",
+  "source_url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+  "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+  "summary": "Simon Tatham（知名开源项目Putty的作者）撰写的技术博客，详细分析《创：极速 Tron: Legacy》电影中计算机终端显示的shell历史命令，从Unix/Linux专业人士角度指出其中不符合技术逻辑的地方，如命令顺序、路径格式、用户提示符等细节的不准确性。",
+  "tech_stack": [
+    "Unix/Linux Shell",
+    "Bash",
+    "Terminal Emulation",
+    "Command-line Interface"
+  ],
+  "problem_solved": "揭示科幻电影中技术细节的准确性问题，以专业视角检验电影中shell历史显示是否符合真实Unix系统的行为逻辑。",
+  "why_valuable": "Simon Tatham作为经验丰富的Unix程序员，其技术分析既有深度又具娱乐性，既满足了技术社区对准确性的追求，也为科幻电影的技术呈现提供了建设性反馈。",
+  "tags": [
+    "tech-criticism",
+    "movie-analysis",
+    "unix-shell",
+    "science-fiction",
+    "technical-accuracy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:37:48.503597+00:00",
+  "updated_at": "2026-05-29T11:39:47.002266+00:00",
+  "published_to": []
+}

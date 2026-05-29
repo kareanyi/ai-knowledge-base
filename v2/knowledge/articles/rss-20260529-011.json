@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260529-011",
+  "source": "rss",
+  "source_url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+  "title": "Blue Origin's New Glenn blows up during static fire test",
+  "summary": "Blue Origin's New Glenn rocket experienced an explosion during a static fire test, a routine pre-launch procedure where engines are ignited while the vehicle remains grounded. The incident represents a significant setback for Jeff Bezos' space company's flagship heavy-lift vehicle program, as static fire tests are critical for validating rocket systems before flight.",
+  "tech_stack": [
+    "Liquid rocket propulsion",
+    "Static fire testing methodology",
+    "Heavy-lift launch vehicle",
+    "Orbital-class rocket systems"
+  ],
+  "problem_solved": "N/A - This is a news report of a rocket test failure, not a problem-solving article; the incident itself represents a problem for Blue Origin's development timeline.",
+  "why_valuable": "Tracking the development challenges of commercial heavy-lift vehicles is important for understanding the competitive landscape of the space launch industry and the risks involved in rocket development.",
+  "tags": [
+    "Space Launch",
+    "Blue Origin",
+    "New Glenn",
+    "Rocket Failure",
+    "Commercial Space"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:36:57.635143+00:00",
+  "updated_at": "2026-05-29T11:39:47.001461+00:00",
+  "published_to": []
+}

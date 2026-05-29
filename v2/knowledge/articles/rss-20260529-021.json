@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+  "title": "Anthropic releases Claude Opus 4.8",
+  "summary": "Anthropic has released Claude Opus 4.8, an upgraded version of Claude Opus 4.7 featuring improvements in coding, agent work, reasoning, and knowledge work tasks. The model is accessible via claude.ai, Claude Code, and the Claude API using the API name 'claude-opus-4-8'.",
+  "tech_stack": [
+    "Claude Opus",
+    "Claude API",
+    "Claude Code",
+    "Large Language Model",
+    "AI Agent"
+  ],
+  "problem_solved": "Provides enhanced AI capabilities for developers and businesses requiring superior performance in coding, reasoning, and knowledge-intensive tasks.",
+  "why_valuable": "Offers measurable improvements in critical AI use cases, making it more effective for production workloads and complex reasoning tasks.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Claude",
+    "Anthropic",
+    "Language Model"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:38:27.410388+00:00",
+  "updated_at": "2026-05-29T11:39:47.003066+00:00",
+  "published_to": []
+}

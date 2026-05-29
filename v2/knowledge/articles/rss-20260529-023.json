@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+  "title": "NBA plans AI system for automatic out-of-bounds calls",
+  "summary": "NBA commissioner Adam Silver announced plans to implement an AI-powered automated officiating system for out-of-bounds calls, using cameras positioned around the court to track possession. The system is inspired by Hawk-Eye technology already used in tennis for line calls, aiming to improve accuracy and reduce disputed calls.",
+  "tech_stack": [
+    "AI",
+    "Computer Vision",
+    "Camera Tracking",
+    "Hawk-Eye Technology",
+    "Automated Decision System"
+  ],
+  "problem_solved": "Reduces controversial and disputed out-of-bounds calls in NBA games through automated, precise tracking.",
+  "why_valuable": "Enhances officiating accuracy and fairness in professional basketball by leveraging proven tracking technology from other sports.",
+  "tags": [
+    "AI",
+    "Sports Technology",
+    "Computer Vision",
+    "NBA",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:38:37.288303+00:00",
+  "updated_at": "2026-05-29T11:39:47.003363+00:00",
+  "published_to": []
+}

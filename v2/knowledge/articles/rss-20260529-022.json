@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+  "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+  "summary": "Google Pay is redesigning its payment infrastructure to support transactions from AI agents rather than human users, introducing the Universal Commerce Protocol and new server architecture to position itself as a central clearinghouse for autonomous agent purchases.",
+  "tech_stack": [
+    "Universal Commerce Protocol",
+    "Payment Infrastructure",
+    "API Architecture",
+    "AI Agents",
+    "Server Architecture"
+  ],
+  "problem_solved": "Enables AI agents to autonomously execute commercial transactions on behalf of users without human intervention.",
+  "why_valuable": "Prepares the payment ecosystem for the emerging wave of AI agents that need to make purchases, bookings, and reservations autonomously.",
+  "tags": [
+    "AI Agents",
+    "Payments",
+    "Google Pay",
+    "E-commerce",
+    "Autonomous Transactions"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:38:33.084431+00:00",
+  "updated_at": "2026-05-29T11:39:47.003214+00:00",
+  "published_to": []
+}

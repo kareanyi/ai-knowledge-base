@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-002",
+  "source": "rss",
+  "source_url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+  "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+  "summary": "A technical blog post demonstrating how to achieve 3,000 tokens/s inference throughput per request for large language models using standard consumer GPUs, likely through optimizations like dynamic batching, quantization, and efficient memory management.",
+  "tech_stack": [
+    "LLM",
+    "GPU Optimization",
+    "TensorRT",
+    "Python",
+    "CUDA"
+  ],
+  "problem_solved": "Enables real-time conversational AI responses on affordable, standard hardware instead of requiring expensive specialized AI accelerators.",
+  "why_valuable": " democratizes real-time AI deployment by reducing infrastructure costs and making high-performance LLM inference accessible to smaller teams and startups.",
+  "tags": [
+    "LLM Inference",
+    "GPU Acceleration",
+    "Performance Optimization",
+    "Real-time AI",
+    "Edge AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:35:49.623905+00:00",
+  "updated_at": "2026-05-29T11:39:46.992621+00:00",
+  "published_to": []
+}

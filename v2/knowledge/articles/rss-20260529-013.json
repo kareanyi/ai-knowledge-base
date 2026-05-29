@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260529-013",
+  "source": "rss",
+  "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+  "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+  "summary": "GitHub banned a security researcher for posting Windows zero-day exploits, sparking controversy over the appropriateness of the action. Security experts claim the ban is vindictive and that Microsoft/GitHub's response will prompt further retaliation from the research community.",
+  "tech_stack": [
+    "Windows",
+    "GitHub",
+    "Zero-day Exploits",
+    "Security Research"
+  ],
+  "problem_solved": "This news article addresses the ongoing ethical debate around responsible disclosure practices and the treatment of security researchers by major tech platforms.",
+  "why_valuable": "It highlights the tension between bug bounty programs, responsible disclosure policies, and the autonomy of security researchers who expose vulnerabilities.",
+  "tags": [
+    "Cybersecurity",
+    "Zero-Day",
+    "GitHub",
+    "Responsible Disclosure",
+    "Ethical Hacking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:37:12.966210+00:00",
+  "updated_at": "2026-05-29T11:39:47.001796+00:00",
+  "published_to": []
+}

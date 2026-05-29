@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260529-007",
+  "source": "rss",
+  "source_url": "https://fabiensanglard.net/compile_like_1997/",
+  "title": "Let's compile Quake like it's 1997",
+  "summary": "Fabien Sanglard 详细记录了他使用 1997 年的工具链（Watcom C++ 11.0、MASM、Tasm32）完整编译 Doom 和 Quake 源代码的过程，展示了如何用当年的编译器逐文件编译 id Software 经典游戏的源代码。",
+  "tech_stack": [
+    "Watcom C++ 11.0",
+    "MASM",
+    "Tasm32",
+    "MS-DOS",
+    "C/C++"
+  ],
+  "problem_solved": "重现 1990 年代游戏开发环境，理解经典引擎的原始编译过程",
+  "why_valuable": "保留软件考古学价值，让开发者理解 DOS 时代游戏的技术实现细节和编译限制",
+  "tags": [
+    "Game Engine",
+    "Retro Computing",
+    "DOS",
+    "C++",
+    "Software Archaeology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-29T11:36:31.224422+00:00",
+  "updated_at": "2026-05-29T11:39:46.993525+00:00",
+  "published_to": []
+}

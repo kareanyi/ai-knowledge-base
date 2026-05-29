@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260529-020",
+  "source": "rss",
+  "source_url": "https://github.com/bytecodealliance/endive",
+  "title": "Endive: A JVM native WebAssembly runtime",
+  "summary": "Endive is a native WebAssembly runtime implementation for the JVM platform, developed by the Bytecode Alliance. It enables WebAssembly modules to run directly on Java Virtual Machine without requiring external WASM runtimes or FFI overhead.",
+  "tech_stack": [
+    "WebAssembly",
+    "JVM",
+    "Java",
+    "Bytecode Alliance"
+  ],
+  "problem_solved": "Enables native execution of WebAssembly modules on the JVM platform with better performance than traditional WASM-to-JVM interop approaches.",
+  "why_valuable": "Provides a lightweight, JVM-native solution for running WASM code, which is valuable for extending Java applications with polyglot capabilities and running WASM workloads in existing Java infrastructure.",
+  "tags": [
+    "WebAssembly",
+    "JVM",
+    "Runtime",
+    "Bytecode Alliance",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-29T11:38:22.884117+00:00",
+  "updated_at": "2026-05-29T11:39:47.002911+00:00",
+  "published_to": []
+}
