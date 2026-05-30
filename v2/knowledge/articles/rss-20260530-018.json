@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260530-018",
+  "source": "rss",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+  "title": "It's hard to justify buying a Framework 12",
+  "summary": "Tech reviewer Jeff Geerling presents a critical analysis of the Framework 12 laptop, questioning whether its modular design and repairability justify the purchase price. The review gained significant attention on Hacker News with 302 points and 495 comments, indicating strong community interest in the debate around premium modular hardware pricing.",
+  "tech_stack": [
+    "Hardware Review",
+    "Modular Laptop",
+    "Framework Laptop",
+    "Consumer Electronics"
+  ],
+  "problem_solved": "Evaluates the value proposition of the Framework 12 modular laptop and whether its repairability and upgradability justify the cost compared to traditional laptops.",
+  "why_valuable": "Provides a balanced critical perspective on premium modular hardware, helping consumers make informed decisions about whether the repairability benefits outweigh the higher price point in the laptop market.",
+  "tags": [
+    "Hardware",
+    "Laptop",
+    "Tech Review",
+    "Modular Computing",
+    "Consumer Electronics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:09:36.469573+00:00",
+  "updated_at": "2026-05-30T10:09:44.385413+00:00",
+  "published_to": []
+}

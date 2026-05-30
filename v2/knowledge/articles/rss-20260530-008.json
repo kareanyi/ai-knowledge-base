@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260530-008",
+  "source": "rss",
+  "source_url": "https://github.com/secluso/core",
+  "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+  "summary": "Secluso is an open-source, privacy-focused home security camera system featuring end-to-end encryption via OpenMLS, evolved from the original 'Privastead' project. Originally launched in 2024, the system now offers simplified Raspberry Pi setup, allowing users to self-host a private surveillance solution without relying on cloud services.",
+  "tech_stack": [
+    "OpenMLS",
+    "Raspberry Pi",
+    "Python",
+    "Go"
+  ],
+  "problem_solved": "Addresses privacy concerns with traditional cloud-based security cameras by providing a self-hosted, end-to-end encrypted alternative that keeps footage under user control.",
+  "why_valuable": "Empowers privacy-conscious users to maintain full control over their home surveillance data through open-source technology and strong encryption, eliminating vendor lock-in and subscription costs.",
+  "tags": [
+    "privacy",
+    "security",
+    "end-to-end-encryption",
+    "IoT",
+    "open-source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:08:35.082817+00:00",
+  "updated_at": "2026-05-30T10:09:44.383252+00:00",
+  "published_to": []
+}

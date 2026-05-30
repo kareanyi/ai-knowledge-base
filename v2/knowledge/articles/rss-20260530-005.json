@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-005",
+  "source": "rss",
+  "source_url": "https://www.perryts.com/",
+  "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+  "summary": "Perry is a compiler that transforms TypeScript code directly into native executables by leveraging SWC for fast TypeScript parsing and LLVM for optimized machine code generation, eliminating the need for a JavaScript runtime environment.",
+  "tech_stack": [
+    "TypeScript",
+    "SWC",
+    "LLVM",
+    "Rust",
+    "Native Executables"
+  ],
+  "problem_solved": "Enables TypeScript developers to compile their code into standalone native executables without requiring Node.js or any JavaScript engine at runtime.",
+  "why_valuable": "Provides significant performance benefits and smaller distribution sizes by compiling TypeScript directly to machine code, making it ideal for CLI tools, serverless functions, and performance-critical applications.",
+  "tags": [
+    "TypeScript",
+    "Compiler",
+    "AOT-Compilation",
+    "LLVM",
+    "Native-Executables"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-30T10:08:06.708658+00:00",
+  "updated_at": "2026-05-30T10:09:44.376030+00:00",
+  "published_to": []
+}

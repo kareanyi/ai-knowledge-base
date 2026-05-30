@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260530-004",
+  "source": "rss",
+  "source_url": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+  "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+  "summary": "OpenRCT2 v0.5.1 \"Swamp Castle\" is released as the final version to support Windows 7, continuing the open-source re-implementation of RollerCoaster Tycoon 2 with bug fixes and modern compatibility improvements.",
+  "tech_stack": [
+    "C++",
+    "Open-source",
+    "Game Engine",
+    "SDL"
+  ],
+  "problem_solved": "Keeps the classic RollerCoaster Tycoon 2 game alive with modern features while dropping legacy Windows 7 support.",
+  "why_valuable": "Provides free access to a beloved classic game with ongoing development and community-driven enhancements.",
+  "tags": [
+    "Open-source",
+    "Gaming",
+    "Retro",
+    "Release",
+    "Windows"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-05-30T10:07:54.826482+00:00",
+  "updated_at": "2026-05-30T10:09:44.375832+00:00",
+  "published_to": []
+}

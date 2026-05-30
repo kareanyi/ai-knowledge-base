@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-011",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+  "title": "Shift will clean homes for free to train future robots",
+  "summary": "Shift is a startup that offers free home cleaning services in exchange for collecting data (video and sensor recordings) from households to train household robots and AI systems. The company sends professional cleaners equipped with cameras and sensors to clean homes, gathering valuable real-world data about domestic environments and tasks.",
+  "tech_stack": [
+    "Computer Vision",
+    "Sensor Technology",
+    "Robotics",
+    "Machine Learning",
+    "Data Collection"
+  ],
+  "problem_solved": "Solves the challenge of acquiring diverse, real-world household data needed to train household robots, which has traditionally been expensive and difficult to obtain.",
+  "why_valuable": "This model provides a creative solution to the data scarcity problem for robotics training by combining human labor (cleaning) with automated data collection, creating a mutually beneficial exchange that reduces costs for both data collection and home cleaning.",
+  "tags": [
+    "AI",
+    "Robotics",
+    "Training Data",
+    "Startup",
+    "Smart Home"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:08:58.077805+00:00",
+  "updated_at": "2026-05-30T10:09:44.383893+00:00",
+  "published_to": []
+}

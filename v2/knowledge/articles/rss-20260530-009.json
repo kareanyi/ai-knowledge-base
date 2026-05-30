@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260530-009",
+  "source": "rss",
+  "source_url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+  "title": "The Last Technical Interview",
+  "summary": "Steve Yegge's influential essay proposing that AI/LLM-based systems should replace human interviewers for initial technical screening, arguing that traditional whiteboard coding interviews are dehumanizing and inefficient, freeing human engineers to focus on meaningful collaborative work.",
+  "tech_stack": [
+    "LLMs",
+    "AI",
+    "Technical Interviewing Tools"
+  ],
+  "problem_solved": "It addresses the broken state of technical hiring processes that waste engineers' time and fail to accurately assess real-world job performance.",
+  "why_valuable": "It offers a provocative vision for transforming hiring by leveraging AI to automate screening while freeing humans for higher-value evaluation.",
+  "tags": [
+    "AI",
+    "Hiring",
+    "Tech-Interview",
+    "Software-Engineering",
+    "Opinion"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-30T10:08:39.866842+00:00",
+  "updated_at": "2026-05-30T10:09:44.383476+00:00",
+  "published_to": []
+}

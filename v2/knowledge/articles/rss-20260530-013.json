@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-013",
+  "source": "rss",
+  "source_url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+  "title": "SQLite is all you need for durable workflows",
+  "summary": "This blog post explores using SQLite as a lightweight, durable workflow engine for managing stateful, long-running processes without heavy infrastructure dependencies. The author demonstrates how SQLite's ACID transactions, WAL mode, and embedded nature make it surprisingly capable for workflow orchestration tasks like task queuing and state management.",
+  "tech_stack": [
+    "SQLite",
+    "Python",
+    "Durable Workflows",
+    "WAL Mode",
+    "ACID Transactions"
+  ],
+  "problem_solved": "Simplifies durable workflow implementation by eliminating complex workflow engines like Temporal or external message queues in favor of a single file-based database.",
+  "why_valuable": "Reduces operational complexity and infrastructure overhead for developers who need reliable workflow execution without deploying external systems like Redis, Kafka, or Temporal.",
+  "tags": [
+    "SQLite",
+    "Durable Execution",
+    "Workflow Engine",
+    "Backend Architecture",
+    "State Management"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-30T10:09:06.795873+00:00",
+  "updated_at": "2026-05-30T10:09:44.384332+00:00",
+  "published_to": []
+}

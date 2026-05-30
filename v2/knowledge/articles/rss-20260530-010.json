@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260530-010",
+  "source": "rss",
+  "source_url": "https://github.com/jmaczan/tiny-vllm",
+  "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+  "summary": "Tiny-vLLM is a lightweight, high-performance LLM inference engine implemented in C++ and CUDA, designed as a simplified alternative to the popular vLLM project. The project aims to provide efficient large language model serving capabilities with optimized GPU acceleration, targeting developers who need a more portable or minimal footprint inference solution.",
+  "tech_stack": [
+    "C++",
+    "CUDA",
+    "LLM",
+    "Python"
+  ],
+  "problem_solved": "Provides a lightweight, high-performance alternative for running LLM inference with GPU acceleration without the full complexity of vLLM.",
+  "why_valuable": "Offers a more portable and minimal C++/CUDA-based inference engine that can potentially run with lower resource overhead while maintaining high throughput for large language models.",
+  "tags": [
+    "LLM",
+    "Inference",
+    "C++",
+    "CUDA",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:08:46.406552+00:00",
+  "updated_at": "2026-05-30T10:09:44.383681+00:00",
+  "published_to": []
+}

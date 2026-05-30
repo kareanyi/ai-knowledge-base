@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260530-003",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+  "title": "Iron-rich immune cells help homing pigeons navigate",
+  "summary": "This Science.org article reports a groundbreaking discovery that iron-rich immune cells in homing pigeons help them navigate using Earth's magnetic field. The research identifies magnetoreceptor cells containing iron crystals that function as biological compasses, explaining how pigeons can find their way home over long distances.",
+  "tech_stack": [
+    "Biology",
+    "Neuroscience",
+    "Microscopy",
+    "Cell Biology"
+  ],
+  "problem_solved": "Explains the biological mechanism by which homing pigeons sense Earth's magnetic field for navigation.",
+  "why_valuable": "This discovery provides fundamental insight into animal magnetoreception, advancing our understanding of biological navigation systems with potential applications in bio-inspired navigation technology.",
+  "tags": [
+    "Magnetoreception",
+    "Animal Navigation",
+    "Neuroscience",
+    "Cell Biology",
+    "Homing Behavior"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-30T10:07:34.550380+00:00",
+  "updated_at": "2026-05-30T10:09:44.375621+00:00",
+  "published_to": []
+}

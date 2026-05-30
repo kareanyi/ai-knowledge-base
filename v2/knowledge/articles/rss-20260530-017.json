@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260530-017",
+  "source": "rss",
+  "source_url": "https://www.inkandswitch.com/tangents/bijou64/",
+  "title": "Bijou64: A variable-length integer encoding",
+  "summary": "Bijou64 is a novel variable-length integer encoding scheme that efficiently encodes integers of arbitrary size using a variable number of bytes, similar in concept to UTF-8's byte-length strategy. The encoding optimizes for small numbers by using fewer bytes while maintaining support for arbitrarily large integers.",
+  "tech_stack": [
+    "Variable-length Encoding",
+    "Binary Encoding",
+    "Algorithm Design",
+    "Data Structures"
+  ],
+  "problem_solved": "Provides an efficient compact representation for encoding integers of varying magnitudes with fewer bytes for small values while supporting arbitrarily large numbers.",
+  "why_valuable": "Offers an elegant alternative to existing varint encodings (like LEB128 or Protocol Buffers) with potentially better properties for certain use cases, demonstrated by strong community interest (227 HN points).",
+  "tags": [
+    "Binary Encoding",
+    "Algorithm",
+    "Data Structures",
+    "Variable-length Encoding",
+    "Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-30T10:09:30.980715+00:00",
+  "updated_at": "2026-05-30T10:09:44.385156+00:00",
+  "published_to": []
+}

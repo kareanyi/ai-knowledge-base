@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-007",
+  "source": "rss",
+  "source_url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+  "title": "MCP is dead?",
+  "summary": "这篇文章质疑了 Model Context Protocol (MCP) 的发展前景，讨论其是否已过时或将被更好的方案取代。作为一个连接 AI 模型与外部工具/数据的协议，MCP 在开发者社区引发了关于其长期可行性的热烈讨论。",
+  "tech_stack": [
+    "MCP",
+    "LLM",
+    "API Integration",
+    "Developer Tools",
+    "AI Protocols"
+  ],
+  "problem_solved": "解决 AI 模型与外部数据源、工具之间的标准化连接问题",
+  "why_valuable": "引发关于 AI 协议标准化的重要讨论，帮助开发者评估当前技术选择的风险与机遇",
+  "tags": [
+    "AI",
+    "LLM",
+    "MCP",
+    "Developer Tools",
+    "Protocol Standards"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:08:21.187078+00:00",
+  "updated_at": "2026-05-30T10:09:44.376453+00:00",
+  "published_to": []
+}

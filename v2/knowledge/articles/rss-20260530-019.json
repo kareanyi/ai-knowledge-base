@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-019",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
+  "title": "Cedana (YC S23) Is Hiring",
+  "summary": "Cedana (a Y Combinator S23 company) is hiring a Forward Deployed Engineer for AI/HPC. The position likely involves working directly with customers to implement Cedana's AI infrastructure solutions, combining software engineering with customer-facing work in the high-performance computing and AI space.",
+  "tech_stack": [
+    "Go",
+    "Python",
+    "Kubernetes",
+    "Cloud Infrastructure",
+    "HPC"
+  ],
+  "problem_solved": "Helps companies manage and optimize AI training and HPC workloads across cloud and on-premise environments",
+  "why_valuable": "Forward deployed engineers bridge technical products and customer needs, ensuring successful implementation of complex AI infrastructure",
+  "tags": [
+    "Hiring",
+    "Y Combinator",
+    "AI",
+    "HPC",
+    "Cloud Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:09:43.859690+00:00",
+  "updated_at": "2026-05-30T10:09:44.385615+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260530-006",
+  "source": "rss",
+  "source_url": "https://www.nippon.com/en/japan-data/h02783/",
+  "title": "Naphtha shortages in Japan",
+  "summary": "This article from Nippon.com discusses naphtha supply shortages in Japan, a critical feedstock for the country's petrochemical industry. The piece examines the root causes of the shortage and its potential impact on Japan's manufacturing sector.",
+  "tech_stack": [
+    "Petrochemical Industry",
+    "Energy Markets"
+  ],
+  "problem_solved": "Addresses naphtha supply constraints affecting Japan's petrochemical and energy sectors.",
+  "why_valuable": "Provides data-driven analysis of Japan's energy security and industrial feedstock challenges during times of supply disruption.",
+  "tags": [
+    "Energy",
+    "Petrochemicals",
+    "Japan",
+    "Commodities",
+    "Manufacturing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:08:11.587999+00:00",
+  "updated_at": "2026-05-30T10:09:44.376250+00:00",
+  "published_to": []
+}

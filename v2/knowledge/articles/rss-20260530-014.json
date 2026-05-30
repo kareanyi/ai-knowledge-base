@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-014",
+  "source": "rss",
+  "source_url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+  "title": "Notes from the Mistral AI Now Summit",
+  "summary": "Conference notes from the Mistral AI Now Summit, documenting the latest developments and announcements from Mistral AI, a French AI company known for open-source language models. The article shares key takeaways from the event that garnered significant interest from the Hacker News community.",
+  "tech_stack": [
+    "LLM",
+    "Mistral AI",
+    "Open Source AI",
+    "Python",
+    "Deep Learning"
+  ],
+  "problem_solved": "Provides insights into Mistral AI's latest products, strategies, and technological advancements for developers and AI enthusiasts who couldn't attend the summit.",
+  "why_valuable": "Delivers curated conference notes that help the tech community stay informed about the rapidly evolving open-source AI landscape without needing to attend the event in person.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Mistral AI",
+    "Open Source",
+    "Conference Notes"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:09:12.682870+00:00",
+  "updated_at": "2026-05-30T10:09:44.384555+00:00",
+  "published_to": []
+}

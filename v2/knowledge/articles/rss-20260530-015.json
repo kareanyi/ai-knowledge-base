@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-015",
+  "source": "rss",
+  "source_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "summary": "Liquid AI announced their LFM 2.5-8B-A1B, a Mixture of Experts (MoE) language model with 8 billion parameters that activates only 1 billion per token, trained on 38 trillion tokens - a substantial training corpus for a relatively small model.",
+  "tech_stack": [
+    "LFM",
+    "MoE Architecture",
+    "Transformer",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+  "problem_solved": "Provides an efficient sparse MoE model that achieves good performance with lower computational cost per inference by activating only a fraction of parameters per forward pass.",
+  "why_valuable": "The 38T token training dataset combined with MoE architecture offers a balance of model quality and inference efficiency, making powerful AI more accessible.",
+  "tags": [
+    "LLM",
+    "MoE",
+    "Foundation Models",
+    "AI Research",
+    "Model Training"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-30T10:09:17.339907+00:00",
+  "updated_at": "2026-05-30T10:09:44.384758+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-012",
+  "source": "rss",
+  "source_url": "https://pierre.computer/writing/on-rendering-diffs",
+  "title": "On Rendering Diffs",
+  "summary": "这是一篇关于代码差异（diff）渲染技术的深度技术文章，讨论如何在界面上更好地展示代码变更，探讨渲染引擎设计和用户体验优化。",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Web Technology",
+    "UI/UX"
+  ],
+  "problem_solved": "解决代码差异在界面上渲染显示的技术挑战，包括性能优化、视觉呈现和用户体验设计。",
+  "why_valuable": "为开发者工具和代码编辑器提供更好的diff渲染实现方案，直接提升开发者查看代码变更的效率。",
+  "tags": [
+    "Diff",
+    "Rendering",
+    "Developer-Tools",
+    "UI",
+    "Web-Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-30T10:09:02.390632+00:00",
+  "updated_at": "2026-05-30T10:09:44.384108+00:00",
+  "published_to": []
+}
