@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-017",
+  "source": "rss",
+  "source_url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+  "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+  "summary": "This is a biographical article from Low End Mac profiling Jef Raskin, the influential computer engineer often credited as the visionary behind the Apple Macintosh. The article explores Raskin's key contributions including his human-centered approach to computing, the invention of the 'squirt' interface concept that preceded the mouse, and his advocacy for making computers accessible to ordinary users. Raskin left Apple in 1982 but his philosophy fundamentally shaped modern personal computing.",
+  "tech_stack": [
+    "Apple Macintosh",
+    "Human-Computer Interaction",
+    "Personal Computing",
+    "GUI Design",
+    "Early Computing"
+  ],
+  "problem_solved": "It documents the often-overlooked historical contributions of Jef Raskin to personal computing and human-centered design philosophy.",
+  "why_valuable": "This article preserves computing history by highlighting the visionary ideas of Jef Raskin, whose user-friendliness principles influenced the entire personal computer industry.",
+  "tags": [
+    "Computing History",
+    "Apple",
+    "Jef Raskin",
+    "Biography",
+    "Human-Computer Interaction"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:24:31.157180+00:00",
+  "updated_at": "2026-05-31T10:24:46.060295+00:00",
+  "published_to": []
+}

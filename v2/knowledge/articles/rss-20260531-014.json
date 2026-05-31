@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-014",
+  "source": "rss",
+  "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+  "title": "Domain expertise has always been the real moat",
+  "summary": "This article argues that domain expertise, not AI technology itself, is the true competitive moat for businesses. The author explains that companies with deep industry knowledge can better leverage AI tools by understanding the nuances, workflows, and edge cases unique to their domain. The piece gained significant traction on Hacker News with 594 points and 351 comments, indicating strong resonance with the tech community.",
+  "tech_stack": [
+    "AI/LLM",
+    "RAG",
+    "Fine-tuning",
+    "No-code tools",
+    "Business Strategy"
+  ],
+  "problem_solved": "Addresses the misconception that raw AI capability alone provides sustainable competitive advantage",
+  "why_valuable": "It provides a strategic framework for startups and companies to focus on building deep domain expertise rather than competing solely on AI technology, which is more defensible long-term",
+  "tags": [
+    "AI strategy",
+    "Business moat",
+    "Domain expertise",
+    "Competitive advantage",
+    "Startup strategy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-31T10:24:10.589786+00:00",
+  "updated_at": "2026-05-31T10:24:46.059706+00:00",
+  "published_to": []
+}

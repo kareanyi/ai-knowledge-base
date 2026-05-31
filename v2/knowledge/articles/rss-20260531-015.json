@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260531-015",
+  "source": "rss",
+  "source_url": "https://github.com/marekkowalczyk/breathe-cli",
+  "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+  "summary": "A terminal-based breathing exercise tool built by a cardiology patient (HFrEF) for paced resonance breathing at 6 breaths per minute. Built as a single Python file using only stdlib, no dependencies required.",
+  "tech_stack": [
+    "Python",
+    "macOS Terminal",
+    "stdlib"
+  ],
+  "problem_solved": "Provides a frictionless daily breathing habit tool for heart patients to practice evidence-based resonance frequency breathing without app stores or accounts",
+  "why_valuable": "Makes clinically-validated slow breathing therapy accessible with zero friction, based on peer-reviewed research (Bernardi et al.)",
+  "tags": [
+    "Health",
+    "CLI",
+    "Breathing",
+    "Wellness",
+    "Python"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-31T10:24:15.684247+00:00",
+  "updated_at": "2026-05-31T10:24:46.059893+00:00",
+  "published_to": []
+}

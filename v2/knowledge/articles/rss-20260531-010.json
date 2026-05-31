@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260531-010",
+  "source": "rss",
+  "source_url": "https://brie.gay/cheese-paper/",
+  "title": "Cheese Paper: a text editor specifically designed for writing",
+  "summary": "Cheese Paper is a minimalist text editor specifically designed for focused writing, created by brie.gay. The project appears to prioritize the writing experience over feature complexity, offering a distraction-free environment for authors.",
+  "tech_stack": [
+    "Web Technologies",
+    "Text Editor",
+    "JavaScript"
+  ],
+  "problem_solved": "Provides a specialized writing tool that cuts through the noise of bloated word processors to offer a clean, focused writing environment.",
+  "why_valuable": "Writers often struggle with feature-overloaded editors; Cheese Paper strips away distractions to let authors focus purely on their words.",
+  "tags": [
+    "writing",
+    "text-editor",
+    "minimalism",
+    "productivity",
+    "distraction-free"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:23:36.042375+00:00",
+  "updated_at": "2026-05-31T10:24:46.058918+00:00",
+  "published_to": []
+}

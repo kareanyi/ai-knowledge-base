@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260531-001",
+  "source": "rss",
+  "source_url": "https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare",
+  "title": "The dangerous delusion of modern warfare",
+  "summary": "An Economist essay exploring critical misconceptions about modern military capabilities, likely examining how technological overconfidence in systems like AI and autonomous weapons may create dangerous strategic blind spots in contemporary warfare.",
+  "tech_stack": [
+    "Data Analysis",
+    "Geopolitical Modeling",
+    "Strategic Assessment"
+  ],
+  "problem_solved": "Challenges prevailing assumptions about technological superiority in modern military operations",
+  "why_valuable": "Provides critical perspective on how over-reliance on technology could lead to strategic miscalculation in conflict situations",
+  "tags": [
+    "Military Strategy",
+    "Geopolitics",
+    "Defense Technology",
+    "AI Ethics",
+    "Autonomous Systems"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:21:57.570174+00:00",
+  "updated_at": "2026-05-31T10:24:46.049530+00:00",
+  "published_to": []
+}

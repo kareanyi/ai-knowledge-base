@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260531-008",
+  "source": "rss",
+  "source_url": "https://mechanical-pencil.com/",
+  "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
+  "summary": "A beautifully illustrated web article exploring and celebrating the clever engineering found in everyday objects around us, using the mechanical pencil as a lens to examine the ingenuity of common design.",
+  "tech_stack": [
+    "Web Design",
+    "Illustration",
+    "Educational Content"
+  ],
+  "problem_solved": "Helps people recognize and appreciate the sophisticated engineering embedded in mundane, everyday objects.",
+  "why_valuable": "It cultivates curiosity and wonder about engineering by making complex mechanical concepts accessible and visually engaging to a general audience.",
+  "tags": [
+    "Engineering",
+    "Design",
+    "Education",
+    "Curiosity",
+    "Innovation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:23:21.739771+00:00",
+  "updated_at": "2026-05-31T10:24:46.058471+00:00",
+  "published_to": []
+}

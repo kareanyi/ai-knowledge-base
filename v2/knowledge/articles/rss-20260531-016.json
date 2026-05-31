@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-016",
+  "source": "rss",
+  "source_url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+  "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+  "summary": "This article examines the technical implementation of lawful TLS traffic interception, focusing on parallel reconstruction methods for decrypting and analyzing encrypted network communications under legal authorization.",
+  "tech_stack": [
+    "TLS/SSL",
+    "Cryptography",
+    "Network Security",
+    "Parallel Processing",
+    "Protocol Analysis"
+  ],
+  "problem_solved": "Addresses the technical challenge of lawfully intercepting and reconstructing encrypted TLS communications for authorized surveillance purposes.",
+  "why_valuable": "Provides technical insight into government surveillance capabilities and the cryptographic arms race between law enforcement and encrypted communications platforms.",
+  "tags": [
+    "TLS",
+    "Wiretapping",
+    "Cryptography",
+    "Surveillance",
+    "Network Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:24:20.326319+00:00",
+  "updated_at": "2026-05-31T10:24:46.060095+00:00",
+  "published_to": []
+}

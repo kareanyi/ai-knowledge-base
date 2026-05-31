@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-005",
+  "source": "rss",
+  "source_url": "https://github.com/kurikomi-labs/komi-learn",
+  "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+  "summary": "Komi-learn is an open-source project that provides continuous memory and self-improvement capabilities for AI coding agents, allowing them to retain learned information across sessions and improve their performance over time. The project appears to be designed for developers who want to enhance their AI-assisted coding workflows with persistent learning.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "GitHub API",
+    "Vector Database"
+  ],
+  "problem_solved": "AI coding agents typically start each session from scratch without memory of previous interactions and learned patterns.",
+  "why_valuable": "By enabling persistent memory and continuous self-improvement, Komi-learn helps coding agents become more efficient and context-aware over time, reducing repetitive errors and learning from past experiences.",
+  "tags": [
+    "AI-Agent",
+    "Memory-System",
+    "Self-Improvement",
+    "Coding-Assistant",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:22:40.513602+00:00",
+  "updated_at": "2026-05-31T10:24:46.050377+00:00",
+  "published_to": []
+}

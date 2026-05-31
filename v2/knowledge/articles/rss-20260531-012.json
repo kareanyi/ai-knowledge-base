@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-012",
+  "source": "rss",
+  "source_url": "https://av2.aomedia.org",
+  "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+  "summary": "The AOMedia Alliance has released the final v1.0 specification of AV2 (AOMedia Video 2), the successor to the AV1 video codec. AV2 is a royalty-free, open-source video compression standard designed for streaming, broadcasting, and real-time communication applications. The specification brings improved compression efficiency over AV1 while maintaining the patent-free licensing model.",
+  "tech_stack": [
+    "Video Codec",
+    "AV2",
+    "AV1",
+    "Royalty-Free Standards",
+    "Open Source"
+  ],
+  "problem_solved": "Provides the industry with a next-generation video compression standard that offers better efficiency than AV1 without licensing fees, enabling cost-effective high-quality video delivery.",
+  "why_valuable": "As a royalty-free codec with improved performance, AV2 benefits content platforms, streaming services, and developers by reducing costs while enhancing video quality for end users across internet video, broadcasting, and video conferencing applications.",
+  "tags": [
+    "Video Codec",
+    "AV2",
+    "Open Source",
+    "Streaming",
+    "Royalty-Free"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-31T10:23:53.085275+00:00",
+  "updated_at": "2026-05-31T10:24:46.059312+00:00",
+  "published_to": []
+}

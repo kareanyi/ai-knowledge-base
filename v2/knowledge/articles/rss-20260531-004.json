@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-004",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/1709.08492",
+  "title": "A pictorial introduction to differential geometry (2017)",
+  "summary": "An arXiv paper providing a visual, intuitive approach to learning differential geometry through diagrams and pictures, targeting newcomers to the field who may find traditional textbook presentations abstract or challenging.",
+  "tech_stack": [
+    "Mathematics",
+    "Differential Geometry",
+    "Calculus",
+    "Linear Algebra",
+    "Visualization"
+  ],
+  "problem_solved": "Makes the abstract and mathematically rigorous field of differential geometry more accessible through visual intuition.",
+  "why_valuable": "Differential geometry is foundational for general relativity, computer graphics, and machine learning, yet traditionally taught with heavy formalism—visual approaches can significantly lower the learning barrier.",
+  "tags": [
+    "Mathematics",
+    "DifferentialGeometry",
+    "Education",
+    "VisualLearning",
+    "Geometry"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:22:30.869281+00:00",
+  "updated_at": "2026-05-31T10:24:46.050211+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-011",
+  "source": "rss",
+  "source_url": "https://shantellsans.com/process",
+  "title": "Shantell Sans (2023)",
+  "summary": "Shantell Sans is a custom typeface designed by artist Shantell Martin, released in 2023 as an open-source font for the creative community. The project documents the design process behind creating this distinctive, hand-drawn style typeface that balances artistic expression with practical usability.",
+  "tech_stack": [
+    "Typography Design",
+    "Variable Fonts",
+    "Web Fonts",
+    "OpenType",
+    "CSS"
+  ],
+  "problem_solved": "Makes unique artistic typography accessible to designers and developers who previously couldn't afford custom font commissions.",
+  "why_valuable": "It provides a free, high-quality artistic typeface that brings hand-drawn expression to digital projects while supporting the open-source creative community.",
+  "tags": [
+    "Typography",
+    "Font Design",
+    "Open Source",
+    "Creative Tools",
+    "Digital Art"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:23:46.954647+00:00",
+  "updated_at": "2026-05-31T10:24:46.059120+00:00",
+  "published_to": []
+}

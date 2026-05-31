@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260531-013",
+  "source": "rss",
+  "source_url": "https://github.com/wolfSSL/wolfCOSE",
+  "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+  "summary": "wolfSSL released wolfCOSE, a zero-allocation COSE (CBOR Object Signing and Encryption) implementation written in C, specifically designed for embedded systems where dynamic memory allocation is prohibited or undesirable. The library enables secure communication for resource-constrained IoT devices while adhering to COSE standards.",
+  "tech_stack": [
+    "C",
+    "COSE",
+    "CBOR",
+    "Embedded Systems",
+    "wolfSSL"
+  ],
+  "problem_solved": "Provides secure signing and encryption for embedded devices without dynamic memory allocation, addressing memory constraints in IoT and resource-limited environments.",
+  "why_valuable": "Offers a standards-compliant, allocation-free cryptographic implementation that enables secure communication in highly constrained embedded systems where traditional libraries cannot operate.",
+  "tags": [
+    "embedded-security",
+    "cryptography",
+    "iot",
+    "cose",
+    "zero-allocation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-05-31T10:24:05.106623+00:00",
+  "updated_at": "2026-05-31T10:24:46.059502+00:00",
+  "published_to": []
+}

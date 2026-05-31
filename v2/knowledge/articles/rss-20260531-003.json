@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260531-003",
+  "source": "rss",
+  "source_url": "https://specification.website/",
+  "title": "The Website Specification",
+  "summary": "The Website Specification is a project proposing to create a formal, RFC-style specification for website development, providing standardized documentation and rules for how websites should be built and documented.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "Web Standards",
+    "Markdown"
+  ],
+  "problem_solved": "Establishes a unified, formal specification standard for website development to improve consistency and documentation quality across the web.",
+  "why_valuable": "Creates a common specification framework for websites similar to RFCs, enabling developers to reference formal standards rather than fragmented documentation.",
+  "tags": [
+    "web-standards",
+    "specification",
+    "web-development",
+    "documentation",
+    "open-source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-05-31T10:22:12.573399+00:00",
+  "updated_at": "2026-05-31T10:24:46.050033+00:00",
+  "published_to": []
+}
