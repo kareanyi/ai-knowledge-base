@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260602-018",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+  "title": "What appear to be biochemical processes may be a natural feature of geology",
+  "summary": "This Quanta Magazine article explores how certain molecular processes previously attributed to biological activity may actually be natural geological phenomena, challenging fundamental assumptions about the origins of life and the boundary between living and non-living systems.",
+  "tech_stack": [
+    "Geochemistry",
+    "Biochemistry",
+    "Molecular Biology",
+    "Astrobiology"
+  ],
+  "problem_solved": "Addresses whether certain chemical signatures traditionally seen as evidence of life might instead result from purely geological processes.",
+  "why_valuable": "Redefines our understanding of what constitutes evidence for life and could reshape theories about the origins of life on Earth and beyond.",
+  "tags": [
+    "Science",
+    "Geology",
+    "Biochemistry",
+    "Origins of Life",
+    "Astrobiology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-02T12:14:35.389038+00:00",
+  "updated_at": "2026-06-02T12:16:15.806800+00:00",
+  "published_to": []
+}

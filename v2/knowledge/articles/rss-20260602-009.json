@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260602-009",
+  "source": "rss",
+  "source_url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+  "title": "How is Groq raising more money?",
+  "summary": "This is a Hacker News discussion about Groq, an AI chip company, and the circumstances or strategy behind their latest fundraising round. The article explores why investors continue to fund Groq despite challenging market conditions for AI hardware companies.",
+  "tech_stack": [
+    "AI Chips",
+    "LLM Infrastructure",
+    "Semiconductor Hardware"
+  ],
+  "problem_solved": "Explores the business rationale and market dynamics behind Groq's continued ability to attract investment in the competitive AI infrastructure space.",
+  "why_valuable": "Provides insights into the AI chip market dynamics and what makes certain AI hardware companies attractive to investors despite high competition.",
+  "tags": [
+    "AI",
+    "Semiconductor",
+    "Venture Capital",
+    "Startup",
+    "LLM Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-02T12:13:10.726232+00:00",
+  "updated_at": "2026-06-02T12:16:15.805306+00:00",
+  "published_to": []
+}

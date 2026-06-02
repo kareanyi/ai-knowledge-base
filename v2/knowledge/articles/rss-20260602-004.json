@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260602-004",
+  "source": "rss",
+  "source_url": "https://www.bloomberg.com/features/2026-trump-cfpb-enforcement",
+  "title": "America's Corporate Protector",
+  "summary": "A Bloomberg feature investigating how the Trump administration transformed the Consumer Financial Protection Bureau into a corporate-friendly agency, effectively dismantling consumer protections and reducing enforcement actions against financial institutions.",
+  "tech_stack": [
+    "N/A"
+  ],
+  "problem_solved": "This is a journalistic analysis piece, not a technical solution or product.",
+  "why_valuable": "Provides investigative reporting on regulatory capture and its impact on consumer financial protection.",
+  "tags": [
+    "Finance",
+    "Regulation",
+    "Policy",
+    "Journalism",
+    "Government"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-06-02T12:12:27.599257+00:00",
+  "updated_at": "2026-06-02T12:16:15.796571+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260602-011",
+  "source": "rss",
+  "source_url": "https://github.com/cyberpapiii/chipotlai-max",
+  "title": "Chipotlai Max",
+  "summary": "Chipotlai Max is a creative AI project that likely combines Chipotle fast food ordering with AI agent capabilities, built as a personal exploration project using LLM technology to automate or enhance Chipotle-related interactions. The project gained significant attention on Hacker News with 256 points and 39 comments, indicating strong community interest in its innovative approach.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "OpenAI API",
+    "JavaScript",
+    "Next.js"
+  ],
+  "problem_solved": "Automates and enhances the Chipotle ordering/experience process using AI agents, removing friction from food ordering tasks.",
+  "why_valuable": "Demonstrates practical AI agent applications in everyday life (food ordering) while showcasing how LLMs can be integrated into consumer services.",
+  "tags": [
+    "AI Agent",
+    "Food Tech",
+    "LLM",
+    "Automation",
+    "Chatbot"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:13:32.962560+00:00",
+  "updated_at": "2026-06-02T12:16:15.805654+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260602-015",
+  "source": "rss",
+  "source_url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+  "title": "AI Agent Guidelines for CS336 at Stanford",
+  "summary": "Stanford's CS336 course provides AI agent usage guidelines for students, detailing how to effectively use AI coding assistants like Claude for assignments while maintaining academic integrity. The guide covers best practices, proper attribution, and ethical considerations for AI-assisted programming.",
+  "tech_stack": [
+    "AI Agents",
+    "Claude",
+    "Python",
+    "GitHub",
+    "Academic Guidelines"
+  ],
+  "problem_solved": "Provides students with clear, structured guidelines on how to responsibly and effectively use AI agents in a university course setting.",
+  "why_valuable": "Sets a precedent for academic AI policy by offering practical guidance that balances AI assistance with learning outcomes and academic honesty.",
+  "tags": [
+    "AI Agents",
+    "Education",
+    "Stanford",
+    "Guidelines",
+    "Academic Integrity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-02T12:14:07.460321+00:00",
+  "updated_at": "2026-06-02T12:16:15.806328+00:00",
+  "published_to": []
+}

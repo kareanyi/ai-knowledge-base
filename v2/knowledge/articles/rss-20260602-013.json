@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260602-013",
+  "source": "rss",
+  "source_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+  "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+  "summary": "Alphabet (Google's parent company) announced an $80 billion equity capital raise to significantly expand AI infrastructure and computing capabilities, signaling a major commitment to competing in the AI arms race against Microsoft/OpenAI and Amazon.",
+  "tech_stack": [
+    "AI Infrastructure",
+    "Cloud Computing",
+    "Data Centers",
+    "GPU Compute",
+    "Machine Learning"
+  ],
+  "problem_solved": "Addresses the massive capital requirements needed to build and scale AI infrastructure amid intense competition in the AI industry.",
+  "why_valuable": "Demonstrates the enormous financial commitment Big Tech is making to AI development and signals Alphabet's strategic intent to dominate AI infrastructure alongside cloud services.",
+  "tags": [
+    "AI",
+    "Big Tech",
+    "Investment",
+    "Infrastructure",
+    "Cloud Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-02T12:13:46.887480+00:00",
+  "updated_at": "2026-06-02T12:16:15.806030+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260602-016",
+  "source": "rss",
+  "source_url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+  "title": "The newest Instagram “exploit” is the goofiest I've seen",
+  "summary": "This article covers a recently discovered security vulnerability in Meta's systems that allowed account takeovers on Instagram. The exploit is described as surprisingly simple or 'goofy' in its approach, highlighting how even major tech companies can have basic authentication flaws. The content references Krebs on Security's in-depth analysis and generates significant discussion in the security community.",
+  "tech_stack": [
+    "Meta Platform",
+    "Instagram",
+    "OAuth",
+    "Authentication Systems"
+  ],
+  "problem_solved": "披露了一个允许攻击者通过 Meta AI 功能劫持用户 Instagram 账户的安全漏洞",
+  "why_valuable": "该漏洞影响数十亿用户，展示了即使大型科技公司也会在身份验证流程中犯下简单错误，对安全社区具有重要的警示意义",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "Meta",
+    "Account Takeover",
+    "Authentication"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-02T12:14:19.834952+00:00",
+  "updated_at": "2026-06-02T12:16:15.806480+00:00",
+  "published_to": []
+}

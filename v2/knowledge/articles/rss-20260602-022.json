@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260602-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
+  "title": "AI in video game development: How artificial intelligence is reshaping the industry",
+  "summary": "An industry overview report revealing that 90% of developers are integrating AI into daily workflows, with Steam showing a 681% increase in AI-disclosed titles in 2025 (7,818 titles). The article positions AI as a fundamental transformation of the entire game development pipeline, not just experimental additions.",
+  "tech_stack": [
+    "Machine Learning",
+    "Generative AI",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Game Engines"
+  ],
+  "problem_solved": "Addresses the growing need to understand how AI is transforming video game development workflows and industry practices.",
+  "why_valuable": "Provides concrete data showing AI adoption is mainstream in gaming, with nearly universal developer integration and exponential growth in disclosed usage.",
+  "tags": [
+    "Video Games",
+    "Game Development",
+    "AI Adoption",
+    "Industry Trends",
+    "Generative AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-02T12:15:17.209116+00:00",
+  "updated_at": "2026-06-02T12:16:15.807375+00:00",
+  "published_to": []
+}

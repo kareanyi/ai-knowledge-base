@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260602-012",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+  "title": "OpenAI frontier models and Codex are now available on AWS",
+  "summary": "OpenAI has announced that its frontier models including GPT-4o and Codex are now available on AWS through Amazon Bedrock and SageMaker, enabling enterprise customers to access these models within their existing AWS infrastructure.",
+  "tech_stack": [
+    "OpenAI GPT-4o",
+    "Codex",
+    "AWS",
+    "Amazon Bedrock",
+    "Amazon SageMaker"
+  ],
+  "problem_solved": "Addresses enterprise accessibility and integration challenges by bringing OpenAI's most powerful models directly to AWS customers' existing cloud infrastructure.",
+  "why_valuable": "This partnership significantly expands access to OpenAI's frontier models for enterprise users who prefer AWS, reducing friction in adoption and enabling seamless integration with AWS services and security compliance.",
+  "tags": [
+    "AI",
+    "OpenAI",
+    "AWS",
+    "Cloud Computing",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:13:36.855112+00:00",
+  "updated_at": "2026-06-02T12:16:15.805871+00:00",
+  "published_to": []
+}

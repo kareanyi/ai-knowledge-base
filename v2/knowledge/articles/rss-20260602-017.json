@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260602-017",
+  "source": "rss",
+  "source_url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+  "title": "Florida sues OpenAI and Sam Altman over AI risks",
+  "summary": "Florida's Attorney General has filed a lawsuit against OpenAI and CEO Sam Altman, alleging that the company's AI products pose risks to consumers and potentially children. This marks another significant regulatory challenge for the AI industry, adding to growing government scrutiny of AI companies.",
+  "tech_stack": [
+    "OpenAI",
+    "GPT models",
+    "Generative AI"
+  ],
+  "problem_solved": "This lawsuit does not solve a problem; instead it raises regulatory concerns about AI safety, consumer protection, and potential harms to children.",
+  "why_valuable": "This case highlights the escalating legal and regulatory scrutiny facing AI companies, which will shape compliance requirements and the future of AI deployment in the US.",
+  "tags": [
+    "AI Regulation",
+    "Legal",
+    "OpenAI",
+    "Policy",
+    "Government"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:14:28.292451+00:00",
+  "updated_at": "2026-06-02T12:16:15.806641+00:00",
+  "published_to": []
+}

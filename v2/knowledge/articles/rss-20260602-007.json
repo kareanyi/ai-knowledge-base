@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260602-007",
+  "source": "rss",
+  "source_url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+  "title": "macOS needs its grid back",
+  "summary": "A blog post arguing that macOS should reintroduce a grid-based window and app layout system to improve productivity, referencing similar features in older macOS versions or competing operating systems that offer structured window management.",
+  "tech_stack": [
+    "macOS",
+    "UI Design",
+    "Window Management"
+  ],
+  "problem_solved": "Addresses the lack of structured grid-based window/app tiling in modern macOS that existed in earlier versions.",
+  "why_valuable": "Provides UX perspective on how grid-based interfaces can significantly improve desktop productivity and window organization for power users.",
+  "tags": [
+    "macOS",
+    "UX Design",
+    "Productivity",
+    "Window Management",
+    "Apple"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:12:49.480406+00:00",
+  "updated_at": "2026-06-02T12:16:15.796990+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260602-001",
+  "source": "rss",
+  "source_url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+  "title": "CSS-Native Parallax Effect",
+  "summary": "A tutorial demonstrating how to create parallax scrolling effects using native CSS features without requiring JavaScript libraries, showcasing modern CSS capabilities for web animations.",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "CSS Scroll-driven Animations",
+    "CSS Transform"
+  ],
+  "problem_solved": "Enables developers to create performant parallax scrolling effects purely with CSS instead of relying on JavaScript libraries.",
+  "why_valuable": "Provides a lightweight, performant solution that reduces page load overhead and improves user experience through native browser rendering.",
+  "tags": [
+    "CSS",
+    "Parallax",
+    "Frontend",
+    "Animation",
+    "WebDev"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:11:56.546465+00:00",
+  "updated_at": "2026-06-02T12:16:15.795891+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260602-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
+  "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+  "summary": "OpenAI released its Frontier Governance Framework (FGF) to provide enterprise leaders with structured guidance for scaling safe and compliant AI deployments globally. The framework addresses systemic risk assessment and mitigation while supporting sustainable commercial-grade AI architecture adoption.",
+  "tech_stack": [
+    "Large Language Models",
+    "Enterprise AI Infrastructure",
+    "Governance Frameworks",
+    "Risk Assessment Systems",
+    "Compliance Architecture"
+  ],
+  "problem_solved": "Helps enterprises safely scale AI deployments while managing systemic risks and maintaining regulatory compliance across global operations.",
+  "why_valuable": "Provides a practical blueprint for organizations navigating the complex landscape of enterprise AI governance, reducing risk exposure while enabling responsible AI scaling.",
+  "tags": [
+    "AI Governance",
+    "Enterprise AI",
+    "Compliance",
+    "Risk Management",
+    "OpenAI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:15:27.761935+00:00",
+  "updated_at": "2026-06-02T12:16:15.807520+00:00",
+  "published_to": []
+}

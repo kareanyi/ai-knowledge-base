@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260602-014",
+  "source": "rss",
+  "source_url": "https://30fps.net/pages/255-vs-256-division/",
+  "title": "Should you normalize RGB values by 255 or 256?",
+  "summary": "This article explores whether to divide RGB values by 255 or 256 when normalizing 8-bit color channels (0-255) to floating-point range (0.0-1.0). The author examines the trade-offs between these two approaches and their implications for color accuracy in image processing and computer graphics.",
+  "tech_stack": [
+    "Computer Graphics",
+    "Image Processing",
+    "Digital Imaging",
+    "Color Space",
+    "Algorithms"
+  ],
+  "problem_solved": "Clarifies the correct divisor (255 vs 256) for normalizing 8-bit RGB values to floating-point format.",
+  "why_valuable": "Helps developers avoid subtle color quantization errors and make informed decisions when implementing image processing or graphics pipelines.",
+  "tags": [
+    "Image Processing",
+    "Computer Graphics",
+    "Color Space",
+    "Normalization",
+    "Digital Imaging"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:13:59.345673+00:00",
+  "updated_at": "2026-06-02T12:16:15.806182+00:00",
+  "published_to": []
+}

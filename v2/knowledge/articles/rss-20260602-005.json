@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260602-005",
+  "source": "rss",
+  "source_url": "https://ianthehenry.com/posts/why-janet/",
+  "title": "Why Janet? (2023)",
+  "summary": "A blog post explaining why the author chose or recommends the Janet programming language, likely discussing its unique features, simplicity, and suitability for scripting/embedded use cases.",
+  "tech_stack": [
+    "Janet",
+    "C",
+    "Lisp"
+  ],
+  "problem_solved": "Explains when and why Janet is a good choice compared to other programming languages, particularly for lightweight scripting and embedding scenarios.",
+  "why_valuable": "Janet is a minimal, fast, and embeddable Lisp-like language that provides a refreshing alternative for developers tired of complex toolchains while remaining powerful enough for real-world applications.",
+  "tags": [
+    "Programming Language",
+    "Janet",
+    "Scripting",
+    "Embedded",
+    "Lisp"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-02T12:12:33.138186+00:00",
+  "updated_at": "2026-06-02T12:16:15.796742+00:00",
+  "published_to": []
+}
