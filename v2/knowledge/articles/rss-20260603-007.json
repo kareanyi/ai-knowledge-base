@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-007",
+  "source": "rss",
+  "source_url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+  "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+  "summary": "A technical blog post documenting the process of recovering and reconstructing the lost source code of Eric Graham's famous 1987 Amiga demo 'Juggler', which was one of the most impressive real-time 3D raytracing demonstrations of its era, featuring a bouncing animated figure with reflections.",
+  "tech_stack": [
+    "Amiga Assembly",
+    "Raytracing Algorithms",
+    "68k Assembly",
+    "Historical Computing Preservation",
+    "Code Archaeology"
+  ],
+  "problem_solved": "Recovering and preserving historically significant computing artifacts by reverse-engineering and reconstructing decades-old source code that was previously lost.",
+  "why_valuable": "Preserves computing history and provides insight into pioneering 3D graphics techniques from the late 1980s, demonstrating the technical innovation of early raytracing on limited hardware.",
+  "tags": [
+    "Retro Computing",
+    "Raytracing",
+    "Amiga",
+    "Code Recovery",
+    "3D Graphics"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-03T12:51:15.347615+00:00",
+  "updated_at": "2026-06-03T13:09:42.763501+00:00",
+  "published_to": []
+}

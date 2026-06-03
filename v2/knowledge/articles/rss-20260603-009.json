@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260603-009",
+  "source": "rss",
+  "source_url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+  "title": "U of T researchers demonstrate AI worm could target any online device",
+  "summary": "University of Toronto researchers demonstrated an AI-powered worm capable of targeting any online device, raising significant concerns about emerging AI-driven cybersecurity threats similar to the historic Morris Worm but with enhanced autonomous capabilities.",
+  "tech_stack": [
+    "AI/ML",
+    "Network Security",
+    "Malware Development",
+    "Cybersecurity Research"
+  ],
+  "problem_solved": "This research doesn't solve a problem—it exposes a new class of AI-powered cyber threats that could autonomously propagate through interconnected systems.",
+  "why_valuable": "By demonstrating AI worms before malicious actors do, researchers enable the security community to develop defenses and raise awareness about next-generation cyber threats.",
+  "tags": [
+    "AI Security",
+    "Cybersecurity",
+    "Malware Research",
+    "Network Threats",
+    "Zero-Day Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:51:39.789122+00:00",
+  "updated_at": "2026-06-03T13:09:42.776865+00:00",
+  "published_to": []
+}

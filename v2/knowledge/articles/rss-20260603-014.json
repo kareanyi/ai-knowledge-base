@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-014",
+  "source": "rss",
+  "source_url": "https://github.com/c0dejedi/nbd-vram",
+  "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+  "summary": "This project enables Linux users to utilize their Nvidia GPU's unused VRAM as swap space via NBD (Network Block Device), allowing systems with limited RAM to extend their memory capacity by leveraging GPU memory.",
+  "tech_stack": [
+    "Linux Kernel",
+    "NBD (Network Block Device)",
+    "Nvidia CUDA/Driver",
+    "C",
+    "Python"
+  ],
+  "problem_solved": "Solves memory constraints on systems with limited RAM by allowing unused GPU VRAM to be used as swap space.",
+  "why_valuable": "Enables running larger AI models or memory-intensive workloads on systems with abundant VRAM but limited system RAM, effectively turning GPU memory into usable virtual memory.",
+  "tags": [
+    "GPU",
+    "VRAM",
+    "Swap",
+    "Linux",
+    "Nvidia"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-03T12:54:18.829058+00:00",
+  "updated_at": "2026-06-03T13:09:42.778206+00:00",
+  "published_to": []
+}

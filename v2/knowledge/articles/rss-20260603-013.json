@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260603-013",
+  "source": "rss",
+  "source_url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+  "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+  "summary": "Pluto.jl 1.0 正式发布，这是一个为 Julia 编程语言设计的响应式笔记本环境，提供了轻量级、交互式的编程体验，支持自动依赖追踪和响应式计算，适合探索性编程和科学计算。",
+  "tech_stack": [
+    "Julia",
+    "Pluto.jl",
+    "Web Technologies",
+    "Reactive Programming"
+  ],
+  "problem_solved": "为 Julia 提供一个现代化的响应式笔记本环境，解决传统笔记本的依赖管理和自动重计算问题。",
+  "why_valuable": "Pluto.jl 提供了独特的响应式特性，能够自动追踪变量依赖并智能重算，极大地提升了 Julia 开发者进行交互式探索和教学的效率。",
+  "tags": [
+    "Julia",
+    "Notebook",
+    "Reactive",
+    "Scientific Computing",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-03T12:54:08.572029+00:00",
+  "updated_at": "2026-06-03T13:09:42.777986+00:00",
+  "published_to": []
+}

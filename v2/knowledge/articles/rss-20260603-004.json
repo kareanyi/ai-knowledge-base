@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260603-004",
+  "source": "rss",
+  "source_url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
+  "title": "What I've learned about the trombone",
+  "summary": "这是一篇个人博客文章，分享作者学习长号（trombone）的心得体会和经验教训。",
+  "tech_stack": [
+    "非技术类内容"
+  ],
+  "problem_solved": "帮助读者了解学习长号的过程和挑战",
+  "why_valuable": "提供了真实的个人学习经历，对音乐爱好者有一定参考价值",
+  "tags": [
+    "music",
+    "trombone",
+    "personal",
+    "learning",
+    "hobby"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-06-03T12:50:47.848042+00:00",
+  "updated_at": "2026-06-03T13:09:42.762792+00:00",
+  "published_to": []
+}

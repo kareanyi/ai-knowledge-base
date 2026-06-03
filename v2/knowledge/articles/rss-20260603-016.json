@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-016",
+  "source": "rss",
+  "source_url": "https://www.acdw.net/clojure/",
+  "title": "My thoughts after using Clojure for about a month",
+  "summary": "A developer shares their authentic first-month experience learning and using Clojure, discussing practical insights into the language's Lisp heritage, functional programming paradigm, REPL-driven development workflow, and the challenges of adopting a different programming paradigm after years of imperative coding.",
+  "tech_stack": [
+    "Clojure",
+    "Lisp",
+    "JVM",
+    "Functional Programming",
+    "REPL"
+  ],
+  "problem_solved": "Provides real-world, honest feedback for developers considering learning Clojure or evaluating whether to invest time in this Lisp dialect.",
+  "why_valuable": "Offers authentic, hands-on experience report that helps others make informed decisions about adopting Clojure, backed by significant community validation (241 HN points).",
+  "tags": [
+    "Clojure",
+    "Lisp",
+    "Functional Programming",
+    "Developer Experience",
+    "Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-03T12:56:32.907610+00:00",
+  "updated_at": "2026-06-03T13:09:42.778691+00:00",
+  "published_to": []
+}

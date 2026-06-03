@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260603-017",
+  "source": "rss",
+  "source_url": "https://openrepair.org/open-data/open-standard/",
+  "title": "Open Repair Data Standard",
+  "summary": "The Open Repair Data Standard is an initiative by the Open Repair Alliance to create a unified format for sharing repair data, documentation, and spare parts information across the repair community ecosystem.",
+  "tech_stack": [
+    "Open Data",
+    "JSON",
+    "REST API",
+    "Database Schema"
+  ],
+  "problem_solved": "Enables interoperability and standardized data sharing among disparate repair databases, tools, and community initiatives.",
+  "why_valuable": "Supports the right-to-repair movement by creating shared infrastructure that makes repair information more accessible, discoverable, and reusable across platforms.",
+  "tags": [
+    "Open Data",
+    "Right-to-Repair",
+    "Repair",
+    "Standardization",
+    "Sustainability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:58:42.832237+00:00",
+  "updated_at": "2026-06-03T13:09:42.778909+00:00",
+  "published_to": []
+}

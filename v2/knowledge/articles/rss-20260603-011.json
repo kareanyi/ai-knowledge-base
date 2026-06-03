@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-011",
+  "source": "rss",
+  "source_url": "https://blog.roku.com/developer/roku-lt-os",
+  "title": "Roku LT Operating System open source distribution",
+  "summary": "Roku announced the open source release of Roku LT OS, their lightweight operating system for streaming devices, allowing developers to access and modify the underlying platform technology that powers Roku's media streaming ecosystem.",
+  "tech_stack": [
+    "Linux",
+    "C/C++",
+    "Embedded Systems",
+    "Roku SDK",
+    "OpenWRT"
+  ],
+  "problem_solved": "Enables developers and manufacturers to access, customize, and build upon Roku's proven streaming OS platform for their own devices and use cases.",
+  "why_valuable": "Opens up opportunities for third-party hardware manufacturers to leverage Roku's mature streaming software stack and gives developers deeper access to the platform for customization and innovation.",
+  "tags": [
+    "Open Source",
+    "Smart TV",
+    "Streaming",
+    "Embedded Linux",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:54:00.072733+00:00",
+  "updated_at": "2026-06-03T13:09:42.777517+00:00",
+  "published_to": []
+}

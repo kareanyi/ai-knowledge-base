@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260603-008",
+  "source": "rss",
+  "source_url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+  "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+  "summary": "This research article explores the surprising redundancy in nature's protein fold universe, examining how a relatively small number of structural fold patterns are reused across millions of different proteins, revealing fundamental principles of protein evolution and structural organization.",
+  "tech_stack": [
+    "Structural Bioinformatics",
+    "Computational Biology",
+    "Protein Structure Analysis",
+    "Comparative Genomics"
+  ],
+  "problem_solved": "Explains why nature exhibits such structural redundancy in protein folds and what this reveals about the efficiency of biological systems.",
+  "why_valuable": "Understanding protein fold redundancy provides insights into protein evolution, aids protein engineering, and informs drug discovery by leveraging conserved structural motifs.",
+  "tags": [
+    "Protein Folding",
+    "Bioinformatics",
+    "Structural Biology",
+    "Computational Biology",
+    "Evolution"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:51:20.242270+00:00",
+  "updated_at": "2026-06-03T13:09:42.763716+00:00",
+  "published_to": []
+}

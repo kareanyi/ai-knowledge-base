@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-002",
+  "source": "rss",
+  "source_url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+  "title": "Every Byte Matters",
+  "summary": "A technical blog post discussing the importance of optimizing data size at the byte level, likely in the context of modern software deployment and infrastructure efficiency. The author, Farid Zakaria (a known senior engineer), explores techniques for reducing memory footprint, binary sizes, or container image sizes.",
+  "tech_stack": [
+    "Linux",
+    "Containers",
+    "Docker",
+    "C++",
+    "Go"
+  ],
+  "problem_solved": "Addresses the common oversight of data size optimization in software development, where even small inefficiencies compound at scale.",
+  "why_valuable": "Demonstrates that byte-level optimizations can lead to significant cost savings and performance improvements in production environments.",
+  "tags": [
+    "Optimization",
+    "Performance",
+    "Software Engineering",
+    "Infrastructure",
+    "DevOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:48:24.785596+00:00",
+  "updated_at": "2026-06-03T13:09:42.762306+00:00",
+  "published_to": []
+}

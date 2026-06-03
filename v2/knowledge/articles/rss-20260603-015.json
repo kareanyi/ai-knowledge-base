@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-015",
+  "source": "rss",
+  "source_url": "https://www.lumafield.com/scan-of-the-month/byd",
+  "title": "CT scans of BYD car parts",
+  "summary": "Lumafield, an industrial CT scanning company, featured BYD (Build Your Dreams) electric vehicle parts as their 'scan of the month', using X-ray computed tomography to reveal internal structures and manufacturing details of EV components non-destructively.",
+  "tech_stack": [
+    "CT Scanning",
+    "X-ray Imaging",
+    "Industrial Computed Tomography",
+    "3D Visualization",
+    "Non-destructive Testing"
+  ],
+  "problem_solved": "Reveals internal construction details and manufacturing quality of EV components without destructive disassembly.",
+  "why_valuable": "Provides unprecedented insight into EV battery architecture, motor components, and overall build quality of Chinese electric vehicles for quality inspection and competitive analysis.",
+  "tags": [
+    "Electric Vehicles",
+    "CT Scanning",
+    "Manufacturing",
+    "Quality Control",
+    "BYD"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:56:28.528022+00:00",
+  "updated_at": "2026-06-03T13:09:42.778464+00:00",
+  "published_to": []
+}

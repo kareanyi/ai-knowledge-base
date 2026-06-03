@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-020",
+  "source": "rss",
+  "source_url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+  "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+  "summary": "Edsger 是一个在 reMarkable 2 电子纸平板上运行的手写输入 Clojure REPL，允许用户通过手写笔直接在类纸设备上进行 Clojure 编程，实现了传统 REPL 与手写交互的创新结合。",
+  "tech_stack": [
+    "Clojure",
+    "reMarkable 2",
+    "Lisp",
+    "Handwriting Recognition",
+    "REPL"
+  ],
+  "problem_solved": "为 reMarkable 2 用户提供了一个在手写输入环境下进行函数式编程的交互式编程环境，打破了传统键盘输入的编程方式。",
+  "why_valuable": "它将手写输入的自然书写体验与 REPL 的即时反馈相结合，为编程提供了一种独特的新方式，特别适合喜欢在纸张般设备上工作的程序员和爱好者。",
+  "tags": [
+    "Clojure",
+    "REPL",
+    "reMarkable",
+    "Handwriting",
+    "Functional Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T13:01:15.054928+00:00",
+  "updated_at": "2026-06-03T13:09:42.779566+00:00",
+  "published_to": []
+}

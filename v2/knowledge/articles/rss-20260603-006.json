@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260603-006",
+  "source": "rss",
+  "source_url": "https://leidendeclaration.ai/",
+  "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+  "summary": "The Leiden Declaration on Artificial Intelligence and Mathematics is a formal academic statement addressing the critical relationship between mathematical foundations and AI development, likely advocating for stronger integration of mathematical sciences in AI research and education.",
+  "tech_stack": [
+    "Academic Research",
+    "Mathematics",
+    "AI/ML"
+  ],
+  "problem_solved": "Addresses the need for stronger mathematical foundations and principles in the development and advancement of artificial intelligence technologies.",
+  "why_valuable": "Provides authoritative academic guidance on how mathematical disciplines should inform AI research, education, and policy-making at institutional and potentially global levels.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Academic",
+    "Declaration",
+    "Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:51:08.587350+00:00",
+  "updated_at": "2026-06-03T13:09:42.763194+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-010",
+  "source": "rss",
+  "source_url": "https://www.capstone-engine.org/",
+  "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+  "summary": "Capstone is a lightweight, multi-platform disassembly framework that supports dozens of CPU architectures including x86, ARM, MIPS, and PowerPC. It provides a unified API for disassembling machine code and is widely used in reverse engineering, security analysis, and binary analysis tools.",
+  "tech_stack": [
+    "C",
+    "Python",
+    "Java",
+    "Go",
+    "LLVM"
+  ],
+  "problem_solved": "Enables developers to disassemble machine code across multiple platforms and architectures without writing architecture-specific parsing logic.",
+  "why_valuable": "It serves as the disassembly backbone for many security tools like radare2, CNG, and various malware analysis frameworks, accelerating development of binary analysis tools.",
+  "tags": [
+    "disassembly",
+    "reverse-engineering",
+    "security",
+    "binary-analysis",
+    "framework"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-03T12:53:48.299526+00:00",
+  "updated_at": "2026-06-03T13:09:42.777246+00:00",
+  "published_to": []
+}

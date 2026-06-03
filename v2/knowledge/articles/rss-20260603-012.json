@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-012",
+  "source": "rss",
+  "source_url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+  "title": "AI outperforms law professors in Stanford Law study",
+  "summary": "A Stanford Law study found that AI systems outperformed law professors on legal reasoning assessments, marking a significant milestone in AI's capability to match or exceed expert-level legal cognition. The study evaluated AI performance across multiple legal tasks and revealed both the potential of AI in legal practice and implications for legal education.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Legal AI",
+    "Stanford Law",
+    "Generative AI"
+  ],
+  "problem_solved": "Evaluates whether AI systems can match or exceed expert human performance in complex legal reasoning tasks.",
+  "why_valuable": "Demonstrates AI's readiness for high-stakes professional domains like law, while raising important questions about legal education, ethics, and the future of legal work.",
+  "tags": [
+    "AI",
+    "Legal Tech",
+    "Stanford",
+    "LLM",
+    "Legal Education"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-03T12:54:04.105888+00:00",
+  "updated_at": "2026-06-03T13:09:42.777756+00:00",
+  "published_to": []
+}

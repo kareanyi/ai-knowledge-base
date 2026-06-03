@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-003",
+  "source": "rss",
+  "source_url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+  "title": "Hacking your PC using your speaker without ever touching it",
+  "summary": "A security research article demonstrating how speakers can be weaponized to hack PCs without physical access, potentially using acoustic signals or audio-based BadUSB attack techniques to inject malicious commands.",
+  "tech_stack": [
+    "BadUSB",
+    "Acoustic Signal Processing",
+    "Hardware Security",
+    "USB Protocols",
+    "Low-level Programming"
+  ],
+  "problem_solved": "Exposes a novel hardware attack vector where audio output devices can be exploited to compromise computer systems remotely.",
+  "why_valuable": "Critical security research that helps the cybersecurity community understand and defend against emerging acoustic-based attack techniques before they are widely weaponized.",
+  "tags": [
+    "Security Research",
+    "Hardware Hacking",
+    "Acoustic Attack",
+    "BadUSB",
+    "Vulnerability Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T12:48:40.189596+00:00",
+  "updated_at": "2026-06-03T13:09:42.762554+00:00",
+  "published_to": []
+}

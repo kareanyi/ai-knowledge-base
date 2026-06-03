@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260603-018",
+  "source": "rss",
+  "source_url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+  "title": "Gmail thinks I'm stupid, so I left",
+  "summary": "A personal account of switching away from Gmail due to feeling patronized by Google's AI-powered features and email management suggestions, prompting reflection on tech companies treating users as incapable. The article gained significant traction on Hacker News with over 1000 points and 680 comments, indicating widespread resonance with user frustrations about AI overreach in everyday tools.",
+  "tech_stack": [
+    "Gmail",
+    "Google Workspace",
+    "Email Services"
+  ],
+  "problem_solved": "Addresses the frustration users feel when technology companies assume they need AI hand-holding for basic tasks like email management.",
+  "why_valuable": "Captures a growing sentiment among users who feel increasingly disrespected by AI features that treat common behaviors as problems to be solved, resonating with discussions about user agency in the age of AI.",
+  "tags": [
+    "Email",
+    "AI-Criticism",
+    "User-Experience",
+    "Privacy",
+    "Google"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T13:00:52.376008+00:00",
+  "updated_at": "2026-06-03T13:09:42.779128+00:00",
+  "published_to": []
+}

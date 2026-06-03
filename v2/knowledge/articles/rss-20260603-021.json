@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260603-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+  "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+  "summary": "E.ON, a major utility company, is leveraging SAP S/4HANA to standardize grid data and modernize their energy infrastructure across three business domains: energy grids, customer solutions, and energy infrastructure solutions. This standardization enables them to execute AI deployments while managing continuous capital expenditure requirements for IT hardware and software maintenance.",
+  "tech_stack": [
+    "SAP S/4HANA",
+    "AI/ML",
+    "ERP Systems",
+    "Energy Infrastructure",
+    "Data Standardization"
+  ],
+  "problem_solved": "E.ON needed to unify data across diverse energy infrastructure operations to enable AI deployments while justifying the business case for large-scale digital transformation to leadership.",
+  "why_valuable": "This case demonstrates how enterprise ERP standardization can serve as a foundation for AI adoption in critical infrastructure sectors like energy utilities, enabling scalability and operational efficiency.",
+  "tags": [
+    "Energy",
+    "SAP",
+    "AI",
+    "Digital Transformation",
+    "Utilities"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-03T13:02:20.800665+00:00",
+  "updated_at": "2026-06-03T13:09:42.779768+00:00",
+  "published_to": []
+}
