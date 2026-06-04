@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-015",
+  "source": "rss",
+  "source_url": "https://github.com/duanebester/gooey",
+  "title": "Gooey: A GPU-accelerated UI framework for Zig",
+  "summary": "Gooey is a GPU-accelerated UI framework designed specifically for the Zig programming language, enabling developers to build high-performance graphical user interfaces by leveraging GPU rendering capabilities instead of traditional CPU-based UI rendering.",
+  "tech_stack": [
+    "Zig",
+    "GPU Acceleration",
+    "Graphics API",
+    "Desktop UI",
+    "Vulkan/DirectX"
+  ],
+  "problem_solved": "Addresses the lack of modern, GPU-accelerated UI framework options available in the Zig ecosystem for building high-performance desktop applications.",
+  "why_valuable": "It brings GPU-accelerated UI rendering to Zig, enabling significantly better performance for UI-intensive applications compared to traditional CPU-rendered frameworks.",
+  "tags": [
+    "UI Framework",
+    "GPU Acceleration",
+    "Zig",
+    "GUI Development",
+    "Graphics Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-04T11:23:21.891073+00:00",
+  "updated_at": "2026-06-04T11:25:41.406087+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260604-019",
+  "source": "rss",
+  "source_url": "https://letsencrypt.org/2026/06/03/pq-certs",
+  "title": "A Post-Quantum Future for Let's Encrypt",
+  "summary": "Let's Encrypt announces its roadmap for implementing post-quantum cryptography certificates to prepare for the quantum computing era, ensuring secure TLS infrastructure remains resilient against future quantum attacks that could break current RSA/EC cryptographic standards.",
+  "tech_stack": [
+    "Post-Quantum Cryptography",
+    "TLS/SSL",
+    "Certificate Infrastructure",
+    "PQC Algorithms"
+  ],
+  "problem_solved": "Preparing internet security infrastructure against quantum computing threats that could compromise current asymmetric encryption standards.",
+  "why_valuable": "Ensures the foundational security of HTTPS and internet encryption remains robust as quantum computers capable of breaking current cryptography become feasible.",
+  "tags": [
+    "Security",
+    "Cryptography",
+    "Quantum Computing",
+    "TLS",
+    "Certificates"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-04T11:23:56.561683+00:00",
+  "updated_at": "2026-06-04T11:25:41.406879+00:00",
+  "published_to": []
+}

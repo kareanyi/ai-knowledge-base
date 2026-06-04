@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260604-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+  "title": "Walmart&#8217;s AI workflows meet the realities of the balance sheet",
+  "summary": "Walmart is restricting employee use of its internal AI assistant 'Code Puppy' after discovering that the LLM demands were significantly higher than anticipated. The company initially encouraged unrestricted use but is now assigning employees specific usage limits to manage costs and align AI workflows with budget realities.",
+  "tech_stack": [
+    "LLM",
+    "Enterprise AI",
+    "Internal AI Assistant"
+  ],
+  "problem_solved": "Addresses the challenge of managing AI implementation costs in enterprise environments when unrestricted AI tool usage leads to unexpected resource consumption.",
+  "why_valuable": "Provides a real-world case study demonstrating that even large enterprises must carefully balance AI adoption with fiscal constraints and operational realities.",
+  "tags": [
+    "Enterprise AI",
+    "Cost Management",
+    "LLM",
+    "AI Adoption",
+    "Business Strategy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-04T11:24:32.903732+00:00",
+  "updated_at": "2026-06-04T11:25:41.407429+00:00",
+  "published_to": []
+}

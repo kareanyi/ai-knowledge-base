@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-001",
+  "source": "rss",
+  "source_url": "https://momentsingraphics.de/Siggraph2026.html",
+  "title": "Gaussian Point Splatting",
+  "summary": "Gaussian Point Splatting is a rendering technique presented at SIGGRAPH 2026, representing an advancement in point-based neural rendering that enables efficient 3D scene representation and real-time view synthesis through gaussian-based point primitives.",
+  "tech_stack": [
+    "3D Gaussian Splatting",
+    "Point-based Rendering",
+    "Neural Rendering",
+    "GPU Acceleration",
+    "Real-time Graphics"
+  ],
+  "problem_solved": "Enables efficient real-time 3D scene rendering and novel view synthesis with improved visual quality and computational performance.",
+  "why_valuable": "Advances the state-of-the-art in neural rendering by providing a more efficient and visually accurate approach to 3D reconstruction and real-time view synthesis compared to traditional mesh-based methods.",
+  "tags": [
+    "Neural Rendering",
+    "3D Gaussian Splatting",
+    "SIGGRAPH 2026",
+    "Point Cloud Rendering",
+    "Novel View Synthesis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-04T11:21:22.292570+00:00",
+  "updated_at": "2026-06-04T11:25:41.394935+00:00",
+  "published_to": []
+}

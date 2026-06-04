@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-004",
+  "source": "rss",
+  "source_url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+  "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+  "summary": "A security researcher spent $1,500 building a deliberately vulnerable web application and tested multiple LLMs (including GPT-4 and others) to see if they could identify and exploit vulnerabilities, documenting the results and comparing LLM hacking capabilities.",
+  "tech_stack": [
+    "LLMs",
+    "Python",
+    "Web Applications",
+    "Security Tools",
+    "API Integration"
+  ],
+  "problem_solved": "Empirically measures whether current LLMs can autonomously discover and exploit security vulnerabilities in web applications.",
+  "why_valuable": "Provides real-world data on LLM security capabilities and limitations, helping the security community understand AI-assisted attack vectors.",
+  "tags": [
+    "AI-Security",
+    "LLM-Evaluation",
+    "Penetration-Testing",
+    "Vulnerability-Research",
+    "Red-Teaming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-04T11:21:41.688034+00:00",
+  "updated_at": "2026-06-04T11:25:41.395692+00:00",
+  "published_to": []
+}

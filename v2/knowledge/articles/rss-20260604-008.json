@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-008",
+  "source": "rss",
+  "source_url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+  "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+  "summary": "This blog post from Google's Open Source Blog chronicles the development journey of JPEG XL, highlighting how open-source experiments and community collaboration shaped the modern image codec that serves as a successor to traditional JPEG. The article details Google's involvement in the standardization process and how open-source contributions drove innovation in image compression technology.",
+  "tech_stack": [
+    "JPEG XL",
+    "libjxl",
+    "Image Compression",
+    "Open Source",
+    "Web Standards"
+  ],
+  "problem_solved": "It documents how collaborative open-source development accelerated the creation of JPEG XL, a next-generation image format offering superior compression efficiency and quality compared to legacy formats.",
+  "why_valuable": "This article provides valuable insights into how open-source community contributions can influence and shape industry standards for fundamental web technologies like image coding.",
+  "tags": [
+    "Open Source",
+    "JPEG XL",
+    "Image Codec",
+    "Google",
+    "Web Standards"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-04T11:22:20.581723+00:00",
+  "updated_at": "2026-06-04T11:25:41.404778+00:00",
+  "published_to": []
+}

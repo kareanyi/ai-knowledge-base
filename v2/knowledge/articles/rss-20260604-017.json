@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-017",
+  "source": "rss",
+  "source_url": "https://www.espressif.com/en/products/socs/esp32-s31",
+  "title": "ESP32-S31",
+  "summary": "Espressif ESP32-S3 is a low-cost, low-power system-on-chip with dual-core Xtensa processor, integrated Wi-Fi 802.11 b/g/n, Bluetooth 5.0 LE, and a Neural Network Accelerator for on-device AI/ML inference, designed for IoT and edge AI applications.",
+  "tech_stack": [
+    "C/C++",
+    "ESP-IDF",
+    "Arduino",
+    "Python",
+    "FreeRTOS"
+  ],
+  "problem_solved": "Provides an affordable, power-efficient SoC for building connected IoT devices with embedded AI capabilities",
+  "why_valuable": "Enables developers to deploy machine learning models directly on low-cost edge devices with Wi-Fi/Bluetooth connectivity, democratizing AIoT development",
+  "tags": [
+    "IoT",
+    "Edge AI",
+    "WiFi",
+    "Bluetooth LE",
+    "Embedded Systems"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-04T11:23:40.687042+00:00",
+  "updated_at": "2026-06-04T11:25:41.406459+00:00",
+  "published_to": []
+}

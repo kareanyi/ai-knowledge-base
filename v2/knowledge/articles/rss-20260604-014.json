@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-014",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48387095",
+  "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+  "summary": "Hyper is a YC-backed startup building a shared 'company brain' that connects AI agents to internal company information, solving the common problem where AI models lack context about specific business operations and data. Founded by two longtime friends with 10+ years of collaborative development experience.",
+  "tech_stack": [
+    "AI Agents",
+    "LLMs",
+    "Automation Systems",
+    "Knowledge Management",
+    "API Integration"
+  ],
+  "problem_solved": "AI models are now capable of handling complex long-horizon tasks but lack access to company-specific context and information needed to execute effectively.",
+  "why_valuable": "Enables organizations to leverage existing AI capabilities by giving agents the contextual knowledge they need, ultimately saving significant time on business operations.",
+  "tags": [
+    "AI Agents",
+    "Startup",
+    "Knowledge Management",
+    "Automation",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-04T11:23:11.889001+00:00",
+  "updated_at": "2026-06-04T11:25:41.405905+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-020",
+  "source": "rss",
+  "source_url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+  "title": "DaVinci Resolve 21",
+  "summary": "DaVinci Resolve 21 is Blackmagic Design's latest major release of its professional video editing and color grading software, featuring AI-powered tools, enhanced editing workflows, and new generative features for video professionals and content creators.",
+  "tech_stack": [
+    "Video Editing",
+    "AI/ML",
+    "Color Grading",
+    "VFX Compositing",
+    "Audio Post-Production"
+  ],
+  "problem_solved": "Provides professional-grade video editing, color correction, and post-production capabilities with AI assistance for faster workflows.",
+  "why_valuable": "Consolidates professional editing, VFX, color grading, and audio tools in one package with AI features that significantly accelerate traditionally time-consuming tasks.",
+  "tags": [
+    "video-editing",
+    "AI",
+    "post-production",
+    "color-grading",
+    "professional-software"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-04T11:24:09.192696+00:00",
+  "updated_at": "2026-06-04T11:25:41.407056+00:00",
+  "published_to": []
+}

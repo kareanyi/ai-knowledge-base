@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+  "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+  "summary": "Amazon is extending its AI shopping assistant technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade as one of the first brands to adopt it. This service enables retailers to create customized AI shopping assistants for their own websites and apps, trained on their specific product catalogues.",
+  "tech_stack": [
+    "AWS",
+    "Agentic AI",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Enables retailers to quickly deploy sophisticated AI shopping assistants without building the technology from scratch.",
+  "why_valuable": "Democratizes access to enterprise-grade AI shopping experiences, allowing brands of all sizes to compete with Amazon's customer service capabilities.",
+  "tags": [
+    "AI Shopping",
+    "E-commerce",
+    "AWS",
+    "Retail Tech",
+    "Agentic AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-04T11:24:21.476435+00:00",
+  "updated_at": "2026-06-04T11:25:41.407226+00:00",
+  "published_to": []
+}

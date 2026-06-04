@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-010",
+  "source": "rss",
+  "source_url": "https://www.ableton.com/en/live/extensions/",
+  "title": "Ableton Extensions SDK",
+  "summary": "Ableton has released an official Extensions SDK that enables third-party developers to create extensions for Ableton Live music production software, allowing deeper integration and automation capabilities within the DAW environment.",
+  "tech_stack": [
+    "C++",
+    "JavaScript",
+    "Live API",
+    "Max for Live",
+    "JSON"
+  ],
+  "problem_solved": "Provides a standardized way for developers to extend Ableton Live's functionality beyond what's available through built-in features or Max for Live.",
+  "why_valuable": "Opens Ableton's ecosystem to community development, enabling custom tools and integrations that enhance music production workflows and creative possibilities.",
+  "tags": [
+    "music-production",
+    "DAW",
+    "SDK",
+    "plugin-development",
+    "Ableton"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-04T11:22:43.803661+00:00",
+  "updated_at": "2026-06-04T11:25:41.405169+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260604-002",
+  "source": "rss",
+  "source_url": "https://uruky.com/?il=en",
+  "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+  "summary": "Uruky is an EU-based privacy-focused search engine alternative to Kagi that has launched new features including image search and URL rewrites, offering a unique 2-hour free trial through a proof-of-work captcha system when users top up their account.",
+  "tech_stack": [
+    "Search Engine Technology",
+    "Proof-of-Work CAPTCHA",
+    "Privacy Tools"
+  ],
+  "problem_solved": "Provides a privacy-respecting alternative to mainstream search engines with EU jurisdiction for users concerned about data collection.",
+  "why_valuable": "Offers EU-based search with strong privacy guarantees, no tracking, and innovative trial model using proof-of-work, with plans to move to permissive source-available licensing.",
+  "tags": [
+    "Privacy",
+    "Search Engine",
+    "EU-based",
+    "Alternative Search",
+    "No Tracking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-04T11:21:27.055575+00:00",
+  "updated_at": "2026-06-04T11:25:41.395249+00:00",
+  "published_to": []
+}

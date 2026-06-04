@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260604-012",
+  "source": "rss",
+  "source_url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+  "title": "Elixir v1.20: Now a gradually typed language",
+  "summary": "Elixir v1.20 officially introduces gradual typing, transforming Elixir from a purely dynamic language into a gradually typed language where developers can optionally add type specifications that are enforced at compile-time or runtime depending on the context.",
+  "tech_stack": [
+    "Elixir",
+    "BEAM",
+    "Dialyzer",
+    "TypeSpec",
+    "Erlang"
+  ],
+  "problem_solved": "Addresses the tension between dynamic flexibility and static type safety by allowing incremental type adoption without requiring full codebase rewrites.",
+  "why_valuable": "Enables development teams to catch type-related bugs earlier through optional compile-time checks while maintaining Elixir's dynamic nature for rapid prototyping and experimentation.",
+  "tags": [
+    "Gradual Typing",
+    "Functional Programming",
+    "Type Systems",
+    "BEAM VM",
+    "Language Evolution"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-04T11:22:53.116197+00:00",
+  "updated_at": "2026-06-04T11:25:41.405553+00:00",
+  "published_to": []
+}

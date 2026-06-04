@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260604-013",
+  "source": "rss",
+  "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+  "title": "Artificial intelligence is not conscious – Ted Chiang",
+  "summary": "Renowned sci-fi author Ted Chiang argues that current AI systems are not conscious, examining the philosophical distinction between sophisticated pattern matching and genuine subjective experience. The article addresses growing misconceptions about AI consciousness in an era of advanced language models.",
+  "tech_stack": [
+    "Large Language Models",
+    "Neural Networks",
+    "AI Systems"
+  ],
+  "problem_solved": "Distinguishes between apparent intelligence/performance and genuine consciousness in AI systems.",
+  "why_valuable": "Provides nuanced philosophical analysis from a respected thinker who has long explored consciousness themes in science fiction, helping readers understand why attributing consciousness to AI is philosophically problematic.",
+  "tags": [
+    "AI",
+    "Consciousness",
+    "Philosophy",
+    "Ethics",
+    "Ted Chiang"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-04T11:22:58.635452+00:00",
+  "updated_at": "2026-06-04T11:25:41.405729+00:00",
+  "published_to": []
+}
