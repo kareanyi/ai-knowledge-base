@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260605-010",
+  "source": "rss",
+  "source_url": "https://isupmap.com/",
+  "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+  "summary": "IsUpMap is a web-based tool that displays the real-time uptime status of over 100 major websites on a single visual map, allowing users to quickly diagnose widespread service outages without checking each site individually.",
+  "tech_stack": [
+    "Web",
+    "Status APIs",
+    "Visual Dashboard"
+  ],
+  "problem_solved": "Solves the problem of manually checking multiple websites one by one when diagnosing potential service outages.",
+  "why_valuable": "Provides a one-glance overview of internet service health, saving time for developers and sysadmins during incident response.",
+  "tags": [
+    "Monitoring",
+    "Uptime",
+    "Status Page",
+    "Dashboard",
+    "DevOps"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-05T11:35:23.767610+00:00",
+  "updated_at": "2026-06-05T11:38:07.567398+00:00",
+  "published_to": []
+}

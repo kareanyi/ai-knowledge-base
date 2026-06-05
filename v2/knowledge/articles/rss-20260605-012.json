@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-012",
+  "source": "rss",
+  "source_url": "https://magenta.withgoogle.com/magenta-realtime-2",
+  "title": "Magenta RealTime 2: Open and Local Live Music Models",
+  "summary": "Google Magenta's RealTime 2 is an open-source project enabling real-time AI-powered music generation that runs locally without cloud dependency. It builds on Google's music AI research to provide low-latency models suitable for live performances, giving musicians and creators more control over AI-assisted music creation.",
+  "tech_stack": [
+    "TensorFlow",
+    "Python",
+    "ONNX",
+    "Audio Processing",
+    "Machine Learning"
+  ],
+  "problem_solved": "Enables real-time AI music generation that runs locally without internet or cloud services, addressing latency and privacy concerns for live performance use cases.",
+  "why_valuable": "Provides open, local AI music models that democratize access to real-time generative music tools for live performances while maintaining user privacy and reducing latency.",
+  "tags": [
+    "AI-Music",
+    "RealTime-AI",
+    "Open-Source",
+    "TensorFlow",
+    "Live-Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-05T11:35:34.450124+00:00",
+  "updated_at": "2026-06-05T11:38:07.567816+00:00",
+  "published_to": []
+}

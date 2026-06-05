@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260605-011",
+  "source": "rss",
+  "source_url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+  "title": "C++: The Documentary",
+  "summary": "A documentary released by Herb Sutter chronicling the history, evolution, and significance of the C++ programming language, showcasing its journey from creation to modern day relevance.",
+  "tech_stack": [
+    "C++",
+    "Programming Languages",
+    "Software Development"
+  ],
+  "problem_solved": "Documents the history and evolution of C++ for the developer community.",
+  "why_valuable": "Provides authoritative insights from a C++ standards committee chair about a language that remains critical in systems programming, game development, and performance-critical applications.",
+  "tags": [
+    "C++",
+    "Documentary",
+    "Programming",
+    "History",
+    "Software Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-05T11:35:29.454473+00:00",
+  "updated_at": "2026-06-05T11:38:07.567609+00:00",
+  "published_to": []
+}

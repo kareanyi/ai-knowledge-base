@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260605-008",
+  "source": "rss",
+  "source_url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+  "title": "There's no escaping it: an exploration of ANSI codes",
+  "summary": "This blog post explores ANSI escape codes, which are special control sequences used to format terminal output including colors, cursor movement, and text styling. The article explains how these codes work under the hood and demonstrates practical applications for creating more visually appealing command-line interfaces.",
+  "tech_stack": [
+    "Terminal Emulators",
+    "CLI",
+    "Shell Scripting",
+    "Command Line"
+  ],
+  "problem_solved": "Teaches developers how to add colors, formatting, and interactive features to terminal applications using ANSI escape codes.",
+  "why_valuable": "Understanding ANSI codes is essential for creating user-friendly CLI tools and enhancing terminal-based applications with visual feedback.",
+  "tags": [
+    "Terminal",
+    "ANSI",
+    "CLI",
+    "Command Line",
+    "Text Formatting"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-05T11:35:10.278270+00:00",
+  "updated_at": "2026-06-05T11:38:07.566826+00:00",
+  "published_to": []
+}

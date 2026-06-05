@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-009",
+  "source": "rss",
+  "source_url": "https://passo.uno/fine-tuning-docs-llm/",
+  "title": "Fine-tuning an LLM to write docs like it's 1995",
+  "summary": "An experimental project where the author fine-tunes a large language model to generate technical documentation in the classic 1995 style - characterized by brevity, directness, and no-nonsense technical writing, rather than the verbose AI-generated content common today.",
+  "tech_stack": [
+    "LLM Fine-tuning",
+    "Python",
+    "OpenAI API",
+    "Hugging Face",
+    "Machine Learning"
+  ],
+  "problem_solved": "Addresses the problem of modern AI-generated documentation being overly verbose, templated, and lacking the concise, authoritative style of classic technical writing.",
+  "why_valuable": "Demonstrates how fine-tuning can teach AI models specific stylistic preferences, showing that AI output style is customizable beyond just prompting.",
+  "tags": [
+    "LLM Fine-tuning",
+    "Documentation",
+    "AI",
+    "Style Transfer",
+    "Technical Writing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-05T11:35:14.330166+00:00",
+  "updated_at": "2026-06-05T11:38:07.567166+00:00",
+  "published_to": []
+}

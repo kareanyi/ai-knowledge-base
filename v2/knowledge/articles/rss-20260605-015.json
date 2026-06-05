@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-015",
+  "source": "rss",
+  "source_url": "https://fb.watch/HxPu0fSyeH/",
+  "title": "Meta enables ADB on deprecated Portal devices [video]",
+  "summary": "Meta has enabled Android Debug Bridge (ADB) access on its deprecated Portal smart display devices, allowing developers to install and run custom applications on hardware that was previously locked down. This move opens up the discontinued Portal devices to broader developer experimentation and repurposing.",
+  "tech_stack": [
+    "ADB",
+    "Android",
+    "Meta Horizon OS",
+    "Python",
+    "Shell"
+  ],
+  "problem_solved": "Enables developers to unlock and repurpose deprecated Portal hardware for custom applications instead of rendering the devices useless.",
+  "why_valuable": "This gives new life to discontinued Portal devices by allowing third-party app development, similar to how Arduino opened up hardware for the maker community.",
+  "tags": [
+    "Hardware",
+    "ADB",
+    "Meta Portal",
+    "IoT",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-05T11:36:00.171180+00:00",
+  "updated_at": "2026-06-05T11:38:07.568491+00:00",
+  "published_to": []
+}

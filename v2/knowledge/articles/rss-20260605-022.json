@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
+  "title": "Scout from M&#8217;Soft is the agentic Autopilot that works across M365",
+  "summary": "Microsoft announced at Build event a new agentic 'Autopilot' feature called Scout that operates autonomously across Microsoft 365 applications. Each Autopilot has its own identity, allowing multiple AI agents to work on a user's behalf across different M365 services.",
+  "tech_stack": [
+    "Microsoft 365",
+    "AI Agents",
+    "Azure AI",
+    "Autopilot",
+    "Enterprise Software"
+  ],
+  "problem_solved": "Enables users to delegate complex multi-app tasks to autonomous AI agents that can work across Microsoft 365 without constant human oversight.",
+  "why_valuable": "Revolutionizes workplace productivity by providing AI agents with persistent identities that can autonomously navigate and complete tasks across the entire Microsoft 365 ecosystem.",
+  "tags": [
+    "AI Agents",
+    "Microsoft 365",
+    "Autopilot",
+    "Enterprise AI",
+    "Automation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-05T11:37:03.655603+00:00",
+  "updated_at": "2026-06-05T11:38:07.569766+00:00",
+  "published_to": []
+}

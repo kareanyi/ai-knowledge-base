@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260605-002",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48410589",
+  "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+  "summary": "A HN user shares frustration with modern marketing-heavy websites and proposes that the AI/LLM revolution might inadvertently improve web experience for humans. They manually visit `/llm.txt` endpoints to get cleaner, direct content and wonder if this trend could benefit everyone.",
+  "tech_stack": [
+    "Markdown",
+    "Web Standards",
+    "LLM Integration",
+    "Gopher/Gemini Protocol"
+  ],
+  "problem_solved": "Eliminates marketing bloat and parsing friction when accessing web content, both for LLMs and humans.",
+  "why_valuable": "It proposes a cleaner, distraction-free web format that serves both machine consumers (LLMs) and humans seeking direct information.",
+  "tags": [
+    "Web Standards",
+    "AI",
+    "Markdown",
+    "UX Improvement",
+    "Alternative Web"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-05T11:34:20.083411+00:00",
+  "updated_at": "2026-06-05T11:38:07.557186+00:00",
+  "published_to": []
+}

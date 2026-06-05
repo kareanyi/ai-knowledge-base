@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260605-018",
+  "source": "rss",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+  "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+  "summary": "S&P Dow Jones Indices has decided to maintain its current rules for including mega-cap IPOs in their indexes, after a consultation process. This decision means companies like SpaceX will not receive fast-track entry to S&P indices regardless of their size or valuation at IPO.",
+  "tech_stack": [
+    "Finance",
+    "Index Investing",
+    "Stock Market",
+    "IPO"
+  ],
+  "problem_solved": "Clarifies the criteria and timeline for how mega-cap companies can be included in major stock market indices.",
+  "why_valuable": "Provides transparency for institutional investors and companies about index inclusion rules, which affect billions of dollars in passive investment flows.",
+  "tags": [
+    "Finance",
+    "IPO",
+    "S&P500",
+    "Index Funds",
+    "Investment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-05T11:36:25.010094+00:00",
+  "updated_at": "2026-06-05T11:38:07.569072+00:00",
+  "published_to": []
+}

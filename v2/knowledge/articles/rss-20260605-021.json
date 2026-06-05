@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
+  "title": "Meta Business Agent drives AI-powered conversational commerce",
+  "summary": "Meta has launched Business Agent to automate conversational commerce workflows directly within its messaging applications, allowing global retail brands to execute transactions and handle customer support tickets without human intervention. The solution integrates agentic AI natively into Instagram, Messenger, and soon WhatsApp, positioning AI agents at the core of social commerce.",
+  "tech_stack": [
+    "Agentic AI",
+    "Conversational AI",
+    "Instagram",
+    "Messenger",
+    "WhatsApp"
+  ],
+  "problem_solved": "Enables retail brands to automate sales transactions and customer support directly within social messaging platforms without human agents.",
+  "why_valuable": "Bridges the gap between social media engagement and e-commerce by enabling end-to-end AI-powered shopping experiences, reducing operational costs and improving response times for brands.",
+  "tags": [
+    "AI Agents",
+    "Conversational Commerce",
+    "Meta",
+    "Social Commerce",
+    "Retail Automation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-05T11:36:49.794575+00:00",
+  "updated_at": "2026-06-05T11:38:07.569596+00:00",
+  "published_to": []
+}

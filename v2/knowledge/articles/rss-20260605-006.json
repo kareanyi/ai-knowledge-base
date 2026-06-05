@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-006",
+  "source": "rss",
+  "source_url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+  "title": "Changing How We Develop Ladybird",
+  "summary": "Ladybird 项目宣布改变其开发方式，采用更透明、社区驱动的开发模式，放弃了之前保密的开发策略，转向公开协作开发流程。",
+  "tech_stack": [
+    "C++",
+    "WebKit",
+    "Qt",
+    "CMake",
+    "Git"
+  ],
+  "problem_solved": "解决开源浏览器项目中长期存在的开发过程不透明、闭门造车的问题。",
+  "why_valuable": "通过公开开发过程，吸引了更多贡献者参与，提高了项目的可信度和可持续发展能力。",
+  "tags": [
+    "OpenSource",
+    "Browser",
+    "WebKit",
+    "Community",
+    "Development"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-05T11:34:54.043891+00:00",
+  "updated_at": "2026-06-05T11:38:07.558030+00:00",
+  "published_to": []
+}

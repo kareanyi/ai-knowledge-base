@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-003",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+  "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+  "summary": "This article explores how quantum entanglement may be the fundamental building block of space-time geometry, and how 'quantum magic' (computational complexity) relates to gravitational physics. It discusses cutting-edge theoretical physics research connecting quantum information theory with the nature of gravity.",
+  "tech_stack": [
+    "Quantum Mechanics",
+    "Tensor Networks",
+    "AdS/CFT Correspondence",
+    "Quantum Information Theory",
+    "General Relativity"
+  ],
+  "problem_solved": "How quantum entanglement and computational complexity relate to the fundamental structure of space-time and the origin of gravity.",
+  "why_valuable": "It bridges the gap between quantum information science and gravitational physics, potentially leading toward a unified theory of quantum gravity.",
+  "tags": [
+    "Quantum Physics",
+    "Entanglement",
+    "Gravity",
+    "Space-Time",
+    "Theoretical Physics"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-05T11:34:28.503420+00:00",
+  "updated_at": "2026-06-05T11:38:07.557397+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-001",
+  "source": "rss",
+  "source_url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+  "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+  "summary": "The European Commission published a communication addressing European technological sovereignty, accompanied by a comprehensive EU open-source strategy. This policy framework aims to reduce dependency on non-EU technology providers and promote open-source adoption across member states for strategic digital infrastructure.",
+  "tech_stack": [
+    "Open Source Software",
+    "Cloud Infrastructure",
+    "AI/ML",
+    "Semiconductors",
+    "Digital Infrastructure"
+  ],
+  "problem_solved": "Addresses Europe's strategic dependency on foreign technology providers and establishes a framework for digital autonomy.",
+  "why_valuable": "Provides a concrete policy roadmap for EU member states to adopt open-source solutions and strengthen technological sovereignty.",
+  "tags": [
+    "EU Policy",
+    "Tech Sovereignty",
+    "Open Source",
+    "Digital Strategy",
+    "Regulation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-05T11:34:12.558103+00:00",
+  "updated_at": "2026-06-05T11:38:07.556792+00:00",
+  "published_to": []
+}

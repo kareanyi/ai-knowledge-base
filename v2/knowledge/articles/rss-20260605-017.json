@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-017",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.04032",
+  "title": "Do transformers need three projections? Systematic study of QKV variants",
+  "summary": "This paper systematically investigates whether transformer architectures truly need all three QKV (Query, Key, Value) projections, conducting comprehensive experiments to understand which projections contribute most to model performance and whether simplified variants can achieve comparable results.",
+  "tech_stack": [
+    "Transformers",
+    "PyTorch",
+    "Attention Mechanism",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+  "problem_solved": "Whether transformer models can be simplified by reducing QKV projections without sacrificing performance.",
+  "why_valuable": "Could enable more efficient transformer architectures by eliminating unnecessary computational overhead in QKV projections, potentially reducing training costs and improving inference speed.",
+  "tags": [
+    "Transformers",
+    "QKV",
+    "Model Optimization",
+    "Attention Mechanism",
+    "Architecture Study"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-05T11:36:17.992286+00:00",
+  "updated_at": "2026-06-05T11:38:07.568861+00:00",
+  "published_to": []
+}

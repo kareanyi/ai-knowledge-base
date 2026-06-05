@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-005",
+  "source": "rss",
+  "source_url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+  "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+  "summary": "ESP32 Bit Pirate is a hardware hacking tool built on the ESP32 platform that provides a Web-based command-line interface supporting multiple communication protocols for hardware debugging and security testing. It enables developers and security researchers to interact with various hardware interfaces including I2C, SPI, UART, and 1-Wire through an accessible web browser. The project combines the affordability of ESP32 with flexible protocol support to create a portable hardware analysis toolkit.",
+  "tech_stack": [
+    "ESP32",
+    "C/C++",
+    "WebCLI",
+    "Embedded Systems",
+    "Hardware Protocols"
+  ],
+  "problem_solved": "Provides an accessible, low-cost solution for hardware debugging and protocol analysis across multiple communication interfaces.",
+  "why_valuable": " democratizes hardware hacking by combining the power of ESP32 with web-based accessibility, making protocol analysis and hardware debugging available to more researchers and developers without expensive equipment.",
+  "tags": [
+    "Hardware",
+    "Security",
+    "ESP32",
+    "Embedded",
+    "IoT"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-05T11:34:45.396260+00:00",
+  "updated_at": "2026-06-05T11:38:07.557793+00:00",
+  "published_to": []
+}

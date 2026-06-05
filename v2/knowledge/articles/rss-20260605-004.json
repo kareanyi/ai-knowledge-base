@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-004",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.03673",
+  "title": "Tracing a powerful GNSS interference source over Europe",
+  "summary": "A research paper presenting methods to trace and identify powerful GNSS (Global Navigation Satellite Systems) interference sources affecting navigation signals across Europe. The study detects and localizes signal jamming or spoofing incidents that could impact aviation, maritime, and autonomous vehicle operations.",
+  "tech_stack": [
+    "GNSS Signal Processing",
+    "Radio Frequency Detection",
+    "Interference Analysis",
+    "Multi-station Tracking",
+    "European Navigation Infrastructure"
+  ],
+  "problem_solved": "Locates and identifies sources of GNSS signal interference that threaten navigation safety and critical infrastructure across Europe.",
+  "why_valuable": "GNSS jamming and spoofing poses increasing risks to aviation, shipping, and autonomous systems; this research provides methods to detect and trace interference sources for security and safety purposes.",
+  "tags": [
+    "GNSS",
+    "Navigation",
+    "Signal Jamming",
+    "RF Security",
+    "Aviation Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-05T11:34:33.203534+00:00",
+  "updated_at": "2026-06-05T11:38:07.557601+00:00",
+  "published_to": []
+}

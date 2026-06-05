@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-020",
+  "source": "rss",
+  "source_url": "https://github.com/anthropics/defending-code-reference-harness",
+  "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+  "summary": "Anthropic released an open-source framework called 'defending-code-reference-harness' for AI-powered vulnerability discovery in code. The project gained significant traction on Hacker News with 439 points and 123 comments, indicating strong community interest in AI-assisted security tools.",
+  "tech_stack": [
+    "AI/ML",
+    "Claude",
+    "Code Analysis",
+    "Python",
+    "Security Scanning"
+  ],
+  "problem_solved": "Automates the detection of security vulnerabilities in source code that would otherwise require manual expert review.",
+  "why_valuable": "Enables developers and security teams to scale vulnerability auditing using AI, potentially catching critical security flaws earlier in the development lifecycle.",
+  "tags": [
+    "Security",
+    "AI",
+    "Vulnerability Discovery",
+    "Open Source",
+    "Code Analysis"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-05T11:36:44.692197+00:00",
+  "updated_at": "2026-06-05T11:38:07.569427+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260605-013",
+  "source": "rss",
+  "source_url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+  "title": "Linear Cosine Palettes(2025)",
+  "summary": "A blog post by DJ Navarro exploring a mathematical approach to generating color palettes using cosine functions, offering a more systematic alternative to traditional gradient interpolation methods.",
+  "tech_stack": [
+    "R",
+    "Mathematica",
+    "Data Visualization",
+    "Color Theory",
+    "Generative Art"
+  ],
+  "problem_solved": "Creating smooth, aesthetically pleasing color palettes with precise mathematical control rather than relying on ad-hoc interpolation.",
+  "why_valuable": "Provides data scientists, artists, and developers with a principled, reproducible method for generating color gradients based on trigonometric functions, making palette creation more deterministic and customizable.",
+  "tags": [
+    "Color Palette",
+    "Cosine Functions",
+    "Data Visualization",
+    "Generative Art",
+    "Mathematical Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-05T11:35:40.591339+00:00",
+  "updated_at": "2026-06-05T11:38:07.568054+00:00",
+  "published_to": []
+}
