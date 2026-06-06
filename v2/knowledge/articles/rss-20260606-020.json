@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260606-020",
+  "source": "rss",
+  "source_url": "https://alexispurslane.github.io/rsync-analysis/",
+  "title": "Did Claude increase bugs in rsync?",
+  "summary": "An analytical investigation examining whether Claude, an AI coding assistant, led to an increase in bugs within the rsync open-source project, with findings shared via GitHub Pages and generating significant discussion on Hacker News with 414 points and 430 comments.",
+  "tech_stack": [
+    "Claude",
+    "rsync",
+    "GitHub Pages"
+  ],
+  "problem_solved": "Investigates whether AI-assisted coding tools have introduced quality regressions in real-world software projects.",
+  "why_valuable": "Addresses the critical and timely question of AI coding assistant reliability by examining concrete evidence from an open-source project.",
+  "tags": [
+    "AI",
+    "Claude",
+    "rsync",
+    "Software Quality",
+    "Bug Analysis"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-06T10:13:29.836168+00:00",
+  "updated_at": "2026-06-06T10:14:49.517038+00:00",
+  "published_to": []
+}

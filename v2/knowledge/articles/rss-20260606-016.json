@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260606-016",
+  "source": "rss",
+  "source_url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+  "title": "New method turns ocean water into drinking water, without waste",
+  "summary": "Researchers from University of Rochester have developed a new desalination method that can convert ocean water into drinkable water without producing toxic brine waste. The technique uses a specialized membrane and electric fields to selectively remove ions, making the process more energy-efficient and environmentally friendly than traditional reverse osmosis methods.",
+  "tech_stack": [
+    "Desalination Membranes",
+    "Electric Field Technology",
+    "Reverse Osmosis",
+    "Water Purification",
+    "Electrochemistry"
+  ],
+  "problem_solved": "This technology addresses the global freshwater scarcity problem by providing a sustainable way to convert seawater into drinking water without the environmental harm caused by toxic brine disposal from conventional desalination plants.",
+  "why_valuable": "With over 2 billion people lacking access to safe drinking water, this waste-free desalination method could revolutionize water supply in arid regions and coastal cities while eliminating the major environmental concern of brine pollution that affects marine ecosystems.",
+  "tags": [
+    "Water Security",
+    "Desalination",
+    "Sustainability",
+    "Clean Energy",
+    "Environmental Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-06T10:13:08.762951+00:00",
+  "updated_at": "2026-06-06T10:14:49.516441+00:00",
+  "published_to": []
+}

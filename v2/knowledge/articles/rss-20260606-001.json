@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260606-001",
+  "source": "rss",
+  "source_url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+  "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+  "summary": "A GrapheneOS user was reported to authorities for using the privacy-focused mobile operating system, sparking discussion about privacy, surveillance, and the implications of using enhanced privacy tools in the current geopolitical climate.",
+  "tech_stack": [
+    "GrapheneOS",
+    "Android",
+    "Linux Kernel"
+  ],
+  "problem_solved": "Addresses concerns about user privacy and security when using privacy-enhancing mobile operating systems.",
+  "why_valuable": "Highlights the tension between privacy technology and potential scrutiny from authorities, important for privacy-conscious users.",
+  "tags": [
+    "Privacy",
+    "Security",
+    "Android",
+    "GrapheneOS",
+    "Surveillance"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-06T10:11:19.002283+00:00",
+  "updated_at": "2026-06-06T10:14:49.505739+00:00",
+  "published_to": []
+}

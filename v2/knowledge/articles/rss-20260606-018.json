@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260606-018",
+  "source": "rss",
+  "source_url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+  "title": "India's surprise baby bust",
+  "summary": "India's fertility rate has dropped sharply to 1.78 children per woman in 2024, falling below replacement level much faster than demographers predicted. This 'baby bust' signals a major demographic shift that will reshape the nation's economy and serves as a warning to other developing countries following similar fertility trajectories.",
+  "tech_stack": [
+    "Statistics",
+    "Demographic Analysis",
+    "Economic Modeling"
+  ],
+  "problem_solved": "Highlights the unexpected speed of demographic transition in India and its economic implications for workforce and aging population.",
+  "why_valuable": "Provides critical insights into how rapidly developing nations can transition through demographic stages, offering policy lessons for managing aging populations and economic planning.",
+  "tags": [
+    "Demographics",
+    "Economics",
+    "India",
+    "Population",
+    "Fertility"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-06T10:13:17.159824+00:00",
+  "updated_at": "2026-06-06T10:14:49.516748+00:00",
+  "published_to": []
+}

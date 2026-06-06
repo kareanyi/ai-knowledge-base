@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260606-010",
+  "source": "rss",
+  "source_url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+  "title": "The perils of UUID primary keys in SQLite",
+  "summary": "An technical article exploring the performance drawbacks and pitfalls of using UUIDs as primary keys in SQLite databases, covering issues like storage inefficiency, slower index performance, and comparison speed compared to integer-based keys.",
+  "tech_stack": [
+    "SQLite",
+    "UUID",
+    "SQL",
+    "Database",
+    "Python"
+  ],
+  "problem_solved": "Explains why UUID primary keys can cause performance issues in SQLite and what alternatives or optimizations exist.",
+  "why_valuable": "Helps developers make informed decisions about primary key strategies in SQLite by understanding the real performance implications of UUIDs.",
+  "tags": [
+    "Database",
+    "SQLite",
+    "UUID",
+    "Performance",
+    "Backend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-06T10:12:25.987801+00:00",
+  "updated_at": "2026-06-06T10:14:49.515499+00:00",
+  "published_to": []
+}

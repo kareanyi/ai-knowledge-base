@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260606-009",
+  "source": "rss",
+  "source_url": "https://salvagedcircuitry.com/sigma-45mm.html",
+  "title": "The intracies of modern camera lens repair (2024)",
+  "summary": "A detailed technical blog post documenting the intricate process of disassembling and repairing a modern Sigma 45mm f/2.8 camera lens, highlighting the challenges of working with contemporary optical equipment that combines precision mechanics with integrated electronics.",
+  "tech_stack": [
+    "Precision optics",
+    "Camera lens mechanics",
+    "Microelectronics",
+    "Specialized repair tools",
+    "Optical engineering"
+  ],
+  "problem_solved": "Provides a comprehensive repair guide for modern camera lenses that have become increasingly difficult to service due to compact designs, integrated circuit boards, and precise tolerances.",
+  "why_valuable": "Helps photographers and repair technicians understand complex lens internals, potentially extending equipment lifespan and reducing electronic waste from discarded lenses.",
+  "tags": [
+    "Photography",
+    "Lens Repair",
+    "Hardware",
+    "DIY",
+    "Precision Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-06T10:12:16.984529+00:00",
+  "updated_at": "2026-06-06T10:14:49.515314+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260606-019",
+  "source": "rss",
+  "source_url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+  "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+  "summary": "Researchers analyzed and decoded GPS cryptographic signals over a 19-year period, effectively reverse-engineering the encryption protecting military GPS signals. The article reveals how a 'quiet numbers station' - a hidden GPS signal system - was systematically studied and its cryptographic protections were broken.",
+  "tech_stack": [
+    "GPS Signals",
+    "Cryptanalysis",
+    "Software Defined Radio (SDR)",
+    "Signal Processing",
+    "Navigation Systems"
+  ],
+  "problem_solved": "Breaks down how researchers reverse-engineered 19 years of classified US military GPS cryptographic systems to understand their encryption mechanisms.",
+  "why_valuable": "This security research demonstrates vulnerabilities in military GPS encryption and provides valuable insights into navigation system security that could benefit both defensive security research and broader understanding of satellite navigation protection mechanisms.",
+  "tags": [
+    "GPS",
+    "Cryptography",
+    "Security Research",
+    "Reverse Engineering",
+    "Navigation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-06T10:13:22.274563+00:00",
+  "updated_at": "2026-06-06T10:14:49.516902+00:00",
+  "published_to": []
+}

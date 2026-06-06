@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260606-014",
+  "source": "rss",
+  "source_url": "https://github.com/microsoft/pg_durable",
+  "title": "pg_durable: Microsoft open sources in-database durable execution",
+  "summary": "Microsoft has open-sourced pg_durable, a PostgreSQL extension that enables durable in-database execution where code can run within the database and survive server restarts or crashes, providing reliability guarantees for critical business operations.",
+  "tech_stack": [
+    "PostgreSQL",
+    "C/C++",
+    "SQL"
+  ],
+  "problem_solved": "Solves the problem of unreliable execution where database operations or business logic can be lost during system failures or restarts.",
+  "why_valuable": "Enables developers to build fault-tolerant database applications where critical operations are guaranteed to complete or recover gracefully, eliminating data loss scenarios in production systems.",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Durability",
+    "Open Source",
+    "Microsoft"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-06T10:12:58.631760+00:00",
+  "updated_at": "2026-06-06T10:14:49.516125+00:00",
+  "published_to": []
+}

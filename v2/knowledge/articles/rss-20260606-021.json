@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260606-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
+  "title": "How C3 AI agents will automate predictive maintenance for Shell",
+  "summary": "Shell is deploying C3 AI agents to upgrade from basic anomaly detection to fully-automated predictive maintenance across its global energy operations, building on their existing use of C3 AI Reliability Suite which already monitors over 30,000 critical equipment pieces.",
+  "tech_stack": [
+    "C3 AI agents",
+    "C3 AI Reliability Suite",
+    "Predictive Maintenance",
+    "Industrial IoT"
+  ],
+  "problem_solved": "Automates equipment failure prediction to prevent costly downtime and safety incidents in energy operations.",
+  "why_valuable": "Enables a major energy company to proactively prevent equipment failures rather than reactively responding to breakdowns, reducing operational costs and improving safety.",
+  "tags": [
+    "AI Agents",
+    "Predictive Maintenance",
+    "Energy Sector",
+    "Industrial Automation",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-06T10:13:34.277901+00:00",
+  "updated_at": "2026-06-06T10:14:49.517147+00:00",
+  "published_to": []
+}
