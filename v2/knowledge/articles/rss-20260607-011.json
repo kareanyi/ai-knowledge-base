@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-011",
+  "source": "rss",
+  "source_url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+  "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+  "summary": "Meta confirmed that thousands of Instagram accounts were compromised by attackers who exploited its AI chatbot system, using it as an attack vector to bypass authentication and gain unauthorized access to user accounts. This incident highlights the emerging security risks of integrating AI chatbots into social media platforms.",
+  "tech_stack": [
+    "Instagram",
+    "Meta AI",
+    "OAuth",
+    "Web Security",
+    "API"
+  ],
+  "problem_solved": "This article reports on a major security incident where AI chatbot functionality was weaponized to facilitate mass account takeover on Instagram.",
+  "why_valuable": "It exposes a new attack surface where AI systems can be manipulated to bypass security controls, providing critical insights for security researchers and platform developers on protecting AI-integrated services.",
+  "tags": [
+    "AI Security",
+    "Account Takeover",
+    "Vulnerability",
+    "Meta",
+    "Social Media"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-07T10:36:06.444451+00:00",
+  "updated_at": "2026-06-07T10:38:31.565567+00:00",
+  "published_to": []
+}

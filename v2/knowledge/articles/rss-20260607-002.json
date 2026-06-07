@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260607-002",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+  "title": "I design with Claude more than Figma now",
+  "summary": "A Jane Street engineer shares their experience of using Claude Code as their primary design tool instead of traditional tools like Figma, demonstrating how AI-powered coding workflows are changing design processes.",
+  "tech_stack": [
+    "Claude Code",
+    "AI Agents",
+    "Programming",
+    "UI Design"
+  ],
+  "problem_solved": "Streamlines the design process by using AI coding assistants to create UI designs directly through code rather than visual design tools.",
+  "why_valuable": "Shows a practical real-world example of how AI is transforming professional design workflows at a respected quantitative trading firm.",
+  "tags": [
+    "AI",
+    "Design",
+    "Claude",
+    "Workflow",
+    "Coding"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-07T10:34:56.996483+00:00",
+  "updated_at": "2026-06-07T10:38:31.556356+00:00",
+  "published_to": []
+}

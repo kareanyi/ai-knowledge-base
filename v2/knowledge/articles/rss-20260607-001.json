@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-001",
+  "source": "rss",
+  "source_url": "https://www.ioccc.org/2025/",
+  "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+  "summary": "IOCCC 2025获奖代码名单正式发布，这是第29届国际C语言混淆代码竞赛，展示了程序员创作的极具创意但极难理解的代码作品，每年吸引全球开发者参与挑战代码可读性极限。",
+  "tech_stack": [
+    "C",
+    "GCC",
+    "Compiler Design",
+    "Code Obfuscation",
+    "Unix"
+  ],
+  "problem_solved": "通过竞赛形式推动编程艺术发展，挑战程序员对C语言底层机制和代码美学的深层理解。",
+  "why_valuable": "IOCCC作为历史最悠久的编程竞赛之一，不仅展示了代码的创意极限，也是学习和理解C语言深层特性的独特资源。",
+  "tags": [
+    "Obfuscation",
+    "C Programming",
+    "Contest",
+    "Code Golf",
+    "Creative Coding"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-07T10:34:48.990556+00:00",
+  "updated_at": "2026-06-07T10:38:31.556079+00:00",
+  "published_to": []
+}

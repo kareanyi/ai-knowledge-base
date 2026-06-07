@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-005",
+  "source": "rss",
+  "source_url": "https://github.com/sauravrao637/oproxy",
+  "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+  "summary": "Oproxy is a browser-based tool that allows developers to inspect and modify network traffic directly from the browser. It provides a user-friendly interface for intercepting HTTP/HTTPS requests and responses, enabling real-time debugging and manipulation of network communications.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "Browser Extension API",
+    "Node.js",
+    "WebAssembly"
+  ],
+  "problem_solved": "Enables developers to intercept, inspect, and modify browser network traffic for debugging and testing purposes without requiring external proxy tools.",
+  "why_valuable": "Provides a convenient, browser-native solution for developers who need to debug APIs, test modifications, or analyze network requests without leaving their browser environment.",
+  "tags": [
+    "browser-extension",
+    "network-debugging",
+    "proxy",
+    "web-development",
+    "http-inspection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-07T10:35:19.884170+00:00",
+  "updated_at": "2026-06-07T10:38:31.556854+00:00",
+  "published_to": []
+}

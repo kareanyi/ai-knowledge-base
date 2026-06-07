@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-014",
+  "source": "rss",
+  "source_url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+  "title": "Moving beyond fork() + exec()",
+  "summary": "This LWN article explores the evolution of Unix process creation mechanisms, discussing how modern Linux systems are moving beyond the traditional fork()+exec() paradigm that has been fundamental to Unix since its inception, examining alternatives like clone(), vfork(), and emerging approaches for improved performance and security.",
+  "tech_stack": [
+    "C",
+    "Linux Kernel",
+    "Unix System Calls",
+    "POSIX",
+    "Container Runtime"
+  ],
+  "problem_solved": "Addresses the inefficiencies, overhead, and limitations of the traditional fork()+exec() process creation model in modern computing environments.",
+  "why_valuable": "Provides deep insights into Linux kernel evolution and helps developers understand the trade-offs between legacy Unix patterns and modern process management techniques for better system performance.",
+  "tags": [
+    "Linux",
+    "Unix",
+    "Kernel",
+    "ProcessManagement",
+    "SystemProgramming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-07T10:36:21.063708+00:00",
+  "updated_at": "2026-06-07T10:38:31.565905+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-019",
+  "source": "rss",
+  "source_url": "https://openai.com/index/harness-engineering/",
+  "title": "Harness engineering: Leveraging Codex in an agent-first world",
+  "summary": "This OpenAI article introduces 'harness engineering' as a methodology for effectively deploying Codex in autonomous agent workflows, where AI systems can handle complex coding tasks with minimal human intervention. It provides practical patterns and best practices for building reliable code-generating agents that can operate in production environments.",
+  "tech_stack": [
+    "OpenAI Codex",
+    "Python",
+    "API Integration",
+    "Agent Frameworks",
+    "LLM"
+  ],
+  "problem_solved": "It addresses the challenge of building reliable, autonomous coding agents that can successfully handle complex software development tasks beyond simple code completion.",
+  "why_valuable": "As AI coding assistants become more capable, harness engineering provides the architectural foundation needed to deploy them effectively in real-world automated workflows at scale.",
+  "tags": [
+    "AI",
+    "Codex",
+    "Agent",
+    "Software Engineering",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-07T10:37:08.189668+00:00",
+  "updated_at": "2026-06-07T10:38:31.566488+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260607-010",
+  "source": "rss",
+  "source_url": "https://ntsc.rs/",
+  "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+  "summary": "Ntsc-rs is an open-source Rust library that emulates the visual characteristics of analog TV broadcasts (NTSC/PAL) and VHS video recordings, including scanlines, color bleeding, signal noise, and other authentic retro artifacts. The project enables developers and enthusiasts to add realistic vintage video effects to their applications.",
+  "tech_stack": [
+    "Rust",
+    "Video Signal Processing",
+    "DSP",
+    "Graphics Rendering"
+  ],
+  "problem_solved": "Recreates authentic analog TV and VHS visual artifacts that have been lost in modern digital displays, solving the problem of adding nostalgic retro aesthetics to digital content.",
+  "why_valuable": "Provides pixel-perfect emulation of retro video artifacts for game emulators, creative projects, and nostalgia-driven applications, preserving the authentic look and feel of vintage media.",
+  "tags": [
+    "RetroComputing",
+    "VideoEmulation",
+    "Rust",
+    "NTSC",
+    "VHS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-07T10:35:54.907339+00:00",
+  "updated_at": "2026-06-07T10:38:31.565448+00:00",
+  "published_to": []
+}

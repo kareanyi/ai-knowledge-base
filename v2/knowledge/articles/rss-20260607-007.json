@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260607-007",
+  "source": "rss",
+  "source_url": "https://pdimagearchive.org/",
+  "title": "Public Domain Image Archive",
+  "summary": "Public Domain Image Archive is a website that provides a collection of public domain images that users can freely download and use without copyright restrictions. The site was shared on Hacker News and received positive community engagement with 126 points.",
+  "tech_stack": [
+    "Web Hosting",
+    "Static Content"
+  ],
+  "problem_solved": "Provides creators, designers, and developers with free, legally-usable public domain images for their projects.",
+  "why_valuable": "Offers a curated archive of copyright-free images that eliminates legal concerns and licensing costs for commercial and personal use.",
+  "tags": [
+    "public-domain",
+    "images",
+    "archive",
+    "resources",
+    "freebies"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-07T10:35:33.940057+00:00",
+  "updated_at": "2026-06-07T10:38:31.557200+00:00",
+  "published_to": []
+}

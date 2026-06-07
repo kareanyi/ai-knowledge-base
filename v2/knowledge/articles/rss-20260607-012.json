@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-012",
+  "source": "rss",
+  "source_url": "https://su3.io/posts/introducing-zeroserve",
+  "title": "Zeroserve: A zero-config web server you can script with eBPF",
+  "summary": "Zeroserve is a zero-configuration web server that leverages eBPF (Extended Berkeley Packet Filter) for dynamic scripting and packet-level customization, allowing developers to modify HTTP behavior without traditional config files or restart cycles.",
+  "tech_stack": [
+    "eBPF",
+    "Web Server",
+    "Networking",
+    "Scripting",
+    "Low-level Systems"
+  ],
+  "problem_solved": "Eliminates complex configuration files and static web server setups by enabling real-time, scriptable HTTP handling directly at the kernel/network layer.",
+  "why_valuable": "Combines the simplicity of zero-config deployment with the power of eBPF for hot-reloadable, fine-grained request manipulation without service interruption.",
+  "tags": [
+    "web-server",
+    "ebpf",
+    "zero-config",
+    "networking",
+    "scripting"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-07T10:36:11.850208+00:00",
+  "updated_at": "2026-06-07T10:38:31.565680+00:00",
+  "published_to": []
+}

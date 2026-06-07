@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-008",
+  "source": "rss",
+  "source_url": "https://gwern.net/llm-catapult",
+  "title": "Human-Like Neural Nets by Catapulting",
+  "summary": "这篇文章探讨了通过\"catapulting\"方法（即在训练过程中引入噪声和扰动）来让语言模型学习到更接近人类认知的表征，并深入分析了该方法的理论依据和实验效果。",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "transformers",
+    "RLHF",
+    "neural networks"
+  ],
+  "problem_solved": "解决大型语言模型在泛化能力、鲁棒性和认知模式上与人类思维存在差距的问题",
+  "why_valuable": "提出了一种简单但有效的训练范式，可以帮助模型习得更人类化的特征，减少幻觉并提升分布外泛化能力",
+  "tags": [
+    "LLM",
+    "neural architecture",
+    "human-like AI",
+    "training methods",
+    "robustness"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-07T10:35:40.189602+00:00",
+  "updated_at": "2026-06-07T10:38:31.565118+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-017",
+  "source": "rss",
+  "source_url": "https://pokeemerald.com/",
+  "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+  "summary": "Pokemon Emerald, a Game Boy Advance game, has been ported to WebAssembly, achieving approximately 100k FPS in the browser without requiring any plugins or native installation.",
+  "tech_stack": [
+    "WebAssembly",
+    "JavaScript",
+    "C/C++",
+    "Game Boy Advance",
+    "mgba"
+  ],
+  "problem_solved": "Enables classic GBA games to run natively in web browsers with near-native performance.",
+  "why_valuable": "Demonstrates WebAssembly's capability to run performance-intensive applications like game emulators in browsers, making retro gaming universally accessible without installation.",
+  "tags": [
+    "WebAssembly",
+    "Emulation",
+    "Gaming",
+    "Retro",
+    "Web"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-07T10:36:49.175172+00:00",
+  "updated_at": "2026-06-07T10:38:31.566276+00:00",
+  "published_to": []
+}

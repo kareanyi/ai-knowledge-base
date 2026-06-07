@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260607-013",
+  "source": "rss",
+  "source_url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+  "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+  "summary": "Motorola's entire line of WiFi routers suddenly stopped working after the MotoSync Plus app went down without any explanation from the company. Users reported that their routers became completely unusable, effectively 'bricking' devices that were otherwise functioning properly. This incident highlights the growing risks of cloud-dependent IoT devices where hardware functionality is tied to third-party services.",
+  "tech_stack": [
+    "WiFi Routers",
+    "MotoSync Plus App",
+    "IoT Devices",
+    "Cloud Services"
+  ],
+  "problem_solved": "Raises awareness about the dangers of cloud-dependent IoT devices that can become unusable when companies shut down supporting services.",
+  "why_valuable": "This incident serves as a cautionary tale about the risks of purchasing IoT devices that depend on cloud services for basic functionality, and the importance of owning devices that work offline.",
+  "tags": [
+    "IoT",
+    "Smart Home",
+    "Cloud Services",
+    "Device Obsolescence",
+    "Consumer Rights"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-07T10:36:16.575790+00:00",
+  "updated_at": "2026-06-07T10:38:31.565797+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-006",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2601.14470",
+  "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+  "summary": "Research paper analyzing token consumption patterns and costs in AI agents performing software engineering tasks, providing empirical data on where tokens are used across different stages of agentic development workflows.",
+  "tech_stack": [
+    "AI Agents",
+    "LLM",
+    "Software Engineering",
+    "Python",
+    "Data Analysis"
+  ],
+  "problem_solved": "Provides quantitative understanding of token usage efficiency in AI-powered software development agents.",
+  "why_valuable": "Helps researchers and developers understand cost-performance tradeoffs in AI agent systems, enabling better resource allocation and optimization strategies.",
+  "tags": [
+    "AI Agents",
+    "Tokenomics",
+    "Software Engineering",
+    "LLM",
+    "Cost Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-07T10:35:26.465304+00:00",
+  "updated_at": "2026-06-07T10:38:31.557019+00:00",
+  "published_to": []
+}

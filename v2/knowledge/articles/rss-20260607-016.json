@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260607-016",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+  "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+  "summary": "Mbodi AI, a Y Combinator Winter 2025-backed startup, is recruiting a founding machine learning engineer to build robotics AI systems. This early-stage hire offers equity and the opportunity to shape the technical direction of a new robotics company.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "ROS",
+    "Deep Learning",
+    "Reinforcement Learning"
+  ],
+  "problem_solved": "Hiring ML talent to develop AI-powered robotics capabilities for an early-stage startup.",
+  "why_valuable": "Provides founding engineer status at a YC-backed company with equity potential and direct influence on technical architecture.",
+  "tags": [
+    "AI",
+    "Robotics",
+    "Machine Learning",
+    "Y Combinator",
+    "Founding Engineer"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-07T10:36:31.694377+00:00",
+  "updated_at": "2026-06-07T10:38:31.566164+00:00",
+  "published_to": []
+}
