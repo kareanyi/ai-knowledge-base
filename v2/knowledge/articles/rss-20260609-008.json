@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-008",
+  "source": "rss",
+  "source_url": "https://cognition.ai/blog/frontier-code",
+  "title": "FrontierCode",
+  "summary": "Cognition.ai announces FrontierCode, their next-generation AI coding agent designed to handle complex software development tasks. This appears to be an advancement of their Devin AI software engineer technology, pushing the boundaries of autonomous coding capabilities.",
+  "tech_stack": [
+    "AI Agents",
+    "Large Language Models",
+    "Software Engineering",
+    "Autonomous Coding",
+    "Machine Learning"
+  ],
+  "problem_solved": "Enables autonomous execution of complex coding tasks that traditionally require human software engineers.",
+  "why_valuable": "Pushes AI coding capabilities to frontier level, potentially automating significant portions of software development workflows.",
+  "tags": [
+    "AI",
+    "Coding Agent",
+    "Devin",
+    "Autonomous Software Engineerin",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-09T11:24:39.324497+00:00",
+  "updated_at": "2026-06-09T11:26:40.854796+00:00",
+  "published_to": []
+}

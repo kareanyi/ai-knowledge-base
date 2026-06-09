@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260609-003",
+  "source": "rss",
+  "source_url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
+  "title": "Eagle Computer: The rise and fall of an early PC clone",
+  "summary": "This article chronicles the history of Eagle Computer, an early IBM PC clone manufacturer that rose to prominence in the early 1980s PC market before eventually declining and failing. It explores the company's business decisions, market positioning, and eventual downfall in the competitive PC clone industry.",
+  "tech_stack": [
+    "IBM PC Architecture",
+    "x86 Processors",
+    "MS-DOS",
+    "8-bit/16-bit Hardware"
+  ],
+  "problem_solved": "Provides historical documentation of early PC clone market dynamics and the business challenges faced by third-party manufacturers competing with IBM.",
+  "why_valuable": "Offers valuable insights into the early PC industry's competitive landscape and serves as a cautionary tale about business strategy and market timing in technology companies.",
+  "tags": [
+    "RetroComputing",
+    "PCClones",
+    "IBMPC",
+    "TechHistory",
+    "BusinessFailure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-09T11:24:03.778158+00:00",
+  "updated_at": "2026-06-09T11:26:40.847333+00:00",
+  "published_to": []
+}

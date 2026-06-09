@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260609-017",
+  "source": "rss",
+  "source_url": "https://oldavista.com/",
+  "title": "Old'aVista – The most powerful guide to the old Internet",
+  "summary": "Old'aVista is a curated web directory that serves as a comprehensive guide to vintage and retro internet content, helping users discover nostalgic websites, old web archives, and historical digital artifacts from the early internet era.",
+  "tech_stack": [
+    "Web Directory",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "It solves the problem of discovering and accessing old internet content that is scattered across the web and increasingly difficult to find.",
+  "why_valuable": "It preserves digital heritage and provides a centralized resource for internet nostalgia, archival research, and exploring the evolution of the web.",
+  "tags": [
+    "Digital Preservation",
+    "Nostalgia",
+    "Web Archive",
+    "Retro Internet",
+    "Vintage Web"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-09T11:26:15.325444+00:00",
+  "updated_at": "2026-06-09T11:26:40.856468+00:00",
+  "published_to": []
+}

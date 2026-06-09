@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260609-005",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+  "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+  "summary": "Security researchers discovered that threat actors compromised Microsoft's open source tools to conduct a supply chain attack targeting AI developers, successfully stealing passwords and authentication credentials. The attack demonstrates the growing risk of trusted development tools becoming vectors for credential theft in the AI development community.",
+  "tech_stack": [
+    "Open Source Tools",
+    "GitHub",
+    "Password Authentication",
+    "Supply Chain Infrastructure"
+  ],
+  "problem_solved": "This article exposes a critical supply chain security vulnerability where trusted open source tools were weaponized to steal credentials from AI developers.",
+  "why_valuable": "It raises awareness about the emerging threat of compromised development tools being used to target the AI developer ecosystem, highlighting the need for enhanced supply chain security practices.",
+  "tags": [
+    "Cybersecurity",
+    "Supply Chain Attack",
+    "AI Development",
+    "Password Security",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-09T11:24:15.130777+00:00",
+  "updated_at": "2026-06-09T11:26:40.847719+00:00",
+  "published_to": []
+}

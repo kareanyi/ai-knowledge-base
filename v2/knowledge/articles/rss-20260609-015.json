@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260609-015",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48448313",
+  "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+  "summary": "A Hacker News discussion questioning why Ticketmaster maintains near-monopoly control over the ticketing market despite widespread criticism, noting that other platforms primarily handle resale rather than competing directly with primary ticket sales.",
+  "tech_stack": [
+    "Market Platform",
+    "Distribution Network",
+    "Venue Integration"
+  ],
+  "problem_solved": "This post explores why no competitor has disrupted Ticketmaster's dominant market position in event ticketing.",
+  "why_valuable": "It highlights the structural barriers to competition in the ticketing industry, including exclusive venue contracts, network effects, and vertical integration that create high barriers to entry.",
+  "tags": [
+    "Market Monopoly",
+    "Competition",
+    "Ticketing Industry",
+    "Business Strategy",
+    "Network Effects"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-09T11:25:45.325022+00:00",
+  "updated_at": "2026-06-09T11:26:40.856145+00:00",
+  "published_to": []
+}

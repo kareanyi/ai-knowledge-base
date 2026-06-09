@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-001",
+  "source": "rss",
+  "source_url": "https://stratechery.com/2026/the-iphones-last-stand/",
+  "title": "The iPhone's Last Stand",
+  "summary": "Stratechery's Ben Thompson analyzes Apple's strategic position with the iPhone, exploring how the device faces existential challenges in the AI era. The article examines whether Apple's integration of hardware, software, and services can withstand competition from AI-native devices and platforms.",
+  "tech_stack": [
+    "Apple Ecosystem",
+    "Mobile AI",
+    "iOS",
+    "Apple Intelligence",
+    "LLM Integration"
+  ],
+  "problem_solved": "Explores how Apple can maintain its competitive moat as AI capabilities become the primary differentiator in mobile devices.",
+  "why_valuable": "Provides strategic business analysis from a top-tier tech analyst on Apple's most important product's future in a rapidly evolving AI landscape.",
+  "tags": [
+    "Apple",
+    "iPhone",
+    "AI Strategy",
+    "Mobile Technology",
+    "Tech Business"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-09T11:23:37.481400+00:00",
+  "updated_at": "2026-06-09T11:26:40.846935+00:00",
+  "published_to": []
+}

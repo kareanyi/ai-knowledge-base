@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260609-011",
+  "source": "rss",
+  "source_url": "https://burrito.bio/essays/what-limits-a-cells-size",
+  "title": "Why are cells small?",
+  "summary": "A scientific essay exploring the biological constraints that limit cell size, including the surface-area-to-volume ratio, diffusion limits, and the balance between DNA and protein production, explaining why cells must remain small to function efficiently.",
+  "tech_stack": [
+    "Static Web Hosting",
+    "Educational Content"
+  ],
+  "problem_solved": "Explains the fundamental biological question of what physical and biochemical factors constrain cell size.",
+  "why_valuable": "Provides clear, accessible explanations of cell biology principles that are often poorly understood, helping readers grasp why this fundamental constraint exists across all living organisms.",
+  "tags": [
+    "Biology",
+    "Cell Biology",
+    "Science Education",
+    "Biochemistry",
+    "Microbiology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-09T11:25:03.979375+00:00",
+  "updated_at": "2026-06-09T11:26:40.855328+00:00",
+  "published_to": []
+}

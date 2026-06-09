@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-002",
+  "source": "rss",
+  "source_url": "https://github.com/luke8086/gentleos32",
+  "title": "GentleOS – Classic operating system with a lovely retro GUI",
+  "summary": "GentleOS is a retro-style 32-bit operating system project featuring a classic graphical user interface, designed to evoke nostalgia for traditional desktop operating systems from the late 1990s/early 2000s era.",
+  "tech_stack": [
+    "C",
+    "C++",
+    "Assembly",
+    "x86",
+    "Custom GUI"
+  ],
+  "problem_solved": "Provides a nostalgic retro computing experience and serves as an educational project for understanding operating system and GUI development fundamentals.",
+  "why_valuable": "Offers retro computing enthusiasts and developers a charming recreation of classic OS aesthetics while learning low-level system programming.",
+  "tags": [
+    "RetroOS",
+    "OperatingSystem",
+    "GUI",
+    "x86",
+    "HobbyProject"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-09T11:23:45.408126+00:00",
+  "updated_at": "2026-06-09T11:26:40.847188+00:00",
+  "published_to": []
+}

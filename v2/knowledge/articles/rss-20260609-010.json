@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-010",
+  "source": "rss",
+  "source_url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+  "title": "Apple reveals new AI architecture built around Google Gemini models",
+  "summary": "Apple has announced a new AI architecture leveraging Google Gemini models, marking a significant strategic partnership between the two tech giants. This move positions Apple to compete more effectively in the AI space without building foundation models from scratch.",
+  "tech_stack": [
+    "Google Gemini",
+    "Apple Intelligence",
+    "Core ML",
+    "Machine Learning",
+    "Neural Networks"
+  ],
+  "problem_solved": "Addresses Apple's need for competitive AI capabilities by partnering with Google rather than developing expensive in-house foundation models.",
+  "why_valuable": "This collaboration represents a major shift in AI industry dynamics, combining Apple's hardware ecosystem with Google's advanced AI models to deliver enhanced AI experiences to consumers.",
+  "tags": [
+    "AI",
+    "Apple",
+    "Google Gemini",
+    "Partnership",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-09T11:24:55.798473+00:00",
+  "updated_at": "2026-06-09T11:26:40.855168+00:00",
+  "published_to": []
+}

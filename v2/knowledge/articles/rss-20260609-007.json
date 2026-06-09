@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-007",
+  "source": "rss",
+  "source_url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+  "title": "Porting the ThinkPad X61 to Coreboot",
+  "summary": "A detailed technical guide on porting Coreboot open-source firmware to the ThinkPad X61, replacing the proprietary BIOS with free software firmware that provides greater security, control, and extend device longevity.",
+  "tech_stack": [
+    "Coreboot",
+    "Linux",
+    "C",
+    "Flash ROM",
+    "UEFI/BIOS"
+  ],
+  "problem_solved": "Replaces proprietary closed-source BIOS on the ThinkPad X61 with open-source Coreboot firmware, giving users full control over their hardware's lowest-level software.",
+  "why_valuable": "Enables users to eliminate proprietary firmware blobs, improve security through transparency, and extend the functional life of older hardware through free software.",
+  "tags": [
+    "Coreboot",
+    "ThinkPad",
+    "Firmware",
+    "Open Source",
+    "Hardware Hacking"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-09T11:24:30.134484+00:00",
+  "updated_at": "2026-06-09T11:26:40.848029+00:00",
+  "published_to": []
+}

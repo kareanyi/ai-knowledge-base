@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-012",
+  "source": "rss",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "title": "Apple Core AI Framework",
+  "summary": "Apple Core AI是Apple在WWDC 2024发布的设备端AI框架，为iOS 18和macOS Sequoia提供本地化的生成式AI能力，支持图像生成、文本处理和视觉推理等任务，完全运行在Apple Silicon上以保护用户隐私。",
+  "tech_stack": [
+    "Swift",
+    "Metal",
+    "Neural Engine",
+    "Core ML",
+    "Apple Silicon"
+  ],
+  "problem_solved": "解决在Apple设备上进行隐私保护的设备端AI推理问题，无需将数据发送到云端",
+  "why_valuable": "作为Apple官方框架，与系统深度集成，充分利用Neural Engine和Metal性能优化，同时保证用户数据隐私",
+  "tags": [
+    "AI",
+    "On-Device ML",
+    "Apple",
+    "WWDC2024",
+    "Swift"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-09T11:25:23.173929+00:00",
+  "updated_at": "2026-06-09T11:26:40.855504+00:00",
+  "published_to": []
+}

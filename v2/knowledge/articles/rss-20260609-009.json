@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260609-009",
+  "source": "rss",
+  "source_url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+  "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+  "summary": "Signal organization releases an official statement opposing the UK's latest surveillance legislation, arguing that government-mandated access to encrypted communications undermines user safety and privacy rights.",
+  "tech_stack": [
+    "End-to-End Encryption",
+    "Cryptography",
+    "Privacy Technology"
+  ],
+  "problem_solved": "Addresses the conflict between government surveillance demands and the protection of private digital communications.",
+  "why_valuable": "Highlights critical trade-offs between security mandates and privacy erosion, serving as a public advocacy piece from a major encrypted messaging platform.",
+  "tags": [
+    "Privacy",
+    "Surveillance",
+    "UK Policy",
+    "Encryption",
+    "Digital Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-09T11:24:43.936103+00:00",
+  "updated_at": "2026-06-09T11:26:40.854998+00:00",
+  "published_to": []
+}

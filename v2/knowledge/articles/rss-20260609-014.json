@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-014",
+  "source": "rss",
+  "source_url": "https://www.apple.com/apple-intelligence/",
+  "title": "Siri AI",
+  "summary": "Apple Intelligence is Apple's comprehensive AI system integrated across iPhone, iPad, and Mac, featuring significantly enhanced Siri with natural language understanding, writing tools, image generation capabilities, and system-wide AI assistance, all powered by Apple Silicon's neural engines with strong privacy protections through on-device processing.",
+  "tech_stack": [
+    "Apple Silicon",
+    "Neural Engine",
+    "On-Device ML",
+    "Foundation Models",
+    "Siri"
+  ],
+  "problem_solved": "Brings advanced generative AI capabilities to Apple's ecosystem while maintaining the company's strong privacy stance through on-device processing and private cloud compute.",
+  "why_valuable": "It represents Apple's most significant AI advancement, deeply integrating AI features across all Apple devices while setting new industry standards for privacy-preserving AI processing.",
+  "tags": [
+    "Apple",
+    "AI",
+    "Siri",
+    "On-Device AI",
+    "Privacy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-09T11:25:35.389010+00:00",
+  "updated_at": "2026-06-09T11:26:40.855946+00:00",
+  "published_to": []
+}

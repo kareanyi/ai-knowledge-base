@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260609-013",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "summary": "A Hacker News community discussion where users share AI-powered tools they've built for personal use, including automation scripts, code generation utilities, documentation tools, and productivity enhancers. The conversation showcases practical, real-world AI applications beyond commercial products.",
+  "tech_stack": [
+    "Python",
+    "OpenAI API",
+    "Claude API",
+    "LangChain",
+    "Various"
+  ],
+  "problem_solved": "Automating repetitive personal tasks and enhancing individual productivity through custom AI-powered solutions",
+  "why_valuable": "Demonstrates practical AI applications for everyday work and highlights the democratization of tool-building through AI",
+  "tags": [
+    "AI",
+    "Productivity",
+    "Automation",
+    "Community",
+    "Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-09T11:25:30.819580+00:00",
+  "updated_at": "2026-06-09T11:26:40.855741+00:00",
+  "published_to": []
+}

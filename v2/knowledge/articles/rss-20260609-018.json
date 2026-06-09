@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260609-018",
+  "source": "rss",
+  "source_url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+  "title": "EU-banned pesticides found in rice, tea and spices",
+  "summary": "Investigative report by foodwatch exposing the presence of EU-banned pesticides in common food products including rice, tea, and spices, revealing significant gaps in food safety regulation and import controls.",
+  "tech_stack": [
+    "Investigative Journalism",
+    "Food Testing",
+    "Data Analysis"
+  ],
+  "problem_solved": "Exposes food safety violations where banned pesticides from non-EU countries enter the European food supply through insufficient testing and regulatory enforcement.",
+  "why_valuable": "Raises critical public awareness about consumer protection failures and the disconnect between EU pesticide bans and actual food imports, enabling informed consumer choices and policy pressure.",
+  "tags": [
+    "Food Safety",
+    "Pesticides",
+    "EU Regulations",
+    "Consumer Protection",
+    "Investigative Journalism"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-09T11:26:20.297675+00:00",
+  "updated_at": "2026-06-09T11:26:40.856650+00:00",
+  "published_to": []
+}
