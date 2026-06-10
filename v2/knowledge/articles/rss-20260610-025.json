@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260610-025",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+  "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+  "summary": "Aviva, a major insurance provider, has uncovered a record £230 million in fraudulent claims and is deploying AI tools to detect and prevent increasingly sophisticated fraud schemes. The article highlights an emerging arms race where fraudsters are also leveraging AI to create more convincing fake claims, making detection increasingly challenging.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Fraud Detection Systems"
+  ],
+  "problem_solved": "Detecting and preventing sophisticated insurance fraud schemes that have grown more complex with the use of AI by fraudsters",
+  "why_valuable": "Protecting £230M+ in fraudulent claims and maintaining the integrity of insurance pricing for legitimate customers",
+  "tags": [
+    "AI",
+    "Insurance",
+    "Fraud Detection",
+    "Financial Services",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-10T11:48:08.038989+00:00",
+  "updated_at": "2026-06-10T11:49:01.267005+00:00",
+  "published_to": []
+}

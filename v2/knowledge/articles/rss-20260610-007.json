@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-007",
+  "source": "rss",
+  "source_url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+  "title": "Rich Sutton on AI creativity and discovery",
+  "summary": "Rich Sutton, a legendary AI researcher and pioneer of reinforcement learning, discusses AI creativity and discovery in this video presentation. The talk explores fundamental questions about whether and how AI systems can be truly creative or make novel discoveries beyond their programmed parameters.",
+  "tech_stack": [
+    "Reinforcement Learning",
+    "Neural Networks",
+    "Deep Learning",
+    "AI/ML Research"
+  ],
+  "problem_solved": "Explores the philosophical and practical questions around AI creativity and scientific discovery capabilities.",
+  "why_valuable": "Rich Sutton brings decades of deep expertise from founding reinforcement learning research, offering unique insights into one of AI's most profound questions about machine creativity.",
+  "tags": [
+    "AI Creativity",
+    "Reinforcement Learning",
+    "Machine Discovery",
+    "AI Research",
+    "Rich Sutton"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-10T11:45:37.719846+00:00",
+  "updated_at": "2026-06-10T11:49:01.255245+00:00",
+  "published_to": []
+}

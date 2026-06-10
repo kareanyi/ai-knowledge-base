@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-020",
+  "source": "rss",
+  "source_url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+  "title": "Test-case reducers are underappreciated debugging tools",
+  "summary": "Laurie Tratt's blog post explores test-case reducers (like C-Reduce, Delta) as powerful yet often overlooked debugging tools that automatically minimize failing test cases to their simplest form, making bugs easier to isolate and understand.",
+  "tech_stack": [
+    "C-Reduce",
+    "Delta",
+    "Perl",
+    "Python",
+    "C"
+  ],
+  "problem_solved": "It solves the problem of debugging complex test cases where the essential bug is hidden among thousands of lines of irrelevant code",
+  "why_valuable": "It dramatically reduces debugging time by automatically stripping away all code not essential to reproducing a bug",
+  "tags": [
+    "debugging",
+    "testing",
+    "automation",
+    "bug-fixing",
+    "developer-tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-10T11:47:35.362526+00:00",
+  "updated_at": "2026-06-10T11:49:01.266178+00:00",
+  "published_to": []
+}

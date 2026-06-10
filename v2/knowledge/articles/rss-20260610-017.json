@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-017",
+  "source": "rss",
+  "source_url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+  "title": "What it feels like to work with Mythos",
+  "summary": "An article sharing the practical experience and insights gained from working with Mythos, an AI agent system, describing the workflow, challenges, and real-world implications of delegating tasks to autonomous agents.",
+  "tech_stack": [
+    "Mythos",
+    "AI Agents",
+    "Large Language Models",
+    "Automation"
+  ],
+  "problem_solved": "Provides a firsthand account of what it's actually like to work with AI agents in practice, beyond theoretical discussions.",
+  "why_valuable": "Offers authentic, experience-based insights into human-AI collaboration workflows, helping readers understand the practical realities of AI agent systems.",
+  "tags": [
+    "AI Agents",
+    "Mythos",
+    "Automation",
+    "LLM",
+    "Productivity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-10T11:47:13.723614+00:00",
+  "updated_at": "2026-06-10T11:49:01.265690+00:00",
+  "published_to": []
+}

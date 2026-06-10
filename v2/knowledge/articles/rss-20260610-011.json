@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-011",
+  "source": "rss",
+  "source_url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+  "title": "Surprise, Pay $1000",
+  "summary": "A blog post discussing unexpected or surprise costs associated with Blacksmith (likely Vercel's Blacksmith service or similar), with the title suggesting a shocking $1000 charge. The article gained significant traction on Hacker News with 198 points and 79 comments, indicating it addresses a common pain point in developer experience.",
+  "tech_stack": [
+    "Blacksmith",
+    "Vercel",
+    "Database Services",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Warns developers about unexpected or hidden costs in Blacksmith services that can result in surprising $1000+ billing charges.",
+  "why_valuable": "Helps developers avoid unexpected billing shocks by sharing real-world cost experiences with cloud/database services.",
+  "tags": [
+    "Pricing",
+    "Cloud Costs",
+    "DevOps",
+    "Developer Experience",
+    "Billing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-10T11:46:14.281016+00:00",
+  "updated_at": "2026-06-10T11:49:01.264673+00:00",
+  "published_to": []
+}

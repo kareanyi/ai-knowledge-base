@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-005",
+  "source": "rss",
+  "source_url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+  "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+  "summary": "Mercedes-Benz has begun large-scale production of electric axial flux motors at their Berlin plant, marking a significant advancement in EV propulsion technology. This motor type offers higher power density and efficiency compared to traditional radial flux motors, enabling better performance and range for electric vehicles.",
+  "tech_stack": [
+    "Electric Motors",
+    "Axial Flux Technology",
+    "EV Propulsion",
+    "Automotive Manufacturing",
+    "Silicon Carbide"
+  ],
+  "problem_solved": "Addresses the need for more efficient, compact, and powerful electric motors to improve EV performance and range.",
+  "why_valuable": "Axial flux motors provide up to twice the power density of conventional motors, enabling lighter vehicles with longer range and better performance.",
+  "tags": [
+    "Electric Vehicles",
+    "Axial Flux Motor",
+    "Mercedes-Benz",
+    "EV Technology",
+    "Automotive"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-10T11:45:20.065238+00:00",
+  "updated_at": "2026-06-10T11:49:01.254991+00:00",
+  "published_to": []
+}

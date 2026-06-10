@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-015",
+  "source": "rss",
+  "source_url": "https://aarushgupta.io/posts/kan-fpga/",
+  "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+  "summary": "This article explores implementing Kolmogorov-Arnold Networks (KANs) on FPGAs for ultra-fast machine learning inference. KANs are a promising neural network architecture that offers better interpretability than traditional MLPs by using learnable activation functions on edges rather than fixed nodes. By deploying KANs on FPGAs, the author demonstrates significant speedups for real-time ML applications.",
+  "tech_stack": [
+    "Kolmogorov-Arnold Networks",
+    "FPGA",
+    "Machine Learning",
+    "Verilog",
+    "Hardware Acceleration"
+  ],
+  "problem_solved": "Enables real-time ML inference by accelerating KAN computations through FPGA-based hardware acceleration, bypassing traditional GPU/CPU bottlenecks.",
+  "why_valuable": "Combines the interpretability advantages of KANs with hardware-level parallelism, making explainable AI practical for latency-critical applications like robotics and autonomous systems.",
+  "tags": [
+    "KAN",
+    "FPGA",
+    "Neural Networks",
+    "Hardware Acceleration",
+    "Edge AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-10T11:46:54.241954+00:00",
+  "updated_at": "2026-06-10T11:49:01.265331+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-018",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "title": "Claude Fable 5",
+  "summary": "Anthropic released Claude Fable 5, their latest and most capable AI model featuring significant improvements in reasoning, coding, and creative writing capabilities. The release includes a detailed System Card documenting safety measures and model behavior. This release generated massive community interest with over 2,200 Hacker News points and 1,788 comments.",
+  "tech_stack": [
+    "Claude AI",
+    "Anthropic",
+    "Large Language Model",
+    "Safety Alignment",
+    "AI Safety"
+  ],
+  "problem_solved": "Provides advanced AI assistance for complex reasoning, coding, analysis, and creative tasks with improved accuracy and reduced hallucinations.",
+  "why_valuable": "Represents a significant leap in AI capability while maintaining Anthropic's focus on safety and responsible AI development, as evidenced by the detailed System Card documentation.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Claude",
+    "Anthropic",
+    "Safety"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-10T11:47:20.015323+00:00",
+  "updated_at": "2026-06-10T11:49:01.265857+00:00",
+  "published_to": []
+}

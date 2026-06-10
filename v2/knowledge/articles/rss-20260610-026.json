@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-026",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
+  "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+  "summary": "Weis Markets is partnering with Instacart to deploy AI-powered smart shopping carts called Caper Carts in select Pennsylvania stores, featuring cameras, certified scales, location tracking, and touchscreen displays to provide digital coupons, loyalty integration, and personalized purchase recommendations during shopping.",
+  "tech_stack": [
+    "AI-powered Caper Carts",
+    "Computer Vision",
+    "Location Sensors",
+    "Digital Scales",
+    "Touchscreen Interface"
+  ],
+  "problem_solved": "Bridges the gap between e-commerce personalization and in-store grocery shopping experience.",
+  "why_valuable": "Enhances customer engagement through real-time personalized offers and loyalty rewards while reducing checkout friction in physical retail stores.",
+  "tags": [
+    "AI Retail",
+    "Smart Shopping Carts",
+    "Computer Vision",
+    "Grocery Tech",
+    "Computer Vision"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-10T11:48:13.118592+00:00",
+  "updated_at": "2026-06-10T11:49:01.267171+00:00",
+  "published_to": []
+}

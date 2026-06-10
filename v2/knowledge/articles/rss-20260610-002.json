@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260610-002",
+  "source": "rss",
+  "source_url": "https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-p58x-r3c9-x9p6",
+  "title": "Notepad++ Zero-Click RCE via Path Traversal (CVE-2026-52884)",
+  "summary": "A critical zero-click remote code execution vulnerability in Notepad++ discovered through path traversal attack vector, tracked as CVE-2026-52884, allowing attackers to execute arbitrary code without user interaction.",
+  "tech_stack": [
+    "C++",
+    "Windows API",
+    "File System Operations"
+  ],
+  "problem_solved": "Addresses a critical security flaw that could allow unauthenticated attackers to execute malicious code on受害者' systems via path traversal in Notepad++ file handling.",
+  "why_valuable": "This is a critical security vulnerability with zero-click exploitation, meaning no user interaction is required, posing severe risk to all Notepad++ users worldwide.",
+  "tags": [
+    "Security",
+    "RCE",
+    "CVE",
+    "Vulnerability",
+    "Zero-Click"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-10T11:44:58.909517+00:00",
+  "updated_at": "2026-06-10T11:49:01.254440+00:00",
+  "published_to": []
+}

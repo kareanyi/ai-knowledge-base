@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-003",
+  "source": "rss",
+  "source_url": "https://github.com/react/react/pull/36173",
+  "title": "Port React Compiler to Rust",
+  "summary": "This GitHub PR from the React core team ports the React Compiler (formerly React Forget) from JavaScript to Rust, aiming to improve compilation performance and enable broader adoption. The port leverages Rust's performance characteristics for faster build times and better memory efficiency.",
+  "tech_stack": [
+    "Rust",
+    "React",
+    "JavaScript",
+    "Babel",
+    "Compiler"
+  ],
+  "problem_solved": "Addresses performance bottlenecks in the React Compiler by leveraging Rust's superior execution speed and memory safety for large-scale React project compilation.",
+  "why_valuable": "This port demonstrates the industry trend of using Rust for performance-critical frontend tooling, potentially making React Compiler adoption more viable for large codebases with faster compile times.",
+  "tags": [
+    "React",
+    "Rust",
+    "Compiler",
+    "Performance",
+    "OpenSource"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-10T11:45:09.429980+00:00",
+  "updated_at": "2026-06-10T11:49:01.254631+00:00",
+  "published_to": []
+}

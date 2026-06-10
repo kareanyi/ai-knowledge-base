@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-010",
+  "source": "rss",
+  "source_url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+  "title": "RIP software hackathons. Long live the hardware hackathon",
+  "summary": "This blog post argues that hardware hackathons are superior to software hackathons because they produce tangible, physical products that have lasting value, rather than disposable digital demos that often get abandoned after the event.",
+  "tech_stack": [
+    "Hardware prototyping",
+    "Arduino",
+    "Raspberry Pi",
+    "Sensors",
+    "Physical computing"
+  ],
+  "problem_solved": "Addresses the issue that software hackathons often result in trivial, redundant, or abandoned projects with no real-world impact.",
+  "why_valuable": "Hardware hackathons force participants to confront real physical constraints and create meaningful tangible products that solve actual problems.",
+  "tags": [
+    "Hackathons",
+    "Hardware",
+    "Maker culture",
+    "Innovation",
+    "Prototyping"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-10T11:46:08.878506+00:00",
+  "updated_at": "2026-06-10T11:49:01.264504+00:00",
+  "published_to": []
+}

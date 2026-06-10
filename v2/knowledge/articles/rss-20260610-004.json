@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-004",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48473166",
+  "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+  "summary": "AWS Bedrock customers using Anthropic's Fable 5, Mythos 5, and future high-capability models will be subject to a mandatory 30-day data retention policy. Anthropic requires this retention period to detect patterns of misuse that cannot be identified from single exchanges. Once opted in, customer data will leave AWS's security boundary.",
+  "tech_stack": [
+    "AWS Bedrock",
+    "Anthropic Claude",
+    "Cloud Computing",
+    "AI Models"
+  ],
+  "problem_solved": "Enables Anthropic to detect patterns of model misuse across multiple interactions that single-exchange analysis cannot identify.",
+  "why_valuable": "This creates a trade-off between enhanced misuse detection capabilities and stricter data privacy controls, requiring AWS customers to evaluate their compliance and security requirements.",
+  "tags": [
+    "AWS",
+    "Anthropic",
+    "Data Privacy",
+    "Cloud AI",
+    "Model Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-10T11:45:13.659893+00:00",
+  "updated_at": "2026-06-10T11:49:01.254816+00:00",
+  "published_to": []
+}

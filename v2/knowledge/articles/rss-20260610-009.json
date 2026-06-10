@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-009",
+  "source": "rss",
+  "source_url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+  "title": "macOS Container Machines",
+  "summary": "Apple 开源的 macOS 容器运行时项目，允许在 macOS 上原生运行 Linux 容器，提供了类似于 Docker 的容器化能力但针对 macOS 环境进行了优化。",
+  "tech_stack": [
+    "Go",
+    "Linux Containers",
+    "macOS",
+    "Virtualization",
+    "clhttps://github.com/apple/container"
+  ],
+  "problem_solved": "解决了在 macOS 上高效运行 Linux 容器环境的问题，无需依赖完整的虚拟机或 Docker Desktop。",
+  "why_valuable": "为 macOS 开发者提供了轻量级、本地化的容器运行方案，降低了资源消耗，同时保持了与标准容器生态系统的兼容性。",
+  "tags": [
+    "Container",
+    "macOS",
+    "Virtualization",
+    "DevOps",
+    "OpenSource"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-10T11:45:56.257736+00:00",
+  "updated_at": "2026-06-10T11:49:01.264309+00:00",
+  "published_to": []
+}

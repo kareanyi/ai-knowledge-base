@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-013",
+  "source": "rss",
+  "source_url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+  "title": "Upcoming breaking changes for npm v12",
+  "summary": "npm 官方博客发布了关于即将发布的 npm v12 版本的破坏性变更预告，包括对依赖解析、工作区行为、命令行输出格式等方面的重大调整，旨在简化 API、提升性能和加强安全性。",
+  "tech_stack": [
+    "npm",
+    "Node.js",
+    "JavaScript",
+    "package.json",
+    "GitHub"
+  ],
+  "problem_solved": "帮助开发者提前了解 npm v12 的破坏性变更，避免在版本升级时遇到兼容性问题。",
+  "why_valuable": "为开发者提供充足的迁移准备时间，确保他们能在 npm v12 正式发布时平滑过渡，避免生产环境中的意外中断。",
+  "tags": [
+    "npm",
+    "Node.js",
+    "breaking-changes",
+    "package-management",
+    "migration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-10T11:46:38.284477+00:00",
+  "updated_at": "2026-06-10T11:49:01.265007+00:00",
+  "published_to": []
+}

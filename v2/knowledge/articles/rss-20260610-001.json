@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-001",
+  "source": "rss",
+  "source_url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+  "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+  "summary": "A macOS menu bar utility that displays Claude Code usage quotas as visual gauges, allowing developers to monitor their API usage and limits directly from the system menu bar without switching contexts.",
+  "tech_stack": [
+    "Swift",
+    "macOS Menu Bar",
+    "Xcode",
+    "Claude API"
+  ],
+  "problem_solved": "Developers using Claude Code lack convenient real-time visibility into their usage quotas and risk unexpected interruptions when limits are reached.",
+  "why_valuable": "Provides at-a-glance, non-intrusive monitoring of Claude API usage directly in the workflow, preventing unexpected quota exhaustion during important tasks.",
+  "tags": [
+    "macOS",
+    "MenuBar",
+    "Claude",
+    "DeveloperTool",
+    "Productivity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-10T11:44:51.668116+00:00",
+  "updated_at": "2026-06-10T11:49:01.254088+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+  "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+  "summary": "Apple announced Siri AI integrated with Google Gemini at WWDC 2026, marking a significant partnership between the two tech giants. However, the AI rollout is geographically restricted, leaving many regions without access to these new capabilities.",
+  "tech_stack": [
+    "Siri",
+    "Google Gemini",
+    "Apple",
+    "WWDC"
+  ],
+  "problem_solved": "Enhancing Apple's AI capabilities through Google's Gemini technology while addressing longstanding search and information retrieval limitations.",
+  "why_valuable": "Represents a major collaboration between Apple and Google in the AI space, potentially reshaping the competitive landscape of AI assistants.",
+  "tags": [
+    "Apple",
+    "Google",
+    "Siri",
+    "Gemini",
+    "AI Assistant"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-10T11:47:45.390853+00:00",
+  "updated_at": "2026-06-10T11:49:01.266337+00:00",
+  "published_to": []
+}

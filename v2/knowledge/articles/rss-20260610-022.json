@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+  "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+  "summary": "McDonald's is testing a new AI system called ArchIQ (nicknamed 'Archy') for drive-thru order taking and restaurant operations support. The system, backed by Google and utilizing Speech AI technology, is currently being piloted at five U.S. locations to automate order processing.",
+  "tech_stack": [
+    "AI",
+    "Google Cloud",
+    "Speech AI",
+    "Natural Language Processing",
+    "Voice Recognition"
+  ],
+  "problem_solved": "Automates drive-thru order taking to improve efficiency and reduce human error in fast-food restaurants.",
+  "why_valuable": "This technology can significantly reduce customer wait times, improve order accuracy, and potentially lower labor costs for quick-service restaurants.",
+  "tags": [
+    "AI",
+    "Drive-thru",
+    "McDonald's",
+    "Voice AI",
+    "Restaurant Tech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-10T11:47:49.919700+00:00",
+  "updated_at": "2026-06-10T11:49:01.266519+00:00",
+  "published_to": []
+}

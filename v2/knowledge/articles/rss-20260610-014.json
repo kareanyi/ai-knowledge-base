@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-014",
+  "source": "rss",
+  "source_url": "https://blog.gitbutler.com/true-grit",
+  "title": "Grit: Rewriting Git in Rust with agents",
+  "summary": "GitButler announces Grit, an experimental project to rewrite Git core functionality in Rust, leveraging AI agents to help with the massive undertaking of reimplementing C code in a safer, more performant language while maintaining full backward compatibility.",
+  "tech_stack": [
+    "Rust",
+    "Git",
+    "AI Agents",
+    "C",
+    "Systems Programming"
+  ],
+  "problem_solved": "Addresses Git's aging C codebase limitations in terms of performance, safety, and maintainability.",
+  "why_valuable": "Rust rewrite could bring modern memory safety and performance to Git while AI agents accelerate the traditionally manual porting process.",
+  "tags": [
+    "Git",
+    "Rust",
+    "Systems Programming",
+    "AI-Agents",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-10T11:46:46.713727+00:00",
+  "updated_at": "2026-06-10T11:49:01.265168+00:00",
+  "published_to": []
+}
