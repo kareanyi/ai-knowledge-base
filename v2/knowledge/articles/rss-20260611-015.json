@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-015",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48477135",
+  "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+  "summary": "Eric Ries, author of 'The Lean Startup', is hosting an AMA on Hacker News to discuss his new book 'Incorruptible' and reflect on 15 years of experience working with startups, big companies, NGOs, and governments across various industries. He hints at addressing darker aspects of the startup industry that are rarely discussed openly.",
+  "tech_stack": [
+    "Lean Startup Methodology",
+    "Validated Learning",
+    "MVP",
+    "Build-Measure-Learn",
+    "Continuous Innovation"
+  ],
+  "problem_solved": "The content addresses systemic issues and failures in the startup ecosystem that the Lean Startup methodology and related frameworks aim to prevent.",
+  "why_valuable": "Eric Ries's Lean Startup methodology revolutionized how startups build and launch products, and this AMA offers insights into how the ecosystem has evolved and what challenges remain unaddressed.",
+  "tags": [
+    "Startup",
+    "Entrepreneurship",
+    "Lean Startup",
+    "Business Strategy",
+    "AMA"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:18:03.268662+00:00",
+  "updated_at": "2026-06-11T12:20:39.683429+00:00",
+  "published_to": []
+}

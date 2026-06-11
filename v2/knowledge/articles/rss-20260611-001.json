@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-001",
+  "source": "rss",
+  "source_url": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/",
+  "title": "BYD is bringing its 5-min 'Flash' electric car charging to Canada",
+  "summary": "BYD is expanding its revolutionary 'Flash' 5-minute ultra-fast charging technology to Canada, marking a significant milestone in EV infrastructure development that could eliminate range anxiety by making charging as quick as traditional refueling.",
+  "tech_stack": [
+    "Electric Vehicles",
+    "Flash Charging",
+    "Blade Battery",
+    "DC Fast Charging",
+    "Lithium-ion"
+  ],
+  "problem_solved": "Solves the long charging time problem that has been a major barrier to EV adoption, reducing charging time to match traditional gasoline refueling.",
+  "why_valuable": "5-minute charging capability could be a game-changer for EV adoption, eliminating the biggest consumer concern about electric vehicles and making them truly competitive with combustion vehicles.",
+  "tags": [
+    "EV",
+    "Fast Charging",
+    "BYD",
+    "Battery Technology",
+    "Automotive"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:15:47.743622+00:00",
+  "updated_at": "2026-06-11T12:20:39.673413+00:00",
+  "published_to": []
+}

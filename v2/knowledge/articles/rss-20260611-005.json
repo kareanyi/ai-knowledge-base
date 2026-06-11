@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-005",
+  "source": "rss",
+  "source_url": "https://vale.rocks/posts/game-console-browsers",
+  "title": "Web Browsers on Video Game Consoles",
+  "summary": "A historical exploration of web browsers that shipped on or were available for video game consoles across different generations, from early attempts to modern implementations.",
+  "tech_stack": [
+    "HTML/CSS",
+    "JavaScript",
+    "Browser Engines",
+    "Console Operating Systems",
+    "Web Technologies"
+  ],
+  "problem_solved": "Documents and analyzes the forgotten or overlooked history of web browsing capabilities on gaming platforms, a niche but fascinating intersection of gaming and web technology.",
+  "why_valuable": "Provides unique historical context about how browsers were integrated (or struggled to be integrated) into gaming consoles, offering insights for developers and tech enthusiasts interested in cross-platform web experiences.",
+  "tags": [
+    "Gaming",
+    "Browser History",
+    "Console Technology",
+    "Web Development",
+    "Retro Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:16:38.835710+00:00",
+  "updated_at": "2026-06-11T12:20:39.674280+00:00",
+  "published_to": []
+}

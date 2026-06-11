@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-016",
+  "source": "rss",
+  "source_url": "https://pgdog.dev/blog/our-funding-announcement",
+  "title": "PgDog is funded and coming to a database near you",
+  "summary": "PgDog, a high-performance PostgreSQL connection pooler written in Rust, announced its seed funding round. The project aims to provide a faster and more modern alternative to existing connection poolers like PgBouncer, with focus on performance and ease of deployment.",
+  "tech_stack": [
+    "Rust",
+    "PostgreSQL",
+    "Tokio",
+    "async/await"
+  ],
+  "problem_solved": "Provides high-performance PostgreSQL connection pooling to efficiently handle thousands of concurrent database connections while reducing server load.",
+  "why_valuable": "With growing cloud-native and distributed applications requiring efficient database connection management, PgDog offers significant performance improvements over traditional solutions while maintaining simplicity.",
+  "tags": [
+    "PostgreSQL",
+    "Rust",
+    "ConnectionPooler",
+    "Database",
+    "OpenSource"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:18:17.959361+00:00",
+  "updated_at": "2026-06-11T12:20:39.683611+00:00",
+  "published_to": []
+}

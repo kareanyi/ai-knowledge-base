@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-020",
+  "source": "rss",
+  "source_url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+  "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+  "summary": "Anthropic has implemented a 30-day data retention policy for their Fable and Mythos model classes, which appears tied to their Microsoft partnership. This policy requires user data to be stored for 30 days before deletion, raising privacy considerations for enterprise deployments.",
+  "tech_stack": [
+    "AI/LLM",
+    "Anthropic Claude",
+    "Microsoft Azure",
+    "Fable",
+    "Mythos"
+  ],
+  "problem_solved": "Addresses data retention compliance requirements for enterprise AI deployments under the Microsoft-Anthropic partnership.",
+  "why_valuable": "Highlights critical data privacy trade-offs in enterprise AI adoption, where retention policies may conflict with strict compliance requirements like GDPR.",
+  "tags": [
+    "AI Privacy",
+    "Data Retention",
+    "Anthropic",
+    "Enterprise AI",
+    "Compliance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:18:53.671996+00:00",
+  "updated_at": "2026-06-11T12:20:39.684344+00:00",
+  "published_to": []
+}

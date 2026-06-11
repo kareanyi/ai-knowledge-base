@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-012",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+  "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+  "summary": "This IEEE Spectrum article reveals how NASA's Jet Propulsion Laboratory has kept the Curiosity rover operational on Mars for 13 years, far exceeding its original 2-year mission design, through innovative engineering solutions, careful resource management, and creative problem-solving to overcome aging hardware challenges.",
+  "tech_stack": [
+    "C/C++",
+    "Linux",
+    "FPGA",
+    "Python",
+    "Real-time Operating Systems"
+  ],
+  "problem_solved": "Extending the operational life of a robotic space rover far beyond its design specifications while continuing to conduct meaningful scientific research on Mars.",
+  "why_valuable": "Demonstrates remarkable engineering resilience and provides rare insights into the practical challenges of maintaining robotic systems in extreme interplanetary environments for over a decade.",
+  "tags": [
+    "NASA",
+    "Space-Engineering",
+    "Robotics",
+    "Mars",
+    "JPL"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-11T12:17:34.188390+00:00",
+  "updated_at": "2026-06-11T12:20:39.682913+00:00",
+  "published_to": []
+}

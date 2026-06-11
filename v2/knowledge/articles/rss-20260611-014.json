@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-014",
+  "source": "rss",
+  "source_url": "https://www.extend.ai/ui",
+  "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+  "summary": "这是一个开源的 UI 组件库，提供 14 个专为现代文档应用设计的组件，包括 PDF、DOCX、XLSX 查看器，边界框引用标注、文件上传、电子签名等功能，采用 MIT 许可证，完全可定制。",
+  "tech_stack": [
+    "React",
+    "TypeScript",
+    "PDF.js",
+    "Document Processing",
+    "CSS"
+  ],
+  "problem_solved": "解决了现有文档组件库功能不完整、缺乏定制灵活性、需要付费使用的问题",
+  "why_valuable": "为开发者提供了开箱即用的高质量文档处理 UI 组件，大幅缩短文档应用开发周期",
+  "tags": [
+    "Open Source",
+    "UI Components",
+    "Document Viewer",
+    "React",
+    "PDF Processing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-11T12:17:53.236366+00:00",
+  "updated_at": "2026-06-11T12:20:39.683256+00:00",
+  "published_to": []
+}

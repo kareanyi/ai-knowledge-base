@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-004",
+  "source": "rss",
+  "source_url": "https://hmml.eddocu.com",
+  "title": "HTML is a native image format, hear me out",
+  "summary": "An article exploring the unconventional concept of treating HTML as a native image format, discussing how HTML/CSS can represent visual content in ways that traditional raster or vector formats cannot, potentially revolutionizing how we think about web-based visual assets.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "SVG",
+    "JavaScript",
+    "Web Standards"
+  ],
+  "problem_solved": "Reimagines how visual content can be represented, accessed, and manipulated on the web by treating HTML as a native image format.",
+  "why_valuable": "This approach could enable more accessible, searchable, and dynamically modifiable visual content that bridges the gap between documents and images.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Web Standards",
+    "Image Format",
+    "Visual Content"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-11T12:16:34.009023+00:00",
+  "updated_at": "2026-06-11T12:20:39.674101+00:00",
+  "published_to": []
+}

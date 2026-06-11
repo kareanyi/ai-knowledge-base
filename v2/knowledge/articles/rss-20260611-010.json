@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260611-010",
+  "source": "rss",
+  "source_url": "https://github.com/philipl/pifs",
+  "title": "πFS",
+  "summary": "πFS (Pi File System) is a satirical/paradoxical file system that claims to store files by finding their binary content within the infinite decimal digits of π. It demonstrates the mathematical concept that since π is conjectured to be a normal number (containing all possible finite sequences), any arbitrary data theoretically exists somewhere within it.",
+  "tech_stack": [
+    "Python",
+    "C",
+    "FUSE"
+  ],
+  "problem_solved": "Satirically 'solves' the problem of infinite data storage by using π as a universal compression mechanism.",
+  "why_valuable": "Provides an entertaining and educational demonstration of π's mathematical properties (normal number hypothesis) and serves as a great conversation starter about infinite sequences, compression limits, and data theory.",
+  "tags": [
+    "math",
+    "pi",
+    "filesystem",
+    "compression",
+    "satire"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:17:24.308719+00:00",
+  "updated_at": "2026-06-11T12:20:39.682542+00:00",
+  "published_to": []
+}

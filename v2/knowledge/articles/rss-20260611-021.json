@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+  "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+  "summary": "Visa has integrated its payment infrastructure with ChatGPT, enabling AI agents to autonomously recommend products, evaluate merchant catalogs, and execute financial transactions without human intervention. This deployment connects AI-powered shopping assistants directly to Visa's payment rails for end-to-end retail transactions.",
+  "tech_stack": [
+    "ChatGPT",
+    "Visa Payment Rails",
+    "AI Agents",
+    "OpenAI API",
+    "Retail Payment Infrastructure"
+  ],
+  "problem_solved": "Enables AI agents to autonomously complete retail purchases from product discovery to checkout without any human involvement in the transaction process.",
+  "why_valuable": "This bridges the gap between AI recommendation systems and actual purchasing capability, creating a fully autonomous shopping experience that could revolutionize e-commerce and consumer payments.",
+  "tags": [
+    "AI Agents",
+    "Payments",
+    "E-commerce",
+    "Fintech",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-11T12:19:04.308466+00:00",
+  "updated_at": "2026-06-11T12:20:39.684514+00:00",
+  "published_to": []
+}

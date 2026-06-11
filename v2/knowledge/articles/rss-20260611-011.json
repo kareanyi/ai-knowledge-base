@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-011",
+  "source": "rss",
+  "source_url": "https://geolibre.app/",
+  "title": "GeoLibre 1.0",
+  "summary": "GeoLibre 1.0 is an open-source geographic/geospatial platform for accessing and sharing free map and location data, marking its first stable release with 257 HN points indicating strong community interest.",
+  "tech_stack": [
+    "Open Source",
+    "Geospatial",
+    "Maps",
+    "Location Data",
+    "Web Platform"
+  ],
+  "problem_solved": "Provides free, libre geographic data and mapping tools to democratize access to geospatial information.",
+  "why_valuable": "Offers open-source alternatives to commercial mapping services, enabling developers and researchers to freely use and contribute geographic data.",
+  "tags": [
+    "Open Source",
+    "Geospatial",
+    "Maps",
+    "Data",
+    "Libre"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:17:29.215372+00:00",
+  "updated_at": "2026-06-11T12:20:39.682720+00:00",
+  "published_to": []
+}

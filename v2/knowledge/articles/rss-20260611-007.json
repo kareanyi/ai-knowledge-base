@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-007",
+  "source": "rss",
+  "source_url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+  "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+  "summary": "Niantic's Pokémon Go has collected massive amounts of spatial scanning data from millions of players scanning their real-world surroundings, and this crowdsourced mapping data has been used to train autonomous navigation systems with potential military drone applications through their Vantor division, raising significant questions about data consent and dual-use technology.",
+  "tech_stack": [
+    "Augmented Reality",
+    "Computer Vision",
+    "GPS/Satellite Navigation",
+    "Machine Learning",
+    "Crowdsourced Mapping"
+  ],
+  "problem_solved": "Solves the challenge of acquiring large-scale real-world spatial data needed to train autonomous navigation AI systems for drones.",
+  "why_valuable": "Highlights the ethical implications of how consumer gaming data can be repurposed for military applications without explicit user consent.",
+  "tags": [
+    "AR Gaming",
+    "Data Privacy",
+    "Military Drones",
+    "AI Navigation",
+    "Niantic"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-11T12:16:53.431632+00:00",
+  "updated_at": "2026-06-11T12:20:39.674622+00:00",
+  "published_to": []
+}

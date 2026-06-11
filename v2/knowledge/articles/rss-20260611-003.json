@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-003",
+  "source": "rss",
+  "source_url": "https://www.nature.com/articles/d41586-026-01796-y",
+  "title": "Human migration has surged since 2000 – these maps reveal where people are going",
+  "summary": "A Nature data journalism piece examining the significant increase in human migration since 2000, using interactive maps and visualizations to illustrate global population movement patterns and destinations.",
+  "tech_stack": [
+    "Data Visualization",
+    "Interactive Maps",
+    "Charts",
+    "Data Analysis"
+  ],
+  "problem_solved": "Understanding and visualizing the complex patterns of global human migration flows over the past two decades",
+  "why_valuable": "Provides accessible visual insights into demographic shifts that impact economies, politics, and societies worldwide",
+  "tags": [
+    "Migration",
+    "Data Visualization",
+    "Demographics",
+    "Global Trends",
+    "Maps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:16:14.958519+00:00",
+  "updated_at": "2026-06-11T12:20:39.673882+00:00",
+  "published_to": []
+}

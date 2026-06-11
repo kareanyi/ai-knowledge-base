@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260611-006",
+  "source": "rss",
+  "source_url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+  "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+  "summary": "John Gruber of Daring Fireball comments on Apple's rumored macOS 27 'Golden Gate' update, specifically praising the removal of unnecessary icons from menu bar items that he considers visual clutter.",
+  "tech_stack": [
+    "macOS",
+    "Apple"
+  ],
+  "problem_solved": "Addresses the cluttered and inconsistent visual design of macOS menu bar items.",
+  "why_valuable": "Demonstrates Apple's renewed focus on thoughtful UI design by eliminating unnecessary visual elements that served no functional purpose.",
+  "tags": [
+    "macOS",
+    "Apple",
+    "UI Design",
+    "UX",
+    "Golden Gate"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:16:43.537544+00:00",
+  "updated_at": "2026-06-11T12:20:39.674459+00:00",
+  "published_to": []
+}

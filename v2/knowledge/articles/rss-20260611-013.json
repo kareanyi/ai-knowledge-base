@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-013",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+  "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+  "summary": "Cybersecurity researchers are expressing dissatisfaction with the safety guardrails implemented on Anthropic's Fable system, which appears to limit their ability to conduct thorough security testing and vulnerability research on the AI platform.",
+  "tech_stack": [
+    "Anthropic",
+    "Fable",
+    "AI Safety",
+    "Security Testing",
+    "Red Teaming"
+  ],
+  "problem_solved": "Addresses the tension between AI companies' safety restrictions and the need for independent security researchers to identify vulnerabilities in AI systems",
+  "why_valuable": "Highlights the ongoing debate about balancing AI safety measures with the necessity of allowing external security research to ensure AI systems are truly robust and secure",
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "Anthropic",
+    "Fable",
+    "Red Teaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:17:39.454100+00:00",
+  "updated_at": "2026-06-11T12:20:39.683079+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-017",
+  "source": "rss",
+  "source_url": "https://mohkohn.co.uk/writing/html-first/",
+  "title": "Building an HTML-first site doubled our users overnight",
+  "summary": "A case study on how adopting an HTML-first development approach—prioritizing semantic HTML with minimal JavaScript—significantly improved site performance and user acquisition, doubling the user base almost overnight. The article demonstrates the tangible business benefits of building lightweight, fast-loading web experiences that prioritize core web vitals and progressive enhancement.",
+  "tech_stack": [
+    "HTML",
+    "Vanilla JavaScript",
+    "CSS",
+    "Progressive Enhancement",
+    "Core Web Vitals"
+  ],
+  "problem_solved": "Addresses slow page loads, poor SEO performance, and high JavaScript overhead that were limiting user growth and engagement.",
+  "why_valuable": "Provides concrete evidence that simpler, faster web development practices directly translate to measurable user growth and better business outcomes.",
+  "tags": [
+    "Performance",
+    "HTML",
+    "Web Development",
+    "SEO",
+    "Case Study"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-11T12:18:23.116175+00:00",
+  "updated_at": "2026-06-11T12:20:39.683785+00:00",
+  "published_to": []
+}

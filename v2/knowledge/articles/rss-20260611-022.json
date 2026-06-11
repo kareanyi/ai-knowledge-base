@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+  "title": "Xebia: Why AI agents fail without the right data foundation",
+  "summary": "Xebia's Global CTO Niels Zeilemaker explains that AI agents cannot succeed without proper data infrastructure; organizations must first make their data AI-ready before deploying agentic AI systems to accelerate business processes.",
+  "tech_stack": [
+    "AI Agents",
+    "Agentic AI",
+    "Data Infrastructure",
+    "Enterprise AI"
+  ],
+  "problem_solved": "Addresses why many AI agent implementations fail due to insufficient data preparation and availability.",
+  "why_valuable": "Provides strategic guidance on prioritizing data foundation over AI agent deployment, helping organizations avoid common implementation pitfalls.",
+  "tags": [
+    "AI Agents",
+    "Data Foundation",
+    "Enterprise AI",
+    "Agentic AI",
+    "Digital Transformation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-11T12:19:11.370871+00:00",
+  "updated_at": "2026-06-11T12:20:39.684692+00:00",
+  "published_to": []
+}
