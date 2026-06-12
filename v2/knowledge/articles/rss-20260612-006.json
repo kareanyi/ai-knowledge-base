@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-006",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+  "title": "Claude Fable is relentlessly proactive",
+  "summary": "Simon Willison explores Claude's new 'Fable' feature, which demonstrates aggressive proactive agentic behavior - autonomously taking initiative without waiting for explicit user prompts, representing a significant shift in how AI assistants interact with users.",
+  "tech_stack": [
+    "Claude",
+    "Anthropic API",
+    "Python",
+    "Agentic AI",
+    "Fable"
+  ],
+  "problem_solved": "Addresses the limitation of reactive AI assistants that only respond when explicitly prompted, instead enabling AI to autonomously drive tasks forward.",
+  "why_valuable": "Demonstrates a paradigm shift toward truly autonomous AI agents that can proactively manage complex workflows, potentially transforming how humans interact with AI tools.",
+  "tags": [
+    "AI Agents",
+    "Claude",
+    "Proactive AI",
+    "Agentic Behavior",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-12T11:49:40.211832+00:00",
+  "updated_at": "2026-06-12T11:58:15.873577+00:00",
+  "published_to": []
+}

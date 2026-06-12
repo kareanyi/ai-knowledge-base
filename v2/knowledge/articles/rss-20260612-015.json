@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-015",
+  "source": "rss",
+  "source_url": "https://mrbruh.com/amd2/",
+  "title": "The RCE that AMD wouldn't fix",
+  "summary": "A security researcher publicly disclosed a Remote Code Execution (RCE) vulnerability discovered in AMD processor hardware that the company declined to patch, raising concerns about hardware security and responsible disclosure practices. The disclosure sparked significant community discussion about vendor responsibility and the risks of unpatched firmware vulnerabilities.",
+  "tech_stack": [
+    "AMD Hardware",
+    "x86 Architecture",
+    "Firmware Security",
+    "Low-level Assembly",
+    "Hardware Research"
+  ],
+  "problem_solved": "Exposes a critical remote code execution vulnerability in AMD processors that leaves affected systems vulnerable to exploitation.",
+  "why_valuable": "Highlights the growing challenge of unpatched hardware vulnerabilities and raises important questions about vendor accountability in firmware security, benefiting both security professionals and end users who need to understand their risk exposure.",
+  "tags": [
+    "hardware-security",
+    "vulnerability-disclosure",
+    "AMD",
+    "remote-code-execution",
+    "firmware"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-12T11:53:35.248621+00:00",
+  "updated_at": "2026-06-12T11:58:15.886011+00:00",
+  "published_to": []
+}

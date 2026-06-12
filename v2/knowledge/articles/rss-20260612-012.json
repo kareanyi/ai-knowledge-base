@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260612-012",
+  "source": "rss",
+  "source_url": "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/",
+  "title": "Trying to fix complicated problems",
+  "summary": "A personal blog post discussing approaches to solving complex technical problems, likely exploring strategies for debugging, refactoring, or navigating challenging software engineering scenarios. The article appears to share insights from the author's experience dealing with intricate system challenges.",
+  "tech_stack": [
+    "General Programming",
+    "Software Engineering"
+  ],
+  "problem_solved": "Provides guidance on tackling complicated technical problems that lack straightforward solutions.",
+  "why_valuable": "Offers practical perspectives on problem-solving methodology for developers facing complex technical challenges.",
+  "tags": [
+    "Problem Solving",
+    "Software Development",
+    "Debugging",
+    "Technical Writing",
+    "Engineering"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-06-12T11:53:18.217672+00:00",
+  "updated_at": "2026-06-12T11:58:15.885314+00:00",
+  "published_to": []
+}

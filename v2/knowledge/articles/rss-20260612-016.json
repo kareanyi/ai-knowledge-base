@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260612-016",
+  "source": "rss",
+  "source_url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+  "title": "Claude Fable 5: mid-tier results on coding tasks",
+  "summary": "Endor Labs conducted benchmark testing on Claude Fable 5's coding capabilities and found it performs at a mid-tier level, contradicting some of the hype surrounding its release. The article provides empirical data to help developers make informed decisions about which AI coding assistants to use.",
+  "tech_stack": [
+    "Claude Fable 5",
+    "AI/LLM",
+    "Coding Benchmarks",
+    "Endor Labs"
+  ],
+  "problem_solved": "Cut through marketing hype by providing objective performance data on AI coding assistants",
+  "why_valuable": "Helps developers and teams make evidence-based decisions about AI tooling rather than relying on vendor claims",
+  "tags": [
+    "AI",
+    "LLM",
+    "Benchmarking",
+    "Coding",
+    "Claude"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:53:45.512853+00:00",
+  "updated_at": "2026-06-12T11:58:15.886223+00:00",
+  "published_to": []
+}

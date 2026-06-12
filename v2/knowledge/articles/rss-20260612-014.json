@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-014",
+  "source": "rss",
+  "source_url": "https://zed.dev/blog/introducing-deltadb",
+  "title": "Software is made between commits",
+  "summary": "Zed introduces DeltaDB, a new database system designed to track and manage software changes between commits, enabling real-time collaboration and change synchronization for developers working on shared codebases.",
+  "tech_stack": [
+    "Rust",
+    "CRDT",
+    "Real-time Sync",
+    "Operational Transformation",
+    "WebSocket"
+  ],
+  "problem_solved": "Provides efficient tracking and synchronization of incremental changes in software development, enabling seamless collaborative editing without conflicts.",
+  "why_valuable": "Enables developers to capture, sync, and replay changes between commits in real-time, fundamentally improving how software teams collaborate and track project evolution.",
+  "tags": [
+    "Database",
+    "Real-time Collaboration",
+    "Software Development",
+    "CRDT",
+    "Version Control"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-12T11:53:29.136236+00:00",
+  "updated_at": "2026-06-12T11:58:15.885785+00:00",
+  "published_to": []
+}

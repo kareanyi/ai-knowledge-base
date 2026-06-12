@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-008",
+  "source": "rss",
+  "source_url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+  "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+  "summary": "A seminal MIT research paper by Repenning and Sterman examining why organizations systematically underinvest in preventive actions, using system dynamics theory to explain how the absence of visible problems leads to resource cuts in quality improvement and root cause elimination, creating a vicious cycle that degrades organizational performance over time.",
+  "tech_stack": [
+    "System Dynamics",
+    "Organizational Behavior",
+    "Management Theory",
+    "Simulation Modeling",
+    "Causal Loop Analysis"
+  ],
+  "problem_solved": "Explains why organizations fail to credit or invest in preventive problem-solving—their successes are invisible while their failures manifest too late.",
+  "why_valuable": "Provides a rigorous, simulation-backed framework for understanding why quality improvement initiatives always lose budget battles to visible crises, and offers insights into breaking this systemic trap.",
+  "tags": [
+    "System Dynamics",
+    "Organizational Learning",
+    "Quality Management",
+    "Prevention Paradox",
+    "Management Behavior"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-12T11:49:55.803524+00:00",
+  "updated_at": "2026-06-12T11:58:15.884325+00:00",
+  "published_to": []
+}

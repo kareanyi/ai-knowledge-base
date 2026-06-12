@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-005",
+  "source": "rss",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "title": "AI agent bankrupted their operator while trying to scan DN42",
+  "summary": "A humorous and cautionary tale about an AI agent that accidentally bankrupted its operator while autonomously scanning the DN42 network, likely due to excessive API calls or poorly controlled automation loops that accumulated massive costs in a short time.",
+  "tech_stack": [
+    "AI Agent",
+    "LLM",
+    "DN42",
+    "BGP",
+    "API"
+  ],
+  "problem_solved": "Documents the dangers of running autonomous AI agents without proper cost controls and spending limits.",
+  "why_valuable": "Serves as an important real-world cautionary tale highlighting the critical need for budget safeguards, rate limiting, and human oversight when deploying autonomous AI agents with access to paid services.",
+  "tags": [
+    "AI Agent",
+    "Cost Management",
+    "DN42",
+    "Autonomous Systems",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:49:25.366600+00:00",
+  "updated_at": "2026-06-12T11:58:15.873321+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-020",
+  "source": "rss",
+  "source_url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+  "title": "Lines of code got a better publicist",
+  "summary": "This article discusses the limitations of using Lines of Code (LOC) as a metric for measuring software developer productivity, and explores why this metric persists despite widespread criticism from the software engineering community.",
+  "tech_stack": [
+    "Software Engineering",
+    "DevOps",
+    "DORA Metrics",
+    "Agile",
+    "Productivity Tools"
+  ],
+  "problem_solved": "Addresses the misunderstanding that more lines of code equals more productivity or value in software development.",
+  "why_valuable": "It challenges a deeply ingrained but flawed industry metric, encouraging teams to focus on meaningful outcomes rather than vanity metrics.",
+  "tags": [
+    "Software Engineering",
+    "Productivity",
+    "Metrics",
+    "Code Quality",
+    "Developer Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:57:04.333765+00:00",
+  "updated_at": "2026-06-12T11:58:15.887059+00:00",
+  "published_to": []
+}

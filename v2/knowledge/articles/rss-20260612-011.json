@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-011",
+  "source": "rss",
+  "source_url": "https://fablepool.com",
+  "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+  "summary": "FablePool is a platform that enables users to collectively pool money behind prompts or ideas, and then Fable builds those projects publicly in a transparent development process. It combines crowdfunding with open AI development, allowing communities to fund and track the creation of AI-powered projects.",
+  "tech_stack": [
+    "AI/ML",
+    "Web Platform",
+    "JavaScript",
+    "Python",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Enables collective funding of AI project ideas while ensuring transparent, public development that the community can follow and support.",
+  "why_valuable": "Democratizes AI project creation by allowing groups to collaboratively fund and shape what gets built, with full transparency into the development process.",
+  "tags": [
+    "AI",
+    "Crowdfunding",
+    "Collaborative Development",
+    "Open Development",
+    "Web Platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:50:21.959785+00:00",
+  "updated_at": "2026-06-12T11:58:15.885085+00:00",
+  "published_to": []
+}

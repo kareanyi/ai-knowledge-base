@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-018",
+  "source": "rss",
+  "source_url": "https://mimo.xiaomi.com/mimocode",
+  "title": "MiMo Code is now released and open-source",
+  "summary": "Xiaomi releases MiMo Code, an open-source AI coding tool that appears to be their entry into the AI-assisted code generation space, directly competing with tools like GitHub Copilot. The project has gained significant community interest on Hacker News with over 500 points and 270+ comments, indicating strong developer curiosity about this new offering from a major tech company.",
+  "tech_stack": [
+    "Python",
+    "AI/LLM",
+    "Open Source",
+    "JavaScript/TypeScript",
+    "Transformers"
+  ],
+  "problem_solved": "Provides developers with an open-source AI code generation and assistance tool from a major tech company, offering an alternative to proprietary solutions.",
+  "why_valuable": "Gives the developer community access to transparent, community-contributable AI coding tools from a major Chinese tech company, fostering innovation and competition in the AI coding assistant space.",
+  "tags": [
+    "Open Source",
+    "AI",
+    "Code Generation",
+    "Developer Tools",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:53:56.259406+00:00",
+  "updated_at": "2026-06-12T11:58:15.886649+00:00",
+  "published_to": []
+}

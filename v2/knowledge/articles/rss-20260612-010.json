@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-010",
+  "source": "rss",
+  "source_url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+  "title": "A jacket that harvests drinking water from the air",
+  "summary": "Researchers at the University of Texas have developed an innovative jacket that can harvest drinking water from ambient air humidity, using advanced moisture-absorbing materials integrated into the garment's fabric.",
+  "tech_stack": [
+    "Materials Science",
+    "Metal-Organic Frameworks (MOF)",
+    "Hydrogel Technology",
+    "Wearable Technology",
+    "Water Harvesting"
+  ],
+  "problem_solved": "Provides portable access to clean drinking water for outdoor workers, military personnel, or people in water-scarce environments by extracting moisture from air.",
+  "why_valuable": "Addresses critical water security challenges by enabling autonomous water generation in emergency situations or remote locations where traditional water sources are unavailable.",
+  "tags": [
+    "Wearable Tech",
+    "Water Harvesting",
+    "Materials Science",
+    "Sustainability",
+    "Innovation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:50:13.227766+00:00",
+  "updated_at": "2026-06-12T11:58:15.884852+00:00",
+  "published_to": []
+}

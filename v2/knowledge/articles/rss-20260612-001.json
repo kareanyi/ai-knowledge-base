@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-001",
+  "source": "rss",
+  "source_url": "https://www.fastmail.com/blog/the-future-of-email/",
+  "title": "The Future of Email",
+  "summary": "Fastmail's perspective on where email technology is heading, exploring challenges and opportunities for email's future in an era of increasing privacy concerns and communication alternatives.",
+  "tech_stack": [
+    "Email Protocols",
+    "SMTP",
+    "IMAP",
+    "Encryption",
+    "Privacy Technology"
+  ],
+  "problem_solved": "Explores how email can evolve to meet modern privacy and security demands while remaining relevant against emerging communication platforms.",
+  "why_valuable": "Provides insights from an established email provider on practical improvements and future directions for email infrastructure.",
+  "tags": [
+    "Email",
+    "Privacy",
+    "Digital Communication",
+    "Internet Infrastructure",
+    "Security"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-12T11:48:55.912904+00:00",
+  "updated_at": "2026-06-12T11:58:15.872119+00:00",
+  "published_to": []
+}

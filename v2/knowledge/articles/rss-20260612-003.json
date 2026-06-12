@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-003",
+  "source": "rss",
+  "source_url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+  "title": "AUR Packages Compromised with Infostealer and Rootkit",
+  "summary": "A serious supply chain attack compromised approximately 400 Arch Linux AUR packages with infostealer malware and rootkits, targeting the open-source package repository ecosystem.",
+  "tech_stack": [
+    "Linux",
+    "Arch Linux",
+    "AUR",
+    "Package Management",
+    "Bash"
+  ],
+  "problem_solved": "This security incident highlights the vulnerability of community-maintained package repositories to supply chain attacks where malicious code is injected through compromised maintainer accounts.",
+  "why_valuable": "This serves as a critical warning about the risks of trusting community packages without verification, demonstrating how supply chain attacks can silently infect thousands of users through trusted repositories.",
+  "tags": [
+    "Security",
+    "Linux",
+    "Supply Chain Attack",
+    "Malware",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:49:07.264290+00:00",
+  "updated_at": "2026-06-12T11:58:15.872842+00:00",
+  "published_to": []
+}

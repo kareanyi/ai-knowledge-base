@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260612-004",
+  "source": "rss",
+  "source_url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+  "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+  "summary": "This article discusses the growing importance of digital sovereignty as concerns arise about US government access to Dutch communications, highlighting the geopolitical tensions around data privacy and cross-border surveillance in the digital age.",
+  "tech_stack": [
+    "Email Systems",
+    "Cloud Infrastructure",
+    "Encryption",
+    "Data Storage"
+  ],
+  "problem_solved": "Addresses the increasing risk of foreign government surveillance on a nation's digital communications infrastructure.",
+  "why_valuable": "Brings critical attention to the urgent need for countries to establish independent digital infrastructure as cloud services increasingly fall under foreign jurisdictions.",
+  "tags": [
+    "Digital Sovereignty",
+    "Data Privacy",
+    "Geopolitics",
+    "Email Security",
+    "Surveillance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:49:13.365283+00:00",
+  "updated_at": "2026-06-12T11:58:15.873083+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-013",
+  "source": "rss",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+  "title": "WikiLambda the Ultimate",
+  "summary": "This is a Wikipedia Signpost article covering recent research about WikiLambda, a Wikimedia project that aims to create a collaborative repository of reusable computational functions accessible across Wikimedia projects. The article discusses advances in this function wiki ecosystem.",
+  "tech_stack": [
+    "Python",
+    "Wikidata",
+    "Function Execution",
+    "MediaWiki",
+    "Semantic Web"
+  ],
+  "problem_solved": "WikiLambda addresses the lack of reusable, computable functions within the Wikipedia ecosystem by creating a shared library that can be called from any Wikimedia project.",
+  "why_valuable": "It enables interoperability and computation capabilities across Wikipedia, allowing editors to create and share functional operations without needing programming expertise.",
+  "tags": [
+    "WikiLambda",
+    "Wikipedia",
+    "Wikimedia",
+    "Function Repository",
+    "Open Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-12T11:53:24.124921+00:00",
+  "updated_at": "2026-06-12T11:58:15.885562+00:00",
+  "published_to": []
+}

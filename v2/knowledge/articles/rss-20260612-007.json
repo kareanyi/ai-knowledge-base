@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260612-007",
+  "source": "rss",
+  "source_url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+  "title": "Removing 'um' from a recording is harder than it sounds",
+  "summary": "A developer created a CLI tool named 'erm' that automatically removes filler words (um, uh, erm) from speech recordings using OpenAI's Whisper for speech recognition. The article explores the surprisingly complex challenges of accurately detecting and removing these hesitation sounds while preserving natural speech flow.",
+  "tech_stack": [
+    "Go",
+    "Whisper",
+    "CLI",
+    "Audio Processing",
+    "Speech Recognition"
+  ],
+  "problem_solved": "Automatically detects and removes filler words like 'um', 'uh', and 'erm' from voice recordings to save podcasters and content creators hours of manual editing work.",
+  "why_valuable": "It solves a tedious but common pain point for content creators by automating the cleanup of verbal hesitations in audio recordings, which would otherwise require expensive professional editing software.",
+  "tags": [
+    "CLI",
+    "Audio",
+    "Whisper",
+    "Go",
+    "Tooling"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-12T11:49:46.078571+00:00",
+  "updated_at": "2026-06-12T11:58:15.873802+00:00",
+  "published_to": []
+}
