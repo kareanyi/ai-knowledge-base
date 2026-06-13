@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260613-005",
+  "source": "rss",
+  "source_url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+  "title": "There is a shadow hanging over this Fable thing",
+  "summary": "An article discussing concerns or controversies surrounding Fable (likely Fable Studio), an AI-powered video/animation generation company, with significant community discussion on Hacker News.",
+  "tech_stack": [
+    "AI",
+    "Video Generation",
+    "Machine Learning",
+    "Generative AI"
+  ],
+  "problem_solved": "Provides analysis and community discussion about potential issues or shadows surrounding an AI video generation technology company.",
+  "why_valuable": "Highlights emerging concerns and transparency issues in the rapidly evolving generative AI industry, particularly in creative/video domains.",
+  "tags": [
+    "AI",
+    "Video Generation",
+    "Tech Industry",
+    "Controversy",
+    "Fable"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:36:19.748519+00:00",
+  "updated_at": "2026-06-13T10:38:25.946307+00:00",
+  "published_to": []
+}

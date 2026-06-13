@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-004",
+  "source": "rss",
+  "source_url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+  "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+  "summary": "A browser-based game called 'Shepherd's Dog' created entirely by an AI model (Claude), demonstrating the creative game development capabilities of modern LLMs. The game likely showcases interactive storytelling and procedural content generation, received significant attention on Hacker News with 90 points and 74 comments.",
+  "tech_stack": [
+    "Claude AI",
+    "Web Technologies",
+    "Browser-based Game",
+    "JavaScript",
+    "HTML5"
+  ],
+  "problem_solved": "Demonstrates AI's capability to autonomously create complete, playable interactive games with narratives and gameplay mechanics.",
+  "why_valuable": "Shows the emerging creative potential of LLMs beyond text generation into interactive entertainment, pushing boundaries of AI-generated content.",
+  "tags": [
+    "AI Gaming",
+    "Claude",
+    "Creative AI",
+    "Game Development",
+    "Interactive Fiction"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-13T10:36:10.648274+00:00",
+  "updated_at": "2026-06-13T10:38:25.946153+00:00",
+  "published_to": []
+}

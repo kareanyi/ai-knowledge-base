@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-018",
+  "source": "rss",
+  "source_url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+  "title": "Slightly reducing the sloppiness of AI generated front end",
+  "summary": "A blog post discussing techniques and strategies to improve the quality and precision of AI-generated frontend code, addressing common issues like generic output, poor structure, and inconsistent styling that plague many AI code generation tools.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "AI/LLM",
+    "Frontend",
+    "Code Generation"
+  ],
+  "problem_solved": "Addresses the common problem of AI-generated frontend code being sloppy, generic, or low-quality with inconsistent styling and poor structure.",
+  "why_valuable": "Provides practical guidance for developers who rely on AI code generation tools but want more polished, maintainable frontend output instead of generic 'slop'.",
+  "tags": [
+    "AI",
+    "Frontend",
+    "Code Quality",
+    "Web Development",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:38:12.838661+00:00",
+  "updated_at": "2026-06-13T10:38:25.955913+00:00",
+  "published_to": []
+}

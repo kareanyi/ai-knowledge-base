@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-011",
+  "source": "rss",
+  "source_url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+  "title": "Electric motors with no rare earths",
+  "summary": "Renault Group developed electric motors for EVs that eliminate the need for rare earth materials, addressing critical supply chain vulnerabilities and environmental concerns associated with rare earth mining, primarily dominated by China.",
+  "tech_stack": [
+    "Electric Motor Design",
+    "Synchronous Motor Technology",
+    "EV Powertrain Engineering",
+    "Advanced Metallurgy",
+    "Sustainable Manufacturing"
+  ],
+  "problem_solved": "Reduces dependency on rare earth elements (90% controlled by China) in electric vehicle motors, eliminating supply chain risk and environmental damage from mining.",
+  "why_valuable": "Enables more sustainable and cost-effective EV production while ensuring supply chain independence for Western automakers.",
+  "tags": [
+    "Electric Vehicles",
+    "Sustainability",
+    "Supply Chain",
+    "Clean Energy",
+    "Automotive"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:37:16.523005+00:00",
+  "updated_at": "2026-06-13T10:38:25.954837+00:00",
+  "published_to": []
+}

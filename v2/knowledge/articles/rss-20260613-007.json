@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-007",
+  "source": "rss",
+  "source_url": "https://opensourceaimustwin.com/?share=v2",
+  "title": "Open source AI must win",
+  "summary": "An opinion piece arguing that open source AI must succeed to prevent corporate monopolization of AI technology, emphasizing the importance of democratizing AI access and ensuring community-driven innovation over closed, proprietary AI systems controlled by big tech companies.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face",
+    "Transformers",
+    "Open Source AI"
+  ],
+  "problem_solved": "Addresses the critical need for open source alternatives to proprietary AI systems to maintain innovation competition and prevent centralized control of AI technology.",
+  "why_valuable": "Provides compelling arguments for why open source AI development is essential for technological freedom, innovation, and preventing a future where AI is controlled by a few corporations.",
+  "tags": [
+    "open-source",
+    "AI",
+    "machine-learning",
+    "policy",
+    "democratization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-13T10:36:33.250832+00:00",
+  "updated_at": "2026-06-13T10:38:25.946629+00:00",
+  "published_to": []
+}

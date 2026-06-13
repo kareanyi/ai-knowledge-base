@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-006",
+  "source": "rss",
+  "source_url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+  "title": "On CPU Physics and CPU Cycles",
+  "summary": "An in-depth exploration of CPU physical fundamentals, explaining how CPU cycles work at the hardware level and the physics behind processor operations, targeted at developers seeking to understand low-level computing principles for performance optimization.",
+  "tech_stack": [
+    "Hardware",
+    "Low-level Computing",
+    "Systems Programming",
+    "C/C++",
+    "Assembly"
+  ],
+  "problem_solved": "Helps developers understand the physical constraints and cycle mechanics of CPUs to write more performant code.",
+  "why_valuable": "Provides fundamental knowledge about CPU operation that enables developers to make better architectural decisions and optimization choices at the hardware level.",
+  "tags": [
+    "CPU",
+    "Hardware",
+    "Performance",
+    "Low-level",
+    "Systems"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:36:28.584876+00:00",
+  "updated_at": "2026-06-13T10:38:25.946456+00:00",
+  "published_to": []
+}

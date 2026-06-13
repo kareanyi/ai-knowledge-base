@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-013",
+  "source": "rss",
+  "source_url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+  "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+  "summary": "Apple's engineering team documented their experience migrating the TrueType hinting interpreter from C/C++ to Swift, showcasing real-world challenges of porting performance-critical font rendering code while maintaining compatibility and performance.",
+  "tech_stack": [
+    "Swift",
+    "C/C++",
+    "TrueType",
+    "Font Rendering",
+    "Xcode"
+  ],
+  "problem_solved": "Modernizes legacy C/C++ font hinting interpreter code to benefit from Swift's type safety, memory safety, and better developer tooling while maintaining existing behavior.",
+  "why_valuable": "Demonstrates practical Swift adoption for performance-sensitive systems code and provides insights into bridging Swift with legacy C interfaces in production environments.",
+  "tags": [
+    "Swift",
+    "Apple",
+    "FontRendering",
+    "CodeMigration",
+    "TrueType"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:37:36.680086+00:00",
+  "updated_at": "2026-06-13T10:38:25.955139+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260613-016",
+  "source": "rss",
+  "source_url": "https://bitboard.work/",
+  "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+  "summary": "BitBoard is a YC P25-backed agentic analytics workspace that enables both humans and AI agents to collaborate on live data dashboards, providing persistent infrastructure for AI-driven data analysis that was previously ephemeral and hard to share.",
+  "tech_stack": [
+    "Web Platform",
+    "Analytics Dashboard",
+    "Agent Integration API",
+    "Data Visualization"
+  ],
+  "problem_solved": "AI tools treat data analysis as temporary and ephemeral, making it difficult to create persistent reports or enable collaboration between humans and AI agents.",
+  "why_valuable": "It bridges the gap between ephemeral AI analysis and production-grade reporting by providing a shared workspace where agents and humans can collaborate on live dashboards in real-time.",
+  "tags": [
+    "AI Agents",
+    "Analytics",
+    "Data Visualization",
+    "Collaborative Workspace",
+    "YC-Backed"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:38:03.459669+00:00",
+  "updated_at": "2026-06-13T10:38:25.955602+00:00",
+  "published_to": []
+}

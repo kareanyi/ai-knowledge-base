@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-002",
+  "source": "rss",
+  "source_url": "https://github.com/vladignatyev/brain-map-skill",
+  "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
+  "summary": "A skill that enables AI agents to visualize and navigate personal knowledge bases stored in Obsidian and gbrain, allowing agents to better understand and interact with interconnected notes and information.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "Obsidian API",
+    "Graph Visualization",
+    "Markdown"
+  ],
+  "problem_solved": "Enables AI agents to visualize and reason over interconnected personal knowledge stored across Obsidian notes and gbrain.",
+  "why_valuable": "Provides agents with visual understanding of complex note relationships, improving their ability to assist with research and knowledge discovery tasks.",
+  "tags": [
+    "AI Agent",
+    "Knowledge Management",
+    "Obsidian",
+    "Graph Visualization",
+    "Personal Productivity"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-13T10:35:41.051441+00:00",
+  "updated_at": "2026-06-13T10:38:25.945820+00:00",
+  "published_to": []
+}

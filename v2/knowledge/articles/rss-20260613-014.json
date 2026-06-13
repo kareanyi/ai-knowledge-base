@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-014",
+  "source": "rss",
+  "source_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+  "title": "How to setup a local coding agent on macOS",
+  "summary": "A practical guide on setting up a local AI coding agent on macOS, achieving 376 points and 93 comments on Hacker News. The article covers configuration of local LLMs for development assistance, enabling developers to use AI coding tools locally without cloud dependencies.",
+  "tech_stack": [
+    "macOS",
+    "Local LLM",
+    "VS Code",
+    "Ollama",
+    "Shell/Bash"
+  ],
+  "problem_solved": "Enables developers to run AI coding assistants locally on macOS, avoiding cloud API costs and privacy concerns.",
+  "why_valuable": "Provides a complete setup guide for self-hosted AI coding agents, giving developers full control over their data while maintaining coding productivity.",
+  "tags": [
+    "Local AI",
+    "Coding Agent",
+    "macOS",
+    "LLM Setup",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-13T10:37:41.798297+00:00",
+  "updated_at": "2026-06-13T10:38:25.955292+00:00",
+  "published_to": []
+}

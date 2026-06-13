@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260613-009",
+  "source": "rss",
+  "source_url": "https://putt.day/",
+  "title": "Show HN: Putt.day a daily mini golf game",
+  "summary": "Putt.day is a daily mini golf game where players complete a mini golf course each day, sharing scores and competing with friends in a format inspired by daily puzzle games like Wordle. The game was shared on Hacker News and gained significant community interest.",
+  "tech_stack": [
+    "JavaScript",
+    "Web Technologies",
+    "HTML5 Canvas"
+  ],
+  "problem_solved": "Provides a quick, accessible daily entertainment option with social sharing mechanics for the casual gaming market.",
+  "why_valuable": "Taps into the successful 'daily ritual' game format that drives engagement through competition and shared experiences with friends.",
+  "tags": [
+    "Gaming",
+    "Daily Game",
+    "Web App",
+    "Social",
+    "Mini Golf"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:36:56.012297+00:00",
+  "updated_at": "2026-06-13T10:38:25.954482+00:00",
+  "published_to": []
+}

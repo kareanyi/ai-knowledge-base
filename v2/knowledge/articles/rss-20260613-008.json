@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260613-008",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/news/fable-mythos-access",
+  "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+  "summary": "Anthropic issued an official statement regarding compliance with a US government directive requiring suspension of access to their Fable 5 and Mythos 5 models, sparking significant discussion about government regulation of AI technology.",
+  "tech_stack": [
+    "AI/LLM",
+    "Government Regulation",
+    "API Access",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "This content documents the regulatory compliance response to government-imposed restrictions on AI model access rather than solving a technical problem.",
+  "why_valuable": "This announcement represents a significant precedent for government intervention in AI access, affecting developers and enterprises relying on these models.",
+  "tags": [
+    "AI Regulation",
+    "Policy",
+    "Anthropic",
+    "Government",
+    "Model Access"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-13T10:36:38.853850+00:00",
+  "updated_at": "2026-06-13T10:38:25.954296+00:00",
+  "published_to": []
+}

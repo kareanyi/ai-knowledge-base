@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260613-015",
+  "source": "rss",
+  "source_url": "https://piwodlaiwo.github.io/pirates/",
+  "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+  "summary": "A web-based naval warfare game inspired by the classic Sid Meier's Pirates, offering players an adventure of maritime combat, treasure hunting, and exploration on the high seas. The project brings the beloved classic game concept to modern browsers.",
+  "tech_stack": [
+    "HTML5",
+    "JavaScript",
+    "WebGL"
+  ],
+  "problem_solved": "Revives and modernizes the classic Sid Meier's Pirates gaming experience for web browsers.",
+  "why_valuable": "Provides accessible, nostalgic gameplay that combines strategy, action, and exploration in a format playable directly in the browser without installation.",
+  "tags": [
+    "Game",
+    "Naval",
+    "Pirates",
+    "HTML5",
+    "Retro"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-13T10:37:46.407429+00:00",
+  "updated_at": "2026-06-13T10:38:25.955436+00:00",
+  "published_to": []
+}

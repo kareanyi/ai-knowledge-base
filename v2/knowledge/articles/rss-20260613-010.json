@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260613-010",
+  "source": "rss",
+  "source_url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+  "title": "Twenty One Zero-Days in FFmpeg",
+  "summary": "A security researcher discovered and disclosed 21 zero-day vulnerabilities in FFmpeg, a widely-used open-source multimedia framework. The research demonstrates the extensive attack surface of multimedia processing software and highlights critical security issues that could affect numerous applications using FFmpeg.",
+  "tech_stack": [
+    "FFmpeg",
+    "C",
+    "Fuzzing",
+    "Security Research",
+    "Vulnerability Analysis"
+  ],
+  "problem_solved": "Identifies and reports multiple critical zero-day vulnerabilities in FFmpeg before they can be exploited by malicious actors.",
+  "why_valuable": "Discovers 21 critical vulnerabilities in a ubiquitous multimedia framework, helping secure countless applications and services that depend on FFmpeg for media processing.",
+  "tags": [
+    "Security",
+    "Zero-Day",
+    "FFmpeg",
+    "Vulnerability Research",
+    "Open Source"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-13T10:37:00.603597+00:00",
+  "updated_at": "2026-06-13T10:38:25.954675+00:00",
+  "published_to": []
+}
