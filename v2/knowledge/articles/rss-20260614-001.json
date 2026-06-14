@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-001",
+  "source": "rss",
+  "source_url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+  "title": "Don't trust large context windows",
+  "summary": "A blog post warning developers and users about the unreliability of large context windows in AI language models, highlighting issues such as attention degradation, information retrieval failures, and the misconception that bigger context always means better results.",
+  "tech_stack": [
+    "LLM",
+    "Transformers",
+    "Attention Mechanism",
+    "Python",
+    "API"
+  ],
+  "problem_solved": "Addresses the common misconception that increasing context window size automatically improves AI model reliability and performance.",
+  "why_valuable": "Helps prevent costly mistakes by educating users that larger contexts come with technical trade-offs including attention degradation and retrieval issues.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Context-Window",
+    "Attention",
+    "AI-Limitations"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:53:30.556963+00:00",
+  "updated_at": "2026-06-14T10:56:12.603076+00:00",
+  "published_to": []
+}

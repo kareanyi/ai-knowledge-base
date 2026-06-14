@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-011",
+  "source": "rss",
+  "source_url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+  "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+  "summary": "ReactOS, a free and open-source operating system designed to be binary-compatible with Windows, has achieved a significant milestone by successfully running Half-Life with 3D hardware acceleration on real hardware. This achievement demonstrates substantial progress in the project's goal of providing Windows application compatibility without requiring the Windows kernel.",
+  "tech_stack": [
+    "ReactOS",
+    "DirectX",
+    "OpenGL",
+    "NT Kernel API",
+    "Wine/Windows API"
+  ],
+  "problem_solved": "Enables running legacy Windows games and applications on an open-source operating system without requiring Windows licensing or virtualization.",
+  "why_valuable": "This milestone proves that FOSS operating systems can achieve practical Windows software compatibility, advancing digital preservation, privacy, and reducing dependency on proprietary software ecosystems.",
+  "tags": [
+    "OpenSourceOS",
+    "WindowsCompatibility",
+    "Gaming",
+    "ReactOS",
+    "ReverseEngineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:08.668174+00:00",
+  "updated_at": "2026-06-14T10:56:12.612080+00:00",
+  "published_to": []
+}

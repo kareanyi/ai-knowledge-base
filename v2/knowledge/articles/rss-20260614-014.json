@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260614-014",
+  "source": "rss",
+  "source_url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink",
+  "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+  "summary": "A Wall Street Journal investigative report revealing that Amazon CEO's communications with U.S. government officials led to increased regulatory scrutiny on Anthropic's AI models, highlighting potential conflicts of interest in Big Tech's AI governance influence.",
+  "tech_stack": [
+    "AI/LLM",
+    "Cloud Infrastructure",
+    "AWS",
+    "Claude (Anthropic)"
+  ],
+  "problem_solved": "Exposes potential regulatory capture and conflict-of-interest issues in AI governance when large tech companies engage with government officials regarding AI startups they invest in.",
+  "why_valuable": "Sheds light on opaque government relations between Big Tech and AI startups, raising critical questions about regulatory independence and transparency in AI policy-making.",
+  "tags": [
+    "AI Regulation",
+    "Big Tech",
+    "Anthropic",
+    "Amazon",
+    "Government Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:34.693707+00:00",
+  "updated_at": "2026-06-14T10:56:12.612520+00:00",
+  "published_to": []
+}

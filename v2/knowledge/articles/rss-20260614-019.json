@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-019",
+  "source": "rss",
+  "source_url": "https://tonsky.me/blog/every-frame-perfect/",
+  "title": "Every Frame Perfect",
+  "summary": "Nikita Tonsky's blog post exploring techniques for achieving perfectly synchronized frame rendering in user interfaces, addressing common issues like screen tearing, stuttering, and inconsistent frame pacing through deep analysis of display technology and rendering pipelines.",
+  "tech_stack": [
+    "OpenGL",
+    "Graphics Programming",
+    "Display Technology",
+    "Clojure",
+    "Low-level Systems"
+  ],
+  "problem_solved": "It solves the problem of choppy, tearing, or inconsistent frame rendering in software UIs that frustrates users and degrades perceived quality.",
+  "why_valuable": "It provides deep technical insights into display synchronization mechanics and practical solutions for achieving butter-smooth visual rendering.",
+  "tags": [
+    "Graphics",
+    "UI-Rendering",
+    "Performance",
+    "Display-Tech",
+    "Frame-Pacing"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-14T10:56:01.835425+00:00",
+  "updated_at": "2026-06-14T10:56:12.613300+00:00",
+  "published_to": []
+}

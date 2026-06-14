@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-015",
+  "source": "rss",
+  "source_url": "https://twitter.com/jietang/status/2065784751345287314",
+  "title": "GLM 5.2 Is Out",
+  "summary": "GLM 5.2 是智谱AI大语言模型的最新版本发布，这是一个重要的模型迭代更新，引起了开发者社区的广泛关注和讨论，在Hacker News上获得了595个点赞和326条评论的热度。",
+  "tech_stack": [
+    "GLM",
+    "Large Language Model",
+    "AI",
+    "Deep Learning",
+    "Python"
+  ],
+  "problem_solved": "提供更先进、更强大的大语言模型能力，满足日益增长的AI应用需求。",
+  "why_valuable": "作为国产头部大模型的重要版本更新，GLM 5.2 的发布反映了中文AI大模型技术的持续进步，对AI开发者和应用者具有重要参考价值。",
+  "tags": [
+    "GLM",
+    "LLM",
+    "AI",
+    "Large Language Model",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:38.734429+00:00",
+  "updated_at": "2026-06-14T10:56:12.612664+00:00",
+  "published_to": []
+}

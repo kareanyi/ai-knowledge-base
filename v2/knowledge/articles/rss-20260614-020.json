@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-020",
+  "source": "rss",
+  "source_url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+  "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+  "summary": "A practical guide demonstrating how to achieve 80+ tokens per second inference speed on the Qwen 3.6 27B model with Q8 quantization by combining an RTX 5080 with an RTX 3090 in a dual-GPU setup.",
+  "tech_stack": [
+    "RTX 5080",
+    "RTX 3090",
+    "Qwen 3.6 27B",
+    "Q8 Quantization",
+    "llama.cpp"
+  ],
+  "problem_solved": "Enables high-throughput local LLM inference by leveraging multi-GPU parallelism for running large quantized models",
+  "why_valuable": "Provides a cost-effective solution for running large language models locally with near-realtime performance",
+  "tags": [
+    "GPU",
+    "LLM",
+    "Local AI",
+    "Inference",
+    "Dual-GPU"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:56:11.152095+00:00",
+  "updated_at": "2026-06-14T10:56:12.613447+00:00",
+  "published_to": []
+}

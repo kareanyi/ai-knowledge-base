@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-007",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/making-claude-a-chemist",
+  "title": "Making Claude a Chemist",
+  "summary": "Anthropic's research project exploring how to train Claude, their AI assistant, to understand and assist with chemistry-related tasks including molecular analysis, chemical reactions, and laboratory procedures.",
+  "tech_stack": [
+    "Claude LLM",
+    "Large Language Models",
+    "Scientific Datasets",
+    "Fine-tuning",
+    "Chemistry Domain Knowledge"
+  ],
+  "problem_solved": "Enabling AI to understand and reason about complex chemistry concepts, molecular structures, and reactions to assist researchers.",
+  "why_valuable": "Could accelerate scientific research and drug discovery by providing researchers with an AI assistant capable of understanding chemical literature and performing chemistry-related reasoning tasks.",
+  "tags": [
+    "AI",
+    "Chemistry",
+    "Scientific Research",
+    "Claude",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:54:20.560744+00:00",
+  "updated_at": "2026-06-14T10:56:12.604036+00:00",
+  "published_to": []
+}

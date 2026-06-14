@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-018",
+  "source": "rss",
+  "source_url": "https://lr0.org/blog/p/arabic/",
+  "title": "The experience of rendering Arabic typography and its technical debt",
+  "summary": "A technical deep-dive into the challenges of rendering Arabic typography on the web, exploring the complexities of bidirectional text, ligatures, and contextual letter forms that create significant technical debt for developers.",
+  "tech_stack": [
+    "Web Technologies",
+    "CSS",
+    "Typography Rendering",
+    "Font Formats",
+    "JavaScript"
+  ],
+  "problem_solved": "The difficulty of properly implementing Arabic script rendering with its complex rules for letter forms, diacritics, and bidirectional text flow.",
+  "why_valuable": "Arabic typography presents unique technical challenges that are often overlooked, and this article provides practical insights for developers dealing with RTL languages and internationalization.",
+  "tags": [
+    "Arabic Typography",
+    "Web Development",
+    "Technical Debt",
+    "RTL",
+    "Font Rendering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:56.434356+00:00",
+  "updated_at": "2026-06-14T10:56:12.613147+00:00",
+  "published_to": []
+}

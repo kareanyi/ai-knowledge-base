@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-013",
+  "source": "rss",
+  "source_url": "https://tcrf.net/Workboy",
+  "title": "GameBoy Workboy",
+  "summary": "Workboy was a hardware development kit and debugging tool for the Nintendo Game Boy, created by a company called Workbrain for internal development use. The TCRF article documents this rare piece of gaming history, revealing its technical capabilities and its role in Game Boy software development during the late 1980s and early 1990s.",
+  "tech_stack": [
+    "Game Boy Hardware",
+    "Assembly",
+    "DMG-CPU Architecture",
+    "Embedded Systems",
+    "Hardware Debugging"
+  ],
+  "problem_solved": "Enabled game developers to debug, test, and develop games for the original Game Boy platform with real-time monitoring capabilities.",
+  "why_valuable": "Preserves an important piece of video game development history and reveals how early Game Boy games were created, providing insight into retro game development workflows.",
+  "tags": [
+    "GameBoy",
+    "RetroGaming",
+    "GameDevelopment",
+    "Hardware",
+    "Preservation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:27.781745+00:00",
+  "updated_at": "2026-06-14T10:56:12.612374+00:00",
+  "published_to": []
+}

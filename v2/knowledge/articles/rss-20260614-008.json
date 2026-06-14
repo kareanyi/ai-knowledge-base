@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260614-008",
+  "source": "rss",
+  "source_url": "https://ataraxy-labs.github.io/weave/",
+  "title": "Weave: Merging based on language structure and not lines",
+  "summary": "Weave is a code merging tool that understands programming language syntax and structure, allowing it to perform intelligent merges that preserve code semantics rather than treating code as plain text lines.",
+  "tech_stack": [
+    "Rust",
+    "Tree-sitter",
+    "AST Parsing",
+    "Git"
+  ],
+  "problem_solved": "Traditional line-based text merging fails on code, causing unnecessary conflicts and manual resolution when code logic is actually compatible.",
+  "why_valuable": "It dramatically reduces merge conflicts for developers by understanding code semantics, saving hours of manual reconciliation work.",
+  "tags": [
+    "Code Merge",
+    "Developer Tools",
+    "Version Control",
+    "AST",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:54:44.350060+00:00",
+  "updated_at": "2026-06-14T10:56:12.611553+00:00",
+  "published_to": []
+}

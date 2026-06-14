@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-016",
+  "source": "rss",
+  "source_url": "https://desfontain.es/blog/banning-noise.html",
+  "title": "Noise infusion banned from statistical products published by Census Bureau",
+  "summary": "A blog post discussing the US Census Bureau's policy decision to ban noise infusion techniques from their statistical products. The article explores the implications of this decision on data privacy and statistical accuracy, likely related to the controversial implementation of differential privacy in census data.",
+  "tech_stack": [
+    "Differential Privacy",
+    "Statistical Analysis",
+    "Data Privacy",
+    "Census Data",
+    "Noise Injection"
+  ],
+  "problem_solved": "Addresses the tension between protecting individual privacy and maintaining statistical accuracy in government data products.",
+  "why_valuable": "This policy decision significantly impacts how official statistics are published and has broad implications for data sharing, research, and public policy decisions based on census data.",
+  "tags": [
+    "Privacy",
+    "Census",
+    "Differential Privacy",
+    "Policy",
+    "Statistics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:43.527925+00:00",
+  "updated_at": "2026-06-14T10:56:12.612806+00:00",
+  "published_to": []
+}

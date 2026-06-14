@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-003",
+  "source": "rss",
+  "source_url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+  "title": "Phoenix LiveView 1.2",
+  "summary": "Phoenix LiveView 1.2 is a major release of the Elixir web framework's real-time UI library, enabling developers to build interactive server-rendered web applications with persistent WebSocket connections, reducing the need for client-side JavaScript.",
+  "tech_stack": [
+    "Elixir",
+    "Phoenix Framework",
+    "LiveView",
+    "WebSockets",
+    "BEAM VM"
+  ],
+  "problem_solved": "Enables real-time, interactive web UIs with minimal JavaScript by leveraging server-side rendering and persistent connections.",
+  "why_valuable": "Provides a more maintainable architecture for building real-time applications using Elixir's fault-tolerant concurrency model, with automatic UI updates over WebSockets.",
+  "tags": [
+    "Elixir",
+    "Web Development",
+    "Real-time",
+    "Phoenix",
+    "LiveView"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:53:41.930874+00:00",
+  "updated_at": "2026-06-14T10:56:12.603509+00:00",
+  "published_to": []
+}

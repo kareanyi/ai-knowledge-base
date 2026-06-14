@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-012",
+  "source": "rss",
+  "source_url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+  "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+  "summary": "A technical blog post detailing the author's journey of creating a custom x86 BIOS from scratch to run DOS on a Behringer DDX3216 digital mixer, essentially reverse-engineering proprietary hardware to enable legacy operating system functionality.",
+  "tech_stack": [
+    "x86",
+    "DOS",
+    "BIOS",
+    "C",
+    "Assembly"
+  ],
+  "problem_solved": "Enables running DOS on proprietary digital audio hardware that wasn't designed to support standard x86 operating systems.",
+  "why_valuable": "Demonstrates deep hardware understanding, preserves legacy equipment, and provides educational content for low-level system programming and BIOS development.",
+  "tags": [
+    "hardware-hacking",
+    "BIOS",
+    "x86",
+    "retro-computing",
+    "embedded-systems"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:13.352142+00:00",
+  "updated_at": "2026-06-14T10:56:12.612230+00:00",
+  "published_to": []
+}

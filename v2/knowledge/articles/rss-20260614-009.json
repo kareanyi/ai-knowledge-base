@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-009",
+  "source": "rss",
+  "source_url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+  "title": "Building a serial and VGA \"everything console\"",
+  "summary": "A DIY hardware project blog post describing the construction of a multi-purpose console device that integrates both serial communication interfaces and VGA video output capabilities, likely targeting retro computing enthusiasts and hardware hackers.",
+  "tech_stack": [
+    "Hardware",
+    "VGA",
+    "Serial Communication",
+    "Electronics",
+    "Microcontroller"
+  ],
+  "problem_solved": "Provides a unified hardware console solution for both serial debugging/communication and VGA display output in a single device.",
+  "why_valuable": "Offers a practical hands-on hardware project for enthusiasts wanting to combine legacy serial and video standards in one custom-built console.",
+  "tags": [
+    "Hardware",
+    "DIY",
+    "Retro Computing",
+    "VGA",
+    "Serial"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-14T10:54:58.832579+00:00",
+  "updated_at": "2026-06-14T10:56:12.611735+00:00",
+  "published_to": []
+}

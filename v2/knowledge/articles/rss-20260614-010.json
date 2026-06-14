@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-010",
+  "source": "rss",
+  "source_url": "https://juniperspring.org/posts/honda-evil-valet/",
+  "title": "Honda Civics and the Evil Valet",
+  "summary": "A follow-up post on reverse-engineering Honda Civic infotainment systems, focusing on security vulnerabilities discovered in the vehicle's valet/parking modes. This builds on previous automotive security research published in May 2023.",
+  "tech_stack": [
+    "Automotive Security",
+    "CAN Bus",
+    "Reverse Engineering",
+    "Embedded Systems",
+    "Firmware Analysis"
+  ],
+  "problem_solved": "Exposes undocumented behavior and potential security vulnerabilities in Honda Civic infotainment systems that could affect vehicle safety.",
+  "why_valuable": "Automotive security research is critical as vehicles become increasingly connected, helping manufacturers identify and fix vulnerabilities before they can be exploited by malicious actors.",
+  "tags": [
+    "Automotive Security",
+    "Reverse Engineering",
+    "IoT Security",
+    "Car Hacking",
+    "Infotainment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:03.585409+00:00",
+  "updated_at": "2026-06-14T10:56:12.611920+00:00",
+  "published_to": []
+}

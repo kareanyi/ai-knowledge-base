@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-017",
+  "source": "rss",
+  "source_url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+  "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+  "summary": "Researchers treating pancreatic tumors have potentially identified a fundamental 'master switch' mechanism that controls cancer cell behavior and growth. This breakthrough discovery, shared at the American Society of Clinical Oncology conference, reveals how cancer cells can switch between states of dormancy and aggressive growth. The findings suggest targeting this mechanism could lead to novel treatments not just for pancreatic cancer but potentially for other cancer types as well.",
+  "tech_stack": [
+    "Oncology",
+    "Cancer Research",
+    "Targeted Therapy",
+    "Clinical Trials",
+    "Molecular Biology"
+  ],
+  "problem_solved": "Addresses the challenge of treating pancreatic cancer, one of the deadliest cancers with poor prognosis, by identifying a fundamental regulatory mechanism that controls cancer cell state transitions.",
+  "why_valuable": "Discovery of this master regulatory switch could revolutionize cancer treatment by providing a new target for drug development that may be applicable across multiple cancer types, potentially improving survival rates for one of the most difficult-to-treat malignancies.",
+  "tags": [
+    "Oncology",
+    "CancerResearch",
+    "PancreaticCancer",
+    "MedicalBreakthrough",
+    "DrugDiscovery"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-14T10:55:51.534767+00:00",
+  "updated_at": "2026-06-14T10:56:12.612985+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260614-004",
+  "source": "rss",
+  "source_url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+  "title": "Pac-Man, but you're the ghost",
+  "summary": "A personal programming project that reimagines the classic Pac-Man game by reversing the roles - instead of controlling Pac-Man, the player controls the ghost to hunt down the classic yellow character through the maze.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML5 Canvas",
+    "Game Development"
+  ],
+  "problem_solved": "Creates a fun twist on a classic arcade game that provides a fresh challenge for players familiar with the original.",
+  "why_valuable": "Demonstrates creative game design thinking by inverting the classic gameplay formula to create a novel and entertaining experience.",
+  "tags": [
+    "Game Development",
+    "JavaScript",
+    "HTML5",
+    "Indie Project",
+    "Retro Gaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:53:51.267706+00:00",
+  "updated_at": "2026-06-14T10:56:12.603642+00:00",
+  "published_to": []
+}

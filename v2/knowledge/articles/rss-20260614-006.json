@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260614-006",
+  "source": "rss",
+  "source_url": "https://sqltoerdiagram.com/",
+  "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+  "summary": "A free browser-based tool that converts SQL schemas into Entity-Relationship (ER) diagrams instantly, with all processing done locally client-side to ensure complete data privacy.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "SVG/D3.js (diagram rendering)"
+  ],
+  "problem_solved": "Solves the problem of visualizing complex SQL database schemas in an intuitive, graphical ER diagram format without needing external tools or uploading sensitive data.",
+  "why_valuable": "It provides a free, privacy-preserving solution for developers and database architects to quickly visualize and understand SQL schemas directly in the browser.",
+  "tags": [
+    "SQL",
+    "ER Diagram",
+    "Database Design",
+    "Visualization",
+    "Privacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-14T10:54:04.004057+00:00",
+  "updated_at": "2026-06-14T10:56:12.603911+00:00",
+  "published_to": []
+}

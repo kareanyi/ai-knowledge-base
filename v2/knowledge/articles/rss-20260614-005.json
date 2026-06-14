@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-005",
+  "source": "rss",
+  "source_url": "https://martinfowler.com/architecture/",
+  "title": "Software Architecture Guide (2019)",
+  "summary": "This is Martin Fowler's comprehensive guide on software architecture, covering fundamental concepts, design principles, and architectural patterns for building robust software systems. The guide provides authoritative guidance on architectural decisions, trade-offs, and best practices based on decades of industry experience.",
+  "tech_stack": [
+    "Software Architecture",
+    "Design Patterns",
+    "UML",
+    "Object-Oriented Design",
+    "Microservices"
+  ],
+  "problem_solved": "Provides structured guidance on making architectural decisions and understanding trade-offs in software system design.",
+  "why_valuable": "Martin Fowler is one of the most respected software architects whose work has shaped modern software engineering practices and patterns.",
+  "tags": [
+    "Software Architecture",
+    "Design Patterns",
+    "Engineering Best Practices",
+    "System Design",
+    "Agile Architecture"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-14T10:53:55.645142+00:00",
+  "updated_at": "2026-06-14T10:56:12.603757+00:00",
+  "published_to": []
+}
