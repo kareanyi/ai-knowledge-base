@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-001",
+  "source": "rss",
+  "source_url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
+  "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
+  "summary": "India and UAE are forming a strategic AI partnership to develop sovereign AI infrastructure, working with Abu Dhabi-based AI company G42 and chip manufacturer Cerebras to reduce dependence on American tech giants like Google and Microsoft.",
+  "tech_stack": [
+    "Cerebras",
+    "G42",
+    "AI Infrastructure",
+    "Cloud Computing",
+    "GPU/Chip Technology"
+  ],
+  "problem_solved": "Addresses AI sovereignty concerns by enabling nations to build independent AI capabilities without relying on US or Chinese technology providers.",
+  "why_valuable": "Represents a significant geopolitical shift where nations seek technological independence and data sovereignty in AI development, potentially reshaping global AI power dynamics.",
+  "tags": [
+    "AI Sovereignty",
+    "Geopolitics",
+    "Infrastructure",
+    "G42",
+    "Cerebras"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-15T14:30:41.570708+00:00",
+  "updated_at": "2026-06-15T14:33:30.975042+00:00",
+  "published_to": []
+}

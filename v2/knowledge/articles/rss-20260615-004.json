@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-004",
+  "source": "rss",
+  "source_url": "https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html",
+  "title": "Applying Brevity and Language Efficiency in Prompt Engineering",
+  "summary": "A practical guide on applying brevity and language efficiency principles to prompt engineering for AI/LLM interactions, emphasizing that concise prompts often yield better results than verbose ones.",
+  "tech_stack": [
+    "LLMs",
+    "Prompt Engineering",
+    "AI",
+    "Natural Language Processing",
+    "OpenAI API"
+  ],
+  "problem_solved": "Teaches developers how to write more effective AI prompts by eliminating wordiness and focusing on essential instructions.",
+  "why_valuable": "Concise prompts improve AI response quality, reduce token usage/costs, and enhance developer productivity when working with LLMs.",
+  "tags": [
+    "Prompt Engineering",
+    "AI",
+    "LLM Optimization",
+    "Communication",
+    "Developer Tips"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-15T14:31:13.094728+00:00",
+  "updated_at": "2026-06-15T14:33:30.975777+00:00",
+  "published_to": []
+}

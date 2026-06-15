@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260615-006",
+  "source": "rss",
+  "source_url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+  "title": "Anthropic's Safety Superpower",
+  "summary": "This Stratechery article analyzes how Anthropic's deep focus on AI safety has evolved from a philosophical stance into a competitive business advantage, particularly as enterprises and regulators increasingly prioritize trust and safety in AI systems.",
+  "tech_stack": [
+    "AI Safety",
+    "Claude",
+    "Constitutional AI"
+  ],
+  "problem_solved": "Explores how Anthropic differentiates itself in the crowded AI market by making safety a core business strategy rather than just a technical constraint.",
+  "why_valuable": "Reveals the strategic business case for AI safety investment, showing how safety concerns can drive enterprise adoption and regulatory trust.",
+  "tags": [
+    "AI Safety",
+    "Anthropic",
+    "Business Strategy",
+    "Enterprise AI",
+    "AI Regulation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-15T14:31:26.339997+00:00",
+  "updated_at": "2026-06-15T14:33:30.976180+00:00",
+  "published_to": []
+}

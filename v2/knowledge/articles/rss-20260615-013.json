@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-013",
+  "source": "rss",
+  "source_url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+  "title": "Apple Foundation Models",
+  "summary": "Apple Foundation Models (AFM) is Apple's framework for running AI models directly on-device, enabling privacy-preserving inference using Apple Silicon's Neural Engine. The framework powers Apple Intelligence features and provides developers tools to integrate local AI capabilities into iOS, macOS, and other Apple platform applications.",
+  "tech_stack": [
+    "Apple Foundation Models",
+    "Core ML",
+    "Swift",
+    "Apple Silicon",
+    "Neural Engine"
+  ],
+  "problem_solved": "Enables on-device AI inference while keeping user data private by eliminating the need to send sensitive information to cloud servers.",
+  "why_valuable": "Provides enterprise-grade privacy for AI applications while leveraging Apple Silicon's powerful Neural Engine for efficient, low-latency model execution.",
+  "tags": [
+    "On-Device AI",
+    "Apple Intelligence",
+    "Privacy",
+    "Core ML",
+    "Mobile Development"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-15T14:32:42.358823+00:00",
+  "updated_at": "2026-06-15T14:33:30.984608+00:00",
+  "published_to": []
+}

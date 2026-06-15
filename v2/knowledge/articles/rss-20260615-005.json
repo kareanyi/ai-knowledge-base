@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-005",
+  "source": "rss",
+  "source_url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+  "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+  "summary": "Salesforce announced the acquisition of Fin (formerly Intercom) for $3.6 billion, marking one of the largest deals in the customer service AI space. This acquisition aims to strengthen Salesforce's AI-powered customer engagement capabilities and compete more effectively against rivals like Zendesk in the rapidly evolving enterprise AI market.",
+  "tech_stack": [
+    "AI/ML",
+    "CRM",
+    "Cloud Computing",
+    "SaaS",
+    "Customer Service Platform"
+  ],
+  "problem_solved": "Accelerates Salesforce's AI customer service strategy and competitive positioning against Zendesk and other rivals",
+  "why_valuable": "The $3.6B deal represents a major consolidation in the AI-powered customer service space, combining Intercom's Fin AI capabilities with Salesforce's enterprise CRM infrastructure",
+  "tags": [
+    "Enterprise SaaS",
+    "AI",
+    "CRM",
+    "Acquisition",
+    "Customer Service"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-15T14:31:18.967795+00:00",
+  "updated_at": "2026-06-15T14:33:30.975962+00:00",
+  "published_to": []
+}

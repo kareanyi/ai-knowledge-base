@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-019",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+  "title": "Formal methods and the future of programming",
+  "summary": "Jane Street has been pioneering the use of formal methods, particularly the Coq proof assistant, to verify critical trading infrastructure since around 2010. This comprehensive index provides access to their extensive blog series documenting practical applications of formal verification in a high-stakes financial environment.",
+  "tech_stack": [
+    "OCaml",
+    "Coq",
+    "Formal Verification",
+    "Proof Assistants",
+    "CompCert"
+  ],
+  "problem_solved": "Ensures mathematical proof-based correctness guarantees for critical financial trading systems where bugs could result in significant financial losses.",
+  "why_valuable": "Demonstrates real-world successful application of formal methods at scale in a production environment, providing a practical model for how theorem proving can be integrated into commercial software development.",
+  "tags": [
+    "Formal Methods",
+    "OCaml",
+    "Coq",
+    "Software Verification",
+    "Financial Technology"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-15T14:33:30.398702+00:00",
+  "updated_at": "2026-06-15T14:33:30.985690+00:00",
+  "published_to": []
+}

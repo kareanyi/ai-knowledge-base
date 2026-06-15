@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260615-009",
+  "source": "rss",
+  "source_url": "https://openrouter.ai/openrouter/fusion",
+  "title": "Openrouter Fusion API",
+  "summary": "OpenRouter Fusion API is a unified API gateway that aggregates multiple LLM providers (OpenAI, Anthropic, Google, Meta, etc.) into a single interface, allowing developers to access and intelligently route requests across different AI models through one API.",
+  "tech_stack": [
+    "REST API",
+    "Python",
+    "JavaScript",
+    "OpenAI Compatible API"
+  ],
+  "problem_solved": "Eliminates the need for developers to manage multiple API integrations and billing systems for different AI model providers by providing a single unified endpoint.",
+  "why_valuable": "It simplifies multi-model AI application development with built-in cost optimization, automatic failover, and unified billing while maintaining compatibility with existing OpenAI-style codebases.",
+  "tags": [
+    "AI",
+    "LLM",
+    "API Gateway",
+    "Multi-model",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-15T14:31:51.970863+00:00",
+  "updated_at": "2026-06-15T14:33:30.983903+00:00",
+  "published_to": []
+}

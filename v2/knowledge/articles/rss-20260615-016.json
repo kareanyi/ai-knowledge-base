@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-016",
+  "source": "rss",
+  "source_url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+  "title": "Your ePub Is fine",
+  "summary": "A technical blog post exploring EPUB formatting compatibility issues between Kobo e-readers and Adobe Digital Editions, examining why well-formed ePub files sometimes fail validation on certain devices despite meeting standards.",
+  "tech_stack": [
+    "EPUB",
+    "Kobo",
+    "Adobe Digital Editions",
+    "HTML",
+    "CSS"
+  ],
+  "problem_solved": "Explains why EPUB files that pass validation still fail on Kobo devices due to inconsistent interpretation of EPUB/IDPF standards across platforms.",
+  "why_valuable": "Provides practical debugging insights for eBook developers struggling with cross-platform EPUB compatibility issues that documentation doesn't address.",
+  "tags": [
+    "EPUB",
+    "E-books",
+    "Digital Publishing",
+    "Cross-platform",
+    "Debugging"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-15T14:32:57.971667+00:00",
+  "updated_at": "2026-06-15T14:33:30.985149+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-018",
+  "source": "rss",
+  "source_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+  "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+  "summary": "A GitHub issue exposing that Rio de Janeiro's claimed 'homegrown' LLM (Nex-N2) appears to be a merge or modification of existing open-source models, raising questions about model provenance and academic integrity in AI development.",
+  "tech_stack": [
+    "LLM",
+    "Open Source Models",
+    "Model Merging",
+    "Python",
+    "Transformers"
+  ],
+  "problem_solved": "Exposes potential misrepresentation of AI model origins and raises awareness about verifying model provenance claims.",
+  "why_valuable": "Highlights the importance of transparency and ethical practices in AI development, especially regarding model attribution and the growing concern of 'vibe coding' in the AI community.",
+  "tags": [
+    "AI Ethics",
+    "LLM",
+    "Model Merging",
+    "Open Source",
+    "Transparency"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-15T14:33:24.249246+00:00",
+  "updated_at": "2026-06-15T14:33:30.985507+00:00",
+  "published_to": []
+}

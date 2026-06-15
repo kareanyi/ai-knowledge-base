@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-014",
+  "source": "rss",
+  "source_url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+  "title": "Even more batteries included with Emacs",
+  "summary": "This article explores Emacs's extensive built-in features that users often overlook, demonstrating how the editor comes with powerful packages for tasks like file management, text manipulation, and workflow automation without requiring third-party plugins.",
+  "tech_stack": [
+    "Emacs",
+    "Emacs Lisp",
+    "Org Mode",
+    "Magit",
+    "Vertico"
+  ],
+  "problem_solved": "Addresses the common problem of Emacs users not knowing about built-in functionality, leading to unnecessary third-party package installations.",
+  "why_valuable": "Helps users maximize productivity by leveraging Emacs's native capabilities, reducing configuration burden and dependency on external packages.",
+  "tags": [
+    "Emacs",
+    "Editor",
+    "Productivity",
+    "Built-in Features",
+    "Configuration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-15T14:32:48.444812+00:00",
+  "updated_at": "2026-06-15T14:33:30.984786+00:00",
+  "published_to": []
+}

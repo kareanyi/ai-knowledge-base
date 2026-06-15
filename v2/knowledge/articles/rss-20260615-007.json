@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260615-007",
+  "source": "rss",
+  "source_url": "https://github.com/themartiano/luz",
+  "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+  "summary": "A developer built a complete C++ ray tracer from scratch without using AI tools, sharing it as a Hacker News Show HN post. The project demonstrates traditional graphics programming skills, with the author intentionally highlighting that no AI assistance was used during development.",
+  "tech_stack": [
+    "C++",
+    "Graphics Programming",
+    "Ray Tracing",
+    "Git"
+  ],
+  "problem_solved": "Implements ray tracing algorithms from scratch to render photorealistic images with lighting, shadows, and reflections.",
+  "why_valuable": "Demonstrates pure coding competency and deep understanding of computer graphics fundamentals in an era where AI-assisted development is increasingly common.",
+  "tags": [
+    "C++",
+    "Ray Tracing",
+    "Computer Graphics",
+    "Rendering",
+    "Show HN"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-15T14:31:32.129391+00:00",
+  "updated_at": "2026-06-15T14:33:30.976372+00:00",
+  "published_to": []
+}

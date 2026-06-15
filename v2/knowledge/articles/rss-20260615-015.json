@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-015",
+  "source": "rss",
+  "source_url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+  "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+  "summary": "This article revisits the eight fallacies of distributed computing formulated by Peter Deutsch and Sun Microsystems in the 1990s, examining how these foundational assumptions about network behavior continue to be violated in modern distributed systems, leading to design flaws and failures even 21 years later.",
+  "tech_stack": [
+    "Distributed Systems",
+    "Network Protocols",
+    "System Architecture",
+    "Backend Engineering",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "It addresses the persistent problem of developers making incorrect assumptions about network reliability, latency, bandwidth, and security in distributed system design.",
+  "why_valuable": "These eight fallacies serve as a timeless checklist that helps architects and developers avoid critical design mistakes in distributed systems, remaining as relevant today as when first published.",
+  "tags": [
+    "Distributed Computing",
+    "System Design",
+    "Network Architecture",
+    "Software Engineering",
+    "Backend"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-15T14:32:53.395628+00:00",
+  "updated_at": "2026-06-15T14:33:30.984958+00:00",
+  "published_to": []
+}

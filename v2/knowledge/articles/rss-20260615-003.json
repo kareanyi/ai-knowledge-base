@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260615-003",
+  "source": "rss",
+  "source_url": "https://crankgpt.com",
+  "title": "CrankGPT",
+  "summary": "CrankGPT is a web-based tool that integrates GPT/AI capabilities into a user-facing interface. The name suggests it may involve interactive or manual AI interaction, though the specific functionality cannot be determined from the minimal available information on Hacker News.",
+  "tech_stack": [
+    "GPT",
+    "Web Application",
+    "AI Integration"
+  ],
+  "problem_solved": "Likely makes GPT/AI technology more accessible or usable through a simplified web interface.",
+  "why_valuable": "Provides an accessible way to interact with AI models through a dedicated web platform.",
+  "tags": [
+    "AI",
+    "GPT",
+    "Web Tool",
+    "Chatbot",
+    "LLM"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-06-15T14:31:08.797864+00:00",
+  "updated_at": "2026-06-15T14:33:30.975579+00:00",
+  "published_to": []
+}
