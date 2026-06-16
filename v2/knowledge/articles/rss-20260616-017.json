@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260616-017",
+  "source": "rss",
+  "source_url": "https://michaelenger.com/blog/i-love-the-computer/",
+  "title": "I Love the Computer",
+  "summary": "A personal essay expressing the author's passion and deep appreciation for computers and programming, reflecting on the joy and fulfillment derived from working with technology.",
+  "tech_stack": [
+    "General Programming",
+    "Computing"
+  ],
+  "problem_solved": "Explores the emotional and philosophical aspects of why developers love their craft, resonating with those who share similar passions.",
+  "why_valuable": "Provides authentic, relatable insights into the personal joy of computing, fostering community connection among tech enthusiasts who may feel the same way about their work.",
+  "tags": [
+    "Personal Essay",
+    "Programming",
+    "Hacker Culture",
+    "Passion",
+    "Technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:09:02.195366+00:00",
+  "updated_at": "2026-06-16T13:10:01.955377+00:00",
+  "published_to": []
+}

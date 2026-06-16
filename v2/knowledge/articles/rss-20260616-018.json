@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-018",
+  "source": "rss",
+  "source_url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+  "title": "What job interviews taught me about Kubernetes",
+  "summary": "作者通过参加多个Kubernetes相关职位的面试，以面试问答的形式系统地学习和总结了Kubernetes的核心概念，包括Pod、Deployment、Service、Ingress等核心资源，以及如何设计高可用的K8s架构，提供了独特的学习视角。",
+  "tech_stack": [
+    "Kubernetes",
+    "Docker",
+    "YAML",
+    "Linux",
+    "Cloud Platforms"
+  ],
+  "problem_solved": "帮助开发者通过面试场景系统理解Kubernetes核心概念和最佳实践",
+  "why_valuable": "将技术学习与职业发展结合，通过面试问答的形式让K8s学习更加目标导向和高效",
+  "tags": [
+    "Kubernetes",
+    "DevOps",
+    "Interview",
+    "Containers",
+    "Cloud-Native"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-16T13:09:21.356246+00:00",
+  "updated_at": "2026-06-16T13:10:01.955563+00:00",
+  "published_to": []
+}

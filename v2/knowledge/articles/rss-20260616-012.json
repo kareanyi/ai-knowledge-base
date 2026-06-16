@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-012",
+  "source": "rss",
+  "source_url": "https://garden-of-flowers.heikkilotvonen.com/",
+  "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+  "summary": "An extensive digital archive documenting the history of pictorial typography and letterpress art from the 1600s to modern times, created by a researcher who traced the overlooked precursors to ASCII art through eight years of dedicated study and collection building.",
+  "tech_stack": [
+    "Web Development",
+    "Digital Archive",
+    "Typography",
+    "HTML/CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "Documents the missing historical link between 17th-century letterpress art and modern ASCII art, addressing the lack of scholarly attention to typography-based visual imagery.",
+  "why_valuable": "Preserves and illuminates an overlooked artistic tradition that predates digital text art by centuries, providing valuable historical context for understanding the evolution of visual communication.",
+  "tags": [
+    "Typography",
+    "Letterpress",
+    "ASCII Art",
+    "Digital Archive",
+    "Art History"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-16T13:06:54.351597+00:00",
+  "updated_at": "2026-06-16T13:10:01.950864+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260616-002",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/clyrzd5g6k2o",
+  "title": "Russian artist and Putin critic shot dead in Poland",
+  "summary": "A Russian artist and vocal critic of Putin was shot and killed in Poland, raising concerns about the safety of Russian dissidents abroad. The incident highlights ongoing tensions related to opposition figures who have fled Russia since the Ukraine invasion.",
+  "tech_stack": [
+    "N/A - News Content"
+  ],
+  "problem_solved": "Reports on a politically-motivated killing of a Russian dissident artist in Poland.",
+  "why_valuable": "Documents threats against Russian opposition figures living outside Russia and raises awareness about political violence targeting dissidents.",
+  "tags": [
+    "Politics",
+    "Crime",
+    "Russia",
+    "Art",
+    "Human Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:02:56.203144+00:00",
+  "updated_at": "2026-06-16T13:10:01.949001+00:00",
+  "published_to": []
+}

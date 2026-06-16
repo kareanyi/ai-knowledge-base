@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-020",
+  "source": "rss",
+  "source_url": "https://tinywind.io",
+  "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+  "summary": "TinyWind is a pixel-art sailing game featuring realistic wind physics simulation where players navigate pixelated ships using authentic wind dynamics, accumulating over 380,000 kilometers of player-sailed distance.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML5 Canvas",
+    "WebGL",
+    "Physics Engine",
+    "Web-based Game"
+  ],
+  "problem_solved": "Provides a casual yet physics-accurate sailing experience that combines nostalgic pixel aesthetics with realistic wind simulation for engaging browser-based gameplay.",
+  "why_valuable": "The fusion of simple pixel art visuals with sophisticated real-world wind physics creates an accessible yet deeply engaging sailing simulation that has captivated players with authentic nautical mechanics.",
+  "tags": [
+    "Pixel Art",
+    "Wind Physics",
+    "Sailing Game",
+    "Casual Gaming",
+    "Browser Game"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-16T13:10:01.334530+00:00",
+  "updated_at": "2026-06-16T13:10:01.955951+00:00",
+  "published_to": []
+}

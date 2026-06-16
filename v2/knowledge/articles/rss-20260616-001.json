@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-001",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo",
+  "title": "SpaceX Is Buying Cursor",
+  "summary": "SpaceX is reportedly acquiring Cursor, the popular AI-powered code editor startup, in what would be a significant move combining space technology with cutting-edge AI development tools. This acquisition would bring the AI coding assistant under the SpaceX umbrella, potentially integrating it into SpaceX's extensive software development operations.",
+  "tech_stack": [
+    "AI/ML",
+    "Code Editor Technology",
+    "TypeScript",
+    "Software Development Tools",
+    "Natural Language Processing"
+  ],
+  "problem_solved": "Accelerates AI-assisted software development by combining Cursor's AI coding capabilities with SpaceX's resources and scale.",
+  "why_valuable": "This acquisition signals the growing importance of AI-native development tools and could accelerate Cursor's growth while giving SpaceX a competitive edge in internal software development.",
+  "tags": [
+    "AI",
+    "SpaceX",
+    "Cursor",
+    "Acquisition",
+    "Code Editor"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:02:24.323514+00:00",
+  "updated_at": "2026-06-16T13:10:01.948723+00:00",
+  "published_to": []
+}

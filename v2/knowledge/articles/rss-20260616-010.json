@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-010",
+  "source": "rss",
+  "source_url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+  "title": "John Carmack on Fabrice Bellard",
+  "summary": "John Carmack, legendary programmer and co-founder of id Software, shares his thoughts on Fabrice Bellard - another legendary programmer known for creating FFmpeg, QEMU, TinyCC, and other groundbreaking open source projects. The post highlights Bellard's exceptional productivity and technical brilliance, generating significant discussion in the programming community.",
+  "tech_stack": [
+    "C",
+    "Assembly",
+    "FFmpeg",
+    "QEMU",
+    "Open Source"
+  ],
+  "problem_solved": "Highlights and celebrates exceptional technical achievement and programming excellence in the software industry.",
+  "why_valuable": "It provides insights into the mind of one programming legend appreciating another, offering inspiration and perspective on what truly exceptional software engineering looks like.",
+  "tags": [
+    "Programming",
+    "Legends",
+    "Open Source",
+    "Software Engineering",
+    "Inspiration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-16T13:06:05.865381+00:00",
+  "updated_at": "2026-06-16T13:10:01.950475+00:00",
+  "published_to": []
+}

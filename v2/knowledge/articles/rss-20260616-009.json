@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-009",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+  "title": "Understanding the rationale behind a rule when trying to circumvent it",
+  "summary": "Raymond Chen's blog post explores the importance of understanding the original rationale behind design rules and constraints before attempting to circumvent them, using Windows development examples to illustrate how seemingly arbitrary rules often exist to solve real problems that may not be immediately obvious.",
+  "tech_stack": [
+    "Windows API",
+    "C++",
+    "Software Design",
+    "Programming Best Practices"
+  ],
+  "problem_solved": "Addresses the common developer mistake of bypassing established rules or constraints without first comprehending the underlying problems they were designed to solve.",
+  "why_valuable": "Helps developers avoid introducing subtle bugs and design flaws by appreciating the historical context and reasoning behind seemingly arbitrary technical constraints.",
+  "tags": [
+    "Software Engineering",
+    "Windows Development",
+    "Programming Philosophy",
+    "Best Practices",
+    "Technical Decision Making"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-16T13:05:48.054033+00:00",
+  "updated_at": "2026-06-16T13:10:01.950291+00:00",
+  "published_to": []
+}

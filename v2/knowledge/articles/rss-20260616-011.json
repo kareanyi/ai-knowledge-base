@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-011",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+  "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+  "summary": "A historical anecdote from Microsoft's x86 emulator team describing a case where they encountered code so poorly written that they chose to patch it on-the-fly during emulation rather than trying to fix the underlying source, showcasing pragmatic problem-solving in legacy system emulation.",
+  "tech_stack": [
+    "x86",
+    "Emulation",
+    "Low-level debugging",
+    "Assembly",
+    "Windows"
+  ],
+  "problem_solved": "Deals with executing extremely buggy legacy x86 code that couldn't be fixed at the source but needed to run correctly in an emulator.",
+  "why_valuable": "Demonstrates real-world pragmatic engineering decisions when maintaining emulators, showing how teams balance correctness with practicality when dealing with decades-old legacy code.",
+  "tags": [
+    "x86",
+    "emulation",
+    "debugging",
+    "legacy-code",
+    "windows-internals"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:06:27.198758+00:00",
+  "updated_at": "2026-06-16T13:10:01.950659+00:00",
+  "published_to": []
+}

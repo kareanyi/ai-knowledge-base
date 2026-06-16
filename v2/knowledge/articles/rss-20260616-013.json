@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260616-013",
+  "source": "rss",
+  "source_url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+  "title": "Humanity isn't ready for the coming intelligence explosion",
+  "summary": "A thought-provoking editorial from The Economist arguing that humanity lacks the necessary frameworks, governance structures, and ethical preparations to handle the rapid advancement of artificial intelligence toward superintelligence levels, warning of existential risks ahead.",
+  "tech_stack": [
+    "Opinion Analysis",
+    "AI Policy",
+    "Risk Assessment"
+  ],
+  "problem_solved": "Raises awareness about the urgent need for global AI governance and safety measures before superintelligent systems emerge.",
+  "why_valuable": "The article addresses one of the most critical questions of our era—whether humanity can safely navigate the transition to AI systems that may surpass human intelligence.",
+  "tags": [
+    "AI Safety",
+    "Superintelligence",
+    "Existential Risk",
+    "AI Governance",
+    "Future of AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-16T13:07:23.819071+00:00",
+  "updated_at": "2026-06-16T13:10:01.951047+00:00",
+  "published_to": []
+}

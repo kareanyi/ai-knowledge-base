@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-005",
+  "source": "rss",
+  "source_url": "https://tck.mn/blog/correlated-randomness-sts2/",
+  "title": "Correlated randomness in Slay the Spire 2",
+  "summary": "This article explores the game design concept of correlated randomness in Slay the Spire 2, examining how roguelike deck-building games manipulate probability to create fairer and more engaging gameplay experiences by ensuring random events aren't truly independent.",
+  "tech_stack": [
+    "Game Design",
+    "Probability Theory",
+    "Roguelike Mechanics",
+    "Deck-building",
+    "RNG Systems"
+  ],
+  "problem_solved": "How to make random outcomes in games feel fair and satisfying rather than frustrating or arbitrary.",
+  "why_valuable": "Understanding correlated randomness helps game designers create more polished and enjoyable gameplay by subtly guiding probability distributions to prevent streak-based frustration.",
+  "tags": [
+    "GameDesign",
+    "Roguelike",
+    "Probability",
+    "SlayTheSpire",
+    "GameBalance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:04:00.093682+00:00",
+  "updated_at": "2026-06-16T13:10:01.949526+00:00",
+  "published_to": []
+}

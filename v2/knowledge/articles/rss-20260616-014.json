@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-014",
+  "source": "rss",
+  "source_url": "https://www.richardosgood.com/posts/banned-book-library/",
+  "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+  "summary": "A creative maker project that transforms a Wi-Fi smart light bulb into a covert banned book library, demonstrating steganography and distributed data storage techniques using IoT hardware as an unlikely data container.",
+  "tech_stack": [
+    "IoT",
+    "Smart Home Hardware",
+    "Python",
+    "Wi-Fi Protocols",
+    "Steganography"
+  ],
+  "problem_solved": "Demonstrates how to hide sensitive information (banned books) in everyday IoT devices to bypass censorship and surveillance.",
+  "why_valuable": "Shows innovative thinking about privacy, censorship-resistance, and covert data storage by repurposing mundane smart devices as secret data repositories.",
+  "tags": [
+    "IoT",
+    "Privacy",
+    "Steganography",
+    "Smart Home",
+    "Censorship-resistance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-16T13:07:42.424764+00:00",
+  "updated_at": "2026-06-16T13:10:01.951232+00:00",
+  "published_to": []
+}

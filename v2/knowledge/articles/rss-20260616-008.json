@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260616-008",
+  "source": "rss",
+  "source_url": "https://commodore.net/why-a-flip-phone/",
+  "title": "Commodore Releases Flip Phone",
+  "summary": "Commodore, the historic computer brand famous for the Commodore 64, has launched a new flip phone device, bringing nostalgic computing aesthetics to the mobile phone market.",
+  "tech_stack": [
+    "Mobile Hardware",
+    "Flip Phone Design",
+    "Legacy Computing"
+  ],
+  "problem_solved": "Offers a nostalgic phone option for retro computing enthusiasts and those seeking simplicity over modern smartphones.",
+  "why_valuable": "Combines iconic brand heritage with practical mobile communication, appealing to both collectors and users wanting a simpler device.",
+  "tags": [
+    "retro-computing",
+    "flip-phone",
+    "product-launch",
+    "nostalgia",
+    "commodore"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-16T13:05:22.061872+00:00",
+  "updated_at": "2026-06-16T13:10:01.950103+00:00",
+  "published_to": []
+}

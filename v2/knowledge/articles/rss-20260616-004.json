@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-004",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+  "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+  "summary": "SpaceX announces acquisition of Anysphere, the company behind popular AI coding assistant Cursor, for $60 billion in what would be one of the largest AI company acquisitions, potentially bringing advanced AI-powered development tools to SpaceX's engineering operations.",
+  "tech_stack": [
+    "AI/LLM",
+    "Cursor IDE",
+    "Code Editor Technology",
+    "Developer Tools",
+    "AI Agents"
+  ],
+  "problem_solved": "Addresses the need for accelerated software development through AI-assisted coding integrated into enterprise engineering environments.",
+  "why_valuable": "The $60B valuation signals the enormous market value of AI coding tools and represents a strategic move to embed AI development capabilities directly into SpaceX's technology stack.",
+  "tags": [
+    "AI",
+    "M&A",
+    "SpaceX",
+    "Developer Tools",
+    "Tech Industry"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:03:47.816142+00:00",
+  "updated_at": "2026-06-16T13:10:01.949358+00:00",
+  "published_to": []
+}

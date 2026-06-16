@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-006",
+  "source": "rss",
+  "source_url": "https://trinket.strivemath.org/",
+  "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+  "summary": "Trinket.io, a popular browser-based Python coding platform for education, was shutting down and a community member saved the project and self-hosted it at trinket.strivemath.org to preserve access for students and educators.",
+  "tech_stack": [
+    "Python",
+    "Browser-based IDE",
+    "Web Hosting",
+    "Flask",
+    "Open Source"
+  ],
+  "problem_solved": "Preserves access to a widely-used educational coding platform that was being discontinued, preventing loss of valuable learning resources.",
+  "why_valuable": "Community-driven preservation of educational infrastructure ensures students and teachers can continue using a trusted tool for learning Python coding.",
+  "tags": [
+    "Python",
+    "Education",
+    "Open Source",
+    "Code Learning",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:04:22.539149+00:00",
+  "updated_at": "2026-06-16T13:10:01.949715+00:00",
+  "published_to": []
+}

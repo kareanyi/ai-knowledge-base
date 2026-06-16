@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-016",
+  "source": "rss",
+  "source_url": "https://gmalandrakis.com/writings/ad-economicum.html",
+  "title": "Peopleless economy? Not technically impossible",
+  "summary": "A philosophical and technical exploration examining whether a fully automated economy operating without human labor is theoretically achievable, given advances in AI and automation technologies. The article analyzes the technical feasibility and implications of a post-human economic system.",
+  "tech_stack": [
+    "AI",
+    "AGI",
+    "Automation",
+    "Economics",
+    "Machine Learning"
+  ],
+  "problem_solved": "Examines whether an economy can function entirely without human participation through automation and AI",
+  "why_valuable": "Provides critical analysis of AI's potential to fundamentally reshape economic systems and human role in production",
+  "tags": [
+    "AI",
+    "Economy",
+    "Automation",
+    "Future of Work",
+    "AGI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-16T13:08:39.255800+00:00",
+  "updated_at": "2026-06-16T13:10:01.955164+00:00",
+  "published_to": []
+}
