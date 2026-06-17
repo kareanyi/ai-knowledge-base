@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260617-007",
+  "source": "rss",
+  "source_url": "https://artificialanalysis.ai/models/glm-5-2",
+  "title": "GLM 5.2 Performance Benchmarks",
+  "summary": "GLM 5.2 is a large language model from Chinese AI company Zhipu AI (智谱AI), and this content presents its performance benchmarks comparing it against other leading AI models on artificialanalysis.ai, a platform that tracks and analyzes AI model performance metrics.",
+  "tech_stack": [
+    "GLM",
+    "LLM",
+    "Python",
+    "ML Benchmarking"
+  ],
+  "problem_solved": "Provides quantitative performance data to compare GLM 5.2 against other state-of-the-art language models.",
+  "why_valuable": "Enables researchers and developers to make informed decisions about model selection based on objective benchmark comparisons.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Benchmark",
+    "Performance",
+    "Chinese AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-17T12:25:49.424884+00:00",
+  "updated_at": "2026-06-17T12:29:15.977967+00:00",
+  "published_to": []
+}

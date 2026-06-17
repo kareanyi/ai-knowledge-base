@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-012",
+  "source": "rss",
+  "source_url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+  "title": "Wolfram Language and Mathematica version 15",
+  "summary": "Stephen Wolfram announces the release of Wolfram Language and Mathematica version 15, featuring integrated AI capabilities and extensive new core functionality for computational mathematics and symbolic computation.",
+  "tech_stack": [
+    "Wolfram Language",
+    "Mathematica",
+    "Symbolic Computation",
+    "AI Integration",
+    "Computational Mathematics"
+  ],
+  "problem_solved": "Provides enhanced computational capabilities with built-in AI features for mathematical modeling, data analysis, and automated reasoning tasks.",
+  "why_valuable": "Version 15 brings native AI integration directly into the Wolfram computational environment, enabling seamless AI-assisted computation without external dependencies.",
+  "tags": [
+    "Wolfram",
+    "Mathematica",
+    "Computational Science",
+    "Symbolic Math",
+    "AI Integration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-17T12:27:01.542994+00:00",
+  "updated_at": "2026-06-17T12:29:15.978770+00:00",
+  "published_to": []
+}

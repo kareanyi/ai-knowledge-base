@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-003",
+  "source": "rss",
+  "source_url": "https://cells2pixels.github.io/",
+  "title": "Show HN: High-Res Neural Cellular Automata",
+  "summary": "Neural Cellular Automata (NCA) can now generate high-resolution, self-organizing patterns in real-time by representing each cell as a Neural Field, enabling applications like self-healing patterns from seeds, regenerative PBR textures, and 3D procedural textures like clouds.",
+  "tech_stack": [
+    "Neural Cellular Automata",
+    "Neural Fields",
+    "Deep Learning",
+    "PBR Textures",
+    "WebGL"
+  ],
+  "problem_solved": "Solves the resolution limitation of traditional cellular automata by leveraging neural fields, enabling HD-resolution self-organizing pattern generation at interactive framerates.",
+  "why_valuable": "It bridges the gap between low-res cellular automata and practical high-resolution graphics applications, enabling real-time regenerative textures and self-healing patterns with broad implications for procedural generation and computer graphics.",
+  "tags": [
+    "Neural Networks",
+    "Cellular Automata",
+    "Procedural Generation",
+    "Computer Graphics",
+    "Self-Organization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-17T12:24:48.653865+00:00",
+  "updated_at": "2026-06-17T12:29:15.977242+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-016",
+  "source": "rss",
+  "source_url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+  "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+  "summary": "A practical guide about upgrading to 10Gb/s Ethernet by switching to Broadcom SFP+ modules, sharing hands-on experience with compatible networking hardware for improved network speeds.",
+  "tech_stack": [
+    "10Gb Ethernet",
+    "SFP+",
+    "Broadcom",
+    "Network Hardware",
+    "Fiber Optics"
+  ],
+  "problem_solved": "Solving the need for affordable 10Gb networking upgrades by finding compatible SFP+ modules for high-speed connectivity.",
+  "why_valuable": "Provides real-world testing and compatibility guidance for enterprise-grade 10Gb networking upgrades at a fraction of the cost of brand-name modules.",
+  "tags": [
+    "networking",
+    "ethernet",
+    "hardware",
+    "server",
+    "infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-17T12:28:07.097100+00:00",
+  "updated_at": "2026-06-17T12:29:15.979398+00:00",
+  "published_to": []
+}

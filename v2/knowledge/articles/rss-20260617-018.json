@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-018",
+  "source": "rss",
+  "source_url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+  "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+  "summary": "A practical tutorial demonstrating how to use bash's built-in /dev/tcp feature to establish TCP connections and make raw HTTP requests without relying on external tools like curl or wget.",
+  "tech_stack": [
+    "Bash",
+    "/dev/tcp",
+    "HTTP Protocol",
+    "TCP/IP",
+    "Shell Scripting"
+  ],
+  "problem_solved": "Enables making HTTP requests in minimal environments where curl/wget aren't available, and teaches underlying network communication principles.",
+  "why_valuable": "Provides a dependency-free way to understand HTTP at the protocol level and serves as a fallback for system administrators working in constrained environments.",
+  "tags": [
+    "Bash",
+    "Networking",
+    "HTTP",
+    "Linux",
+    "Shell Scripting"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-17T12:28:56.360331+00:00",
+  "updated_at": "2026-06-17T12:29:15.979611+00:00",
+  "published_to": []
+}

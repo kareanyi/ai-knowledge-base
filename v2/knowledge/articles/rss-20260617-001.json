@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-001",
+  "source": "rss",
+  "source_url": "https://www.rfc-editor.org/info/rfc10008/",
+  "title": "RFC 10008: The new HTTP Query Method",
+  "summary": "RFC 10008 defines a new HTTP QUERY method as an idempotent, safe operation for requesting parameter-based queries, addressing the limitation that GET requests cannot have request bodies for complex query operations while maintaining proper caching and proxy semantics.",
+  "tech_stack": [
+    "HTTP Protocol",
+    "RFC Standards",
+    "REST API",
+    "Web Architecture",
+    "Caching"
+  ],
+  "problem_solved": "Enables complex query operations with request bodies in a standardized, idempotent way without violating HTTP method semantics that restrict GET from having bodies.",
+  "why_valuable": "Provides a standardized solution for RESTful APIs to perform complex queries with parameters in request bodies while preserving HTTP caching, proxy support, and safety properties.",
+  "tags": [
+    "HTTP",
+    "REST",
+    "API Design",
+    "RFC",
+    "Web Standards"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-17T12:24:18.450911+00:00",
+  "updated_at": "2026-06-17T12:29:15.976655+00:00",
+  "published_to": []
+}

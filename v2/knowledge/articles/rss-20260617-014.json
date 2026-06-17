@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-014",
+  "source": "rss",
+  "source_url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+  "title": "GrapheneOS has been ported to Android 17",
+  "summary": "GrapheneOS, a privacy and security-hardened Android-based operating system, has been successfully ported to Android 17 with official releases coming soon. The project continues its tradition of providing enhanced security features including improved sandboxing, hardening against exploits, and reduced attack surface compared to stock Android.",
+  "tech_stack": [
+    "Android AOSP",
+    "C/C++",
+    "Linux Kernel",
+    "Hardened_malloc",
+    "Vanadium (hardened Chromium)"
+  ],
+  "problem_solved": "Provides users with a privacy-respecting and security-hardened alternative to stock Android operating systems.",
+  "why_valuable": "GrapheneOS is one of the most respected privacy-focused mobile OS projects, offering enterprise-grade security hardening while maintaining usability, making it essential for security-conscious users, journalists, and activists.",
+  "tags": [
+    "Privacy",
+    "Mobile Security",
+    "Android",
+    "Open Source",
+    "Hardened OS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-17T12:27:36.185409+00:00",
+  "updated_at": "2026-06-17T12:29:15.979166+00:00",
+  "published_to": []
+}

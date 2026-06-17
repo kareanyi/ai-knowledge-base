@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-010",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.14806",
+  "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+  "summary": "This arXiv pre-print proposes a theoretical framework using semiclassical gravity—combining quantum field theory with classical spacetime—to efficiently solve NP-Complete computational problems. The paper explores how gravitational effects might provide computational advantages beyond classical Turing machines, potentially leveraging quantum-classical hybrid dynamics to bypass conventional complexity barriers.",
+  "tech_stack": [
+    "Quantum Mechanics",
+    "General Relativity",
+    "Computational Complexity Theory",
+    "Mathematical Physics",
+    "Quantum Field Theory"
+  ],
+  "problem_solved": "Proposes using gravitational physics to solve NP-Complete problems in polynomial time rather than exponential time.",
+  "why_valuable": "If validated, this would represent a paradigm shift in computational complexity theory, potentially revolutionizing optimization, cryptography, and our fundamental understanding of computation's physical limits.",
+  "tags": [
+    "Quantum Gravity",
+    "NP-Complete",
+    "Computational Complexity",
+    "Theoretical Physics",
+    "Quantum Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-17T12:26:37.652846+00:00",
+  "updated_at": "2026-06-17T12:29:15.978508+00:00",
+  "published_to": []
+}

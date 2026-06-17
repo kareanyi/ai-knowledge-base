@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260617-013",
+  "source": "rss",
+  "source_url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+  "title": "Humiliating IIS servers for fun and jail time",
+  "summary": "A security research article discussing vulnerabilities and exploitation techniques targeting Microsoft IIS web servers, likely covering ethical hacking methodologies and security research findings.",
+  "tech_stack": [
+    "IIS",
+    "Windows Server",
+    "HTTP Protocol",
+    "Web Security Tools"
+  ],
+  "problem_solved": "Exposes security vulnerabilities in IIS servers that could be exploited by attackers.",
+  "why_valuable": "Provides security researchers and sysadmins with knowledge about IIS attack vectors and defense strategies.",
+  "tags": [
+    "Security",
+    "IIS",
+    "Vulnerability Research",
+    "Web Security",
+    "Ethical Hacking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-17T12:27:17.181062+00:00",
+  "updated_at": "2026-06-17T12:29:15.979020+00:00",
+  "published_to": []
+}

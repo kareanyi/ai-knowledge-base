@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-004",
+  "source": "rss",
+  "source_url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+  "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+  "summary": "GLM-5.2 is a new open weights large language model released by Zhipu AI that has become the top-ranked model on the Artificial Analysis Intelligence Index, representing a significant advancement in the open-source AI landscape and competing directly with proprietary models.",
+  "tech_stack": [
+    "GLM-5.2",
+    "Open Weights LLM",
+    "Python",
+    "Transformers",
+    "PyTorch"
+  ],
+  "problem_solved": "Provides a state-of-the-art open weights alternative to closed API models, enabling developers and researchers to self-host and fine-tune powerful AI capabilities.",
+  "why_valuable": "It democratizes access to cutting-edge AI by offering full model weights for local deployment, customization, and research without API dependencies or usage fees.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Weights",
+    "Chinese AI",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-17T12:25:01.515720+00:00",
+  "updated_at": "2026-06-17T12:29:15.977426+00:00",
+  "published_to": []
+}

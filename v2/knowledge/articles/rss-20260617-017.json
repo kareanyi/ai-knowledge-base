@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260617-017",
+  "source": "rss",
+  "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+  "title": "Has AI already killed self-help nonfiction books?",
+  "summary": "Tim Ferriss explores whether AI has made traditional self-help nonfiction obsolete, examining how large language models can now instantly synthesize key insights from hundreds of books, potentially diminishing the value of the originals.",
+  "tech_stack": [
+    "Large Language Models (LLMs)",
+    "AI Summarization Tools",
+    "ChatGPT",
+    "Claude"
+  ],
+  "problem_solved": "Addresses whether AI threatens to render traditional self-help nonfiction books irrelevant by instantly summarizing their core content.",
+  "why_valuable": "Provides a thought-provoking analysis from a successful author on how AI is reshaping the nonfiction publishing landscape and what this means for content creators.",
+  "tags": [
+    "AI Impact",
+    "Publishing Industry",
+    "Self-Help Genre",
+    "Content Creation",
+    "Author Perspective"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-17T12:28:21.652149+00:00",
+  "updated_at": "2026-06-17T12:29:15.979506+00:00",
+  "published_to": []
+}

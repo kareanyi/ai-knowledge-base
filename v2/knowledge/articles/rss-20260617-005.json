@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-005",
+  "source": "rss",
+  "source_url": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+  "title": "Most of the CVE-2026-4020 attackers are the same client",
+  "summary": "Security research analyzing CVE-2026-2020 vulnerability exploitation, revealing that most attackers leveraging this flaw utilize the same client infrastructure and tools, suggesting coordinated or shared attack resources.",
+  "tech_stack": [
+    "Network Analysis",
+    "Threat Intelligence",
+    "Log Analysis",
+    "Security Research",
+    "Infrastructure Analysis"
+  ],
+  "problem_solved": "Understanding attacker patterns and infrastructure reuse in exploitation of CVE-2026-4020 vulnerability.",
+  "why_valuable": "Provides threat intelligence insights that help security teams with attribution, defensive strategy, and understanding the threat landscape behind this specific vulnerability.",
+  "tags": [
+    "CVE",
+    "Security",
+    "Threat-Analysis",
+    "Vulnerability",
+    "Malware-Research"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-17T12:25:18.287223+00:00",
+  "updated_at": "2026-06-17T12:29:15.977601+00:00",
+  "published_to": []
+}

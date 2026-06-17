@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-008",
+  "source": "rss",
+  "source_url": "https://claude.com/blog/the-founders-playbook",
+  "title": "The founder's playbook: Building an AI-native startup",
+  "summary": "Anthropic's comprehensive guide sharing strategies and best practices for building AI-native startups, based on lessons learned from working with numerous AI companies. The playbook covers product development, go-to-market strategies, team building, and scaling challenges specific to AI ventures.",
+  "tech_stack": [
+    "Claude AI",
+    "Large Language Models",
+    "Cloud Infrastructure",
+    "API-first Architecture",
+    "Vector Databases"
+  ],
+  "problem_solved": "Provides actionable guidance for founders navigating the unique challenges of building and scaling AI-native companies.",
+  "why_valuable": "Offers insider perspectives from a leading AI company on proven strategies for succeeding in the rapidly evolving AI startup landscape.",
+  "tags": [
+    "AI Startups",
+    "Entrepreneurship",
+    "Business Strategy",
+    "LLM Applications",
+    "Product Development"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-17T12:26:02.673836+00:00",
+  "updated_at": "2026-06-17T12:29:15.978150+00:00",
+  "published_to": []
+}

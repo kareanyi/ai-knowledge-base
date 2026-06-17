@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260617-009",
+  "source": "rss",
+  "source_url": "https://stephantul.github.io/blog/unfence/",
+  "title": "From Chesterton's fence to Chesterton's gap",
+  "summary": "A philosophical blog post exploring Chesterton's Fence concept (the principle that one must understand why something exists before removing it) and extending it to 'Chesterton's Gap' - likely discussing situations where understanding or rationale is missing rather than just obscured.",
+  "tech_stack": [
+    "Static Site Generator",
+    "Markdown"
+  ],
+  "problem_solved": "Addresses the problem of misunderstanding or ignoring the reasoning behind existing systems, traditions, or decisions before attempting to change them.",
+  "why_valuable": "Provides a nuanced philosophical framework for critical thinking about institutional knowledge and the dangers of assuming we know better than those who came before us.",
+  "tags": [
+    "Philosophy",
+    "Critical Thinking",
+    "Systems Thinking",
+    "Decision Making",
+    "Wisdom"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-17T12:26:21.020074+00:00",
+  "updated_at": "2026-06-17T12:29:15.978326+00:00",
+  "published_to": []
+}
