@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260618-020",
+  "source": "rss",
+  "source_url": "https://lore.org/",
+  "title": "Lore – Open source version control system designed for scalability",
+  "summary": "Lore is an open-source version control system designed to solve scalability limitations of traditional VCS tools like Git, particularly for large monorepos and enterprises with massive codebases. It aims to provide better performance and handling of large files and histories.",
+  "tech_stack": [
+    "Rust",
+    "Git-compatible"
+  ],
+  "problem_solved": "Addresses Git's performance and scalability issues when handling large repositories, binary files, and extensive history.",
+  "why_valuable": "Enables development teams to manage massive codebases efficiently without the performance bottlenecks typical of traditional version control systems.",
+  "tags": [
+    "Version Control",
+    "Open Source",
+    "Scalability",
+    "Developer Tools",
+    "Rust"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-18T12:00:55.838106+00:00",
+  "updated_at": "2026-06-18T12:03:30.114311+00:00",
+  "published_to": []
+}

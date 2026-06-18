@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-019",
+  "source": "rss",
+  "source_url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+  "title": "Volkswagen started blocking GrapheneOS users",
+  "summary": "Volkswagen has started blocking users of GrapheneOS, a privacy-focused hardened Android OS, from accessing their official app through SafetyNet/Play Integrity checks that detect custom ROM usage.",
+  "tech_stack": [
+    "Android",
+    "GrapheneOS",
+    "SafetyNet API",
+    "Play Integrity API",
+    "App Bundles"
+  ],
+  "problem_solved": "Raises awareness about the growing conflict between corporate app policies that restrict privacy-focused OS users and individuals' right to modify their own devices.",
+  "why_valuable": "Highlights the tension between digital rights, sideloading freedom, and corporate control over software access, sparking important discussions about user autonomy in the mobile ecosystem.",
+  "tags": [
+    "Privacy",
+    "Digital Rights",
+    "Android",
+    "GrapheneOS",
+    "App Blocking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T12:00:34.965041+00:00",
+  "updated_at": "2026-06-18T12:03:30.114155+00:00",
+  "published_to": []
+}

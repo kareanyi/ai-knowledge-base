@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-009",
+  "source": "rss",
+  "source_url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+  "title": "Local Qwen isn't a worse Opus, it's a different tool",
+  "summary": "Alex Ellis argues that local AI models like Qwen shouldn't be compared directly to cloud models like Claude Opus as inferior alternatives, but rather as fundamentally different tools serving distinct use cases. The article explores when local deployment makes sense versus cloud APIs, emphasizing benefits like data privacy, cost control, offline access, and latency advantages.",
+  "tech_stack": [
+    "Qwen",
+    "Ollama",
+    "Docker",
+    "LLM",
+    "Local AI"
+  ],
+  "problem_solved": "Clarifies the false dichotomy between local and cloud AI models by positioning them as complementary tools rather than competitors.",
+  "why_valuable": "Provides practical guidance for developers and organizations deciding when to use local AI versus cloud APIs, dispelling common misconceptions about local model limitations.",
+  "tags": [
+    "Local AI",
+    "LLM",
+    "Qwen",
+    "Self-hosted",
+    "AI Deployment"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-18T11:58:24.960623+00:00",
+  "updated_at": "2026-06-18T12:03:30.112575+00:00",
+  "published_to": []
+}

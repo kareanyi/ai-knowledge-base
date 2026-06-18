@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260618-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+  "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won&#8217;t.",
+  "summary": "Microsoft has quietly become the sole US AI vendor supplying OpenAI models in China through Azure, selling to the country's largest internet companies, while OpenAI and Anthropic have chosen to stay out of the Chinese market citing intellectual property protection and misuse concerns.",
+  "tech_stack": [
+    "Azure Cloud",
+    "OpenAI Models"
+  ],
+  "problem_solved": "Addresses how Microsoft navigates the complex geopolitics of AI distribution in restricted markets while competitors opt out.",
+  "why_valuable": "It reveals a significant market gap and competitive advantage Microsoft has gained by serving a market that OpenAI and Anthropic deliberately avoided.",
+  "tags": [
+    "AI Business",
+    "Geopolitics",
+    "Microsoft Azure",
+    "OpenAI",
+    "China Market"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-18T12:01:13.755478+00:00",
+  "updated_at": "2026-06-18T12:03:30.114627+00:00",
+  "published_to": []
+}

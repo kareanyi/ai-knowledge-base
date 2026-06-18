@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-005",
+  "source": "rss",
+  "source_url": "https://www.acma.gov.au/sms-sender-id-register",
+  "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+  "summary": "The Australian Government through ACMA is implementing a mandatory SMS/MMS Sender ID registry to combat the growing problem of SMS phishing (smishing) and brand impersonation fraud. Organizations sending SMS messages using alphanumeric sender IDs (like 'MYBANK' or 'AU Gov') must register these identifiers to prevent abuse by scammers.",
+  "tech_stack": [
+    "SMS Protocol",
+    "MMS Protocol",
+    "Sender ID Authentication",
+    "Telecommunications Compliance"
+  ],
+  "problem_solved": "Prevents scammers from impersonating legitimate brands and government agencies through SMS sender ID spoofing.",
+  "why_valuable": "Establishes a critical security layer against SMS fraud that protects Australian consumers and maintains trust in mobile communications, while requiring businesses to implement compliance measures.",
+  "tags": [
+    "telecommunications",
+    "regulation",
+    "SMS fraud",
+    "cybersecurity",
+    "compliance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T11:57:33.278518+00:00",
+  "updated_at": "2026-06-18T12:03:30.111838+00:00",
+  "published_to": []
+}

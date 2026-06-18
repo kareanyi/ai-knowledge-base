@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-004",
+  "source": "rss",
+  "source_url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+  "title": "The Forge We Deserve",
+  "summary": "A thoughtful essay advocating for better development tools and build systems, arguing that the current state of developer infrastructure falls short of what engineers truly need for productive work. The author proposes a vision for an ideal 'forge' - a unified development environment that better serves modern software development workflows.",
+  "tech_stack": [
+    "Software Development",
+    "Build Systems",
+    "IDE",
+    "CI/CD",
+    "Developer Tools"
+  ],
+  "problem_solved": "Addresses the fragmented and suboptimal developer tooling landscape that forces engineers to work with disjointed, inefficient build and development environments.",
+  "why_valuable": "Articulates a compelling vision for improving daily developer experience through better-designed tooling infrastructure, potentially influencing how future development environments are built.",
+  "tags": [
+    "Developer Experience",
+    "Software Engineering",
+    "Tooling",
+    "Productivity",
+    "Opinion"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T11:57:23.080459+00:00",
+  "updated_at": "2026-06-18T12:03:30.101738+00:00",
+  "published_to": []
+}

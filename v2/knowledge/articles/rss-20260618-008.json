@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260618-008",
+  "source": "rss",
+  "source_url": "https://conf.nim-lang.org/",
+  "title": "Nim Conf 2026 (Online, Sat June 20)",
+  "summary": "Nim Conf 2026 is an upcoming online conference dedicated to the Nim programming language, scheduled for June 20, 2026. The event serves as a platform for the Nim community to share knowledge, showcase projects, and discuss the future of the language.",
+  "tech_stack": [
+    "Nim"
+  ],
+  "problem_solved": "Provides a centralized virtual event for Nim developers to learn, network, and stay updated on language developments.",
+  "why_valuable": "Offers valuable learning and community-building opportunities for Nim programmers through talks, demos, and collaboration.",
+  "tags": [
+    "Programming",
+    "Conference",
+    "Nim",
+    "Community",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-18T11:58:04.936313+00:00",
+  "updated_at": "2026-06-18T12:03:30.112414+00:00",
+  "published_to": []
+}

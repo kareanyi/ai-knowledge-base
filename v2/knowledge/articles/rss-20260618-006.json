@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-006",
+  "source": "rss",
+  "source_url": "https://chat.deepseek.com/",
+  "title": "DeepSeek Introduces Vision",
+  "summary": "DeepSeek, a leading AI company known for their open-source language models, has introduced Vision capabilities to their platform, enabling multimodal AI interactions that can process and understand images alongside text.",
+  "tech_stack": [
+    "DeepSeek Models",
+    "PyTorch",
+    "Transformers",
+    "Multimodal AI",
+    "Open Source"
+  ],
+  "problem_solved": "Expands DeepSeek's capabilities beyond text-only AI to include visual understanding, allowing users to upload and analyze images within conversations.",
+  "why_valuable": "Provides an open-source alternative to proprietary multimodal AI systems like GPT-4V, making vision capabilities more accessible to developers and researchers.",
+  "tags": [
+    "AI",
+    "Vision",
+    "Multimodal",
+    "DeepSeek",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T11:57:41.288218+00:00",
+  "updated_at": "2026-06-18T12:03:30.112087+00:00",
+  "published_to": []
+}

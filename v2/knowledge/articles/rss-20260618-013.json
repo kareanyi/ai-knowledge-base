@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-013",
+  "source": "rss",
+  "source_url": "https://github.com/glojurelang/glojure",
+  "title": "Clojure Hosted on Go",
+  "summary": "Glojure 是一个用 Go 语言实现的 Clojure 语言运行时，让 Clojure 这门 Lisp 方言可以在 Go 生态系统中运行，无需 JVM 依赖。",
+  "tech_stack": [
+    "Go",
+    "Clojure",
+    "Lisp",
+    "JVM"
+  ],
+  "problem_solved": "解决 Clojure 必须运行在 JVM 上的限制，让开发者可以在 Go 运行时上使用 Clojure 的函数式编程特性。",
+  "why_valuable": "结合了 Clojure 强大的 Lisp 表达式和数据处理能力与 Go 的轻量级运行时和部署便利性。",
+  "tags": [
+    "Programming Language",
+    "Clojure",
+    "Go",
+    "Lisp",
+    "Compiler"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T11:59:27.179019+00:00",
+  "updated_at": "2026-06-18T12:03:30.113212+00:00",
+  "published_to": []
+}

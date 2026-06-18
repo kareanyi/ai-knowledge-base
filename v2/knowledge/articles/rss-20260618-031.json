@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-031",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+  "title": "Coinbase for Agents: Automating portfolio trading with AI",
+  "summary": "Coinbase for Agents is a platform that connects AI agents directly to financial execution channels, enabling LLMs to automate trading and payments from user portfolios without manual intervention. This bridges the gap between AI's data processing capabilities and real-world financial transactions.",
+  "tech_stack": [
+    "Coinbase",
+    "Large Language Models",
+    "Financial APIs",
+    "Crypto Trading",
+    "Portfolio Management"
+  ],
+  "problem_solved": "LLMs can analyze market data but lack direct integration with active financial portfolios for executing trades.",
+  "why_valuable": "It enables fully autonomous AI-driven portfolio management, allowing users to leverage AI analysis for real-time trading decisions without manual execution.",
+  "tags": [
+    "AI Agents",
+    "Crypto",
+    "Automated Trading",
+    "DeFi",
+    "LLM Integration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-18T12:03:16.923470+00:00",
+  "updated_at": "2026-06-18T12:03:30.116271+00:00",
+  "published_to": []
+}

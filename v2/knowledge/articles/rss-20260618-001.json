@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-001",
+  "source": "rss",
+  "source_url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+  "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+  "summary": "King's College London reports on how hospitals and universities are repurposing existing drugs at approximately 90% lower cost than traditional drug development, potentially revolutionizing access to treatments for various conditions.",
+  "tech_stack": [
+    "Drug Repositioning",
+    "Computational Biology",
+    "Clinical Research",
+    "Pharmacology",
+    "Academic-Industry Collaboration"
+  ],
+  "problem_solved": "Addresses the prohibitive cost and lengthy timeline of traditional drug development that limits patient access to affordable treatments.",
+  "why_valuable": "Drug repurposing can cut development costs by 90% while accelerating time-to-market for new therapeutic applications, potentially saving lives and reducing healthcare expenses.",
+  "tags": [
+    "Drug Repurposing",
+    "Healthcare Innovation",
+    "Cost Reduction",
+    "Pharmaceutical Research",
+    "Affordable Medicine"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T11:56:46.643626+00:00",
+  "updated_at": "2026-06-18T12:03:30.101313+00:00",
+  "published_to": []
+}

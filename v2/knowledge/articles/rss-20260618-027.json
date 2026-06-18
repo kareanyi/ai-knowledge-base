@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-027",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+  "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+  "summary": "This article explores how AI-powered CMS platforms are evolving beyond traditional publication tools to transform enterprise content operations, addressing the challenges of managing content across multiple markets and contributors through intelligent automation rather than manual coordination.",
+  "tech_stack": [
+    "AI/ML",
+    "CMS",
+    "Cloud Platforms",
+    "Enterprise Software",
+    "Automation"
+  ],
+  "problem_solved": "Enterprise organizations struggle to efficiently distribute the right content to the right channels across dozens of markets without relying on manual processes and siloed systems.",
+  "why_valuable": "It demonstrates how AI can eliminate manual content coordination bottlenecks, reduce operational costs, and enable enterprises to scale content operations globally.",
+  "tags": [
+    "AI",
+    "CMS",
+    "Enterprise",
+    "Content Management",
+    "Digital Transformation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T12:02:22.335616+00:00",
+  "updated_at": "2026-06-18T12:03:30.115543+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+  "title": "Google Cloud generative AI automates council planning operations",
+  "summary": "Government ministries are deploying Google Cloud generative AI to automate municipal council planning operations, addressing administrative backlogs caused by dense paperwork and unstructured data that delay infrastructure development.",
+  "tech_stack": [
+    "Google Cloud",
+    "Generative AI",
+    "Cloud Computing",
+    "Automation"
+  ],
+  "problem_solved": "Public sector planning authorities face administrative backlogs due to dense paperwork and unstructured data processing that delays infrastructure development approvals.",
+  "why_valuable": "This solution helps streamline the planning approval process, potentially enabling governments to meet ambitious targets like constructing 1.5 million new homes by 2029 in the UK.",
+  "tags": [
+    "Government AI",
+    "Generative AI",
+    "Public Sector",
+    "Cloud Computing",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T12:01:21.290944+00:00",
+  "updated_at": "2026-06-18T12:03:30.114778+00:00",
+  "published_to": []
+}

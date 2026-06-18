@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-030",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+  "title": "The AI off switch: How Anthropic&#8217;s export controls sparked a global AI sovereignty scramble",
+  "summary": "The article discusses how US government export controls led to Anthropic's most powerful AI models being taken offline globally on June 13, 2026, affecting users worldwide and even the company's own foreign-born employees, sparking significant concerns across Europe and Canada about who truly controls AI infrastructure.",
+  "tech_stack": [
+    "AI Models",
+    "Export Controls",
+    "US Government Policy",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Highlights the geopolitical vulnerability of centralized AI systems and raises awareness about the need for AI sovereignty and independent infrastructure.",
+  "why_valuable": "This article exposes the critical risk of depending on US-based AI providers and underscores the urgent need for countries to develop independent AI capabilities to avoid being subject to foreign policy decisions.",
+  "tags": [
+    "AI Sovereignty",
+    "Export Controls",
+    "Geopolitics",
+    "Anthropic",
+    "AI Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-18T12:03:06.660845+00:00",
+  "updated_at": "2026-06-18T12:03:30.116095+00:00",
+  "published_to": []
+}

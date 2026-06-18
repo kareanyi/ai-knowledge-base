@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260618-025",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+  "title": "EU publishes its AI content labelling playbook ahead of the AI Act&#8217;s August deadline",
+  "summary": "The European Union has published a voluntary Code of Practice (AI content labelling playbook) to help companies comply with transparency rules under the AI Act, which becomes enforceable starting August 2. The final Code was released on June 10, providing practical guidance for businesses building and using generative AI to properly mark AI-generated content.",
+  "tech_stack": [
+    "Generative AI",
+    "EU AI Act",
+    "Regulatory Compliance"
+  ],
+  "problem_solved": "Provides companies with clear guidance on how to label AI-generated content to meet EU transparency requirements before legal enforcement begins.",
+  "why_valuable": "Enables AI companies to proactively comply with upcoming EU regulations, avoiding potential legal penalties and building user trust through transparent AI content disclosure.",
+  "tags": [
+    "AI Regulation",
+    "EU AI Act",
+    "Transparency",
+    "Compliance",
+    "Generative AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T12:01:37.446183+00:00",
+  "updated_at": "2026-06-18T12:03:30.115096+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-024",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+  "title": "Insurers pivot AI strategy toward core risk underwriting",
+  "summary": "Insurance companies are shifting their AI investments from experimental projects to core business functions, particularly in risk underwriting and capital allocation, as shown by the 2026 Evident AI Index findings.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Data Analytics",
+    "Risk Assessment Tools"
+  ],
+  "problem_solved": "Moving AI beyond peripheral efficiency gains to directly impact core insurance risk evaluation and financial decision-making.",
+  "why_valuable": "Demonstrates the maturation of AI in insurance from hype to practical business value in critical functions like underwriting discipline and capital allocation.",
+  "tags": [
+    "Insurance",
+    "AI Strategy",
+    "Underwriting",
+    "Risk Management",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T12:01:29.592500+00:00",
+  "updated_at": "2026-06-18T12:03:30.114932+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-018",
+  "source": "rss",
+  "source_url": "https://github.com/Adam-CAD/CADAM",
+  "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+  "summary": "Adam is building AI agents for mechanical CAD software, advocating for a 'CAD as code' paradigm where text prompts generate CAD models. They've released CADAM, an open-source Text-to-CAD platform built with React and Supabase, targeting democratization of mechanical design through AI.",
+  "tech_stack": [
+    "React",
+    "TanStack Start",
+    "Supabase",
+    "Python",
+    "TypeScript"
+  ],
+  "problem_solved": "Makes mechanical CAD design accessible through natural language instead of requiring mastery of complex traditional CAD software",
+  "why_valuable": "Enables rapid CAD prototyping by converting text descriptions directly into 3D models, similar to how AI coding assistants transform requirements into functional code",
+  "tags": [
+    "AI",
+    "CAD",
+    "Open Source",
+    "YC W25",
+    "Text-to-CAD"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T12:00:22.082856+00:00",
+  "updated_at": "2026-06-18T12:03:30.113976+00:00",
+  "published_to": []
+}

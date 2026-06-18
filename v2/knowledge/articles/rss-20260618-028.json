@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-028",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+  "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+  "summary": "苹果确认Siri AI不会在中国推出后，华为迅速在东莞发布HarmonyOS 7，宣称开启\"智能体时代\"，填补了苹果在中国市场留下的AI功能空白。HarmonyOS 7的核心变化是引入了专为AI智能体设计的架构，为中国用户提供本土化的AI体验。",
+  "tech_stack": [
+    "HarmonyOS 7",
+    "AI Agent",
+    "Huawei Ecosystem",
+    "Mobile Operating System"
+  ],
+  "problem_solved": "填补了苹果Siri AI无法在中国使用所留下的市场空白，为中国用户提供本地化的AI智能体操作系统体验。",
+  "why_valuable": "HarmonyOS 7代表了操作系统与AI深度融合的趋势，展示了华为在移动OS和AI领域的技术实力，同时也反映了地缘政治对科技产品分布的影响。",
+  "tags": [
+    "HarmonyOS",
+    "AI Agent",
+    "Huawei",
+    "Mobile OS",
+    "China Market"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T12:02:35.764189+00:00",
+  "updated_at": "2026-06-18T12:03:30.115734+00:00",
+  "published_to": []
+}

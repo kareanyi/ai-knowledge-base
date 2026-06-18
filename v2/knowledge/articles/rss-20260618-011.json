@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-011",
+  "source": "rss",
+  "source_url": "https://www.midjourney.com/medical/blogpost",
+  "title": "Midjourney Medical",
+  "summary": "Midjourney expands its AI image generation technology into the medical/healthcare domain, exploring applications for medical imagery, training materials, and healthcare visualization using synthetic AI-generated content.",
+  "tech_stack": [
+    "Midjourney AI",
+    "Diffusion Models",
+    "Neural Networks",
+    "Computer Vision",
+    "Synthetic Image Generation"
+  ],
+  "problem_solved": "Addresses the challenge of limited availability and privacy concerns surrounding medical training imagery by generating synthetic medical visuals.",
+  "why_valuable": "Enables medical professionals and educators to access abundant, customizable medical imagery without patient privacy constraints, potentially revolutionizing medical education and AI diagnostic training.",
+  "tags": [
+    "AI Art Generation",
+    "Medical Imaging",
+    "Healthcare AI",
+    "Synthetic Data",
+    "Medical Education"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-18T11:58:54.821402+00:00",
+  "updated_at": "2026-06-18T12:03:30.112895+00:00",
+  "published_to": []
+}

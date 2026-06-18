@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-015",
+  "source": "rss",
+  "source_url": "https://loreline.app/en/",
+  "title": "Loreline – Tools for writing interactive fiction",
+  "summary": "Loreline is a web-based tool designed for writers to create interactive fiction with branching narratives and choice-driven storytelling. It provides a structured environment for managing complex story paths, character states, and conditional story elements.",
+  "tech_stack": [
+    "Web Application",
+    "React",
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "problem_solved": "Solves the challenge of organizing and managing complex branching narratives with multiple paths, conditions, and story states in interactive fiction writing.",
+  "why_valuable": "It provides a specialized workspace that streamlines the creative process for interactive fiction authors, making it easier to visualize and manage non-linear story structures.",
+  "tags": [
+    "Interactive Fiction",
+    "Writing Tools",
+    "Storytelling",
+    "Branching Narrative",
+    "Creative Writing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T11:59:50.344572+00:00",
+  "updated_at": "2026-06-18T12:03:30.113529+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260618-014",
+  "source": "rss",
+  "source_url": "https://storiedcolors.com/",
+  "title": "Storied Colors – A catalogue of named colors",
+  "summary": "Storied Colors is a curated catalog of named colors with associated stories and meanings, designed to help designers and developers choose colors with cultural or historical context rather than arbitrary hex codes.",
+  "tech_stack": [
+    "HTML/CSS",
+    "JavaScript",
+    "Static Website"
+  ],
+  "problem_solved": "Solves the problem of choosing colors with no meaning by providing named colors with contextual stories behind them.",
+  "why_valuable": "Adds depth and narrative to design choices, helping creators select colors that communicate specific moods, histories, or cultural significance.",
+  "tags": [
+    "Design",
+    "Colors",
+    "Typography",
+    "Creative",
+    "Catalog"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-18T11:59:38.437207+00:00",
+  "updated_at": "2026-06-18T12:03:30.113376+00:00",
+  "published_to": []
+}
