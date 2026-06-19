@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-007",
+  "source": "rss",
+  "source_url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+  "title": "Zero-Touch OAuth for MCP",
+  "summary": "This article discusses implementing zero-touch OAuth authentication for the Model Context Protocol (MCP) in enterprise environments. It provides guidance on how organizations can deploy MCP servers and clients with seamless, automated authentication without manual user intervention, addressing the security and scalability challenges of enterprise AI tool adoption.",
+  "tech_stack": [
+    "Model Context Protocol",
+    "OAuth 2.0",
+    "TypeScript",
+    "Node.js",
+    "Enterprise Authentication"
+  ],
+  "problem_solved": "Enables enterprises to securely authenticate and authorize AI agents and tools built on MCP without manual setup or user intervention.",
+  "why_valuable": "Addresses the critical security and operational challenges of deploying AI assistants in enterprise environments where compliance and access control are mandatory.",
+  "tags": [
+    "OAuth",
+    "MCP",
+    "Enterprise Security",
+    "AI Agents",
+    "Authentication"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:16:08.331091+00:00",
+  "updated_at": "2026-06-19T12:20:58.539519+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-002",
+  "source": "rss",
+  "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+  "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+  "summary": "Project Valhalla is a Java/JVM initiative that has been in development for about a decade, introducing value types (inline classes) to Java. It allows primitive-like performance with object-like behavior, solving the classic tension between primitives and objects by enabling 'value classes' that combine the best of both worlds without boxing overhead.",
+  "tech_stack": [
+    "Java",
+    "JVM",
+    "JDK 28",
+    "Value Types",
+    "Inline Classes"
+  ],
+  "problem_solved": "Eliminates the performance penalty and memory inefficiency of boxing primitives in collections, allowing developers to have both the speed of primitives and the flexibility of objects.",
+  "why_valuable": "It brings massive performance improvements for Java applications, especially those processing large datasets, by enabling better memory layout and cache efficiency while maintaining clean object-oriented semantics.",
+  "tags": [
+    "Java",
+    "JVM",
+    "ValueTypes",
+    "Performance",
+    "JDK"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:14:49.207111+00:00",
+  "updated_at": "2026-06-19T12:20:58.530219+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-010",
+  "source": "rss",
+  "source_url": "https://tester.army",
+  "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+  "summary": "TesterArmy is a YC P26-backed agentic testing platform that allows users to write end-to-end tests for web and mobile apps using natural language instead of maintaining complex test scripts. The platform uses AI agents to reliably execute tests both before deployment and in production environments.",
+  "tech_stack": [
+    "AI Agents",
+    "Natural Language Processing",
+    "Web Automation",
+    "Mobile Testing",
+    "End-to-End Testing"
+  ],
+  "problem_solved": "Eliminates the time-consuming and error-prone process of manual testing and static script maintenance for web and mobile applications.",
+  "why_valuable": "It democratizes test creation by allowing anyone to write tests in natural language while AI agents handle the complex execution, reducing QA bottlenecks in development cycles.",
+  "tags": [
+    "AI Testing",
+    "QA Automation",
+    "End-to-End Tests",
+    "DevOps",
+    "YC Companies"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-19T12:16:42.991260+00:00",
+  "updated_at": "2026-06-19T12:20:58.540038+00:00",
+  "published_to": []
+}

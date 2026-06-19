@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+  "title": "Computer vision deployments drive retail productivity gains",
+  "summary": "Retailers are deploying computer vision technology to automate shelf tracking and address in-store execution failures that cost the industry billions annually. A Coresight Research study, partnered with Simbe and RELEX Solutions, quantifies the productivity gains and margin protection achieved through these hardware deployments.",
+  "tech_stack": [
+    "Computer Vision",
+    "AI/ML",
+    "IoT Sensors",
+    "Retail Analytics",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Persistent in-store execution failures and shelf tracking gaps that erode retail margins.",
+  "why_valuable": "Provides quantifiable ROI for retailers by automating physical inventory monitoring and reducing operational losses.",
+  "tags": [
+    "Computer Vision",
+    "Retail AI",
+    "Automation",
+    "Inventory Management",
+    "Smart Retail"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-19T12:19:11.257871+00:00",
+  "updated_at": "2026-06-19T12:20:58.542012+00:00",
+  "published_to": []
+}

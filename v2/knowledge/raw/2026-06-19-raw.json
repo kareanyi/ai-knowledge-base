@@ -1,0 +1,740 @@
+{
+  "collected_at": "2026-06-19T12:10:51.191802+00:00",
+  "total": 52,
+  "items": [
+    {
+      "id": "github-145553672",
+      "source": "github",
+      "source_url": "https://github.com/fighting41love/funNLP",
+      "title": "fighting41love/funNLP",
+      "content": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具",
+      "author": "fighting41love",
+      "created_at": "2018-08-21T11:20:39Z",
+      "metadata": {
+        "stars": 81345,
+        "forks": 15238,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-250510075",
+      "source": "github",
+      "source_url": "https://github.com/huggingface/trl",
+      "title": "huggingface/trl",
+      "content": "Train transformer language models with reinforcement learning.",
+      "author": "huggingface",
+      "created_at": "2020-03-27T10:54:55Z",
+      "metadata": {
+        "stars": 18669,
+        "forks": 2794,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-102343794",
+      "source": "github",
+      "source_url": "https://github.com/apache/brpc",
+      "title": "apache/brpc",
+      "content": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "author": "apache",
+      "created_at": "2017-09-04T09:28:47Z",
+      "metadata": {
+        "stars": 17543,
+        "forks": 4120,
+        "language": "C++",
+        "topics": [
+          "rpc"
+        ]
+      }
+    },
+    {
+      "id": "github-164852596",
+      "source": "github",
+      "source_url": "https://github.com/graykode/nlp-tutorial",
+      "title": "graykode/nlp-tutorial",
+      "content": "Natural Language Processing Tutorial for Deep Learning Researchers",
+      "author": "graykode",
+      "created_at": "2019-01-09T11:44:20Z",
+      "metadata": {
+        "stars": 14912,
+        "forks": 3949,
+        "language": "Jupyter Notebook",
+        "topics": [
+          "attention",
+          "bert",
+          "natural-language-processing",
+          "nlp",
+          "paper",
+          "pytorch",
+          "tensorflow",
+          "transformer",
+          "tutorial"
+        ]
+      }
+    },
+    {
+      "id": "github-24561828",
+      "source": "github",
+      "source_url": "https://github.com/gunthercox/ChatterBot",
+      "title": "gunthercox/ChatterBot",
+      "content": "ChatterBot is a machine learning, conversational dialog engine for creating chat bots",
+      "author": "gunthercox",
+      "created_at": "2014-09-28T14:49:00Z",
+      "metadata": {
+        "stars": 14491,
+        "forks": 4426,
+        "language": "Python",
+        "topics": [
+          "bot",
+          "chatbot",
+          "chatterbot",
+          "conversation",
+          "language",
+          "machine-learning",
+          "python"
+        ]
+      }
+    },
+    {
+      "id": "github-618511002",
+      "source": "github",
+      "source_url": "https://github.com/databrickslabs/dolly",
+      "title": "databrickslabs/dolly",
+      "content": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+      "author": "databrickslabs",
+      "created_at": "2023-03-24T16:15:53Z",
+      "metadata": {
+        "stars": 10798,
+        "forks": 1139,
+        "language": "Python",
+        "topics": [
+          "chatbot",
+          "databricks",
+          "dolly",
+          "gpt"
+        ]
+      }
+    },
+    {
+      "id": "github-1696822",
+      "source": "github",
+      "source_url": "https://github.com/clips/pattern",
+      "title": "clips/pattern",
+      "content": "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",
+      "author": "clips",
+      "created_at": "2011-05-03T15:29:01Z",
+      "metadata": {
+        "stars": 8853,
+        "forks": 1558,
+        "language": "Python",
+        "topics": [
+          "machine-learning",
+          "natural-language-processing",
+          "network-analysis",
+          "python",
+          "sentiment-analysis",
+          "web-mining",
+          "wordnet"
+        ]
+      }
+    },
+    {
+      "id": "github-646333922",
+      "source": "github",
+      "source_url": "https://github.com/OpenBMB/ToolBench",
+      "title": "OpenBMB/ToolBench",
+      "content": "[ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.",
+      "author": "OpenBMB",
+      "created_at": "2023-05-28T03:46:17Z",
+      "metadata": {
+        "stars": 5671,
+        "forks": 485,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-545104023",
+      "source": "github",
+      "source_url": "https://github.com/CarperAI/trlx",
+      "title": "CarperAI/trlx",
+      "content": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+      "author": "CarperAI",
+      "created_at": "2022-10-03T19:42:40Z",
+      "metadata": {
+        "stars": 4749,
+        "forks": 484,
+        "language": "Python",
+        "topics": [
+          "machine-learning",
+          "pytorch",
+          "reinforcement-learning"
+        ]
+      }
+    },
+    {
+      "id": "github-164433070",
+      "source": "github",
+      "source_url": "https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+      "title": "HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+      "content": "🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). 🍻 OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. 🗃️ Llama3, Mistral, etc. 🧑‍💻 Video Tutorials. ",
+      "author": "HuaizhengZhang",
+      "created_at": "2019-01-07T12:59:19Z",
+      "metadata": {
+        "stars": 4117,
+        "forks": 396,
+        "language": null,
+        "topics": [
+          "ai-infra",
+          "genai",
+          "large-language-models",
+          "llmsys",
+          "mlsys",
+          "model-serving",
+          "model-training"
+        ]
+      }
+    },
+    {
+      "id": "github-211137351",
+      "source": "github",
+      "source_url": "https://github.com/brightmart/albert_zh",
+      "title": "brightmart/albert_zh",
+      "content": "A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型",
+      "author": "brightmart",
+      "created_at": "2019-09-26T16:45:30Z",
+      "metadata": {
+        "stars": 3982,
+        "forks": 742,
+        "language": "Python",
+        "topics": [
+          "albert",
+          "bert",
+          "chinese-corpus",
+          "pre-trained",
+          "pre-trained-model",
+          "pytorch",
+          "roberta",
+          "tensorflow",
+          "xlnet"
+        ]
+      }
+    },
+    {
+      "id": "github-925147332",
+      "source": "github",
+      "source_url": "https://github.com/umlx5h/LLPlayer",
+      "title": "umlx5h/LLPlayer",
+      "content": "The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!",
+      "author": "umlx5h",
+      "created_at": "2025-01-31T10:19:39Z",
+      "metadata": {
+        "stars": 3845,
+        "forks": 219,
+        "language": "C#",
+        "topics": [
+          "asr",
+          "csharp",
+          "flyleaf",
+          "language-learning",
+          "llm",
+          "media-player",
+          "ocr",
+          "ollama",
+          "player",
+          "video",
+          "video-player",
+          "whisper",
+          "wpf",
+          "yt-dlp"
+        ]
+      }
+    },
+    {
+      "id": "github-806007891",
+      "source": "github",
+      "source_url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+      "title": "aadi1011/AI-ML-Roadmap-from-scratch",
+      "content": "Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.",
+      "author": "aadi1011",
+      "created_at": "2024-05-26T05:26:18Z",
+      "metadata": {
+        "stars": 3752,
+        "forks": 710,
+        "language": null,
+        "topics": [
+          "ai",
+          "aiml",
+          "artificial-intelligence",
+          "data-science",
+          "deep-learning",
+          "hacktoberfest",
+          "hacktoberfest2025",
+          "learning",
+          "machine-learning",
+          "machine-learning-from-scratch",
+          "resources",
+          "roadmap",
+          "tutorial"
+        ]
+      }
+    },
+    {
+      "id": "github-36616176",
+      "source": "github",
+      "source_url": "https://github.com/elixirschool/elixirschool",
+      "title": "elixirschool/elixirschool",
+      "content": "The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.",
+      "author": "elixirschool",
+      "created_at": "2015-05-31T18:27:42Z",
+      "metadata": {
+        "stars": 3666,
+        "forks": 1079,
+        "language": "Elixir",
+        "topics": [
+          "educational",
+          "elixir",
+          "elixir-lang",
+          "hacktoberfest",
+          "learning",
+          "lesson",
+          "programming",
+          "translated-lessons",
+          "translation"
+        ]
+      }
+    },
+    {
+      "id": "github-366721422",
+      "source": "github",
+      "source_url": "https://github.com/salmer/CppDeveloperRoadmap",
+      "title": "salmer/CppDeveloperRoadmap",
+      "content": "The roadmap for learning the C++ programming language for beginners and experienced devs.",
+      "author": "salmer",
+      "created_at": "2021-05-12T13:16:12Z",
+      "metadata": {
+        "stars": 3494,
+        "forks": 327,
+        "language": null,
+        "topics": [
+          "cpp",
+          "developer-experience",
+          "diy",
+          "gitbook",
+          "junior",
+          "junior-developers",
+          "learning",
+          "middle",
+          "middle-developers",
+          "roadmap",
+          "self-study"
+        ]
+      }
+    },
+    {
+      "id": "github-224296809",
+      "source": "github",
+      "source_url": "https://github.com/google-research/albert",
+      "title": "google-research/albert",
+      "content": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+      "author": "google-research",
+      "created_at": "2019-11-26T22:23:13Z",
+      "metadata": {
+        "stars": 3279,
+        "forks": 575,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-917564127",
+      "source": "github",
+      "source_url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+      "title": "jonyzhang2023/awesome-embodied-vla-va-vln",
+      "content": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. ",
+      "author": "jonyzhang2023",
+      "created_at": "2025-01-16T08:23:23Z",
+      "metadata": {
+        "stars": 3272,
+        "forks": 150,
+        "language": null,
+        "topics": []
+      }
+    },
+    {
+      "id": "github-991939049",
+      "source": "github",
+      "source_url": "https://github.com/alibaba/ROLL",
+      "title": "alibaba/ROLL",
+      "content": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models",
+      "author": "alibaba",
+      "created_at": "2025-05-28T11:27:18Z",
+      "metadata": {
+        "stars": 3245,
+        "forks": 289,
+        "language": "Python",
+        "topics": [
+          "agentic",
+          "rlhf",
+          "rlvr"
+        ]
+      }
+    },
+    {
+      "id": "github-10070738",
+      "source": "github",
+      "source_url": "https://github.com/google/lisp-koans",
+      "title": "google/lisp-koans",
+      "content": "Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. ",
+      "author": "google",
+      "created_at": "2013-05-15T04:07:12Z",
+      "metadata": {
+        "stars": 3197,
+        "forks": 569,
+        "language": "Common Lisp",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-617325145",
+      "source": "github",
+      "source_url": "https://github.com/noahshinn/reflexion",
+      "title": "noahshinn/reflexion",
+      "content": "[NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning",
+      "author": "noahshinn",
+      "created_at": "2023-03-22T06:38:53Z",
+      "metadata": {
+        "stars": 3185,
+        "forks": 308,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "llm"
+        ]
+      }
+    },
+    {
+      "id": "rss-167480",
+      "source": "rss",
+      "source_url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+      "title": "Norway greenlights first full-scale ship tunnel",
+      "content": "Article URL: https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel\nComments URL: https://news.ycombinator.com/item?id=48596910\nPoints: 26\n# Comments: 9",
+      "author": "",
+      "created_at": "Fri, 19 Jun 2026 10:16:10 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-219476",
+      "source": "rss",
+      "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "content": "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\nComments URL: https://news.ycombinator.com/item?id=48595511\nPoints: 207\n# Comments: 88",
+      "author": "",
+      "created_at": "Fri, 19 Jun 2026 06:35:57 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-977006",
+      "source": "rss",
+      "source_url": "https://mnot.net/blog/2026/well_known_uris",
+      "title": "So You Want to Define a Well-Known URI",
+      "content": "Article URL: https://mnot.net/blog/2026/well_known_uris\nComments URL: https://news.ycombinator.com/item?id=48595331\nPoints: 83\n# Comments: 43",
+      "author": "",
+      "created_at": "Fri, 19 Jun 2026 06:05:01 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-770140",
+      "source": "rss",
+      "source_url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "title": "Ice water drowning survival of young patient (2025)",
+      "content": "Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885\nComments URL: https://news.ycombinator.com/item?id=48594592\nPoints: 166\n# Comments: 104",
+      "author": "",
+      "created_at": "Fri, 19 Jun 2026 03:50:25 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-152809",
+      "source": "rss",
+      "source_url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "content": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/\nComments URL: https://news.ycombinator.com/item?id=48593731\nPoints: 90\n# Comments: 35",
+      "author": "",
+      "created_at": "Fri, 19 Jun 2026 01:06:27 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-858373",
+      "source": "rss",
+      "source_url": "https://www.flexport.com/company/careers/",
+      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+      "content": "Article URL: https://www.flexport.com/company/careers/\nComments URL: https://news.ycombinator.com/item?id=48593694\nPoints: 0\n# Comments: 0",
+      "author": "",
+      "created_at": "Fri, 19 Jun 2026 01:01:13 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-925597",
+      "source": "rss",
+      "source_url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "title": "The AirPods Effect",
+      "content": "Article URL: https://www.theescapenewsletter.com/p/the-airpods-effect\nComments URL: https://news.ycombinator.com/item?id=48592832\nPoints: 135\n# Comments: 264",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 23:08:35 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-563595",
+      "source": "rss",
+      "source_url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "title": "Zero-Touch OAuth for MCP",
+      "content": "Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/\nComments URL: https://news.ycombinator.com/item?id=48592163\nPoints: 207\n# Comments: 75",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 21:54:10 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-555104",
+      "source": "rss",
+      "source_url": "https://www.intheweights.com/",
+      "title": "Show HN: Are You in the Weights?",
+      "content": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave \"in the weights\". My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here!\n\nComments URL: https://news.ycombinator.com/item?id=48591348\nPoints: 366\n# Comments: 215",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 20:49:03 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-698274",
+      "source": "rss",
+      "source_url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "title": "Building a robotics research setup that lives next to my desk",
+      "content": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup.A few decisions I'm least settled on, and would love some pushback/feedback on:- single arm vs. bimanual (I went single for cost/space, knowing it rules out things l",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 14:51:53 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-763588",
+      "source": "rss",
+      "source_url": "https://tester.army",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "content": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (https://tester.army). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We've built the platform fully around agents. Our agent will reliably execute the tests, but your coding agent can manage everything in our p",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 14:49:44 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-934028",
+      "source": "rss",
+      "source_url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "content": "Article URL: https://blog.ui.com/article/introducing-enterprise-nas\nComments URL: https://news.ycombinator.com/item?id=48585866\nPoints: 352\n# Comments: 300",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 14:24:30 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-826956",
+      "source": "rss",
+      "source_url": "https://github.com/cajal-technologies/talos",
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "content": "At Cajal (YC W26) we’re excited to share Talos (https://github.com/cajal-technologies/talos), an open source framework for formal verification of WebAssembly modules in Lean.AI is now writing tons of the code that gets pushed to production. As code generation gets cheaper, verification becomes the bottleneck. We believe in a future where every piece of software comes with a mathematical proof that it does what its author intended - in doing so, eliminating many classes of exploits. Talos is part",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 13:10:44 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-793237",
+      "source": "rss",
+      "source_url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "content": "Article URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/\nComments URL: https://news.ycombinator.com/item?id=48584497\nPoints: 223\n# Comments: 143",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 12:46:04 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-398819",
+      "source": "rss",
+      "source_url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "content": "https://web.archive.org/web/20260618100028/https://www.wired...\n\nComments URL: https://news.ycombinator.com/item?id=48584484\nPoints: 115\n# Comments: 107",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 12:44:09 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-491747",
+      "source": "rss",
+      "source_url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "content": "Article URL: https://orchidfiles.com/github-repositories-distributing-malware/\nComments URL: https://news.ycombinator.com/item?id=48583928\nPoints: 824\n# Comments: 214",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 11:45:43 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-567815",
+      "source": "rss",
+      "source_url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "content": "Article URL: https://spectrum.ieee.org/modos-e-paper-monitor\nComments URL: https://news.ycombinator.com/item?id=48583897\nPoints: 292\n# Comments: 70",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 11:41:21 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-215513",
+      "source": "rss",
+      "source_url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "content": "Article URL: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/\nComments URL: https://news.ycombinator.com/item?id=48583606\nPoints: 382\n# Comments: 53",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 11:04:31 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-402114",
+      "source": "rss",
+      "source_url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "content": "Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost\nComments URL: https://news.ycombinator.com/item?id=48583386\nPoints: 316\n# Comments: 143",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 10:33:22 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-834904",
+      "source": "rss",
+      "source_url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "content": "Article URL: https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/\nComments URL: https://news.ycombinator.com/item?id=48583356\nPoints: 439\n# Comments: 136",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 10:29:20 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-735082",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "content": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today announced the launch of the updated Cumulo, the U.K.’s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend [&#8230;]\nThe post e2e-assure introduces Cumulo, the U.K",
+      "author": "",
+      "created_at": "Fri, 19 Jun 2026 09:57:55 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-858591",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "title": "Computer vision deployments drive retail productivity gains",
+      "content": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight Research – in partnership with technology providers Simbe and RELEX Solutions – calculates the exact cost of [&#8230;]\nThe post Computer vision deployments drive retail productivity gains appeared first",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 15:57:46 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-581052",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "content": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision support. HSBC will work with Google Cloud and Google DeepMind engineering teams on AI [&#8230;]\nThe post HSBC expands AI banking partnership with Google Cloud appeared first on AI News.",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-121928",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won&#8217;t.",
+      "content": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country&#8217;s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week by&#160;Bloomberg, hands Microsoft a position no other American AI vendor holds: [&#8230;]\nThe post Microsoft sells OpenAI models in China. OpenAI and Anthropic won&#8217;t. appeared first on AI News.",
+      "author": "",
+      "created_at": "Thu, 18 Jun 2026 09:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-6267",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "title": "Google Cloud generative AI automates council planning operations",
+      "content": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central government established a target to construct 1.5 million new homes by 2029. Local planning authorities encounter administrative backlogs caused by dense paperwork, delaying [&#8230;]\nThe post Google Cloud generative AI automates council planning",
+      "author": "",
+      "created_at": "Wed, 17 Jun 2026 10:59:42 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-471601",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+      "title": "Insurers pivot AI strategy toward core risk underwriting",
+      "content": "AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence underwriting discipline and capital allocation. Christian Preece, Insurance Director at Evident, says: “For years, insurers have competed on AI ambition, [&#8230;]\nThe post Insurers pivot AI strategy toward core risk underwriting appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 16 Jun 2026 15:55:02 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-462764",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "title": "EU publishes its AI content labelling playbook ahead of the AI Act&#8217;s August deadline",
+      "content": "The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps for the businesses that build and use generative AI to mark [&#8230;]\nThe post EU publishes its AI content labelling playbook ahead of the AI Act&#8217;s August deadline appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 16 Jun 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-195959",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+      "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+      "content": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why it matters and the leading companies offering AI red teaming consulting services. What Is AI Red Teaming? AI red teaming tests artificial [&#8230;]\nThe post AI Red Teaming Explained: What It Is and Why You Need It appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 16 Jun 2026 08:06:43 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-792398",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+      "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+      "content": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually a combination of manual processes, siloed systems, and large coordination teams that grew historically [&#8230;]\nThe post How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 16 Jun 2026 07:49:07 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-310244",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+      "content": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it. What HarmonyOS 7 actually changes The headline change is [&#8230;]\nThe post HarmonyOS 7 steps into the AI gap Apple left open in China appeared first on AI News.",
+      "author": "",
+      "created_at": "Mon, 15 Jun 2026 11:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-295078",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+      "title": "Accenture: Consumers show growing trust in AI shopping agents",
+      "content": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of respondents would trust a personal AI agent more than their best friend to make a [&#8230;]\nThe post Accenture: Consumers show growing trust in AI shopping agents appeared first on AI News.",
+      "author": "",
+      "created_at": "Mon, 15 Jun 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-145798",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+      "title": "The AI off switch: How Anthropic&#8217;s export controls sparked a global AI sovereignty scramble",
+      "content": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company&#8217;s two most powerful AI models offline for users everywhere, including, briefly, Anthropic&#8217;s own foreign-born employees, and set off alarm bells across Europe and Canada about who really controls the [&#8230;]\nThe post The AI off switch: How Anthropic&#8217;s export controls sparked a global AI sovereignty scramble appeared first on AI N",
+      "author": "",
+      "created_at": "Mon, 15 Jun 2026 08:00:00 +0000",
+      "metadata": {}
+    }
+  ]
+}

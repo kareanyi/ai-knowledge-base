@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260619-008",
+  "source": "rss",
+  "source_url": "https://www.intheweights.com/",
+  "title": "Show HN: Are You in the Weights?",
+  "summary": "A web application that queries multiple frontier and small AI/LLM models in parallel to test how strongly they recognize individual users, clustering responses to measure recognition levels and explore the concept of data 'in the weights' of trained models.",
+  "tech_stack": [
+    "LLM APIs",
+    "Parallel Processing",
+    "Response Clustering",
+    "Web Interface"
+  ],
+  "problem_solved": "Helps users discover whether and to what extent their information has been learned by AI models during training.",
+  "why_valuable": "Raises awareness about personal data presence in AI models and the privacy implications of large-scale training data.",
+  "tags": [
+    "LLM",
+    "Privacy",
+    "AI Testing",
+    "Data Awareness",
+    "Model Behavior"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-19T12:16:15.948032+00:00",
+  "updated_at": "2026-06-19T12:20:58.539694+00:00",
+  "published_to": []
+}

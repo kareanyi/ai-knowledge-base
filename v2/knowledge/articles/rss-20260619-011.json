@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260619-011",
+  "source": "rss",
+  "source_url": "https://blog.ui.com/article/introducing-enterprise-nas",
+  "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+  "summary": "Ubiquiti announced their new Enterprise NAS solution built on ZFS, expanding from their networking hardware into the storage market. The product targets small-to-medium businesses seeking enterprise-grade data storage with ZFS features like snapshots, data integrity verification, and compression.",
+  "tech_stack": [
+    "ZFS",
+    "Linux",
+    "Proprietary Hardware",
+    "Network Storage"
+  ],
+  "problem_solved": "Provides enterprise-level NAS storage with ZFS data protection features at potentially lower cost than traditional enterprise storage vendors.",
+  "why_valuable": "Brings Ubiquiti's value-oriented enterprise approach to storage, offering ZFS benefits (end-to-end checksums, snapshots, cloning) to businesses building on their UniFi ecosystem.",
+  "tags": [
+    "Storage",
+    "ZFS",
+    "NAS",
+    "Enterprise",
+    "Hardware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-19T12:16:56.905265+00:00",
+  "updated_at": "2026-06-19T12:20:58.540230+00:00",
+  "published_to": []
+}

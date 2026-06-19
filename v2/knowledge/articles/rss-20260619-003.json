@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-003",
+  "source": "rss",
+  "source_url": "https://mnot.net/blog/2026/well_known_uris",
+  "title": "So You Want to Define a Well-Known URI",
+  "summary": "Mark Nottingham, a recognized web infrastructure expert and former IETF chair, provides in-depth guidance on designing Well-Known URIs - a standardized HTTP mechanism for resource discovery on the web. The article explores best practices, common pitfalls, and design principles for creating stable and interoperable well-known URI schemes.",
+  "tech_stack": [
+    "HTTP",
+    "URI/URL Standards",
+    "IETF",
+    "Web Infrastructure",
+    "REST APIs"
+  ],
+  "problem_solved": "Provides authoritative guidance on designing discoverable, stable, and standards-compliant URIs for web resource discovery.",
+  "why_valuable": "Well-Known URIs are fundamental to web infrastructure but often poorly implemented; this expert guidance helps developers avoid common mistakes in URI design.",
+  "tags": [
+    "Web Standards",
+    "URI Design",
+    "HTTP",
+    "IETF",
+    "API Design"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:15:01.913735+00:00",
+  "updated_at": "2026-06-19T12:20:58.530430+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-012",
+  "source": "rss",
+  "source_url": "https://github.com/cajal-technologies/talos",
+  "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+  "summary": "Talos is an open-source framework developed by Cajal (YC W26) that provides formal verification of WebAssembly modules using the Lean proof assistant. It addresses the growing need to verify AI-generated code before production deployment, enabling mathematical proofs that software does what its authors intended.",
+  "tech_stack": [
+    "Lean",
+    "WebAssembly",
+    "WASM",
+    "Formal Verification",
+    "Proof Assistants"
+  ],
+  "problem_solved": "Solves the verification bottleneck as AI-generated code becomes more prevalent, enabling mathematical proofs of correctness for WebAssembly modules.",
+  "why_valuable": "As code generation gets cheaper, verification becomes the critical bottleneck - Talos enables eliminating entire classes of exploits through formally verified software.",
+  "tags": [
+    "formal-verification",
+    "webassembly",
+    "lean",
+    "security",
+    "ai-code-generation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:17:08.958951+00:00",
+  "updated_at": "2026-06-19T12:20:58.540431+00:00",
+  "published_to": []
+}

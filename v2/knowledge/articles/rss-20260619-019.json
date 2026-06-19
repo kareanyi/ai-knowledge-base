@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-019",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+  "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+  "summary": "e2e-assure has launched Cumulo, the U.K.'s only sovereign AI-first SOC platform that uses digital twin technology and customer-dedicated AI models to protect both IT and OT environments. The platform enables proactive threat detection and vulnerability identification before incidents occur, aligning with GCHQ's recent AI Cyber Shield initiative.",
+  "tech_stack": [
+    "Digital Twin Technology",
+    "AI/ML Models",
+    "SOC Platform",
+    "IT/OT Security Integration",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Addresses the need for sovereign, proactive cybersecurity solutions that can defend both traditional IT and operational technology environments against emerging threats and zero-day vulnerabilities.",
+  "why_valuable": "As the only U.K. sovereign AI-driven SOC platform, Cumulo ensures data residency compliance while providing advanced AI-powered threat detection capabilities for organizations requiring guaranteed domestic data processing.",
+  "tags": [
+    "Cybersecurity",
+    "AI",
+    "SOC",
+    "Digital Twin",
+    "OT Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:18:59.582096+00:00",
+  "updated_at": "2026-06-19T12:20:58.541810+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260619-009",
+  "source": "rss",
+  "source_url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+  "title": "Building a robotics research setup that lives next to my desk",
+  "summary": "A former OpenAI robotics researcher documents building an affordable, personal-scale tabletop robotics manipulation setup, comparing it to the 10x more expensive enterprise setups from 2017-2020 and testing whether a single person can now do meaningful work in this field.",
+  "tech_stack": [
+    "Robotics",
+    "Robot Arms",
+    "Manipulation Hardware",
+    "Research Prototyping"
+  ],
+  "problem_solved": "Makes high-quality robotics research accessible to individual researchers by demonstrating cost-effective personal lab setups.",
+  "why_valuable": "Shows the democratization of robotics research through modern affordable hardware, enabling solo researchers to tackle problems that previously required large teams and budgets.",
+  "tags": [
+    "Robotics",
+    "Research",
+    "DIY",
+    "Manipulation",
+    "Personal Lab"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-19T12:16:30.146648+00:00",
+  "updated_at": "2026-06-19T12:20:58.539862+00:00",
+  "published_to": []
+}

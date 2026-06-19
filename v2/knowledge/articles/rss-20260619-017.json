@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-017",
+  "source": "rss",
+  "source_url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+  "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+  "summary": "Cornell's CS 6120 is a graduate-level advanced compilers course made freely available as a self-guided online resource, covering program analysis, compiler optimizations, IR design, and modern compilation techniques used in industry.",
+  "tech_stack": [
+    "LLVM",
+    "OCaml",
+    "C/C++",
+    "Python",
+    "Assembly"
+  ],
+  "problem_solved": "Democratizes access to high-quality compiler education by making Cornell's graduate-level systems course available for self-study to anyone worldwide.",
+  "why_valuable": "Provides Ivy League-quality compiler curriculum for free, enabling developers to understand how compilers work under the hood and write more efficient code.",
+  "tags": [
+    "compilers",
+    "computer-science",
+    "education",
+    "systems-programming",
+    "programming-languages"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:18:19.830527+00:00",
+  "updated_at": "2026-06-19T12:20:58.541424+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-016",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+  "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+  "summary": "The Modos Color Monitor is an innovative color e-paper display that advances e-paper technology beyond traditional monochrome applications. It offers the benefits of reduced eye strain and extremely low power consumption while adding color capability for productivity work.",
+  "tech_stack": [
+    "E-Paper",
+    "Electronic Ink",
+    "Embedded Systems",
+    "Display Hardware",
+    "Color Technology"
+  ],
+  "problem_solved": "Brings full color capability to e-paper displays while maintaining the eye-friendly, low-power benefits that were previously only available in monochrome e-readers.",
+  "why_valuable": "It provides a sustainable, eye-comfort-focused alternative to traditional LCD monitors for extended computer work, with the new addition of color functionality.",
+  "tags": [
+    "e-paper",
+    "display",
+    "hardware",
+    "color-monitor",
+    "eye-comfort"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-19T12:18:04.235380+00:00",
+  "updated_at": "2026-06-19T12:20:58.541238+00:00",
+  "published_to": []
+}

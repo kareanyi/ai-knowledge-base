@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-005",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+  "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+  "summary": "Datasette Apps is a new feature in Datasette that allows developers to host custom HTML/JavaScript applications directly within Datasette's infrastructure, extending its capabilities beyond data exploration to full-featured web application hosting using its plugin system.",
+  "tech_stack": [
+    "Python",
+    "Datasette",
+    "SQLite",
+    "JavaScript",
+    "HTML"
+  ],
+  "problem_solved": "Provides a low-friction way to build and deploy lightweight data-driven web applications without setting up separate web frameworks or hosting infrastructure.",
+  "why_valuable": "It enables rapid prototyping and deployment of data applications by leveraging Datasette's existing SQLite integration and plugin architecture, reducing infrastructure complexity.",
+  "tags": [
+    "Python",
+    "Web Apps",
+    "SQLite",
+    "Datasette",
+    "Data Visualization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:15:27.327160+00:00",
+  "updated_at": "2026-06-19T12:20:58.539160+00:00",
+  "published_to": []
+}

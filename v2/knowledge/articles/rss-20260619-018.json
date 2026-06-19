@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260619-018",
+  "source": "rss",
+  "source_url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+  "title": ".gitignore Isn't the only way to ignore files in Git",
+  "summary": "这篇文章探讨了 Git 中除了 .gitignore 之外的多种忽略文件的方法，包括 git update-index --assume-unchanged、git update-index --skip-worktree 等命令，以及 .git/info/exclude 和 git update-index 的实际应用场景。",
+  "tech_stack": [
+    "Git",
+    "Version Control",
+    "Command Line"
+  ],
+  "problem_solved": "解决如何在不创建 .gitignore 文件的情况下临时或永久忽略 Git 中的特定文件。",
+  "why_valuable": "它帮助开发者理解 Git 忽略机制的多种实现方式，适用于本地配置、敏感文件处理和临时调试等场景。",
+  "tags": [
+    "Git",
+    "Version Control",
+    "Development Tools",
+    "CLI",
+    "Configuration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-19T12:18:45.617182+00:00",
+  "updated_at": "2026-06-19T12:20:58.541623+00:00",
+  "published_to": []
+}

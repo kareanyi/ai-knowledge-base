@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-015",
+  "source": "rss",
+  "source_url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+  "title": "I found 10k GitHub repositories distributing Trojan malware",
+  "summary": "Security researcher discovered approximately 10,000 GitHub repositories actively distributing Trojan malware, representing a significant supply chain attack campaign. The research involved analyzing repository patterns, malware signatures, and distribution methods to identify this large-scale threat operation on GitHub's platform.",
+  "tech_stack": [
+    "Python",
+    "GitHub API",
+    "YARA",
+    "Static Analysis",
+    "Malware Sandboxing"
+  ],
+  "problem_solved": "Identifies and exposes a massive malware distribution network operating through GitHub repositories, helping the security community understand the scale of supply chain attacks.",
+  "why_valuable": "Critical security research that protects developers from supply chain attacks by revealing the scope of malicious repositories and helping establish better detection and prevention mechanisms.",
+  "tags": [
+    "Security",
+    "Malware Analysis",
+    "Supply Chain Security",
+    "Open Source Security",
+    "Trojan"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-19T12:17:39.949336+00:00",
+  "updated_at": "2026-06-19T12:20:58.541031+00:00",
+  "published_to": []
+}
