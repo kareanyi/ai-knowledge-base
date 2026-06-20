@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260620-001",
+  "source": "rss",
+  "source_url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+  "title": "I Stored a Website in a Favicon",
+  "summary": "A developer demonstrates an experimental technique of encoding and storing an entire website inside a favicon image file, pushing the limits of what can be embedded in a tiny image format.",
+  "tech_stack": [
+    "SVG",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Data Encoding"
+  ],
+  "problem_solved": "Demonstrates extreme data compression and creative encoding techniques by fitting an entire website into a single favicon.",
+  "why_valuable": "It showcases creative problem-solving and explores the boundaries of web technologies in an entertaining and educational way.",
+  "tags": [
+    "Creative Coding",
+    "SVG",
+    "Web Experiments",
+    "Data Encoding",
+    "Hacker Project"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-20T10:39:36.981429+00:00",
+  "updated_at": "2026-06-20T10:46:24.462449+00:00",
+  "published_to": []
+}

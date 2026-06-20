@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260620-009",
+  "source": "rss",
+  "source_url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+  "title": "Court Records Should Be Free",
+  "summary": "An EFF advocacy article arguing that court records should be freely accessible to the public, contending that current fee-based systems for accessing public court documents undermine judicial transparency and civic participation.",
+  "tech_stack": [],
+  "problem_solved": "Addresses the barrier of paid access to public court records that limits transparency and public participation in the judicial system.",
+  "why_valuable": "Promotes equal access to justice and government transparency by arguing that public court records should not be monetized.",
+  "tags": [
+    "DigitalRights",
+    "OpenGovernment",
+    "AccessToJustice",
+    "LegalReform",
+    "CivicEngagement"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-20T10:41:37.820811+00:00",
+  "updated_at": "2026-06-20T10:46:24.473719+00:00",
+  "published_to": []
+}

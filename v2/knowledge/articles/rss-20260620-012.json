@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260620-012",
+  "source": "rss",
+  "source_url": "https://arrowtsx.dev/bigger-models/",
+  "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+  "summary": "A technical benchmark comparison article demonstrating that GPT-5.5 produces hallucinations three times more frequently than the MIT-licensed GLM-5.2 model, suggesting potential reliability advantages for the open-source alternative.",
+  "tech_stack": [
+    "Large Language Models",
+    "Benchmarking",
+    "GLM-5.2",
+    "GPT-5.5",
+    "Python"
+  ],
+  "problem_solved": "Quantifies and compares hallucination rates between proprietary and open-source large language models",
+  "why_valuable": "Provides empirical evidence that open-source models like GLM-5.2 may offer better reliability than proprietary alternatives for certain use cases",
+  "tags": [
+    "LLM",
+    "Hallucination",
+    "Benchmark",
+    "Open-Source",
+    "AI Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-20T10:42:15.911279+00:00",
+  "updated_at": "2026-06-20T10:46:24.474258+00:00",
+  "published_to": []
+}

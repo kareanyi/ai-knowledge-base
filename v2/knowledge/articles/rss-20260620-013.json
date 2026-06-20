@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260620-013",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+  "title": "Norway imposes near ban on AI in elementary school",
+  "summary": "Norway has announced a near-complete ban on artificial intelligence in elementary schools, set to take effect in 2026, reflecting growing global concerns about AI's impact on children's development, privacy, and education quality.",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Generative AI",
+    "ChatGPT",
+    "Educational Technology"
+  ],
+  "problem_solved": "Addresses concerns about potential negative effects of AI on young children's cognitive development, data privacy, and the integrity of early education.",
+  "why_valuable": "This policy represents one of the world's strictest stances on AI in education, setting a precedent for other nations grappling with how to regulate emerging technology in schools.",
+  "tags": [
+    "AI Regulation",
+    "Education Policy",
+    "Children's Safety",
+    "Norway",
+    "Technology Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-20T10:42:29.371994+00:00",
+  "updated_at": "2026-06-20T10:46:24.474408+00:00",
+  "published_to": []
+}

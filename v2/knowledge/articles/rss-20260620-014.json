@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260620-014",
+  "source": "rss",
+  "source_url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+  "title": "There are no instances in ATProto",
+  "summary": "Dan Abramov 深入解释 ATProto 协议中'实例'概念的真正含义——与传统去中心化网络（如 Mastodon）不同，ATProto 中的服务器只是数据聚合器/镜像，真正的数据存储在用户个人的 PDS（Personal Data Server）上，用户数据可以在不同服务提供商之间无缝迁移。",
+  "tech_stack": [
+    "ATProto",
+    "Bluesky",
+    "ActivityPub",
+    "Web",
+    "TypeScript"
+  ],
+  "problem_solved": "澄清了开发者对 ATProto 中'实例'概念的误解——它并非传统意义上的独立服务器实例，而更像是一个数据镜像/入口点。",
+  "why_valuable": "帮助开发者理解去中心化社交网络架构的范式转变，特别是数据所有权和用户迁移权的实现方式。",
+  "tags": [
+    "Decentralization",
+    "ATProto",
+    "Bluesky",
+    "Social-Networks",
+    "Architecture"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-20T10:42:43.457291+00:00",
+  "updated_at": "2026-06-20T10:46:24.474570+00:00",
+  "published_to": []
+}

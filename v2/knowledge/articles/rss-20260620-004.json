@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260620-004",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48604232",
+  "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+  "summary": "This Hacker News Ask post questions whether memory shortages will push programmers to write more efficient code and whether it will reignite interest in advanced algorithms and data structures that optimize memory usage. The discussion touches on historical patterns where resource constraints drove technological innovation.",
+  "tech_stack": [
+    "Algorithms",
+    "Data Structures",
+    "Memory Management"
+  ],
+  "problem_solved": "Raises awareness about the relationship between resource constraints and programming efficiency decisions.",
+  "why_valuable": "It prompts important reflection on how hardware limitations historically drive software innovation and whether current abundance of resources might be hindering algorithmic creativity.",
+  "tags": [
+    "Programming",
+    "Algorithms",
+    "Memory Efficiency",
+    "Software Engineering",
+    "Innovation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-20T10:40:18.206224+00:00",
+  "updated_at": "2026-06-20T10:46:24.472763+00:00",
+  "published_to": []
+}

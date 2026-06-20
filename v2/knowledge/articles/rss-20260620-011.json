@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260620-011",
+  "source": "rss",
+  "source_url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+  "title": "Hyundai buys Boston Dynamics",
+  "summary": "Hyundai Motor Group has acquired full control of Boston Dynamics from SoftBank for $325 million, marking the third ownership change for the famous robotics company. Boston Dynamics, known for its advanced robots including Spot, Atlas, and Handle, had previously been owned by Google and then SoftBank before this latest acquisition.",
+  "tech_stack": [
+    "Robotics",
+    "Boston Dynamics",
+    "SoftBank",
+    "Hyundai Motor Group"
+  ],
+  "problem_solved": "This acquisition represents the continued evolution and commercialization path for advanced robotics technology, as different parent companies seek to integrate Boston Dynamics' innovations into their respective business strategies.",
+  "why_valuable": "The high engagement (832 points, 362 comments) indicates significant industry interest in robotics M&A and the future direction of humanoid and quadruped robot technology under automotive ownership.",
+  "tags": [
+    "Robotics",
+    "M&A",
+    "Business",
+    "Boston Dynamics",
+    "Hyundai"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-20T10:42:03.697096+00:00",
+  "updated_at": "2026-06-20T10:46:24.474095+00:00",
+  "published_to": []
+}

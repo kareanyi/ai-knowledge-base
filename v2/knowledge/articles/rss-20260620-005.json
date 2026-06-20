@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260620-005",
+  "source": "rss",
+  "source_url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+  "title": "Surprising economics of load-balanced systems",
+  "summary": "The article explores the counterintuitive economics of load-balanced systems, using queuing theory and Erlang models to explain why capacity scaling doesn't behave as most engineers expect. Marc Brooker analyzes the non-linear relationship between adding servers and actual throughput gains, revealing surprising insights about cost-effectiveness in distributed systems.",
+  "tech_stack": [
+    "Queueing Theory",
+    "Erlang-C Model",
+    "Load Balancing",
+    "Distributed Systems",
+    "Capacity Planning"
+  ],
+  "problem_solved": "Explains why simple linear scaling assumptions fail in load-balanced systems and helps engineers understand the true cost-to-capacity relationship.",
+  "why_valuable": "Provides mathematical rigor to a common architectural decision, helping teams avoid over-provisioning and understand the diminishing returns of adding capacity in balanced systems.",
+  "tags": [
+    "Distributed Systems",
+    "Queueing Theory",
+    "Load Balancing",
+    "Capacity Planning",
+    "Performance Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-20T10:40:26.193725+00:00",
+  "updated_at": "2026-06-20T10:46:24.472994+00:00",
+  "published_to": []
+}

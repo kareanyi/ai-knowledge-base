@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260620-010",
+  "source": "rss",
+  "source_url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+  "title": "AURpocalypse now: a look at the recent AUR attacks",
+  "summary": "This article discusses recent security attacks targeting the Arch User Repository (AUR), a community-driven package repository for Arch Linux, analyzing the attack vectors and their implications for the open-source ecosystem.",
+  "tech_stack": [
+    "Linux",
+    "Arch Linux",
+    "AUR",
+    "Bash",
+    "PKGBUILD"
+  ],
+  "problem_solved": "Security vulnerability analysis and awareness of attacks on community-managed package repositories.",
+  "why_valuable": "Highlights critical security risks in user-contributed package ecosystems and raises awareness about supply chain attack vectors in open-source Linux distributions.",
+  "tags": [
+    "Linux Security",
+    "Arch Linux",
+    "AUR",
+    "Supply Chain Attack",
+    "Open Source Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-20T10:41:49.645171+00:00",
+  "updated_at": "2026-06-20T10:46:24.473910+00:00",
+  "published_to": []
+}

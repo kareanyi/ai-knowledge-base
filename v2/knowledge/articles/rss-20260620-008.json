@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260620-008",
+  "source": "rss",
+  "source_url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+  "title": "John Jumper to join Anthropic",
+  "summary": "John Jumper, the scientist who led the development of AlphaFold at DeepMind and revolutionized protein structure prediction, announced his move to Anthropic. This high-profile hire represents a significant talent acquisition for Anthropic as they continue building their AI research capabilities.",
+  "tech_stack": [
+    "Deep Learning",
+    "Protein Folding",
+    "Large Language Models",
+    "AI Safety",
+    "AlphaFold"
+  ],
+  "problem_solved": "Anthropic strengthens its research team with world-class AI/scientific computing talent to advance AI safety and capabilities.",
+  "why_valuable": "The addition of Jumper, a pioneer in applying deep learning to scientific discovery, signals Anthropic's commitment to advancing AI research across multiple domains including scientific applications.",
+  "tags": [
+    "AI Industry",
+    "Anthropic",
+    "DeepMind",
+    "Talent Acquisition",
+    "AlphaFold"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-20T10:41:19.120985+00:00",
+  "updated_at": "2026-06-20T10:46:24.473544+00:00",
+  "published_to": []
+}
