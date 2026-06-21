@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-003",
+  "source": "rss",
+  "source_url": "https://github.com/namgyaaal/avoxelgame",
+  "title": "A 3D voxel game engine written in APL",
+  "summary": "A experimental 3D voxel game engine implemented entirely in APL (A Programming Language), an array-oriented language traditionally used for mathematical computation. The project demonstrates that APL can be stretched beyond its typical use cases into real-time 3D graphics rendering, though at 56 points on Hacker News, it represents a novel proof-of-concept rather than a production-ready engine.",
+  "tech_stack": [
+    "APL",
+    "Voxel Graphics",
+    "3D Rendering",
+    "GitHub"
+  ],
+  "problem_solved": "Demonstrates the unconventional use of APL for game development and 3D graphics rendering, pushing the boundaries of what array-oriented languages can accomplish.",
+  "why_valuable": "Provides a unique educational resource showing alternative applications of APL and inspires creative thinking about programming language capabilities beyond their traditional domains.",
+  "tags": [
+    "APL",
+    "Voxel Engine",
+    "3D Graphics",
+    "Game Development",
+    "Experimental"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-21T11:23:53.871511+00:00",
+  "updated_at": "2026-06-21T11:27:39.176063+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260621-016",
+  "source": "rss",
+  "source_url": "https://startupwiki.tech/",
+  "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+  "summary": "StartupWiki is a free, open startup database that provides company information without requiring accounts, subscriptions, or complex metrics - designed to feel like Wikipedia for startup research.",
+  "tech_stack": [
+    "Web Application"
+  ],
+  "problem_solved": "Eliminates barriers to accessing early-stage startup information by providing a free, no-signup-required alternative to paid databases like Crunchbase.",
+  "why_valuable": "Democratizes access to startup data for entrepreneurs, investors, and researchers who previously had to pay for or sign up to access similar information.",
+  "tags": [
+    "Startups",
+    "Database",
+    "Free Tool",
+    "Crunchbase Alternative",
+    "Research"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-21T11:26:40.684056+00:00",
+  "updated_at": "2026-06-21T11:27:39.178394+00:00",
+  "published_to": []
+}

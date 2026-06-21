@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-002",
+  "source": "rss",
+  "source_url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+  "title": "Google Hits 50% IPv6",
+  "summary": "This article reports that Google has achieved 50% IPv6 adoption milestone, marking a significant turning point in the global transition from IPv4 to IPv6 protocol. The data from APNIC (Asia-Pacific Network Information Centre) demonstrates that IPv6 deployment is accelerating among major tech companies.",
+  "tech_stack": [
+    "IPv6",
+    "IPv4",
+    "Networking Protocols",
+    "Internet Infrastructure",
+    "BGP"
+  ],
+  "problem_solved": "The article addresses the IPv4 address exhaustion problem and documents progress in the transition to IPv6 which provides a virtually unlimited address space.",
+  "why_valuable": "Reaching 50% IPv6 adoption at Google signals that the internet is making meaningful progress toward solving the IPv4 address shortage crisis and preparing for future growth.",
+  "tags": [
+    "IPv6",
+    "Networking",
+    "Internet Protocol",
+    "Infrastructure",
+    "Digital Transition"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:23:36.564458+00:00",
+  "updated_at": "2026-06-21T11:27:39.175856+00:00",
+  "published_to": []
+}

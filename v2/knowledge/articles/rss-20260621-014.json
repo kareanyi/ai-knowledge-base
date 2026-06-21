@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-014",
+  "source": "rss",
+  "source_url": "https://www.lispm.net/apps/uhf-x11/",
+  "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+  "summary": "UHF X11 is a port of the X11 window system specifically designed for VisionOS and Apple Vision Pro, enabling traditional X11 applications to run on Apple's spatial computing platform with potentially innovative 3D/spatial adaptations.",
+  "tech_stack": [
+    "X11",
+    "VisionOS",
+    "Swift",
+    "Objective-C",
+    "Apple Vision Pro"
+  ],
+  "problem_solved": "Brings legacy X11 window system compatibility to Apple's new Vision Pro spatial computing platform, solving the app availability gap for this emerging hardware.",
+  "why_valuable": "Opens the door for thousands of existing X11 applications to potentially run on Vision Pro, accelerating the ecosystem development for spatial computing devices.",
+  "tags": [
+    "X11",
+    "VisionOS",
+    "Apple Vision Pro",
+    "Window System",
+    "Spatial Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:26:15.607528+00:00",
+  "updated_at": "2026-06-21T11:27:39.178041+00:00",
+  "published_to": []
+}

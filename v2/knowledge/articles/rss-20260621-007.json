@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-007",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/project-fetch-phase-two",
+  "title": "Project Fetch: Phase Two",
+  "summary": "Anthropic's Project Fetch enters its second phase, continuing development on what appears to be an information retrieval or data fetching system for AI applications. The project builds upon previous work, suggesting incremental improvements to how AI models handle external data fetching and integration tasks.",
+  "tech_stack": [
+    "Anthropic Claude",
+    "Large Language Models",
+    "AI/ML Infrastructure",
+    "Python (likely)",
+    "API Integration"
+  ],
+  "problem_solved": "Improves AI systems' ability to reliably fetch and integrate external information into their responses.",
+  "why_valuable": "Phase Two indicates sustained investment in making AI more capable at real-world information retrieval tasks, which is crucial for building practical AI applications.",
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Claude",
+    "Project Fetch",
+    "RAG"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:24:47.343618+00:00",
+  "updated_at": "2026-06-21T11:27:39.176878+00:00",
+  "published_to": []
+}

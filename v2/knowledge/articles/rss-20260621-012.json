@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260621-012",
+  "source": "rss",
+  "source_url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+  "title": "Alice is impatient",
+  "summary": "A technical blog post by Marc Brooker exploring issues related to waiting and impatience in distributed systems, likely discussing timeout handling, retry logic, or client-server interaction challenges.",
+  "tech_stack": [
+    "Distributed Systems",
+    "Cloud Computing",
+    "Networking"
+  ],
+  "problem_solved": "Explores why distributed systems and clients often fail when waiting for responses, and how to handle impatient behavior gracefully.",
+  "why_valuable": "Provides insights into fundamental distributed systems challenges that affect reliability and performance in cloud-native applications.",
+  "tags": [
+    "Distributed Systems",
+    "Cloud Computing",
+    "Reliability",
+    "Networking",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:25:48.589748+00:00",
+  "updated_at": "2026-06-21T11:27:39.177771+00:00",
+  "published_to": []
+}

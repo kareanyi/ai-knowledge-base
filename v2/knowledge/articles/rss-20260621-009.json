@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260621-009",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+  "title": "Renting a sewing machine from the library",
+  "summary": "This BBC Future article explores Finland's innovative library system where citizens can borrow unusual items like sewing machines, tools, and other everyday objects, not just books, as part of a broader movement toward community sharing and sustainability.",
+  "tech_stack": [],
+  "problem_solved": "Addresses underutilization of rarely-needed but expensive items and promotes sustainable sharing within local communities.",
+  "why_valuable": "Demonstrates how libraries can evolve beyond books to become community resource hubs that reduce consumption and increase access to tools for everyone.",
+  "tags": [
+    "Libraries",
+    "Sharing Economy",
+    "Sustainability",
+    "Community",
+    "Finland"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:25:19.344128+00:00",
+  "updated_at": "2026-06-21T11:27:39.177292+00:00",
+  "published_to": []
+}

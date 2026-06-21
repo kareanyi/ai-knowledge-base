@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-008",
+  "source": "rss",
+  "source_url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+  "title": "Epoll vs. io_uring in Linux",
+  "summary": "A technical comparison of two Linux kernel I/O mechanisms - the traditional epoll interface and the newer io_uring system. The article explores their differences in performance, design philosophy, and use cases for building high-performance I/O-bound applications on Linux.",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "epoll",
+    "io_uring",
+    "System Programming"
+  ],
+  "problem_solved": "Helps developers choose between epoll and io_uring for building high-performance Linux applications with optimal I/O handling.",
+  "why_valuable": "Both interfaces are fundamental to building modern high-performance servers and network applications on Linux, and understanding their trade-offs is critical for optimizing I/O-intensive workloads.",
+  "tags": [
+    "Linux",
+    "Kernel",
+    "Performance",
+    "I/O",
+    "Async"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-21T11:25:03.426887+00:00",
+  "updated_at": "2026-06-21T11:27:39.177066+00:00",
+  "published_to": []
+}

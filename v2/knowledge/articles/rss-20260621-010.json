@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-010",
+  "source": "rss",
+  "source_url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+  "title": "Slow breathing modulates brain function and risk behavior",
+  "summary": "A peer-reviewed neuroscience study from Neuron journal demonstrating that slow breathing techniques can directly modulate brain function and influence risk-taking behavior through autonomic nervous system pathways and neural circuits governing emotional regulation.",
+  "tech_stack": [
+    "fMRI",
+    "EEG",
+    "Physiological Monitoring",
+    "Behavioral Experiments",
+    "Statistical Analysis"
+  ],
+  "problem_solved": "Explains the neural mechanisms underlying how controlled breathing practices can alter brain activity and modify decision-making under uncertainty.",
+  "why_valuable": "Provides empirical scientific evidence supporting breathing-based interventions as a non-invasive method for regulating emotions and reducing risky behavior, with implications for treating anxiety and stress-related disorders.",
+  "tags": [
+    "Neuroscience",
+    "Breathing Techniques",
+    "Brain Function",
+    "Risk Behavior",
+    "Autonomic Nervous System"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-21T11:25:24.642685+00:00",
+  "updated_at": "2026-06-21T11:27:39.177486+00:00",
+  "published_to": []
+}

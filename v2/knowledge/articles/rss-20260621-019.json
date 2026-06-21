@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-019",
+  "source": "rss",
+  "source_url": "https://townsquare.cauenapier.com/",
+  "title": "Show HN: TownSquare, a tiny presence layer for websites",
+  "summary": "TownSquare 是一个轻量级的开源 JavaScript 库，为网站添加实时在线用户存在层功能，显示当前访客数量和实时活动状态，无需复杂的基础设施配置。",
+  "tech_stack": [
+    "JavaScript",
+    "WebSocket",
+    "Node.js",
+    "CSS",
+    "HTML"
+  ],
+  "problem_solved": "为网站快速添加轻量级的实时在线用户感知功能，让访客了解当前有多少人正在浏览。",
+  "why_valuable": "提供了一种极简的方式为网站注入现代协作感，提升用户参与度和信任度，同时保持技术栈的轻量化。",
+  "tags": [
+    "JavaScript",
+    "WebSocket",
+    "Real-time",
+    "Open-source",
+    "Presence"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:27:26.883112+00:00",
+  "updated_at": "2026-06-21T11:27:39.178915+00:00",
+  "published_to": []
+}

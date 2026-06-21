@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-005",
+  "source": "rss",
+  "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+  "title": "Building reliable agentic AI systems",
+  "summary": "This Martin Fowler article provides architectural guidance on building reliable, production-ready agentic AI systems, covering key challenges like unpredictability, state management, and error handling in LLM-based applications.",
+  "tech_stack": [
+    "LLM APIs",
+    "Python",
+    "Agentic Frameworks",
+    "LangChain",
+    "Enterprise Architecture"
+  ],
+  "problem_solved": "Addresses the fundamental challenge of making non-deterministic AI agent systems reliable enough for production enterprise deployments.",
+  "why_valuable": "Provides battle-tested architectural patterns from Martin Fowler's signature style, offering practical solutions for one of the most pressing challenges in modern AI engineering.",
+  "tags": [
+    "AI Agents",
+    "Reliability",
+    "LLM",
+    "Software Architecture",
+    "Enterprise AI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-21T11:24:26.081526+00:00",
+  "updated_at": "2026-06-21T11:27:39.176496+00:00",
+  "published_to": []
+}

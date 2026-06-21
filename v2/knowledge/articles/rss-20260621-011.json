@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-011",
+  "source": "rss",
+  "source_url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+  "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+  "summary": "Linux kernel 7.2 officially removes the deprecated strncpy API after a 6-year migration effort involving 360 patches, replacing it with safer alternatives like strscpy to eliminate potential security vulnerabilities from unsafe string operations.",
+  "tech_stack": [
+    "C",
+    "Linux Kernel",
+    "Git",
+    "strscpy",
+    "strncpy"
+  ],
+  "problem_solved": "Eliminates unsafe string handling functions (strncpy) that can lead to buffer overflows and security vulnerabilities in kernel code.",
+  "why_valuable": "Marks a significant milestone in kernel security hardening, demonstrating a systematic approach to removing decades of technical debt from critical system software.",
+  "tags": [
+    "Linux",
+    "C-Programming",
+    "Security",
+    "Open-Source",
+    "Kernel"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-21T11:25:40.852146+00:00",
+  "updated_at": "2026-06-21T11:27:39.177642+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-006",
+  "source": "rss",
+  "source_url": "https://fosterelli.co/developers-dont-understand-cors",
+  "title": "Developers don't understand CORS (2019)",
+  "summary": "A 2019 blog post explaining common misconceptions developers have about CORS (Cross-Origin Resource Sharing), clarifying how it actually works versus how it's perceived, with practical examples to help developers understand browser security policies.",
+  "tech_stack": [
+    "HTTP",
+    "Web Browsers",
+    "Web APIs",
+    "Server Configuration",
+    "JavaScript"
+  ],
+  "problem_solved": "Clarifies the common misunderstanding that CORS is a server-side security feature, when it's actually a browser-enforced policy protecting users.",
+  "why_valuable": "Helps developers avoid frustration and security mistakes by properly understanding CORS, which is essential for building web applications with cross-origin requests.",
+  "tags": [
+    "Web Security",
+    "CORS",
+    "HTTP",
+    "Frontend",
+    "Backend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:24:40.093340+00:00",
+  "updated_at": "2026-06-21T11:27:39.176690+00:00",
+  "published_to": []
+}

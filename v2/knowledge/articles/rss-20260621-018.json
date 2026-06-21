@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-018",
+  "source": "rss",
+  "source_url": "https://github.com/mysk-research/loupe",
+  "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+  "summary": "Loupe is an iOS app that demonstrates and visualizes what native apps can access on a user's device, serving as an educational privacy awareness tool that shows real-time data collection by installed applications.",
+  "tech_stack": [
+    "Swift",
+    "iOS",
+    "Xcode",
+    "Mobile Development",
+    "Privacy APIs"
+  ],
+  "problem_solved": "Helps users understand and visualize the extent of data that mobile apps collect from their devices in real-time.",
+  "why_valuable": "Provides transparency into mobile app data collection practices, empowering users to make informed decisions about their privacy.",
+  "tags": [
+    "privacy",
+    "iOS",
+    "mobile-security",
+    "awareness",
+    "open-source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-21T11:27:12.156062+00:00",
+  "updated_at": "2026-06-21T11:27:39.178741+00:00",
+  "published_to": []
+}

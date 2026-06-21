@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-020",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+  "title": "Temporary Cloudflare accounts for AI agents",
+  "summary": "Cloudflare announced temporary account functionality specifically designed for AI agents to interact with their infrastructure programmatically without requiring persistent human user accounts or OAuth flows.",
+  "tech_stack": [
+    "Cloudflare Workers",
+    "Cloudflare Access",
+    "OAuth 2.0",
+    "JWT"
+  ],
+  "problem_solved": "Enables AI agents and autonomous systems to authenticate with Cloudflare services in a secure, time-limited manner without manual human intervention.",
+  "why_valuable": "Addresses the growing need for machine-to-machine authentication patterns as AI agents become more prevalent in automating infrastructure management and API interactions.",
+  "tags": [
+    "Cloudflare",
+    "AI Agents",
+    "Authentication",
+    "Cloud Infrastructure",
+    "Zero-Trust"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-21T11:27:38.088315+00:00",
+  "updated_at": "2026-06-21T11:27:39.179086+00:00",
+  "published_to": []
+}

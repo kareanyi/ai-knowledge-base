@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-015",
+  "source": "rss",
+  "source_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+  "title": "SMPTE Makes Its Standards Freely Accessible",
+  "summary": "SMPTE (Society of Motion Picture and Television Engineers) has announced that it will make its standards library freely accessible to the global media technology community, removing the paywall that previously restricted access to critical specifications like ST 2110, HDR, and interoperability standards.",
+  "tech_stack": [
+    "SMPTE Standards",
+    "Media Technology",
+    "Broadcast Standards",
+    "Digital Cinema",
+    "IP-based Production"
+  ],
+  "problem_solved": "Removes financial barriers that prevented developers, students, and smaller organizations from accessing essential media and entertainment technology standards.",
+  "why_valuable": "Democratizes access to foundational media standards, enabling broader innovation, education, and interoperability across the film, television, and broadcasting industries.",
+  "tags": [
+    "Standards",
+    "Open Access",
+    "Media Technology",
+    "Broadcasting",
+    "IP Video"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:26:30.107360+00:00",
+  "updated_at": "2026-06-21T11:27:39.178178+00:00",
+  "published_to": []
+}

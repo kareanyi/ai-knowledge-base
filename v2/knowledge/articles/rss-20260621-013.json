@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260621-013",
+  "source": "rss",
+  "source_url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+  "title": "Unauthorized alert sent to cell phones across Brazil",
+  "summary": "Hackers successfully sent unauthorized emergency alerts to cell phones across Brazil, exploiting vulnerabilities in the country's cellular network or emergency broadcast system. The incident raises significant concerns about the security of mass notification infrastructure and the potential for malicious actors to abuse these systems for panic or disinformation campaigns.",
+  "tech_stack": [
+    "Cellular Networks",
+    "SMS Broadcasting",
+    "Emergency Alert Systems"
+  ],
+  "problem_solved": "This is a news report about a cybersecurity incident rather than a solution - it documents how hackers exploited vulnerabilities to send unauthorized alerts to Brazilian cell phone users.",
+  "why_valuable": "Highlights critical infrastructure vulnerabilities in mass notification systems and demonstrates the real-world impact of cybersecurity breaches on civilian communication networks.",
+  "tags": [
+    "Cybersecurity",
+    "Brazil",
+    "Cellular Networks",
+    "Hacking",
+    "Infrastructure Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-21T11:26:01.826530+00:00",
+  "updated_at": "2026-06-21T11:27:39.177903+00:00",
+  "published_to": []
+}

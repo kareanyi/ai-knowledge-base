@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260621-004",
+  "source": "rss",
+  "source_url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+  "title": "Windows UI evolution: Clicking an unassociated file",
+  "summary": "A blog post exploring how Windows handles the user experience when users click on files without associated applications, tracing the UI evolution of this interaction pattern across different Windows versions.",
+  "tech_stack": [
+    "Windows OS",
+    "Win32 API",
+    "Windows Shell",
+    "File Associations",
+    "COM"
+  ],
+  "problem_solved": "Documents the UX challenge of gracefully handling unknown file types and how Windows has evolved its approach to this common user scenario.",
+  "why_valuable": "Provides historical insight into Windows UI design decisions, helping developers and UX professionals understand the rationale behind file handling interactions.",
+  "tags": [
+    "Windows",
+    "UI/UX",
+    "Operating Systems",
+    "Software History",
+    "Desktop"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-21T11:24:10.899993+00:00",
+  "updated_at": "2026-06-21T11:27:39.176296+00:00",
+  "published_to": []
+}
