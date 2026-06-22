@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260622-013",
+  "source": "rss",
+  "source_url": "https://apertvs.ai/",
+  "title": "Apertus – Open Foundation Model for Sovereign AI",
+  "summary": "Apertus is an open-source foundation model project designed to enable sovereign AI capabilities, allowing organizations and nations to build and deploy their own AI infrastructure without dependence on closed-source providers. The project addresses growing concerns about data sovereignty and AI independence.",
+  "tech_stack": [
+    "Python",
+    "Deep Learning",
+    "PyTorch",
+    "Transformers",
+    "Docker"
+  ],
+  "problem_solved": "Enables organizations to have full control over their AI infrastructure instead of relying on proprietary AI services from tech giants.",
+  "why_valuable": "Provides a credible open-source alternative for building sovereign AI systems, addressing critical needs for data privacy, regulatory compliance, and technological independence.",
+  "tags": [
+    "AI",
+    "Open Source",
+    "Foundation Model",
+    "Sovereign AI",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-22T13:46:25.546694+00:00",
+  "updated_at": "2026-06-22T13:50:40.244641+00:00",
+  "published_to": []
+}

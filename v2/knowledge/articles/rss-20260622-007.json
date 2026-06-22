@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260622-007",
+  "source": "rss",
+  "source_url": "https://docs.deno.com/runtime/desktop/",
+  "title": "Deno Desktop",
+  "summary": "Deno Desktop is a feature that enables building desktop applications using the Deno runtime environment, bringing Deno's secure-by-default model and native TypeScript support to desktop development. It connects Deno with desktop frameworks like Tauri, allowing developers to create cross-platform applications using web technologies.",
+  "tech_stack": [
+    "Deno",
+    "TypeScript",
+    "JavaScript",
+    "Tauri",
+    "Web Technologies"
+  ],
+  "problem_solved": "Enables developers to build secure, cross-platform desktop applications using familiar web technologies with Deno's security-first approach and TypeScript support.",
+  "why_valuable": "It unifies the Deno development experience across server and desktop, offering TypeScript-first development with built-in security permissions for native applications.",
+  "tags": [
+    "Deno",
+    "Desktop Apps",
+    "TypeScript",
+    "Cross-Platform",
+    "Tauri"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-22T13:44:42.567584+00:00",
+  "updated_at": "2026-06-22T13:50:40.243460+00:00",
+  "published_to": []
+}

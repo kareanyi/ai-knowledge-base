@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260622-015",
+  "source": "rss",
+  "source_url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+  "title": "Everything is logarithms",
+  "summary": "A blog post exploring the fundamental role of logarithms across mathematics, computer science, and physics, demonstrating how this mathematical concept appears everywhere from algorithm complexity to natural phenomena like pH scales and earthquake measurements.",
+  "tech_stack": [
+    "Mathematics",
+    "Computer Science",
+    "Physics"
+  ],
+  "problem_solved": "Helps readers understand why logarithms are so ubiquitous and fundamental across different fields of science and mathematics.",
+  "why_valuable": "Provides deep mathematical intuition that connects disparate concepts through a single unifying principle, enhancing understanding of both theoretical and practical computing.",
+  "tags": [
+    "Mathematics",
+    "Logarithms",
+    "Computer Science",
+    "Theory",
+    "Education"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-22T13:47:03.210563+00:00",
+  "updated_at": "2026-06-22T13:50:40.245041+00:00",
+  "published_to": []
+}

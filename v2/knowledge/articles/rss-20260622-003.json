@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260622-003",
+  "source": "rss",
+  "source_url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
+  "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+  "summary": "Manticore Search released version 27.1.5 with significant new features including built-in authentication, sharding capabilities for horizontal scaling, conversational search functionality for AI-powered queries, and improved vector search performance.",
+  "tech_stack": [
+    "Manticore Search",
+    "SQL",
+    "Vector Search",
+    "HTTP API",
+    "JSON"
+  ],
+  "problem_solved": "Enables production-ready deployment with security (auth), scalability (sharding), and AI integration (conversational search) capabilities for full-text and vector search workloads.",
+  "why_valuable": "Combines traditional full-text search with modern vector search capabilities, offering a unified solution for building AI-powered search applications with improved performance and enterprise features.",
+  "tags": [
+    "Search Engine",
+    "Vector Database",
+    "Full-Text Search",
+    "Open Source",
+    "AI Search"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-22T13:43:44.533637+00:00",
+  "updated_at": "2026-06-22T13:50:40.233989+00:00",
+  "published_to": []
+}

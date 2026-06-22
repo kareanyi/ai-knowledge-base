@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260622-005",
+  "source": "rss",
+  "source_url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+  "title": "Investors get real-time view of UK bond market activity for the first time",
+  "summary": "The UK's Financial Conduct Authority (FCA) has introduced real-time transparency for the UK bond market, allowing investors to view bond market activity as it happens for the first time. This marks a significant shift in market surveillance and accessibility of financial data.",
+  "tech_stack": [
+    "Financial Infrastructure",
+    "Market Data Systems"
+  ],
+  "problem_solved": "Lack of transparency and real-time visibility into UK bond market trading activity for retail and institutional investors",
+  "why_valuable": "This regulatory change improves market fairness, enables better investment decision-making, and levels the playing field between institutional and retail investors by providing equal access to critical market information",
+  "tags": [
+    "FinTech",
+    "Financial Regulation",
+    "UK Markets",
+    "Bond Market",
+    "Market Transparency"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-22T13:44:15.253458+00:00",
+  "updated_at": "2026-06-22T13:50:40.243058+00:00",
+  "published_to": []
+}

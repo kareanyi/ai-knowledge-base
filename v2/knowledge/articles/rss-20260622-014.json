@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260622-014",
+  "source": "rss",
+  "source_url": "https://powerfox.jazzzny.me/",
+  "title": "PowerFox Browser",
+  "summary": "PowerFox Browser is a web browser project shared by developer jazzzny, likely an alternative or customized browser solution. The project received moderate attention on Hacker News with 152 points and 42 comments, suggesting interest from the developer community in this browser implementation.",
+  "tech_stack": [
+    "Web Technologies",
+    "Browser Development",
+    "JavaScript",
+    "Open Source"
+  ],
+  "problem_solved": "Provides an alternative browsing solution, likely focused on privacy, performance, or specific use cases not fully addressed by mainstream browsers.",
+  "why_valuable": "Alternative browsers like PowerFox offer users more control, customization options, and potentially improved privacy or performance compared to major browser engines.",
+  "tags": [
+    "Browser",
+    "Open Source",
+    "Web",
+    "Developer Tools",
+    "Privacy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-22T13:46:46.296342+00:00",
+  "updated_at": "2026-06-22T13:50:40.244831+00:00",
+  "published_to": []
+}

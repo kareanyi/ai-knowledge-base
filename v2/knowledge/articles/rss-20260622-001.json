@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260622-001",
+  "source": "rss",
+  "source_url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+  "title": "window.showDirectoryPicker opens up a whole new world",
+  "summary": "This article explores the File System Access API's window.showDirectoryPicker() method, which enables web applications to access and manipulate local directories directly from the browser without server uploads. The author demonstrates how this API opens new possibilities for client-side web applications to work with files more efficiently.",
+  "tech_stack": [
+    "JavaScript",
+    "File System Access API",
+    "Browser APIs",
+    "Web APIs",
+    "HTML5"
+  ],
+  "problem_solved": "Enables direct browser-to-filesystem access, eliminating the need for traditional file upload/download workflows and server-side file handling.",
+  "why_valuable": "Allows developers to build powerful client-side applications with direct local file access, improving performance, privacy, and user experience while reducing server infrastructure requirements.",
+  "tags": [
+    "Browser APIs",
+    "File System",
+    "Web Development",
+    "JavaScript",
+    "File System Access API"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-22T13:43:13.813543+00:00",
+  "updated_at": "2026-06-22T13:50:40.233432+00:00",
+  "published_to": []
+}

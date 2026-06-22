@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260622-002",
+  "source": "rss",
+  "source_url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+  "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+  "summary": "This article by artist and open-source contributor David Revoy examines the business, legal, and technical reasons why major drawing tablet manufacturers (Wacom, Huion, XP-Pen, etc.) refuse to collaborate with the Linux FLOSS community on open-source drivers. The author, who maintains the Digikam color picker and has personal experience with Linux tablet support, analyzes the underlying dynamics that perpetuate this fragmentation.",
+  "tech_stack": [
+    "Linux Kernel",
+    "X11/Wayland",
+    "HID Protocol",
+    "Open-source Development",
+    "FLOSS"
+  ],
+  "problem_solved": "Explains why drawing tablet manufacturers won't work with the Linux open-source community to create shared driver infrastructure.",
+  "why_valuable": "Provides rare insider perspective on the economic and technical barriers preventing cross-brand collaboration in Linux hardware support, helping the community understand why fragmentation persists.",
+  "tags": [
+    "Linux",
+    "Open Source",
+    "Drawing Tablets",
+    "Hardware Drivers",
+    "Wacom"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-22T13:43:30.616881+00:00",
+  "updated_at": "2026-06-22T13:50:40.233754+00:00",
+  "published_to": []
+}

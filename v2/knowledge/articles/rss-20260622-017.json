@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260622-017",
+  "source": "rss",
+  "source_url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+  "title": "JSON-LD explained for personal websites",
+  "summary": "A comprehensive guide explaining JSON-LD (JSON for Linked Data) implementation for personal websites, demonstrating how to add structured data markup to improve SEO and help search engines better understand website content.",
+  "tech_stack": [
+    "JSON-LD",
+    "HTML",
+    "SEO",
+    "Semantic Web",
+    "Structured Data"
+  ],
+  "problem_solved": "Helps personal website owners understand and implement JSON-LD structured data to enhance search engine visibility and content discoverability.",
+  "why_valuable": "Makes a technical SEO concept accessible for non-technical personal website owners, with practical examples showing how to implement structured data markup.",
+  "tags": [
+    "JSON-LD",
+    "SEO",
+    "Structured Data",
+    "Web Development",
+    "Semantic Web"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-22T13:47:28.461394+00:00",
+  "updated_at": "2026-06-22T13:50:40.245421+00:00",
+  "published_to": []
+}
