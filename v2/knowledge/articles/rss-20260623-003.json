@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-003",
+  "source": "rss",
+  "source_url": "https://selforg-npa.github.io/",
+  "title": "Show HN: Neural Particle Automata",
+  "summary": "Neural Particle Automata extends grid-based Neural Cellular Automata to free-moving agentic particles that can change state and position while following simple shared rules, enabling complex self-organizing patterns and regenerative capabilities demonstrated by a lizard that heals itself when cut.",
+  "tech_stack": [
+    "Neural Networks",
+    "Cellular Automata",
+    "Particle Systems",
+    "Deep Learning",
+    "Python"
+  ],
+  "problem_solved": "Removes the grid constraint from cellular automata, allowing for more flexible self-organizing systems where particles can move freely and still maintain emergent pattern formation and regeneration.",
+  "why_valuable": "It demonstrates how simple local rules can produce complex self-healing and morphogenetic behaviors in free-moving particle systems, advancing our understanding of emergence and self-organization with potential applications in robotics, synthetic biology, and tissue engineering.",
+  "tags": [
+    "Neural CA",
+    "Emergent Behavior",
+    "Self-Organization",
+    "Particle Simulation",
+    "Morphogenesis"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-23T11:26:15.983206+00:00",
+  "updated_at": "2026-06-23T11:32:49.934771+00:00",
+  "published_to": []
+}

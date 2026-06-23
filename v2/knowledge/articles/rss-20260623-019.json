@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260623-019",
+  "source": "rss",
+  "source_url": "https://oak.space/oak/oak",
+  "title": "Show HN: Oak – Git alternative designed for agents",
+  "summary": "Oak is a version control system specifically designed for AI agents, featuring virtual mounts that allow agents to work on code without downloading a full repository copy. It solves the inefficiency of traditional Git in agent workflows by enabling parallel task execution without the overhead of complete repo duplication.",
+  "tech_stack": [
+    "Version Control System",
+    "Virtual Mounts",
+    "Cloud-native Architecture",
+    "Git Protocol"
+  ],
+  "problem_solved": "Traditional Git requires full repository copies and wastes agent time/resources when working on multiple tasks in parallel.",
+  "why_valuable": "It dramatically improves agent efficiency by eliminating full repo downloads while maintaining full version control functionality.",
+  "tags": [
+    "Version Control",
+    "AI Agents",
+    "Developer Tools",
+    "Git Alternative",
+    "Parallel Development"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-23T11:30:04.011675+00:00",
+  "updated_at": "2026-06-23T11:32:49.948060+00:00",
+  "published_to": []
+}

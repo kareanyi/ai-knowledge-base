@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-017",
+  "source": "rss",
+  "source_url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+  "title": "Steam Machine launches today",
+  "summary": "Valve's Steam Machine initiative, a Linux-based living room gaming console designed to bring PC gaming to the TV, officially launches to allow users to play Steam games in a console-like experience using SteamOS.",
+  "tech_stack": [
+    "SteamOS",
+    "Linux",
+    "Steam Controller",
+    "Valve",
+    "PC Gaming Hardware"
+  ],
+  "problem_solved": "Bridges the gap between traditional PC gaming and living room console gaming experience.",
+  "why_valuable": "Offered an open-source, console-style alternative to traditional gaming consoles while maintaining PC gaming flexibility and the Steam ecosystem.",
+  "tags": [
+    "Gaming",
+    "Steam",
+    "Linux",
+    "Console",
+    "Valve"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-23T11:29:43.425923+00:00",
+  "updated_at": "2026-06-23T11:32:49.947745+00:00",
+  "published_to": []
+}

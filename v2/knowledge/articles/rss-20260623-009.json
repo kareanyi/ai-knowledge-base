@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-009",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.16140",
+  "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+  "summary": "VibeThinker is a compact 3-billion parameter language model that achieves superior reasoning performance compared to Anthropic's Opus 4.5 through a novel training approach combining Supervised Fine-Tuning (SFT) with Group Relative Policy Optimization (GRPO). This research demonstrates that smaller models can outperform much larger frontier models when trained with advanced optimization techniques.",
+  "tech_stack": [
+    "Large Language Models",
+    "GRPO (Group Relative Policy Optimization)",
+    "SFT (Supervised Fine-Tuning)",
+    "Deep Learning",
+    "Reinforcement Learning from Human Feedback"
+  ],
+  "problem_solved": "Addresses the efficiency gap between small and large language models by showing that innovative training methodology can enable 3B models to match or exceed the reasoning capabilities of significantly larger frontier models like Opus 4.5.",
+  "why_valuable": "Democratizes access to high-quality reasoning AI by proving that resource-efficient models with proper training can rival expensive frontier models, potentially reducing computational costs and environmental impact while widening access to advanced AI capabilities.",
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Model Training",
+    "Small Language Models",
+    "GRPO"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-23T11:27:48.185532+00:00",
+  "updated_at": "2026-06-23T11:32:49.946322+00:00",
+  "published_to": []
+}

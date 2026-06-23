@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-014",
+  "source": "rss",
+  "source_url": "https://github.com/dorukkumkumoglu/optocamzero",
+  "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+  "summary": "Optocam Zero is a DIY digital camera project built using Raspberry Pi Zero and readily available off-the-shelf components, creating a fully functional camera from accessible parts.",
+  "tech_stack": [
+    "Raspberry Pi Zero",
+    "Python",
+    "Camera Module",
+    "Linux",
+    "OpenCV"
+  ],
+  "problem_solved": "Provides an affordable, educational way for makers to build their own digital camera while learning about hardware-software integration.",
+  "why_valuable": "Makes camera technology accessible and understandable through hands-on construction, demonstrating that complex devices can be built from simple components.",
+  "tags": [
+    "DIY",
+    "Raspberry Pi",
+    "Camera",
+    "Hardware",
+    "Maker"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-23T11:29:02.453227+00:00",
+  "updated_at": "2026-06-23T11:32:49.947221+00:00",
+  "published_to": []
+}

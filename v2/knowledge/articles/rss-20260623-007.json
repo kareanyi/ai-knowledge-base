@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260623-007",
+  "source": "rss",
+  "source_url": "https://swelljoe.com/post/will-it-mythos/",
+  "title": "Will It Mythos?",
+  "summary": "A technical blog post evaluating or testing the Mythos project/technology through practical experimentation, likely examining its capabilities, limitations, and real-world applicability in a hands-on manner.",
+  "tech_stack": [
+    "Mythos",
+    "Linux",
+    "Database Technology",
+    "Open Source"
+  ],
+  "problem_solved": "Provides practical insights into whether Mythos technology is viable for production use through empirical testing.",
+  "why_valuable": "Delivers real-world testing results that help developers and engineers make informed decisions about adopting a potentially new technology.",
+  "tags": [
+    "Mythos",
+    "Technology Evaluation",
+    "Open Source",
+    "Testing",
+    "Database"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-23T11:27:15.709403+00:00",
+  "updated_at": "2026-06-23T11:32:49.945946+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-004",
+  "source": "rss",
+  "source_url": "https://kreya.app/blog/new-http-query-method-explained/",
+  "title": "The new HTTP QUERY method explained",
+  "summary": "This article explains the new HTTP QUERY method, a proposed standard for sending query requests with a message body without the idempotency and caching constraints of GET. It addresses the long-standing limitation where GET requests cannot have a request body, forcing developers to use POST for queries.",
+  "tech_stack": [
+    "HTTP/1.1",
+    "HTTP/2",
+    "HTTP/3",
+    "Web Standards",
+    "REST APIs"
+  ],
+  "problem_solved": "Provides a standardized HTTP method for safe, idempotent queries that can include a request body, solving the limitation where GET cannot have a body.",
+  "why_valuable": "Enables cleaner API design by allowing query operations to have request bodies without violating HTTP semantics, improving consistency between client and server implementations.",
+  "tags": [
+    "HTTP",
+    "Web Protocol",
+    "REST",
+    "API Design",
+    "Standards"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-23T11:26:29.724041+00:00",
+  "updated_at": "2026-06-23T11:32:49.945363+00:00",
+  "published_to": []
+}

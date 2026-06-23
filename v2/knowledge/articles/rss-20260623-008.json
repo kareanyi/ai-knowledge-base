@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-008",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.03748",
+  "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+  "summary": "Ultralytics发布了YOLO26，这是YOLO系列的最新版本，定位为统一实时端到端视觉模型，整合了目标检测、分割、分类等多种视觉任务能力，代表了计算机视觉领域的最新进展。",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "CUDA",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+  "problem_solved": "解决传统YOLO模型需要多个独立模型处理不同视觉任务的问题，实现一个统一模型处理所有实时视觉任务。",
+  "why_valuable": "提供统一的端到端视觉解决方案，简化部署流程，提升推理效率，对工业检测、自动驾驶、机器人视觉等应用场景具有重要价值。",
+  "tags": [
+    "YOLO",
+    "Object Detection",
+    "Computer Vision",
+    "Deep Learning",
+    "Real-Time AI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-23T11:27:29.494299+00:00",
+  "updated_at": "2026-06-23T11:32:49.946144+00:00",
+  "published_to": []
+}

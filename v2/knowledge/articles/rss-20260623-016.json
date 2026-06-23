@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260623-016",
+  "source": "rss",
+  "source_url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+  "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+  "summary": "Canada announced a federal nuclear strategy aiming to build up to 10 nuclear reactors by 2040, marking a significant shift in the country's energy policy to address climate goals and energy security.",
+  "tech_stack": [
+    "Nuclear Energy",
+    "CANDU Reactors",
+    "Small Modular Reactors (SMR)",
+    "Renewable Energy"
+  ],
+  "problem_solved": "Addresses Canada's need for clean baseload power generation to meet net-zero emissions targets and enhance energy independence.",
+  "why_valuable": "Nuclear power provides reliable, low-carbon electricity that can complement intermittent renewables like solar and wind, helping Canada decarbonize its electricity grid while ensuring energy security.",
+  "tags": [
+    "Nuclear Energy",
+    "Energy Policy",
+    "Canada",
+    "Clean Energy",
+    "Climate Change"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-23T11:29:28.572241+00:00",
+  "updated_at": "2026-06-23T11:32:49.947567+00:00",
+  "published_to": []
+}

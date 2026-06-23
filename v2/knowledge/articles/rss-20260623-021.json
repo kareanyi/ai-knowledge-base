@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260623-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+  "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+  "summary": "Sakana AI launched Fugu, a multi-agent orchestration system designed to help enterprises reduce dependency on single AI vendors by dynamically routing tasks across multiple AI models, addressing the operational vulnerabilities and lock-in risks associated with monolithic AI API dependencies.",
+  "tech_stack": [
+    "Fugu",
+    "Multi-agent Orchestration",
+    "LLM Routing",
+    "Enterprise AI Infrastructure"
+  ],
+  "problem_solved": "Addresses vendor lock-in risks and operational vulnerabilities that enterprises face when relying entirely on monolithic AI APIs from a single provider.",
+  "why_valuable": "Provides enterprises with flexibility and resilience by enabling dynamic routing across multiple AI models, reducing exposure to single-vendor failures and pricing changes.",
+  "tags": [
+    "vendor-lock-in",
+    "multi-agent",
+    "AI-orchestration",
+    "enterprise-AI",
+    "Sakana-AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-23T11:30:31.838658+00:00",
+  "updated_at": "2026-06-23T11:32:49.948390+00:00",
+  "published_to": []
+}

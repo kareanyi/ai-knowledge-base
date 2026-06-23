@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-012",
+  "source": "rss",
+  "source_url": "https://jchri.st/blog/in-praise-of-memcached/",
+  "title": "In praise of memcached",
+  "summary": "A blog post advocating for the continued use of memcached as a reliable distributed caching solution, highlighting its simplicity, performance, and battle-tested reliability compared to newer alternatives.",
+  "tech_stack": [
+    "Memcached",
+    "Key-Value Store",
+    "Caching",
+    "Distributed Systems",
+    "Web Infrastructure"
+  ],
+  "problem_solved": "Reduces database load and improves application response times by caching frequently accessed data in memory.",
+  "why_valuable": "Provides extremely low-latency data access with proven scalability and operational simplicity that newer caching solutions often lack.",
+  "tags": [
+    "Caching",
+    "Performance",
+    "Infrastructure",
+    "Memcached",
+    "Backend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-23T11:28:33.498557+00:00",
+  "updated_at": "2026-06-23T11:32:49.946857+00:00",
+  "published_to": []
+}

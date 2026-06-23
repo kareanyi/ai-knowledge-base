@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-013",
+  "source": "rss",
+  "source_url": "https://unsloth.ai/docs/models/glm-5.2",
+  "title": "GLM-5.2 – How to Run Locally",
+  "summary": "A technical guide on running GLM-5.2, a large language model, locally using Unsloth's optimization framework, which provides faster inference and reduced memory consumption compared to standard implementations.",
+  "tech_stack": [
+    "Python",
+    "Unsloth",
+    "CUDA",
+    "GLM-5.2",
+    "Transformers"
+  ],
+  "problem_solved": "Enables efficient local deployment of the GLM-5.2 LLM with optimized memory usage and faster inference speeds on consumer hardware.",
+  "why_valuable": "Makes running powerful open-source LLMs accessible to developers with limited GPU resources by providing significant performance optimizations and easy-to-follow local setup instructions.",
+  "tags": [
+    "LLM",
+    "Local Inference",
+    "Unsloth",
+    "Open Source AI",
+    "Model Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-23T11:28:46.390531+00:00",
+  "updated_at": "2026-06-23T11:32:49.947026+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-006",
+  "source": "rss",
+  "source_url": "https://github.com/imtomt/ymawky/tree/linux",
+  "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+  "summary": "A hobbyist project building a fully functional web server from scratch using only ARM64 Assembly language, now supporting CGI scripting for dynamic content and cross-platform compatibility between macOS and Linux.",
+  "tech_stack": [
+    "ARM64 Assembly",
+    "Linux",
+    "macOS",
+    "CGI",
+    "HTTP Protocol"
+  ],
+  "problem_solved": "Demonstrates how web servers fundamentally work at the hardware level by implementing one entirely in raw assembly language.",
+  "why_valuable": "Provides an educational deep-dive into low-level systems programming, HTTP protocol internals, and ARM64 architecture while showcasing extreme optimization and minimalism.",
+  "tags": [
+    "ARM64",
+    "Assembly",
+    "WebServer",
+    "CGI",
+    "LowLevel"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-23T11:27:03.370576+00:00",
+  "updated_at": "2026-06-23T11:32:49.945770+00:00",
+  "published_to": []
+}

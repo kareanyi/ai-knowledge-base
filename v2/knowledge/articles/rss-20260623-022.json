@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+  "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+  "summary": "L'Oréal has announced a strategic collaboration with OpenAI to integrate Maybelline New York's virtual makeup try-on technology directly into ChatGPT. The partnership, revealed at VivaTech 2026, extends beyond consumer-facing shopping tools to include product discovery, advertising pilots, research, and internal content production across L'Oréal's operations.",
+  "tech_stack": [
+    "OpenAI",
+    "ChatGPT",
+    "Virtual Try-on Technology",
+    "AI-powered E-commerce",
+    "Computer Vision"
+  ],
+  "problem_solved": "Enables consumers to realistically preview and try on makeup products virtually before purchasing, eliminating the uncertainty of online beauty shopping.",
+  "why_valuable": "This partnership bridges the gap between digital retail and in-store experiences, potentially reducing product returns while increasing customer confidence and engagement in online beauty purchases.",
+  "tags": [
+    "AI",
+    "Beauty Tech",
+    "E-commerce",
+    "Virtual Try-on",
+    "Retail Innovation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-23T11:30:47.527370+00:00",
+  "updated_at": "2026-06-23T11:32:49.948539+00:00",
+  "published_to": []
+}

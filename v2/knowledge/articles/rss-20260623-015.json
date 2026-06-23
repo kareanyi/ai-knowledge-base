@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260623-015",
+  "source": "rss",
+  "source_url": "https://ipvm.com/reports/police-chiefs-track",
+  "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+  "summary": "An investigative report revealing how Flock license plate recognition cameras were misused by police chiefs to track and stalk women, exposing serious privacy vulnerabilities in surveillance technology without warrant requirements.",
+  "tech_stack": [
+    "Flock License Plate Recognition",
+    "LPR Cameras",
+    "Vehicle Tracking Systems"
+  ],
+  "problem_solved": "This article exposes a critical misuse case rather than solving a problem, demonstrating why warrant requirements are essential for license plate tracking data access.",
+  "why_valuable": "Highlights the dangerous potential for abuse when surveillance data is accessible without proper legal oversight, prompting important discussions about privacy protections in law enforcement technology.",
+  "tags": [
+    "Privacy",
+    "Surveillance",
+    "Law Enforcement",
+    "License Plate Recognition",
+    "Civil Liberties"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-23T11:29:15.821041+00:00",
+  "updated_at": "2026-06-23T11:32:49.947392+00:00",
+  "published_to": []
+}

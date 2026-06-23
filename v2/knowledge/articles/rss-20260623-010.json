@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-010",
+  "source": "rss",
+  "source_url": "https://blog.roboflow.com/yolo26/",
+  "title": "An Introduction to YOLO26",
+  "summary": "An introduction to YOLO26, the latest version of the You Only Look Once object detection algorithm, covering new features, architectural improvements, and practical guidance for implementing real-time object detection in computer vision applications.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Ultralytics",
+    "OpenCV",
+    "Computer Vision"
+  ],
+  "problem_solved": "Provides real-time object detection capabilities for images and videos, enabling applications to identify and locate multiple objects with improved accuracy and speed.",
+  "why_valuable": "YOLO26 represents the newest iteration of one of the most widely-used object detection frameworks, offering updated capabilities that help developers build more efficient and accurate computer vision solutions.",
+  "tags": [
+    "Object Detection",
+    "Computer Vision",
+    "YOLO",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-23T11:28:05.617430+00:00",
+  "updated_at": "2026-06-23T11:32:49.946501+00:00",
+  "published_to": []
+}

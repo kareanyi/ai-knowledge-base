@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-005",
+  "source": "rss",
+  "source_url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
+  "title": "Who Does What? Team Topologies for the Agentic Platform",
+  "summary": "This article explores how Team Topologies patterns can be applied to building and scaling AI agent platforms, addressing the organizational challenges of distributing responsibilities among teams working on agentic systems. It examines who owns what aspects of the agentic platform lifecycle from development to deployment and maintenance.",
+  "tech_stack": [
+    "Team Topologies",
+    "AI Agents",
+    "Platform Engineering",
+    "Kubernetes",
+    "Python"
+  ],
+  "problem_solved": "Provides organizational structure guidance for teams building and maintaining AI agent platforms at scale, solving the problem of unclear ownership and responsibilities in agentic systems development.",
+  "why_valuable": "Offers practical team design patterns for the emerging field of agentic AI, helping organizations avoid bottlenecks and cognitive overload when scaling AI agent infrastructure.",
+  "tags": [
+    "AI Agents",
+    "Team Topologies",
+    "Platform Engineering",
+    "Organizational Design",
+    "DevOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-23T11:26:50.034199+00:00",
+  "updated_at": "2026-06-23T11:32:49.945576+00:00",
+  "published_to": []
+}

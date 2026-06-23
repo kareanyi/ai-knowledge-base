@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260623-002",
+  "source": "rss",
+  "source_url": "https://ex-vi.sourceforge.net/",
+  "title": "The Traditional Vi",
+  "summary": "The Traditional Vi (ex-vi) is the official historical archive of Bill Joy's original vi editor implementation from 1976, maintained as a reference for the classic Unix text editor that revolutionized terminal-based text editing.",
+  "tech_stack": [
+    "C",
+    "Unix",
+    "SourceForge"
+  ],
+  "problem_solved": "Preserves and documents the original vi editor source code and behavior for historical reference and educational purposes.",
+  "why_valuable": "Provides authentic historical software preservation of one of the most influential text editors in computing history, enabling developers to study and understand the original implementation.",
+  "tags": [
+    "Vi",
+    "Text Editor",
+    "Unix",
+    "Historical",
+    "Open Source"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-06-23T11:25:59.777288+00:00",
+  "updated_at": "2026-06-23T11:32:49.934584+00:00",
+  "published_to": []
+}
