@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-016",
+  "source": "rss",
+  "source_url": "https://dynomight.net/vitamin-d/",
+  "title": "The worthlessness of Vitamin D is mildly exaggerated",
+  "summary": "A critical analysis challenging the conventional belief that Vitamin D supplementation is universally beneficial, examining clinical trial data and meta-analyses to argue that the evidence for widespread supplementation may be overstated.",
+  "tech_stack": [
+    "Data Analysis",
+    "Research Methodology",
+    "Statistical Analysis"
+  ],
+  "problem_solved": "Challenges the widespread medical recommendation for universal Vitamin D supplementation by questioning the quality and interpretation of supporting evidence.",
+  "why_valuable": "Provides a nuanced, evidence-based counterargument to mainstream health advice, encouraging critical thinking about supplement recommendations and the importance of examining primary research.",
+  "tags": [
+    "Health",
+    "Nutrition",
+    "Evidence-Based",
+    "Supplements",
+    "Medical Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-24T11:04:04.484286+00:00",
+  "updated_at": "2026-06-24T11:08:12.441610+00:00",
+  "published_to": []
+}

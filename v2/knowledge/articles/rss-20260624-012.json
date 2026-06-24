@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-012",
+  "source": "rss",
+  "source_url": "http://www.jerrysmap.com/the-map",
+  "title": "Jerry's Map",
+  "summary": "Jerry's Map is a decades-long hand-drawn cartographic project where the creator meticulously draws and continuously expands a fictional/fantasy map of their town, adding streets, buildings, parks, and imagined landmarks over many years. The map represents a unique blend of cartography, personal art, and imaginative world-building that has attracted a dedicated following.",
+  "tech_stack": [
+    "Hand-drawn illustration",
+    "HTML/CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "Provides a creative outlet for long-term artistic expression and offers readers an imaginative escape into a lovingly crafted fictional geography.",
+  "why_valuable": "It demonstrates remarkable creative persistence and dedication, showing how a simple idea evolved into a decades-long artistic practice that inspires others to pursue their own long-term creative projects.",
+  "tags": [
+    "Art",
+    "Cartography",
+    "Long-term project",
+    "Hand-drawn",
+    "Creativity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:02:43.449341+00:00",
+  "updated_at": "2026-06-24T11:08:12.440770+00:00",
+  "published_to": []
+}

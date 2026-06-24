@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+  "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+  "summary": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex across its global workforce, covering all Samsung Electronics employees in Korea and Device eXperience (DX) division employees worldwide, after previously imposing restrictions on AI tool usage among staff.",
+  "tech_stack": [
+    "ChatGPT Enterprise",
+    "OpenAI Codex",
+    "Enterprise AI Tools"
+  ],
+  "problem_solved": "Enables Samsung employees to leverage AI tools for both technical and non-technical work while maintaining enterprise-level security and compliance.",
+  "why_valuable": "Demonstrates how major corporations are overcoming initial AI restrictions to adopt generative AI tools at scale, setting a precedent for enterprise AI deployment in tech manufacturing and consumer electronics.",
+  "tags": [
+    "Enterprise AI",
+    "OpenAI",
+    "Samsung",
+    "ChatGPT",
+    "AI Adoption"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-24T11:05:30.426258+00:00",
+  "updated_at": "2026-06-24T11:08:12.442714+00:00",
+  "published_to": []
+}

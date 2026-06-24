@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-008",
+  "source": "rss",
+  "source_url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+  "title": "The Teensy Executable Revisited",
+  "summary": "This article revisits techniques for creating extremely small executable programs, continuing the author's famous work on minimal ELF binaries (including the legendary 45-byte 'teny' program). It explores advanced low-level programming tricks to minimize executable size while maintaining functionality.",
+  "tech_stack": [
+    "Assembly",
+    "ELF",
+    "x86",
+    "C",
+    "Linux"
+  ],
+  "problem_solved": "It explores the challenge of creating the smallest possible working executable programs by understanding and exploiting ELF binary format specifications and operating system requirements.",
+  "why_valuable": "Pushing executable size to the limit reveals deep insights into how operating systems load and execute programs, teaching fundamental concepts about ELF structure, system calls, and binary format specifications.",
+  "tags": [
+    "Assembly",
+    "ELF",
+    "Binary",
+    "Optimization",
+    "LowLevel"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:01:33.422098+00:00",
+  "updated_at": "2026-06-24T11:08:12.439881+00:00",
+  "published_to": []
+}

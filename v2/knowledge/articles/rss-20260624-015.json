@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-015",
+  "source": "rss",
+  "source_url": "https://swipe.futo.tech/",
+  "title": "FUTO Swipe – A new swipe typing model",
+  "summary": "FUTO Swipe is a new open-source swipe typing model developed by FUTO, offering a privacy-focused alternative to mainstream keyboard swipe input systems. The project garnered significant attention on Hacker News with 553 points and 185 comments, indicating strong community interest in open-source input method solutions.",
+  "tech_stack": [
+    "Python",
+    "Machine Learning",
+    "TensorFlow Lite",
+    "Kotlin",
+    "Swift"
+  ],
+  "problem_solved": "Provides a privacy-respecting, open-source alternative to proprietary swipe typing solutions from big tech companies that typically require cloud processing of user keystrokes.",
+  "why_valuable": "It offers users and developers an open, transparent swipe typing solution that can run entirely on-device, protecting user privacy while maintaining typing efficiency.",
+  "tags": [
+    "Open Source",
+    "Keyboard",
+    "Swipe Typing",
+    "Privacy",
+    "Mobile"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:03:50.606266+00:00",
+  "updated_at": "2026-06-24T11:08:12.441400+00:00",
+  "published_to": []
+}

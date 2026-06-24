@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-004",
+  "source": "rss",
+  "source_url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+  "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+  "summary": "Artificial Analysis published a detailed benchmark analysis comparing xAI's Grok Build 0.1 model across intelligence metrics, raw performance, and cost-effectiveness pricing tiers. The article provides comparative data against other frontier models like GPT-4 and Claude.",
+  "tech_stack": [
+    "xAI Grok",
+    "LLM Benchmarks",
+    "API Pricing",
+    "Python",
+    "Statistical Analysis"
+  ],
+  "problem_solved": "Provides comprehensive model comparison data to help developers and enterprises make informed decisions about which AI model to use based on performance-to-cost ratios.",
+  "why_valuable": "Offers objective, data-driven benchmarking that cuts through marketing claims, enabling evidence-based model selection for production deployments.",
+  "tags": [
+    "AI Models",
+    "Benchmarking",
+    "LLM",
+    "xAI",
+    "Cost Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:00:19.815472+00:00",
+  "updated_at": "2026-06-24T11:08:12.438940+00:00",
+  "published_to": []
+}

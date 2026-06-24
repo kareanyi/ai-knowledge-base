@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260624-019",
+  "source": "rss",
+  "source_url": "http://beyondloom.com/blog/vectorgraphics.html",
+  "title": "Vector Graphics in Lil",
+  "summary": "A technical exploration of implementing vector graphics programming in Lil, a minimal programming language. The article likely covers techniques for creating and manipulating vector-based graphics through code, demonstrating Lil's capabilities for geometric rendering.",
+  "tech_stack": [
+    "Lil",
+    "Vector Graphics",
+    "SVG",
+    "Canvas API"
+  ],
+  "problem_solved": "Demonstrates how to create and render vector graphics programmatically using the Lil language's syntax and capabilities.",
+  "why_valuable": "Provides hands-on examples of vector graphics implementation in a minimal language, offering insights into both graphics programming fundamentals and Lil's design philosophy.",
+  "tags": [
+    "Vector Graphics",
+    "Lil",
+    "Programming",
+    "Graphics Programming",
+    "Tutorial"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-24T11:04:55.440403+00:00",
+  "updated_at": "2026-06-24T11:08:12.442273+00:00",
+  "published_to": []
+}

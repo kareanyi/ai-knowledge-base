@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-014",
+  "source": "rss",
+  "source_url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+  "title": "Swift Package Index joins Apple",
+  "summary": "Swift Package Index, the leading community-maintained package discovery service for Swift developers, has officially joined Apple. The service, which indexes thousands of Swift packages and provides search functionality for the Swift Package Manager ecosystem, will now operate under Apple's stewardship while maintaining its open-source nature.",
+  "tech_stack": [
+    "Swift",
+    "Swift Package Manager",
+    "Server-Side Swift",
+    "PostgreSQL",
+    "Web Technologies"
+  ],
+  "problem_solved": "Provides a centralized, searchable registry for discovering and managing Swift packages, filling the gap in Apple's official tooling for open-source package discovery.",
+  "why_valuable": "This acquisition validates the Swift Package Index as essential infrastructure and ensures its long-term sustainability and maintenance for the growing Swift developer community.",
+  "tags": [
+    "Swift",
+    "Apple",
+    "iOS Development",
+    "Open Source",
+    "Package Manager"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-24T11:03:22.578871+00:00",
+  "updated_at": "2026-06-24T11:08:12.441196+00:00",
+  "published_to": []
+}

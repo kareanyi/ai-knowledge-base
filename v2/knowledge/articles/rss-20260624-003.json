@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-003",
+  "source": "rss",
+  "source_url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+  "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+  "summary": "Bunny.net announced they are making their DNS service completely free to help build a faster internet infrastructure, removing the paywall for their DNS platform that was previously available only in paid tiers.",
+  "tech_stack": [
+    "DNS",
+    "Edge Network",
+    "CDN",
+    "Anycast Routing",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Eliminates cost barriers for accessing fast, reliable DNS services, making premium internet infrastructure accessible to everyone.",
+  "why_valuable": "By offering free DNS, Bunny.net enables developers and small businesses to leverage high-performance DNS without budget constraints, potentially improving global internet speed and reliability.",
+  "tags": [
+    "DNS",
+    "CDN",
+    "Free Tier",
+    "Infrastructure",
+    "Networking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:00:07.385781+00:00",
+  "updated_at": "2026-06-24T11:08:12.429497+00:00",
+  "published_to": []
+}

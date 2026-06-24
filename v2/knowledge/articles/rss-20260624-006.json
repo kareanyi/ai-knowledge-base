@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-006",
+  "source": "rss",
+  "source_url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+  "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+  "summary": "A creative project that transforms the Raspberry Pi Pico W into a USB Wi-Fi adapter, allowing computers or devices without built-in Wi-Fi to connect to wireless networks through the Pico W's CYW43439 chip via USB interface.",
+  "tech_stack": [
+    "Raspberry Pi Pico W",
+    "CYW43439 Wi-Fi Chip",
+    "USB",
+    "C/C++",
+    "Embedded Systems"
+  ],
+  "problem_solved": "Enables devices lacking Wi-Fi capability to connect to wireless networks by repurposing the affordable Pico W as a USB Wi-Fi dongle.",
+  "why_valuable": "Provides a cost-effective and flexible solution for adding Wi-Fi connectivity to any USB-enabled device using readily available and inexpensive hardware.",
+  "tags": [
+    "Hardware",
+    "IoT",
+    "USB",
+    "Wi-Fi",
+    "Embedded"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:00:56.461321+00:00",
+  "updated_at": "2026-06-24T11:08:12.439429+00:00",
+  "published_to": []
+}

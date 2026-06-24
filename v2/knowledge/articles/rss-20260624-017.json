@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-017",
+  "source": "rss",
+  "source_url": "https://tikz.dev/editor/",
+  "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+  "summary": "A WYSIWYG editor for TikZ (LaTeX vector graphics package) that provides real-time visual editing, eliminating the traditional cycle of hand-coding coordinates and repeatedly recompiling to preview results.",
+  "tech_stack": [
+    "LaTeX",
+    "TikZ",
+    "SVG",
+    "Web Technologies",
+    "Desktop Application"
+  ],
+  "problem_solved": "Eliminates the tedious trial-and-error workflow of manually coding TikZ figures and recompiling LaTeX documents for each visual adjustment.",
+  "why_valuable": "Significantly improves productivity for academics and researchers creating technical figures by providing instant visual feedback during the editing process.",
+  "tags": [
+    "LaTeX",
+    "TikZ",
+    "WYSIWYG",
+    "Editor",
+    "Academic"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:04:20.789506+00:00",
+  "updated_at": "2026-06-24T11:08:12.441840+00:00",
+  "published_to": []
+}

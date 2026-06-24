@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-010",
+  "source": "rss",
+  "source_url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+  "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+  "summary": "Meta has suspended its employee-tracking program after an internal data leak exposed sensitive information, raising serious privacy and security concerns within the company.",
+  "tech_stack": [
+    "Privacy Technology",
+    "Employee Monitoring Systems",
+    "Internal Security Infrastructure"
+  ],
+  "problem_solved": "This article reports on a corporate security incident rather than describing a solution—highlighting the risks of internal surveillance programs.",
+  "why_valuable": "It underscores the delicate balance between corporate security measures and employee privacy rights, serving as a cautionary tale for organizations implementing tracking systems.",
+  "tags": [
+    "Privacy",
+    "Data Security",
+    "Corporate Surveillance",
+    "Meta",
+    "Employee Monitoring"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:02:06.099310+00:00",
+  "updated_at": "2026-06-24T11:08:12.440316+00:00",
+  "published_to": []
+}

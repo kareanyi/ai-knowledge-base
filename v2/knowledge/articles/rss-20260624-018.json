@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-018",
+  "source": "rss",
+  "source_url": "https://thomasliao.com/eval-startups",
+  "title": "Why eval startups fail (2025)",
+  "summary": "An analysis of why evaluation (eval) startups fail in the AI/LLM space, examining common pitfalls and challenges faced by companies building tools to assess AI model performance and quality. The article provides insights into market dynamics and strategic mistakes made by eval startups in 2025.",
+  "tech_stack": [
+    "AI/LLM",
+    "Evaluation Frameworks",
+    "Machine Learning",
+    "Python",
+    "Analytics"
+  ],
+  "problem_solved": "Explains why companies building AI evaluation tools struggle to achieve product-market fit and sustainable business models.",
+  "why_valuable": "Provides critical lessons and warnings for founders, investors, and developers in the AI evaluation space to avoid common failure patterns.",
+  "tags": [
+    "AI Startups",
+    "Evaluation",
+    "Failure Analysis",
+    "LLM",
+    "Business Strategy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:04:36.618529+00:00",
+  "updated_at": "2026-06-24T11:08:12.442066+00:00",
+  "published_to": []
+}

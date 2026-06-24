@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260624-007",
+  "source": "rss",
+  "source_url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+  "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+  "summary": "A creative shell script workaround that fixes MacBook cursor/trackpad lag by continuously capturing just 1 pixel of screen every 10 seconds using macOS screen recording, which prevents the system from throttling graphics resources.",
+  "tech_stack": [
+    "Shell Script",
+    "macOS screencapture",
+    "macOS Screen Recording API",
+    "Cron"
+  ],
+  "problem_solved": "Fixes the annoying cursor lag issue that many MacBook users experience due to graphics driver or power management quirks.",
+  "why_valuable": "It provides a simple, free, and clever workaround for a frustrating hardware issue that Apple hasn't officially addressed, leveraging an unexpected side effect of screen recording APIs.",
+  "tags": [
+    "macOS",
+    "Cursor Lag",
+    "Workaround",
+    "Shell Script",
+    "Hardware Fix"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:01:15.317333+00:00",
+  "updated_at": "2026-06-24T11:08:12.439645+00:00",
+  "published_to": []
+}

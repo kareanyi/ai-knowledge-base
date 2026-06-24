@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-009",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.24597",
+  "title": "Qwen-AgentWorld: Language World Models for General Agents",
+  "summary": "Qwen-AgentWorld is a research paper proposing to use large language models (specifically Qwen) as world models to enable general AI agents to understand, reason about, and interact with various environments through natural language.",
+  "tech_stack": [
+    "Qwen",
+    "Large Language Models",
+    "Python",
+    "AI Agents",
+    "World Models"
+  ],
+  "problem_solved": "Enables AI agents to have environmental understanding and planning capabilities by using language models as world models for general agent behavior.",
+  "why_valuable": "Provides a foundation for building more capable and general-purpose AI agents by leveraging the reasoning and knowledge capabilities of LLMs as world representations.",
+  "tags": [
+    "LLM",
+    "AI-Agents",
+    "World-Models",
+    "Qwen",
+    "Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:01:49.637392+00:00",
+  "updated_at": "2026-06-24T11:08:12.440105+00:00",
+  "published_to": []
+}

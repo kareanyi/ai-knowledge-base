@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-013",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+  "title": "In memory of the man who put red and green squiggles under words",
+  "summary": "A memorial tribute to the Microsoft engineer who implemented the red and green wavy underlines for spell-checking and grammar checking in Microsoft Word, one of the most universally used features in software history that has helped billions of users catch writing errors.",
+  "tech_stack": [
+    "Microsoft Word",
+    "Spell-checking",
+    "Text editing",
+    "Windows",
+    "Word processing"
+  ],
+  "problem_solved": "Made spelling and grammar errors immediately visible to users while typing, revolutionizing how people write and edit documents.",
+  "why_valuable": "This feature became a ubiquitous standard in word processing software, fundamentally improving writing quality for virtually every computer user worldwide.",
+  "tags": [
+    "Microsoft",
+    "Software History",
+    "Word Processing",
+    "Spell Check",
+    "User Interface"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-24T11:03:04.290445+00:00",
+  "updated_at": "2026-06-24T11:08:12.440982+00:00",
+  "published_to": []
+}

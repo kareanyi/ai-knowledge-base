@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260624-011",
+  "source": "rss",
+  "source_url": "https://words.filippo.io/vuln-reports/",
+  "title": "Vulnerability reports are not special anymore",
+  "summary": "Security expert Filippo Valsorda explores how vulnerability reports have become normalized in the security community and are no longer treated as exceptional or sensational events, but rather as routine parts of responsible security maintenance.",
+  "tech_stack": [
+    "Security Research",
+    "Bug Bounty",
+    "Responsible Disclosure",
+    "CVE Process"
+  ],
+  "problem_solved": "Addresses the cultural over-specialization of vulnerability reports and advocates for treating security disclosures as standard operational practice rather than extraordinary incidents.",
+  "why_valuable": "It promotes a healthier security culture by reducing sensationalism around vulnerabilities and encouraging mature, routine handling of security issues in organizations.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "Disclosure",
+    "Security Culture",
+    "Bug Bounty"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-24T11:02:22.269643+00:00",
+  "updated_at": "2026-06-24T11:08:12.440526+00:00",
+  "published_to": []
+}

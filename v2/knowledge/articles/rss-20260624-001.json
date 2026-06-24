@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-001",
+  "source": "rss",
+  "source_url": "https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/",
+  "title": "European Commission's Metsola Overrides MEPs to Force Through Chat Control",
+  "summary": "Roberta Metsola, President of the European Parliament, is overriding MEPs' objections to force through the controversial Chat Control law aimed at detecting child sexual abuse material online, creating a significant political confrontation between the Parliament presidency and elected representatives.",
+  "tech_stack": [
+    "EU Regulation",
+    "Surveillance Technology",
+    "End-to-End Encryption Scanning"
+  ],
+  "problem_solved": "The article documents a political conflict rather than solving a technical problem; it covers the EU's legislative push to mandate scanning of private messages for child sexual abuse content.",
+  "why_valuable": "This reporting informs citizens about a critical clash between privacy rights and child protection measures in EU digital policy, highlighting democratic tensions in legislative processes.",
+  "tags": [
+    "EU Policy",
+    "Privacy",
+    "Surveillance",
+    "Child Protection",
+    "Digital Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T10:59:35.601978+00:00",
+  "updated_at": "2026-06-24T11:08:12.428933+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+  "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+  "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, embedding Claude directly into shared Slack channels instead of isolated chat boxes. Users can summon the AI by typing @Claude in active group threads, allowing any team member to delegate tasks or review work collaboratively within their natural workflow environment.",
+  "tech_stack": [
+    "Claude (Anthropic)",
+    "Slack API",
+    "Natural Language Processing",
+    "Enterprise Integration",
+    "Beta Testing"
+  ],
+  "problem_solved": "Breaks down the barrier between isolated AI assistants and team collaboration by integrating AI directly into existing workplace communication channels.",
+  "why_valuable": "It transforms AI from a solo tool into a collaborative team member that can participate in group discussions and workflows without leaving the communication platform teams already use.",
+  "tags": [
+    "AI Agents",
+    "Workplace Integration",
+    "Claude",
+    "Enterprise AI",
+    "Collaborative Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-24T11:05:46.274922+00:00",
+  "updated_at": "2026-06-24T11:08:12.442916+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+  "title": "Omio scales travel product development using OpenAI models",
+  "summary": "Omio, a multimodal travel platform operating across 47 countries with 3,000+ transportation providers, integrates OpenAI models throughout its engineering operations to accelerate travel product development and booking interface creation. The company's CTO emphasizes complete process redesign rather than superficial technology additions.",
+  "tech_stack": [
+    "OpenAI Models",
+    "GPT-4",
+    "Travel Booking Platform",
+    "Multimodal Infrastructure",
+    "API Integration"
+  ],
+  "problem_solved": "Accelerates the development and launch of travel products and booking interfaces for a global-scale travel platform serving thousands of transportation providers.",
+  "why_valuable": "Demonstrates how large-scale enterprises can leverage AI to fundamentally transform product development workflows rather than just adding technology to legacy processes.",
+  "tags": [
+    "OpenAI",
+    "Travel Tech",
+    "Enterprise AI",
+    "Product Development",
+    "Digital Transformation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-24T11:06:03.699597+00:00",
+  "updated_at": "2026-06-24T11:08:12.443150+00:00",
+  "published_to": []
+}
