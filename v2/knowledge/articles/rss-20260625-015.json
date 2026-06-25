@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-015",
+  "source": "rss",
+  "source_url": "https://rubyllm.com/",
+  "title": "RubyLLM: A Ruby framework for all major AI providers",
+  "summary": "RubyLLM is a Ruby framework that provides a unified, developer-friendly interface for interacting with all major AI/LLM providers including OpenAI, Anthropic, Google, and others, allowing Ruby developers to easily switch between providers without learning different APIs.",
+  "tech_stack": [
+    "Ruby",
+    "OpenAI API",
+    "Anthropic API",
+    "Google AI",
+    "REST API"
+  ],
+  "problem_solved": "Eliminates the need for Ruby developers to write separate integrations for each AI provider by offering a consistent, Ruby-idiomatic API across all major LLM services.",
+  "why_valuable": "It democratizes AI access for the Ruby ecosystem, enabling Rails and Ruby developers to integrate multiple LLM providers with minimal boilerplate code and clean syntax.",
+  "tags": [
+    "Ruby",
+    "AI",
+    "LLM",
+    "Machine Learning",
+    "Framework"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:55:41.642391+00:00",
+  "updated_at": "2026-06-25T10:59:36.512321+00:00",
+  "published_to": []
+}

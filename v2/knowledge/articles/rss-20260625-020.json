@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+  "title": "The math behind the OpenAI Jalapeño chip",
+  "summary": "OpenAI developed a custom ASIC chip called Jalapeño in partnership with Broadcom to reduce dependency on expensive third-party hardware like Nvidia GPUs. The chip aims to lower the massive capital expenditure required for AI inference operations, where Nvidia currently enjoys approximately 75% profit margins on their hardware.",
+  "tech_stack": [
+    "ASIC",
+    "Custom Silicon",
+    "AI Inference",
+    "Broadcom",
+    "Semiconductor Design"
+  ],
+  "problem_solved": "Reduces the astronomical infrastructure costs associated with running AI inference at scale on third-party hardware, particularly Nvidia GPUs.",
+  "why_valuable": "Custom chips like Jalapeño could dramatically reduce per-inference costs and give OpenAI better control over their infrastructure economics, potentially accelerating their path to profitability.",
+  "tags": [
+    "AI Chips",
+    "Semiconductors",
+    "Infrastructure",
+    "Inference Economics",
+    "Custom Silicon"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-25T10:57:09.517257+00:00",
+  "updated_at": "2026-06-25T10:59:36.513298+00:00",
+  "published_to": []
+}

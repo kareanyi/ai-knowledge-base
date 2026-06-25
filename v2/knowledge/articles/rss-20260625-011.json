@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260625-011",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+  "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+  "summary": "Anthropic has accused Alibaba of illegally extracting capabilities from their Claude AI model, marking a significant intellectual property dispute in the AI industry. This legal conflict highlights growing tensions over AI model protection and technology transfer between US and Chinese tech companies.",
+  "tech_stack": [
+    "Claude",
+    "LLM",
+    "AI Models",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Highlights the critical issue of protecting AI model intellectual property from unauthorized extraction or replication by competitors.",
+  "why_valuable": "This case signals the increasing importance of AI IP protection and could set precedent for how AI companies defend their models against alleged theft or extraction.",
+  "tags": [
+    "AI Ethics",
+    "Intellectual Property",
+    "US-China Tech Relations",
+    "Legal Dispute",
+    "AI Competition"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-25T10:54:47.016795+00:00",
+  "updated_at": "2026-06-25T10:59:36.511493+00:00",
+  "published_to": []
+}

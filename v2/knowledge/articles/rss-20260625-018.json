@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-018",
+  "source": "rss",
+  "source_url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+  "title": "45°C cooling design cuts data center water use to near zero",
+  "summary": "NVIDIA has developed a 45°C liquid cooling technology for AI data centers that reduces water consumption to near zero, addressing the massive hydration needs of GPU-intensive AI factories. The innovation enables sustainable high-performance computing while significantly cutting environmental impact.",
+  "tech_stack": [
+    "NVIDIA GPUs",
+    "Liquid Cooling Technology",
+    "Direct-to-Chip Cooling",
+    "AI Factory Infrastructure",
+    "Data Center Design"
+  ],
+  "problem_solved": "Dramatically reduces the enormous water consumption required for cooling traditional high-density AI data centers",
+  "why_valuable": "Enables sustainable AI infrastructure at scale by minimizing water usage while maintaining peak computing performance for generative AI workloads",
+  "tags": [
+    "Liquid Cooling",
+    "AI Infrastructure",
+    "Sustainability",
+    "Data Centers",
+    "NVIDIA"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:56:22.156642+00:00",
+  "updated_at": "2026-06-25T10:59:36.512914+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260625-001",
+  "source": "rss",
+  "source_url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+  "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+  "summary": "Security researchers at Aisle discovered 6 new CVEs in curl, the widely-used command-line data transfer tool, including one representing the oldest vulnerability ever reported in curl's history. This disclosure highlights ongoing security concerns in fundamental internet infrastructure software used by millions of systems worldwide.",
+  "tech_stack": [
+    "C",
+    "curl",
+    "Security Research"
+  ],
+  "problem_solved": "Addresses critical security vulnerabilities in curl that could potentially affect countless applications and systems relying on this ubiquitous data transfer tool.",
+  "why_valuable": "Curl is embedded in billions of devices and applications, making any discovered vulnerabilities critical to patch to protect global internet infrastructure from potential exploits.",
+  "tags": [
+    "Security",
+    "CVE",
+    "curl",
+    "Vulnerability Research",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:52:14.589009+00:00",
+  "updated_at": "2026-06-25T10:59:36.500720+00:00",
+  "published_to": []
+}

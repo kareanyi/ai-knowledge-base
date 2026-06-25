@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-009",
+  "source": "rss",
+  "source_url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+  "title": "LuaJIT 3.0 proposed syntax extensions",
+  "summary": "This is a GitHub issue proposing new syntax extensions for LuaJIT 3.0, the high-performance Just-In-Time compiler for the Lua programming language. The proposal outlines potential language enhancements that would expand Lua's syntax capabilities while maintaining compatibility with existing code.",
+  "tech_stack": [
+    "LuaJIT",
+    "Lua",
+    "JIT Compilation",
+    "C",
+    "Assembly"
+  ],
+  "problem_solved": "Addresses the need for modern syntax features in Lua to improve developer ergonomics and code expressiveness while preserving LuaJIT's legendary performance.",
+  "why_valuable": "LuaJIT is already the fastest Lua implementation; syntax extensions would make the language more expressive without sacrificing its performance advantages, attracting more developers and enabling cleaner code.",
+  "tags": [
+    "Lua",
+    "LuaJIT",
+    "JIT",
+    "Compiler",
+    "Programming-Language"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:54:10.030001+00:00",
+  "updated_at": "2026-06-25T10:59:36.511142+00:00",
+  "published_to": []
+}

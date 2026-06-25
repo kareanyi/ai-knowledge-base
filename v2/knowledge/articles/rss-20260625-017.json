@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-017",
+  "source": "rss",
+  "source_url": "https://github.com/nubjs/nub",
+  "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+  "summary": "Nub 是一个受 Bun 启发的 Node.js 增强工具包，通过 Node 的 --require preload hook 注入 oxc 转译器、模块解析 hook 和 polyfills，让 Node.js 原生获得开箱即用的开发体验，无需额外构建步骤。",
+  "tech_stack": [
+    "Node.js",
+    "oxc",
+    "Node-API",
+    "TypeScript",
+    "Bun"
+  ],
+  "problem_solved": "让 Node.js 在无需构建工具的情况下，直接支持 TypeScript 转译、ESM 模块解析和现代 API polyfills。",
+  "why_valuable": "提供类似 Bun 的开发体验但基于原生 Node.js 实现，保持与 Node 生态的完全兼容性，同时简化开发工作流。",
+  "tags": [
+    "Node.js",
+    "Toolkit",
+    "TypeScript",
+    "Transpiler",
+    "Developer Experience"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:56:08.862792+00:00",
+  "updated_at": "2026-06-25T10:59:36.512721+00:00",
+  "published_to": []
+}

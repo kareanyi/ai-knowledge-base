@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-006",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/oauth-for-all/",
+  "title": "Cloudflare launched self-managed OAuth for all",
+  "summary": "Cloudflare has launched a self-managed OAuth solution available to all users, enabling developers to implement secure authentication without building their own OAuth infrastructure from scratch.",
+  "tech_stack": [
+    "Cloudflare Workers",
+    "OAuth 2.0",
+    "JavaScript",
+    "Zero Trust",
+    "Cloudflare Access"
+  ],
+  "problem_solved": "Simplifies the complex process of implementing secure OAuth authentication for developers who don't want to build and maintain their own identity infrastructure.",
+  "why_valuable": "Provides enterprise-grade authentication capabilities to developers of all levels through Cloudflare's global network, reducing complexity and maintenance overhead.",
+  "tags": [
+    "OAuth",
+    "Authentication",
+    "Cloudflare",
+    "Security",
+    "Identity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:53:17.874370+00:00",
+  "updated_at": "2026-06-25T10:59:36.510552+00:00",
+  "published_to": []
+}

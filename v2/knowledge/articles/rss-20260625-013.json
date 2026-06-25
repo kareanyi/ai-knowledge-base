@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-013",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+  "title": "Computer use in Gemini 3.5 Flash",
+  "summary": "Google announced computer use capabilities for Gemini 3.5 Flash, enabling the AI model to interact with and control computer interfaces to perform complex multi-step tasks autonomously. This represents a significant step in agentic AI, allowing models to move beyond text generation to actually executing tasks through software interfaces.",
+  "tech_stack": [
+    "Gemini 3.5 Flash",
+    "Computer Use API",
+    "Google AI",
+    "Agentic AI",
+    "LLM"
+  ],
+  "problem_solved": "Enables AI models to autonomously interact with software applications and perform complex computer-based tasks that traditionally required human operators.",
+  "why_valuable": "Transforms AI from a text-based tool into an actionable assistant that can navigate interfaces, execute workflows, and complete real-world computer tasks, dramatically expanding practical AI applications.",
+  "tags": [
+    "AI",
+    "Agentic AI",
+    "Google",
+    "Gemini",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:55:09.436433+00:00",
+  "updated_at": "2026-06-25T10:59:36.511929+00:00",
+  "published_to": []
+}

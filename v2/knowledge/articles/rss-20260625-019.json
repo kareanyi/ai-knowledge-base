@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-019",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+  "title": "Qualcomm to Acquire Modular",
+  "summary": "Qualcomm announced the acquisition of Modular, an AI startup founded by Chris Lattner (creator of LLVM, Swift, and TensorFlow compiler infrastructure), strengthening Qualcomm's AI capabilities for edge computing and mobile devices.",
+  "tech_stack": [
+    "AI/ML Infrastructure",
+    "Compiler Technology",
+    "LLVM",
+    "Semiconductor Chips",
+    "Edge Computing"
+  ],
+  "problem_solved": "Enhances Qualcomm's AI optimization and inference capabilities for Snapdragon chips, competing with other AI chip providers in the rapidly growing AI semiconductor market.",
+  "why_valuable": "The acquisition brings world-class compiler and AI infrastructure expertise from Chris Lattner's team, potentially giving Qualcomm significant advantages in optimizing AI models for mobile and edge devices.",
+  "tags": [
+    "AI",
+    "Semiconductor",
+    "M&A",
+    "Mobile AI",
+    "Compiler"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-25T10:56:39.432301+00:00",
+  "updated_at": "2026-06-25T10:59:36.513105+00:00",
+  "published_to": []
+}

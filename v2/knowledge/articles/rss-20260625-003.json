@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-003",
+  "source": "rss",
+  "source_url": "https://hl2.slqnt.dev/",
+  "title": "Half-Life 2 in a Browser",
+  "summary": "A technical project that successfully ported the classic PC game Half-Life 2 to run directly in a web browser using WebAssembly technology, allowing users to play the full game without installation or native software.",
+  "tech_stack": [
+    "WebAssembly",
+    "Source Engine",
+    "JavaScript",
+    "Emscripten",
+    "C++"
+  ],
+  "problem_solved": "Enables running a complex native PC game in a browser environment without requiring local installation or native execution capabilities.",
+  "why_valuable": "Demonstrates the power of modern web technologies for running demanding applications and makes classic games more accessible through zero-install browser-based deployment.",
+  "tags": [
+    "WebAssembly",
+    "Gaming",
+    "Browser Technology",
+    "Game Porting",
+    "Source Engine"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:52:37.247677+00:00",
+  "updated_at": "2026-06-25T10:59:36.501206+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-007",
+  "source": "rss",
+  "source_url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+  "title": "Zombie unicorns are haunting Silicon Valley",
+  "summary": "This Economist article examines the current state of 'zombie unicorns'—tech startups valued at $1 billion or more that are struggling to survive despite their inflated valuations. The piece explores how these companies, once celebrated as Silicon Valley's success stories, now face mounting pressure from investors and markets demanding profitability amid economic uncertainty.",
+  "tech_stack": [
+    "General Technology Industry",
+    "Venture Capital",
+    "SaaS",
+    "Cloud Computing",
+    "AI/ML"
+  ],
+  "problem_solved": "This article analyzes the systemic risk and market inefficiency created by overvalued startups that cannot achieve sustainable business models.",
+  "why_valuable": "It provides critical insights into the cyclical nature of tech booms and the inevitable correction when market fundamentals catch up with speculative valuations.",
+  "tags": [
+    "startup",
+    "venture-capital",
+    "unicorn",
+    "tech-industry",
+    "finance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-25T10:53:35.169054+00:00",
+  "updated_at": "2026-06-25T10:59:36.510759+00:00",
+  "published_to": []
+}

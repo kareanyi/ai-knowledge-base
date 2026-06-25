@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-008",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2603.15855",
+  "title": "Mixing Visual and Textual Code",
+  "summary": "An arXiv research paper exploring approaches to combine visual programming elements with traditional text-based code, examining how developers can leverage both paradigms within modern development environments.",
+  "tech_stack": [
+    "Python",
+    "JavaScript",
+    "Jupyter",
+    "Visual Programming",
+    "React"
+  ],
+  "problem_solved": "How to effectively merge visual and textual code representations in software development",
+  "why_valuable": "Enables developers to use intuitive visual elements alongside powerful text-based code, potentially improving both productivity and accessibility in programming",
+  "tags": [
+    "visual-programming",
+    "textual-code",
+    "mixed-paradigm",
+    "programming-tools",
+    "developer-experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-25T10:53:53.918808+00:00",
+  "updated_at": "2026-06-25T10:59:36.510958+00:00",
+  "published_to": []
+}
