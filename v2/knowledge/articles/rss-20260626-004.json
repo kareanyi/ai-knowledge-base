@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-004",
+  "source": "rss",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+  "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+  "summary": "Jeff Geerling analyzes Framework's new 10G Ethernet expansion module and explores the technical complexity behind USB-C connectors, including bandwidth limitations, protocol negotiation, and compatibility challenges when using USB-C for high-speed networking.",
+  "tech_stack": [
+    "USB-C",
+    "10G Ethernet",
+    "Framework Laptop",
+    "Thunderbolt",
+    "Hardware"
+  ],
+  "problem_solved": "Explains why USB-C, despite its versatility, introduces complexity when used for demanding applications like 10Gbit Ethernet.",
+  "why_valuable": "Provides hands-on technical insights into USB-C limitations, helping tech enthusiasts and developers understand real-world hardware constraints beyond marketing specs.",
+  "tags": [
+    "Hardware",
+    "USB-C",
+    "Networking",
+    "Framework",
+    "Electronics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-26T11:00:01.503045+00:00",
+  "updated_at": "2026-06-26T11:06:42.454881+00:00",
+  "published_to": []
+}

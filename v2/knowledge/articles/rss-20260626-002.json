@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-002",
+  "source": "rss",
+  "source_url": "https://graphicore.github.io/librebarcode/",
+  "title": "Libre Barcode Project",
+  "summary": "Libre Barcode 是一个开源的 Web 条形码字体和生成器项目，支持 Code128、Code39 等多种条形码格式，通过 Web Font 和 JavaScript API 的方式让开发者无需依赖外部服务即可在网页中生成高质量条形码。",
+  "tech_stack": [
+    "JavaScript",
+    "CSS",
+    "Web Fonts",
+    "SVG",
+    "Canvas API"
+  ],
+  "problem_solved": "解决 Web 应用中集成条形码功能需要依赖商业字体或外部付费 API 的问题。",
+  "why_valuable": "提供完全免费开源的条形码解决方案，支持自托管，零成本且隐私友好，适合各种 Web 项目使用。",
+  "tags": [
+    "Open Source",
+    "Barcode",
+    "Web Development",
+    "Typography",
+    "JavaScript"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-26T10:59:34.748322+00:00",
+  "updated_at": "2026-06-26T11:06:42.446020+00:00",
+  "published_to": []
+}

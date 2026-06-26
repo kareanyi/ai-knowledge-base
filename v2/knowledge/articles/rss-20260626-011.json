@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260626-011",
+  "source": "rss",
+  "source_url": "https://rozumem.xyz/posts/17",
+  "title": "The Doorman's Fallacy in action",
+  "summary": "An essay discussing 'The Doorman's Fallacy' - a cognitive bias or logical error where someone incorrectly attributes causation or significance to a particular gatekeeping moment or threshold, often observed in gatekeeping scenarios where doormen or bouncers believe their actions determine outcomes that would occur regardless.",
+  "tech_stack": [
+    "Blog/CMS (rozumem.xyz)"
+  ],
+  "problem_solved": "Examines a common logical fallacy where gatekeepers overestimate their causal role in filtering outcomes",
+  "why_valuable": "Helps readers recognize when authority figures mistakenly believe their decisions are more consequential than they actually are",
+  "tags": [
+    "Cognitive Bias",
+    "Logical Fallacy",
+    "Philosophy",
+    "Psychology",
+    "Critical Thinking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-26T11:01:48.836091+00:00",
+  "updated_at": "2026-06-26T11:06:42.456366+00:00",
+  "published_to": []
+}

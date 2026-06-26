@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-010",
+  "source": "rss",
+  "source_url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+  "title": "Parallel Parentheses Matching",
+  "summary": "A technical blog post exploring parallel algorithms for matching parentheses in strings, likely demonstrating how to efficiently process and validate balanced parentheses using concurrent computing techniques.",
+  "tech_stack": [
+    "Rust",
+    "Rayon",
+    "Algorithm",
+    "Data Structures",
+    "Parallel Computing"
+  ],
+  "problem_solved": "Efficiently validate and match parentheses in large strings using parallel processing instead of sequential traversal",
+  "why_valuable": "Demonstrates practical parallel algorithm design for a common parsing problem, showing how to leverage multi-core processors for better performance",
+  "tags": [
+    "Algorithms",
+    "Parallel Computing",
+    "Rust",
+    "String Processing",
+    "Performance Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-26T11:01:29.572622+00:00",
+  "updated_at": "2026-06-26T11:06:42.456158+00:00",
+  "published_to": []
+}

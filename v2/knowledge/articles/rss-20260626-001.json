@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260626-001",
+  "source": "rss",
+  "source_url": "https://akrites.org/letter/",
+  "title": "We All Depend on Open Source. We Will Defend It Together",
+  "summary": "An open letter advocating for collective defense and protection of the open source ecosystem, recognizing that modern software infrastructure depends heavily on open source contributions that often lack proper funding and security support.",
+  "tech_stack": [
+    "Open Source Software",
+    "Community-driven Development"
+  ],
+  "problem_solved": "Addresses the sustainability crisis and security vulnerabilities in open source software that the entire tech industry depends on but rarely supports adequately.",
+  "why_valuable": "Highlights the critical but often overlooked dependency of commercial software on volunteer-maintained open source projects, calling for industry-wide responsibility and support.",
+  "tags": [
+    "Open Source",
+    "Software Sustainability",
+    "Community",
+    "Digital Infrastructure",
+    "Advocacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-26T10:59:15.224548+00:00",
+  "updated_at": "2026-06-26T11:06:42.445674+00:00",
+  "published_to": []
+}

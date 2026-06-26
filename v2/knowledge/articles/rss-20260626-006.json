@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-006",
+  "source": "rss",
+  "source_url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+  "title": "The 'papers, please' era of the internet will decimate your privacy",
+  "summary": "This article discusses how increasing internet regulations requiring identity verification (analogous to border control 'papers, please' checkpoints) will fundamentally erode online privacy and anonymity, exploring the tension between security demands and digital freedoms.",
+  "tech_stack": [
+    "Identity Verification Systems",
+    "Privacy-Enhancing Technologies",
+    "KYC (Know Your Customer)",
+    "Digital Identity Infrastructure",
+    "Surveillance Systems"
+  ],
+  "problem_solved": "Addresses growing concerns about mandatory internet identity verification requirements threatening user anonymity and privacy.",
+  "why_valuable": "Raises critical awareness about the long-term implications of surveillance-oriented internet policies on civil liberties and digital rights.",
+  "tags": [
+    "Privacy",
+    "Digital Identity",
+    "Internet Policy",
+    "Surveillance",
+    "Civil Liberties"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-26T11:00:36.296394+00:00",
+  "updated_at": "2026-06-26T11:06:42.455322+00:00",
+  "published_to": []
+}

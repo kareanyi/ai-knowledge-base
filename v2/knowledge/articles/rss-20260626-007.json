@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-007",
+  "source": "rss",
+  "source_url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+  "title": "Un-0: Generating Images with Coupled Oscillators",
+  "summary": "Un-0 introduces a novel image generation approach using coupled oscillators instead of traditional diffusion models, leveraging physics-based oscillatory dynamics to synthesize images through wave interference patterns.",
+  "tech_stack": [
+    "Python",
+    "NumPy",
+    "Physics-based Computing",
+    "Oscillatory Dynamics",
+    "Image Generation"
+  ],
+  "problem_solved": "Provides an alternative paradigm for image generation using coupled oscillators, potentially offering a fundamentally different approach to synthesizing visual content compared to mainstream diffusion or GAN-based methods.",
+  "why_valuable": "This physics-inspired approach represents a paradigm shift in image generation research, offering potential benefits in computational efficiency and model interpretability by modeling images as interference patterns of waves.",
+  "tags": [
+    "AI",
+    "Image Generation",
+    "Physics-based ML",
+    "Oscillators",
+    "Novel Architecture"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-26T11:00:53.288565+00:00",
+  "updated_at": "2026-06-26T11:06:42.455526+00:00",
+  "published_to": []
+}

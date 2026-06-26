@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-015",
+  "source": "rss",
+  "source_url": "https://scrollprize.org/firstscroll",
+  "title": "An entire Herculaneum scroll has been read for the first time",
+  "summary": "Researchers from the Vesuvius Challenge successfully read an entire ancient Herculaneum scroll for the first time using X-ray micro-CT scanning combined with deep learning models to virtually unwrap and decode Greek philosophical texts that were carbonized during the 79 AD Mount Vesuvius eruption.",
+  "tech_stack": [
+    "X-ray micro-CT scanning",
+    "Deep Learning",
+    "Python",
+    "Machine Learning",
+    "Computer Vision"
+  ],
+  "problem_solved": "Enables non-destructive reading of fragile, carbonized ancient scrolls that would crumble if physically unrolled.",
+  "why_valuable": "This breakthrough opens access to lost ancient philosophical works and demonstrates AI's potential for preserving and unlocking humanity's historical cultural heritage.",
+  "tags": [
+    "Archaeology",
+    "Artificial Intelligence",
+    "Ancient History",
+    "Cultural Heritage",
+    "Deep Learning"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-06-26T11:02:59.158614+00:00",
+  "updated_at": "2026-06-26T11:06:42.457186+00:00",
+  "published_to": []
+}

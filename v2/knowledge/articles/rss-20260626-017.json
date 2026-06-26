@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260626-017",
+  "source": "rss",
+  "source_url": "https://yllan.org/software/OS9Map/",
+  "title": "OS9Map",
+  "summary": "OS9Map is a mapping/visualization tool for OS/9, a historical real-time operating system. This project appears to be a niche utility for visualizing or exploring OS/9 filesystem structures or system architecture, created by developer Yllan.",
+  "tech_stack": [
+    "Unknown"
+  ],
+  "problem_solved": "Provides a way to visualize and understand OS/9 operating system structures that would otherwise be difficult to navigate.",
+  "why_valuable": "Preserves and makes accessible the architecture of OS/9, a lesser-known but historically significant operating system, serving both nostalgia and educational purposes.",
+  "tags": [
+    "Operating System",
+    "Visualization",
+    "Retro Computing",
+    "System Tools",
+    "OS/9"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-26T11:03:30.532248+00:00",
+  "updated_at": "2026-06-26T11:06:42.457588+00:00",
+  "published_to": []
+}

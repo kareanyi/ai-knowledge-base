@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260626-009",
+  "source": "rss",
+  "source_url": "https://calpaterson.com/bank-python.html",
+  "title": "An oral history of Bank Python (2021)",
+  "summary": "An in-depth exploration of how Python was adapted and restricted for use in banking environments, particularly examining the evolution of 'Bank Python' - a constrained version of Python used in conservative financial institutions for better stability and security.",
+  "tech_stack": [
+    "Python",
+    "Financial Technology",
+    "Banking Systems",
+    "Internal DSLs"
+  ],
+  "problem_solved": "How financial institutions adapted Python's flexibility into a more controlled, enterprise-safe language suitable for mission-critical trading and banking systems.",
+  "why_valuable": "Documents an important chapter in Python's enterprise adoption, showing how practical constraints in conservative industries shaped language usage patterns that influenced modern DevOps and security practices.",
+  "tags": [
+    "Python",
+    "Banking",
+    "FinTech",
+    "Enterprise",
+    "History"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-26T11:01:19.538334+00:00",
+  "updated_at": "2026-06-26T11:06:42.455926+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-016",
+  "source": "rss",
+  "source_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+  "title": "IBM debuts sub-1 nanometer chip technology",
+  "summary": "IBM announced a breakthrough in semiconductor technology by developing the world's first sub-1 nanometer chip technology, pushing the boundaries of transistor scaling beyond current industry limits. This advancement demonstrates continued progress in Moore's Law through innovative materials and fabrication techniques.",
+  "tech_stack": [
+    "Semiconductor fabrication",
+    "EUV lithography",
+    "Nanometer-scale transistor technology",
+    "Advanced materials science",
+    "Silicon manufacturing"
+  ],
+  "problem_solved": "Overcomes physical limitations of traditional silicon transistor scaling to enable continued performance improvements in computing hardware.",
+  "why_valuable": "Enables next-generation computing capabilities for AI, data centers, and mobile devices by achieving unprecedented transistor density and efficiency.",
+  "tags": [
+    "semiconductor",
+    "chip-design",
+    "hardware",
+    "IBM",
+    "nanotechnology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-26T11:03:10.652784+00:00",
+  "updated_at": "2026-06-26T11:06:42.457388+00:00",
+  "published_to": []
+}

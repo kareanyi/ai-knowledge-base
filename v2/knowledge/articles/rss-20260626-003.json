@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-003",
+  "source": "rss",
+  "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "summary": "A developer shared their experience after exposing their AI assistant to approximately 2,000 hackers who attempted various attacks, documenting the types of exploits and manipulation techniques they encountered. The article reveals common patterns in adversarial attempts against AI systems, including prompt injection and jailbreaking strategies.",
+  "tech_stack": [
+    "Python",
+    "LLM APIs",
+    "Web Technologies",
+    "LangChain",
+    "API Frameworks"
+  ],
+  "problem_solved": "Reveals real-world attack patterns and vulnerabilities when AI assistants are exposed to mass user testing by hackers",
+  "why_valuable": "Provides empirical data on how users attempt to compromise AI systems, helping developers understand and defend against common attack vectors",
+  "tags": [
+    "AI Security",
+    "Prompt Injection",
+    "Red Teaming",
+    "LLM Safety",
+    "Adversarial AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-26T10:59:52.024311+00:00",
+  "updated_at": "2026-06-26T11:06:42.446225+00:00",
+  "published_to": []
+}
