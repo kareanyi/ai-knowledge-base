@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260627-017",
+  "source": "rss",
+  "source_url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+  "title": "What Is a Nomogram and Why Would It Interest Me?",
+  "summary": "Nomogram (列线图) 是一种基于图形表示的数学计算工具，通过在刻度线上找到对应点并画直线来快速求解方程。PyNomo 是一个 Python 库，专门用于创建高质量的列线图，帮助用户在无需计算器的情况下进行复杂的数值计算。",
+  "tech_stack": [
+    "Python",
+    "PyNomo"
+  ],
+  "problem_solved": "提供一种直观、快速的图形化方法来进行数学计算，特别适合在没有电子设备的场景下使用。",
+  "why_valuable": "列线图在工程、医学和科学研究中仍然有价值，因为它允许即时估算答案且无需电子设备，同时 PyNomo 使创建过程自动化。",
+  "tags": [
+    "Nomogram",
+    "Data Visualization",
+    "PyNomo",
+    "Mathematical Tools",
+    "Graphical Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-27T10:21:27.184210+00:00",
+  "updated_at": "2026-06-27T10:21:55.589697+00:00",
+  "published_to": []
+}

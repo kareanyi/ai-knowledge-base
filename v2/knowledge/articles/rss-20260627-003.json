@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-003",
+  "source": "rss",
+  "source_url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+  "title": "OpenTTD 16.0-Beta1",
+  "summary": "OpenTTD 16.0-Beta1 is the latest beta release of Open Transport Tycoon Deluxe, an open source reimplementation of the classic 1994 transportation management simulation game Transport Tycoon Deluxe. This release brings updated features and improvements to the beloved tycoon simulation.",
+  "tech_stack": [
+    "C++",
+    "SDL2",
+    "CMake",
+    "Python",
+    "Lua"
+  ],
+  "problem_solved": "Provides a modern, open source version of Transport Tycoon Deluxe that runs on contemporary operating systems with enhanced features and multiplayer support.",
+  "why_valuable": "Preserves and modernizes a classic game while adding new content, multiplayer capabilities, and quality-of-life improvements for a dedicated community of fans.",
+  "tags": [
+    "OpenSource",
+    "Gaming",
+    "Simulation",
+    "RetroGaming",
+    "TransportTycoon"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-27T10:17:45.682728+00:00",
+  "updated_at": "2026-06-27T10:21:55.587425+00:00",
+  "published_to": []
+}

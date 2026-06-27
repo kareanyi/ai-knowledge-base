@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-011",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+  "title": "AI in mathematics is forcing big questions",
+  "summary": "This IEEE Spectrum article explores how AI systems are increasingly capable of mathematical reasoning and theorem proving, raising fundamental questions about the nature of mathematical truth, the role of human intuition, and what it means to 'understand' mathematics when machines can produce proofs humans cannot verify.",
+  "tech_stack": [
+    "Machine Learning",
+    "Deep Learning",
+    "Large Language Models",
+    "Automated Theorem Proving",
+    "Neural Networks"
+  ],
+  "problem_solved": "Addresses how AI is transforming mathematical research by automating proof discovery and challenging our understanding of mathematical truth and human-machine collaboration in fundamental research.",
+  "why_valuable": "It provokes deep philosophical discussions about the intersection of AI capabilities and human intellectual endeavors, particularly regarding what constitutes genuine mathematical understanding.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Automated Reasoning",
+    "Philosophy of Science",
+    "Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-27T10:19:41.865496+00:00",
+  "updated_at": "2026-06-27T10:21:55.588680+00:00",
+  "published_to": []
+}

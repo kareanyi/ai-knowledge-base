@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-005",
+  "source": "rss",
+  "source_url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+  "title": "Anatomy of a Failed (Nation-State?) Attack",
+  "summary": "A security researcher dissects and analyzes a sophisticated cyber attack that failed, examining the techniques and indicators of compromise to determine if it originated from a nation-state actor.",
+  "tech_stack": [
+    "Cybersecurity",
+    "Forensics",
+    "Malware Analysis",
+    "Network Analysis",
+    "Threat Intelligence"
+  ],
+  "problem_solved": "Understanding the anatomy of sophisticated nation-state attacks to better defend against future threats.",
+  "why_valuable": "Provides actionable threat intelligence and forensic insights that help the security community recognize and defend against advanced persistent threats.",
+  "tags": [
+    "Cybersecurity",
+    "Nation-State",
+    "Threat-Analysis",
+    "Malware",
+    "Forensics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-27T10:18:24.373519+00:00",
+  "updated_at": "2026-06-27T10:21:55.587797+00:00",
+  "published_to": []
+}

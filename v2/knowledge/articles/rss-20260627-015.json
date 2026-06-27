@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-015",
+  "source": "rss",
+  "source_url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+  "title": "U.S. government will decide who gets to use GPT-5.6",
+  "summary": "The U.S. government is implementing a vetting process to determine which users can access OpenAI's GPT-5.6 model, representing a significant shift toward government oversight of advanced AI technology. This marks one of the first instances where a national government is directly involved in controlling access to frontier AI models for security and strategic reasons.",
+  "tech_stack": [
+    "GPT-5.6",
+    "OpenAI",
+    "AI/LLM",
+    "Government security systems",
+    "Access control infrastructure"
+  ],
+  "problem_solved": "Addresses concerns about who should have access to powerful AI systems that could pose national security risks if misused.",
+  "why_valuable": "This represents a landmark moment in AI governance, showing how governments are beginning to actively regulate access to cutting-edge AI capabilities rather than leaving access decisions solely to private companies.",
+  "tags": [
+    "AI_Regulation",
+    "Government_Oversight",
+    "OpenAI",
+    "AI_Governance",
+    "National_Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-27T10:20:50.854859+00:00",
+  "updated_at": "2026-06-27T10:21:55.589366+00:00",
+  "published_to": []
+}

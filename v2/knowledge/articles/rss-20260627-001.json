@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-001",
+  "source": "rss",
+  "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+  "summary": "DeepSeek has open-sourced inference optimization techniques as part of their DeepSpec project, achieving 60-85% faster text generation compared to baseline implementations. The DSpark paper details their approach to optimizing LLM inference performance.",
+  "tech_stack": [
+    "Deep Learning",
+    "LLM Inference",
+    "Python",
+    "CUDA",
+    "DeepSeek"
+  ],
+  "problem_solved": "Reducing inference latency and computational costs for large language model generation by 60-85%",
+  "why_valuable": "Provides significant performance improvements for LLM deployment, enabling faster response times and lower infrastructure costs for AI applications",
+  "tags": [
+    "LLM",
+    "Inference Optimization",
+    "Open Source",
+    "DeepSeek",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-27T10:17:19.825983+00:00",
+  "updated_at": "2026-06-27T10:21:55.586875+00:00",
+  "published_to": []
+}

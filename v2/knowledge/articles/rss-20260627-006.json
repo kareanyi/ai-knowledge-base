@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260627-006",
+  "source": "rss",
+  "source_url": "https://popflame.quickish.space/hn-flipboard/",
+  "title": "Show HN: Hacker News on a train station-style flip board",
+  "summary": "A creative web visualization that displays Hacker News stories on an animated flip board with sound effects, inspired by vintage train station departure boards. The project was built to demonstrate and test a 'vibe host' service the author is developing, showcasing a platform where users can create, remix, and publish their own versions of web creations.",
+  "tech_stack": [
+    "HTML/CSS/JavaScript",
+    "Web Audio API",
+    "Web Animation"
+  ],
+  "problem_solved": "Provides a nostalgic, visually engaging way to browse Hacker News stories while demonstrating a remixable hosting platform.",
+  "why_valuable": "Combines retro aesthetics with modern web technology to create an entertaining news reader, while serving as proof-of-concept for a collaborative web hosting service.",
+  "tags": [
+    "Flip Board",
+    "Hacker News",
+    "Web Design",
+    "Nostalgia",
+    "Hosting Platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-27T10:18:38.890990+00:00",
+  "updated_at": "2026-06-27T10:21:55.588070+00:00",
+  "published_to": []
+}

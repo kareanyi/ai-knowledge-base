@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260627-009",
+  "source": "rss",
+  "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+  "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+  "summary": "The US government has approved Anthropic to release its powerful Mythos AI model to select 'trusted' US organizations, marking a significant development in AI governance and export control policy for advanced AI systems.",
+  "tech_stack": [
+    "Anthropic",
+    "Mythos AI",
+    "Claude models"
+  ],
+  "problem_solved": "Addresses the challenge of balancing advanced AI development with national security concerns by creating a controlled release pathway for powerful AI models.",
+  "why_valuable": "This decision sets a precedent for how governments may regulate and control access to frontier AI models, impacting the future of AI governance and international AI competition.",
+  "tags": [
+    "AI Policy",
+    "Anthropic",
+    "Government Regulation",
+    "Export Control",
+    "Frontier AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-27T10:19:13.903515+00:00",
+  "updated_at": "2026-06-27T10:21:55.588407+00:00",
+  "published_to": []
+}

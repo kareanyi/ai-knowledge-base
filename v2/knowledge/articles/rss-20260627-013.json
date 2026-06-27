@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-013",
+  "source": "rss",
+  "source_url": "https://blog.doubleword.ai/frontier-os-llm",
+  "title": "The gap between open weights LLMs and closed source LLMs",
+  "summary": "This article examines the current performance and capability gaps between open-source/open-weights LLMs (like Llama, Mistral, Falcon) and proprietary closed-source models (like GPT-4, Claude, Gemini). The author likely analyzes benchmarks, accessibility, cost, customization options, and discusses whether open models are closing the gap for frontier AI capabilities.",
+  "tech_stack": [
+    "LLMs",
+    "Python",
+    "Hugging Face",
+    "Transformers",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Helps developers and researchers understand when to choose open-source models versus closed-source alternatives for their specific use cases.",
+  "why_valuable": "Provides critical analysis for making informed decisions about AI model selection, balancing performance, cost, privacy, and customization needs.",
+  "tags": [
+    "LLMs",
+    "Open Source AI",
+    "Machine Learning",
+    "AI Strategy",
+    "Benchmarking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-27T10:20:06.664673+00:00",
+  "updated_at": "2026-06-27T10:21:55.589028+00:00",
+  "published_to": []
+}

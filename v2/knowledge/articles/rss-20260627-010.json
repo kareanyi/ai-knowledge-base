@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260627-010",
+  "source": "rss",
+  "source_url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+  "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+  "summary": "A foundational physics Q&A explaining why kinetic energy follows the quadratic relationship KE = ½mv² rather than linear scaling with velocity, typically using the work-energy theorem and integration of force over distance.",
+  "tech_stack": [
+    "Physics",
+    "Calculus",
+    "Classical Mechanics"
+  ],
+  "problem_solved": "Explains the mathematical and physical origin of the quadratic kinetic energy-velocity relationship in classical mechanics.",
+  "why_valuable": "Clarifies a fundamental concept in physics education that many students find counterintuitive, with 240 points and 115 comments indicating strong community engagement.",
+  "tags": [
+    "physics",
+    "kinetic-energy",
+    "classical-mechanics",
+    "education",
+    "work-energy-theorem"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-27T10:19:27.164701+00:00",
+  "updated_at": "2026-06-27T10:21:55.588546+00:00",
+  "published_to": []
+}

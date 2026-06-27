@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-002",
+  "source": "rss",
+  "source_url": "https://github.com/schlae/IBM_MCGA",
+  "title": "IBM MCGA Gate Array Reverse Engineering",
+  "summary": "IBM MCGA Gate Array Reverse Engineering project performs die analysis and reverse engineering of the IBM Multi-Color Graphics Array chip, documenting its internal architecture and functionality through die photography and circuit analysis.",
+  "tech_stack": [
+    "Hardware Reverse Engineering",
+    "Die Photography",
+    "Semiconductor Analysis",
+    "PC Hardware",
+    "VLSI Design"
+  ],
+  "problem_solved": "Restores and documents the undocumented internal structure of IBM's MCGA graphics chip from the late 1980s PC era.",
+  "why_valuable": "Preserves computing history and provides valuable insights into 1980s PC graphics hardware architecture for retro computing enthusiasts and chip analysis researchers.",
+  "tags": [
+    "Reverse Engineering",
+    "Hardware",
+    "IBM PC",
+    "Graphics Chip",
+    "Die Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-27T10:17:29.441325+00:00",
+  "updated_at": "2026-06-27T10:21:55.587228+00:00",
+  "published_to": []
+}

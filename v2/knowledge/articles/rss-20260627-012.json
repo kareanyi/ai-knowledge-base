@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260627-012",
+  "source": "rss",
+  "source_url": "https://github.com/Tessil/hopscotch-map",
+  "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+  "summary": "A C++ header-only library implementing fast hash map and hash set data structures using hopscotch hashing algorithm, which provides efficient O(1) average lookups with excellent cache locality through neighborhood-based collision resolution.",
+  "tech_stack": [
+    "C++",
+    "Data Structures",
+    "Algorithms",
+    "Templates"
+  ],
+  "problem_solved": "Solves the problem of achieving consistent O(1) worst-case lookup time with good cache performance in hash tables, addressing the issues of chaining overhead and poor cache locality in traditional open addressing.",
+  "why_valuable": "Provides a high-performance, cache-friendly alternative to std::unordered_map with deterministic O(1) worst-case lookups, making it ideal for real-time systems and latency-critical applications.",
+  "tags": [
+    "C++",
+    "hash-map",
+    "data-structures",
+    "performance",
+    "algorithms"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-27T10:19:53.298777+00:00",
+  "updated_at": "2026-06-27T10:21:55.588819+00:00",
+  "published_to": []
+}

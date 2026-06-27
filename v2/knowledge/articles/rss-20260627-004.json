@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260627-004",
+  "source": "rss",
+  "source_url": "https://www.sfwriter.com/wordstar.htm",
+  "title": "WordStar: A Writer's Word Processor (1996)",
+  "summary": "A nostalgic 1996 article praising WordStar, a DOS-era word processor known for its efficient keyboard-driven interface and minimalist design that many writers found superior for long-form content creation over modern GUI-based alternatives.",
+  "tech_stack": [
+    "DOS",
+    "Assembly",
+    "x86",
+    "Classic DOS Applications",
+    "SF Writer"
+  ],
+  "problem_solved": "Provides efficient, distraction-free keyboard-driven text editing for writers in the pre-GUI computing era.",
+  "why_valuable": "Documents a timeless minimalist approach to writing software that emphasizes focus and productivity, offering insights into why some writers still prefer keyboard-centric tools.",
+  "tags": [
+    "retrocomputing",
+    "writing-tools",
+    "dos",
+    "word-processing",
+    "classic-software"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-27T10:18:08.099995+00:00",
+  "updated_at": "2026-06-27T10:21:55.587614+00:00",
+  "published_to": []
+}
