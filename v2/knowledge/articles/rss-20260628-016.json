@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-016",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+  "title": "Asian AI startups launch Mythos-like models",
+  "summary": "Asian AI startups are developing homegrown AI models as alternatives to Anthropic's offerings, driven by ongoing U.S. export restrictions on advanced AI technologies. This creates a significant market opportunity for regional companies to build AI sovereignty and fill the gap left by American tech companies unable to serve these markets.",
+  "tech_stack": [
+    "AI/ML Models",
+    "Generative AI",
+    "Cloud Infrastructure",
+    "Python",
+    "Machine Learning Frameworks"
+  ],
+  "problem_solved": "Addresses the AI technology access gap in Asian markets caused by U.S. export bans on advanced AI models.",
+  "why_valuable": "Enables AI independence and accessibility for Asian markets while creating opportunities for local innovation and competition.",
+  "tags": [
+    "AI",
+    "Export Ban",
+    "Anthropic",
+    "Asian Startups",
+    "Geopolitics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-28T10:39:50.740735+00:00",
+  "updated_at": "2026-06-28T10:44:04.760436+00:00",
+  "published_to": []
+}

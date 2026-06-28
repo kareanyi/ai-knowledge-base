@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-011",
+  "source": "rss",
+  "source_url": "https://cauenapier.com/blog/townsquare_release/",
+  "title": "Turn your site into a place people can bump into each other",
+  "summary": "TownSquare is a lightweight presence layer for websites that enables visitors to see each other in real-time, creating opportunities for spontaneous interaction and community building directly on web pages.",
+  "tech_stack": [
+    "JavaScript",
+    "WebSockets",
+    "Real-time Communication",
+    "HTML/CSS",
+    "Simple SDK"
+  ],
+  "problem_solved": "It addresses the isolated nature of websites by letting visitors discover and potentially connect with others currently browsing the same site.",
+  "why_valuable": "It transforms passive browsing into a more social experience, making websites feel like shared spaces where serendipitous encounters can happen, similar to bumping into someone at a physical venue.",
+  "tags": [
+    "Real-time Presence",
+    "Social Features",
+    "Web Integration",
+    "Community Building",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-28T10:38:28.847409+00:00",
+  "updated_at": "2026-06-28T10:44:04.759821+00:00",
+  "published_to": []
+}

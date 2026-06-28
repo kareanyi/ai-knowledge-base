@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-003",
+  "source": "rss",
+  "source_url": "https://github.com/itsthelore/wayfinder-router",
+  "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+  "summary": "Wayfinder Router is an open-source tool that provides deterministic routing for queries between local (self-hosted) and hosted LLM endpoints, enabling developers to intelligently route AI requests based on predefined rules or conditions.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "REST API",
+    "LLM Integration",
+    "API Gateway"
+  ],
+  "problem_solved": "Enables cost-effective and flexible LLM usage by automatically routing queries to either local or hosted models based on deterministic rules.",
+  "why_valuable": "It provides developers with fine-grained control over LLM infrastructure, potentially reducing costs by using local models for simpler tasks while reserving hosted models for complex requests.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Routing",
+    "Infrastructure",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-28T10:36:00.361304+00:00",
+  "updated_at": "2026-06-28T10:44:04.758699+00:00",
+  "published_to": []
+}

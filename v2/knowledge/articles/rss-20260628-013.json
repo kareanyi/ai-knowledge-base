@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-013",
+  "source": "rss",
+  "source_url": "https://github.com/bikini/exploitarium",
+  "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+  "summary": "A GitHub repository hosted by an anonymous account that appears to be mass-publishing undisclosed zero-day vulnerabilities and exploits, generating significant attention in the cybersecurity community with 818 points and 320 comments on Hacker News.",
+  "tech_stack": [
+    "GitHub",
+    "Security Research",
+    "Exploit Development",
+    "Vulnerability Analysis",
+    "Python/C/C++"
+  ],
+  "problem_solved": "This repository raises ethical and legal questions about responsible vulnerability disclosure versus public exposure of undisclosed security flaws that could be weaponized by threat actors.",
+  "why_valuable": "It highlights critical debates in cybersecurity around responsible disclosure practices, the ethics of publishing 0-days, and serves as a case study for the security community to understand the implications of uncontrolled vulnerability releases.",
+  "tags": [
+    "zero-day",
+    "cybersecurity",
+    "vulnerability",
+    "exploit",
+    "responsible-disclosure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-28T10:39:00.334633+00:00",
+  "updated_at": "2026-06-28T10:44:04.760140+00:00",
+  "published_to": []
+}

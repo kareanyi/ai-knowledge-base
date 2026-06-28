@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-017",
+  "source": "rss",
+  "source_url": "https://www.openra.net/",
+  "title": "OpenRA",
+  "summary": "OpenRA is an open-source reimplementation of the classic Command & Conquer: Red Alert game engine that enables players to enjoy classic RTS games on modern operating systems with improved compatibility and cross-platform support.",
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "SDL",
+    "Mono",
+    "OpenGL"
+  ],
+  "problem_solved": "It solves the problem of running classic Command & Conquer games on modern hardware and operating systems where the original games no longer function properly.",
+  "why_valuable": "OpenRA preserves gaming history by making classic RTS games playable on modern systems while adding quality-of-life improvements like multiplayer support and modding capabilities.",
+  "tags": [
+    "open-source",
+    "gaming",
+    "retro",
+    "RTS",
+    "cross-platform"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-28T10:40:15.991716+00:00",
+  "updated_at": "2026-06-28T10:44:04.760531+00:00",
+  "published_to": []
+}

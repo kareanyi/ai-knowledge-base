@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-002",
+  "source": "rss",
+  "source_url": "https://github.com/cfenollosa/bashblog",
+  "title": "Bashblog – a single bash script to create blogs",
+  "summary": "Bashblog is a single bash script that generates and manages a static blog with no external dependencies, using plain text/Markdown files and standard Unix tools for posts, archives, and feeds.",
+  "tech_stack": [
+    "Bash",
+    "Markdown",
+    "AWK",
+    "Sed",
+    "HTML/CSS"
+  ],
+  "problem_solved": "Eliminates the complexity of setting up databases, web frameworks, or CMS systems for bloggers who want a simple, maintenance-free static blog.",
+  "why_valuable": "It requires zero dependencies beyond standard Unix tools, makes blogs version-control friendly with plain text files, and can be understood/maintained by anyone who knows basic bash scripting.",
+  "tags": [
+    "Bash",
+    "StaticBlog",
+    "Minimalist",
+    "Markdown",
+    "NoDependencies"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-28T10:35:44.553186+00:00",
+  "updated_at": "2026-06-28T10:44:04.758557+00:00",
+  "published_to": []
+}

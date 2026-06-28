@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260628-015",
+  "source": "rss",
+  "source_url": "https://danluu.com/discontinuities/",
+  "title": "Suspicious Discontinuities (2020)",
+  "summary": "Dan Luu analyzes suspicious discontinuities in various technology metrics and data patterns, exploring why certain measurements show sudden jumps or gaps that reveal interesting insights about technology trends, performance, and industry practices.",
+  "tech_stack": [
+    "Data Analysis",
+    "Statistics",
+    "Empirical Research"
+  ],
+  "problem_solved": "Reveals hidden patterns and anomalies in technology data that most people miss or ignore.",
+  "why_valuable": "Teaches readers how to critically examine data and spot meaningful discontinuities that expose underlying truths about technology systems and practices.",
+  "tags": [
+    "Data Analysis",
+    "Research",
+    "Technology Trends",
+    "Critical Thinking",
+    "Empirical Study"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-28T10:39:41.109884+00:00",
+  "updated_at": "2026-06-28T10:44:04.760346+00:00",
+  "published_to": []
+}

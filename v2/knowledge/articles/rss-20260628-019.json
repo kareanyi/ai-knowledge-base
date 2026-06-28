@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260628-019",
+  "source": "rss",
+  "source_url": "https://dervis.de/physical/",
+  "title": "The case for physical media ownership",
+  "summary": "An opinion piece arguing for the continued value of owning physical media (books, vinyl records, DVDs, etc.) in an era dominated by streaming services and digital downloads. The article discusses concerns about DRM restrictions, service discontinuation, and the permanence of physical ownership versus the ephemeral nature of digital access.",
+  "tech_stack": [
+    "HTML",
+    "Web Publishing",
+    "Hacker News"
+  ],
+  "problem_solved": "Addresses the problem of losing access to digital media when streaming services shut down or change their terms, unlike physical media which remains under permanent owner control.",
+  "why_valuable": "It provides a compelling argument for maintaining tangible ownership of media in an increasingly digital world where access can be revoked at any time by service providers.",
+  "tags": [
+    "Digital Rights",
+    "Physical Media",
+    "Streaming",
+    "Ownership",
+    "Culture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-28T10:40:56.774573+00:00",
+  "updated_at": "2026-06-28T10:44:04.760710+00:00",
+  "published_to": []
+}

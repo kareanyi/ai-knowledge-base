@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-012",
+  "source": "rss",
+  "source_url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+  "title": "Supabase (YC S20) Is Hiring for Multigres",
+  "summary": "Supabase, a Y Combinator S20 company and open-source Firebase alternative, is recruiting for a role related to 'Multigres' - likely focused on multi-database or PostgreSQL infrastructure development. The job posting appears on their Ashby ATS system.",
+  "tech_stack": [
+    "PostgreSQL",
+    "Rust",
+    "Go",
+    "TypeScript",
+    "Open-source"
+  ],
+  "problem_solved": "Hiring technical talent to expand Supabase's multi-database capabilities and PostgreSQL infrastructure.",
+  "why_valuable": "Supabase is a rapidly growing open-source backend-as-a-service platform, and this role likely focuses on expanding PostgreSQL's multi-database/multi-tenancy features.",
+  "tags": [
+    "Jobs",
+    "Hiring",
+    "PostgreSQL",
+    "Open-source",
+    "Backend"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-06-28T10:38:40.137852+00:00",
+  "updated_at": "2026-06-28T10:44:04.759989+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-007",
+  "source": "rss",
+  "source_url": "https://decomp-academy.dev",
+  "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+  "summary": "Decomp Academy is an educational platform teaching game decompilation techniques, specifically for GameCube games. The creator shares their journey from having zero experience in decompilation, C, or assembly to successfully decompiling Star Fox Adventures, addressing the significant lack of accessible learning resources in the game reverse engineering community.",
+  "tech_stack": [
+    "C",
+    "Assembly",
+    "MIPS/PowerPC",
+    "Decompilation Tools",
+    "GameCube SDK"
+  ],
+  "problem_solved": "Addresses the critical lack of structured learning resources for game decompilation, making this specialized skill more accessible to newcomers.",
+  "why_valuable": "It democratizes game decompilation knowledge by providing structured learning paths where none previously existed, helping preserve and understand classic GameCube games.",
+  "tags": [
+    "decompilation",
+    "reverse-engineering",
+    "game-hacking",
+    "C-programming",
+    "gamecube"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-28T10:37:07.497010+00:00",
+  "updated_at": "2026-06-28T10:44:04.759276+00:00",
+  "published_to": []
+}

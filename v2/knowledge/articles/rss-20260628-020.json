@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260628-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+  "title": "SAP aligns commerce data for AI personalisation",
+  "summary": "SAP正在整合企业内部的碎片化商务数据结构，以支持在执行层面实现大规模AI个性化推荐。企业领导虽然设定了个性化目标，但底层基础设施无法支持所需规模的系统执行，导致推荐引擎只能显示通用产品列表。",
+  "tech_stack": [
+    "SAP",
+    "AI Recommendation Systems",
+    "Enterprise Data Architecture",
+    "E-commerce Platform"
+  ],
+  "problem_solved": "解决企业商务数据碎片化和孤岛问题，使AI个性化能够在实际执行层大规模运行",
+  "why_valuable": "通过数据整合，企业可以在所有数字触点上提供精准的个性化体验，提升客户满意度和转化率",
+  "tags": [
+    "AI",
+    "Enterprise",
+    "Personalization",
+    "Data Integration",
+    "E-commerce"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-06-28T10:41:11.451429+00:00",
+  "updated_at": "2026-06-28T10:44:04.760801+00:00",
+  "published_to": []
+}

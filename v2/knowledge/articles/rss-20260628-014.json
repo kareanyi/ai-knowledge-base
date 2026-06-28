@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-014",
+  "source": "rss",
+  "source_url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+  "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+  "summary": "This article discusses the evolving landscape of cybersecurity in what the author terms the 'post-mythos era', challenging traditional security dogmas and advocating for a pragmatic, calm approach to modern security challenges rather than succumbing to fear-based practices or outdated beliefs.",
+  "tech_stack": [
+    "Security Analytics",
+    "Threat Detection",
+    "SIEM",
+    "Zero Trust Architecture",
+    "Security Automation"
+  ],
+  "problem_solved": "Addresses the problem of outdated cybersecurity myths and fear-driven practices that no longer effectively protect organizations in modern threat environments.",
+  "why_valuable": "Provides a refreshing perspective that cuts through cybersecurity hype and encourages practitioners to focus on practical, evidence-based security measures rather than chasing the latest trends or panicking over emerging threats.",
+  "tags": [
+    "Cybersecurity",
+    "Security Strategy",
+    "Threat Management",
+    "Zero Trust",
+    "Security Culture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-28T10:39:20.340212+00:00",
+  "updated_at": "2026-06-28T10:44:04.760250+00:00",
+  "published_to": []
+}

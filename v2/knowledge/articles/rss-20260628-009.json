@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260628-009",
+  "source": "rss",
+  "source_url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+  "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+  "summary": "WAL-RUS is ClickHouse's Rust-based rewrite of WAL-G, a popular tool for PostgreSQL backup and restore operations using Write-Ahead Logging, aiming to improve performance and reliability through Rust's memory safety features.",
+  "tech_stack": [
+    "Rust",
+    "PostgreSQL",
+    "WAL-G",
+    "ClickHouse"
+  ],
+  "problem_solved": "Provides high-performance, memory-safe PostgreSQL backup and restore capabilities using Write-Ahead Logging.",
+  "why_valuable": "Rust's performance and safety guarantees make it ideal for critical database infrastructure, reducing memory-related errors in backup operations.",
+  "tags": [
+    "PostgreSQL",
+    "Rust",
+    "Database",
+    "Backup",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-28T10:37:37.950334+00:00",
+  "updated_at": "2026-06-28T10:44:04.759565+00:00",
+  "published_to": []
+}

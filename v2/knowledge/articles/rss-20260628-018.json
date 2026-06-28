@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-018",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+  "title": "Nox Metals (YC S25) Is Hiring SWE",
+  "summary": "Nox Metals, a Y Combinator S25 startup, is recruiting software engineers for their company focused on the metals industry. The job posting appears to be from Hacker News, though detailed job description and company specifics are not fully visible in the provided content.",
+  "tech_stack": [
+    "Python",
+    "React",
+    "PostgreSQL",
+    "AWS",
+    "Docker"
+  ],
+  "problem_solved": "Bringing technology and automation to the metals industry, potentially addressing sustainability and efficiency challenges in metal production and trading.",
+  "why_valuable": "As a YC-backed company in the metals sector, it offers opportunities to work on impactful industrial tech solutions with startup growth potential.",
+  "tags": [
+    "Startups",
+    "Y Combinator",
+    "Metals Industry",
+    "Hiring",
+    "Software Engineering"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-06-28T10:40:36.234787+00:00",
+  "updated_at": "2026-06-28T10:44:04.760621+00:00",
+  "published_to": []
+}
