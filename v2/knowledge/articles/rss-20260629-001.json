@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-001",
+  "source": "rss",
+  "source_url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+  "title": "Sandia National Labs SA3000 8085 CPU",
+  "summary": "A historical article about the Sandia National Labs SA3000, a radiation-hardened variant of the Intel 8085 microprocessor designed for aerospace and defense applications in harsh environments.",
+  "tech_stack": [
+    "8085 Assembly",
+    "Radiation-Hardened Hardware",
+    "Retro Computing",
+    "Military/Aerospace Electronics",
+    "Intel 8085 Architecture"
+  ],
+  "problem_solved": "Provides documentation of specialized military-grade computing hardware that operated reliably in radiation-intensive environments like space and nuclear facilities.",
+  "why_valuable": "Preserves computing history by documenting rare radiation-hardened CPU variants developed for critical defense and space applications that are rarely covered in mainstream tech literature.",
+  "tags": [
+    "Retro Computing",
+    "Hardware History",
+    "8085 CPU",
+    "Aerospace",
+    "Military Technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-29T12:42:26.479456+00:00",
+  "updated_at": "2026-06-29T12:46:53.104219+00:00",
+  "published_to": []
+}

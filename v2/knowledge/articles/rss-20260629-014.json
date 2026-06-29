@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-014",
+  "source": "rss",
+  "source_url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+  "title": "I used Claude Code to get a second opinion on my MRI",
+  "summary": "A developer used Claude Code (with Claude Opus) to analyze their MRI scan results as a second opinion, demonstrating how AI can assist in understanding personal medical imaging. The author shared their workflow and findings on a personal blog, sparking significant discussion about AI's potential in healthcare.",
+  "tech_stack": [
+    "Claude Code",
+    "Claude Opus",
+    "AI",
+    "Medical Imaging",
+    "Python"
+  ],
+  "problem_solved": "Helps individuals better understand complex medical imaging results by using AI to interpret and explain scan findings.",
+  "why_valuable": "Demonstrates a practical real-world application of AI beyond coding—showing how LLMs can democratize access to medical understanding and provide accessible second opinions on health data.",
+  "tags": [
+    "AI",
+    "Healthcare",
+    "Medical Imaging",
+    "Claude",
+    "Personal Health"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-29T12:45:24.528460+00:00",
+  "updated_at": "2026-06-29T12:46:53.106928+00:00",
+  "published_to": []
+}

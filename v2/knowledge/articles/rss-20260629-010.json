@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260629-010",
+  "source": "rss",
+  "source_url": "https://dam.stanford.edu/memory-prices.html",
+  "title": "Historical memory prices 1960-2026",
+  "summary": "Stanford University's Digital Asset Manager hosts a comprehensive dataset tracking memory (RAM) prices from 1960 to 2026, illustrating the dramatic exponential decline in memory costs over six decades. This data demonstrates the Moore's Law-like trend where memory has become increasingly affordable, with prices per unit dropping by orders of magnitude.",
+  "tech_stack": [
+    "HTML",
+    "JavaScript",
+    "Data Visualization",
+    "Stanford DAM"
+  ],
+  "problem_solved": "Provides historical pricing data showing how memory costs have decreased exponentially over 60+ years",
+  "why_valuable": "Offers empirical evidence of technological progress and cost reduction in computing hardware, useful for research and understanding industry trends",
+  "tags": [
+    "Memory",
+    "Hardware",
+    "Pricing",
+    "Historical Data",
+    "Technology Trends"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-29T12:44:33.602452+00:00",
+  "updated_at": "2026-06-29T12:46:53.106099+00:00",
+  "published_to": []
+}

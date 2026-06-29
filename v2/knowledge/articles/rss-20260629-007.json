@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-007",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2401.07013",
+  "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+  "summary": "This paper addresses the challenge of distilling knowledge from black-box large language models where internal activations are inaccessible. The research proposes methods to train smaller student models that mimic the behavior and outputs of proprietary LLMs using only input-output interactions, enabling efficient deployments without API dependencies.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "OpenAI API",
+    "HuggingFace"
+  ],
+  "problem_solved": "Enables knowledge transfer from closed-source commercial LLMs to smaller open models when only API access is available",
+  "why_valuable": "Allows organizations to create efficient custom models that capture capabilities of frontier LLMs without ongoing API costs or rate limits",
+  "tags": [
+    "Knowledge Distillation",
+    "LLM Compression",
+    "Model Efficiency",
+    "Black-Box Models",
+    "Transfer Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-29T12:43:46.695687+00:00",
+  "updated_at": "2026-06-29T12:46:53.105493+00:00",
+  "published_to": []
+}

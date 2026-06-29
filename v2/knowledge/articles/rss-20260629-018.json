@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-018",
+  "source": "rss",
+  "source_url": "https://pudding.cool/2026/06/menu-story/",
+  "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+  "summary": "The Pudding presents an interactive data visualization exploring 5,000 historical menus from the New York Public Library's Buttolph Collection spanning 1880-1920, revealing dining trends and cultural shifts during America's Gilded Age and early Progressive Era through engaging visual storytelling.",
+  "tech_stack": [
+    "D3.js",
+    "JavaScript",
+    "HTML/CSS",
+    "Data Visualization",
+    "Historical Data"
+  ],
+  "problem_solved": "Transforms dense archival menu data into an accessible, interactive visual experience that reveals historical dining patterns.",
+  "why_valuable": "Bridges archival preservation with modern data journalism, making historical food culture discoverable and engaging for general audiences.",
+  "tags": [
+    "Data Visualization",
+    "History",
+    "Journalism",
+    "D3.js",
+    "Cultural Analysis"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-29T12:46:34.469647+00:00",
+  "updated_at": "2026-06-29T12:46:53.107837+00:00",
+  "published_to": []
+}

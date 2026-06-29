@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260629-019",
+  "source": "rss",
+  "source_url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+  "title": "The KIDS Act would require age checks to get online",
+  "summary": "The KIDS Act is proposed U.S. legislation that would mandate age verification requirements for online access, which the Electronic Frontier Foundation opposes due to concerns about privacy invasion, surveillance risks, and threats to anonymous speech and free expression online.",
+  "tech_stack": [
+    "Policy",
+    "Legislation",
+    "Internet Regulation",
+    "Age Verification Technology"
+  ],
+  "problem_solved": "Aims to prevent children from accessing age-inappropriate online content through mandatory identity verification.",
+  "why_valuable": "This represents a critical intersection of children's safety, privacy rights, and internet freedom that could set precedent for global online regulation.",
+  "tags": [
+    "Privacy",
+    "Age Verification",
+    "Online Safety",
+    "Legislation",
+    "Digital Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-29T12:46:52.147089+00:00",
+  "updated_at": "2026-06-29T12:46:53.108024+00:00",
+  "published_to": []
+}

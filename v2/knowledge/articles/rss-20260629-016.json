@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-016",
+  "source": "rss",
+  "source_url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+  "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+  "summary": "This article discusses the evolution of token optimization strategies in AI/LLM applications, arguing that traditional 'token maxing' approaches are no longer effective in the era of AI agents. The author explores new paradigms for thinking about token usage and efficiency in modern AI systems.",
+  "tech_stack": [
+    "LLM",
+    "AI Agents",
+    "Python",
+    "LangChain",
+    "APIs"
+  ],
+  "problem_solved": "Addresses the challenge of optimizing token usage and costs in AI agent architectures as the industry moves away from simple context-filling strategies.",
+  "why_valuable": "Provides practical insights for developers building AI applications on how to think about token efficiency in the age of agentic AI systems.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tokens",
+    "Agentic AI",
+    "Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-29T12:45:48.131692+00:00",
+  "updated_at": "2026-06-29T12:46:53.107373+00:00",
+  "published_to": []
+}

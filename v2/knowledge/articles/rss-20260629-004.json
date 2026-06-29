@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260629-004",
+  "source": "rss",
+  "source_url": "https://github.com/ogulcancelik/herdr",
+  "title": "Herdr: Agent multiplexer that lives in your terminal",
+  "summary": "Herdr is a terminal-based agent multiplexer that allows users to manage and coordinate multiple AI agents from a command-line interface, providing a unified workspace for running concurrent AI tasks in the terminal environment.",
+  "tech_stack": [
+    "Go",
+    "Terminal/CLI",
+    "AI Agents",
+    "LLM Integration"
+  ],
+  "problem_solved": "Provides centralized management of multiple AI agents within the terminal, eliminating the need to switch between different agent instances or tools.",
+  "why_valuable": "Enables power users and developers to efficiently orchestrate multiple AI workflows simultaneously in a familiar terminal environment, boosting productivity for AI-assisted development tasks.",
+  "tags": [
+    "AI",
+    "Agents",
+    "Terminal",
+    "CLI",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-29T12:43:01.103666+00:00",
+  "updated_at": "2026-06-29T12:46:53.104952+00:00",
+  "published_to": []
+}

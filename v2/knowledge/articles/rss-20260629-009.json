@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-009",
+  "source": "rss",
+  "source_url": "https://github.com/librepods-org/librepods",
+  "title": "Librepods: AirPods liberated",
+  "summary": "Librepods is an open-source project that enables AirPods to work seamlessly with non-Apple devices by creating compatible Bluetooth drivers and software, essentially liberating Apple's popular earbuds from their platform lock-in.",
+  "tech_stack": [
+    "C/C++",
+    "BlueZ",
+    "Python",
+    "Bluetooth Low Energy",
+    "Linux"
+  ],
+  "problem_solved": "Enables AirPods users to use their earbuds with Linux, Windows, and other non-Apple platforms without losing core functionality like auto-pairing and audio switching.",
+  "why_valuable": "It provides freedom and extended utility for AirPods owners who use multiple platforms, saving them from being forced to buy platform-specific audio devices.",
+  "tags": [
+    "Open Source",
+    "Bluetooth",
+    "AirPods",
+    "Cross-platform",
+    "Audio"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-29T12:44:18.929865+00:00",
+  "updated_at": "2026-06-29T12:46:53.105901+00:00",
+  "published_to": []
+}

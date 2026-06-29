@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-012",
+  "source": "rss",
+  "source_url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+  "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+  "summary": "这篇文章介绍了在Lemote Yeeloong笔记本电脑（使用Loongson/MIPS架构处理器）上安装和配置OpenBSD系统的技术过程，详细讨论了在小众硬件平台上克服各种兼容性挑战的方法和经验。",
+  "tech_stack": [
+    "OpenBSD",
+    "MIPS架构",
+    "Loongson处理器",
+    "Lemote Yeeloong",
+    "Unix/Linux"
+  ],
+  "problem_solved": "解决了在小众非主流硬件平台（Loongson MIPS笔记本）上运行OpenBSD系统的驱动兼容性和系统配置问题。",
+  "why_valuable": "为需要在Loongson/MIPS等非主流架构硬件上部署开源操作系统的开发者和技术爱好者提供了宝贵的实战经验和参考方案。",
+  "tags": [
+    "OpenBSD",
+    "MIPS",
+    "Loongson",
+    "Hardware",
+    "OpenSource"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-29T12:44:59.142647+00:00",
+  "updated_at": "2026-06-29T12:46:53.106530+00:00",
+  "published_to": []
+}

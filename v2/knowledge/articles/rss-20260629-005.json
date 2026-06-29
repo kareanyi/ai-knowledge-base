@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260629-005",
+  "source": "rss",
+  "source_url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+  "title": "Age verification is just a precursor to automated attribution of speech",
+  "summary": "This article explores how age verification systems are evolving beyond their initial purpose to enable automated attribution of speech, suggesting these technologies represent an escalation in privacy and surveillance capabilities. The author argues that what starts as content moderation infrastructure can be repurposed for tracking and attributing individual speech patterns at scale.",
+  "tech_stack": [
+    "AI/ML",
+    "Speech Recognition",
+    "Identity Verification",
+    "Surveillance Technology"
+  ],
+  "problem_solved": "Raises awareness about the privacy implications of converging age verification and speech attribution technologies.",
+  "why_valuable": "It highlights the slippery slope between seemingly benign verification systems and more invasive speech monitoring capabilities, prompting important ethical discussions about technology governance.",
+  "tags": [
+    "Privacy",
+    "Surveillance",
+    "AI",
+    "Speech Recognition",
+    "Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-06-29T12:43:17.055333+00:00",
+  "updated_at": "2026-06-29T12:46:53.105094+00:00",
+  "published_to": []
+}

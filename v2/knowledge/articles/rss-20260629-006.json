@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-006",
+  "source": "rss",
+  "source_url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+  "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+  "summary": "An analysis of HackerRank's decision to open source their Applicant Tracking System (ATS), where the author documents inconsistent resume scoring results (90→74→88) when testing the system, raising questions about ATS reliability and consistency in automated candidate evaluation.",
+  "tech_stack": [
+    "HackerRank",
+    "ATS",
+    "Resume Screening",
+    "Web Applications",
+    "Open Source"
+  ],
+  "problem_solved": "Making professional-grade applicant tracking technology freely available to smaller companies and organizations that cannot afford commercial ATS solutions.",
+  "why_valuable": "Sheds light on the questionable reliability of automated resume scoring systems and sparks important discussions about fairness and consistency in AI-driven hiring processes.",
+  "tags": [
+    "ATS",
+    "Open Source",
+    "Tech Hiring",
+    "Resume Screening",
+    "AI Reliability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-06-29T12:43:32.394679+00:00",
+  "updated_at": "2026-06-29T12:46:53.105266+00:00",
+  "published_to": []
+}
