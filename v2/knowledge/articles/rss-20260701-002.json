@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-002",
+  "source": "rss",
+  "source_url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+  "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+  "summary": "Pine64 has launched the PineVoice, an affordable $50 RISC-V-based smart speaker designed specifically for Home Assistant enthusiasts and DIY tinkerers, offering an open-source hardware alternative to mainstream smart speakers.",
+  "tech_stack": [
+    "RISC-V",
+    "Home Assistant",
+    "Linux",
+    "Open-source Hardware",
+    "IoT"
+  ],
+  "problem_solved": "Provides an affordable, privacy-focused smart speaker option for home automation enthusiasts who want full control over their devices without relying on Big Tech ecosystems.",
+  "why_valuable": " democratizes smart home technology with an open-source, $50 device that gives users complete control over their data and avoids vendor lock-in common with commercial smart speakers.",
+  "tags": [
+    "RISC-V",
+    "Smart Speaker",
+    "Home Assistant",
+    "Open Source Hardware",
+    "IoT"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-01T11:32:01.703439+00:00",
+  "updated_at": "2026-07-01T11:35:46.501453+00:00",
+  "published_to": []
+}

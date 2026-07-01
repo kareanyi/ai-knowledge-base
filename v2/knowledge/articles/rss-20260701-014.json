@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-014",
+  "source": "rss",
+  "source_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+  "title": "From brain waves to words: a new path to communication without surgery",
+  "summary": "Meta AI researchers developed Brain2Qwerty, a non-invasive brain-computer interface that decodes neural signals from scalp EEG to reconstruct typed text without requiring brain surgery, achieving 73% character accuracy on a 125-word vocabulary.",
+  "tech_stack": [
+    "Deep Learning",
+    "Python",
+    "EEG Signal Processing",
+    "Neural Networks",
+    "Machine Learning"
+  ],
+  "problem_solved": "Enables communication for people with speech or motor impairments through non-invasive brain-computer interface technology without surgical implants.",
+  "why_valuable": "It offers a safe, non-surgical alternative to existing BCIs, potentially making brain-computer communication accessible to a broader population while advancing our understanding of neural signal processing.",
+  "tags": [
+    "Brain-Computer Interface",
+    "Neurotechnology",
+    "Accessibility",
+    "Deep Learning",
+    "AI Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-01T11:34:31.259983+00:00",
+  "updated_at": "2026-07-01T11:35:46.515340+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-019",
+  "source": "rss",
+  "source_url": "https://gauthier-lechevalier.com/radar",
+  "title": "I built a mmWave material classification radar (2025)",
+  "summary": "A maker built a custom millimeter-wave radar system capable of classifying different materials using signal processing and machine learning techniques, demonstrating an open-source approach to mmWave sensing technology.",
+  "tech_stack": [
+    "Python",
+    "mmWave Radar",
+    "Machine Learning",
+    "Signal Processing",
+    "Embedded C"
+  ],
+  "problem_solved": "Enabling material identification and classification using affordable DIY radar hardware instead of expensive commercial solutions.",
+  "why_valuable": "Provides an accessible, open-source implementation of mmWave radar technology for researchers and hobbyists interested in material sensing applications.",
+  "tags": [
+    "mmWave",
+    "Radar",
+    "Hardware",
+    "Signal Processing",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-01T11:35:34.434756+00:00",
+  "updated_at": "2026-07-01T11:35:46.516321+00:00",
+  "published_to": []
+}

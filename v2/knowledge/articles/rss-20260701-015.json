@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-015",
+  "source": "rss",
+  "source_url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+  "title": "I ported Kubernetes to the browser",
+  "summary": "Ngrok engineer Tyler Charboneau ported k3s (lightweight Kubernetes) to run entirely in the browser using WebAssembly and JavaScript, enabling containerized workloads to execute client-side with zero server infrastructure. The project includes a live demo at webernetes-demo.ngrok.app and full source code on GitHub.",
+  "tech_stack": [
+    "Kubernetes",
+    "WebAssembly",
+    "JavaScript",
+    "k3s",
+    "Wasm"
+  ],
+  "problem_solved": "Enables running full Kubernetes clusters in the browser for demos, testing, and learning without requiring any backend server infrastructure.",
+  "why_valuable": "Allows developers to experiment with real Kubernetes locally in a browser tab, democratizing access to container orchestration for education and rapid prototyping.",
+  "tags": [
+    "Kubernetes",
+    "WebAssembly",
+    "Browser",
+    "Containers",
+    "Developer-Tools"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-01T11:34:42.516467+00:00",
+  "updated_at": "2026-07-01T11:35:46.515537+00:00",
+  "published_to": []
+}

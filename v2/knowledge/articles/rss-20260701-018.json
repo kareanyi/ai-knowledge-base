@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-018",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "title": "Claude Sonnet 5",
+  "summary": "Anthropic's Claude Sonnet 5 represents the latest iteration in their Claude model lineup, offering enhanced reasoning, coding capabilities, and improved performance across complex tasks while maintaining safety measures. The model continues Anthropic's focus on building helpful, harmless, and honest AI assistants.",
+  "tech_stack": [
+    "Claude AI",
+    "Large Language Models",
+    "Constitutional AI",
+    "Transformers",
+    "Anthropic"
+  ],
+  "problem_solved": "Provides more capable AI assistance for complex reasoning, coding, analysis, and creative tasks with improved accuracy and reliability.",
+  "why_valuable": "Delivers significant improvements in AI capability while maintaining safety alignment, making it more useful for developers and enterprises building AI-powered applications.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Claude",
+    "Anthropic",
+    "Generative AI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-01T11:35:21.083889+00:00",
+  "updated_at": "2026-07-01T11:35:46.516128+00:00",
+  "published_to": []
+}

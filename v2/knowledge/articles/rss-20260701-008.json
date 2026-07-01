@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-008",
+  "source": "rss",
+  "source_url": "https://github.com/steve-chavez/CParseC",
+  "title": "Single header Parser Combinators for C",
+  "summary": "CParseC 是一个单头文件的 C 语言解析器组合子库，提供函数式编程风格的解析器构建方式，让开发者能够通过组合简单函数来创建复杂的数据解析逻辑，无需外部依赖。",
+  "tech_stack": [
+    "C",
+    "Parser Combinators",
+    "Header-only",
+    "Functional Programming",
+    "Macros"
+  ],
+  "problem_solved": "解决了 C 语言中编写复杂解析器时代码冗长、难以组合和复用的问题。",
+  "why_valuable": "通过函数式组合子模式，开发者可以用声明式方式构建解析器，显著提升代码可读性和模块化程度，同时保持 C 语言的轻量和性能优势。",
+  "tags": [
+    "C",
+    "Parser",
+    "Combinators",
+    "Header-only",
+    "Functional"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-01T11:33:18.084955+00:00",
+  "updated_at": "2026-07-01T11:35:46.514203+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-003",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48744213",
+  "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+  "summary": "Dexter, a Y Combinator F24 batch startup based in Berlin, is actively recruiting a Founding Engineer to join their early-stage team. This is an early hiring opportunity at a newly funded startup that likely operates in the AI/tech space given the YC backing.",
+  "tech_stack": [
+    "Full-Stack",
+    "AI/ML",
+    "Cloud Infrastructure",
+    "Python",
+    "TypeScript"
+  ],
+  "problem_solved": "Providing early talent opportunity to build foundational technical systems at a new YC-backed startup from the ground up.",
+  "why_valuable": "Offers unique chance to become a founding technical member with equity upside at a Y Combinator-backed company in the growing Berlin tech ecosystem.",
+  "tags": [
+    "Hiring",
+    "Y Combinator",
+    "Startup",
+    "Berlin",
+    "Founding Engineer"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-01T11:32:16.263265+00:00",
+  "updated_at": "2026-07-01T11:35:46.501667+00:00",
+  "published_to": []
+}

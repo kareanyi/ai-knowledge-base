@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260701-011",
+  "source": "rss",
+  "source_url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+  "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+  "summary": "AnthropicAI announced that the US Department of Commerce has removed export controls on their AI models Claude Fable 5 and Mythos 5, potentially allowing wider international distribution of these advanced AI systems.",
+  "tech_stack": [
+    "Anthropic Claude",
+    "AI Models"
+  ],
+  "problem_solved": "Removes regulatory barriers preventing international access to advanced AI capabilities.",
+  "why_valuable": "Enables global developers and businesses to access state-of-the-art AI models, fostering international AI adoption and collaboration.",
+  "tags": [
+    "AI",
+    "Export Controls",
+    "Anthropic",
+    "Policy",
+    "Regulation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-01T11:33:59.993452+00:00",
+  "updated_at": "2026-07-01T11:35:46.514804+00:00",
+  "published_to": []
+}

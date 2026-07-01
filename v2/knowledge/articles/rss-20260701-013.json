@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-013",
+  "source": "rss",
+  "source_url": "https://hatari.frama.io/hatari/online/hatari.html",
+  "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+  "summary": "Hatari is an online emulator that runs Atari ST/STE/TT/Falcon systems directly in the browser, allowing users to experience classic Atari software without needing original hardware.",
+  "tech_stack": [
+    "JavaScript",
+    "WebAssembly",
+    "Emulator Technology",
+    "Assembly",
+    "HTML5"
+  ],
+  "problem_solved": "Enables users to run vintage Atari software and games without requiring original hardware or local installation.",
+  "why_valuable": "Preserves retro computing history and provides easy access to classic Atari software for preservation, education, and nostalgia purposes.",
+  "tags": [
+    "Retro Computing",
+    "Emulator",
+    "Atari",
+    "Vintage Software",
+    "Browser-based"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-01T11:34:19.187191+00:00",
+  "updated_at": "2026-07-01T11:35:46.515160+00:00",
+  "published_to": []
+}

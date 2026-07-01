@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-005",
+  "source": "rss",
+  "source_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+  "title": "Godot will no longer accept AI-authored code contributions",
+  "summary": "Godot, the popular open-source game engine, has announced it will no longer accept AI-authored code contributions, citing concerns that contributors who heavily rely on AI tools may not fully understand their code well enough to fix bugs or maintain it long-term.",
+  "tech_stack": [
+    "Godot Engine",
+    "GDScript",
+    "Open Source",
+    "Git",
+    "Game Development"
+  ],
+  "problem_solved": "Addresses the challenge of maintaining code quality and long-term maintainability in open source projects when contributors use AI generation tools they may not fully comprehend.",
+  "why_valuable": "This policy represents a significant precedent for open source governance and sparks important industry-wide discussions about AI tool usage, code ownership, and contributor accountability.",
+  "tags": [
+    "Open Source",
+    "AI Policy",
+    "Game Development",
+    "Code Governance",
+    "Community Management"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-01T11:32:38.760511+00:00",
+  "updated_at": "2026-07-01T11:35:46.513617+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-020",
+  "source": "rss",
+  "source_url": "https://claude.com/product/claude-science",
+  "title": "Claude Science",
+  "summary": "Claude Science is Anthropic's AI-powered platform designed specifically for scientific research workflows, enabling researchers to accelerate literature review, data analysis, and hypothesis generation using advanced Claude AI capabilities.",
+  "tech_stack": [
+    "Claude AI",
+    "Large Language Models",
+    "Scientific Computing",
+    "Data Analysis",
+    "Research Automation"
+  ],
+  "problem_solved": "Accelerates scientific research by automating time-consuming tasks like literature review, data interpretation, and hypothesis formation.",
+  "why_valuable": "Reduces research time significantly while maintaining scientific rigor, making AI-powered discovery accessible to researchers across disciplines.",
+  "tags": [
+    "Scientific Research",
+    "AI Assistant",
+    "Research Automation",
+    "Claude",
+    "Productivity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-01T11:35:45.282587+00:00",
+  "updated_at": "2026-07-01T11:35:46.516498+00:00",
+  "published_to": []
+}

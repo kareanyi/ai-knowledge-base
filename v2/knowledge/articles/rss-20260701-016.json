@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-016",
+  "source": "rss",
+  "source_url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+  "title": "Leanstral 1.5",
+  "summary": "Mistral AI 发布 LeanStral 1.5 模型，这是该公司推出的新一代大型语言模型，旨在提供高效能和成本效益的 AI 推理能力，代表了开源 LLM 领域的最新进展。",
+  "tech_stack": [
+    "LLM",
+    "Python",
+    "Mistral AI",
+    "Transformers",
+    "Hugging Face"
+  ],
+  "problem_solved": "提供高效能、低成本的开源语言模型选择，满足开发者对本地部署和经济实惠 AI 解决方案的需求",
+  "why_valuable": "作为开源 LLM 的重要进步，为开发者和企业提供了更具竞争力的 AI 模型选择，推动 AI 技术的普及",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Mistral AI",
+    "Machine Learning",
+    "NLP"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-01T11:34:52.533091+00:00",
+  "updated_at": "2026-07-01T11:35:46.515752+00:00",
+  "published_to": []
+}

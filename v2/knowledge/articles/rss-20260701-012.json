@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-012",
+  "source": "rss",
+  "source_url": "https://github.com/google/copybara",
+  "title": "Google copybara: moving code between repositories",
+  "summary": "Google Copybara is a declarative tool for transforming and migrating code between repositories, enabling automated large-scale code refactoring and synchronization across multiple codebases with custom transformation rules.",
+  "tech_stack": [
+    "Java",
+    "Skylark",
+    "Python",
+    "Git",
+    "Bazel"
+  ],
+  "problem_solved": "Solves the challenge of maintaining code consistency across multiple repositories during large-scale refactoring or migration, which is error-prone and time-consuming when done manually.",
+  "why_valuable": "It automates complex, multi-step code transformations at scale while enforcing validation rules, significantly reducing human error and engineering time for monorepo-to-polyrepo migrations and bulk refactoring projects.",
+  "tags": [
+    "code-migration",
+    "refactoring",
+    "google",
+    "devops",
+    "automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-01T11:34:11.292433+00:00",
+  "updated_at": "2026-07-01T11:35:46.514985+00:00",
+  "published_to": []
+}

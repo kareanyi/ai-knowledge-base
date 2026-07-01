@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-009",
+  "source": "rss",
+  "source_url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+  "title": "ArXiv's Next Chapter",
+  "summary": "This arXiv blog post announces the platform's future roadmap and strategic initiatives, likely covering infrastructure improvements, sustainability efforts, and new features to better serve the scientific research community in the age of AI. The article marks a significant milestone in arXiv's evolution as it approaches its 35th anniversary.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "Open Source",
+    "API",
+    "Machine Learning",
+    "XML/Document Processing"
+  ],
+  "problem_solved": "Addresses arXiv's need to evolve its infrastructure and services to meet growing demand, improve accessibility, and adapt to AI-era research workflows while maintaining its mission of open scientific dissemination.",
+  "why_valuable": "ArXiv serves as the primary preprint repository for global scientific research, and its evolution impacts millions of researchers across disciplines, making any strategic updates highly significant for the academic community.",
+  "tags": [
+    "Open Science",
+    "Preprints",
+    "Research Infrastructure",
+    "Academic Publishing",
+    "Digital Libraries"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-01T11:33:29.085976+00:00",
+  "updated_at": "2026-07-01T11:35:46.514410+00:00",
+  "published_to": []
+}
