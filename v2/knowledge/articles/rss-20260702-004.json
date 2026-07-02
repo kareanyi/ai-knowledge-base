@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-004",
+  "source": "rss",
+  "source_url": "https://cursor.com/evals",
+  "title": "CursorBench 3.1",
+  "summary": "CursorBench 3.1 is Cursor's internal benchmark system for evaluating AI code generation capabilities, measuring their AI assistant's performance on various coding tasks and benchmarks against other AI coding tools.",
+  "tech_stack": [
+    "AI/ML",
+    "Code Generation",
+    "LLM",
+    "Python",
+    "Benchmarking"
+  ],
+  "problem_solved": "Provides standardized metrics to objectively evaluate and compare AI coding assistant performance across different models and tasks.",
+  "why_valuable": "Enables transparent comparison of AI coding tools and helps users make informed decisions about which AI coding assistant best suits their needs.",
+  "tags": [
+    "AI Coding",
+    "Benchmarks",
+    "Cursor",
+    "Code Generation",
+    "Evaluation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-02T10:50:07.263343+00:00",
+  "updated_at": "2026-07-02T10:54:04.045863+00:00",
+  "published_to": []
+}

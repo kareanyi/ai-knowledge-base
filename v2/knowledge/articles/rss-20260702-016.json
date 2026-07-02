@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-016",
+  "source": "rss",
+  "source_url": "https://www.weaverobotics.com/isaac-1",
+  "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+  "summary": "Weave Robotics has launched Isaac 1, a $7,999 consumer home robot with planned deliveries in Fall 2026, marking a significant entry into the personal robotics market at a price point designed for mainstream adoption.",
+  "tech_stack": [
+    "Robotics Hardware",
+    "Computer Vision",
+    "AI/ML",
+    "LIDAR",
+    "Actuators"
+  ],
+  "problem_solved": "Brings advanced home robotics capabilities to consumers at a relatively accessible price point for household assistance tasks.",
+  "why_valuable": "Offers a commercially viable home robot with significant AI capabilities at $7,999, making personal robotics more accessible than previous enterprise-only solutions.",
+  "tags": [
+    "Robotics",
+    "Home Automation",
+    "AI",
+    "Consumer Electronics",
+    "Hardware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-02T10:53:18.771264+00:00",
+  "updated_at": "2026-07-02T10:54:04.053797+00:00",
+  "published_to": []
+}

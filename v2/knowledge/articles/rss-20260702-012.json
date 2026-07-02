@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-012",
+  "source": "rss",
+  "source_url": "https://zcode.z.ai/en",
+  "title": "ZCode – Harness for GLM-5.2",
+  "summary": "ZCode is a development harness and framework designed to help developers build applications with GLM-5.2, a large language model from Zhipu AI. It provides tools and infrastructure for optimizing, deploying, and effectively utilizing the model in production environments.",
+  "tech_stack": [
+    "GLM-5.2",
+    "Python",
+    "LLM Framework",
+    "AI Infrastructure",
+    "Model Optimization"
+  ],
+  "problem_solved": "Provides a structured framework for developers to harness and deploy large language models like GLM-5.2 efficiently in real-world applications.",
+  "why_valuable": "Reduces the complexity of working with large language models by providing pre-built tools and best practices, enabling faster development cycles and better model utilization.",
+  "tags": [
+    "LLM",
+    "AI Framework",
+    "GLM",
+    "Model Deployment",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-02T10:52:06.186627+00:00",
+  "updated_at": "2026-07-02T10:54:04.053080+00:00",
+  "published_to": []
+}

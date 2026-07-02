@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-011",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+  "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+  "summary": "Google is open-sourcing their Zero-Knowledge Proof (ZKP) technology to enable privacy-preserving age verification systems, allowing users to prove they meet age requirements without revealing their actual age or personal identity documents.",
+  "tech_stack": [
+    "Zero-Knowledge Proof",
+    "Cryptography",
+    "Open Source",
+    "Privacy Technology",
+    "Age Assurance"
+  ],
+  "problem_solved": "Traditional age verification requires users to submit identity documents, exposing sensitive personal data; ZKP enables proving age compliance while keeping age and identity private.",
+  "why_valuable": "This approach protects user privacy while enabling compliance with age restrictions, addressing a critical gap in digital privacy for online services requiring age verification.",
+  "tags": [
+    "Zero-Knowledge Proof",
+    "Privacy",
+    "Age Verification",
+    "Cryptography",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-02T10:51:54.289615+00:00",
+  "updated_at": "2026-07-02T10:54:04.052905+00:00",
+  "published_to": []
+}

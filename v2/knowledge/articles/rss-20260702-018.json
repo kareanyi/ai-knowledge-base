@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-018",
+  "source": "rss",
+  "source_url": "https://probelab.io/blog/optimistic-provide/",
+  "title": "How We Made IPFS Content Publishing 10x Faster",
+  "summary": "ProbeLab team describes their optimization of IPFS content publishing through an 'optimistic provide' mechanism, achieving 10x performance improvement by reducing latency in content announcement across the network.",
+  "tech_stack": [
+    "IPFS",
+    "Go",
+    "libp2p",
+    "Distributed Systems",
+    "P2P Networking"
+  ],
+  "problem_solved": "Slow content publishing and announcement process in IPFS that caused high latency when content providers announced data availability to the network.",
+  "why_valuable": "This optimization significantly improves the user experience for IPFS content publishing and makes decentralized storage more practical for real-world applications.",
+  "tags": [
+    "IPFS",
+    "Distributed Systems",
+    "Performance Optimization",
+    "P2P Networking",
+    "Protocol Labs"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-02T10:54:02.918336+00:00",
+  "updated_at": "2026-07-02T10:54:04.054143+00:00",
+  "published_to": []
+}

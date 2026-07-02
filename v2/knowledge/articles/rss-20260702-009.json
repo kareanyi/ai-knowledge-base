@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-009",
+  "source": "rss",
+  "source_url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+  "title": "Oomwoo, an open-source robot vacuum you build yourself",
+  "summary": "Oomwoo is a fully open-source robot vacuum project that DIY enthusiasts can build themselves using accessible components, 3D-printed parts, and open-source software, offering an affordable alternative to expensive commercial robot vacuums.",
+  "tech_stack": [
+    "Arduino",
+    "Python",
+    "3D Printing",
+    "ROS",
+    "Open-source Hardware"
+  ],
+  "problem_solved": "Provides an affordable, customizable alternative to expensive proprietary robot vacuums for hobbyists and makers.",
+  "why_valuable": "It democratizes robotics technology by enabling anyone to learn, customize, and build their own smart home device while saving money.",
+  "tags": [
+    "robotics",
+    "open-source",
+    "DIY",
+    "IoT",
+    "smart-home"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-02T10:51:27.948517+00:00",
+  "updated_at": "2026-07-02T10:54:04.052481+00:00",
+  "published_to": []
+}

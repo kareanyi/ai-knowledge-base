@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-007",
+  "source": "rss",
+  "source_url": "https://senior-swe-bench.snorkel.ai/",
+  "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+  "summary": "Senior SWE-Bench is an open-source benchmark that evaluates AI coding agents' capabilities at a senior software engineer level, building upon the original SWE-Bench framework with more complex and realistic software engineering tasks. The benchmark aims to provide rigorous assessment of whether AI agents can handle real-world engineering challenges beyond simple code generation.",
+  "tech_stack": [
+    "Python",
+    "SWE-Bench",
+    "AI Agents",
+    "LLM Evaluation",
+    "Open Source"
+  ],
+  "problem_solved": "Evaluates whether AI coding agents can perform at the level of senior software engineers, addressing the gap between basic code generation capabilities and real-world engineering competency.",
+  "why_valuable": "Provides a standardized, rigorous benchmark for assessing AI agent capabilities in complex software engineering scenarios, enabling better deployment decisions and highlighting areas for improvement in AI coding tools.",
+  "tags": [
+    "AI Agents",
+    "Benchmarking",
+    "Software Engineering",
+    "LLM Evaluation",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-02T10:50:55.905466+00:00",
+  "updated_at": "2026-07-02T10:54:04.046403+00:00",
+  "published_to": []
+}

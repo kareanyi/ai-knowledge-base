@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-017",
+  "source": "rss",
+  "source_url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+  "title": "What to learn to be a graphics programmer",
+  "summary": "A comprehensive guide on learning paths and essential skills needed to become a graphics programmer, covering topics from mathematics fundamentals to advanced rendering techniques and real-time graphics APIs.",
+  "tech_stack": [
+    "C++",
+    "OpenGL/Vulkan/DirectX",
+    "GLSL/HLSL",
+    "Unity/Unreal Engine",
+    "Linear Algebra"
+  ],
+  "problem_solved": "Provides a structured learning roadmap for developers wanting to enter the specialized field of graphics programming",
+  "why_valuable": "Graphics programming is a complex niche with steep learning curves; this guide offers clarity on essential topics and best practices for skill development",
+  "tags": [
+    "Graphics",
+    "Career",
+    "GameDev",
+    "Rendering",
+    "GLSL"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-02T10:53:47.531541+00:00",
+  "updated_at": "2026-07-02T10:54:04.053971+00:00",
+  "published_to": []
+}

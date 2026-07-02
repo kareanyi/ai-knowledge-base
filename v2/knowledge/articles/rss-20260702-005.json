@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-005",
+  "source": "rss",
+  "source_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+  "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+  "summary": "GitHub announced that Kimi K2.7, a large language model from Chinese AI company Moonshot AI (月之暗面), is now generally available as a model option in GitHub Copilot, giving developers access to Kimi's code generation and assistance capabilities within the Copilot ecosystem.",
+  "tech_stack": [
+    "GitHub Copilot",
+    "Kimi K2.7",
+    "LLM",
+    "AI Model Integration",
+    "Code Generation"
+  ],
+  "problem_solved": "Provides developers using GitHub Copilot with an additional AI model choice beyond the default model for code completion and assistance tasks.",
+  "why_valuable": "Expands model options for developers, potentially offering better performance for certain coding tasks or preferences, especially for users familiar with Kimi's capabilities.",
+  "tags": [
+    "AI",
+    "LLM",
+    "GitHub",
+    "Copilot",
+    "Code Generation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-02T10:50:21.271145+00:00",
+  "updated_at": "2026-07-02T10:54:04.046045+00:00",
+  "published_to": []
+}

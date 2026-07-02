@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260702-002",
+  "source": "rss",
+  "source_url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+  "title": "Google loses fight over record $4.7B EU antitrust fine",
+  "summary": "Google lost its appeal against a €4.1 billion EU antitrust fine related to Android's market dominance practices, with the European Court of Justice upholding the original penalty for using Android to illegally cement search engine dominance.",
+  "tech_stack": [
+    "Android",
+    "Google Search",
+    "Chrome",
+    "Google Play"
+  ],
+  "problem_solved": "This is a news article reporting on regulatory/legal outcomes rather than a technical solution.",
+  "why_valuable": "It provides insight into the ongoing regulatory scrutiny of big tech companies and the potential legal consequences of anticompetitive business practices.",
+  "tags": [
+    "Antitrust",
+    "EU Regulation",
+    "Big Tech",
+    "Legal",
+    "Google"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-02T10:49:39.140358+00:00",
+  "updated_at": "2026-07-02T10:54:04.045444+00:00",
+  "published_to": []
+}

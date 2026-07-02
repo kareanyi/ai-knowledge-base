@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260702-010",
+  "source": "rss",
+  "source_url": "https://underhanded-c.org/",
+  "title": "The Underhanded C Contest",
+  "summary": "The Underhanded C Contest is an annual programming competition where participants write C code that appears legitimate and passes normal review but contains hidden malicious functionality. The contest challenges programmers to create subtle, hard-to-detect vulnerabilities that look like innocent bugs.",
+  "tech_stack": [
+    "C",
+    "Security Analysis",
+    "Code Obfuscation",
+    "Cryptography"
+  ],
+  "problem_solved": "It addresses the challenge of understanding how covert vulnerabilities can be hidden in seemingly innocent code, helping security researchers improve their code auditing skills.",
+  "why_valuable": "This contest provides hands-on training in detecting subtle vulnerabilities and understanding attacker's mindset, which is crucial for writing secure code and conducting effective security reviews.",
+  "tags": [
+    "Security",
+    "C Programming",
+    "Code Audit",
+    "Vulnerability Research",
+    "CTF"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-02T10:51:42.071940+00:00",
+  "updated_at": "2026-07-02T10:54:04.052693+00:00",
+  "published_to": []
+}
