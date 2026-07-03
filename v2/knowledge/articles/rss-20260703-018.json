@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-018",
+  "source": "rss",
+  "source_url": "https://github.com/segaboy/vulkan-netbsd",
+  "title": "This is my attempt to get Vulkan going on NetBSD",
+  "summary": "A developer is attempting to implement Vulkan graphics API support on NetBSD, an open-source Unix-like operating system known for its portability across hardware platforms. This is a porting project that addresses the lack of modern GPU API support on NetBSD.",
+  "tech_stack": [
+    "Vulkan",
+    "NetBSD",
+    "C/C++",
+    "Git",
+    "CMake"
+  ],
+  "problem_solved": "Enables Vulkan graphics API support on NetBSD, which currently lacks native support for modern GPU-accelerated rendering.",
+  "why_valuable": "Expands NetBSD's graphics capabilities to support modern games and GPU-intensive applications, leveraging NetBSD's reputation for portability across diverse hardware platforms.",
+  "tags": [
+    "Vulkan",
+    "NetBSD",
+    "Graphics",
+    "Porting",
+    "OpenSource"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:48:31.300267+00:00",
+  "updated_at": "2026-07-03T10:48:57.632148+00:00",
+  "published_to": []
+}

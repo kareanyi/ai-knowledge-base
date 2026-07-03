@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260703-013",
+  "source": "rss",
+  "source_url": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
+  "title": "EFF letter to FTC on X consent order [pdf]",
+  "summary": "EFF (Electronic Frontier Foundation) and allied digital rights organizations submitted a letter to the FTC opposing X's (formerly Twitter) petition to waive a privacy violation consent order, arguing that waiving the order would undermine consumer privacy protections and set a dangerous precedent for corporate accountability.",
+  "tech_stack": [
+    "Legal/Policy Document",
+    "FTC Regulation Framework"
+  ],
+  "problem_solved": "Advocates against allowing X to escape accountability for past privacy violations that violated a 2011 consent decree.",
+  "why_valuable": "This advocacy helps maintain FTC enforcement authority over tech companies and protects consumer privacy rights by preventing corporations from easily escaping consequences of documented violations.",
+  "tags": [
+    "Privacy",
+    "Digital Rights",
+    "FTC",
+    "Corporate Accountability",
+    "Social Media"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:47:29.574943+00:00",
+  "updated_at": "2026-07-03T10:48:57.631279+00:00",
+  "published_to": []
+}

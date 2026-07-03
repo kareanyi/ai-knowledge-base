@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260703-011",
+  "source": "rss",
+  "source_url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+  "title": "Virginia bans sale of geolocation data",
+  "summary": "Virginia has enacted legislation that bans the sale of sensitive geolocation data as part of its Consumer Data Protection Act (CDPA), marking a significant expansion of consumer privacy rights in the state. The law requires explicit consent before collecting or sharing location data and imposes strict penalties for non-compliance.",
+  "tech_stack": [
+    "Legal/Regulatory"
+  ],
+  "problem_solved": "Addresses the growing concern over unauthorized collection and commercialization of consumer location data by companies.",
+  "why_valuable": "This legislation provides consumers with stronger privacy protections for their sensitive geolocation information and sets a precedent that may influence privacy legislation in other US states.",
+  "tags": [
+    "Privacy Law",
+    "Geolocation",
+    "Data Protection",
+    "Legislation",
+    "Consumer Rights"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-03T10:47:06.029979+00:00",
+  "updated_at": "2026-07-03T10:48:57.630938+00:00",
+  "published_to": []
+}

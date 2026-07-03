@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-009",
+  "source": "rss",
+  "source_url": "https://github.com/FractalFir/crustc",
+  "title": "crustc: entirety of `rustc`, translated to C",
+  "summary": "crustc 是一个将 Rust 编译器 rustc 完全翻译成 C 语言的开源项目，旨在创建一个纯 C 实现的 Rust 编译器，使 Rust 编译可以在没有 Rust 工具链的环境中运行。",
+  "tech_stack": [
+    "Rust",
+    "C",
+    "Compiler Design",
+    "LLVM",
+    "Language Translation"
+  ],
+  "problem_solved": "解决在纯 C 环境中编译 Rust 代码的问题，无需依赖 Rust 工具链本身。",
+  "why_valuable": "提供了一个独立、可嵌入的 Rust 编译器实现，大大扩展了 Rust 在嵌入式系统和 C 项目中的适用范围。",
+  "tags": [
+    "compiler",
+    "rust",
+    "c",
+    "translation",
+    "open-source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-03T10:46:29.221074+00:00",
+  "updated_at": "2026-07-03T10:48:57.630517+00:00",
+  "published_to": []
+}

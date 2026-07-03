@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-002",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+  "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+  "summary": "Alibaba has reportedly banned employees from using Claude Code, Anthropic's AI coding assistant, in the workplace due to alleged backdoor security risks, according to a source familiar with the matter. This action highlights growing concerns among major tech companies about the security implications of using AI coding tools, particularly regarding data privacy and potential intellectual property risks.",
+  "tech_stack": [
+    "Claude Code",
+    "Anthropic AI",
+    "AI Coding Tools",
+    "Enterprise Security",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Addresses enterprise security concerns about potential vulnerabilities or data exfiltration risks in third-party AI coding assistants used in corporate environments.",
+  "why_valuable": "Reveals emerging tensions between AI tool adoption and enterprise security requirements, setting precedent for how tech giants handle AI tool governance.",
+  "tags": [
+    "AI Security",
+    "Enterprise Policy",
+    "Anthropic",
+    "Alibaba",
+    "Tech Regulation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:45:01.467055+00:00",
+  "updated_at": "2026-07-03T10:48:57.622416+00:00",
+  "published_to": []
+}

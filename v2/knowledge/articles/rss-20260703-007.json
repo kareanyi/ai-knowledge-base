@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260703-007",
+  "source": "rss",
+  "source_url": "https://scottaaronson.blog/?p=9902",
+  "title": "An American Privacy Emergency",
+  "summary": "Scott Aaronson discusses what he characterizes as a privacy crisis in America, likely related to the Census Bureau's controversial decision to ban the use of noise infusion (differential privacy techniques) in published statistical products. The post attracted significant attention on Hacker News with 314 points and 95 comments.",
+  "tech_stack": [
+    "Differential Privacy",
+    "Statistical Analysis",
+    "Census Data Processing"
+  ],
+  "problem_solved": "Raises awareness about potential threats to individual privacy protections in government statistical reporting systems.",
+  "why_valuable": "Highlights the tension between data utility and privacy protection, a critical issue in an era of increasing data collection and analysis.",
+  "tags": [
+    "Privacy",
+    "Differential Privacy",
+    "Policy",
+    "Census",
+    "Data Protection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:46:03.867288+00:00",
+  "updated_at": "2026-07-03T10:48:57.623420+00:00",
+  "published_to": []
+}

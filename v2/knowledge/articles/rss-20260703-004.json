@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-004",
+  "source": "rss",
+  "source_url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+  "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+  "summary": "ManticoreSearch rebuilt their ONNX runtime integration path for embeddings, achieving a 14x performance speedup. The optimization involves efficient vector computation and inference pipeline improvements for full-text and vector hybrid search capabilities.",
+  "tech_stack": [
+    "ONNX Runtime",
+    "C++",
+    "ManticoreSearch",
+    "Vector Search",
+    "Embeddings"
+  ],
+  "problem_solved": "Accelerates embedding computation and vector similarity search in ManticoreSearch database to enable faster AI-powered search capabilities.",
+  "why_valuable": "14x performance improvement enables real-time AI search at scale while maintaining accuracy, critical for production search applications.",
+  "tags": [
+    "ONNX",
+    "Performance Optimization",
+    "Vector Search",
+    "Embeddings",
+    "Search Engine"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-03T10:45:24.624186+00:00",
+  "updated_at": "2026-07-03T10:48:57.622733+00:00",
+  "published_to": []
+}

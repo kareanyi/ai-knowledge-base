@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260703-014",
+  "source": "rss",
+  "source_url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+  "title": "The short leash AI coding method for beating Fable",
+  "summary": "A blog post describing a structured methodology called 'short leash' for effectively using AI coding assistants to complete programming tasks, specifically mentioning its application to beating/challenging the Fable project. The method likely emphasizes tight control and precise prompting when working with AI tools.",
+  "tech_stack": [
+    "AI/LLM",
+    "Prompting",
+    "Programming"
+  ],
+  "problem_solved": "Provides a systematic approach to harness AI coding assistants more effectively with better control and outcomes",
+  "why_valuable": "Offers developers a practical framework to improve AI-assisted coding productivity and accuracy",
+  "tags": [
+    "AI",
+    "Coding",
+    "Methodology",
+    "Developer-Tools",
+    "Prompting"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:47:42.141408+00:00",
+  "updated_at": "2026-07-03T10:48:57.631448+00:00",
+  "published_to": []
+}

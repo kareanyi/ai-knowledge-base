@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260703-019",
+  "source": "rss",
+  "source_url": "https://mathstodon.xyz/@iblech/116769502749142438",
+  "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+  "summary": "A critical security regression in Linux kernel 6.9 where the LUKS disk encryption suspend feature no longer properly wipes encryption keys from memory, potentially exposing encrypted data to cold boot attacks during system suspend.",
+  "tech_stack": [
+    "Linux Kernel",
+    "LUKS",
+    "dm-crypt",
+    "cryptsetup"
+  ],
+  "problem_solved": "Exposes a security regression where disk encryption keys remain in memory after system suspend, defeating the purpose of suspend-to-RAM security measures.",
+  "why_valuable": "This is a critical security vulnerability affecting all Linux systems using LUKS full-disk encryption, as the expected memory wiping during suspend no longer occurs, potentially allowing attackers with physical access to retrieve encryption keys.",
+  "tags": [
+    "Linux",
+    "Security",
+    "Encryption",
+    "Kernel",
+    "LUKS"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-03T10:48:41.482518+00:00",
+  "updated_at": "2026-07-03T10:48:57.632318+00:00",
+  "published_to": []
+}

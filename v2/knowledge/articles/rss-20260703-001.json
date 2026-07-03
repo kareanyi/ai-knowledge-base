@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260703-001",
+  "source": "rss",
+  "source_url": "https://wordgard.net/",
+  "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+  "summary": "Wordgard is a new in-browser rich-text editor created by Marijn Haverbeke, the creator of the well-established ProseMirror framework. It represents the next generation of browser-based text editing solutions, building on years of experience from ProseMirror's development.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "ProseMirror",
+    "Web Technologies"
+  ],
+  "problem_solved": "Provides a modern, well-architected solution for in-browser rich text editing that developers can integrate into web applications.",
+  "why_valuable": "The creator's proven track record with ProseMirror suggests this new editor will bring improved design and architecture to web-based text editing.",
+  "tags": [
+    "Rich-Text-Editor",
+    "JavaScript",
+    "Web-Development",
+    "ProseMirror",
+    "Browser"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:44:34.536772+00:00",
+  "updated_at": "2026-07-03T10:48:57.622151+00:00",
+  "published_to": []
+}

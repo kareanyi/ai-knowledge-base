@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-015",
+  "source": "rss",
+  "source_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+  "title": "Claude-real-video － any LLM can watch a video",
+  "summary": "Claude-real-video is an open-source project that enables Large Language Models like Claude to analyze and understand video content, effectively allowing any LLM to 'watch' videos and provide contextual insights or descriptions.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "Computer Vision",
+    "LLM APIs",
+    "Video Processing"
+  ],
+  "problem_solved": "Bridges the gap between visual/video content and text-based AI models, enabling LLMs to process and understand video information that traditionally required specialized computer vision systems.",
+  "why_valuable": " democratizes video understanding for AI applications, making it accessible to any LLM without requiring custom computer vision models or complex integration pipelines.",
+  "tags": [
+    "AI",
+    "Video Understanding",
+    "LLM",
+    "Computer Vision",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:47:51.822195+00:00",
+  "updated_at": "2026-07-03T10:48:57.631621+00:00",
+  "published_to": []
+}

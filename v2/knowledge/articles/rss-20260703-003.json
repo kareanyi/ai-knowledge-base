@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260703-003",
+  "source": "rss",
+  "source_url": "https://weli.dev/blog/half-baked-product/",
+  "title": "Half-Baked Product",
+  "summary": "This is a blog post discussing the concept of shipping 'half-baked' or partially complete products, likely exploring the philosophy of launching early rather than waiting for perfection. The article gained moderate traction on Hacker News with 104 points and 26 comments, indicating resonating themes for indie developers and startup founders.",
+  "tech_stack": [
+    "Web Development",
+    "Product Management",
+    "Startup Strategy"
+  ],
+  "problem_solved": "Addresses the common dilemma developers face between shipping early and waiting for product perfection.",
+  "why_valuable": "Challenges the perfectionist mindset common among developers and provides practical insights on iterative product development.",
+  "tags": [
+    "Product Development",
+    "Startup",
+    "Indie Hacker",
+    "Launch Strategy",
+    "MVP"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:45:13.835060+00:00",
+  "updated_at": "2026-07-03T10:48:57.622560+00:00",
+  "published_to": []
+}

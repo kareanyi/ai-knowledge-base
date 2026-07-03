@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260703-012",
+  "source": "rss",
+  "source_url": "https://growtheflowutah.org/laketracker/",
+  "title": "Great Salt Lake Tracker – Grow the Flow",
+  "summary": "Great Salt Lake Tracker 是 Grow the Flow Utah 组织开发的环境监测工具，用于实时追踪大盐湖的水位变化和生态健康状况，帮助公众了解这个面临干涸危机的湖泊现状。",
+  "tech_stack": [
+    "Web Visualization",
+    "Data Tracking",
+    "Environmental Monitoring"
+  ],
+  "problem_solved": "解决大盐湖面临干涸危机时缺乏直观、透明的水位数据追踪工具的问题。",
+  "why_valuable": "通过提供开放的水位监测数据，帮助公众和决策者了解湖泊健康状况，推动环境保护行动。",
+  "tags": [
+    "Environmental Monitoring",
+    "Water Conservation",
+    "Data Visualization",
+    "Utah",
+    "Climate"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-03T10:47:16.225068+00:00",
+  "updated_at": "2026-07-03T10:48:57.631111+00:00",
+  "published_to": []
+}

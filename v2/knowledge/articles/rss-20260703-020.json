@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-020",
+  "source": "rss",
+  "source_url": "https://apple.github.io/foundationdb/flow.html",
+  "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
+  "summary": "FoundationDB's Flow is Apple's custom actor-based concurrency framework built for C++11, designed to simplify building highly concurrent and distributed systems by providing lightweight actors that handle asynchronous operations without traditional threading complexities.",
+  "tech_stack": [
+    "C++11",
+    "Actor Model",
+    "Flow Framework",
+    "FoundationDB",
+    "Asynchronous Programming"
+  ],
+  "problem_solved": "Solves the complexity of managing traditional thread-based concurrency in high-performance distributed systems, reducing issues like deadlocks and race conditions.",
+  "why_valuable": "It enables developers to write safer, more maintainable concurrent code in C++ while achieving performance comparable to manual thread management, making distributed database development more accessible.",
+  "tags": [
+    "Concurrency",
+    "Actor Model",
+    "C++",
+    "Distributed Systems",
+    "FoundationDB"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-03T10:48:56.973278+00:00",
+  "updated_at": "2026-07-03T10:48:57.632498+00:00",
+  "published_to": []
+}

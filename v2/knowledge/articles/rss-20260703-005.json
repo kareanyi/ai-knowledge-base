@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-005",
+  "source": "rss",
+  "source_url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+  "title": "The Safari MCP server for web developers",
+  "summary": "Apple's WebKit team has released an official MCP (Model Context Protocol) server for Safari that enables AI coding assistants to directly interact with and inspect web pages rendered in the browser, providing a native bridge between AI tools and real browser behavior.",
+  "tech_stack": [
+    "Safari/WebKit",
+    "MCP Protocol",
+    "JavaScript",
+    "Web Inspector",
+    "AI Coding Assistants"
+  ],
+  "problem_solved": "Closes the gap between AI coding assistants and actual browser rendering by giving AI tools direct access to Safari's DOM and page inspection capabilities.",
+  "why_valuable": "Enables web developers to get more accurate, context-aware assistance from AI tools that can see and interact with real web pages instead of relying solely on code analysis.",
+  "tags": [
+    "Safari",
+    "MCP",
+    "WebKit",
+    "AI-Assisted Development",
+    "Browser Integration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-03T10:45:40.236198+00:00",
+  "updated_at": "2026-07-03T10:48:57.622936+00:00",
+  "published_to": []
+}

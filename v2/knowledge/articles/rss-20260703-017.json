@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-017",
+  "source": "rss",
+  "source_url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+  "title": "Postgres transactions are a distributed systems superpower",
+  "summary": "This article explores how PostgreSQL transactions can be leveraged as a powerful mechanism for building reliable distributed systems, specifically by co-locating workflow state directly with data in the database. It demonstrates how the ACID properties of Postgres can simplify complex workflow orchestration challenges that typically require elaborate distributed systems solutions.",
+  "tech_stack": [
+    "PostgreSQL",
+    "SQL/ACID Transactions",
+    "Database-backed Workflows",
+    "TypeScript",
+    "Node.js"
+  ],
+  "problem_solved": "It simplifies the complexity of building reliable distributed workflows by using database transactions as a native coordination mechanism instead of external workflow engines.",
+  "why_valuable": "It offers a pragmatic approach to distributed systems by leveraging battle-tested database transaction semantics, reducing the need for complex external coordination systems.",
+  "tags": [
+    "PostgreSQL",
+    "Distributed Systems",
+    "Database Transactions",
+    "Workflow Orchestration",
+    "Backend"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-03T10:48:19.105518+00:00",
+  "updated_at": "2026-07-03T10:48:57.631976+00:00",
+  "published_to": []
+}
