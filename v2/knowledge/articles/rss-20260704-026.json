@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-026",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+  "title": "Wimbledon adds IBM AI tools for live match coverage",
+  "summary": "Wimbledon is expanding its partnership with IBM to add AI-powered features including an upgraded Match Chat assistant and a new Key Moments feature to its digital platforms, providing enhanced live match coverage for tennis fans through the Wimbledon app and website.",
+  "tech_stack": [
+    "IBM AI",
+    "Watson",
+    "Digital Platform Integration",
+    "Mobile App",
+    "Web Platform"
+  ],
+  "problem_solved": "Provides tennis fans with AI-enhanced real-time match insights and key moment identification during live Wimbledon coverage.",
+  "why_valuable": "It brings sophisticated AI analysis to sports broadcasting, enhancing viewer engagement through automated match insights and interactive chat features.",
+  "tags": [
+    "Sports Technology",
+    "Tennis",
+    "Live Broadcasting",
+    "IBM Watson",
+    "Digital Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:24:55.828161+00:00",
+  "updated_at": "2026-07-04T10:25:37.769752+00:00",
+  "published_to": []
+}

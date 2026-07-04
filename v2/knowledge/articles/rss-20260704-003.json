@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260704-003",
+  "source": "rss",
+  "source_url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+  "title": "The bottleneck might be the air in the room",
+  "summary": "This blog post explores the correlation between indoor CO2 levels and cognitive performance, arguing that elevated carbon dioxide concentrations in poorly ventilated rooms can significantly impair decision-making abilities. The author presents research findings showing measurable cognitive decline at various CO2 levels and discusses practical implications for workspace design and productivity optimization.",
+  "tech_stack": [
+    "Blogging Platform",
+    "Research Citations",
+    "Data Visualization"
+  ],
+  "problem_solved": "Addresses the overlooked environmental factor of indoor air quality that may be limiting team productivity and decision quality in modern workspaces.",
+  "why_valuable": "Provides actionable insights backed by research that could help organizations improve cognitive performance simply by optimizing ventilation and air quality in their facilities.",
+  "tags": [
+    "Productivity",
+    "Cognitive Science",
+    "Workplace Wellness",
+    "Environmental Factors",
+    "Air Quality"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-04T10:19:24.919801+00:00",
+  "updated_at": "2026-07-04T10:25:37.761578+00:00",
+  "published_to": []
+}

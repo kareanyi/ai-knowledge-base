@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-017",
+  "source": "rss",
+  "source_url": "https://github.com/searxng/searxng",
+  "title": "SearXNG: A free internet metasearch engine",
+  "summary": "SearXNG is a free, privacy-focused open-source metasearch engine that aggregates search results from multiple providers while protecting user privacy. It's a modern fork of the SearX project with improved codebase and ongoing development.",
+  "tech_stack": [
+    "Python",
+    "Flask",
+    "Jinja2",
+    "SQLite",
+    "Redis"
+  ],
+  "problem_solved": "Provides private, unbiased internet search without user tracking while aggregating results from multiple search engines.",
+  "why_valuable": "It offers privacy protection and freedom from big tech surveillance while maintaining good search quality through result aggregation.",
+  "tags": [
+    "privacy",
+    "search-engine",
+    "open-source",
+    "metasearch",
+    "self-hosted"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-04T10:23:06.735151+00:00",
+  "updated_at": "2026-07-04T10:25:37.768654+00:00",
+  "published_to": []
+}

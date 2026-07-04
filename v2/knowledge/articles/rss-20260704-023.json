@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+  "title": "Bank of England reviews AI rules for agentic AI in finance",
+  "summary": "The Bank of England is conducting a regulatory review to determine whether existing financial rules can adequately cover agentic AI systems that operate autonomously in areas like payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden highlighted that current regulatory frameworks were not designed for AI agents capable of acting without direct human instruction.",
+  "tech_stack": [
+    "Agentic AI",
+    "Financial Technology",
+    "Regulatory AI",
+    "Autonomous Systems",
+    "Central Banking"
+  ],
+  "problem_solved": "Addresses the regulatory gap in financial oversight for autonomous AI agents that can make decisions without human intervention.",
+  "why_valuable": "This review is critical for ensuring financial system stability and consumer protection as AI agents become more prevalent in high-stakes financial operations.",
+  "tags": [
+    "AI Regulation",
+    "Agentic AI",
+    "Financial Services",
+    "Central Banking",
+    "Policy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:24:20.850506+00:00",
+  "updated_at": "2026-07-04T10:25:37.769360+00:00",
+  "published_to": []
+}

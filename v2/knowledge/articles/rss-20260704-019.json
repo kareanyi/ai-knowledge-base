@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-019",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+  "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
+  "summary": "Takeda Pharmaceuticals has signed a $600 million strategic collaboration with Hong Kong-based Insilico Medicine to leverage AI technology for early-stage drug discovery using Insilico's Pharma.AI platform.",
+  "tech_stack": [
+    "AI Drug Discovery",
+    "Pharma.AI Platform",
+    "Machine Learning",
+    "Biomarker Identification",
+    "Generative AI"
+  ],
+  "problem_solved": "Accelerating and improving the efficiency of early-stage drug discovery, which traditionally takes years and billions of dollars.",
+  "why_valuable": "This partnership demonstrates how major pharmaceutical companies are investing heavily in AI to reduce drug development costs and timelines, potentially bringing life-saving treatments to patients faster.",
+  "tags": [
+    "AI Drug Discovery",
+    "Pharmaceutical",
+    "Healthcare AI",
+    "Strategic Partnership",
+    "Biotechnology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:23:38.697262+00:00",
+  "updated_at": "2026-07-04T10:25:37.768896+00:00",
+  "published_to": []
+}

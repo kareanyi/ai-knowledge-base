@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+  "title": "Japan&#8217;s answer to its worker shortage: An AI model for 10 million robots",
+  "summary": "Japan's government has formalized a national strategy to deploy 10 million AI-powered robots across 18 industries by 2040, backed by approximately $6.1 billion in public funding over five years to address the country's severe labor shortage caused by an aging population and low birth rates.",
+  "tech_stack": [
+    "AI",
+    "Robotics",
+    "Machine Learning",
+    "Industrial Automation",
+    "National Infrastructure"
+  ],
+  "problem_solved": "Addresses Japan's critical worker shortage crisis caused by demographic decline through large-scale automation.",
+  "why_valuable": "This represents one of the world's largest national-level AI and robotics initiatives, potentially setting a precedent for other aging societies while driving innovation in humanoid and industrial automation technologies.",
+  "tags": [
+    "AI",
+    "Robotics",
+    "Japan",
+    "Industrial Automation",
+    "Aging Society"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:24:11.688347+00:00",
+  "updated_at": "2026-07-04T10:25:37.769242+00:00",
+  "published_to": []
+}

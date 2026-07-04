@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-030",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+  "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+  "summary": "Scam.ai announced a strategic partnership with Qualcomm and launched Halo, an on-device deepfake detection model designed for live video calls on desktop platforms. The announcements were made at Computex 2026 in Taipei, where Scam.ai was featured at Qualcomm's booth, indicating tight integration with Qualcomm's hardware ecosystem.",
+  "tech_stack": [
+    "On-Device AI",
+    "Deepfake Detection",
+    "Qualcomm Hardware",
+    "Real-time Video Processing",
+    "Edge Computing"
+  ],
+  "problem_solved": "Addresses the growing threat of deepfake fraud in real-time video communications by providing instant, privacy-preserving detection without cloud dependency.",
+  "why_valuable": "Enables users to detect deepfakes during live video calls directly on their devices, ensuring privacy while combating increasingly sophisticated AI-generated impersonation scams.",
+  "tags": [
+    "Deepfake Detection",
+    "Cybersecurity",
+    "On-Device AI",
+    "Partnership",
+    "Real-time Processing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:25:37.069747+00:00",
+  "updated_at": "2026-07-04T10:25:37.770242+00:00",
+  "published_to": []
+}

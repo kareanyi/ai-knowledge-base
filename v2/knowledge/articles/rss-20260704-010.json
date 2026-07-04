@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260704-010",
+  "source": "rss",
+  "source_url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+  "title": "Odin, Wikipedia and engagement farming",
+  "summary": "A blog post examining the relationship between the Odin programming language, Wikipedia content dynamics, and the phenomenon of 'engagement farming' - where content creators optimize for engagement metrics rather than substance or accuracy.",
+  "tech_stack": [
+    "Odin Programming Language",
+    "Wikipedia",
+    "Web Content"
+  ],
+  "problem_solved": "Explores how engagement-driven content creation affects technical documentation and knowledge sharing quality.",
+  "why_valuable": "Provides critical analysis of how incentive structures in content platforms shape what information gets produced and amplified.",
+  "tags": [
+    "Programming",
+    "Open Source",
+    "Content Critique",
+    "Wikipedia",
+    "Community"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-04T10:20:59.947672+00:00",
+  "updated_at": "2026-07-04T10:25:37.762273+00:00",
+  "published_to": []
+}

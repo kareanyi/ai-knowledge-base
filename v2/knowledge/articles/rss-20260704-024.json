@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-024",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+  "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+  "summary": "Anthropic has successfully relaunched Claude Sonnet 5 and restored access to its Fable and Mythos frontier AI models after completing a federal export control review, ending an 18-day operational pause that began on June 12 when a US government directive temporarily suspended their highest-capability systems.",
+  "tech_stack": [
+    "Claude Sonnet 5",
+    "Fable",
+    "Mythos",
+    "Large Language Models",
+    "AI Infrastructure"
+  ],
+  "problem_solved": "Resolves the temporary suspension of Anthropic's most advanced AI capabilities caused by US government export control regulations.",
+  "why_valuable": "Marks the completion of regulatory compliance for one of the leading AI companies, restoring access to frontier-level AI models for users and demonstrating successful navigation of government oversight frameworks.",
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Claude",
+    "Export Control",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:24:32.368809+00:00",
+  "updated_at": "2026-07-04T10:25:37.769504+00:00",
+  "published_to": []
+}

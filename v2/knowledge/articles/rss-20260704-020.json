@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+  "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+  "summary": "Anthropic's Claude Science platform integrates NVIDIA's BioNeMo Agent Toolkit to provide computational life sciences researchers with an AI-powered workbench that enables natural language interaction with digital agents for executing end-to-end scientific research workflows.",
+  "tech_stack": [
+    "NVIDIA BioNeMo",
+    "Anthropic Claude",
+    "AI Agents",
+    "Natural Language Processing",
+    "Computational Biology"
+  ],
+  "problem_solved": "Accelerates computational life sciences research by enabling scientists to use natural language to interact with AI agents for complex research workflows.",
+  "why_valuable": "Bridges the gap between AI capabilities and scientific research by providing an accessible interface for executing sophisticated computational biology workflows without requiring deep technical expertise.",
+  "tags": [
+    "AI Research",
+    "Life Sciences",
+    "BioNeMo",
+    "Claude AI",
+    "Scientific Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:23:47.973448+00:00",
+  "updated_at": "2026-07-04T10:25:37.769012+00:00",
+  "published_to": []
+}

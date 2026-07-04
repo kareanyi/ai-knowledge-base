@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-018",
+  "source": "rss",
+  "source_url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+  "title": "FreeBSD ate my RAM",
+  "summary": "A technical blog post investigating unexpected memory consumption behavior in FreeBSD, where available RAM appears to mysteriously disappear, likely related to how FreeBSD reports and uses memory for caching and buffers differently than other Unix systems.",
+  "tech_stack": [
+    "FreeBSD",
+    "Unix",
+    "Shell",
+    "System Administration",
+    "Memory Management"
+  ],
+  "problem_solved": "Explains why FreeBSD appears to consume more RAM than obvious processes account for, a common source of confusion for system administrators.",
+  "why_valuable": "Helps FreeBSD users understand accurate memory reporting, distinguishing between genuinely used memory and available memory used for caching, preventing unnecessary concern about 'missing' RAM.",
+  "tags": [
+    "FreeBSD",
+    "Memory Management",
+    "System Administration",
+    "Unix",
+    "Troubleshooting"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:23:26.648831+00:00",
+  "updated_at": "2026-07-04T10:25:37.768775+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-008",
+  "source": "rss",
+  "source_url": "https://mrbruh.com/msicenter/",
+  "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+  "summary": "A security research article demonstrating a privilege escalation vulnerability in MSI Center software that allows attackers to gain SYSTEM-level privileges on Windows systems in seconds.",
+  "tech_stack": [
+    "Windows",
+    "MSI Center",
+    "Privilege Escalation",
+    "System Exploitation",
+    "Windows API"
+  ],
+  "problem_solved": "Exposes and documents a critical privilege escalation vulnerability that bypasses standard Windows security boundaries.",
+  "why_valuable": "Critical security disclosure that helps system administrators patch systems and security researchers understand MSI software attack surfaces.",
+  "tags": [
+    "Windows",
+    "Security",
+    "Vulnerability",
+    "Privilege Escalation",
+    "Exploit"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:20:24.401988+00:00",
+  "updated_at": "2026-07-04T10:25:37.762083+00:00",
+  "published_to": []
+}

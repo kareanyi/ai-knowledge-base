@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-029",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+  "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+  "summary": "xFusion showcased scalable enterprise AI computing solutions at ISC 2026, presenting a four-tier hardware framework that spans from edge workstations to liquid-cooled data centers. The solution addresses common enterprise challenges including physical operating constraints in hardware selection and data security risks from public API dependencies.",
+  "tech_stack": [
+    "Edge Computing",
+    "Liquid Cooling",
+    "Data Center Infrastructure",
+    "AI Hardware",
+    "High-Performance Computing"
+  ],
+  "problem_solved": "Helps enterprises overcome hardware scaling challenges when deploying AI workloads across edge devices and data centers while maintaining data security.",
+  "why_valuable": "Provides a practical production-ready framework for enterprises to systematically scale AI infrastructure from edge to core, addressing both performance and security concerns.",
+  "tags": [
+    "Enterprise AI",
+    "Edge Computing",
+    "Data Center",
+    "AI Infrastructure",
+    "Hardware Scaling"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:25:27.717580+00:00",
+  "updated_at": "2026-07-04T10:25:37.770119+00:00",
+  "published_to": []
+}

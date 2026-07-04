@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-015",
+  "source": "rss",
+  "source_url": "https://epoch.ai/data-insights/cve-severity-spike",
+  "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+  "summary": "This article analyzes CVE (Common Vulnerabilities and Exposures) data showing that serious vulnerability discoveries spiked around the release of Anthropic's Claude and Meta's Mythos preview AI models, suggesting a correlation between AI coding tool availability and increased security flaw detection.",
+  "tech_stack": [
+    "CVE Database",
+    "Data Analysis",
+    "Statistical Analysis",
+    "Security Research",
+    "Python"
+  ],
+  "problem_solved": "Identifies patterns in security vulnerability discovery and potential correlation with AI tool releases, providing empirical data for discussions about AI-assisted coding security implications.",
+  "why_valuable": "Offers concrete data-driven evidence about the relationship between AI coding assistants and vulnerability discovery rates, informing discussions about responsible AI deployment in software development.",
+  "tags": [
+    "Security",
+    "AI",
+    "Vulnerabilities",
+    "CVE",
+    "Data Analysis"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-04T10:22:29.177470+00:00",
+  "updated_at": "2026-07-04T10:25:37.768383+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260704-001",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+  "title": "Astrophysicists Puzzle over Webb's New Universe",
+  "summary": "This article from Quanta Magazine discusses how astrophysicists are analyzing surprising new observations from the James Webb Space Telescope (JWST) that challenge existing models of early galaxy formation and cosmic evolution. The telescope has detected mature galaxies in the early universe that formed faster than current theories predict, leading to scientific debate and re-examination of cosmological models.",
+  "tech_stack": [
+    "JWST Observations",
+    "Infrared Astronomy",
+    "Cosmological Modeling"
+  ],
+  "problem_solved": "The James Webb Space Telescope is providing new observational data that helps scientists better understand the early universe's structure and galaxy formation timeline.",
+  "why_valuable": "This reporting on JWST findings advances our fundamental understanding of cosmic history and may require updates to the standard model of cosmology.",
+  "tags": [
+    "Astronomy",
+    "Cosmology",
+    "JWST",
+    "Astrophysics",
+    "Science"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:18:48.026588+00:00",
+  "updated_at": "2026-07-04T10:25:37.761184+00:00",
+  "published_to": []
+}

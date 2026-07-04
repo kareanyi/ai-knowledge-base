@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260704-028",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
+  "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+  "summary": "This article explores automated security testing tools essential for modern DevSecOps practices, addressing the challenge of integrating security checks into rapid development cycles where manual review cannot keep pace with continuous deployment workflows.",
+  "tech_stack": [
+    "DevSecOps",
+    "Automated Testing",
+    "CI/CD"
+  ],
+  "problem_solved": "Solves the challenge of maintaining security quality standards while keeping up with rapid code deployment cycles that outpace manual security review capabilities.",
+  "why_valuable": "Enables teams to catch security vulnerabilities early in the development pipeline before production deployment, reducing security risks and remediation costs.",
+  "tags": [
+    "Security",
+    "DevSecOps",
+    "Automation",
+    "DevOps",
+    "Testing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-04T10:25:17.538042+00:00",
+  "updated_at": "2026-07-04T10:25:37.770002+00:00",
+  "published_to": []
+}

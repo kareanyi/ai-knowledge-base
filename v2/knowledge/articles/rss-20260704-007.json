@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260704-007",
+  "source": "rss",
+  "source_url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+  "title": "Synthesis is harder than analysis",
+  "summary": "A philosophical and technical exploration of why synthesis (generating/creating) is fundamentally harder than analysis (understanding/decomposing), likely examining this asymmetry in computation, problem-solving, and cognitive domains. The article discusses why machines and humans can more easily understand existing solutions than create new ones from scratch.",
+  "tech_stack": [
+    "Blog/Content",
+    "Complexity Theory",
+    "Hacker News Distribution"
+  ],
+  "problem_solved": "Explains the fundamental asymmetry between synthesis and analysis, addressing why creation is inherently more difficult than comprehension.",
+  "why_valuable": "Provides insight into a fundamental principle of computational complexity and cognition that has implications for AI, software engineering, and scientific discovery.",
+  "tags": [
+    "Complexity Theory",
+    "Cognition",
+    "Problem Solving",
+    "Computer Science",
+    "Philosophy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-04T10:20:11.753152+00:00",
+  "updated_at": "2026-07-04T10:25:37.761983+00:00",
+  "published_to": []
+}

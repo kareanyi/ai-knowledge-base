@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-009",
+  "source": "rss",
+  "source_url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+  "title": "Soatok's Informal Guide to Threat Models",
+  "summary": "Soatok, a well-known security researcher from Dhole Labs, provides an informal yet practical guide to threat modeling, offering insights on systematic approaches to identifying and mitigating security risks in software systems.",
+  "tech_stack": [
+    "Security Engineering",
+    "Threat Modeling",
+    "Risk Assessment",
+    "Software Security",
+    "STRIDE Framework"
+  ],
+  "problem_solved": "Helps developers and security professionals systematically identify, quantify, and prioritize security threats before they can be exploited.",
+  "why_valuable": "Threat modeling is a fundamental security practice that prevents costly security breaches by proactively identifying vulnerabilities during the design phase rather than after deployment.",
+  "tags": [
+    "Security",
+    "Threat Modeling",
+    "Cybersecurity",
+    "Risk Management",
+    "Software Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-04T10:20:43.747929+00:00",
+  "updated_at": "2026-07-04T10:25:37.762181+00:00",
+  "published_to": []
+}

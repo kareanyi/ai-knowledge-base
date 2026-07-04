@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+  "title": "Deploying retail AI to scale personalisation and customer insight",
+  "summary": "This article discusses how retailers are deploying AI infrastructure to move beyond static customer interaction patterns and broad demographic segmentation toward real-time personalization systems with dynamic data pipelines capable of modifying user experiences during live sessions.",
+  "tech_stack": [
+    "AI/ML",
+    "Real-time Data Pipelines",
+    "Cloud Infrastructure",
+    "Customer Data Platforms",
+    "Analytics Systems"
+  ],
+  "problem_solved": "Solves the problem of static, demographics-based customer segmentation that fails to meet modern conversion targets in retail environments.",
+  "why_valuable": "Enables retailers to deliver personalized experiences in real-time during live sessions, significantly improving conversion rates compared to traditional static approaches.",
+  "tags": [
+    "Retail",
+    "AI",
+    "Personalization",
+    "Customer Insight",
+    "Data Pipeline"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-04T10:23:59.499865+00:00",
+  "updated_at": "2026-07-04T10:25:37.769127+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260704-016",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
+  "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
+  "summary": "Infracost, a Y Combinator Winter 2021 cohort company specializing in cloud infrastructure cost estimation, is hiring a Marketing Lead to help promote FinOps practices and 'shift FinOps left' in the software development lifecycle. The role focuses on positioning the company's cloud cost management solutions to development and DevOps teams earlier in the project lifecycle.",
+  "tech_stack": [
+    "Terraform",
+    "Cloud Infrastructure",
+    "DevOps",
+    "FinOps"
+  ],
+  "problem_solved": "Addresses the challenge of helping organizations reduce cloud infrastructure costs by promoting financial operations awareness earlier in the development process.",
+  "why_valuable": "As companies seek to optimize cloud spending amid economic pressures, Infracost enables teams to estimate infrastructure costs before deployment, reducing unexpected expenses and improving budget predictability.",
+  "tags": [
+    "FinOps",
+    "Cloud Cost",
+    "Marketing",
+    "DevOps",
+    "Hiring"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-07-04T10:22:41.200339+00:00",
+  "updated_at": "2026-07-04T10:25:37.768527+00:00",
+  "published_to": []
+}

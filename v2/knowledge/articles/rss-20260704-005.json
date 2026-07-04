@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-005",
+  "source": "rss",
+  "source_url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+  "title": "Agentic coding notes from Galapagos Island",
+  "summary": "Dan Luu shares practical notes and experiences using agentic AI coding workflows, detailing his observations on how AI agents iteratively work through coding tasks and the implications for developer productivity.",
+  "tech_stack": [
+    "LLM",
+    "AI Agents",
+    "CLI Tools",
+    "Git",
+    "Code Editors"
+  ],
+  "problem_solved": "Provides real-world insights into effective patterns and pitfalls when using AI coding agents in development workflows.",
+  "why_valuable": "Delivers hands-on experience from a seasoned engineer, offering actionable guidance on leveraging agentic AI tools without over-hyping their capabilities.",
+  "tags": [
+    "AI",
+    "Agentic",
+    "Coding",
+    "Productivity",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-04T10:19:46.407522+00:00",
+  "updated_at": "2026-07-04T10:25:37.761788+00:00",
+  "published_to": []
+}

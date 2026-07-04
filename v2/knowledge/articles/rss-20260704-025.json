@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260704-025",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+  "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+  "summary": "HP has scaled its OpenAI Frontier integration across global operations to optimize enterprise workflows, with early pilot programs demonstrating verified gains in software engineering and cybersecurity remediation since testing began in February 2026.",
+  "tech_stack": [
+    "OpenAI Frontier",
+    "Enterprise Software",
+    "AI/ML Platform"
+  ],
+  "problem_solved": "Accelerates enterprise workflow output and optimizes operational efficiency at scale across global operations.",
+  "why_valuable": "Demonstrates real-world enterprise-scale AI deployment with measurable operational improvements, serving as a benchmark for large-scale AI adoption in traditional enterprises.",
+  "tags": [
+    "Enterprise AI",
+    "Workflow Automation",
+    "OpenAI",
+    "Digital Transformation",
+    "Operational Efficiency"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-04T10:24:43.054479+00:00",
+  "updated_at": "2026-07-04T10:25:37.769633+00:00",
+  "published_to": []
+}
