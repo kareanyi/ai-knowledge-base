@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-018",
+  "source": "rss",
+  "source_url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+  "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+  "summary": "Scientists at the Marine Biological Laboratory (MBL) are studying jellyfish wound healing mechanisms, which can close wounds in minutes, to understand and potentially replicate this ability for human medical applications. The research focuses on how jellyfish cells can rapidly migrate and seal injuries without scarring.",
+  "tech_stack": [
+    "Biology",
+    "Biomimicry",
+    "Marine Science",
+    "Medical Research",
+    "Cellular Biology"
+  ],
+  "problem_solved": "Chronic wounds and slow healing processes in humans that lead to complications, infections, and high medical costs.",
+  "why_valuable": "Understanding jellyfish rapid wound healing could lead to breakthrough treatments for human wounds, burns, and surgical recovery with minimal scarring.",
+  "tags": [
+    "Biomimicry",
+    "Wound Healing",
+    "Marine Biology",
+    "Medical Research",
+    "Regenerative Medicine"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-05T10:27:28.234541+00:00",
+  "updated_at": "2026-07-05T10:30:10.193043+00:00",
+  "published_to": []
+}

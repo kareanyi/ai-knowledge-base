@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-010",
+  "source": "rss",
+  "source_url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+  "title": "Moby Dick Workout (2022)",
+  "summary": "A productivity technique or tool developed by Hog Bay Software in 2022, likely related to time-boxing or focused work sessions for software developers. The 'Moby Dick' reference suggests tackling large, daunting tasks through structured intervals.",
+  "tech_stack": [
+    "Plain Text",
+    "Task Management",
+    "Productivity System"
+  ],
+  "problem_solved": "Helps developers maintain focus and productivity when working on large, complex projects that feel overwhelming.",
+  "why_valuable": "Provides a structured approach to managing demanding work sessions, potentially improving developer productivity and task completion rates.",
+  "tags": [
+    "Productivity",
+    "Time Management",
+    "Developer Tools",
+    "Focus",
+    "Workout"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-05T10:25:38.697826+00:00",
+  "updated_at": "2026-07-05T10:30:10.184476+00:00",
+  "published_to": []
+}

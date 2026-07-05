@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-019",
+  "source": "rss",
+  "source_url": "https://github.com/openai/codex/issues/30364",
+  "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+  "summary": "这是一个GitHub issue，讨论OpenAI Codex中GPT-5.5的reasoning-token clustering（推理令牌聚类）机制可能导致AI代码辅助功能性能下降的技术问题，引发了社区广泛关注（273票，104条评论）。",
+  "tech_stack": [
+    "OpenAI GPT-5.5",
+    "Codex",
+    "LLM",
+    "Reasoning Tokens",
+    "Token Clustering"
+  ],
+  "problem_solved": "报告并讨论了OpenAI Codex中推理令牌聚类可能导致的AI编程辅助性能退化问题",
+  "why_valuable": "揭示了大型语言模型在代码生成应用中可能存在的技术缺陷，为AI编程工具的优化提供了重要的社区反馈和讨论基础",
+  "tags": [
+    "AI",
+    "LLM",
+    "OpenAI",
+    "Codex",
+    "Code Generation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-05T10:27:39.687076+00:00",
+  "updated_at": "2026-07-05T10:30:10.193223+00:00",
+  "published_to": []
+}

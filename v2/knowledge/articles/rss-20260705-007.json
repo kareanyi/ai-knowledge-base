@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-007",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+  "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+  "summary": "Simon Willison released sqlite-utils 4.0rc2, a Python library for manipulating SQLite databases, with approximately 80% of the code written by Claude Fable (an AI coding assistant) at a cost of about $149.25, demonstrating the practical viability of AI-assisted software development for real-world projects.",
+  "tech_stack": [
+    "Python",
+    "SQLite",
+    "Claude Fable",
+    "sqlite-utils",
+    "CLI Tools"
+  ],
+  "problem_solved": "Demonstrates the practical cost and workflow of using AI coding assistants to develop production-quality open source software.",
+  "why_valuable": "Provides a concrete case study with actual costs showing how AI tools can meaningfully contribute to real software development, not just simple tasks.",
+  "tags": [
+    "AI-assisted-development",
+    "Python",
+    "Open-Source",
+    "Claude",
+    "Developer-Workflow"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-05T10:24:58.357990+00:00",
+  "updated_at": "2026-07-05T10:30:10.183912+00:00",
+  "published_to": []
+}

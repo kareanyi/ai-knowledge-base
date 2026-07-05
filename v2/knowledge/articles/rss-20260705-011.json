@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-011",
+  "source": "rss",
+  "source_url": "https://www.animmouse.com/p/my-asn-journey/",
+  "title": "My ASN Journey series (2024)",
+  "summary": "A personal blog series documenting the author's journey of obtaining and managing their own Autonomous System Number (ASN) for personal network infrastructure projects. The series likely covers practical steps, challenges, and learnings from acquiring an ASN through RIPE or similar regional internet registries.",
+  "tech_stack": [
+    "BGP",
+    "Networking",
+    "ASN",
+    "RIPE",
+    "Routing"
+  ],
+  "problem_solved": "Guides readers through the process of acquiring and operating a personal ASN for network autonomy and learning purposes.",
+  "why_valuable": "Provides rare, hands-on documentation of a complex but increasingly accessible networking topic that empowers individuals to control their own internet routing infrastructure.",
+  "tags": [
+    "BGP",
+    "Networking",
+    "ASN",
+    "Self-hosting",
+    "Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-05T10:25:49.458553+00:00",
+  "updated_at": "2026-07-05T10:30:10.191789+00:00",
+  "published_to": []
+}

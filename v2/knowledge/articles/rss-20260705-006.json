@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-006",
+  "source": "rss",
+  "source_url": "https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+  "title": "Is The Economist Always Wrong?",
+  "summary": "An article examining whether The Economist publication's predictions and analyses are consistently incorrect, posted on Hacker News where it received moderate engagement with 40 points and 33 comments.",
+  "tech_stack": [
+    "Web",
+    "Journalism",
+    "Data Analysis"
+  ],
+  "problem_solved": "Evaluates the accuracy and reliability of economic journalism and predictive forecasting.",
+  "why_valuable": "Provides critical analysis of economic media credibility and the value of self-reflective journalism in the economics field.",
+  "tags": [
+    "Economics",
+    "Journalism",
+    "Forecasting",
+    "Media Criticism",
+    "Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-05T10:24:42.785685+00:00",
+  "updated_at": "2026-07-05T10:30:10.183762+00:00",
+  "published_to": []
+}

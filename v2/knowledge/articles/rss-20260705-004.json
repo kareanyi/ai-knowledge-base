@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-004",
+  "source": "rss",
+  "source_url": "https://craigmod.com/essays/fast_software/",
+  "title": "Fast Software, the Best Software",
+  "summary": "Craig Mod's essay exploring the fundamental importance of software speed and responsiveness, arguing that fast software is inherently better software and examining why modern applications have become increasingly bloated despite advancing hardware capabilities.",
+  "tech_stack": [
+    "HTML",
+    "Static Web",
+    "CSS"
+  ],
+  "problem_solved": "Addresses the problem of software bloat and declining performance in modern applications, advocating for a return to prioritizing speed and responsiveness.",
+  "why_valuable": "Offers a thoughtful perspective on the relationship between software performance and user experience, challenging developers to reconsider what makes software truly excellent.",
+  "tags": [
+    "Software",
+    "Performance",
+    "UX",
+    "Design",
+    "Essays"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-05T10:24:03.711106+00:00",
+  "updated_at": "2026-07-05T10:30:10.183448+00:00",
+  "published_to": []
+}

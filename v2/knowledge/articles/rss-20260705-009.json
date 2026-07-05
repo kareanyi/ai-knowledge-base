@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-009",
+  "source": "rss",
+  "source_url": "https://ui.shadcn.com/docs/changelog",
+  "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+  "summary": "Shadcn/UI 官方宣布其组件库底层从 Radix UI 切换为 Base UI，这是一个重大架构变更。Base UI 是 Radix UI 团队打造的新一代无头组件库，提供了更现代的架构和更好的样式定制能力。",
+  "tech_stack": [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Base UI",
+    "Radix UI"
+  ],
+  "problem_solved": "解决了 Radix UI 在样式定制灵活性和现代架构方面的局限性，为开发者提供更强大的UI组件构建能力。",
+  "why_valuable": "这次切换代表了 React 生态系统中无头组件库的重大演进，Base UI 的新架构将帮助开发者更高效地构建可定制化的高端UI组件。",
+  "tags": [
+    "React",
+    "UI Components",
+    "Base UI",
+    "Radix UI",
+    "Frontend"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-05T10:25:28.114787+00:00",
+  "updated_at": "2026-07-05T10:30:10.184299+00:00",
+  "published_to": []
+}

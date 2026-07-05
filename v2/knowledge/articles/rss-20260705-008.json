@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-008",
+  "source": "rss",
+  "source_url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+  "title": "Megawatts by Microwave",
+  "summary": "This article from computer.rip explores the use of microwave technology for power generation or transmission, likely covering historical developments in wireless power transmission or microwave-based energy systems.",
+  "tech_stack": [
+    "Microwave Technology",
+    "Power Transmission",
+    "Wireless Power"
+  ],
+  "problem_solved": "Explores how microwave technology can be harnessed for large-scale power generation or transmission.",
+  "why_valuable": "Provides historical or technical insight into alternative power transmission methods that could contribute to future energy infrastructure.",
+  "tags": [
+    "Energy",
+    "Microwave",
+    "Power Transmission",
+    "Wireless Technology",
+    "Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-05T10:25:14.747414+00:00",
+  "updated_at": "2026-07-05T10:30:10.184075+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-017",
+  "source": "rss",
+  "source_url": "https://www.cggonzalez.com/blog/index.html",
+  "title": "Drone Autonomy Crash Course",
+  "summary": "A crash course tutorial on building autonomous drone systems, likely covering topics like flight control, navigation, computer vision, and sensor integration for self-piloting drones.",
+  "tech_stack": [
+    "Python",
+    "ROS",
+    "Computer Vision",
+    "Embedded Systems",
+    "Drone SDK"
+  ],
+  "problem_solved": "Teaches developers and hobbyists how to build autonomous drone capabilities from scratch.",
+  "why_valuable": "Provides a structured learning path for implementing drone autonomy, an increasingly important skill in robotics and autonomous systems development.",
+  "tags": [
+    "Drone",
+    "Robotics",
+    "Autonomous",
+    "Computer Vision",
+    "ROS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-05T10:27:17.822320+00:00",
+  "updated_at": "2026-07-05T10:30:10.192880+00:00",
+  "published_to": []
+}

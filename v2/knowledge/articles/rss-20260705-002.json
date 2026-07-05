@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-002",
+  "source": "rss",
+  "source_url": "https://www.devever.net/~hl/webcrypto",
+  "title": "Web-based cryptography is always snake oil",
+  "summary": "This article argues that web-based cryptography implemented in JavaScript is fundamentally insecure and unreliable. The core issue is that any server-side attacker can modify the JavaScript code before it reaches the browser, completely undermining the cryptographic protection. The author explains why browser-based cryptography cannot provide true security guarantees, as the execution environment itself is controlled by potentially malicious code.",
+  "tech_stack": [
+    "JavaScript",
+    "WebCrypto API",
+    "TLS/SSL",
+    "Browser Security Model",
+    "WebAssembly"
+  ],
+  "problem_solved": "Explains why browser-based cryptography is inherently flawed and cannot replace server-side cryptographic operations.",
+  "why_valuable": "Raises critical security awareness about the fundamental trust problem in client-side cryptographic implementations, helping developers avoid dangerous misconceptions.",
+  "tags": [
+    "Cryptography",
+    "Web Security",
+    "JavaScript",
+    "Browser Security",
+    "Infosec"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-05T10:23:31.422859+00:00",
+  "updated_at": "2026-07-05T10:30:10.183053+00:00",
+  "published_to": []
+}

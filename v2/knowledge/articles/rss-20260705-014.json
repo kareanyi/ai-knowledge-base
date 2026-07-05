@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-014",
+  "source": "rss",
+  "source_url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+  "title": "If you're a button, you have one job",
+  "summary": "An article exploring the fundamental design principle that buttons should have a single, clear purpose in user interfaces. The piece discusses how clear button design improves user experience by reducing cognitive load and preventing user confusion about what actions will occur.",
+  "tech_stack": [
+    "HTML/CSS",
+    "UI Design",
+    "UX Design"
+  ],
+  "problem_solved": "Addresses the common UI design problem of buttons with ambiguous or multiple purposes that confuse users.",
+  "why_valuable": "Provides actionable design guidance that can improve interface clarity and user satisfaction across web and application development projects.",
+  "tags": [
+    "UI Design",
+    "UX",
+    "Web Design",
+    "Usability",
+    "Button Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-05T10:26:36.105355+00:00",
+  "updated_at": "2026-07-05T10:30:10.192384+00:00",
+  "published_to": []
+}

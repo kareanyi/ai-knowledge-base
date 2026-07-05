@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260705-020",
+  "source": "rss",
+  "source_url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+  "title": "Better Models: Worse Tools",
+  "summary": "Armin Ronacher explores the paradox that while AI models continue to improve in capability, the tools and developer experience built around them often degrade or remain frustratingly poor. The article examines the disconnect between raw model performance and practical tooling usability.",
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "CLI Tools",
+    "APIs"
+  ],
+  "problem_solved": "Addresses the frustration that better AI models don't automatically translate into better developer tools or workflows.",
+  "why_valuable": "Provides critical perspective on the gap between AI model advancement and tool quality, helping developers set realistic expectations and focus on practical solutions.",
+  "tags": [
+    "AI",
+    "Developer-Tools",
+    "LLM",
+    "Engineering",
+    "Opinion"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-05T10:27:50.513513+00:00",
+  "updated_at": "2026-07-05T10:30:10.193407+00:00",
+  "published_to": []
+}
