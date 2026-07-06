@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260706-018",
+  "source": "rss",
+  "source_url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+  "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+  "summary": "A Delta Airlines flight was struck by a firework while landing at Chicago Midway Airport on Independence Day (July 4th), highlighting aviation safety concerns during holiday celebrations with fireworks.",
+  "tech_stack": [
+    "News Reporting",
+    "Aviation",
+    "Media"
+  ],
+  "problem_solved": "This is a news incident report, not a technical solution - it documents an aviation safety event rather than solving a problem.",
+  "why_valuable": "Reports on a rare aviation safety incident that could inform future security measures around airports during fireworks-heavy holidays.",
+  "tags": [
+    "Aviation",
+    "Safety",
+    "News",
+    "Incident",
+    "Airports"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-06T12:16:29.219252+00:00",
+  "updated_at": "2026-07-06T12:19:23.882022+00:00",
+  "published_to": []
+}

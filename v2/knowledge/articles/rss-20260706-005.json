@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-005",
+  "source": "rss",
+  "source_url": "https://earth.tattoo",
+  "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+  "summary": "Earth.tattoo is a collaborative art platform that divides the entire Earth into 510 million 16x16 pixel tiles displayed on a live, interactive 3D globe, allowing users to claim and paint tiles with one free tile per hour.",
+  "tech_stack": [
+    "WebGL",
+    "Three.js",
+    "WebRTC",
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "problem_solved": "Provides a global canvas for collaborative digital art where anyone can permanently claim and decorate a piece of virtual Earth.",
+  "why_valuable": "It democratizes digital art ownership by creating a unique, finite, and shared digital space where people's contributions form a living, evolving artwork visible from space.",
+  "tags": [
+    "collaborative-art",
+    "interactive-globe",
+    "webgl",
+    "NFT-adjacent",
+    "community-platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-06T12:13:30.653124+00:00",
+  "updated_at": "2026-07-06T12:19:23.873873+00:00",
+  "published_to": []
+}

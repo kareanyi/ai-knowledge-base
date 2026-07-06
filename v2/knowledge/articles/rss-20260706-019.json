@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-019",
+  "source": "rss",
+  "source_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+  "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+  "summary": "这是一篇关于新型AI导师系统的实证研究论文，在达特茅斯大学的课程中进行实验测量，报告了0.71-1.30标准差的显著学习效果提升，表明AI辅导工具在高等教育中具有实质性的教学价值。",
+  "tech_stack": [
+    "AI/LLM",
+    "教育技术",
+    "Python",
+    "数据分析",
+    "统计学习"
+  ],
+  "problem_solved": "解决传统教学中个性化辅导资源不足、学生学习效果提升有限的问题。",
+  "why_valuable": "提供了AI导师在真实大学课程环境中有效性的强有力实证证据，0.71-1.30 SD的效果量在教育研究领域属于大效应，表明AI辅导可显著提升学生学习成果。",
+  "tags": [
+    "AI-Tutor",
+    "EdTech",
+    "Higher-Education",
+    "Machine-Learning",
+    "Personalized-Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-06T12:16:42.871538+00:00",
+  "updated_at": "2026-07-06T12:19:23.882224+00:00",
+  "published_to": []
+}

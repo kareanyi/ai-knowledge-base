@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-008",
+  "source": "rss",
+  "source_url": "https://kyrall.com/",
+  "title": "Generate parametric, manufacturable 3D models in seconds",
+  "summary": "Kyra AI is a platform that generates parametric, manufacturable 3D models in seconds using artificial intelligence. It allows users to create production-ready designs quickly without requiring extensive CAD expertise.",
+  "tech_stack": [
+    "AI/ML",
+    "3D Modeling",
+    "Parametric Design",
+    "CAD",
+    "Manufacturing"
+  ],
+  "problem_solved": "It solves the time-consuming and complex process of creating manufacturable 3D models by automating parametric design generation.",
+  "why_valuable": "Dramatically accelerates product design workflows and democratizes access to manufacturing-ready 3D models for non-experts.",
+  "tags": [
+    "AI",
+    "3D-Modeling",
+    "Manufacturing",
+    "Parametric-Design",
+    "CAD"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-06T12:14:05.902551+00:00",
+  "updated_at": "2026-07-06T12:19:23.874331+00:00",
+  "published_to": []
+}

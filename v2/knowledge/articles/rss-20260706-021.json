@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260706-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+  "title": "China&#8217;s AI companion rules: what Beijing is really going after",
+  "summary": "This article examines China's new regulatory framework for AI companion technologies, exploring what specific aspects Beijing is targeting with these rules. It discusses the nature of AI companions as conversational agents designed for sustained personal relationships, with memory and consistent personas, and analyzes the implications for the broader generative AI landscape.",
+  "tech_stack": [
+    "Generative AI",
+    "Conversational AI",
+    "AI Chatbots"
+  ],
+  "problem_solved": "Provides analysis of China's regulatory approach to AI companions, addressing concerns about the societal and ethical implications of persistent AI relationships.",
+  "why_valuable": "Offers insight into how major economies like China are shaping AI governance, which could influence global standards for AI companion development and deployment.",
+  "tags": [
+    "AI Regulation",
+    "Policy",
+    "China",
+    "AI Companions",
+    "Generative AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-06T12:17:16.902381+00:00",
+  "updated_at": "2026-07-06T12:19:23.882645+00:00",
+  "published_to": []
+}

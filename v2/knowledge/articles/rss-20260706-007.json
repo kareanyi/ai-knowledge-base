@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-007",
+  "source": "rss",
+  "source_url": "https://www.map.signalbox.io",
+  "title": "Real-time map of Great Britain's rail network",
+  "summary": "A real-time visualization map displaying Great Britain's rail network with live train locations and status updates, built using open data from National Rail's Darwin API.",
+  "tech_stack": [
+    "JavaScript",
+    "Mapbox/Leaflet",
+    "WebSocket",
+    "Darwin API",
+    "Node.js"
+  ],
+  "problem_solved": "Provides real-time visibility into GB rail network operations, helping passengers and enthusiasts track train movements across the country.",
+  "why_valuable": "Transforms complex rail data into an intuitive visual format, improving transparency and passenger information accessibility.",
+  "tags": [
+    "Railway",
+    "Real-time",
+    "Data Visualization",
+    "Map",
+    "Open Data"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-06T12:13:53.632736+00:00",
+  "updated_at": "2026-07-06T12:19:23.874191+00:00",
+  "published_to": []
+}

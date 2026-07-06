@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-006",
+  "source": "rss",
+  "source_url": "https://boringsql.com/posts/vacuum-at-the-page-level/",
+  "title": "Vacuum at the Page Level",
+  "summary": "这是一篇关于PostgreSQL数据库Vacuum机制在数据页级别实现原理的技术文章，探讨如何在页面层面优化死元组清理和空间回收的底层机制。",
+  "tech_stack": [
+    "PostgreSQL",
+    "SQL",
+    "Database Storage",
+    "C",
+    "Backend Systems"
+  ],
+  "problem_solved": "深入理解PostgreSQL如何在页面级别执行垃圾回收（Vacuum）操作以回收存储空间和维护数据库性能。",
+  "why_valuable": "帮助数据库开发者和管理员理解PostgreSQL底层存储机制，优化大型数据库的维护策略，提升存储效率和查询性能。",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Vacuum",
+    "Storage Engine",
+    "Backend"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-06T12:13:44.893150+00:00",
+  "updated_at": "2026-07-06T12:19:23.874049+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-020",
+  "source": "rss",
+  "source_url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+  "title": "The future of Flipper Zero development",
+  "summary": "This is Flipper Zero's official blog post announcing their future development plans and roadmap for their popular portable multi-tool hacking device. The article generated significant community interest with 353 points and 150 comments on Hacker News, indicating strong engagement from the hardware security and maker community.",
+  "tech_stack": [
+    "Flipper Zero",
+    "STM32",
+    "C/C++",
+    "Qt Framework",
+    "Embedded Systems"
+  ],
+  "problem_solved": "Communicates the official development roadmap and future plans to address community questions and concerns about hardware revisions and software updates.",
+  "why_valuable": "Provides transparency from the Flipper Zero team about future development, helping the hacking and maker community understand the direction of this popular security research tool.",
+  "tags": [
+    "Hardware",
+    "Security Research",
+    "IoT",
+    "Embedded",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-06T12:17:00.804217+00:00",
+  "updated_at": "2026-07-06T12:19:23.882422+00:00",
+  "published_to": []
+}

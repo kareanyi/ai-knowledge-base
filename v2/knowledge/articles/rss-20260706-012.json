@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260706-012",
+  "source": "rss",
+  "source_url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+  "title": "Has_not_been_viewed_much",
+  "summary": "这是一篇关于某个话题的个人技术笔记，发布在个人博客上后在 Hacker News 获得了较高关注度（350 points, 92 comments），表明内容具有一定价值和讨论性",
+  "tech_stack": [
+    "Web",
+    "Blog",
+    "HackerNews"
+  ],
+  "problem_solved": "展示了个人对某个技术或生活话题的见解和思考",
+  "why_valuable": "通过 Hacker News 的高票认可，证明内容引发了技术社区的共鸣和讨论",
+  "tags": [
+    "Personal Blog",
+    "HackerNews",
+    "Discussion",
+    "Tech",
+    "Community"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-06T12:15:13.982115+00:00",
+  "updated_at": "2026-07-06T12:19:23.880817+00:00",
+  "published_to": []
+}

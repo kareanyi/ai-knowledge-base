@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-017",
+  "source": "rss",
+  "source_url": "https://www.opentools.studio/",
+  "title": "OpenPrinter",
+  "summary": "OpenPrinter is an AI-powered printing tool featured on OpenTools Studio, an AI tools directory platform. The project received significant community attention on Hacker News with 924 points and 231 comments, indicating strong developer interest in modernizing the printing experience through AI.",
+  "tech_stack": [
+    "AI",
+    "Python",
+    "Web Application",
+    "API",
+    "Open Source"
+  ],
+  "problem_solved": "Simplifies and modernizes document printing workflows using AI automation and intelligent formatting.",
+  "why_valuable": "Addresses the outdated and often frustrating traditional printing experience by applying AI to handle document processing, formatting, and optimization automatically.",
+  "tags": [
+    "AI",
+    "Printing",
+    "Productivity",
+    "Open Source",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-06T12:16:19.827448+00:00",
+  "updated_at": "2026-07-06T12:19:23.881825+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260706-003",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/us-engineered-sovereignty",
+  "title": "How the U.S. Engineered Its Sovereignty",
+  "summary": "This IEEE Spectrum article examines how the United States has strategically engineered and maintained its national sovereignty, likely through technology policy, manufacturing capabilities, and strategic industrial decisions. The piece appears to explore the intersection of technology policy and geopolitical strategy.",
+  "tech_stack": [
+    "IEEE Spectrum",
+    "Journalism/Analysis"
+  ],
+  "problem_solved": "Provides analysis on how nations maintain technological and economic sovereignty in an interconnected global landscape.",
+  "why_valuable": "Offers insights into strategic technology policy decisions that shape national independence and global competitiveness.",
+  "tags": [
+    "Technology Policy",
+    "Geopolitics",
+    "Sovereignty",
+    "US Policy",
+    "Industrial Strategy"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-06T12:13:05.345131+00:00",
+  "updated_at": "2026-07-06T12:19:23.873422+00:00",
+  "published_to": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260706-002",
+  "source": "rss",
+  "source_url": "https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm",
+  "title": "\"Software Engineering\" Is Not Engineering",
+  "summary": "A philosophical critique questioning whether software development qualifies as true engineering, arguing it lacks the systematic methodologies, predictability, and established standards found in traditional engineering disciplines like civil or mechanical engineering.",
+  "tech_stack": [],
+  "problem_solved": "Challenges the assumption that software development follows rigorous engineering principles comparable to traditional engineering fields.",
+  "why_valuable": "Encourages critical reflection on the maturity and methodological rigor of software engineering as a professional discipline.",
+  "tags": [
+    "software-engineering",
+    "philosophy",
+    "engineering-disciplines",
+    "profession-critique",
+    "methodology"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-06T12:12:50.531448+00:00",
+  "updated_at": "2026-07-06T12:19:23.873227+00:00",
+  "published_to": []
+}

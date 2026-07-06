@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260706-001",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+  "title": "C programmers commit fresh crimes against readability",
+  "summary": "The Register publishes an article highlighting common readability issues and poor coding practices found in C programs, discussing how C programmers often write code that prioritizes cleverness over clarity, making maintenance and understanding difficult for other developers.",
+  "tech_stack": [
+    "C",
+    "C++",
+    "Code Analysis",
+    "Software Development"
+  ],
+  "problem_solved": "Addresses the ongoing problem of unreadable, obfuscated C code that plagues codebases and makes collaboration difficult",
+  "why_valuable": "Raises awareness about code quality standards and encourages developers to prioritize readability over clever one-liners in C programming",
+  "tags": [
+    "C Programming",
+    "Code Readability",
+    "Software Quality",
+    "Best Practices",
+    "Programming"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-06T12:12:39.224261+00:00",
+  "updated_at": "2026-07-06T12:19:23.872965+00:00",
+  "published_to": []
+}

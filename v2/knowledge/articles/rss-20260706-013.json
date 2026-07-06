@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-013",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.20049",
+  "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+  "summary": "这是一篇关于代码整洁度对AI编码智能体性能影响的学术研究论文，通过对照实验方法探索代码风格和质量如何影响智能体理解和修改代码的能力。研究使用了minimal-pair方法来隔离代码整洁度这一变量，揭示了代码可读性对AI编程效率的实际影响。",
+  "tech_stack": [
+    "AI/LLM",
+    "Coding Agents",
+    "Python",
+    "Controlled Experiments",
+    "Minimal-pair Methodology"
+  ],
+  "problem_solved": "研究代码整洁度如何影响AI编码智能体理解和处理代码的能力与效率",
+  "why_valuable": "为开发者提供实证依据，帮助理解如何编写对AI友好的代码，提升人机协作编程效率",
+  "tags": [
+    "AI",
+    "Coding Agents",
+    "Code Quality",
+    "Research",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-06T12:15:26.262161+00:00",
+  "updated_at": "2026-07-06T12:19:23.881004+00:00",
+  "published_to": []
+}
