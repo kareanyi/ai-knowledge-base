@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260707-002",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+  "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+  "summary": "Major consumer goods companies including L'Oreal, Mondelez, and Nestle are leveraging AI technology to accelerate product development cycles and discover new applications for existing ingredients, with L'Oreal using AI in laboratories for the past four years to predict molecular behavior.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Predictive Analytics"
+  ],
+  "problem_solved": "Reducing product development timelines and enabling faster innovation in the consumer goods and cosmetics industry.",
+  "why_valuable": "It demonstrates real-world enterprise AI adoption for R&D acceleration, showing how AI can predict outcomes and identify new opportunities from existing ingredient portfolios.",
+  "tags": [
+    "AI",
+    "Product Development",
+    "Consumer Goods",
+    "Enterprise AI",
+    "R&D"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-07T11:12:26.134124+00:00",
+  "updated_at": "2026-07-07T11:14:35.226653+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260707-001",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/token-budgets-vs-people/",
+  "title": "Companies traded people for tokens. The returns haven&#8217;t shown up",
+  "summary": "This article discusses Jensen Huang's provocative metric for evaluating engineer productivity: if a $500K engineer consumes less than $250K in AI tokens annually, they're underperforming. It explores the broader trend of companies replacing human workers with AI and questions whether the promised returns have materialized.",
+  "tech_stack": [
+    "Nvidia GPU",
+    "AI Infrastructure"
+  ],
+  "problem_solved": "Questions whether the ROI promised by AI-driven workforce replacement is actually being realized in practice.",
+  "why_valuable": "It highlights a critical disconnect between corporate AI investment narratives and actual business outcomes, challenging the assumption that replacing workers with AI tokens delivers automatic cost savings.",
+  "tags": [
+    "AI ROI",
+    "Labor Automation",
+    "Enterprise AI",
+    "Business Strategy",
+    "Nvidia"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-07T11:12:17.721765+00:00",
+  "updated_at": "2026-07-07T11:14:35.226347+00:00",
+  "published_to": []
+}
