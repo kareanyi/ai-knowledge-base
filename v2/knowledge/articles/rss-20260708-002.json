@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260708-002",
+  "source": "rss",
+  "source_url": "https://github.com/dekart-xyz/geosql",
+  "title": "Geosql: A Claude/Codex skill for geospatial data",
+  "summary": "Geosql is a specialized skill/plugin designed to enable AI assistants like Claude and Codex to interact with and query geospatial data, likely through SQL-like syntax for geographic information systems.",
+  "tech_stack": [
+    "Python",
+    "SQL",
+    "Geospatial Libraries",
+    "API Integration"
+  ],
+  "problem_solved": "Enables AI assistants to understand and process geospatial/spatial data queries that they traditionally struggle with.",
+  "why_valuable": "Bridges the gap between AI language models and geographic data processing, making location-based analysis accessible through natural language.",
+  "tags": [
+    "AI",
+    "Geospatial",
+    "SQL",
+    "Claude",
+    "Codex"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-08T10:26:34.254407+00:00",
+  "updated_at": "2026-07-08T10:30:23.327208+00:00",
+  "published_to": []
+}

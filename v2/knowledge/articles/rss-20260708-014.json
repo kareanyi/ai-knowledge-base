@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-014",
+  "source": "rss",
+  "source_url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+  "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+  "summary": "这篇文章介绍了 Kokoro TTS 模型，一个可以在本地 CPU 上运行的高质量文本转语音解决方案，无需 GPU 或云服务即可生成自然流畅的语音。",
+  "tech_stack": [
+    "Python",
+    "ONNX",
+    "Kokoro TTS",
+    "GitHub Models",
+    "Node.js"
+  ],
+  "problem_solved": "解决了传统 TTS 需要依赖云服务、昂贵 GPU 或付费 API 的问题，实现了完全本地化、隐私友好的语音合成。",
+  "why_valuable": "为开发者提供了免费、开源、零成本的 TTS 替代方案，同时保证高质量输出且完全在本地运行，保护用户隐私。",
+  "tags": [
+    "TTS",
+    "Text-to-Speech",
+    "Local AI",
+    "Open Source",
+    "ONNX"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-08T10:28:54.576617+00:00",
+  "updated_at": "2026-07-08T10:30:23.335613+00:00",
+  "published_to": []
+}

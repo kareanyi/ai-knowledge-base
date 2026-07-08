@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-010",
+  "source": "rss",
+  "source_url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+  "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+  "summary": "MIT's legendary 6.001 course taught by Hal Abelson and Gerald Sussman, originally recorded in 1986, now freely available on OpenCourseWare. This course teaches fundamental principles of programming, computation, recursion, and abstraction using Scheme/Lisp, fundamentally shaping how computer science is taught worldwide.",
+  "tech_stack": [
+    "Scheme",
+    "Lisp",
+    "Functional Programming",
+    "Recursion",
+    "Data Abstraction"
+  ],
+  "problem_solved": "Teaches foundational programming concepts and computational thinking that apply across all programming languages and paradigms.",
+  "why_valuable": "Considered the 'bible' of computer science education, this course has influenced generations of programmers and remains relevant 40 years later, fundamentally changing how we think about programs as abstract computational processes.",
+  "tags": [
+    "MIT",
+    "Scheme",
+    "Lisp",
+    "Computer Science",
+    "Functional Programming"
+  ],
+  "score": 10,
+  "status": "published",
+  "created_at": "2026-07-08T10:28:07.700775+00:00",
+  "updated_at": "2026-07-08T10:30:23.334893+00:00",
+  "published_to": []
+}

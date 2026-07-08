@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-008",
+  "source": "rss",
+  "source_url": "https://chiptune-radio.alephvoid.com/",
+  "title": "Show HN: Chiptune Radio",
+  "summary": "A web-based chiptune (8-bit) music generator that broadcasts algorithmically generated retro game-style music in real-time. Built as a creative hobby project to produce endless unique nostalgic chiptune tracks.",
+  "tech_stack": [
+    "Web Audio API",
+    "JavaScript",
+    "WebSockets",
+    "HTML/CSS",
+    "Algorithmic Composition"
+  ],
+  "problem_solved": "Generates infinite, royalty-free 8-bit style music on demand, eliminating the need for pre-made chiptune tracks or licensing concerns.",
+  "why_valuable": "Provides game developers and content creators with a free, endless source of authentic retro game music without copyright or royalty issues.",
+  "tags": [
+    "chiptune",
+    "8-bit",
+    "algorithmic-music",
+    "retro-gaming",
+    "music-generation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:27:49.011559+00:00",
+  "updated_at": "2026-07-08T10:30:23.328399+00:00",
+  "published_to": []
+}

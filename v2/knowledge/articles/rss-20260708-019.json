@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-019",
+  "source": "rss",
+  "source_url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+  "title": "Why we built yet another Postgres connection pooler",
+  "summary": "PgDog is a high-performance PostgreSQL connection pooler built in Rust, designed to address scalability and performance limitations in existing solutions like PgBouncer and Pgpool-II. The article explains why the authors created yet another connection pooler despite market saturation, focusing on modern async architecture and better resource utilization.",
+  "tech_stack": [
+    "Rust",
+    "PostgreSQL",
+    "Tokio",
+    "Async I/O",
+    "SQL"
+  ],
+  "problem_solved": "PostgreSQL connection exhaustion caused by the one-process-per-connection model limiting scalability for high-concurrency applications",
+  "why_valuable": "Provides a modern Rust-based alternative with better async performance, memory efficiency, and feature completeness compared to existing poolers",
+  "tags": [
+    "PostgreSQL",
+    "Connection-Pooler",
+    "Rust",
+    "Database",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-08T10:29:56.527989+00:00",
+  "updated_at": "2026-07-08T10:30:23.336503+00:00",
+  "published_to": []
+}

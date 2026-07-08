@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260708-011",
+  "source": "rss",
+  "source_url": "https://www.gao.gov/products/gao-26-108193",
+  "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+  "summary": "The Government Accountability Office (GAO) issued a report finding that the Department of Energy is prematurely eliminating cost-effective alternatives from consideration in nuclear cleanup projects, potentially leading to unnecessary spending of taxpayer money on more expensive solutions.",
+  "tech_stack": [
+    "Government IT Systems",
+    "Regulatory Reporting"
+  ],
+  "problem_solved": "Addresses inefficiency and potential waste in federal nuclear cleanup procurement and decision-making processes.",
+  "why_valuable": "Provides congressional oversight and transparency into how the DOE evaluates cleanup alternatives, helping ensure responsible use of billions in nuclear cleanup funding.",
+  "tags": [
+    "Government",
+    "Nuclear",
+    "Policy",
+    "Accountability",
+    "Federal Spending"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:28:21.409578+00:00",
+  "updated_at": "2026-07-08T10:30:23.335075+00:00",
+  "published_to": []
+}

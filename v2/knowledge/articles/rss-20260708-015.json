@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-015",
+  "source": "rss",
+  "source_url": "https://lv1.sh/",
+  "title": "l: A new runtime for k and q",
+  "summary": "L is a new runtime implementation for the K and Q programming languages (associated with KDB+), which are powerful array languages commonly used for financial data processing and time-series analytics. The project aims to provide better performance, improved developer experience, and modern tooling for the kdb+/q ecosystem.",
+  "tech_stack": [
+    "K",
+    "Q",
+    "KDB+",
+    "C",
+    "LLVM"
+  ],
+  "problem_solved": "Provides an alternative runtime for K/Q that may offer better performance, cross-platform compatibility, and modern development workflows compared to the traditional kdb+ implementation.",
+  "why_valuable": "K and Q are notoriously difficult to learn and deploy; a modern runtime could lower barriers to entry and enable more developers to leverage the powerful array processing capabilities of these languages.",
+  "tags": [
+    "K-language",
+    "Q-language",
+    "KDB",
+    "array-programming",
+    "runtime"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:29:08.367769+00:00",
+  "updated_at": "2026-07-08T10:30:23.335784+00:00",
+  "published_to": []
+}

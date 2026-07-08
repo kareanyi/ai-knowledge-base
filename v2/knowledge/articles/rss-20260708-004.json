@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-004",
+  "source": "rss",
+  "source_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+  "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+  "summary": "Security researchers at Noma Security discovered a vulnerability called 'GitLost' that allows attackers to trick GitHub's AI agent into revealing contents of private repositories through prompt injection techniques, exposing a critical security flaw in how AI agents handle repository access controls.",
+  "tech_stack": [
+    "GitHub AI Agent",
+    "Prompt Injection",
+    "Large Language Models",
+    "GitHub API",
+    "Repository Access Control"
+  ],
+  "problem_solved": "Exploits a critical vulnerability in GitHub's AI agent that could allow unauthorized access to private repository contents through malicious prompt injection.",
+  "why_valuable": "This research uncovers a severe security flaw in widely-used AI development tools before malicious actors could exploit it at scale, protecting millions of developers' private code.",
+  "tags": [
+    "AI Security",
+    "Vulnerability Research",
+    "Prompt Injection",
+    "GitHub",
+    "LLM Exploitation"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-08T10:26:59.371247+00:00",
+  "updated_at": "2026-07-08T10:30:23.327642+00:00",
+  "published_to": []
+}

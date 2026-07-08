@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-006",
+  "source": "rss",
+  "source_url": "https://www.digipres.org/the-floppy-guide/",
+  "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+  "summary": "A practical guide from Cambridge University providing best practices and methods for preserving data from fragile, aging floppy disk media before they degrade permanently. The guide focuses on proper techniques for reading, copying, and archiving floppy disk contents as part of digital preservation efforts.",
+  "tech_stack": [
+    "Floppy Disk Hardware",
+    "Disk Imaging Tools",
+    "Magnetic Media Preservation",
+    "Digital Archiving Methods",
+    "File System Analysis"
+  ],
+  "problem_solved": "Prevents permanent data loss from deteriorating floppy disk media by providing systematic preservation workflows",
+  "why_valuable": "Floppy disks are inherently unstable magnetic media that degrade over time; this guide offers essential techniques to rescue irreplaceable historical data before it becomes unrecoverable",
+  "tags": [
+    "Digital Preservation",
+    "Floppy Disks",
+    "Data Recovery",
+    "Legacy Media",
+    "Archiving"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:27:22.087613+00:00",
+  "updated_at": "2026-07-08T10:30:23.328007+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-007",
+  "source": "rss",
+  "source_url": "https://stats.lineageos.org",
+  "title": "LineageOS Statistics",
+  "summary": "LineageOS Statistics is a public dashboard that tracks and visualizes usage data for the LineageOS custom Android ROM community, displaying device distribution, Android version adoption rates, and update statistics.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "Web Analytics",
+    "Data Visualization",
+    "OpenStreetMap"
+  ],
+  "problem_solved": "Provides transparency and visibility into LineageOS ecosystem health, device fragmentation, and Android version adoption trends.",
+  "why_valuable": "Enables the community to understand device popularity, helps developers prioritize device support, and tracks the state of Android version upgrades across the ROM ecosystem.",
+  "tags": [
+    "open-source",
+    "android",
+    "statistics",
+    "community",
+    "dashboard"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-08T10:27:32.944811+00:00",
+  "updated_at": "2026-07-08T10:30:23.328248+00:00",
+  "published_to": []
+}

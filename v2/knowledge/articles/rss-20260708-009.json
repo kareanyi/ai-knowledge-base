@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-009",
+  "source": "rss",
+  "source_url": "https://kb.cert.org/vuls/id/213560",
+  "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+  "summary": "Security researchers discovered hidden authentication backdoors in multiple versions of Tenda router firmware, allowing unauthorized remote access to affected devices.",
+  "tech_stack": [
+    "Firmware",
+    "Embedded Systems",
+    "IoT",
+    "C/C++",
+    "Network Protocols"
+  ],
+  "problem_solved": "Documents a critical security vulnerability where Tenda firmware contains undocumented backdoor authentication mechanisms that could be exploited by attackers.",
+  "why_valuable": "This vulnerability disclosure helps security researchers and device owners identify and patch dangerous backdoors that could give attackers full control of affected network devices.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "IoT",
+    "Firmware",
+    "Backdoor"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:27:56.785392+00:00",
+  "updated_at": "2026-07-08T10:30:23.334670+00:00",
+  "published_to": []
+}

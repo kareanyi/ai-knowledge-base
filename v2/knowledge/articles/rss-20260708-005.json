@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-005",
+  "source": "rss",
+  "source_url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+  "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+  "summary": "A practical guide for building a DIY NAS using native ZFS on Linux, bypassing commercial solutions like Synology, QNAP, or TrueNAS. The tutorial covers minimal configuration for home lab or small office storage with ZFS features like snapshots, redundancy, and data integrity checks.",
+  "tech_stack": [
+    "ZFS",
+    "Linux",
+    "Samba",
+    "NFS",
+    "Shell Scripting"
+  ],
+  "problem_solved": "Provides a lightweight, vendor-free alternative to expensive commercial NAS systems while maintaining enterprise-grade file system reliability.",
+  "why_valuable": "Gives users full control over their storage infrastructure without licensing fees or locked hardware, leveraging ZFS's robust data protection features.",
+  "tags": [
+    "ZFS",
+    "NAS",
+    "DIY",
+    "Linux",
+    "Self-hosted"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:27:09.910111+00:00",
+  "updated_at": "2026-07-08T10:30:23.327846+00:00",
+  "published_to": []
+}

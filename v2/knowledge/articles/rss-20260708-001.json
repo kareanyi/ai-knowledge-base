@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-001",
+  "source": "rss",
+  "source_url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+  "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+  "summary": "A security researcher reverse-engineered an obfuscated bash script discovered on a Uniqlo t-shirt, tracing it through CDN/Akamai infrastructure to understand its purpose and behavior.",
+  "tech_stack": [
+    "Bash",
+    "Reverse Engineering",
+    "Deobfuscation",
+    "Network Analysis",
+    "Akamai CDN"
+  ],
+  "problem_solved": "Exposes and decodes hidden obfuscated code embedded in retail product promotional materials.",
+  "why_valuable": "Demonstrates supply chain security risks and practical reverse engineering techniques for analyzing obfuscated scripts.",
+  "tags": [
+    "Security Research",
+    "Reverse Engineering",
+    "Obfuscation",
+    "Supply Chain",
+    "Bash"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:26:26.199232+00:00",
+  "updated_at": "2026-07-08T10:30:23.326922+00:00",
+  "published_to": []
+}

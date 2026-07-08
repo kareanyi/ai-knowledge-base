@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260708-020",
+  "source": "rss",
+  "source_url": "https://fightchatcontrol.eu/chat-control-overview",
+  "title": "Chat Control 1.0 and 2.0 Explained",
+  "summary": "This article explains the EU's Chat Control legislation proposals, comparing the original Chat Control 1.0 directive with the revised Chat Control 2.0 version. It appears to cover the legal requirements for messaging platforms to scan communications for illegal content like child sexual abuse material (CSAM), and the ongoing debates around privacy implications of such mandatory scanning.",
+  "tech_stack": [
+    "End-to-End Encryption",
+    "Client-Side Scanning",
+    "Hash Matching",
+    "AI Content Detection"
+  ],
+  "problem_solved": "Explains the EU regulatory framework attempting to detect and prevent child sexual abuse material on chat platforms while addressing privacy concerns.",
+  "why_valuable": "Provides clarity on evolving EU legislation that could fundamentally impact privacy, encryption standards, and how billions of messaging platform users communicate.",
+  "tags": [
+    "EU Legislation",
+    "Privacy",
+    "Chat Monitoring",
+    "End-to-End Encryption",
+    "CSAM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:30:22.381509+00:00",
+  "updated_at": "2026-07-08T10:30:23.336679+00:00",
+  "published_to": []
+}

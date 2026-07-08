@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-012",
+  "source": "rss",
+  "source_url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+  "title": "Every new car sold in the European Union must include a driver monitoring camera",
+  "summary": "The European Union has mandated that all new cars sold in the region must include driver monitoring cameras and distraction detection systems, representing a major shift in automotive safety regulations that will take effect for new vehicle types from 2024.",
+  "tech_stack": [
+    "Computer Vision",
+    "AI/ML",
+    "Camera Systems",
+    "Automotive Sensors",
+    "Drowsiness Detection"
+  ],
+  "problem_solved": "Addresses the growing problem of distracted and drowsy driving, which contributes significantly to road accidents across Europe.",
+  "why_valuable": "This regulation could substantially reduce traffic fatalities by automatically detecting when drivers are impaired or distracted and alerting them or taking preventive measures.",
+  "tags": [
+    "EU Regulation",
+    "Automotive Safety",
+    "Driver Monitoring",
+    "AI Policy",
+    "Road Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:28:35.084357+00:00",
+  "updated_at": "2026-07-08T10:30:23.335265+00:00",
+  "published_to": []
+}

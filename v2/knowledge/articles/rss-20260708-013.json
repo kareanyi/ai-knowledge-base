@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-013",
+  "source": "rss",
+  "source_url": "https://davit.app",
+  "title": "Show HN: Davit, a Apple Containers UI",
+  "summary": "Davit 是一个使用 AI 辅助开发（vibe-coded）的 Apple Containers 图形化界面工具，提供直观的 UI 让用户更方便地管理 Apple 容器化资源，项目已开源供社区使用。",
+  "tech_stack": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "Tailwind CSS",
+    "Apple Containers API"
+  ],
+  "problem_solved": "解决 Apple Containers 命令行操作复杂、缺乏图形界面的问题，让容器管理更加直观易用。",
+  "why_valuable": "为需要使用 Apple Containers 的开发者提供了一个美观实用的 Web UI，降低了学习和使用门槛，同时开源社区可以参与改进。",
+  "tags": [
+    "Apple",
+    "Containers",
+    "UI",
+    "OpenSource",
+    "DeveloperTools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-08T10:28:42.573563+00:00",
+  "updated_at": "2026-07-08T10:30:23.335445+00:00",
+  "published_to": []
+}

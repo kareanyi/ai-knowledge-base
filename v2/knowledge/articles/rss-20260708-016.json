@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-016",
+  "source": "rss",
+  "source_url": "https://github.com/jimparis/qr-font",
+  "title": "Jim's TrueType QR Code Font",
+  "summary": "A TrueType font that renders QR codes when you type text, allowing users to generate QR codes simply by using the font in any application that supports text. The font maps characters to QR code module patterns, making QR code creation as simple as typing.",
+  "tech_stack": [
+    "TrueType Font",
+    "QR Code",
+    "Font Engineering",
+    "TypeScript",
+    "SVG"
+  ],
+  "problem_solved": "Eliminates the need for external QR code generation tools by making QR codes renderable as regular text through a custom font.",
+  "why_valuable": "It provides an incredibly elegant and accessible solution to QR code generation that can be used in any text editor, design tool, or application supporting fonts.",
+  "tags": [
+    "QR-Code",
+    "TrueType-Font",
+    "Creative-Tool",
+    "Utility",
+    "Font"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-08T10:29:20.475643+00:00",
+  "updated_at": "2026-07-08T10:30:23.335959+00:00",
+  "published_to": []
+}
