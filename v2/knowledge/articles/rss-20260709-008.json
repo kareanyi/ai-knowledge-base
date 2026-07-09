@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260709-008",
+  "source": "rss",
+  "source_url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+  "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+  "summary": "John Deere has reached a settlement with the FTC that requires the company to provide farmers and equipment owners with the right to repair their own agricultural machinery, ending restrictive practices that forced them to use expensive dealership services.",
+  "tech_stack": [
+    "Agricultural Technology",
+    "IoT-enabled Equipment",
+    "FTC Regulations"
+  ],
+  "problem_solved": "Farmers were locked out of repairing their own John Deere equipment due to software restrictions, forcing costly dealership-only repairs.",
+  "why_valuable": "This settlement grants farmers autonomy over their equipment, reduces repair costs, and establishes a significant precedent for the right-to-repair movement affecting multiple industries.",
+  "tags": [
+    "Right-to-Repair",
+    "Agriculture",
+    "FTC",
+    "Consumer Rights",
+    "Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-09T11:08:58.895525+00:00",
+  "updated_at": "2026-07-09T11:14:26.148501+00:00",
+  "published_to": []
+}

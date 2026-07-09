@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-006",
+  "source": "rss",
+  "source_url": "https://www.liamcvw.com/p/remote-attestation",
+  "title": "Remote Attestation",
+  "summary": "A technical exploration of Remote Attestation, a security mechanism that allows one party to verify the integrity and trustworthiness of a remote system's hardware and software configuration through cryptographic attestation.",
+  "tech_stack": [
+    "Trusted Computing",
+    "TEE",
+    "TPM",
+    "Cryptography",
+    "Hardware Security Modules"
+  ],
+  "problem_solved": "Enables remote verification of a system's integrity and trustworthiness without physical access, ensuring that remote parties are running expected, unmodified code on secure hardware.",
+  "why_valuable": "Critical for securing cloud computing, IoT devices, and multi-party computations where trust must be established across untrusted networks.",
+  "tags": [
+    "Security",
+    "Trusted Computing",
+    "TEE",
+    "Hardware Security",
+    "Cryptography"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-09T11:08:31.282184+00:00",
+  "updated_at": "2026-07-09T11:14:26.148114+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260709-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+  "title": "NHS AI blood test could reduce invasive womb cancer checks",
+  "summary": "NHS hospitals in England are preparing to implement an AI-powered blood test to assess postmenopausal women referred for suspected womb cancer before conducting invasive procedures. This technology could benefit approximately 90,000 women referred annually while helping identify the 10,000 who actually need diagnosis.",
+  "tech_stack": [
+    "AI",
+    "Blood Test Technology"
+  ],
+  "problem_solved": "Reduces unnecessary invasive procedures for women being checked for womb cancer while improving triage efficiency.",
+  "why_valuable": "It can significantly reduce patient discomfort and healthcare costs by pre-screening with a non-invasive blood test before conducting invasive cancer checks.",
+  "tags": [
+    "Healthcare",
+    "AI",
+    "Cancer Detection",
+    "Medical AI",
+    "Diagnostics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-09T11:12:05.336569+00:00",
+  "updated_at": "2026-07-09T11:14:26.156950+00:00",
+  "published_to": []
+}

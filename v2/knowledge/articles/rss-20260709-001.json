@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-001",
+  "source": "rss",
+  "source_url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+  "title": "My Thoughts on the Bun Rust Rewrite",
+  "summary": "Andrew Kelley, creator of Zig programming language, shares his perspective on the Bun JavaScript runtime team deciding to rewrite their codebase from Zig to Rust, discussing the tradeoffs between the two systems programming languages.",
+  "tech_stack": [
+    "Zig",
+    "Rust",
+    "JavaScript",
+    "C",
+    "Systems Programming"
+  ],
+  "problem_solved": "Provides expert analysis on programming language selection decisions for high-performance JavaScript runtime development",
+  "why_valuable": "Andrew Kelley's unique position as Zig's creator gives him unparalleled insight into why a project might choose Rust over Zig for systems-level work",
+  "tags": [
+    "Zig",
+    "Rust",
+    "JavaScript Runtime",
+    "Language Design",
+    "Systems Programming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-09T11:07:19.710238+00:00",
+  "updated_at": "2026-07-09T11:14:26.146991+00:00",
+  "published_to": []
+}

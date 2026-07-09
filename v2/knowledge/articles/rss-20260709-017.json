@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-017",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-live/",
+  "title": "GPT‑Live",
+  "summary": "OpenAI introduced GPT-Live, a feature enabling real-time, live voice interactions with ChatGPT that allows users to have natural conversational experiences without waiting for complete responses to generate. The feature supports seamless back-and-forth dialogue similar to human conversation.",
+  "tech_stack": [
+    "GPT Models",
+    "Real-time Audio Processing",
+    "Streaming Infrastructure",
+    "Voice Recognition",
+    "WebSocket Communication"
+  ],
+  "problem_solved": "Eliminates the friction of waiting for AI responses by enabling instantaneous, live conversational interactions.",
+  "why_valuable": "Makes AI interactions feel more natural and human-like, significantly improving user experience for voice-based AI applications.",
+  "tags": [
+    "AI",
+    "OpenAI",
+    "ChatGPT",
+    "Real-time AI",
+    "Voice Interface"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-09T11:11:01.654050+00:00",
+  "updated_at": "2026-07-09T11:14:26.156113+00:00",
+  "published_to": []
+}

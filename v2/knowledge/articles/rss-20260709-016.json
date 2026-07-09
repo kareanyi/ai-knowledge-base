@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260709-016",
+  "source": "rss",
+  "source_url": "https://microsoft.github.io/flint-chart/#/",
+  "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+  "summary": "Microsoft Flint is a specialized visualization language designed specifically for AI agents to reliably generate high-quality data visualizations, addressing the inherent trade-off between simplicity (low quality charts) and complexity (verbose, unreliable specs) in existing approaches.",
+  "tech_stack": [
+    "Flint",
+    "JavaScript",
+    "TypeScript",
+    "React"
+  ],
+  "problem_solved": "Solves the challenge of building AI agents that can consistently generate professional data visualizations without the current trade-off between simplicity and complexity.",
+  "why_valuable": "It enables AI agents to reliably produce publication-quality charts by redesigning the visualization language itself rather than relying on improved AI capabilities alone.",
+  "tags": [
+    "AI-Agents",
+    "Visualization",
+    "Microsoft",
+    "Chart-Generation",
+    "Developer-Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-09T11:10:49.538702+00:00",
+  "updated_at": "2026-07-09T11:14:26.155926+00:00",
+  "published_to": []
+}

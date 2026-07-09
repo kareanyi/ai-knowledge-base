@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260709-012",
+  "source": "rss",
+  "source_url": "https://github.com/linuxrebel/DocuBrowser",
+  "title": "Turning a pile of documents into a searchable useable knowledge base",
+  "summary": "DocuBrowser is a tool that transforms a collection of documents into an indexed, searchable knowledge base, allowing users to quickly find information across large document collections through a web-based interface.",
+  "tech_stack": [
+    "Python",
+    "HTML/CSS",
+    "JavaScript",
+    "SQLite"
+  ],
+  "problem_solved": "Helps users search and navigate through large collections of unstructured documents without manually scanning each file.",
+  "why_valuable": "Saves significant time by enabling instant full-text search across thousands of documents, making disorganized document piles instantly accessible and usable.",
+  "tags": [
+    "document-search",
+    "knowledge-management",
+    "local-search",
+    "file-indexing",
+    "productivity-tool"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-09T11:09:53.380522+00:00",
+  "updated_at": "2026-07-09T11:14:26.155118+00:00",
+  "published_to": []
+}

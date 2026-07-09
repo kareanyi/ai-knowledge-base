@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-007",
+  "source": "rss",
+  "source_url": "https://mira-wm.com/",
+  "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+  "summary": "MIRA is a research project that trains world models on Rocket League gameplay data to create AI agents capable of interactive multiplayer behavior, enabling the development of intelligent agents that can learn and adapt in competitive gaming environments.",
+  "tech_stack": [
+    "World Models",
+    "Deep Learning",
+    "Reinforcement Learning",
+    "Multi-Agent Systems",
+    "Rocket League"
+  ],
+  "problem_solved": "Enables AI agents to learn and interact in complex real-time multiplayer environments by training on game data.",
+  "why_valuable": "Advances multi-agent AI research by providing a testbed for training world models in competitive, real-time scenarios with human-like interaction patterns.",
+  "tags": [
+    "AI",
+    "World Models",
+    "Game AI",
+    "Multi-Agent",
+    "Reinforcement Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-09T11:08:47.485156+00:00",
+  "updated_at": "2026-07-09T11:14:26.148302+00:00",
+  "published_to": []
+}

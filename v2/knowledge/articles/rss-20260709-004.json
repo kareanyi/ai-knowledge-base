@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260709-004",
+  "source": "rss",
+  "source_url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+  "title": "How Donkey Kong Toppled Atari",
+  "summary": "This article examines how Nintendo's Donkey Kong arcade game, ported to the Atari 2600 in 1982, became a catalyst for Atari's decline and the broader video game crash of 1983. The rushed, low-quality port exposed Atari's poor quality control and business practices, while Nintendo's superior arcade experience highlighted the growing gap between console and arcade quality.",
+  "tech_stack": [
+    "Atari 2600",
+    "Assembly",
+    "Arcade Hardware",
+    "WordPress (publishing)"
+  ],
+  "problem_solved": "Documenting how a single game port exposed Atari's systemic quality issues and contributed to the 1983 video game crash.",
+  "why_valuable": "Provides historical lessons about product quality, platform holder responsibilities, and how third-party mismanagement can destroy an entire industry.",
+  "tags": [
+    "Gaming History",
+    "Video Game Crash",
+    "Atari",
+    "Nintendo",
+    "Industry Analysis"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-09T11:08:03.551952+00:00",
+  "updated_at": "2026-07-09T11:14:26.147726+00:00",
+  "published_to": []
+}

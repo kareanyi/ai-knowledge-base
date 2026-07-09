@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260709-011",
+  "source": "rss",
+  "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+  "title": "Separating signal from noise in coding evaluations",
+  "summary": "OpenAI discusses methodologies for accurately evaluating AI coding capabilities by distinguishing meaningful performance signals from statistical noise in benchmarking tests, providing guidance on creating more reliable evaluation frameworks.",
+  "tech_stack": [
+    "Python",
+    "Statistical Analysis",
+    "Benchmarking Frameworks",
+    "Machine Learning Evaluation"
+  ],
+  "problem_solved": "Addresses the challenge of creating reliable AI coding benchmarks that produce consistent, reproducible results without being distorted by random variation or noise.",
+  "why_valuable": "Enables researchers and developers to make data-driven decisions about AI coding tools by providing rigorous evaluation methodologies that reduce false positives and measurement errors.",
+  "tags": [
+    "AI",
+    "Coding Evaluation",
+    "Benchmarking",
+    "Statistics",
+    "Software Quality"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-09T11:09:43.553186+00:00",
+  "updated_at": "2026-07-09T11:14:26.154910+00:00",
+  "published_to": []
+}

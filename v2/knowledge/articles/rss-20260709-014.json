@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-014",
+  "source": "rss",
+  "source_url": "https://www.cloudflare.com/drop/",
+  "title": "Cloudflare Drop",
+  "summary": "Cloudflare Drop is a feature that allows users to set automatic expiration dates on Cloudflare Pages projects, enabling temporary website hosting for hackathons, events, or short-lived applications without manual cleanup.",
+  "tech_stack": [
+    "Cloudflare Pages",
+    "Cloudflare Workers",
+    "Serverless",
+    "Jamstack",
+    "CDN"
+  ],
+  "problem_solved": "Solves the problem of manual cleanup and forgotten temporary websites by automatically deleting projects after a specified expiration date.",
+  "why_valuable": "It reduces storage costs and improves project management efficiency for developers hosting temporary projects on Cloudflare's platform.",
+  "tags": [
+    "Cloudflare",
+    "Web Hosting",
+    "Serverless",
+    "DevOps",
+    "Automation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-09T11:10:26.661796+00:00",
+  "updated_at": "2026-07-09T11:14:26.155513+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-010",
+  "source": "rss",
+  "source_url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+  "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+  "summary": "Databricks 在其数百万行代码的真实代码库上对各种 AI 编程代理进行基准测试，评估这些代理在实际大型企业级代码环境中的表现和能力边界。",
+  "tech_stack": [
+    "Databricks",
+    "AI Coding Agents",
+    "LLM",
+    "Python",
+    "Scala"
+  ],
+  "problem_solved": "解决如何客观评估 AI 编程代理在真实大型代码库中的有效性和可靠性问题。",
+  "why_valuable": "为开发团队选择 AI 编程工具提供数据驱动的参考，帮助理解当前 AI 编程代理的实际能力与局限。",
+  "tags": [
+    "AI",
+    "Coding Agent",
+    "Benchmark",
+    "Software Engineering",
+    "Databricks"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-09T11:09:27.486032+00:00",
+  "updated_at": "2026-07-09T11:14:26.148909+00:00",
+  "published_to": []
+}

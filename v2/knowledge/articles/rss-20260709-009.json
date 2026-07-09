@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-009",
+  "source": "rss",
+  "source_url": "https://bun.com/blog/bun-in-rust",
+  "title": "Rewriting Bun in Rust",
+  "summary": "This blog post discusses the potential rewrite of Bun, a fast JavaScript runtime and toolkit originally written in Zig, into Rust. The article explores the technical motivations, challenges, and implications of such a migration for the JavaScript ecosystem.",
+  "tech_stack": [
+    "Rust",
+    "Zig",
+    "JavaScript",
+    "WebKit/JavaScriptCore",
+    "TypeScript"
+  ],
+  "problem_solved": "Explores whether rewriting Bun's core runtime in Rust could improve performance, maintainability, and contributor accessibility while addressing challenges with memory safety and system integration.",
+  "why_valuable": "A Rust rewrite could leverage Rust's memory safety guarantees and strong ecosystem to make Bun more performant and accessible to the large Rust developer community, while potentially solving maintenance challenges faced with Zig.",
+  "tags": [
+    "JavaScript",
+    "Runtime",
+    "Rust",
+    "Performance",
+    "SystemsProgramming"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-09T11:09:17.970992+00:00",
+  "updated_at": "2026-07-09T11:14:26.148724+00:00",
+  "published_to": []
+}

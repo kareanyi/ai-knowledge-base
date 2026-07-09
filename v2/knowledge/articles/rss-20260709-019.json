@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-019",
+  "source": "rss",
+  "source_url": "https://www.hmans.dev/blog/chatto-is-open-source",
+  "title": "Chatto is now open source",
+  "summary": "Chatto, a chat-related project developed by hmans (a known indie developer), has been made open source. The project gained significant attention on Hacker News with 985 points and 270 comments, indicating strong community interest in the release.",
+  "tech_stack": [
+    "Ruby",
+    "Rails",
+    "JavaScript",
+    "WebSocket",
+    "Open Source"
+  ],
+  "problem_solved": "Provides the developer community with access to a chat implementation that was previously proprietary or private.",
+  "why_valuable": "Open sourcing Chatto allows developers to learn from its implementation, contribute improvements, and potentially use it as a foundation for their own chat projects.",
+  "tags": [
+    "Open Source",
+    "Chat",
+    "Ruby",
+    "Hacker News",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-09T11:11:42.553966+00:00",
+  "updated_at": "2026-07-09T11:14:26.156537+00:00",
+  "published_to": []
+}
