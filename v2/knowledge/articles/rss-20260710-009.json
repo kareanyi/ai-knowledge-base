@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-009",
+  "source": "rss",
+  "source_url": "https://www.context.dev",
+  "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+  "summary": "Context.dev is a YC S26-backed API service that extracts structured data from any website, returning clean Markdown, rendered HTML, screenshots, and images. It also provides company/brand context (name, logos, descriptions) when given a domain, making it easy to integrate web data into AI products and agents.",
+  "tech_stack": [
+    "API Infrastructure",
+    "Web Scraping",
+    "HTML Rendering",
+    "Markdown Conversion",
+    "Image Extraction"
+  ],
+  "problem_solved": "Eliminates the complexity of building and maintaining custom web scraping infrastructure for extracting structured data from websites.",
+  "why_valuable": "Provides clean, ready-to-use structured data from any URL, saving developers significant time when building AI-powered applications and agents that need web content.",
+  "tags": [
+    "API",
+    "Web Scraping",
+    "AI Integration",
+    "Data Extraction",
+    "YC Company"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-10T11:13:26.283636+00:00",
+  "updated_at": "2026-07-10T11:18:22.909894+00:00",
+  "published_to": []
+}

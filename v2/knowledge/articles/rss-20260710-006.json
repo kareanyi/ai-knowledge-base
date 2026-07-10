@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-006",
+  "source": "rss",
+  "source_url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+  "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+  "summary": "An interview with Mitchell Hashimoto discussing his new terminal emulator project Ghostty and his experience using the Zig programming language for its development, providing insights into modern systems programming approaches and terminal emulation architecture.",
+  "tech_stack": [
+    "Zig",
+    "Ghostty",
+    "Terminal Emulator",
+    "C",
+    "Systems Programming"
+  ],
+  "problem_solved": "Building a high-performance, cross-platform terminal emulator with modern architecture using a memory-safe systems language.",
+  "why_valuable": "Offers rare firsthand insights from an experienced systems developer transitioning to Zig, plus details on building performant terminal emulators—useful for anyone interested in low-level development or tool building.",
+  "tags": [
+    "Terminal Emulator",
+    "Zig",
+    "Systems Programming",
+    "Interview",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-10T11:12:47.970107+00:00",
+  "updated_at": "2026-07-10T11:18:22.909369+00:00",
+  "published_to": []
+}

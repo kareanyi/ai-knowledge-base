@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-015",
+  "source": "rss",
+  "source_url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+  "title": "A road to Lisp: Why Lisp",
+  "summary": "An article exploring the author's motivations for learning Lisp, discussing its unique features like homoiconicity, REPL-driven development, powerful macros, and the code-as-data philosophy that sets it apart from mainstream languages.",
+  "tech_stack": [
+    "Lisp",
+    "Common Lisp",
+    "Scheme",
+    "Emacs/SLIME",
+    "Functional Programming"
+  ],
+  "problem_solved": "Explains why developers should consider learning Lisp in a world dominated by mainstream languages like Python and JavaScript.",
+  "why_valuable": "Provides practical insights into Lisp's metaprogramming capabilities and REPL-driven workflow that enable unprecedented code flexibility and expressiveness.",
+  "tags": [
+    "Lisp",
+    "Programming Languages",
+    "Metaprogramming",
+    "Functional Programming",
+    "REPL"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-10T11:15:06.195740+00:00",
+  "updated_at": "2026-07-10T11:18:22.917850+00:00",
+  "published_to": []
+}

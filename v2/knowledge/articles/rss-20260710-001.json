@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-001",
+  "source": "rss",
+  "source_url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+  "title": "In Emacs, Everything Looks Like a Service",
+  "summary": "An article exploring how Emacs architecture treats various components and functionalities as services, leveraging its built-in RPC mechanisms and extensibility model to create interconnected services within the editor.",
+  "tech_stack": [
+    "Emacs Lisp",
+    "Emacs",
+    "RPC",
+    "JSON-RPC",
+    "EAF"
+  ],
+  "problem_solved": "Explains how to architect Emacs extensions as loosely coupled services instead of tightly integrated functions.",
+  "why_valuable": "Demonstrates a powerful architectural pattern for building modular, extensible applications using Emacs as a platform.",
+  "tags": [
+    "Emacs",
+    "Architecture",
+    "Service-Oriented",
+    "Lisp",
+    "Extensibility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-10T11:11:36.297940+00:00",
+  "updated_at": "2026-07-10T11:18:22.908323+00:00",
+  "published_to": []
+}

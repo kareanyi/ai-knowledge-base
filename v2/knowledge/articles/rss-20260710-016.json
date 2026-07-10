@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260710-016",
+  "source": "rss",
+  "source_url": "https://18words.com/",
+  "title": "Show HN: 18 Words",
+  "summary": "18 Words is a minimalist web-based writing game or tool where users are challenged to create content using exactly 18 words, encouraging creative constraint-based writing in a clean, distraction-free interface.",
+  "tech_stack": [
+    "Web",
+    "JavaScript",
+    "HTML/CSS"
+  ],
+  "problem_solved": "Provides a creative writing constraint tool that helps overcome writer's block through focused 18-word challenges",
+  "why_valuable": "Its simplicity and high engagement (1000+ points on HN) demonstrate the appeal of constraint-based creativity tools that make writing fun and accessible",
+  "tags": [
+    "Writing",
+    "Creative",
+    "Minimalist",
+    "Web App",
+    "Game"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-10T11:15:21.084074+00:00",
+  "updated_at": "2026-07-10T11:18:22.918027+00:00",
+  "published_to": []
+}

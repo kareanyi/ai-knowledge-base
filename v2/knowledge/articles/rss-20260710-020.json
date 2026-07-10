@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+  "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+  "summary": "AWS GraphRAG deployment achieved an 87% reduction in drug research cycles by integrating previously siloed proprietary databases into a unified queryable knowledge graph, enabling faster data gathering and screening phases that previously took over six months per iteration with only a 5% success rate.",
+  "tech_stack": [
+    "AWS",
+    "GraphRAG",
+    "Knowledge Graph",
+    "RAG (Retrieval-Augmented Generation)",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Dramatically accelerates drug discovery timelines by eliminating data silos and enabling rapid cross-referencing of disparate pharmaceutical databases.",
+  "why_valuable": "Reduces drug development time from months to days, potentially saving pharmaceutical companies millions while getting life-saving medications to patients faster.",
+  "tags": [
+    "Drug Discovery",
+    "Healthcare AI",
+    "Knowledge Graph",
+    "AWS",
+    "GraphRAG"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-10T11:16:28.518333+00:00",
+  "updated_at": "2026-07-10T11:18:22.918710+00:00",
+  "published_to": []
+}

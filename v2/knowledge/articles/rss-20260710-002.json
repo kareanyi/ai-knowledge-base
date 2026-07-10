@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-002",
+  "source": "rss",
+  "source_url": "https://nevo-project.epfl.ch/",
+  "title": "AI-generated videos to maximally drive a target brain region",
+  "summary": "NEVO is a research project from EPFL that uses AI-generated videos specifically designed to maximally stimulate targeted brain regions, combining generative AI with neuroscience research to create optimized visual stimuli for brain study and potential therapeutic applications.",
+  "tech_stack": [
+    "AI Video Generation",
+    "Neural Networks",
+    "Diffusion Models",
+    "fMRI/Neuroimaging",
+    "Generative AI"
+  ],
+  "problem_solved": "Creates optimized AI-generated visual stimuli to selectively activate specific brain regions for neuroscience research and potential therapeutic interventions",
+  "why_valuable": "Enables precise brain stimulation research and could lead to new treatments for neurological conditions through AI-optimized sensory inputs",
+  "tags": [
+    "AI",
+    "Neuroscience",
+    "Brain Stimulation",
+    "Video Generation",
+    "Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-10T11:11:50.044789+00:00",
+  "updated_at": "2026-07-10T11:18:22.908663+00:00",
+  "published_to": []
+}

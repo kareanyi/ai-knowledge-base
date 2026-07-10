@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260710-003",
+  "source": "rss",
+  "source_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+  "title": "Parental device use and the adolescent-caregiver attachment bond",
+  "summary": "A peer-reviewed research study examining how parental smartphone and device usage affects the quality of attachment bonds between caregivers and their adolescent children, likely investigating the phenomenon of 'technoference' in family dynamics.",
+  "tech_stack": [
+    "Survey instruments",
+    "Statistical analysis software",
+    "Frontiers publishing platform"
+  ],
+  "problem_solved": "Investigates whether parental technology distraction during parent-child interactions negatively impacts adolescent emotional attachment and relationship quality.",
+  "why_valuable": "Provides empirical evidence to guide parenting recommendations and family technology policies, addressing growing concerns about digital distraction's impact on child development.",
+  "tags": [
+    "psychology",
+    "parenting",
+    "adolescent",
+    "technology",
+    "attachment-theory"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-10T11:12:01.775044+00:00",
+  "updated_at": "2026-07-10T11:18:22.908870+00:00",
+  "published_to": []
+}

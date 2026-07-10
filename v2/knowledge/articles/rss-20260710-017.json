@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260710-017",
+  "source": "rss",
+  "source_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+  "title": "EU Parliament greenlights Chat Control 1.0",
+  "summary": "欧盟议会通过了Chat Control 1.0法案，要求科技公司扫描加密消息以检测儿童性虐待材料(CSAM)。这引发了严重的隐私担忧，因为这将破坏端到端加密技术的基础，可能导致对所有用户的大规模监控。",
+  "tech_stack": [
+    "End-to-End Encryption",
+    "Client-Side Scanning",
+    "Content Moderation Systems",
+    "Cryptographic Protocols"
+  ],
+  "problem_solved": "旨在检测和阻止儿童性虐待材料的传播，但可能以牺牲用户隐私和加密安全为代价",
+  "why_valuable": "这是一个重要的公民权利事件，展示了安全与隐私之间的根本性冲突，将对全球互联网治理和加密政策产生深远影响",
+  "tags": [
+    "Privacy",
+    "EU-Legislation",
+    "Encryption",
+    "Surveillance",
+    "Digital-Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-10T11:15:47.926637+00:00",
+  "updated_at": "2026-07-10T11:18:22.918195+00:00",
+  "published_to": []
+}

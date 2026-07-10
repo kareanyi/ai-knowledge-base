@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-005",
+  "source": "rss",
+  "source_url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+  "title": "Building a real-time AI tutor for 5-year-olds",
+  "summary": "The team built an AI tutor for children ages 4-9 that teaches reading, math, and ESL. The core technical challenge was achieving real-time UX steering and complex decision-making at conversation speed, which required replacing the standard tool-use loop with a custom streaming tutor harness.",
+  "tech_stack": [
+    "AI/LLM",
+    "Streaming Architecture",
+    "Real-time Systems",
+    "Custom Tutor Harness",
+    "Conversational AI"
+  ],
+  "problem_solved": "Enabling AI tutors to effectively teach young children in real-time while making complex pedagogical decisions at conversation speed.",
+  "why_valuable": "Young children require instant, adaptive responses that standard AI architectures cannot provide, making this a technically demanding problem with significant educational impact.",
+  "tags": [
+    "AI Education",
+    "Real-time AI",
+    "Children Learning",
+    "LLM Architecture",
+    "EdTech"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-10T11:12:32.128704+00:00",
+  "updated_at": "2026-07-10T11:18:22.909210+00:00",
+  "published_to": []
+}

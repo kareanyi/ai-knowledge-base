@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-010",
+  "source": "rss",
+  "source_url": "https://hy.tencent.com/research/hy3",
+  "title": "Hy3",
+  "summary": "Hy3 is Tencent's research project on Hybrid Hierarchical Hallucination mitigation for long-context Retrieval-Augmented Generation (RAG) systems. It addresses the challenge of AI hallucinations when processing and retrieving information from extensive documents. The project received significant community attention with 485 points and 101 comments on Hacker News.",
+  "tech_stack": [
+    "RAG",
+    "LLM",
+    "Python",
+    "Deep Learning",
+    "NLP"
+  ],
+  "problem_solved": "Reduces hallucinations and improves accuracy in long-context retrieval-augmented generation systems.",
+  "why_valuable": "Provides a practical solution to a critical limitation of current LLM systems when handling large documents, improving reliability for enterprise and research applications.",
+  "tags": [
+    "RAG",
+    "Hallucination",
+    "LLM",
+    "Information Retrieval",
+    "Tencent Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-10T11:13:46.411949+00:00",
+  "updated_at": "2026-07-10T11:18:22.910070+00:00",
+  "published_to": []
+}

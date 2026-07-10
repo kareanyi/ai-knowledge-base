@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260710-019",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+  "title": "How to shrink the token budget without shrinking the team",
+  "summary": "Nvidia CEO Jensen Huang revealed at GTC 2026 that he evaluates engineers by comparing their annual AI token consumption to their salary, suggesting engineers should keep their AI tool usage costs under half their $500K salary as a performance metric for retention.",
+  "tech_stack": [
+    "AI/LLM",
+    "Token-based pricing",
+    "NVIDIA GPUs"
+  ],
+  "problem_solved": "Addresses how companies can manage rising AI operational costs while maintaining engineering headcount.",
+  "why_valuable": "Provides a concrete financial metric for evaluating the cost-effectiveness of AI tool adoption in engineering teams, linking AI spending to employee value assessment.",
+  "tags": [
+    "AI Cost Optimization",
+    "Engineering Management",
+    "Enterprise AI",
+    "Token Budget",
+    "Nvidia"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-10T11:16:16.892232+00:00",
+  "updated_at": "2026-07-10T11:18:22.918536+00:00",
+  "published_to": []
+}
