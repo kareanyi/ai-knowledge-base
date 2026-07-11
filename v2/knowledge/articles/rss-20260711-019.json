@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-019",
+  "source": "rss",
+  "source_url": "https://ai-2040.com/",
+  "title": "AI 2040: Plan A",
+  "summary": "A strategic planning website exploring AI development trajectories and predictions toward 2040, presenting what the author calls a 'Plan A' for navigating the AI landscape. The content likely covers timeline predictions, key milestones, and strategic considerations for individuals and organizations preparing for AI's future impact.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "AGI",
+    "Large Language Models",
+    "Policy"
+  ],
+  "problem_solved": "Helps readers understand and prepare for the long-term trajectory of AI development through 2040.",
+  "why_valuable": "Provides structured foresight and strategic planning for an increasingly AI-dominated future, with high community validation (259 HN points).",
+  "tags": [
+    "AI",
+    "Future",
+    "Predictions",
+    "Strategy",
+    "AGI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:49:20.468975+00:00",
+  "updated_at": "2026-07-11T09:51:45.429497+00:00",
+  "published_to": []
+}

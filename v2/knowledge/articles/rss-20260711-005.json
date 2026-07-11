@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260711-005",
+  "source": "rss",
+  "source_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+  "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+  "summary": "Apple has filed a lawsuit against OpenAI accusing former Apple employees who joined OpenAI of stealing trade secrets related to AI technology. The case highlights growing tensions in the AI industry over talent acquisition and intellectual property protection between major tech companies.",
+  "tech_stack": [
+    "AI/ML Technology",
+    "Large Language Models",
+    "ChatGPT"
+  ],
+  "problem_solved": "This news story addresses the legal dispute over alleged theft of proprietary AI technology and trade secrets by former employees.",
+  "why_valuable": "It reveals the intensifying legal battles over AI talent and intellectual property in Silicon Valley, setting precedent for future tech industry employment disputes.",
+  "tags": [
+    "Apple",
+    "OpenAI",
+    "Legal Battle",
+    "Trade Secrets",
+    "AI Industry"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-11T09:46:00.571576+00:00",
+  "updated_at": "2026-07-11T09:51:45.421113+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260711-006",
+  "source": "rss",
+  "source_url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+  "title": "An update on residential proxies and the scraper situation",
+  "summary": "LWN.net provides an update on the controversial practice of using residential proxies for web scraping, a topic that has gained significant attention due to increased data collection for AI training. The article discusses the ethical, legal, and technical implications of scraping practices and proxy usage.",
+  "tech_stack": [
+    "Residential Proxies",
+    "Web Scraping",
+    "AI Training Data"
+  ],
+  "problem_solved": "Addresses the ongoing debate around the ethics and legality of using residential proxies for large-scale web data collection.",
+  "why_valuable": "Provides important insights into the complex web scraping landscape and its implications for content creators, scrapers, and the AI industry.",
+  "tags": [
+    "Web Scraping",
+    "Proxies",
+    "Data Ethics",
+    "AI Training",
+    "Privacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:46:18.368794+00:00",
+  "updated_at": "2026-07-11T09:51:45.421248+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-004",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+  "title": "Moss (YC F25) Is Hiring",
+  "summary": "Moss, a startup in Y Combinator's Winter 2025 batch (F25), is actively recruiting a Software Engineer to focus on SDK development. This is a standard YC job board posting seeking talent for building developer-facing tools and libraries.",
+  "tech_stack": [
+    "SDK Development",
+    "API Design",
+    "TypeScript",
+    "Python",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "YC-backed Moss is hiring SDK engineering talent to build and maintain their software development kit for external developers.",
+  "why_valuable": "Joining a YC F25 company early offers potential equity upside and the opportunity to shape foundational developer tools from the ground up.",
+  "tags": [
+    "YC",
+    "Startup",
+    "SDK",
+    "Hiring",
+    "Developer Tools"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-11T09:45:49.426349+00:00",
+  "updated_at": "2026-07-11T09:51:45.420978+00:00",
+  "published_to": []
+}

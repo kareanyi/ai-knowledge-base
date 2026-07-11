@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-009",
+  "source": "rss",
+  "source_url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+  "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+  "summary": "SpaceX plans to massively expand its Starlink satellite constellation by requesting approval to launch 100,000 additional satellites, which would provide 100x more bandwidth than current capacity. This represents a significant escalation in the company's ambitions to dominate the global satellite internet market and compete with traditional broadband providers.",
+  "tech_stack": [
+    "LEO Satellites",
+    "Ka/Ku Band",
+    "Satellite Mesh Networking",
+    "Phased Array Antenna",
+    "Inter-satellite Links"
+  ],
+  "problem_solved": "Expands global broadband internet coverage to underserved and rural areas with limited infrastructure access.",
+  "why_valuable": "Could fundamentally transform global internet connectivity by creating ubiquitous, low-latency broadband access worldwide, while raising concerns about space congestion and regulatory challenges.",
+  "tags": [
+    "SpaceX",
+    "Starlink",
+    "Satellite Internet",
+    "LEO Constellation",
+    "Telecommunications"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:47:07.597822+00:00",
+  "updated_at": "2026-07-11T09:51:45.421747+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-007",
+  "source": "rss",
+  "source_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+  "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+  "summary": "OpenAI's GPT-5.6 Sol Ultra model reportedly produces a proof of the Cycle Double Cover Conjecture, a long-standing open problem in graph theory stating that every bridgeless graph has a collection of cycles covering each edge exactly twice. The claim gained significant attention on Hacker News with 450+ points and 363 comments, though the validity of the proof remains under community scrutiny.",
+  "tech_stack": [
+    "OpenAI GPT-5.6 Sol Ultra",
+    "PDF",
+    "Mathematical Proof Systems",
+    "Graph Theory",
+    "LaTeX"
+  ],
+  "problem_solved": "Attempts to solve the Cycle Double Cover Conjecture, a decades-old unsolved problem in graph theory that relates to covering edges of bridgeless graphs with cycles.",
+  "why_valuable": "If verified, this would represent a historic achievement—demonstrating an AI system solving a major open mathematical problem that has challenged human mathematicians for over 40 years.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Graph Theory",
+    "Proof",
+    "OpenAI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:46:32.543974+00:00",
+  "updated_at": "2026-07-11T09:51:45.421457+00:00",
+  "published_to": []
+}

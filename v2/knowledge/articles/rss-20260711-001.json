@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260711-001",
+  "source": "rss",
+  "source_url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+  "title": "Companies are scrambling to curtail soaring AI costs",
+  "summary": "The Economist reports on how businesses are struggling to manage the rapidly escalating costs of AI implementation, including compute expenses, energy consumption, and data infrastructure investments, as they seek to balance AI adoption with profitability.",
+  "tech_stack": [
+    "Generative AI",
+    "Cloud Computing",
+    "LLM Infrastructure"
+  ],
+  "problem_solved": "Addresses the challenge of managing unsustainable AI operational costs that threaten to undermine enterprise AI investments.",
+  "why_valuable": "Highlights a critical economic reality that could reshape AI adoption strategies and force companies to prioritize efficiency over capability.",
+  "tags": [
+    "AI Economics",
+    "Enterprise AI",
+    "Cost Optimization",
+    "Business Strategy",
+    "Cloud Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:45:13.207067+00:00",
+  "updated_at": "2026-07-11T09:51:45.420433+00:00",
+  "published_to": []
+}

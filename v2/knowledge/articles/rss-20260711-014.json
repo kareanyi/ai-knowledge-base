@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260711-014",
+  "source": "rss",
+  "source_url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+  "title": "Computation as a universal and fundamental concept",
+  "summary": "This is an educational course from ergo.org exploring computation as a fundamental concept that transcends traditional computer science, examining its role in physics, mathematics, and philosophy. The course likely covers topics like the nature of computation, Turing machines, and how computational thinking applies across disciplines.",
+  "tech_stack": [
+    "Web-based course platform",
+    "Educational content"
+  ],
+  "problem_solved": "Provides a foundational understanding of why computation is considered a universal concept beyond just programming or computing machinery.",
+  "why_valuable": "Helps learners develop a deeper, interdisciplinary understanding of computation that connects computer science to physics, mathematics, and philosophy, fostering more sophisticated thinking about information processing.",
+  "tags": [
+    "Computation Theory",
+    "Computer Science",
+    "Philosophy",
+    "Mathematics",
+    "Education"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:48:05.521715+00:00",
+  "updated_at": "2026-07-11T09:51:45.428635+00:00",
+  "published_to": []
+}

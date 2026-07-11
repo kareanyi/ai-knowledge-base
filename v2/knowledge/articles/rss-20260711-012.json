@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-012",
+  "source": "rss",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+  "title": "QuadRF can spot drones and see WiFi through my wall",
+  "summary": "Jeff Geerling reviews QuadRF, a software-defined radio tool that can detect drones and visualize WiFi signals through walls using RF (radio frequency) technology, demonstrating its capabilities for RF monitoring and security applications.",
+  "tech_stack": [
+    "Software-Defined Radio (SDR)",
+    "Python",
+    "Raspberry Pi",
+    "RF/Antenna Technology",
+    "Linux"
+  ],
+  "problem_solved": "Provides the ability to detect and monitor drone activity and WiFi signals through physical barriers for security and RF analysis purposes.",
+  "why_valuable": "It democratizes RF monitoring technology, making drone detection and wall-penetrating signal analysis accessible to hobbyists and security professionals alike.",
+  "tags": [
+    "SDR",
+    "Drone Detection",
+    "RF Monitoring",
+    "Hardware",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:47:42.988863+00:00",
+  "updated_at": "2026-07-11T09:51:45.428262+00:00",
+  "published_to": []
+}

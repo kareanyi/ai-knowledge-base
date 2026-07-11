@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-011",
+  "source": "rss",
+  "source_url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+  "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+  "summary": "Researchers discovered in 2015 that the teeth of limpets (a type of marine snail) contain goethite nanofibers that are actually stronger than spider silk, making them the new strongest known natural material. This breakthrough from the University of Portsmouth challenges the long-held belief about spider silk's supremacy in material strength.",
+  "tech_stack": [
+    "Materials Science",
+    "Nanofibers",
+    "Goethite",
+    "Electron Microscopy",
+    "Biomimetics"
+  ],
+  "problem_solved": "Determined which natural material holds the title of strongest substance in nature, replacing spider silk with limpet teeth.",
+  "why_valuable": "This discovery opens new avenues for developing stronger synthetic materials inspired by biological structures, with potential applications in engineering, construction, and aerospace industries.",
+  "tags": [
+    "Biomaterials",
+    "Nature",
+    "Materials Science",
+    "Nanotechnology",
+    "Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:47:29.308757+00:00",
+  "updated_at": "2026-07-11T09:51:45.428068+00:00",
+  "published_to": []
+}

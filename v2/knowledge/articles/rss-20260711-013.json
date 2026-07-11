@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260711-013",
+  "source": "rss",
+  "source_url": "https://lesleylai.info/en/flashcards/",
+  "title": "A love letter to flashcards",
+  "summary": "A personal essay exploring why flashcards are an effective learning tool, discussing the author's experience using them for studying computer science and the cognitive science principles behind spaced repetition and active recall that make them powerful for knowledge retention.",
+  "tech_stack": [
+    "Spaced Repetition",
+    "Anki",
+    "Active Recall",
+    "Cognitive Science"
+  ],
+  "problem_solved": "Inefficient memorization and poor long-term retention in learning.",
+  "why_valuable": "Flashcards leverage evidence-based learning techniques that significantly improve memory consolidation compared to passive reading.",
+  "tags": [
+    "Education",
+    "Learning",
+    "Memory",
+    "Spaced Repetition",
+    "Study Methods"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-11T09:47:54.413888+00:00",
+  "updated_at": "2026-07-11T09:51:45.428464+00:00",
+  "published_to": []
+}

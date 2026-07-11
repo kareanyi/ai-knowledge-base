@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260711-015",
+  "source": "rss",
+  "source_url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+  "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+  "summary": "Scarf, a company that successfully ran Haskell in production for 7 years, has reluctantly decided to migrate away from the language. The article provides insights into the real-world challenges and trade-offs encountered when maintaining a Haskell codebase at scale, including hiring difficulties, tooling limitations, and ecosystem constraints.",
+  "tech_stack": [
+    "Haskell",
+    "Functional Programming",
+    "Type Systems",
+    "Production Infrastructure"
+  ],
+  "problem_solved": "Addresses the practical challenges of maintaining a Haskell-based production system over 7 years, including hiring, tooling, and long-term maintainability concerns.",
+  "why_valuable": "Provides a rare, honest case study of a company that loved Haskell but found it unsustainable for long-term production use, offering valuable lessons for technology stack decisions.",
+  "tags": [
+    "Haskell",
+    "Functional Programming",
+    "Tech Migration",
+    "Production Systems",
+    "Language Choice"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-11T09:48:21.805838+00:00",
+  "updated_at": "2026-07-11T09:51:45.428805+00:00",
+  "published_to": []
+}
