@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-005",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/1203.5426",
+  "title": "The Energetic Costs of Cellular Computation (2012)",
+  "summary": "A theoretical paper exploring the thermodynamic and energetic costs associated with computation performed at the cellular level, examining how biological systems perform information processing and what fundamental energy constraints govern these processes.",
+  "tech_stack": [
+    "Statistical Mechanics",
+    "Thermodynamics",
+    "Mathematical Modeling",
+    "Information Theory",
+    "Computational Simulation"
+  ],
+  "problem_solved": "Understanding the fundamental energy requirements and physical limits of computation in biological cellular systems.",
+  "why_valuable": "Provides crucial insights into the relationship between energy consumption and information processing in living organisms, bridging thermodynamics and biology.",
+  "tags": [
+    "Biology",
+    "Thermodynamics",
+    "Computation Theory",
+    "Biophysics",
+    "Information Theory"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-12T09:59:05.741055+00:00",
+  "updated_at": "2026-07-12T10:04:55.282700+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-004",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+  "title": "Unexpected Solidlike Fracture in Simple Liquids",
+  "summary": "Researchers discovered that simple liquids, which typically only flow, can unexpectedly fracture like solids under high strain rates when their viscosity and surface tension are precisely balanced. This counterintuitive phenomenon, published in Physical Review Letters, challenges long-held assumptions about liquid behavior and was observed through high-speed imaging and molecular dynamics simulations.",
+  "tech_stack": [
+    "Experimental Physics",
+    "Molecular Dynamics Simulations",
+    "High-Speed Imaging",
+    "Theoretical Fluid Dynamics",
+    "Computational Modeling"
+  ],
+  "problem_solved": "Explains why certain simple liquids exhibit solid-like fracture behavior instead of continuous flow under extreme conditions",
+  "why_valuable": "Challenges fundamental assumptions about liquid mechanics and could improve understanding of geological phenomena like magma fragmentation and industrial processes involving high-velocity liquid jets",
+  "tags": [
+    "Physics",
+    "Fluid Mechanics",
+    "Materials Science",
+    "Research",
+    "Fracture Mechanics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-12T09:58:54.044326+00:00",
+  "updated_at": "2026-07-12T10:04:55.282483+00:00",
+  "published_to": []
+}

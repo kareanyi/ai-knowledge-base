@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-014",
+  "source": "rss",
+  "source_url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+  "title": "UPI: Anatomy of a Payment Transaction",
+  "summary": "This article provides a deep technical dive into how UPI (Unified Payments Interface) processes payment transactions, covering the architecture, flow, and components involved from transaction initiation to settlement.",
+  "tech_stack": [
+    "REST APIs",
+    "NPCI Infrastructure",
+    "Real-time Payment Systems",
+    "Mobile Banking",
+    "Digital Payment Protocols"
+  ],
+  "problem_solved": "Enables instant, seamless inter-bank money transfers in India without requiring users to know beneficiary bank details.",
+  "why_valuable": "UPI has revolutionized digital payments in India with billions of transactions processed, and understanding its architecture provides insights into building scalable real-time payment systems.",
+  "tags": [
+    "FinTech",
+    "Payment Systems",
+    "India",
+    "Real-time Payments",
+    "Architecture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-12T10:01:12.254804+00:00",
+  "updated_at": "2026-07-12T10:04:55.289641+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-017",
+  "source": "rss",
+  "source_url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+  "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+  "summary": "This is a scholarly historical article by G.W. Stewart (1993) tracing the development of Singular Value Decomposition from its origins with Beltrami and Jordan in the 1870s through its establishment as a fundamental tool in numerical linear algebra by the mid-20th century. The paper chronicles how SVD evolved from an obscure mathematical concept to an essential technique in statistics, signal processing, and modern data science.",
+  "tech_stack": [
+    "Linear Algebra",
+    "Matrix Theory",
+    "Numerical Analysis",
+    "Statistical Methods",
+    "Signal Processing"
+  ],
+  "problem_solved": "Traces how SVD was developed to solve fundamental problems in matrix decomposition, least-squares approximation, and data dimensionality reduction.",
+  "why_valuable": "Understanding the historical context of SVD reveals why it became the cornerstone of modern machine learning, PCA, recommendation systems, and numerical computing, providing valuable mathematical and historical insight for researchers and practitioners.",
+  "tags": [
+    "Mathematics",
+    "Linear Algebra",
+    "SVD",
+    "History",
+    "Numerical Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-12T10:01:41.644930+00:00",
+  "updated_at": "2026-07-12T10:04:55.290021+00:00",
+  "published_to": []
+}

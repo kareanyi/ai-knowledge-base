@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-001",
+  "source": "rss",
+  "source_url": "https://github.com/cosmtrek/mindwalk",
+  "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+  "summary": "Mindwalk is an open-source tool that visualizes AI coding agent sessions as replayable animations on an interactive 3D map of your codebase, helping developers understand and debug how AI agents navigate and modify their code repositories.",
+  "tech_stack": [
+    "Go",
+    "WebGL",
+    "Three.js",
+    "OpenAI API",
+    "Git"
+  ],
+  "problem_solved": "Provides visual debugging and understanding of AI coding agent behavior by mapping their actions to a 3D representation of the codebase structure.",
+  "why_valuable": "Enables developers to audit, understand, and improve AI coding agent workflows by watching exactly where agents explore and modify code in an intuitive visual format.",
+  "tags": [
+    "AI",
+    "Developer-Tools",
+    "Visualization",
+    "Codebase-Navigation",
+    "Agents"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-12T09:58:08.205647+00:00",
+  "updated_at": "2026-07-12T10:04:55.281868+00:00",
+  "published_to": []
+}

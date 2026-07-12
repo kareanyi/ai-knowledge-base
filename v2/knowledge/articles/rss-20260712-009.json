@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-009",
+  "source": "rss",
+  "source_url": "https://www.iroh.computer/blog/mesh-llm",
+  "title": "Mesh LLM: distributed AI computing on iroh",
+  "summary": "Mesh LLM is a distributed AI computing framework built on iroh's peer-to-peer networking capabilities, enabling decentralized LLM inference across a mesh of connected nodes without relying on centralized cloud infrastructure.",
+  "tech_stack": [
+    "iroh",
+    "Rust",
+    "LLM",
+    "P2P Networking",
+    "Distributed Computing"
+  ],
+  "problem_solved": "Enables distributed AI inference across peer-to-peer nodes, reducing dependency on centralized cloud providers for LLM workloads.",
+  "why_valuable": "Provides privacy, resilience, and cost-efficiency by leveraging mesh networking to distribute AI computational workloads across multiple participants.",
+  "tags": [
+    "Distributed AI",
+    "Peer-to-Peer",
+    "Mesh Network",
+    "LLM",
+    "Decentralized"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-12T10:00:04.492341+00:00",
+  "updated_at": "2026-07-12T10:04:55.283143+00:00",
+  "published_to": []
+}

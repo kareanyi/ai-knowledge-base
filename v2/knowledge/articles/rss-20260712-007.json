@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-007",
+  "source": "rss",
+  "source_url": "https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&amp;sid=14770&amp;abid=51228",
+  "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
+  "summary": "A post-mortem study revealing that SARS-CoV-2 virus actively replicates in the hearts of Long Covid patients, providing scientific evidence for persistent cardiac symptoms in post-acute COVID syndrome. This research offers potential mechanistic explanation for cardiovascular complications observed in Long Covid cases.",
+  "tech_stack": [
+    "PCR",
+    "Immunohistochemistry",
+    "In Situ Hybridization",
+    "Autopsy Methodology",
+    "Histopathology"
+  ],
+  "problem_solved": "Explains the underlying mechanism of cardiac symptoms in Long Covid patients through evidence of viral persistence and active replication in heart tissue.",
+  "why_valuable": "This research bridges the gap between clinical observations of Long Covid cardiac symptoms and biological evidence, potentially guiding future therapeutic interventions for millions affected by post-acute COVID complications.",
+  "tags": [
+    "Long Covid",
+    "SARS-CoV-2",
+    "Cardiology",
+    "Autopsy Study",
+    "Viral Persistence"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-12T09:59:35.234994+00:00",
+  "updated_at": "2026-07-12T10:04:55.282942+00:00",
+  "published_to": []
+}

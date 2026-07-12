@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-006",
+  "source": "rss",
+  "source_url": "https://fabiensanglard.net/tb4/index.html",
+  "title": "A dock that wakes up reliably",
+  "summary": "A technical deep-dive exploring the implementation and debugging of a reliable wake mechanism for a dock system, likely involving low-level system programming and hardware interaction. The article details the challenges of creating predictable sleep/wake behavior in a software or embedded system context.",
+  "tech_stack": [
+    "C/C++",
+    "Embedded Systems",
+    "Low-level Programming",
+    "System Internals",
+    "Reverse Engineering"
+  ],
+  "problem_solved": "Addresses the challenge of creating a reliable wake mechanism for a docking system that consistently responds to state transitions.",
+  "why_valuable": "Provides insights into low-level system debugging and reliability engineering, demonstrating practical solutions for hardware/software interaction problems.",
+  "tags": [
+    "Systems Programming",
+    "Embedded",
+    "Debugging",
+    "Reliability",
+    "Low-level"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-12T09:59:24.469746+00:00",
+  "updated_at": "2026-07-12T10:04:55.282832+00:00",
+  "published_to": []
+}

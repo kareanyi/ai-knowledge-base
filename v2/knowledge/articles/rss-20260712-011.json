@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-011",
+  "source": "rss",
+  "source_url": "https://antjs.org",
+  "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+  "summary": "Ant is an ambitious JavaScript ecosystem project featuring a custom JavaScript runtime with its own engine, package manager, hosting platform, and Ant Desktop for building native desktop apps similar to Electron. The project aims to provide a unified, all-in-one platform while maintaining compatibility with the wider JavaScript ecosystem.",
+  "tech_stack": [
+    "JavaScript",
+    "Custom JavaScript Engine",
+    "Package Manager",
+    "ants.land Registry",
+    "Ant Desktop"
+  ],
+  "problem_solved": "Provides a complete, integrated JavaScript development platform combining runtime, package management, hosting, and desktop app development in one ecosystem.",
+  "why_valuable": "Offers developers a cohesive alternative to assembling multiple tools (Node.js, npm, hosting services, Electron) with better integration and a unified experience.",
+  "tags": [
+    "JavaScript",
+    "Runtime",
+    "Ecosystem",
+    "Desktop Apps",
+    "Package Manager"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-12T10:00:22.443552+00:00",
+  "updated_at": "2026-07-12T10:04:55.289165+00:00",
+  "published_to": []
+}

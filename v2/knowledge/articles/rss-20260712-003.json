@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260712-003",
+  "source": "rss",
+  "source_url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+  "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+  "summary": "This NPR article covers a new federal regulation requiring colleges and universities to demonstrate measurable improvement in graduate outcomes—such as earnings and employment—or risk losing access to federal student financial aid. The rule, based on 'gainful employment' requirements, aims to hold institutions accountable for student loan investment and protect both borrowers and taxpayers from programs that fail to provide adequate returns.",
+  "tech_stack": [
+    "NPR Digital Platform",
+    "Web Content"
+  ],
+  "problem_solved": "Addresses the lack of accountability for colleges that receive federal financial aid but leave graduates with debt and poor career outcomes.",
+  "why_valuable": "Creates transparency and financial consequences for underperforming educational programs, potentially protecting students from predatory institutions and reducing unsustainable student debt.",
+  "tags": [
+    "Education Policy",
+    "Federal Regulation",
+    "Student Loans",
+    "Higher Education",
+    "Accountability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-12T09:58:38.103920+00:00",
+  "updated_at": "2026-07-12T10:04:55.282328+00:00",
+  "published_to": []
+}

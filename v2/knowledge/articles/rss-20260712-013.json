@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-013",
+  "source": "rss",
+  "source_url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+  "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+  "summary": "This investigative article analyzes the circular financing arrangements between Nvidia, AI infrastructure providers CoreWeave and Nebius, revealing how GPU buyers and sellers are financially intertwined to sustain the AI boom. The piece examines the interconnected ownership structures, debt financing, and equity relationships that create potential systemic risks in the AI infrastructure sector.",
+  "tech_stack": [
+    "GPU Computing",
+    "Cloud Infrastructure",
+    "AI/HPC",
+    "Private Credit",
+    "Equity Financing"
+  ],
+  "problem_solved": "Exposes the complex financial interdependencies and circular ownership structures between major AI infrastructure companies and their GPU supplier Nvidia.",
+  "why_valuable": "Provides critical transparency into financial arrangements that could pose systemic risks if AI infrastructure demand normalizes, helping investors understand hidden exposures in the AI sector.",
+  "tags": [
+    "AI Infrastructure",
+    "GPU",
+    "Financial Analysis",
+    "Investment Risk",
+    "Tech Stocks"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-12T10:00:46.784188+00:00",
+  "updated_at": "2026-07-12T10:04:55.289487+00:00",
+  "published_to": []
+}

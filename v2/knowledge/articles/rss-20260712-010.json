@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-010",
+  "source": "rss",
+  "source_url": "https://github.com/Wren6991/RISCBoy",
+  "title": "RISCBoy is an open-source portable games console, designed from scratch",
+  "summary": "RISCBoy is an open-source portable handheld gaming console built from scratch using RISC-V architecture, featuring custom hardware design and embedded firmware development.",
+  "tech_stack": [
+    "RISC-V",
+    "C/C++",
+    "KiCad",
+    "FPGA",
+    "Embedded Systems"
+  ],
+  "problem_solved": "Provides an open-source, fully customizable handheld gaming console alternative to commercial devices",
+  "why_valuable": "Enables hobbyists and developers to learn embedded systems, hardware design, and RISC-V architecture through a complete, functional project",
+  "tags": [
+    "RISC-V",
+    "Open Source",
+    "Hardware",
+    "Gaming Console",
+    "Embedded"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-12T10:00:11.190379+00:00",
+  "updated_at": "2026-07-12T10:04:55.283241+00:00",
+  "published_to": []
+}

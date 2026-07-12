@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-016",
+  "source": "rss",
+  "source_url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+  "title": "We scaled PgBouncer to 4x throughput",
+  "summary": "ClickHouse engineers share how they optimized PgBouncer configuration to achieve 4x throughput improvement for their managed PostgreSQL service. The article details specific parameter tuning and architectural changes that reduced connection overhead and improved resource utilization.",
+  "tech_stack": [
+    "PgBouncer",
+    "PostgreSQL",
+    "ClickHouse",
+    "Linux",
+    "TCP/IP"
+  ],
+  "problem_solved": "Connection pooling bottleneck limiting PostgreSQL database throughput and scalability",
+  "why_valuable": "Provides concrete, tested optimization techniques that can significantly improve database performance for high-traffic applications without changing application code",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Performance",
+    "Scaling",
+    "DevOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-12T10:01:30.542986+00:00",
+  "updated_at": "2026-07-12T10:04:55.289896+00:00",
+  "published_to": []
+}
