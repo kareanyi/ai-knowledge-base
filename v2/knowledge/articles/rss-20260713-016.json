@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-016",
+  "source": "rss",
+  "source_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+  "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+  "summary": "A case study from Ploy.ai documenting their migration of a production AI agent to GPT-5.6, achieving 2.2x performance improvement and 27% cost reduction through model optimization and infrastructure changes.",
+  "tech_stack": [
+    "GPT-5.6",
+    "OpenAI API",
+    "AI Agents",
+    "Python",
+    "Production Infrastructure"
+  ],
+  "problem_solved": "Optimizes production AI agent performance and reduces operational costs through strategic model migration.",
+  "why_valuable": "Provides concrete metrics and practical insights for teams considering AI model upgrades, with real production results showing significant speed and cost improvements.",
+  "tags": [
+    "AI",
+    "GPT",
+    "Agent",
+    "Performance",
+    "Cost Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-13T11:23:38.574129+00:00",
+  "updated_at": "2026-07-13T11:26:26.938671+00:00",
+  "published_to": []
+}

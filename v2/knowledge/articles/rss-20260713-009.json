@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-009",
+  "source": "rss",
+  "source_url": "https://vilkeliskis.com/b/2026/0711.html",
+  "title": "Designing and assembling my first PCB",
+  "summary": "A personal account of designing and assembling a PCB for the first time, likely documenting the learning journey, tools used, and practical challenges encountered during the hardware development process.",
+  "tech_stack": [
+    "KiCad",
+    "PCB Design",
+    "Electronics",
+    "Soldering",
+    "JLCPCB"
+  ],
+  "problem_solved": "Enables hobbyists and makers to create custom electronic circuits by guiding them through the complete PCB design and assembly workflow from concept to physical board.",
+  "why_valuable": "Provides a real-world beginner perspective on PCB creation, demystifying the hardware design process and encouraging more developers to venture into physical computing projects.",
+  "tags": [
+    "PCB",
+    "Electronics",
+    "Hardware",
+    "DIY",
+    "Maker"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:22:14.140423+00:00",
+  "updated_at": "2026-07-13T11:26:26.931023+00:00",
+  "published_to": []
+}

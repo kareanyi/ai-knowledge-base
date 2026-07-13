@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260713-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+  "title": "AI agent crawlers now need permission. Here&#8217;s how to get it",
+  "summary": "Cloudflare announced that AI agent crawlers will be blocked by default on participating websites starting September 15, shifting from open web crawling to a permission-based model. Website owners will need to explicitly allow AI agents access to their content, giving them more control over how their data is used by AI systems.",
+  "tech_stack": [
+    "Cloudflare",
+    "Web Crawlers",
+    "AI Agents",
+    "Bot Management"
+  ],
+  "problem_solved": "Addresses the issue of AI agents freely crawling websites without website owner consent, raising copyright and data usage concerns.",
+  "why_valuable": "Provides website owners with granular control over AI agent access to their content, establishing a permission-based framework that balances AI utility with content creator rights.",
+  "tags": [
+    "AI Agents",
+    "Web Crawling",
+    "Cloudflare",
+    "AI Policy",
+    "Data Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:24:33.589454+00:00",
+  "updated_at": "2026-07-13T11:26:26.939372+00:00",
+  "published_to": []
+}

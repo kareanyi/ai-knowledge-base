@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-014",
+  "source": "rss",
+  "source_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+  "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+  "summary": "A comparative study measuring token overhead between Claude Code and OpenCode AI coding tools, revealing Claude Code sends 33k tokens before processing user prompts compared to OpenCode's 7k tokens, indicating significantly higher token consumption and cost implications.",
+  "tech_stack": [
+    "Anthropic API",
+    "Claude Code",
+    "OpenCode",
+    "Python",
+    "API Logging"
+  ],
+  "problem_solved": "Quantifies and compares the token overhead inefficiency between two popular AI-assisted coding tools.",
+  "why_valuable": "Provides empirical data to help developers make informed decisions about tool selection based on token efficiency and cost, especially for high-usage scenarios.",
+  "tags": [
+    "AI",
+    "Claude",
+    "token-overhead",
+    "benchmarking",
+    "coding-tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:23:09.095412+00:00",
+  "updated_at": "2026-07-13T11:26:26.938333+00:00",
+  "published_to": []
+}

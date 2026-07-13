@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260713-017",
+  "source": "rss",
+  "source_url": "https://www.larp.website/",
+  "title": "LARP – Revenue infrastructure for serious founders",
+  "summary": "LARP is a revenue infrastructure platform designed for startup founders to build, manage, and scale their revenue operations more effectively, providing tools and infrastructure to handle the complexities of growing a business's revenue streams.",
+  "tech_stack": [
+    "SaaS",
+    "Web Platform",
+    "B2B Tools",
+    "Revenue Operations"
+  ],
+  "problem_solved": "Provides founders with unified revenue infrastructure to streamline sales, billing, and financial operations without building custom solutions from scratch.",
+  "why_valuable": "Enables startups to focus on growth rather than building revenue systems, offering enterprise-grade revenue infrastructure at a fraction of the cost and complexity.",
+  "tags": [
+    "Revenue Ops",
+    "SaaS",
+    "Startup Tools",
+    "B2B",
+    "Founder Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:23:52.210059+00:00",
+  "updated_at": "2026-07-13T11:26:26.938833+00:00",
+  "published_to": []
+}

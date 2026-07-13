@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260713-008",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48886741",
+  "title": "Ask HN: Add flag for AI-generated articles",
+  "summary": "A Hacker News user proposes adding an optional flag/indicator for AI-generated articles on HN, not as a moderation tool but as a visibility option for readers who prefer to skip such content. The discussion raises questions about whether HN's voting system is sufficient and if the platform should adapt to the generative AI era.",
+  "tech_stack": [
+    "Platform Feature Design",
+    "User Interface",
+    "Community Moderation"
+  ],
+  "problem_solved": "Provides readers who want to avoid AI-generated content with a simple way to identify and skip such articles.",
+  "why_valuable": "It respects reader autonomy by offering opt-in filtering without forcing moderation decisions on the entire community.",
+  "tags": [
+    "HackerNews",
+    "AI-Generated Content",
+    "Content Moderation",
+    "Platform Design",
+    "Community Discussion"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:21:58.689883+00:00",
+  "updated_at": "2026-07-13T11:26:26.930824+00:00",
+  "published_to": []
+}

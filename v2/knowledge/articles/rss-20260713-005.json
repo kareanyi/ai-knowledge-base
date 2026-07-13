@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260713-005",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+  "title": "Sam Neill has died",
+  "summary": "The Guardian reports on the death of actor Sam Neill at age 78, marking the end of a distinguished career spanning several decades with notable roles in Jurassic Park and The Talented Mr. Ripley.",
+  "tech_stack": [
+    "The Guardian CMS",
+    "Hacker News"
+  ],
+  "problem_solved": "This is a news obituary article reporting on a celebrity death, not a technical solution.",
+  "why_valuable": "Provides timely news coverage of a significant cultural figure's passing, serving readers seeking entertainment industry updates.",
+  "tags": [
+    "News",
+    "Obituary",
+    "Film",
+    "Celebrity",
+    "Entertainment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:21:13.726342+00:00",
+  "updated_at": "2026-07-13T11:26:26.930407+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260713-004",
+  "source": "rss",
+  "source_url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+  "title": "Backtrack-Free Cursive",
+  "summary": "A technical blog post exploring the concept of 'backtrack-free' operations in relation to cursive writing or the Cursive programming language. The article discusses how to achieve operations without needing to undo or reverse previous steps, which can improve efficiency in certain algorithms or workflows.",
+  "tech_stack": [
+    "Algorithms",
+    "Data Structures",
+    "Cursive",
+    "Programming"
+  ],
+  "problem_solved": "Eliminates the need for backtracking or undoing operations in cursive-related computations or writing systems.",
+  "why_valuable": "Backtrack-free approaches can significantly improve performance and simplify code complexity by avoiding costly undo operations.",
+  "tags": [
+    "Algorithms",
+    "Programming",
+    "Cursive",
+    "Optimization",
+    "HackerNews"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:21:05.018501+00:00",
+  "updated_at": "2026-07-13T11:26:26.930270+00:00",
+  "published_to": []
+}

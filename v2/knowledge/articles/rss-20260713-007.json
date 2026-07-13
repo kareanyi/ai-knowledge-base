@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-007",
+  "source": "rss",
+  "source_url": "https://github.com/schlae/BeavisUltrasound",
+  "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+  "summary": "An open-source hardware project that creates a functional replica of the rare Beavis Ultrasound PnP ISA sound card from the 1990s, a Sound Blaster-compatible card known among vintage PC enthusiasts for its audio quality and collectibility. The project includes PCB designs and documentation to allow hobbyists to build their own replicas.",
+  "tech_stack": [
+    "KiCad",
+    "FPGA",
+    "Verilog",
+    "ISA Bus",
+    "OPL3"
+  ],
+  "problem_solved": "Enables enthusiasts to experience and preserve rare vintage PC audio hardware that no longer exists in the market.",
+  "why_valuable": "Provides open-source documentation and designs for recreating a piece of computing history, supporting retro gaming and vintage audio preservation.",
+  "tags": [
+    "RetroComputing",
+    "Hardware",
+    "ISASoundCard",
+    "OpenSourceHardware",
+    "VintagePC"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-13T11:21:45.839322+00:00",
+  "updated_at": "2026-07-13T11:26:26.930685+00:00",
+  "published_to": []
+}

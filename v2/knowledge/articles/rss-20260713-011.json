@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-011",
+  "source": "rss",
+  "source_url": "https://kode.diy",
+  "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+  "summary": "Kode Dot is a programmable pocket-sized hardware device designed for makers, penetration testers, and technology enthusiasts to perform on-the-go security testing, hardware hacking, and custom automation tasks without needing a full laptop setup.",
+  "tech_stack": [
+    "Embedded C",
+    "Microcontroller",
+    "USB",
+    "Custom Firmware",
+    "Python"
+  ],
+  "problem_solved": "Provides a portable, dedicated tool for security professionals and makers to execute programmable tasks and security tests in the field without carrying bulky equipment.",
+  "why_valuable": "It offers mobility and convenience for security researchers and hobbyists who need quick access to programmable hardware tools during penetration testing engagements or maker projects.",
+  "tags": [
+    "Hardware",
+    "Pentesting",
+    "Embedded Systems",
+    "Security",
+    "Makers"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-13T11:22:42.147179+00:00",
+  "updated_at": "2026-07-13T11:26:26.937711+00:00",
+  "published_to": []
+}

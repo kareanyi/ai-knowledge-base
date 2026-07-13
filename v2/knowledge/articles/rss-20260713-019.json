@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-019",
+  "source": "rss",
+  "source_url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+  "title": "How we can reduce traffic congestion",
+  "summary": "This is a Google Research blog post exploring collaborative strategies for reducing urban traffic congestion, likely leveraging data analysis and machine learning approaches to optimize traffic flow through coordinated solutions.",
+  "tech_stack": [
+    "Machine Learning",
+    "Python",
+    "Data Analysis",
+    "Traffic Simulation",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Addresses urban traffic congestion through collaborative, data-driven optimization strategies.",
+  "why_valuable": "Demonstrates how computational approaches and collaboration can significantly improve urban mobility and reduce commute times.",
+  "tags": [
+    "Transportation",
+    "Urban Planning",
+    "Machine Learning",
+    "Smart Cities",
+    "Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-13T11:24:21.059176+00:00",
+  "updated_at": "2026-07-13T11:26:26.939200+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260713-001",
+  "source": "rss",
+  "source_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+  "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+  "summary": "A critical analysis piece where the creator of the Zig programming language (Andrew Kelley) provides direct criticism, while the author examines Anthropic's claims or positioning in the AI space. The article appears to be a direct, no-nonsense assessment of tech industry claims.",
+  "tech_stack": [
+    "Zig",
+    "Anthropic Claude",
+    "LLM/AI"
+  ],
+  "problem_solved": "Provides honest, direct criticism of potentially misleading claims in the programming language and AI industries.",
+  "why_valuable": "Offers an unfiltered perspective from a respected systems programmer on the AI industry's marketing claims and technical assertions.",
+  "tags": [
+    "Zig",
+    "Anthropic",
+    "AI Criticism",
+    "Programming Languages",
+    "Industry Analysis"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-13T11:20:08.727199+00:00",
+  "updated_at": "2026-07-13T11:26:26.929676+00:00",
+  "published_to": []
+}

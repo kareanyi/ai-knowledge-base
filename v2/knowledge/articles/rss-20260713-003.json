@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-003",
+  "source": "rss",
+  "source_url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+  "title": "Quadrupling code performance with a \"useless\" if",
+  "summary": "A technical blog post exploring how adding an apparently redundant if statement can trigger compiler optimizations or improve CPU branch prediction, resulting in significant performance gains. The author demonstrates with benchmarks how seemingly 'useless' code can help the compiler generate more efficient machine instructions or enable better CPU pipeline utilization.",
+  "tech_stack": [
+    "C/C++",
+    "Assembly",
+    "Compiler Internals",
+    "CPU Architecture",
+    "Branch Prediction"
+  ],
+  "problem_solved": "Improves code execution performance by leveraging compiler optimization hints and CPU branch prediction behavior through strategic conditional statements.",
+  "why_valuable": "Demonstrates practical low-level optimization techniques that can yield 4x+ speedups by understanding compiler and CPU internals, valuable for performance-critical applications.",
+  "tags": [
+    "performance",
+    "optimization",
+    "compiler",
+    "branch-prediction",
+    "low-level"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-13T11:20:52.223457+00:00",
+  "updated_at": "2026-07-13T11:26:26.930122+00:00",
+  "published_to": []
+}

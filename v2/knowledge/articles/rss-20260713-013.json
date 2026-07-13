@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260713-013",
+  "source": "rss",
+  "source_url": "https://floooh.github.io/tiny8bit-preview/index.html",
+  "title": "Tiny Emulators",
+  "summary": "Tiny Emulators is a collection of lightweight, single-file emulators for classic 8-bit systems (NES, Game Boy, C64, VIC-20, Apple II, ZX Spectrum, Atari 2600, etc.) that can run directly in the browser. The project provides both JavaScript versions for web embedding and C versions for native compilation.",
+  "tech_stack": [
+    "C",
+    "JavaScript",
+    "HTML5",
+    "WebAssembly",
+    "SDL"
+  ],
+  "problem_solved": "Makes retro gaming emulation lightweight and easily embeddable for web and native applications without heavy dependencies.",
+  "why_valuable": "Provides portable, self-contained emulators in single files that developers can easily integrate into websites or applications.",
+  "tags": [
+    "Emulation",
+    "Retro Gaming",
+    "8-bit",
+    "Open Source",
+    "Web"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-13T11:23:00.047660+00:00",
+  "updated_at": "2026-07-13T11:26:26.938166+00:00",
+  "published_to": []
+}
