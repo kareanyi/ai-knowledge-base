@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-008",
+  "source": "rss",
+  "source_url": "https://github.com/JetBrains/youtrackdb",
+  "title": "YouTrackDB is a general-use object-oriented graph database",
+  "summary": "YouTrackDB is a general-purpose object-oriented graph database developed by JetBrains, designed to store and manage complex object relationships in a graph structure with native support for object-oriented paradigms.",
+  "tech_stack": [
+    "Kotlin",
+    "Graph Database",
+    "Object-Oriented",
+    "JVM"
+  ],
+  "problem_solved": "Provides an object-oriented approach to graph data storage, making it easier for developers to work with complex interconnected data structures without impedance mismatch.",
+  "why_valuable": "Combines the flexibility of graph databases with object-oriented programming concepts, allowing seamless mapping between code objects and stored data.",
+  "tags": [
+    "graph-database",
+    "object-oriented",
+    "database",
+    "jetbrains",
+    "nosql"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-14T10:07:52.583436+00:00",
+  "updated_at": "2026-07-14T10:10:24.131310+00:00",
+  "published_to": []
+}

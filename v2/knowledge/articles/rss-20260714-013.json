@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260714-013",
+  "source": "rss",
+  "source_url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+  "title": "Building Food Metadata with LLM Juries",
+  "summary": "DoorDash engineers developed an LLM-based system using 'jury' consensus mechanisms and multimodal AI to automatically generate and enhance food product metadata across their platform, improving consistency and scalability of catalog information.",
+  "tech_stack": [
+    "LLM",
+    "Multimodal AI",
+    "Context Optimization",
+    "NLP",
+    "Machine Learning"
+  ],
+  "problem_solved": "Solves the challenge of generating consistent, accurate food metadata at scale across millions of restaurant menu items.",
+  "why_valuable": "Enables automated, high-quality metadata creation that enhances food discovery, search relevance, and personalization for millions of users on the platform.",
+  "tags": [
+    "LLM",
+    "Multimodal AI",
+    "Food Tech",
+    "E-commerce",
+    "Metadata"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-14T10:08:57.882647+00:00",
+  "updated_at": "2026-07-14T10:10:24.138455+00:00",
+  "published_to": []
+}

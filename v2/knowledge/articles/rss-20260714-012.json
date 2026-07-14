@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260714-012",
+  "source": "rss",
+  "source_url": "https://satellitemap.space/",
+  "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+  "summary": "A real-time web-based satellite tracking visualization that displays Starlink and approximately 30,000 satellites on an interactive 3D globe, allowing users to monitor orbital positions and trajectories.",
+  "tech_stack": [
+    "JavaScript",
+    "WebGL",
+    "Three.js",
+    "Celestrak TLE Data",
+    "Cesium.js"
+  ],
+  "problem_solved": "Provides public visibility into the rapidly growing satellite population in Earth orbit, making complex orbital tracking data accessible and visual.",
+  "why_valuable": " democratizes space situational awareness by giving anyone with a browser the ability to track satellites in real-time, fostering greater transparency about our orbital environment.",
+  "tags": [
+    "satellite-tracking",
+    "visualization",
+    "Starlink",
+    "space-monitoring",
+    "real-time"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-14T10:08:43.271661+00:00",
+  "updated_at": "2026-07-14T10:10:24.138253+00:00",
+  "published_to": []
+}

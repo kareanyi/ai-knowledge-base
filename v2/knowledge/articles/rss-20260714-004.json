@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260714-004",
+  "source": "rss",
+  "source_url": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+  "title": "The Anatomy of an Instruction Pipeline Hazard",
+  "summary": "A technical deep-dive into instruction pipeline hazards in CPU architecture, explaining the different types of hazards (data, structural, and control) that occur when instructions are processed in parallel through a processor pipeline, along with detection and resolution techniques.",
+  "tech_stack": [
+    "Computer Architecture",
+    "CPU Pipeline Design",
+    "Low-level Hardware",
+    "Assembly/ISA",
+    "Verilog/VHDL (implied)"
+  ],
+  "problem_solved": "Pipeline hazards cause incorrect instruction execution when parallel processing leads to data races, resource conflicts, and branch mispredictions in CPU cores.",
+  "why_valuable": "Essential knowledge for understanding modern CPU design, optimizing compiler construction, and writing performant low-level code that respects hardware behavior.",
+  "tags": [
+    "CPU",
+    "Pipeline",
+    "Hardware",
+    "Computer-Architecture",
+    "Hazards"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-14T10:06:54.909612+00:00",
+  "updated_at": "2026-07-14T10:10:24.130614+00:00",
+  "published_to": []
+}

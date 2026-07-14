@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260714-006",
+  "source": "rss",
+  "source_url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+  "title": "Just Let Me Write Digits",
+  "summary": "A developer blog post discussing challenges with numeric digit input, likely exploring UX or technical solutions for better input handling of numbers in applications.",
+  "tech_stack": [
+    "Web Development",
+    "UI/UX",
+    "JavaScript"
+  ],
+  "problem_solved": "Frustration with numeric input methods in web forms or applications.",
+  "why_valuable": "Addresses a common but often overlooked pain point in user input experiences.",
+  "tags": [
+    "Web Dev",
+    "UI",
+    "Input",
+    "UX",
+    "Forms"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-14T10:07:25.826693+00:00",
+  "updated_at": "2026-07-14T10:10:24.130975+00:00",
+  "published_to": []
+}

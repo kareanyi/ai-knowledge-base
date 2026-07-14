@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260714-011",
+  "source": "rss",
+  "source_url": "https://web.stanford.edu/~dntse/wireless_book.html",
+  "title": "Fundamentals of Wireless Communication (2005)",
+  "summary": "A classic graduate-level textbook on wireless communication fundamentals by David Tse and Pramod Viswanath from Stanford University, covering topics including information theory, wireless channel modeling, MIMO, cellular systems, and advanced modulation techniques.",
+  "tech_stack": [
+    "Information Theory",
+    "MIMO",
+    "OFDM",
+    "Channel Coding",
+    "Digital Signal Processing"
+  ],
+  "problem_solved": "Provides comprehensive theoretical foundations for understanding, analyzing, and designing modern wireless communication systems.",
+  "why_valuable": "This is one of the most influential and widely-adopted textbooks in wireless communications, serving as the standard reference for graduate-level courses on cellular systems and MIMO technology worldwide.",
+  "tags": [
+    "Wireless",
+    "Communication",
+    "Information Theory",
+    "Academic",
+    "MIMO"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-14T10:08:31.816964+00:00",
+  "updated_at": "2026-07-14T10:10:24.138047+00:00",
+  "published_to": []
+}

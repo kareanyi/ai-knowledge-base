@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260714-002",
+  "source": "rss",
+  "source_url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+  "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+  "summary": "This article discusses Spectral Compute's initiative to create CUDA compatibility solutions enabling CUDA code to run on non-Nvidia hardware like AMD and Intel GPUs, challenging Nvidia's dominant position in GPU computing.",
+  "tech_stack": [
+    "CUDA",
+    "GPU Computing",
+    "ROCm",
+    "Parallel Computing",
+    "Hardware Abstraction"
+  ],
+  "problem_solved": "Enables developers to run CUDA code on non-Nvidia GPUs without major code rewrites, breaking vendor lock-in.",
+  "why_valuable": "Promotes healthy competition in GPU hardware market and gives developers freedom to choose hardware without sacrificing their existing CUDA investment.",
+  "tags": [
+    "CUDA",
+    "GPU",
+    "Hardware",
+    "Compatibility",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-14T10:06:29.420465+00:00",
+  "updated_at": "2026-07-14T10:10:24.130219+00:00",
+  "published_to": []
+}

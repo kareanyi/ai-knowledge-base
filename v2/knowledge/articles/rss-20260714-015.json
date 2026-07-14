@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-015",
+  "source": "rss",
+  "source_url": "https://elasticity.institute/rsi-paper.pdf",
+  "title": "The Economics of Recursive Self-Improvement [pdf]",
+  "summary": "This paper examines the economic principles underlying recursive self-improvement in AI systems, analyzing the cost-benefit dynamics and feasibility of AI systems that can iteratively enhance their own capabilities. It likely explores concepts like intelligence explosions, diminishing returns, and resource requirements for AI self-enhancement cycles.",
+  "tech_stack": [
+    "Academic Research",
+    "Mathematical Modeling",
+    "Economic Analysis",
+    "Theoretical Computer Science"
+  ],
+  "problem_solved": "Addresses the fundamental question of whether recursive AI self-improvement is economically viable and what constraints might limit infinite self-enhancement loops.",
+  "why_valuable": "Provides crucial theoretical framework for understanding AI development trajectories and the economic barriers to achieving recursive improvement, which has significant implications for AI safety and governance.",
+  "tags": [
+    "AI",
+    "Recursion",
+    "Self-Improvement",
+    "Economics",
+    "AGI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-14T10:09:22.232959+00:00",
+  "updated_at": "2026-07-14T10:10:24.138818+00:00",
+  "published_to": []
+}

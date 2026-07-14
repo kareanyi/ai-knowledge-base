@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260714-003",
+  "source": "rss",
+  "source_url": "https://sebsite.pw/w/20260709-nan.html",
+  "title": "Two Case Studies of NaN",
+  "summary": "A technical article examining two practical case studies involving NaN (Not a Number) behavior in programming. The article likely explores common pitfalls and debugging scenarios where NaN values unexpectedly appear in code, providing insights into handling numeric edge cases in software development.",
+  "tech_stack": [
+    "JavaScript",
+    "Python",
+    "Programming Fundamentals"
+  ],
+  "problem_solved": "Helps developers understand and debug unexpected NaN behavior in numeric computations and type conversions.",
+  "why_valuable": "NaN is a common source of bugs that are often difficult to diagnose; case studies provide practical, real-world examples of how to handle these edge cases.",
+  "tags": [
+    "Debugging",
+    "JavaScript",
+    "Numerical Computing",
+    "Programming",
+    "Bug Fixing"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-14T10:06:42.683971+00:00",
+  "updated_at": "2026-07-14T10:10:24.130428+00:00",
+  "published_to": []
+}

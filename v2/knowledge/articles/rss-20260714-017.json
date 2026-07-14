@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260714-017",
+  "source": "rss",
+  "source_url": "https://lalitm.com/post/git-history/",
+  "title": "The git history command",
+  "summary": "这是一篇关于 Git 历史命令的详细教程文章，展示了如何使用各种 git log 选项来浏览和理解代码仓库的历史记录。文章获得了 Hacker News 298 点高分和 170 条评论，表明其在开发者社区中广受欢迎。",
+  "tech_stack": [
+    "Git",
+    "Command Line",
+    "Bash"
+  ],
+  "problem_solved": "帮助开发者更高效地浏览、搜索和理解 Git 仓库的提交历史",
+  "why_valuable": "掌握 Git 历史命令可以显著提升代码审查、调试和项目理解的效率，是每个开发者必备的技能",
+  "tags": [
+    "Git",
+    "Version Control",
+    "Developer Tools",
+    "Command Line",
+    "Tutorial"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-14T10:09:44.822139+00:00",
+  "updated_at": "2026-07-14T10:10:24.139177+00:00",
+  "published_to": []
+}
