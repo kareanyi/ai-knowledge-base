@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-011",
+  "source": "rss",
+  "source_url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+  "title": "Microsoft has released software updates to plug at least 570 security holes",
+  "summary": "Microsoft released a record-setting security update addressing 570 vulnerabilities across its software products, highlighting the ongoing challenges in software security at scale.",
+  "tech_stack": [
+    "Microsoft Windows",
+    "Microsoft Office",
+    "Azure",
+    "Edge Browser",
+    "Visual Studio"
+  ],
+  "problem_solved": "Patches critical security vulnerabilities that could be exploited by attackers for remote code execution, privilege escalation, and data breaches.",
+  "why_valuable": "Security patches are essential for protecting enterprise and consumer systems from known exploits, reducing attack surface and preventing potential data breaches.",
+  "tags": [
+    "Cybersecurity",
+    "Microsoft",
+    "Vulnerability",
+    "Patch Management",
+    "Windows Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:12:36.599658+00:00",
+  "updated_at": "2026-07-15T10:14:15.690540+00:00",
+  "published_to": []
+}

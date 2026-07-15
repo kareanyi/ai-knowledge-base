@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-019",
+  "source": "rss",
+  "source_url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+  "title": "How to stop Claude from saying load-bearing",
+  "summary": "A developer blog post explaining techniques to customize Claude (Anthropic's AI assistant) to avoid using repetitive phrases like 'load-bearing' that have become meme-worthy in the AI community, through prompt engineering and API configuration.",
+  "tech_stack": [
+    "Claude API",
+    "Anthropic",
+    "Prompt Engineering",
+    "Python",
+    "API Configuration"
+  ],
+  "problem_solved": "Prevents AI assistants from using annoying, repetitive filler phrases that degrade conversation quality",
+  "why_valuable": "Improves AI interaction quality by customizing behavior to match specific use cases and preferences",
+  "tags": [
+    "AI",
+    "Claude",
+    "Prompt Engineering",
+    "Customization",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:14:14.434930+00:00",
+  "updated_at": "2026-07-15T10:14:15.692183+00:00",
+  "published_to": []
+}

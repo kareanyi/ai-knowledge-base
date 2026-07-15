@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-004",
+  "source": "rss",
+  "source_url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+  "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+  "summary": "This EE Times article covers a keynote presentation on the state of RISC-V, arguing that the open-source instruction set architecture is becoming inevitable in the semiconductor industry. The article discusses RISC-V's trajectory from an academic project to a mainstream alternative to proprietary architectures like ARM and x86.",
+  "tech_stack": [
+    "RISC-V",
+    "Semiconductor Design",
+    "Instruction Set Architecture",
+    "Open-source Hardware",
+    "CPU Architecture"
+  ],
+  "problem_solved": "Addresses the industry challenge of reducing dependency on proprietary instruction set architectures and enabling more flexible, royalty-free processor designs.",
+  "why_valuable": "Provides strategic insights into the future of processor architecture adoption, which is critical for semiconductor companies, embedded systems developers, and technology investors planning long-term roadmaps.",
+  "tags": [
+    "RISC-V",
+    "Semiconductor",
+    "Open-source Hardware",
+    "CPU Architecture",
+    "Processor Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:11:05.795518+00:00",
+  "updated_at": "2026-07-15T10:14:15.682864+00:00",
+  "published_to": []
+}

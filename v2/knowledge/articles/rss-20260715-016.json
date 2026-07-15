@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-016",
+  "source": "rss",
+  "source_url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+  "title": "The Tower Keeps Rising",
+  "summary": "Armin Ronacher discusses the ever-increasing complexity of modern software stacks, using the 'tower' metaphor to describe how we keep adding layers of abstractions and tools on top of each other. The article explores the implications of this trend for developer experience, performance, and the sustainability of our current engineering practices.",
+  "tech_stack": [
+    "Python",
+    "Web Development",
+    "JavaScript/TypeScript",
+    "Cloud Infrastructure",
+    "AI/LLMs"
+  ],
+  "problem_solved": "Examines why the software industry continues to build increasingly complex abstraction layers despite the known costs, and questions whether this trajectory is sustainable.",
+  "why_valuable": "Provides an insightful critique from an experienced engineer (creator of Flask and Jinja2) on the trade-offs of modern software complexity, helping developers reflect on their architectural decisions.",
+  "tags": [
+    "Software Engineering",
+    "Complexity",
+    "Tech Stack",
+    "Abstractions",
+    "Architecture"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-15T10:13:42.409986+00:00",
+  "updated_at": "2026-07-15T10:14:15.691597+00:00",
+  "published_to": []
+}

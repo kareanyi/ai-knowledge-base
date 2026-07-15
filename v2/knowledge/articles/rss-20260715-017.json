@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260715-017",
+  "source": "rss",
+  "source_url": "https://agnost.ai",
+  "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+  "summary": "Agnost AI is a product analytics platform for teams building AI chat and voice agents. It analyzes production conversations to identify behavioral failures such as rage prompting, user confusion, repeated rephrasing, and missed features, helping teams understand real user pain points.",
+  "tech_stack": [
+    "AI Analytics",
+    "Conversation Analysis",
+    "Product Analytics"
+  ],
+  "problem_solved": "AI agent teams struggle to understand how users actually behave and fail when interacting with their products in production.",
+  "why_valuable": "It provides actionable insights into user behavioral patterns that traditional analytics miss, enabling continuous improvement of AI agents.",
+  "tags": [
+    "AI",
+    "Analytics",
+    "Product",
+    "Agent",
+    "User-Feedback"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-15T10:13:53.379115+00:00",
+  "updated_at": "2026-07-15T10:14:15.691793+00:00",
+  "published_to": []
+}

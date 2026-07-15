@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-007",
+  "source": "rss",
+  "source_url": "https://www.starfleetmath.com/",
+  "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+  "summary": "An experimental project demonstrating how 20 OpenAI Codex accounts running in parallel can collaboratively solve challenging mathematical problems from Paul Erdős's collection, showcasing the potential of multi-agent AI systems for tackling complex reasoning tasks.",
+  "tech_stack": [
+    "OpenAI Codex",
+    "Parallel Computing",
+    "Python",
+    "Multi-Agent Systems",
+    "Mathematical Reasoning"
+  ],
+  "problem_solved": "Demonstrates how AI agents working in parallel can solve sophisticated mathematical problems that typically require human expertise.",
+  "why_valuable": "Provides empirical evidence of scaling AI reasoning capabilities through parallel agent architectures for complex problem-solving tasks.",
+  "tags": [
+    "AI Agents",
+    "Mathematics",
+    "Codex",
+    "Parallel Processing",
+    "OpenAI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:11:46.757930+00:00",
+  "updated_at": "2026-07-15T10:14:15.683288+00:00",
+  "published_to": []
+}

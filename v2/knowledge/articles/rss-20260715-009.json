@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-009",
+  "source": "rss",
+  "source_url": "https://www.benjamin-bai.com/projects/lemario",
+  "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+  "summary": "This project implements a JEPA (Joint Embedding Predictive Architecture) world model trained on Super Mario Bros, where the AI learns to predict future states of the game environment to enable better planning and decision-making for an agent playing the game.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "JEPA",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+  "problem_solved": "Trains a predictive world model that enables an AI agent to understand and anticipate game states in Super Mario Bros for improved gameplay planning.",
+  "why_valuable": "Demonstrates how JEPA world models can learn spatial-temporal representations from game environments, advancing research in model-based reinforcement learning and AI planning capabilities.",
+  "tags": [
+    "AI",
+    "World Models",
+    "JEPA",
+    "Reinforcement Learning",
+    "Game AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:12:09.962313+00:00",
+  "updated_at": "2026-07-15T10:14:15.683675+00:00",
+  "published_to": []
+}

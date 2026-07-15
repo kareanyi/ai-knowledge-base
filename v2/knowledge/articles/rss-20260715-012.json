@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260715-012",
+  "source": "rss",
+  "source_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+  "title": "Dependabot version updates introduce default package cooldown",
+  "summary": "GitHub announced that Dependabot will introduce a default package cooldown period to limit the frequency of automatic version update notifications and pull requests, helping teams avoid notification fatigue from dependency update spam.",
+  "tech_stack": [
+    "GitHub",
+    "Dependabot",
+    "GitHub Actions",
+    "Package Managers"
+  ],
+  "problem_solved": "Prevents dependency management tools from sending too frequent update notifications and creating excessive pull requests that overwhelm development teams.",
+  "why_valuable": "Reduces developer distraction and CI/CD resource consumption by batching dependency updates into manageable intervals instead of generating a flood of individual update PRs.",
+  "tags": [
+    "DevOps",
+    "GitHub",
+    "Dependency Management",
+    "Automation",
+    "CI/CD"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:12:47.434897+00:00",
+  "updated_at": "2026-07-15T10:14:15.690763+00:00",
+  "published_to": []
+}

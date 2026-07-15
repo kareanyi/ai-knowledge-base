@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-015",
+  "source": "rss",
+  "source_url": "https://prismml.com/news/bonsai-27b",
+  "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+  "summary": "Bonsai 27B is a groundbreaking 27-billion parameter large language model specifically optimized to run locally on mobile phones, demonstrating that massive AI models can be deployed on consumer hardware without cloud dependency. The model represents a major advancement in model compression and edge AI deployment techniques.",
+  "tech_stack": [
+    "LLM",
+    "Model Quantization",
+    "Edge Computing",
+    "Mobile AI",
+    "On-device Inference"
+  ],
+  "problem_solved": "Enables running massive 27B parameter language models directly on mobile devices, eliminating the need for cloud-based AI services.",
+  "why_valuable": "Brings powerful AI capabilities to users' pockets with full privacy protection, offline functionality, and democratized access to state-of-the-art language models.",
+  "tags": [
+    "LLM",
+    "Mobile AI",
+    "Edge Computing",
+    "Model Compression",
+    "Privacy AI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-15T10:13:18.705427+00:00",
+  "updated_at": "2026-07-15T10:14:15.691384+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260715-018",
+  "source": "rss",
+  "source_url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+  "title": "I'm a USB-C Maximalist",
+  "summary": "A tech blogger shares their experience and advocacy for USB-C as the universal connectivity standard, discussing how they've consolidated their device ecosystem around USB-C and the benefits they've experienced from this standardization approach.",
+  "tech_stack": [
+    "USB-C",
+    "Hardware Standards"
+  ],
+  "problem_solved": "Addresses device fragmentation and cable clutter by advocating for USB-C as a universal standard",
+  "why_valuable": "The consolidation of charging and data cables reduces e-waste and simplifies daily tech usage for consumers",
+  "tags": [
+    "USB-C",
+    "Hardware",
+    "Standardization",
+    "Connectivity",
+    "Consumer Tech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:14:04.469992+00:00",
+  "updated_at": "2026-07-15T10:14:15.691997+00:00",
+  "published_to": []
+}

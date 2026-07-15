@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-008",
+  "source": "rss",
+  "source_url": "https://vpd.ca/",
+  "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+  "summary": "The Vancouver Police Department implemented a 'Quick Escape' button on their website that instantly clears the browser history and redirects users, designed specifically for domestic violence victims who may need to secretly seek help without their abuser knowing.",
+  "tech_stack": [
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Web Development",
+    "Browser APIs"
+  ],
+  "problem_solved": "Addresses the critical safety issue where domestic violence victims cannot safely search for help resources without risking retaliation from abusers who monitor their browsing activity.",
+  "why_valuable": "This feature could literally save lives by ensuring vulnerable individuals can access law enforcement resources discreetly, removing a significant barrier to seeking help.",
+  "tags": [
+    "Privacy",
+    "DomesticViolence",
+    "WebAccessibility",
+    "UXDesign",
+    "PublicSafety"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-15T10:11:57.899201+00:00",
+  "updated_at": "2026-07-15T10:14:15.683519+00:00",
+  "published_to": []
+}

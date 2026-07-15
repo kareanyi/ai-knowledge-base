@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260715-001",
+  "source": "rss",
+  "source_url": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
+  "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD",
+  "summary": "This Fortune article reports that the United States has the lowest \"fair pay\" score among all OECD nations, paying workers only 27% of what its national wealth would theoretically allow. This places America at the bottom of the developed world in terms of worker compensation relative to economic capacity, despite being one of the wealthiest nations.",
+  "tech_stack": [
+    "Economic Analysis",
+    "Statistical Modeling",
+    "OECD Data"
+  ],
+  "problem_solved": "Quantifies the disparity between US economic output and worker compensation compared to other developed nations",
+  "why_valuable": "Provides objective comparative data revealing how much wealthier US workers could be if compensation matched the nation's economic potential",
+  "tags": [
+    "Labor Economics",
+    "Wage Inequality",
+    "OECD",
+    "Policy Analysis",
+    "Income Distribution"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-15T10:10:14.320299+00:00",
+  "updated_at": "2026-07-15T10:14:15.682215+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-014",
+  "source": "rss",
+  "source_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+  "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+  "summary": "A zero-day vulnerability discovered in Cursor AI IDE forced researchers to resort to full public disclosure after responsible disclosure attempts failed to elicit a response from the vendor, highlighting the risks of AI-powered development tools and the challenges of vulnerability reporting processes.",
+  "tech_stack": [
+    "Cursor IDE",
+    "VS Code",
+    "AI/ML",
+    "Python",
+    "Electron"
+  ],
+  "problem_solved": "Exposes the critical security gap in AI-assisted IDEs where malicious AI suggestions or code execution vulnerabilities can compromise developer environments.",
+  "why_valuable": "Demonstrates the tension between responsible disclosure and vendor responsiveness, serving as a wake-up call for the security community and AI tool vendors to establish better vulnerability handling procedures.",
+  "tags": [
+    "zero-day",
+    "vulnerability",
+    "security",
+    "AI-tools",
+    "disclosure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-15T10:13:07.468771+00:00",
+  "updated_at": "2026-07-15T10:14:15.691167+00:00",
+  "published_to": []
+}

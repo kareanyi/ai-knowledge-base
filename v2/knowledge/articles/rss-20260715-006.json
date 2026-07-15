@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260715-006",
+  "source": "rss",
+  "source_url": "https://tailscale.com/security-bulletins",
+  "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+  "summary": "Tailscale disclosed a security vulnerability in their SSH implementation where insecure argument handling could allow attackers to gain root access to affected systems. The vulnerability, affecting TS-2026-009, was found in Tailscale's SSH functionality and requires immediate patching.",
+  "tech_stack": [
+    "Go",
+    "Tailscale SSH",
+    "Linux",
+    "WireGuard"
+  ],
+  "problem_solved": "Addresses a critical vulnerability that allowed privilege escalation to root through insecure argument handling in Tailscale SSH.",
+  "why_valuable": "This security bulletin is critical for Tailscale users as it documents a high-severity vulnerability that could compromise entire systems, requiring immediate attention and patching.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "SSH",
+    "Privilege Escalation",
+    "Root Access"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-15T10:11:34.674612+00:00",
+  "updated_at": "2026-07-15T10:14:15.683154+00:00",
+  "published_to": []
+}

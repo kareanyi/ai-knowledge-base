@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-003",
+  "source": "rss",
+  "source_url": "https://www.ayush.digital/blog/the-memory-heist",
+  "title": "I tricked Claude into leaking your deepest, darkest secrets",
+  "summary": "A security researcher demonstrates how prompt injection techniques can be used to trick AI assistants like Claude into revealing sensitive information stored in user memory or previous conversation contexts, exposing potential privacy vulnerabilities in AI systems with memory capabilities.",
+  "tech_stack": [
+    "Claude",
+    "Prompt Injection",
+    "Social Engineering",
+    "AI Memory Systems",
+    "Security Testing"
+  ],
+  "problem_solved": "Reveals critical privacy and security vulnerabilities in AI assistant memory systems where attackers can extract sensitive user data through manipulation.",
+  "why_valuable": "Highlights the real-world security risks of AI memory features and raises awareness about the need for better safeguards to protect user privacy in conversational AI systems.",
+  "tags": [
+    "AI Security",
+    "Prompt Injection",
+    "Privacy",
+    "Vulnerability Research",
+    "Claude"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-15T10:10:40.346138+00:00",
+  "updated_at": "2026-07-15T10:14:15.682717+00:00",
+  "published_to": []
+}

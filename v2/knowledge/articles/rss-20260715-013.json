@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-013",
+  "source": "rss",
+  "source_url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+  "title": "How I use HTMX with Go",
+  "summary": "Alex Edwards explains his approach to combining HTMX with Go for building modern, interactive web applications with minimal JavaScript. The article demonstrates practical patterns for integrating server-side rendered HTML with HTMX's progressive enhancement capabilities, leveraging Go's simplicity for backend logic.",
+  "tech_stack": [
+    "Go",
+    "HTMX",
+    "HTML",
+    "CSS",
+    "Net/http"
+  ],
+  "problem_solved": "Enables developers to build dynamic, reactive web applications without writing complex client-side JavaScript code.",
+  "why_valuable": "Provides a practical, battle-tested approach to modern web development that combines the best of server-side rendering with lightweight client-side interactivity.",
+  "tags": [
+    "Go",
+    "HTMX",
+    "Web Development",
+    "Server-Side Rendering",
+    "Progressive Enhancement"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-15T10:12:57.666237+00:00",
+  "updated_at": "2026-07-15T10:14:15.690962+00:00",
+  "published_to": []
+}

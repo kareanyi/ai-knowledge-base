@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260715-010",
+  "source": "rss",
+  "source_url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+  "title": "Probably check on your smart appliances",
+  "summary": "A security advisory from tech blogger Xeiaso urging users to review the privacy and security settings of their smart home devices, likely highlighting data collection practices or potential vulnerabilities in IoT appliances.",
+  "tech_stack": [
+    "IoT",
+    "Smart Home",
+    "Network Security"
+  ],
+  "problem_solved": "Raises awareness about privacy and security risks in smart appliances that many users overlook or take for granted.",
+  "why_valuable": "Smart devices are increasingly ubiquitous but often come with hidden data collection and security risks that consumers rarely check, making this a critical privacy/security awareness piece.",
+  "tags": [
+    "Security",
+    "Privacy",
+    "IoT",
+    "Smart Home",
+    "Consumer Awareness"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-15T10:12:23.942942+00:00",
+  "updated_at": "2026-07-15T10:14:15.683813+00:00",
+  "published_to": []
+}

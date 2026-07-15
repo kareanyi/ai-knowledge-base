@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-002",
+  "source": "rss",
+  "source_url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+  "title": "Who's running all those tiny RPKI servers?",
+  "summary": "An APNIC blog article analyzing the ecosystem of RPKI (Resource Public Key Infrastructure) server operators, exploring who manages these small but critical components of Internet routing security infrastructure. RPKI is essential for validating BGP route announcements to prevent hijacking and misconfiguration.",
+  "tech_stack": [
+    "RPKI",
+    "BGP",
+    "Internet Routing",
+    "ASN Management",
+    "APNIC"
+  ],
+  "problem_solved": "Provides visibility into who operates RPKI validation servers that protect BGP routing from hijacks and route leaks",
+  "why_valuable": "RPKI deployment visibility helps the Internet community understand routing security adoption and identify gaps in the ecosystem",
+  "tags": [
+    "RPKI",
+    "BGP",
+    "Routing Security",
+    "Internet Infrastructure",
+    "Network Operations"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-15T10:10:27.623251+00:00",
+  "updated_at": "2026-07-15T10:14:15.682561+00:00",
+  "published_to": []
+}
