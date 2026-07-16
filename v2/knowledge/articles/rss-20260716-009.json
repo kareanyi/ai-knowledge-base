@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-009",
+  "source": "rss",
+  "source_url": "https://atproto.com/blog/at-protocol-trademark",
+  "title": "Bluesky Trademarks ATProto",
+  "summary": "Bluesky 公司宣布为其去中心化社交网络协议 ATProto 注册商标，以确保协议命名的清晰性和社区治理的透明度。",
+  "tech_stack": [
+    "ATProto",
+    "Bluesky",
+    "TypeScript",
+    "Node.js",
+    "WebSocket"
+  ],
+  "problem_solved": "解决开源协议在发展过程中可能出现的品牌混淆和命名权争议问题",
+  "why_valuable": "通过明确的商标管理保护开源社区利益，同时维持协议的开放性和可访问性",
+  "tags": [
+    "decentralized",
+    "social-network",
+    "open-source",
+    "protocol",
+    "governance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:17:36.843875+00:00",
+  "updated_at": "2026-07-16T10:21:53.155367+00:00",
+  "published_to": []
+}

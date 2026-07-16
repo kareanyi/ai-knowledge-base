@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260716-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+  "title": "AWS and Bluesight build AI for hospital 340B compliance",
+  "summary": "AWS partnered with Bluesight to develop Prism, an AI layer that integrates hospital pharmacy and compliance data across Bluesight's product suite. Prism Assistant for ControlCheck has reached general availability and is currently deployed across 20 health systems, with plans to expand a multi-product agent for 340B Group Purchasing Organisation compliance.",
+  "tech_stack": [
+    "AWS",
+    "AI/LLM",
+    "Healthcare Compliance Software",
+    "Data Integration Platform"
+  ],
+  "problem_solved": "Automates complex 340B drug pricing program compliance monitoring across hospital pharmacy and purchasing systems, reducing manual effort and regulatory risk.",
+  "why_valuable": "340B compliance is a critical regulatory requirement for hospitals serving vulnerable populations, and AI-driven automation significantly reduces compliance errors and administrative burden while avoiding costly penalties.",
+  "tags": [
+    "Healthcare AI",
+    "340B Compliance",
+    "Hospital Pharmacy",
+    "AWS Partnership",
+    "Regulatory Automation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-16T10:20:09.539766+00:00",
+  "updated_at": "2026-07-16T10:21:53.163459+00:00",
+  "published_to": []
+}

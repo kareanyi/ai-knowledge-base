@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-019",
+  "source": "rss",
+  "source_url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+  "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+  "summary": "文章详细介绍了如何在13年前的Xeon服务器CPU（无GPU）上成功运行Google的Gemma 4 26B大语言模型，通过优化量化技术达到5 tokens/秒的生成速度，展示了边缘计算和低成本AI推理的可行性。",
+  "tech_stack": [
+    "Gemma 4 26B",
+    "Xeon CPU",
+    "GGUF Quantization",
+    "llama.cpp",
+    "CPU Inference"
+  ],
+  "problem_solved": "解决了在没有昂贵GPU的情况下运行大型语言模型的问题，降低了AI推理的硬件门槛。",
+  "why_valuable": "证明了老旧硬件仍可用于运行现代LLM，推动AI民主化，让更多开发者能在有限预算下进行AI实验。",
+  "tags": [
+    "LLM",
+    "CPU-Inference",
+    "Edge-AI",
+    "Quantization",
+    "Open-Source"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-16T10:19:38.812088+00:00",
+  "updated_at": "2026-07-16T10:21:53.162924+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-013",
+  "source": "rss",
+  "source_url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+  "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+  "summary": "David Siegel argues that governments, corporations, and nonprofits should collectively invest in free, open source AI infrastructure to ensure broad access and prevent concentration of AI power among a few tech giants. The article emphasizes that open source AI benefits society through transparency, collaboration, and democratization of technology. This is part of a broader debate about AI governance and the role of public investment in foundational AI research.",
+  "tech_stack": [
+    "AI/ML",
+    "Open Source",
+    "Python",
+    "Deep Learning",
+    "LLM"
+  ],
+  "problem_solved": "Addresses the risk of AI power concentration and unequal access to AI technology among major corporations.",
+  "why_valuable": "Advocates for democratic access to AI technology through open source investment, preventing monopolistic control over transformative AI capabilities.",
+  "tags": [
+    "Open Source AI",
+    "AI Policy",
+    "Technology Investment",
+    "Democratization",
+    "AI Governance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:18:22.632035+00:00",
+  "updated_at": "2026-07-16T10:21:53.161867+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-014",
+  "source": "rss",
+  "source_url": "https://github.com/xai-org/grok-build",
+  "title": "Grok Build is open source",
+  "summary": "xAI has open-sourced Grok Build, their internal build system used for training and deploying Grok AI models, providing the community with visibility into how frontier AI models are built at scale.",
+  "tech_stack": [
+    "Rust",
+    "Python",
+    "CUDA",
+    "Kubernetes",
+    "Bazel"
+  ],
+  "problem_solved": "Makes frontier AI model training infrastructure transparent and accessible to the open-source community.",
+  "why_valuable": "Enables AI researchers and engineers to understand and potentially replicate the infrastructure behind one of the most capable AI systems, fostering innovation in the broader AI ecosystem.",
+  "tags": [
+    "AI",
+    "Open Source",
+    "xAI",
+    "Infrastructure",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-16T10:18:34.702194+00:00",
+  "updated_at": "2026-07-16T10:21:53.162080+00:00",
+  "published_to": []
+}

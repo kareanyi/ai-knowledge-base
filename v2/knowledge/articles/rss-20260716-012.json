@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-012",
+  "source": "rss",
+  "source_url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+  "title": "LLM Networking with MikroTik",
+  "summary": "This article explores integrating Large Language Models with MikroTik networking equipment to enable AI-powered network management and natural language interaction with routers and network infrastructure.",
+  "tech_stack": [
+    "LLM",
+    "MikroTik",
+    "RouterOS",
+    "API Integration",
+    "Network Automation"
+  ],
+  "problem_solved": "Enables natural language control and management of MikroTik network devices, simplifying complex networking tasks through AI-powered interfaces.",
+  "why_valuable": "Bridges the gap between AI capabilities and network infrastructure management, allowing administrators to query and configure networks using conversational commands.",
+  "tags": [
+    "AI",
+    "Networking",
+    "MikroTik",
+    "Automation",
+    "Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:18:12.171812+00:00",
+  "updated_at": "2026-07-16T10:21:53.161689+00:00",
+  "published_to": []
+}

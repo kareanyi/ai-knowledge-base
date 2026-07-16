@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-004",
+  "source": "rss",
+  "source_url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+  "title": "If you want to create a button from scratch, you must first create the universe",
+  "summary": "A blog post exploring how creating even simple UI elements like buttons requires building accessibility foundations from scratch, emphasizing that accessibility cannot be an afterthought but must be integrated from the beginning of development.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ARIA",
+    "Web APIs"
+  ],
+  "problem_solved": "Addresses the common problem of accessibility being treated as an afterthought in web development, leading to inaccessible user interfaces.",
+  "why_valuable": "It demonstrates that true accessibility requires understanding underlying browser technologies and semantic HTML, not just adding ARIA attributes at the end of development.",
+  "tags": [
+    "Accessibility",
+    "Web Development",
+    "Frontend",
+    "UI Components",
+    "Inclusive Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:16:32.439142+00:00",
+  "updated_at": "2026-07-16T10:21:53.154529+00:00",
+  "published_to": []
+}

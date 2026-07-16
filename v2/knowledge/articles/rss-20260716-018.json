@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-018",
+  "source": "rss",
+  "source_url": "https://coasty.ai/docs",
+  "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+  "summary": "Coasty is a Y Combinator S26 startup building computer-use agents that automate workflows inside legacy desktop software and web applications without usable APIs. Developers send natural-language tasks via API or consumer app, select an environment, provide credentials, and the AI agent operates the interface through screenshots, mouse, and keyboard input with visual verification.",
+  "tech_stack": [
+    "API",
+    "Computer Vision",
+    "Browser Automation",
+    "Natural Language Processing",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Enables automation of legacy desktop software and web applications that lack proper APIs by using AI agents that can see and interact with interfaces like humans do.",
+  "why_valuable": "Opens up automation possibilities for the vast amount of enterprise and legacy software that has never been automatable before, saving countless hours of manual work.",
+  "tags": [
+    "AI Agents",
+    "Automation",
+    "Computer-Use",
+    "YC Startup",
+    "Legacy Systems"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-16T10:19:29.448794+00:00",
+  "updated_at": "2026-07-16T10:21:53.162752+00:00",
+  "published_to": []
+}

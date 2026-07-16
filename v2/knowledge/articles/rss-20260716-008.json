@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-008",
+  "source": "rss",
+  "source_url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+  "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+  "summary": "This article explores the pitfalls of combining Tokio (Rust's async runtime) and Rayon (parallelism library), arguing that async/await complicates rather than simplifies concurrency by forcing developers into awkward compromises between blocking parallelism and async execution.",
+  "tech_stack": [
+    "Rust",
+    "Tokio",
+    "Rayon",
+    "async/await",
+    "Data Parallelism"
+  ],
+  "problem_solved": "Addresses the misconception that async/await elegantly solves concurrency problems, exposing the friction when mixing blocking parallelism with async code.",
+  "why_valuable": "Provides deep insights into Rust's concurrency model trade-offs, helping systems developers avoid common architectural mistakes when designing high-performance async applications.",
+  "tags": [
+    "Rust",
+    "Concurrency",
+    "Async",
+    "Parallelism",
+    "Systems Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:17:27.557853+00:00",
+  "updated_at": "2026-07-16T10:21:53.155222+00:00",
+  "published_to": []
+}

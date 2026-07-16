@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-003",
+  "source": "rss",
+  "source_url": "https://github.com/minh-ton/reynard-browser",
+  "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+  "summary": "Reynard is an open-source web browser for iOS 13+ that implements the actual Firefox browser engine, making it a 'real' browser rather than just a UI wrapper around WebKit, using GeckoView for rendering.",
+  "tech_stack": [
+    "iOS",
+    "Firefox Gecko",
+    "GeckoView",
+    "Swift",
+    "Open-source"
+  ],
+  "problem_solved": "Provides iOS users with an alternative to Safari and Chrome by bringing Firefox's Gecko rendering engine to the iOS platform.",
+  "why_valuable": "It gives users and developers a genuine Firefox experience on iOS with open-source transparency, enabling web compatibility testing across different rendering engines on mobile.",
+  "tags": [
+    "iOS",
+    "Browser",
+    "Firefox",
+    "GeckoView",
+    "Open-source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:16:20.304203+00:00",
+  "updated_at": "2026-07-16T10:21:53.154383+00:00",
+  "published_to": []
+}

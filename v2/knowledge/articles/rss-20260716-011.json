@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260716-011",
+  "source": "rss",
+  "source_url": "https://mort.coffee/home/sqlite-editions/",
+  "title": "SQLite should have (Rust-style) editions",
+  "summary": "This article proposes that SQLite should adopt a Rust-style 'editions' system, allowing breaking changes and feature evolution while maintaining backward compatibility. The author argues this would solve the tension between SQLite's need to evolve and its commitment to stability.",
+  "tech_stack": [
+    "SQLite",
+    "Rust",
+    "C"
+  ],
+  "problem_solved": "Addresses how SQLite can introduce breaking improvements and new features without breaking existing applications and databases.",
+  "why_valuable": "It provides a practical solution to the long-standing challenge of software evolution while maintaining stability, borrowing a proven concept from Rust's edition system.",
+  "tags": [
+    "Database",
+    "SQLite",
+    "Rust",
+    "Software Design",
+    "Backward Compatibility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:18:01.106127+00:00",
+  "updated_at": "2026-07-16T10:21:53.161477+00:00",
+  "published_to": []
+}

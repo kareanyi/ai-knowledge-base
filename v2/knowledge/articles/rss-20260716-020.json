@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+  "title": "Neko Health raises $700 million to expand AI body scans in the US",
+  "summary": "Neko Health, the preventive health screening startup founded by Spotify co-founder Daniel Ek, has raised $700 million in Series C funding to expand its AI-powered full-body scanning service from Europe to the United States, starting with a clinic in New York.",
+  "tech_stack": [
+    "AI Body Scanning",
+    "Medical Imaging",
+    "Blood Testing",
+    "Proprietary Sensors",
+    "Machine Learning"
+  ],
+  "problem_solved": "Making comprehensive preventive health screening more accessible through non-invasive, AI-powered full-body scans that detect diseases early.",
+  "why_valuable": "This approach to preventive healthcare could revolutionize early disease detection and reduce healthcare costs by identifying health issues before they become serious.",
+  "tags": [
+    "HealthTech",
+    "AI",
+    "Medical Imaging",
+    "Preventive Care",
+    "Venture Capital"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-16T10:19:48.572277+00:00",
+  "updated_at": "2026-07-16T10:21:53.163116+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-016",
+  "source": "rss",
+  "source_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "title": "Inkling: Our Open-Weights Model",
+  "summary": "Thinking Machines AI releases Inkling, their open-weights language model that provides public access to model weights for research and commercial use, following the trend of democratizing AI similar to Meta's LLaMA approach.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformer Architecture",
+    "CUDA",
+    "Hugging Face"
+  ],
+  "problem_solved": "Addresses the lack of accessible, openly-available powerful language models for researchers and developers who want to study, fine-tune, or deploy AI without restrictive licensing.",
+  "why_valuable": "Increases AI accessibility and transparency by releasing model weights, enabling broader participation in AI research and development while reducing dependence on closed-source providers.",
+  "tags": [
+    "Open Weights",
+    "Language Model",
+    "Open Source AI",
+    "Transformer",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-16T10:19:02.604883+00:00",
+  "updated_at": "2026-07-16T10:21:53.162419+00:00",
+  "published_to": []
+}

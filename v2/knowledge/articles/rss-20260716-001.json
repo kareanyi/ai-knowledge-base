@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260716-001",
+  "source": "rss",
+  "source_url": "https://cr.yp.to/proto/netstrings.txt",
+  "title": "Netstrings (1997)",
+  "summary": "Netstrings is a simple data format protocol created by D.J. Bernstein in 1997 that encodes messages as length-prefixed strings (e.g., '5:hello,') for reliable binary data transmission, avoiding delimiter collision issues common in other formats.",
+  "tech_stack": [
+    "Protocol-specification",
+    "Any-language-implementation"
+  ],
+  "problem_solved": "Provides a self-delimiting binary-safe data format that eliminates ambiguity in parsing without requiring escape sequences or complex delimiters.",
+  "why_valuable": "Its elegant simplicity (25+ years old) makes it one of the cleanest solutions for transmitting length-tagged data with guaranteed unambiguous parsing boundaries.",
+  "tags": [
+    "protocol",
+    "data-format",
+    "serialization",
+    "networking",
+    "simplicity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-16T10:15:56.125148+00:00",
+  "updated_at": "2026-07-16T10:21:53.153897+00:00",
+  "published_to": []
+}

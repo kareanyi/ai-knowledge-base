@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+  "title": "Nokia&#8217;s AI-RAN platform: a radio comeback that runs on NVIDIA",
+  "summary": "Nokia launched an AI-RAN platform on July 15, claiming it as the industry's first such solution. Built on Nokia's anyRAN software and NVIDIA's Aerial system, the platform aims to help telecom operators extract significantly more capacity from their existing spectrum assets.",
+  "tech_stack": [
+    "NVIDIA Aerial",
+    "Nokia anyRAN",
+    "AI-RAN",
+    "5G",
+    "Spectrum Management"
+  ],
+  "problem_solved": "Telecom operators need to maximize spectrum efficiency and extract more capacity from existing infrastructure without costly hardware upgrades.",
+  "why_valuable": "By leveraging AI to optimize radio access network performance, operators can reduce capital expenditures while improving network capacity and efficiency.",
+  "tags": [
+    "AI",
+    "RAN",
+    "Telecom",
+    "NVIDIA",
+    "5G"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-16T10:19:57.610236+00:00",
+  "updated_at": "2026-07-16T10:21:53.163287+00:00",
+  "published_to": []
+}
