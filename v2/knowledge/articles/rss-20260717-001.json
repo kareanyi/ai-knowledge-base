@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-001",
+  "source": "rss",
+  "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+  "title": "EEG shows brain can simultaneous encode two speech streams",
+  "summary": "A neuroscience study using EEG methodology demonstrates that the human brain can simultaneously encode two speech streams, challenging traditional theories about auditory attention limitations. The research reveals that the brain processes multiple auditory inputs in parallel rather than through a sequential bottleneck model.",
+  "tech_stack": [
+    "EEG",
+    "Neuroimaging",
+    "Signal Processing",
+    "Cognitive Neuroscience",
+    "Auditory Research"
+  ],
+  "problem_solved": "Determines whether the brain can genuinely process multiple speech streams simultaneously or if attention creates a processing bottleneck.",
+  "why_valuable": "Challenges fundamental assumptions about attentional limitations and provides evidence for parallel auditory processing in the brain, with implications for understanding human cognition and designing hearing aids.",
+  "tags": [
+    "Neuroscience",
+    "EEG",
+    "Auditory Processing",
+    "Attention",
+    "Cognitive Science"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-17T10:07:06.707614+00:00",
+  "updated_at": "2026-07-17T10:14:25.247475+00:00",
+  "published_to": []
+}

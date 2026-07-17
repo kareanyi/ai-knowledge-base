@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260717-018",
+  "source": "rss",
+  "source_url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+  "title": "Microsoft Comic Chat is now open source",
+  "summary": "Microsoft has open sourced Comic Chat, a classic IRC client originally released in 1996 that displayed conversations in comic strip format with animated characters representing different users. The project represents a unique piece of computing history that combined chat functionality with innovative visual storytelling UI design.",
+  "tech_stack": [
+    "C/C++",
+    "Win32 API",
+    "IRC Protocol"
+  ],
+  "problem_solved": "Makes a piece of computing history and innovative chat UI design accessible to developers and enthusiasts for learning and preservation.",
+  "why_valuable": "Preserves an influential piece of software history while providing developers a reference for creative UI implementations in messaging applications.",
+  "tags": [
+    "Open Source",
+    "Microsoft",
+    "IRC",
+    "Classic Software",
+    "UI Design"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-17T10:11:41.604545+00:00",
+  "updated_at": "2026-07-17T10:14:25.256164+00:00",
+  "published_to": []
+}

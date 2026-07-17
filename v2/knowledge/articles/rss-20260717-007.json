@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-007",
+  "source": "rss",
+  "source_url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+  "title": "The human-in-the-loop is tired",
+  "summary": "This article from Pydantic discusses the growing challenges and fatigue associated with human-in-the-loop workflows in AI systems, where humans are expected to constantly review, validate, and approve AI outputs. The author argues that as AI systems scale, requiring humans to stay in the loop becomes a bottleneck that limits automation and efficiency. The piece likely explores alternative approaches like autonomous AI agents with better validation frameworks.",
+  "tech_stack": [
+    "Python",
+    "Pydantic",
+    "LLM",
+    "AI Agents",
+    "Data Validation"
+  ],
+  "problem_solved": "Addresses the scalability bottleneck of requiring human oversight in AI/ML workflows as systems grow more complex and autonomous.",
+  "why_valuable": "It tackles a critical real-world challenge in deploying AI at scale by questioning the traditional human-in-the-loop paradigm and proposing more sustainable approaches.",
+  "tags": [
+    "AI Automation",
+    "Human-in-the-loop",
+    "AI Agents",
+    "LLM",
+    "Workflow Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-17T10:09:02.817075+00:00",
+  "updated_at": "2026-07-17T10:14:25.248768+00:00",
+  "published_to": []
+}

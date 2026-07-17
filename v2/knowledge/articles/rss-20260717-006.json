@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260717-006",
+  "source": "rss",
+  "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+  "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+  "summary": "USGS reported a magnitude 3.9 earthquake located 147 km east-northeast of Ponce Inlet, Florida, generated 63 points on Hacker News with 39 comments discussing the seismic event.",
+  "tech_stack": [
+    "USGS Earthquake Hazards Program",
+    "Seismic Monitoring Networks",
+    "Geophysical Sensors",
+    "Real-time Earthquake Reporting"
+  ],
+  "problem_solved": "Provides real-time earthquake monitoring and public reporting for a minor seismic event off the Florida coast.",
+  "why_valuable": "Offers transparent, scientifically verified earthquake data enabling public awareness, emergency preparedness, and geological research.",
+  "tags": [
+    "earthquake",
+    "seismology",
+    "USGS",
+    "monitoring",
+    "Florida"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-17T10:08:40.256235+00:00",
+  "updated_at": "2026-07-17T10:14:25.248584+00:00",
+  "published_to": []
+}

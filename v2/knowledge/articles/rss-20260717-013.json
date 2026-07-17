@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-013",
+  "source": "rss",
+  "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+  "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+  "summary": "A practical benchmark test comparing Claude and GPT models' capabilities in creating AI-generated music videos with a $100 budget constraint, evaluating their real-world performance in a head-to-head arena competition.",
+  "tech_stack": [
+    "Claude AI",
+    "GPT",
+    "AI Music Generation",
+    "Video Generation Tools",
+    "AI Agent Frameworks"
+  ],
+  "problem_solved": "Provides empirical comparison of leading AI models' music video generation capabilities under identical budget constraints",
+  "why_valuable": "Offers practical, hands-on evaluation of AI model performance differences rather than theoretical specs, helping developers and enthusiasts make informed decisions about which AI system better suits their creative projects",
+  "tags": [
+    "AI Comparison",
+    "Claude",
+    "GPT",
+    "Music Generation",
+    "Benchmark"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:10:32.939865+00:00",
+  "updated_at": "2026-07-17T10:14:25.249908+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260717-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+  "title": "Examining Google DeepMind&#8217;s AI bioresilience push",
+  "summary": "Google DeepMind and Isomorphic Labs jointly launched a bioresilience initiative to prevent AI misuse in biology while supporting outbreak response. The program has established over 15 partnerships with government agencies, biosecurity organizations, and research groups worldwide over the past 12 months.",
+  "tech_stack": [
+    "Google DeepMind",
+    "AI/ML",
+    "Isomorphic Labs",
+    "Biosecurity Technology"
+  ],
+  "problem_solved": "Addresses the dual challenge of preventing AI from being misused for biological threats while ensuring AI can effectively support pandemic preparedness and response.",
+  "why_valuable": "It establishes a critical safety framework for AI in life sciences, balancing innovation with security through international collaboration.",
+  "tags": [
+    "AI Safety",
+    "Biosecurity",
+    "DeepMind",
+    "Public Health",
+    "AI Governance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:12:02.069564+00:00",
+  "updated_at": "2026-07-17T10:14:25.256535+00:00",
+  "published_to": []
+}

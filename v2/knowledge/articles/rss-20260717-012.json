@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-012",
+  "source": "rss",
+  "source_url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+  "title": "LM Studio Bionic: the AI agent for open models",
+  "summary": "LM Studio Bionic is an AI agent system designed to work with open-source language models, enabling users to run AI agents locally on their machines with full privacy control. It combines the flexibility of customizable agents with the ability to use any compatible open model, bridging the gap between cloud-based AI services and local execution.",
+  "tech_stack": [
+    "Python",
+    "llama.cpp",
+    "Open Models (Llama/Mistral)",
+    "Local LLM Inference",
+    "AI Agent Framework"
+  ],
+  "problem_solved": "Enables users to run AI agents locally with open models while maintaining privacy and avoiding cloud dependencies.",
+  "why_valuable": "It provides the power of AI agents with the privacy and cost benefits of local model execution, using any open-source LLM of the user's choice.",
+  "tags": [
+    "AI Agent",
+    "Local LLM",
+    "Open Source",
+    "Privacy",
+    "LM Studio"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-17T10:10:22.467043+00:00",
+  "updated_at": "2026-07-17T10:14:25.249721+00:00",
+  "published_to": []
+}

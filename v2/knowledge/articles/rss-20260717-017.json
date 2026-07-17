@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-017",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+  "title": "NotebookLM is now Gemini Notebook",
+  "summary": "Google rebranded NotebookLM to Gemini Notebook, integrating its AI-powered research and note-taking tool more deeply into the Gemini ecosystem while maintaining core features like Audio Overviews and source-grounded responses.",
+  "tech_stack": [
+    "Gemini AI",
+    "Google Cloud",
+    "Web Application",
+    "PDF Processing",
+    "Audio Generation"
+  ],
+  "problem_solved": "Helps researchers and students manage, summarize, and interact with large volumes of documents and sources efficiently using AI",
+  "why_valuable": "Provides an AI-native workspace where users can upload documents and have intelligent conversations with their materials, significantly reducing research time",
+  "tags": [
+    "Google",
+    "AI Assistant",
+    "Research Tool",
+    "Gemini",
+    "Note-taking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:11:25.830630+00:00",
+  "updated_at": "2026-07-17T10:14:25.250488+00:00",
+  "published_to": []
+}

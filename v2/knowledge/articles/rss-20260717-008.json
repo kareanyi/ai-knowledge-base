@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-008",
+  "source": "rss",
+  "source_url": "https://github.com/alxndrTL/little-book-rl/",
+  "title": "The Little Book of Reinforcement Learning",
+  "summary": "这是一本关于强化学习的小型开源教程书籍，旨在以简洁易懂的方式帮助读者理解强化学习的核心概念、算法和实践应用。",
+  "tech_stack": [
+    "Python",
+    "OpenAI Gym",
+    "PyTorch",
+    "NumPy",
+    "JAX"
+  ],
+  "problem_solved": "为初学者和中级开发者提供系统化的强化学习入门路径，降低学习门槛。",
+  "why_valuable": "以精简实用的方式呈现强化学习知识，适合快速入门和实践参考。",
+  "tags": [
+    "Reinforcement Learning",
+    "Machine Learning",
+    "Open Source",
+    "Tutorial",
+    "Python"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:09:16.670813+00:00",
+  "updated_at": "2026-07-17T10:14:25.248957+00:00",
+  "published_to": []
+}

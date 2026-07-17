@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-016",
+  "source": "rss",
+  "source_url": "https://www.mixfont.com/experiments/decoy-font",
+  "title": "Decoy Font",
+  "summary": "Decoy Font is an experimental typography project from Mixfont that creates fonts with deceptive visual characteristics, where characters appear to be one thing but display differently depending on context - likely involving Unicode homoglyphs or visual deception techniques.",
+  "tech_stack": [
+    "Web Fonts",
+    "CSS",
+    "JavaScript",
+    "Unicode",
+    "HTML"
+  ],
+  "problem_solved": "Demonstrates the security and design implications of fonts that visually mislead or appear different than their actual character values",
+  "why_valuable": "Highlights important security concerns around Unicode homoglyphs and visual deception in typography, useful for designers, developers, and security researchers",
+  "tags": [
+    "typography",
+    "unicode",
+    "security",
+    "font-design",
+    "experiments"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:11:16.587312+00:00",
+  "updated_at": "2026-07-17T10:14:25.250332+00:00",
+  "published_to": []
+}

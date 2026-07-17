@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260717-005",
+  "source": "rss",
+  "source_url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+  "title": "GrapheneOS recommended for domestic abuse victims",
+  "summary": "This article recommends GrapheneOS as a secure mobile operating system for domestic abuse victims in Australia who need enhanced privacy and safety features to protect themselves from abusers who may try to track their devices or communications.",
+  "tech_stack": [
+    "GrapheneOS",
+    "Android",
+    "Mobile Security"
+  ],
+  "problem_solved": "Provides secure, privacy-focused mobile phone recommendations to protect domestic violence survivors from digital surveillance and tracking by abusers.",
+  "why_valuable": "Offers life-critical security guidance for vulnerable populations who face technology-facilitated abuse, bridging the gap between privacy tools and practical DV safety planning.",
+  "tags": [
+    "Privacy",
+    "Security",
+    "Mobile OS",
+    "Domestic Violence",
+    "Australia"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:08:25.745617+00:00",
+  "updated_at": "2026-07-17T10:14:25.248349+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260717-011",
+  "source": "rss",
+  "source_url": "https://www.science.org/doi/10.1126/science.aea9708",
+  "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+  "summary": "Scientists using the Hubble Space Telescope detected helium escaping from the atmosphere of GJ 3470 b, a rocky exoplanet located in the habitable zone of a nearby star. This observation represents one of the first detections of atmospheric escape from a low-mass planet in the habitable zone, providing crucial insights into how planets lose their atmospheres over time.",
+  "tech_stack": [
+    "Hubble Space Telescope",
+    "Transit Spectroscopy",
+    "UV/Visible Spectroscopy",
+    "Exoplanet Atmosphere Analysis"
+  ],
+  "problem_solved": "Understanding atmospheric escape mechanisms on rocky planets in habitable zones and their implications for long-term planetary habitability.",
+  "why_valuable": "This discovery helps scientists understand how M-dwarf planets—among the most common in our galaxy—lose their atmospheres, which is critical for assessing their potential for habitability.",
+  "tags": [
+    "astronomy",
+    "exoplanet",
+    "atmospheric escape",
+    "habitability",
+    "space science"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-17T10:10:00.434156+00:00",
+  "updated_at": "2026-07-17T10:14:25.249523+00:00",
+  "published_to": []
+}

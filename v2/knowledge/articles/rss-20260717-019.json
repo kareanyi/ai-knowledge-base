@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-019",
+  "source": "rss",
+  "source_url": "https://immersivemath.com/ila/",
+  "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+  "summary": "An interactive linear algebra textbook launched in 2015, featuring embedded interactive figures that allow readers to manipulate mathematical concepts visually rather than just reading static equations.",
+  "tech_stack": [
+    "HTML5",
+    "JavaScript",
+    "SVG",
+    "Responsive Web Design",
+    "LaTeX"
+  ],
+  "problem_solved": "Makes abstract linear algebra concepts more intuitive and accessible through visual/interactive learning experiences.",
+  "why_valuable": "Transforms traditionally difficult mathematical concepts into explorable, hands-on experiences that improve understanding and retention.",
+  "tags": [
+    "Education",
+    "Mathematics",
+    "Interactive Learning",
+    "Visualization",
+    "Textbook"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:11:51.614515+00:00",
+  "updated_at": "2026-07-17T10:14:25.256348+00:00",
+  "published_to": []
+}

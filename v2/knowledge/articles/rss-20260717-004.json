@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-004",
+  "source": "rss",
+  "source_url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+  "title": "UIUC AI Teaching Assistant",
+  "summary": "UIUC AI Teaching Assistant is an AI-powered educational tool developed by the Center for AI Innovation at the University of Illinois Urbana-Champaign, designed to support students with their coursework through intelligent question-answering and learning assistance capabilities.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "LLM",
+    "RAG"
+  ],
+  "problem_solved": "Provides 24/7 personalized learning support to students while reducing the workload burden on human teaching staff.",
+  "why_valuable": "It democratizes access to quality educational assistance and can significantly improve learning outcomes through instant, round-the-clock support tailored to course materials.",
+  "tags": [
+    "AI",
+    "Education",
+    "Chatbot",
+    "LLM",
+    "Academic"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-17T10:08:11.699694+00:00",
+  "updated_at": "2026-07-17T10:14:25.248155+00:00",
+  "published_to": []
+}

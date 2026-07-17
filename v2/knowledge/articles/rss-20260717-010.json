@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-010",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2607.11938",
+  "title": "Mathematics of Data Science",
+  "summary": "这篇 arXiv 论文探讨了数据科学中核心的数学基础理论，包括线性代数、概率论、统计学和优化理论等数学分支在机器学习和数据分析中的应用原理。",
+  "tech_stack": [
+    "Linear Algebra",
+    "Probability Theory",
+    "Statistics",
+    "Optimization",
+    "Information Theory"
+  ],
+  "problem_solved": "为数据科学从业者提供坚实的数学理论基础，帮助理解算法背后的原理而非仅停留在应用层面。",
+  "why_valuable": "填补了数据科学领域理论与实践之间的鸿沟，让研究者和工程师能够从数学角度深入理解模型行为和算法收敛性。",
+  "tags": [
+    "Mathematics",
+    "Data Science",
+    "Machine Learning",
+    "Statistics",
+    "Theory"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-17T10:09:44.268645+00:00",
+  "updated_at": "2026-07-17T10:14:25.249319+00:00",
+  "published_to": []
+}
