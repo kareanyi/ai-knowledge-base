@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260718-002",
+  "source": "rss",
+  "source_url": "https://ikea.greg.technology/",
+  "title": "Show HN: IKEA Complexity Index",
+  "summary": "A creative web project that analyzes and ranks IKEA furniture by assembly complexity, providing shoppers with data-driven insights to make more informed purchasing decisions.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "Data Analysis",
+    "Web Visualization"
+  ],
+  "problem_solved": "Helps IKEA shoppers understand which products are simpler or more complex to assemble before purchasing.",
+  "why_valuable": "Turns a common pain point (IKEA assembly complexity) into an engaging, searchable index that saves time and frustration for buyers.",
+  "tags": [
+    "Data Visualization",
+    "Web Tool",
+    "Home Furnishing",
+    "Consumer Tech",
+    "Side Project"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-18T09:41:04.008786+00:00",
+  "updated_at": "2026-07-18T09:47:03.503740+00:00",
+  "published_to": []
+}

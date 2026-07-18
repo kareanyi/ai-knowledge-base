@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-014",
+  "source": "rss",
+  "source_url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+  "title": "Lego building instructions through time",
+  "summary": "This is a historical article from LEGO's official website tracing the evolution of LEGO building instructions from 1958 to modern digital formats, showcasing how instruction manuals transformed from simple printed booklets to interactive digital experiences with AR technology.",
+  "tech_stack": [
+    "LEGO Building System",
+    "Digital Instructions",
+    "Augmented Reality (AR)",
+    "Mobile Apps",
+    "3D Visualization"
+  ],
+  "problem_solved": "Educates readers about the historical evolution and design philosophy behind LEGO instruction manuals.",
+  "why_valuable": "Provides nostalgic and educational content for LEGO enthusiasts while demonstrating how product documentation has evolved alongside technological advances.",
+  "tags": [
+    "LEGO",
+    "Product History",
+    "Design Evolution",
+    "Brand Storytelling",
+    "Instruction Manuals"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-18T09:44:04.544521+00:00",
+  "updated_at": "2026-07-18T09:47:03.509784+00:00",
+  "published_to": []
+}

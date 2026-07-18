@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-001",
+  "source": "rss",
+  "source_url": "https://github.com/skorotkiewicz/signal-in-the-dark",
+  "title": "Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
+  "summary": "A Three.js-based interactive 3D experience exploring the concept of light and shadow in darkness, presenting a visual choice between illuminating others or illuminating oneself.",
+  "tech_stack": [
+    "Three.js",
+    "JavaScript",
+    "WebGL",
+    "HTML5",
+    "CSS3"
+  ],
+  "problem_solved": "Creates an interactive 3D visualization demonstrating light and shadow dynamics in dark environments.",
+  "why_valuable": "Provides an artistic and interactive WebGL demo that explores a philosophical/visual concept through real-time 3D rendering.",
+  "tags": [
+    "Three.js",
+    "WebGL",
+    "3D Graphics",
+    "Interactive Demo",
+    "JavaScript"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-18T09:40:50.229275+00:00",
+  "updated_at": "2026-07-18T09:47:03.503488+00:00",
+  "published_to": []
+}

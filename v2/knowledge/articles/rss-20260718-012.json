@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260718-012",
+  "source": "rss",
+  "source_url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+  "title": "Painting the sides of railroad rails white to reduce derailment",
+  "summary": "Union Pacific implemented a safety initiative to paint the sides of railroad rails white, which reflects sunlight and reduces heat absorption, thereby preventing rail buckling and heat-related derailments during extreme temperatures.",
+  "tech_stack": [],
+  "problem_solved": "Rail buckling and derailments caused by thermal expansion of steel rails during hot weather.",
+  "why_valuable": "A simple, cost-effective engineering solution that significantly improves railroad safety and reduces expensive derailments without requiring complex infrastructure changes.",
+  "tags": [
+    "Railroad",
+    "Safety",
+    "Infrastructure",
+    "Heat-Management",
+    "Engineering"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-18T09:43:23.694387+00:00",
+  "updated_at": "2026-07-18T09:47:03.509547+00:00",
+  "published_to": []
+}

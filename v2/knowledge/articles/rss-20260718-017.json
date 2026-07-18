@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-017",
+  "source": "rss",
+  "source_url": "https://stateofopensource.ai/",
+  "title": "The state of open source AI",
+  "summary": "This is a comprehensive report and dashboard tracking the current state of open source AI, including analysis of open source AI models, frameworks, community growth, and emerging trends in the AI open source ecosystem.",
+  "tech_stack": [
+    "Open Source AI Models",
+    "Hugging Face",
+    "PyTorch",
+    "Linux",
+    "GitHub"
+  ],
+  "problem_solved": "Provides transparency and data-driven insights into the rapidly evolving open source AI landscape, helping developers and researchers navigate available tools and track community progress.",
+  "why_valuable": "Democratizes AI knowledge by aggregating open source AI statistics and trends in one place, enabling informed decision-making for developers and organizations adopting open source AI solutions.",
+  "tags": [
+    "Open Source",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Community",
+    "Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-18T09:44:39.967480+00:00",
+  "updated_at": "2026-07-18T09:47:03.510056+00:00",
+  "published_to": []
+}

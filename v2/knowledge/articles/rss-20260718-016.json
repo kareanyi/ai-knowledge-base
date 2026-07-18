@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260718-016",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48949551",
+  "title": "Thanks HN for 15 years of support and helping me find my life's work",
+  "summary": "A founder reflects on 15 years since founding the Recurse Center (formerly Hacker School), sharing how HN helped them discover their life's work after a failed YC startup attempt with an 'OkCupid for jobs' idea that led to pivoting toward creating a self-directed programming retreat for developers.",
+  "tech_stack": [
+    "None - personal reflection article"
+  ],
+  "problem_solved": "This is not a technical solution but rather a personal narrative about building a programming community and finding purpose through entrepreneurship.",
+  "why_valuable": "Provides an authentic, inspiring story about startup pivoting, community building, and the importance of creating spaces where programmers can learn and collaborate freely.",
+  "tags": [
+    "startup-journey",
+    "community",
+    "personal-story",
+    "recursion-center",
+    "entrepreneurship"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-18T09:44:27.598267+00:00",
+  "updated_at": "2026-07-18T09:47:03.509965+00:00",
+  "published_to": []
+}

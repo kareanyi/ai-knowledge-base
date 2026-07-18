@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-009",
+  "source": "rss",
+  "source_url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+  "title": "Open Book Touch: open-source e-reader",
+  "summary": "Open Book Touch is an open-source e-reader hardware project hosted on Crowd Supply, developed by Oddly Specific Objects. It provides a customizable, privacy-focused alternative to proprietary e-readers like Kindle or Kobo, allowing users full control over their reading device hardware and software.",
+  "tech_stack": [
+    "Open Source Hardware",
+    "E-Ink Display",
+    "Custom Firmware",
+    "PCB Design",
+    "Crowd Supply Platform"
+  ],
+  "problem_solved": "Provides an open-source alternative to locked-down proprietary e-readers, enabling user freedom, repairability, and customization.",
+  "why_valuable": "Empowers readers with hardware ownership, privacy, and the ability to modify their device for their specific needs.",
+  "tags": [
+    "e-reader",
+    "open-source hardware",
+    "DIY",
+    "privacy",
+    "maker"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-18T09:42:48.661675+00:00",
+  "updated_at": "2026-07-18T09:47:03.504241+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-003",
+  "source": "rss",
+  "source_url": "https://maurycyz.com/projects/bad_jpeg/",
+  "title": "Regressive JPEGs",
+  "summary": "A technical exploration of JPEG compression degradation, demonstrating how repeated JPEG compression progressively degrades image quality through artifact accumulation. The project likely provides visual examples and tools to understand lossy compression behavior.",
+  "tech_stack": [
+    "JPEG Compression",
+    "Image Processing",
+    "Web Technologies",
+    "Python",
+    "JavaScript"
+  ],
+  "problem_solved": "Visualizes and demonstrates the quality degradation that occurs when JPEG images are repeatedly compressed, useful for understanding compression artifacts and potential privacy implications.",
+  "why_valuable": "Provides hands-on demonstration of lossy compression behavior that can help developers and privacy-conscious users understand image quality degradation patterns.",
+  "tags": [
+    "JPEG",
+    "Image Compression",
+    "Lossy Compression",
+    "Privacy",
+    "Compression Artifacts"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-18T09:41:17.265208+00:00",
+  "updated_at": "2026-07-18T09:47:03.503853+00:00",
+  "published_to": []
+}

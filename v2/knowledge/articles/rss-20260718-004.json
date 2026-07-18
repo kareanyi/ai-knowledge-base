@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260718-004",
+  "source": "rss",
+  "source_url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+  "title": "I started a “dirt notebook”",
+  "summary": "A personal blog post where the author shares their experience of starting a 'dirt notebook' - an unfiltered, low-pressure journaling practice for capturing raw daily observations without worrying about polish or quality.",
+  "tech_stack": [
+    "Bear Blog",
+    "Markdown"
+  ],
+  "problem_solved": "Addresses the challenge of overcoming perfectionism and overthinking when writing or documenting daily life.",
+  "why_valuable": "Provides a simple, accessible approach to consistent personal journaling that removes the pressure of producing polished content.",
+  "tags": [
+    "Journaling",
+    "Personal Writing",
+    "Productivity",
+    "Blogging",
+    "Self-reflection"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-18T09:41:32.196535+00:00",
+  "updated_at": "2026-07-18T09:47:03.503933+00:00",
+  "published_to": []
+}

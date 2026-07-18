@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-013",
+  "source": "rss",
+  "source_url": "https://app.everything.diena.co/",
+  "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+  "summary": "A side-project demonstrating a zoomable timeline interface built with Kotlin Multiplatform, used to visualize 4 million Wikipedia events scored by PageRank for a journal app. The timeline allows users to zoom in/out and explore historical events at different granularities.",
+  "tech_stack": [
+    "Kotlin Multiplatform",
+    "Compose Multiplatform",
+    "Kotlinx-RPC",
+    "Wikipedia/Wikidata",
+    "PageRank Algorithm"
+  ],
+  "problem_solved": "Makes millions of historical Wikipedia events navigable and explorable through an intuitive zoomable timeline interface for journaling purposes.",
+  "why_valuable": "Combines personal journaling with world history exploration, offering a novel way to contextualize daily events within the broader scope of historical significance.",
+  "tags": [
+    "Kotlin",
+    "Mobile Development",
+    "Timeline Visualization",
+    "Wikipedia Data",
+    "Cross-Platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-18T09:43:47.165053+00:00",
+  "updated_at": "2026-07-18T09:47:03.509667+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-006",
+  "source": "rss",
+  "source_url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+  "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+  "summary": "Isomorphic Labs, Alphabet's AI-driven drug discovery company, has developed a drug design engine that extends beyond AlphaFold's protein structure prediction capabilities to actively design therapeutic molecules, representing a significant advancement from structure prediction to molecular design in pharmaceutical research.",
+  "tech_stack": [
+    "AlphaFold",
+    "AI/ML Models",
+    "Computational Chemistry",
+    "Protein Structure Analysis",
+    "Drug Design Algorithms"
+  ],
+  "problem_solved": "Bridges the gap between predicting protein structures and actively designing new drug molecules that can effectively bind to target proteins.",
+  "why_valuable": "Potentially accelerates drug discovery by orders of magnitude, moving from structure prediction to actionable therapeutic design using AI.",
+  "tags": [
+    "AI",
+    "Drug Discovery",
+    "AlphaFold",
+    "Computational Biology",
+    "Pharmaceutical"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-18T09:42:18.346325+00:00",
+  "updated_at": "2026-07-18T09:47:03.504059+00:00",
+  "published_to": []
+}

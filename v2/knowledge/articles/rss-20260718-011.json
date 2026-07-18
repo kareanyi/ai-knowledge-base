@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-011",
+  "source": "rss",
+  "source_url": "https://curiouscoding.nl/posts/static-search-tree/",
+  "title": "Static search trees: 40x faster than binary search (2024)",
+  "summary": "A technical article exploring static search trees as a high-performance alternative to binary search, demonstrating 40x speedup through techniques like SIMD vectorization, cache-friendly memory layouts, and branch-free algorithms optimized for modern CPU architectures.",
+  "tech_stack": [
+    "C/C++",
+    "SIMD Intrinsics",
+    "Assembly",
+    "Memory Optimization",
+    "Branch-free Programming"
+  ],
+  "problem_solved": "Provides dramatically faster search operations for read-only datasets where data remains static after initialization.",
+  "why_valuable": "Enables sub-microsecond search times for applications like databases, caches, and real-time systems by leveraging low-level CPU optimizations that standard binary search cannot achieve.",
+  "tags": [
+    "Data Structures",
+    "Algorithm Optimization",
+    "SIMD",
+    "Performance Engineering",
+    "Binary Search"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-18T09:43:12.498936+00:00",
+  "updated_at": "2026-07-18T09:47:03.509311+00:00",
+  "published_to": []
+}

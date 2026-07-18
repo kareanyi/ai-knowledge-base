@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260718-010",
+  "source": "rss",
+  "source_url": "https://github.com/tokio-rs/topcoat",
+  "title": "Topcoat: The full full-stack framework for Rust",
+  "summary": "Topcoat is a new full-stack Rust framework developed under the tokio-rs ecosystem, enabling developers to build both frontend and backend applications entirely in Rust with potential WebAssembly compilation for the client-side.",
+  "tech_stack": [
+    "Rust",
+    "Tokio",
+    "WebAssembly",
+    "Axum",
+    "Hyper"
+  ],
+  "problem_solved": "Enables end-to-end type-safe full-stack development in a single language, allowing code sharing between frontend and backend.",
+  "why_valuable": "Provides the ability to build high-performance web applications with Rust's memory safety guarantees across the entire stack while maximizing code reuse between client and server.",
+  "tags": [
+    "Rust",
+    "Full-stack",
+    "WebAssembly",
+    "Frontend",
+    "Backend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-18T09:43:01.563289+00:00",
+  "updated_at": "2026-07-18T09:47:03.504297+00:00",
+  "published_to": []
+}

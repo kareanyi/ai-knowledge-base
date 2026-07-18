@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260718-019",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+  "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+  "summary": "Bunkerhill Health完成5500万美元B轮融资，用于扩展其agentic AI平台Carebricks在医疗系统中的应用。投资方包括Sequoia Capital、Felicis、Optum Ventures和Y Combinator等知名机构。文章指出融资金额本身无法回答医院高管最关心的问题：这些医疗AI解决方案是否真正有效。",
+  "tech_stack": [
+    "Agentic AI",
+    "Carebricks Platform",
+    "Healthcare AI"
+  ],
+  "problem_solved": "帮助医疗机构规模化部署AI解决方案，提升医疗服务效率",
+  "why_valuable": "获得顶级投资机构背书，表明医疗AI领域持续获得资本市场关注，有助于推动AI在医疗健康领域的实际落地验证",
+  "tags": [
+    "Healthcare AI",
+    "Agentic AI",
+    "Funding",
+    "Startups",
+    "Digital Health"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-18T09:45:01.802977+00:00",
+  "updated_at": "2026-07-18T09:47:03.510220+00:00",
+  "published_to": []
+}
