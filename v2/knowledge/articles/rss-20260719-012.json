@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260719-012",
+  "source": "rss",
+  "source_url": "https://amigafreeware.downer.tech/",
+  "title": "Classic Amiga titles, free to download",
+  "summary": "A website hosting free downloadable classic Amiga games, preserving retro gaming heritage from the Commodore Amiga era.",
+  "tech_stack": [
+    "AmigaOS",
+    "68000 Assembly",
+    "Amiga Basic"
+  ],
+  "problem_solved": "Preserves and makes accessible classic Amiga gaming titles that would otherwise be lost or difficult to find",
+  "why_valuable": "Maintains video game history and allows retro gaming enthusiasts to experience classic titles legally and for free",
+  "tags": [
+    "Retro Gaming",
+    "Amiga",
+    "Preservation",
+    "Classic Games",
+    "Emulation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-19T10:02:31.022299+00:00",
+  "updated_at": "2026-07-19T10:07:39.796820+00:00",
+  "published_to": []
+}

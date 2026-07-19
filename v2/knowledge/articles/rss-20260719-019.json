@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-019",
+  "source": "rss",
+  "source_url": "https://elixir-lang.org/",
+  "title": "Elixir-lang.org has a new design",
+  "summary": "The official Elixir programming language website (elixir-lang.org) has received a complete redesign, featuring improved navigation, better documentation structure, and a modern visual aesthetic to enhance the developer experience for the Elixir community.",
+  "tech_stack": [
+    "Elixir",
+    "Phoenix",
+    "HTML/CSS",
+    "JavaScript",
+    "Web Design"
+  ],
+  "problem_solved": "Improves the discoverability and accessibility of Elixir documentation and resources for both new and existing developers.",
+  "why_valuable": "A well-designed official website is crucial for language adoption and community growth, as it serves as the primary entry point for developers learning about Elixir.",
+  "tags": [
+    "Elixir",
+    "Web Design",
+    "Documentation",
+    "Programming Language",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-19T10:04:48.630713+00:00",
+  "updated_at": "2026-07-19T10:07:39.798083+00:00",
+  "published_to": []
+}

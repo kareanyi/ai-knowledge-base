@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260719-006",
+  "source": "rss",
+  "source_url": "https://github.com/vercel-labs/deepsec",
+  "title": "Deepsec",
+  "summary": "Deepsec is a security tool from Vercel Labs designed to protect LLM applications from adversarial attacks and prompt injections. It provides comprehensive testing and validation mechanisms to ensure AI systems remain secure against malicious inputs.",
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "Vercel AI SDK",
+    "LLM"
+  ],
+  "problem_solved": "Addresses security vulnerabilities in LLM-powered applications, particularly prompt injection attacks and adversarial input manipulation.",
+  "why_valuable": "As AI applications become more prevalent, securing them against sophisticated attacks is critical, and Deepsec provides developer-friendly tools to implement robust security measures.",
+  "tags": [
+    "AI Security",
+    "LLM",
+    "Prompt Injection",
+    "Vercel",
+    "Security Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-19T10:00:22.740439+00:00",
+  "updated_at": "2026-07-19T10:07:39.784969+00:00",
+  "published_to": []
+}

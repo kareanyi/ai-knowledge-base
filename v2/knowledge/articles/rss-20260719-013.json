@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-013",
+  "source": "rss",
+  "source_url": "https://www.neatnik.net/hardcore-indieweb",
+  "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+  "summary": "A technical guide on building and hosting a fully independent personal website using the IndieWeb principles, achieving a cost of just $0.01/day through free-tier services and open standards.",
+  "tech_stack": [
+    "Static Site Generator",
+    "Cloudflare Pages",
+    "Domain Registrar",
+    "Webmention Protocol",
+    "RSS/Atom Feeds"
+  ],
+  "problem_solved": "Enables individuals to own their online presence and content without depending on centralized social media platforms.",
+  "why_valuable": "Provides complete data ownership and platform independence at near-zero cost while maintaining professional web presence.",
+  "tags": [
+    "IndieWeb",
+    "self-hosting",
+    "personal website",
+    "digital sovereignty",
+    "static site"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-19T10:02:46.635242+00:00",
+  "updated_at": "2026-07-19T10:07:39.797002+00:00",
+  "published_to": []
+}

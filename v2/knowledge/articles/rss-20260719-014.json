@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-014",
+  "source": "rss",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+  "title": "The Kimi K3 Moment",
+  "summary": "The Kimi K3 Moment discusses a significant development or breakthrough from Moonshot AI's Kimi series, likely representing a new milestone in Chinese AI capabilities that has captured strong attention from the tech community with nearly 400 points and 426 comments on Hacker News.",
+  "tech_stack": [
+    "LLM",
+    "AI Agents",
+    "Moonshot AI",
+    "Python",
+    "Kimi"
+  ],
+  "problem_solved": "Represents a notable advancement in AI capabilities, possibly in reasoning, multimodal processing, or agentic workflows that pushes the boundaries of current LLM technology.",
+  "why_valuable": "The high engagement indicates this is a watershed moment for AI development, particularly in the context of Chinese AI competition, potentially signaling new benchmarks in model performance or accessibility.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Moonshot AI",
+    "Chinese AI",
+    "AI Agents"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-19T10:03:09.318399+00:00",
+  "updated_at": "2026-07-19T10:07:39.797182+00:00",
+  "published_to": []
+}

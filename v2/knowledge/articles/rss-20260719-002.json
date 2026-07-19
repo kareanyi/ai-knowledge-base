@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-002",
+  "source": "rss",
+  "source_url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+  "title": "Qwen3.8 is launching and going open-weight soon",
+  "summary": "Alibaba announces the upcoming launch of Qwen3.8, their latest large language model, which will be released with open-weight access allowing researchers and developers to freely use, modify, and study the model.",
+  "tech_stack": [
+    "LLM",
+    "AI",
+    "Machine Learning",
+    "Deep Learning",
+    "Python"
+  ],
+  "problem_solved": "Provides the AI community with access to a powerful open-weight language model from a major tech company.",
+  "why_valuable": "Open-weight releases democratize AI access, enable broader research collaboration, and allow developers to build applications without licensing restrictions.",
+  "tags": [
+    "AI",
+    "LLM",
+    "OpenWeight",
+    "Qwen",
+    "Alibaba"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-19T09:59:23.407605+00:00",
+  "updated_at": "2026-07-19T10:07:39.784192+00:00",
+  "published_to": []
+}

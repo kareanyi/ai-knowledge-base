@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-020",
+  "source": "rss",
+  "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+  "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+  "summary": "An AI model was used to address a 30-year-old mathematical gap in convex optimization theory, specifically related to CDC (Convex Dive Complexity) proof, demonstrating AI's emerging capability to contribute to fundamental mathematical research and solve longstanding theoretical problems.",
+  "tech_stack": [
+    "Large Language Models",
+    "Convex Optimization",
+    "Mathematical Proof Systems",
+    "Prompt Engineering",
+    "Optimization Theory"
+  ],
+  "problem_solved": "Bridging a 30-year unresolved gap in convex optimization theory related to CDC proof complexity.",
+  "why_valuable": "Demonstrates AI's potential to contribute to pure mathematical research and solve longstanding open problems in theoretical computer science, opening new avenues for human-AI collaboration in mathematical discovery.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Optimization",
+    "Research",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-19T10:05:06.583504+00:00",
+  "updated_at": "2026-07-19T10:07:39.798258+00:00",
+  "published_to": []
+}

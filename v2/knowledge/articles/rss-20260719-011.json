@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260719-011",
+  "source": "rss",
+  "source_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+  "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+  "summary": "NYC Mayor Mamdani is proposing legislation that would require landlords and real estate agents to disclose when they use AI-generated images in property advertisements, aiming to protect consumers from deceptive marketing practices.",
+  "tech_stack": [
+    "AI Image Generation"
+  ],
+  "problem_solved": "Prevents landlords and realtors from secretly using AI-generated images to mislead potential renters or buyers about property conditions.",
+  "why_valuable": "Establishes transparency in real estate advertising and protects consumers from being deceived by AI-manipulated property images.",
+  "tags": [
+    "AI regulation",
+    "real estate",
+    "consumer protection",
+    "disclosure policy",
+    "NYC"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-19T10:02:22.004888+00:00",
+  "updated_at": "2026-07-19T10:07:39.796626+00:00",
+  "published_to": []
+}

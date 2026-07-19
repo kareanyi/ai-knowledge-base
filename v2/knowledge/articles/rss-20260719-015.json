@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260719-015",
+  "source": "rss",
+  "source_url": "https://queue.acm.org/detail.cfm?id=3818307",
+  "title": "Goodbye, and Thanks for All the Bikesheds",
+  "summary": "A reflective article on software engineering culture discussing the bikeshedding phenomenon where development teams obsess over trivial details while neglecting critical decisions. The piece appears to be a farewell/retrospective from an experienced engineer sharing insights on what truly matters in software development.",
+  "tech_stack": [
+    "Software Engineering",
+    "Team Dynamics"
+  ],
+  "problem_solved": "Addresses the tendency of technical teams to waste time debating trivial matters (bikeshedding) instead of focusing on substantive technical decisions.",
+  "why_valuable": "Provides practical wisdom about maintaining focus on important technical decisions while avoiding unnecessary distractions in software projects.",
+  "tags": [
+    "software-engineering",
+    "team-dynamics",
+    "technical-leadership",
+    "programming-culture",
+    "best-practices"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-19T10:03:37.311259+00:00",
+  "updated_at": "2026-07-19T10:07:39.797362+00:00",
+  "published_to": []
+}

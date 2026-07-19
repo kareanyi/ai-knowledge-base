@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-008",
+  "source": "rss",
+  "source_url": "https://github.com/stupside/castor",
+  "title": "Better and Cheaper Than IPTV",
+  "summary": "Castor is an open-source streaming platform that provides a cheaper and more flexible alternative to traditional IPTV services, allowing users to stream live TV, movies, and other content through a self-hosted or lightweight solution.",
+  "tech_stack": [
+    ".NET",
+    "C#",
+    "Media Streaming",
+    "HLS",
+    "Docker"
+  ],
+  "problem_solved": "Provides an affordable, open-source alternative to expensive commercial IPTV subscriptions for streaming television content.",
+  "why_valuable": "It offers significant cost savings while giving users full control over their streaming infrastructure without relying on costly third-party IPTV providers.",
+  "tags": [
+    "IPTV",
+    "Streaming",
+    "Media",
+    "Open Source",
+    "Self-hosted"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-19T10:01:10.817266+00:00",
+  "updated_at": "2026-07-19T10:07:39.795997+00:00",
+  "published_to": []
+}

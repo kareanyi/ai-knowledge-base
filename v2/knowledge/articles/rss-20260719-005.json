@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-005",
+  "source": "rss",
+  "source_url": "https://airdows.com/",
+  "title": "I built a browser-based P2P file transfer tool using WebRTC",
+  "summary": "A lightweight P2P file transfer application built entirely in the browser using WebRTC, enabling direct peer-to-peer connections without server uploads. The tool focuses on privacy and speed by establishing direct browser-to-browser connections for instant file sharing.",
+  "tech_stack": [
+    "WebRTC",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Browser APIs"
+  ],
+  "problem_solved": "Eliminates the need for intermediate servers when transferring files between users, solving privacy concerns and speed limitations of traditional cloud-based file sharing.",
+  "why_valuable": "Provides instant, private file transfers directly in the browser without requiring account registration, software installation, or trusting third-party servers with data.",
+  "tags": [
+    "WebRTC",
+    "P2P",
+    "FileTransfer",
+    "Privacy",
+    "Browser"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-19T10:00:01.028601+00:00",
+  "updated_at": "2026-07-19T10:07:39.784789+00:00",
+  "published_to": []
+}

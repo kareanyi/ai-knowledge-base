@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-004",
+  "source": "rss",
+  "source_url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+  "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+  "summary": "This technical article analyzes LLVM compiler code to reverse-engineer and predict specifications of AMD's GFX1250 GPU architecture, examining compiler intrinsics and target definitions to understand the hardware capabilities of this upcoming AMD graphics processor.",
+  "tech_stack": [
+    "LLVM",
+    "AMD GPU",
+    "RDNA Architecture",
+    "GLSL/HLSL",
+    "Compiler Infrastructure"
+  ],
+  "problem_solved": "Provides early insights into AMD's unreleased GFX1250 GPU architecture by analyzing LLVM compiler code patterns and hardware target definitions.",
+  "why_valuable": "Enables compiler developers, driver engineers, and graphics programmers to prepare for and optimize for upcoming AMD hardware before official documentation is released.",
+  "tags": [
+    "AMD",
+    "GPU",
+    "LLVM",
+    "Reverse Engineering",
+    "Compiler"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-19T09:59:48.815248+00:00",
+  "updated_at": "2026-07-19T10:07:39.784570+00:00",
+  "published_to": []
+}

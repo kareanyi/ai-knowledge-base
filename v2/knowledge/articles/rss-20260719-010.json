@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-010",
+  "source": "rss",
+  "source_url": "https://codex-resets.com/",
+  "title": "Codex Resets",
+  "summary": "Codex Resets appears to be an article discussing the reset or restart of OpenAI's Codex or a related AI code generation platform, likely exploring the implications of recent changes to AI-powered coding tools.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Code Generation",
+    "OpenAI",
+    "API"
+  ],
+  "problem_solved": "Addresses the impact or implications of Codex platform resets/changes for developers and AI-assisted coding workflows.",
+  "why_valuable": "Provides insights into how AI code generation platforms evolve and what it means for developers relying on these tools.",
+  "tags": [
+    "AI",
+    "Codex",
+    "Code Generation",
+    "OpenAI",
+    "Developer Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-19T10:02:12.253342+00:00",
+  "updated_at": "2026-07-19T10:07:39.796444+00:00",
+  "published_to": []
+}

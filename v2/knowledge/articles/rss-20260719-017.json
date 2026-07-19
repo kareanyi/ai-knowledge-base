@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-017",
+  "source": "rss",
+  "source_url": "https://tangled.org/gleam.run/gleam",
+  "title": "Gleam Is Now on Tangled",
+  "summary": "Gleam, a type-safe functional programming language that compiles to Erlang/OTP and JavaScript, is now available on the Tangled documentation platform. This integration provides better accessibility and learning resources for developers interested in the Gleam ecosystem.",
+  "tech_stack": [
+    "Gleam",
+    "Erlang/OTP",
+    "JavaScript",
+    "Functional Programming",
+    "BEAM VM"
+  ],
+  "problem_solved": "Makes the Gleam programming language more accessible to developers by providing centralized documentation and learning resources on the Tangled platform.",
+  "why_valuable": "Gleam's combination of type safety, functional programming paradigms, and cross-compilation to both BEAM and JavaScript makes it valuable for developers building reliable web and backend systems, and this integration helps onboard new users.",
+  "tags": [
+    "Gleam",
+    "Functional Programming",
+    "Type Safety",
+    "Erlang",
+    "Programming Languages"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-19T10:04:19.883067+00:00",
+  "updated_at": "2026-07-19T10:07:39.797714+00:00",
+  "published_to": []
+}

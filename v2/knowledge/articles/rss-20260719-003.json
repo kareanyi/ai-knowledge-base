@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260719-003",
+  "source": "rss",
+  "source_url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+  "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+  "summary": "Perforce is charging $500 for basic Helix Core version control training videos that are narrated by AI rather than human instructors. This Hacker News post sparked discussion about the high price point combined with AI-generated narration for professional developer training materials.",
+  "tech_stack": [
+    "Perforce Helix Core",
+    "AI Voiceover"
+  ],
+  "problem_solved": "Addresses concerns about the value proposition of AI-narrated professional training at premium pricing.",
+  "why_valuable": "Highlights an emerging trend where companies use AI to cut costs while maintaining high prices, raising questions about the future of professional education.",
+  "tags": [
+    "AI",
+    "pricing",
+    "training",
+    "Perforce",
+    "education"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-19T09:59:32.499399+00:00",
+  "updated_at": "2026-07-19T10:07:39.784383+00:00",
+  "published_to": []
+}

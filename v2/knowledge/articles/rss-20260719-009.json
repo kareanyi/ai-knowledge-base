@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-009",
+  "source": "rss",
+  "source_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+  "title": "Transcribe.cpp",
+  "summary": "Transcribe.cpp is a C++ implementation of an audio transcription tool, likely inspired by the whisper.cpp project, designed to provide efficient speech-to-text conversion using the Whisper model with the performance benefits of C++. The project appears on a personal workshop site, suggesting it may be a tutorial or guide for implementing transcription functionality in C++.",
+  "tech_stack": [
+    "C++",
+    "Whisper",
+    "GGML/GGUF",
+    "Makefile",
+    "OpenAI"
+  ],
+  "problem_solved": "Provides a high-performance C++ implementation for converting speech/audio to text, enabling offline transcription with minimal dependencies.",
+  "why_valuable": "Brings the speed and efficiency of C++ to audio transcription tasks, making it suitable for resource-constrained environments and real-time applications.",
+  "tags": [
+    "transcription",
+    "speech-to-text",
+    "C++",
+    "whisper",
+    "performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-19T10:01:47.725882+00:00",
+  "updated_at": "2026-07-19T10:07:39.796261+00:00",
+  "published_to": []
+}
