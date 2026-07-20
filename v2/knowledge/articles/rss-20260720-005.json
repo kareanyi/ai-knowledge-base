@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260720-005",
+  "source": "rss",
+  "source_url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+  "title": "When can a power company take your land for data center infrastructure?",
+  "summary": "This article examines the legal framework around eminent domain laws and whether power companies can seize private land for data center infrastructure to support the growing AI industry. It explores the tension between property rights and the expanding energy demands of data centers driven by AI workloads.",
+  "tech_stack": [
+    "General Knowledge"
+  ],
+  "problem_solved": "Addresses when and under what legal circumstances power utilities can exercise eminent domain to acquire land for data center infrastructure projects.",
+  "why_valuable": "Highlights the emerging conflict between AI infrastructure expansion and property rights, providing insight into regulatory and legal implications of the data center boom.",
+  "tags": [
+    "Eminent Domain",
+    "Data Centers",
+    "AI Infrastructure",
+    "Policy",
+    "Property Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:01:19.754000+00:00",
+  "updated_at": "2026-07-20T11:04:55.731870+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-018",
+  "source": "rss",
+  "source_url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+  "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+  "summary": "A maker/entrepreneur shares practical lessons from selling 2,500 MIDI recorders, challenging the misconception that hardware businesses are prohibitively difficult. The article covers manufacturing, supply chain, and customer acquisition insights gained from real-world experience.",
+  "tech_stack": [
+    "Electronics Manufacturing",
+    "PCB Design",
+    "E-commerce",
+    "Crowdfunding",
+    "MIDI Protocol"
+  ],
+  "problem_solved": "Demystifies hardware entrepreneurship and reduces the perceived barrier to entry for makers wanting to commercialize physical products.",
+  "why_valuable": "Provides actionable, real-world insights from someone who successfully manufactured and sold thousands of units, making hardware business approachable for aspiring entrepreneurs.",
+  "tags": [
+    "Hardware",
+    "Entrepreneurship",
+    "Manufacturing",
+    "E-commerce",
+    "MIDI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-20T11:04:40.811271+00:00",
+  "updated_at": "2026-07-20T11:04:55.739474+00:00",
+  "published_to": []
+}

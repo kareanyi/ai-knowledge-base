@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-011",
+  "source": "rss",
+  "source_url": "https://justsomebody.dev/blog/mikrotik-home-router",
+  "title": "HomeLab #1: MikroTik as a Home Router",
+  "summary": "A comprehensive guide on configuring MikroTik routers for home lab environments, covering network setup, security configurations, and advanced routing features suitable for self-hosting enthusiasts.",
+  "tech_stack": [
+    "MikroTik RouterOS",
+    "RouterBOARD",
+    "VLAN",
+    "Firewall",
+    "Network Scripting"
+  ],
+  "problem_solved": "Provides a cost-effective solution for home lab enthusiasts who need professional-grade routing, firewall, and network segmentation capabilities without enterprise pricing.",
+  "why_valuable": "MikroTik hardware offers routerOS's powerful features at consumer prices, making advanced networking accessible for self-hosters and home lab builders to create secure, segmented networks.",
+  "tags": [
+    "HomeLab",
+    "Networking",
+    "MikroTik",
+    "Self-Hosting",
+    "Router"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:02:48.234703+00:00",
+  "updated_at": "2026-07-20T11:04:55.738332+00:00",
+  "published_to": []
+}

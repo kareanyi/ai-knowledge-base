@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-016",
+  "source": "rss",
+  "source_url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+  "title": "Minecraft: Java Edition now uses SDL3",
+  "summary": "Minecraft: Java Edition has officially switched to using SDL3 (Simple DirectMedia Layer 3) in its latest snapshot, marking a significant technical modernization of the game's cross-platform input and graphics handling infrastructure.",
+  "tech_stack": [
+    "SDL3",
+    "Java",
+    "Cross-platform Graphics",
+    "OpenGL",
+    "Game Development"
+  ],
+  "problem_solved": "Replaces legacy graphics and input handling systems with a modern, well-maintained cross-platform library that improves compatibility and future-proofs the game.",
+  "why_valuable": "SDL3 provides better cross-platform support, improved input handling, and access to modern graphics APIs, which will enhance Minecraft's performance and portability across operating systems.",
+  "tags": [
+    "SDL3",
+    "Minecraft",
+    "Gaming",
+    "Cross-platform",
+    "Java"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:04:13.804960+00:00",
+  "updated_at": "2026-07-20T11:04:55.739225+00:00",
+  "published_to": []
+}

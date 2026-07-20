@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-017",
+  "source": "rss",
+  "source_url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+  "title": "I joined the IndieWeb, here's what I learned",
+  "summary": "The author shares their experience joining the IndieWeb movement, a community of personal website owners using open web standards like WebMention, Micropub, and IndieAuth to own their content and interact with other sites directly without relying on centralized social platforms.",
+  "tech_stack": [
+    "HTML/CSS",
+    "WebMention",
+    "Micropub",
+    "IndieAuth",
+    "RSS/Atom"
+  ],
+  "problem_solved": "Decentralizing online identity and content ownership away from big social media platforms.",
+  "why_valuable": "It demonstrates a practical approach to reclaiming web autonomy while maintaining interoperability with the broader internet through open standards.",
+  "tags": [
+    "IndieWeb",
+    "decentralization",
+    "personal-websites",
+    "open-web",
+    "web-standards"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-20T11:04:29.955121+00:00",
+  "updated_at": "2026-07-20T11:04:55.739352+00:00",
+  "published_to": []
+}

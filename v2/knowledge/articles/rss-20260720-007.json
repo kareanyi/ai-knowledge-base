@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-007",
+  "source": "rss",
+  "source_url": "https://github.com/hgaiser/moonshine",
+  "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+  "summary": "Moonshine is an open-source server implementation that enables streaming PC games to any device by acting as a relay/gateway for Moonlight clients, extending game streaming capabilities beyond traditional hardware limitations.",
+  "tech_stack": [
+    "Python",
+    "Moonlight Protocol",
+    "OpenSSL",
+    "Networking Protocols",
+    "Linux"
+  ],
+  "problem_solved": "Enables game streaming from PC to devices that cannot directly run Moonlight or connect to the host PC.",
+  "why_valuable": "It democratizes PC game streaming by removing hardware barriers, allowing users to play their PC games on virtually any networked device with a screen.",
+  "tags": [
+    "game-streaming",
+    "moonlight",
+    "remote-gaming",
+    "open-source",
+    "client-server"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:01:52.594292+00:00",
+  "updated_at": "2026-07-20T11:04:55.732104+00:00",
+  "published_to": []
+}

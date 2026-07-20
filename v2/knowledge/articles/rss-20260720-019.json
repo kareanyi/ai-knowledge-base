@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-019",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+  "title": "Claude Code uses Bun written in Rust now",
+  "summary": "Anthropic's Claude Code CLI tool has transitioned from using Bun (a JavaScript/TypeScript runtime written in Zig) to being rewritten in Rust, marking a significant technical shift for the popular AI coding assistant.",
+  "tech_stack": [
+    "Rust",
+    "Bun",
+    "Zig",
+    "Claude API",
+    "CLI"
+  ],
+  "problem_solved": "Addresses performance, binary size, and cross-platform reliability concerns by migrating from a higher-level runtime to a systems programming language.",
+  "why_valuable": "Demonstrates how AI companies optimize their developer tools through lower-level implementations, providing insights into production-grade tooling decisions for the AI ecosystem.",
+  "tags": [
+    "Rust",
+    "CLI",
+    "Claude",
+    "Anthropic",
+    "Developer-Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-20T11:04:54.886261+00:00",
+  "updated_at": "2026-07-20T11:04:55.739587+00:00",
+  "published_to": []
+}

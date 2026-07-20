@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-008",
+  "source": "rss",
+  "source_url": "https://github.com/Pedroshakoor/grok-build-ios",
+  "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+  "summary": "Grok-iOS 是一个 iOS 应用，允许用户通过手机远程执行 Grok Build 构建任务，利用 ACP 协议实现移动端与远程构建系统的通信连接，解决了移动办公场景下无法在电脑前执行构建操作的问题。",
+  "tech_stack": [
+    "iOS",
+    "Swift",
+    "ACP协议",
+    "移动开发",
+    "远程通信"
+  ],
+  "problem_solved": "解决开发者无法在移动场景下远程执行 Grok Build 构建任务的问题",
+  "why_valuable": "为开发者提供移动端的远程构建能力，提升工作灵活性和效率",
+  "tags": [
+    "iOS",
+    "RemoteBuild",
+    "ACP",
+    "MobileDev",
+    "Grok"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-20T11:02:01.854147+00:00",
+  "updated_at": "2026-07-20T11:04:55.732220+00:00",
+  "published_to": []
+}

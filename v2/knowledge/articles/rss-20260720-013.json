@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-013",
+  "source": "rss",
+  "source_url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+  "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+  "summary": "A retro game development tutorial showing how to create a dungeon crawler game in Commodore 64 BASIC, specifically implementing goblin attack mechanics as part 8 of a series.",
+  "tech_stack": [
+    "C64 BASIC",
+    "Commodore 64",
+    "Retro BASIC",
+    "8-bit Gaming",
+    "6502 Assembly"
+  ],
+  "problem_solved": "Teaches classic dungeon crawler game mechanics implementation on vintage Commodore 64 hardware using BASIC programming language.",
+  "why_valuable": "Preserves retro programming knowledge and provides accessible entry point for learning game development fundamentals on classic 8-bit hardware.",
+  "tags": [
+    "Retro Gaming",
+    "Commodore 64",
+    "BASIC",
+    "Game Development",
+    "8-bit Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-20T11:03:25.507845+00:00",
+  "updated_at": "2026-07-20T11:04:55.738786+00:00",
+  "published_to": []
+}

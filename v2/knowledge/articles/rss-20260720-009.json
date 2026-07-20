@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-009",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+  "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+  "summary": "IEEE Spectrum reports on the development of the largest probabilistic computer, which harnesses inherent hardware noise as a computational resource rather than treating it as an error source. Unlike traditional deterministic computers, this system uses probabilistic bits (p-bits) to perform calculations through stochastic processes, potentially offering advantages for optimization and sampling problems.",
+  "tech_stack": [
+    "Probabilistic Computing",
+    "Custom Silicon",
+    "p-bits",
+    "Stochastic Computing",
+    "Hardware Design"
+  ],
+  "problem_solved": "Addresses the inefficiency of deterministic computers for probabilistic computing tasks by exploiting noise as a computational resource",
+  "why_valuable": "Probabilistic computers can potentially solve certain optimization and sampling problems more efficiently than classical computers, with applications in machine learning, drug discovery, and financial modeling.",
+  "tags": [
+    "Probabilistic Computing",
+    "Hardware",
+    "p-bits",
+    "Stochastic Computing",
+    "Novel Architecture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:02:15.379341+00:00",
+  "updated_at": "2026-07-20T11:04:55.732332+00:00",
+  "published_to": []
+}

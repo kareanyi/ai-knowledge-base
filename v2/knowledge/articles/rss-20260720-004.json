@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-004",
+  "source": "rss",
+  "source_url": "https://github.com/Saivineeth147/lora-speedrun",
+  "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+  "summary": "LoRA Speedrun is a public leaderboard that benchmarks different LoRA fine-tuning techniques by measuring actual wall-clock time performance, providing empirical data to help practitioners compare speed across various LoRA implementations and configurations.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "PEFT",
+    "CUDA"
+  ],
+  "problem_solved": "Addresses the lack of standardized real-world performance benchmarks for comparing different LoRA fine-tuning approaches.",
+  "why_valuable": "Enables data-driven decision making when selecting LoRA configurations by providing transparent, community-verified speed benchmarks.",
+  "tags": [
+    "LoRA",
+    "Fine-tuning",
+    "Benchmarking",
+    "LLM Optimization",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:01:11.261461+00:00",
+  "updated_at": "2026-07-20T11:04:55.731725+00:00",
+  "published_to": []
+}

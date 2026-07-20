@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-015",
+  "source": "rss",
+  "source_url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+  "title": "I burned all my tokens researching how to save tokens",
+  "summary": "A developer shares their experience building a custom deep research pipeline that optimizes LLM token usage and API costs while maintaining research quality. The article explores various strategies for reducing computational expenses in AI-powered research workflows.",
+  "tech_stack": [
+    "LLM APIs",
+    "Python",
+    "LangChain",
+    "Search APIs",
+    "Claude/GPT"
+  ],
+  "problem_solved": "Solves the problem of excessive API costs when running large-scale AI research queries using deep research pipelines.",
+  "why_valuable": "Provides practical optimization techniques that can significantly reduce LLM operating costs while maintaining research effectiveness, which is crucial for production AI applications.",
+  "tags": [
+    "LLM",
+    "Cost-Optimization",
+    "Deep-Research",
+    "AI-Pipeline",
+    "Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:03:57.619430+00:00",
+  "updated_at": "2026-07-20T11:04:55.739086+00:00",
+  "published_to": []
+}

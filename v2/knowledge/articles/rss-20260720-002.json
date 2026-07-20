@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-002",
+  "source": "rss",
+  "source_url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+  "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+  "summary": "This article from The Document Foundation (LibreOffice developers) analyzes how Microsoft strategically uses proprietary file formats as a primary mechanism for customer lock-in, making it difficult for users to migrate to alternative office productivity solutions.",
+  "tech_stack": [
+    "Office Open XML (OOXML)",
+    "DOCX",
+    "XLSX",
+    "PPTX",
+    "OpenDocument Format (ODF)"
+  ],
+  "problem_solved": "Examines how proprietary file formats create artificial switching costs that keep users locked into Microsoft's ecosystem.",
+  "why_valuable": "Raises awareness about the anti-competitive implications of proprietary formats and highlights why open standards like ODF are important for user freedom and market competition.",
+  "tags": [
+    "vendor-lock-in",
+    "proprietary-formats",
+    "open-source",
+    "microsoft",
+    "competition"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-20T11:00:39.056741+00:00",
+  "updated_at": "2026-07-20T11:04:55.731460+00:00",
+  "published_to": []
+}

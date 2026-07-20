@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-012",
+  "source": "rss",
+  "source_url": "https://www.hmd.com/en_int/hmd-touch-4g",
+  "title": "HMD Touch 4G",
+  "summary": "HMD (the company behind Nokia phones) has announced the HMD Touch 4G, an affordable feature phone with 4G connectivity designed for budget-conscious consumers seeking basic smartphone functionality.",
+  "tech_stack": [
+    "4G LTE",
+    "Feature Phone OS",
+    "KaiOS",
+    "MediaTek processor",
+    "Basic JavaScript apps"
+  ],
+  "problem_solved": "Provides affordable 4G connectivity for emerging markets and users who need basic calling, messaging, and essential apps without smartphone complexity.",
+  "why_valuable": "Makes modern 4G connectivity accessible to price-sensitive consumers and those transitioning from basic feature phones, while supporting popular apps like WhatsApp.",
+  "tags": [
+    "Smartphone",
+    "Feature Phone",
+    "Budget Device",
+    "4G",
+    "Emerging Markets"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-20T11:03:11.218051+00:00",
+  "updated_at": "2026-07-20T11:04:55.738602+00:00",
+  "published_to": []
+}

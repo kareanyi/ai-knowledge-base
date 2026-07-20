@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-001",
+  "source": "rss",
+  "source_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+  "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+  "summary": "A security researcher demonstrates finding a critical WordPress Remote Code Execution (RCE) vulnerability worth $500,000 on the exploit market, using AI-assisted research techniques at a cost of only $25, highlighting the democratization of vulnerability discovery through AI tools.",
+  "tech_stack": [
+    "WordPress",
+    "AI/GPT",
+    "Burp Suite",
+    "Fuzzing Tools",
+    "Web Security Testing"
+  ],
+  "problem_solved": "Demonstrates how AI can lower the barrier to entry for finding high-value security vulnerabilities, making advanced security research more accessible to researchers with limited resources.",
+  "why_valuable": "This research reveals both the economic incentives driving the exploit market and the potential for AI to revolutionize security research, raising important questions about offensive security capabilities and vulnerability disclosure.",
+  "tags": [
+    "cybersecurity",
+    "vulnerability-research",
+    "AI",
+    "zero-day",
+    "penetration-testing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-20T11:00:26.001991+00:00",
+  "updated_at": "2026-07-20T11:04:55.731224+00:00",
+  "published_to": []
+}

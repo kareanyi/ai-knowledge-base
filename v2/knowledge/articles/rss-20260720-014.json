@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-014",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48968606",
+  "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+  "summary": "A Site Reliability Engineer used ESP32 microcontrollers to replace a $120,000 commercial bowling center management system for just $1,600, saving his family's rural bowling alley from abandonment by modernizing 70-year-old equipment with IoT solutions.",
+  "tech_stack": [
+    "ESP32",
+    "IoT",
+    "Microcontrollers",
+    "Electronics",
+    "DIY Hardware"
+  ],
+  "problem_solved": "Replaced expensive proprietary bowling alley management systems with affordable open-source hardware solutions.",
+  "why_valuable": "Demonstrates how modern IoT hardware can democratize expensive automation systems, saving $118,000 while bringing recreation to an underserved rural community.",
+  "tags": [
+    "IoT",
+    "ESP32",
+    "DIY",
+    "Cost-Saving",
+    "Hardware"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-20T11:03:34.681028+00:00",
+  "updated_at": "2026-07-20T11:04:55.738939+00:00",
+  "published_to": []
+}
