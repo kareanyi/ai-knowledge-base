@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-015",
+  "source": "rss",
+  "source_url": "https://www.kimi.com/products/kimi-work",
+  "title": "Kimi Work",
+  "summary": "Kimi Work is MoonShot AI's enterprise-focused AI work platform that extends their successful Kimi AI assistant capabilities to professional workplace scenarios. The product gained significant attention on Hacker News with 562 points and 240 comments, indicating strong market interest in AI-powered work solutions.",
+  "tech_stack": [
+    "MoonShot AI Models",
+    "Large Language Models",
+    "Web Application",
+    "API Integration",
+    "Multi-modal AI"
+  ],
+  "problem_solved": "Provides AI-powered workplace productivity tools that help professionals and teams accomplish work tasks more efficiently using advanced language models.",
+  "why_valuable": "Bridges the gap between consumer AI assistants and professional work requirements, offering enterprise-grade AI capabilities from a proven AI company with high engagement metrics showing strong user demand.",
+  "tags": [
+    "AI Assistant",
+    "Enterprise",
+    "Productivity",
+    "Work Tools",
+    "MoonShot AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:34:44.696091+00:00",
+  "updated_at": "2026-07-21T10:35:49.851058+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-001",
+  "source": "rss",
+  "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+  "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+  "summary": "Qwen-Image-3.0 is Alibaba's latest vision language model (VLM) that achieves state-of-the-art performance in image understanding, capable of processing rich visual content with authentic details and deep contextual knowledge. The model represents a significant advancement in multimodal AI capabilities.",
+  "tech_stack": [
+    "Qwen",
+    "Python",
+    "Deep Learning",
+    "Transformer Architecture",
+    "Vision Language Model"
+  ],
+  "problem_solved": "Enables AI systems to understand and analyze images with human-like depth, detail recognition, and contextual knowledge integration.",
+  "why_valuable": "Advances multimodal AI capabilities, allowing applications to accurately interpret visual content beyond simple object recognition to genuine image comprehension.",
+  "tags": [
+    "AI",
+    "Vision Language Model",
+    "Multimodal AI",
+    "Qwen",
+    "Alibaba"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:31:37.303387+00:00",
+  "updated_at": "2026-07-21T10:35:49.842958+00:00",
+  "published_to": []
+}

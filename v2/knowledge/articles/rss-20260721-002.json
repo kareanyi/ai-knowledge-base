@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260721-002",
+  "source": "rss",
+  "source_url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+  "title": "Linux kernel will support $ORIGIN, sort of",
+  "summary": "This article discusses the Linux kernel's upcoming support for $ORIGIN in dynamic linking, a feature that allows executables to find shared libraries relative to their own location. The 'sort of' in the title suggests a limited or conditional implementation, likely addressing security concerns with setuid/setuid binaries while enabling more flexible library loading.",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "ld.so (dynamic linker)",
+    "ELF format"
+  ],
+  "problem_solved": "Enables executables to reliably locate shared libraries relative to their own installation directory, improving portability and reducing dependency on hardcoded paths.",
+  "why_valuable": "This feature enhances library loading flexibility in Linux while maintaining security boundaries, making it easier to distribute self-contained applications with bundled libraries.",
+  "tags": [
+    "Linux",
+    "Kernel",
+    "Security",
+    "Dynamic Linking",
+    "Systems Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-21T10:31:52.745491+00:00",
+  "updated_at": "2026-07-21T10:35:49.843214+00:00",
+  "published_to": []
+}

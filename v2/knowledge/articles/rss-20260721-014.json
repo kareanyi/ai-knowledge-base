@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-014",
+  "source": "rss",
+  "source_url": "https://cursor.com/blog/agent-swarm-model-economics",
+  "title": "Agent swarms and the new model economics",
+  "summary": "This article explores how AI agent swarms (multiple autonomous agents collaborating) are reshaping the economics of AI model deployment, discussing cost efficiency, scalability patterns, and the trade-offs between using multiple smaller models versus single large models for complex tasks.",
+  "tech_stack": [
+    "AI Agents",
+    "Large Language Models",
+    "Multi-agent Systems",
+    "API Integration",
+    "Cursor IDE"
+  ],
+  "problem_solved": "How to optimize the cost-performance balance when deploying multiple AI agents that need to collaborate on complex tasks.",
+  "why_valuable": "It provides practical insights into the emerging architectural patterns for building scalable, cost-effective multi-agent AI systems in production environments.",
+  "tags": [
+    "AI Agents",
+    "Agent Swarms",
+    "Model Economics",
+    "Multi-agent Systems",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:34:30.540042+00:00",
+  "updated_at": "2026-07-21T10:35:49.850862+00:00",
+  "published_to": []
+}

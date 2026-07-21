@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-004",
+  "source": "rss",
+  "source_url": "https://www.armaangomes.com/blogs/doom/",
+  "title": "Running Doom on Our Custom CPU and Going Viral",
+  "summary": "A developer built a custom CPU architecture from scratch and successfully ported the classic Doom game to run on it, with the project gaining significant attention and going viral on social media and tech communities.",
+  "tech_stack": [
+    "HDL (Verilog/VHDL)",
+    "Custom CPU Architecture",
+    "DOOM Source Port",
+    "Embedded Systems",
+    "Low-level Programming"
+  ],
+  "problem_solved": "Demonstrates the practical capabilities and real-world applications of a custom-designed CPU processor by running a complex video game.",
+  "why_valuable": "Provides hands-on proof of concept for custom hardware design and serves as an engaging educational resource for understanding CPU architecture through a familiar, recognizable application.",
+  "tags": [
+    "Custom CPU",
+    "Hardware Design",
+    "Doom",
+    "HDL",
+    "Retro Gaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-21T10:32:25.850636+00:00",
+  "updated_at": "2026-07-21T10:35:49.843679+00:00",
+  "published_to": []
+}

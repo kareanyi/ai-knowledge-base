@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-007",
+  "source": "rss",
+  "source_url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+  "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+  "summary": "This article explores VTubing, a Japanese phenomenon where content creators use virtual avatars powered by motion capture technology instead of showing their real faces, and how it has grown from a niche Japanese trend into a global entertainment industry. It covers the technology, business models, and cultural impact of virtual YouTubers.",
+  "tech_stack": [
+    "Motion Capture",
+    "Live2D",
+    "Streaming Platforms",
+    "Real-time Animation",
+    "Virtual Avatars"
+  ],
+  "problem_solved": "Enables content creators to maintain privacy while expressing creativity through customizable virtual personas.",
+  "why_valuable": "It represents a new paradigm in content creation and entertainment that democratizes who can become a public figure while breaking traditional barriers of appearance and identity.",
+  "tags": [
+    "VTubing",
+    "Virtual Avatars",
+    "Content Creation",
+    "Streaming",
+    "Japanese Culture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-21T10:33:03.300725+00:00",
+  "updated_at": "2026-07-21T10:35:49.844225+00:00",
+  "published_to": []
+}

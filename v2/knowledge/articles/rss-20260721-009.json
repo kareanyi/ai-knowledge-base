@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260721-009",
+  "source": "rss",
+  "source_url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+  "title": "I wrote an bash enumerator because I was sick of xargs",
+  "summary": "The author created a custom bash enumerator tool called 'bashumerate' as a replacement for xargs, designed to handle exhaustive enumeration tasks more elegantly and with better control over parallelism and output formatting.",
+  "tech_stack": [
+    "Bash",
+    "Shell Scripting",
+    "CLI Tools",
+    "Unix"
+  ],
+  "problem_solved": "Addresses the complexity and limited functionality of xargs for parallel enumeration tasks in bash scripts.",
+  "why_valuable": "Provides a cleaner, more readable syntax for enumeration operations while offering better control over parallelism and error handling compared to traditional xargs approaches.",
+  "tags": [
+    "Bash",
+    "CLI",
+    "Scripting",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-21T10:33:30.223506+00:00",
+  "updated_at": "2026-07-21T10:35:49.844514+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260721-013",
+  "source": "rss",
+  "source_url": "https://blaizzy.github.io/nativ/",
+  "title": "Nativ: Run frontier open models locally on your Mac",
+  "summary": "Nativ is a tool that enables running frontier open-source AI models locally on Mac computers, likely leveraging Apple's Metal framework and MLX for optimized on-device inference. It provides a privacy-focused, offline-capable alternative to cloud-based AI services.",
+  "tech_stack": [
+    "Apple Metal",
+    "MLX",
+    "macOS",
+    "Python"
+  ],
+  "problem_solved": "Enables running state-of-the-art open-source AI models locally on Mac without relying on cloud services.",
+  "why_valuable": "Provides privacy, offline capability, and cost savings while running powerful AI models directly on personal hardware.",
+  "tags": [
+    "AI",
+    "Local Inference",
+    "macOS",
+    "Open Source Models",
+    "Privacy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:34:21.351617+00:00",
+  "updated_at": "2026-07-21T10:35:49.850668+00:00",
+  "published_to": []
+}

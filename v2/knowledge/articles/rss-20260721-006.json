@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260721-006",
+  "source": "rss",
+  "source_url": "https://github.com/janestreet/incremental",
+  "title": "Incremental – A library for incremental computations",
+  "summary": "Incremental 是 Jane Street 开发的一个 OCaml 库，专注于增量计算，能够在输入部分改变时智能地只重新计算受影响的输出部分，而不是重新计算整个依赖图。",
+  "tech_stack": [
+    "OCaml",
+    "Incremental Computation",
+    "Functional Programming",
+    "Jane Street"
+  ],
+  "problem_solved": "解决了当数据部分更新时需要重新计算整个计算图导致的性能浪费问题，实现了高效的增量更新。",
+  "why_valuable": "对于需要频繁部分更新的场景（如 UI 更新、数据流处理、实时计算），能显著提升性能，避免不必要的重复计算。",
+  "tags": [
+    "OCaml",
+    "incremental-computation",
+    "functional-programming",
+    "performance",
+    "open-source"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-21T10:32:51.779269+00:00",
+  "updated_at": "2026-07-21T10:35:49.844032+00:00",
+  "published_to": []
+}

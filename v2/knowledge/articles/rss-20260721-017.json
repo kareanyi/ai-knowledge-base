@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-017",
+  "source": "rss",
+  "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+  "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+  "summary": "A research team analyzed the prevalence of AI-generated text across arXiv papers using detection methods, revealing both patterns in AI usage and fundamental limitations in current detection approaches. The study found that measurement accuracy varies significantly depending on writing style, subject matter, and how detection tools are calibrated.",
+  "tech_stack": [
+    "Python",
+    "NLP",
+    "Statistical Analysis",
+    "Machine Learning",
+    "Text Classification"
+  ],
+  "problem_solved": "Quantifying the extent of AI-generated content in academic papers and identifying where detection methods fail or produce unreliable results",
+  "why_valuable": "Provides critical insight into both AI adoption in academic publishing and the inherent challenges of detecting AI-written text, informing both researchers and publishers about the current state of AI content detection",
+  "tags": [
+    "AI-Detection",
+    "arXiv",
+    "Academic-Integrity",
+    "NLP",
+    "Research-Methodology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:35:04.476758+00:00",
+  "updated_at": "2026-07-21T10:35:49.851480+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-010",
+  "source": "rss",
+  "source_url": "https://vincentwoo.com/3d/grace_cathedral/",
+  "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+  "summary": "An interactive web-based 3D tour of Grace Cathedral in San Francisco using Gaussian Splatting technology, enabling photorealistic real-time navigation through a historic religious landmark without specialized software.",
+  "tech_stack": [
+    "Gaussian Splatting",
+    "Three.js",
+    "WebGL",
+    "Python",
+    "COLMAP"
+  ],
+  "problem_solved": "Making photorealistic 3D architectural spaces accessible via web browsers without requiring specialized VR hardware or downloads",
+  "why_valuable": "Demonstrates cutting-edge neural rendering techniques enabling museum-quality virtual exploration of real-world locations accessible to anyone with a browser",
+  "tags": [
+    "3D-Reconstruction",
+    "Gaussian-Splatting",
+    "Virtual-Tour",
+    "WebGL",
+    "Photogrammetry"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:33:38.454728+00:00",
+  "updated_at": "2026-07-21T10:35:49.844649+00:00",
+  "published_to": []
+}

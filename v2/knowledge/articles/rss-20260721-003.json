@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260721-003",
+  "source": "rss",
+  "source_url": "https://exsitu.app/map",
+  "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+  "summary": "Ex Situ is an open-source spatial index that visualizes museum artifacts as connecting arcs from their original origins to Western/Euro-American institutions that currently hold them, organized by categories like Islamic art, Asian/African art, and ethnological collections. Originally started as an MA thesis in 2022, the project continues development as a fully open-source, self-hosted solution under AGPL-3.0 license.",
+  "tech_stack": [
+    "Web Mapping Technologies",
+    "JavaScript/TypeScript",
+    "AGPL-3.0 Licensed Stack",
+    "Self-hosted Infrastructure"
+  ],
+  "problem_solved": "Traces and visualizes the provenance and current institutional locations of displaced cultural artifacts from their origin sites to Western museums.",
+  "why_valuable": "Provides transparency and accessibility to cultural heritage provenance data, enabling researchers and the public to understand the displacement patterns of artifacts from colonized or historically acquired collections.",
+  "tags": [
+    "Cultural Heritage",
+    "Data Visualization",
+    "Open Source",
+    "Spatial Analysis",
+    "Museum Studies"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:32:10.185278+00:00",
+  "updated_at": "2026-07-21T10:35:49.843443+00:00",
+  "published_to": []
+}

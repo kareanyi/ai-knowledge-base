@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260721-018",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48981136",
+  "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+  "summary": "Bloomy is an AI-powered mastery learning platform for K-12 students that provides personalized learning paths, diagnostic assessments to identify skill gaps, and a Socratic AI tutor for Math, ELA, and Writing subjects without giving away direct answers.",
+  "tech_stack": [
+    "AI/LLM",
+    "Socratic AI Tutoring",
+    "Adaptive Learning System",
+    "Standards-aligned Curriculum"
+  ],
+  "problem_solved": "Provides scalable personalized learning and AI tutoring to help K-12 students fill skill gaps without requiring expensive 1:1 human tutors.",
+  "why_valuable": "Democratizes access to personalized, mastery-based education by using AI to provide individualized instruction and scaffolding at scale.",
+  "tags": [
+    "EdTech",
+    "AI",
+    "K-12 Education",
+    "Adaptive Learning",
+    "AI Tutoring"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-21T10:35:17.483815+00:00",
+  "updated_at": "2026-07-21T10:35:49.851680+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-016",
+  "source": "rss",
+  "source_url": "https://jelly-ui.com/",
+  "title": "Jelly UI: Soft-body physics for native HTML form controls",
+  "summary": "Jelly UI is a JavaScript library that adds soft-body physics effects to native HTML form controls, making elements like buttons, inputs, and sliders feel tactile and responsive with jelly-like animations and bounce effects.",
+  "tech_stack": [
+    "JavaScript",
+    "CSS",
+    "HTML5",
+    "SVG",
+    "Web Animations API"
+  ],
+  "problem_solved": "Makes static HTML form controls feel more interactive and delightful through physics-based animations",
+  "why_valuable": "Improves user experience by adding satisfying tactile feedback to form interactions without replacing native accessibility features",
+  "tags": [
+    "UI Library",
+    "Physics Animation",
+    "Forms",
+    "Interactive Design",
+    "JavaScript"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:34:54.380196+00:00",
+  "updated_at": "2026-07-21T10:35:49.851287+00:00",
+  "published_to": []
+}

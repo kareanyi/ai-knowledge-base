@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260721-012",
+  "source": "rss",
+  "source_url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+  "title": "Human mathematicians are being outcounterexampled",
+  "summary": "This blog post discusses how AI systems are now surpassing human mathematicians in finding counterexamples to conjectures, marking a significant shift in mathematical research capabilities. The title uses clever wordplay - 'outcounterexampled' means having more and better counterexamples produced against your work than you produce against others.",
+  "tech_stack": [
+    "AI/ML",
+    "Formal Verification",
+    "Mathematical Software"
+  ],
+  "problem_solved": "The challenge of efficiently discovering counterexamples that disprove mathematical conjectures, which traditionally required extensive human intuition and trial-and-error.",
+  "why_valuable": "Demonstrates AI's growing capability to contribute meaningfully to pure mathematical research, potentially accelerating discovery in number theory, combinatorics, and other fields.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Research",
+    "Counterexamples",
+    "Competition"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:34:08.315263+00:00",
+  "updated_at": "2026-07-21T10:35:49.850460+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-020",
+  "source": "rss",
+  "source_url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+  "title": "China’s open-weights AI strategy is winning",
+  "summary": "This article argues that China is gaining an advantage in AI development through an open-weights strategy, allowing public access to models and weights, while the US is pursuing a more closed and proprietary approach with export restrictions and closed-source models.",
+  "tech_stack": [
+    "AI/LLM",
+    "Open-source Models",
+    "Cloud Infrastructure",
+    "DeepSeek",
+    "Llama"
+  ],
+  "problem_solved": "Addresses the strategic question of whether open or closed AI development approaches will win in the global AI race.",
+  "why_valuable": "Provides insight into geopolitical AI competition and raises important questions about the long-term implications of open vs proprietary AI strategies.",
+  "tags": [
+    "AI Strategy",
+    "Geopolitics",
+    "Open-source",
+    "China",
+    "US-China Competition"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-21T10:35:48.497607+00:00",
+  "updated_at": "2026-07-21T10:35:49.852072+00:00",
+  "published_to": []
+}

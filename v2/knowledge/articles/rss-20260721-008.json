@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-008",
+  "source": "rss",
+  "source_url": "https://forum.jellyfin.org/t-project-leadership-changes",
+  "title": "Jellyfin founder Andrew leaves team",
+  "summary": "Jellyfin founder and project lead Andrew (nyan-matt) announces departure from the open-source media server project after 7 years of leadership, marking a significant governance transition for the community-driven initiative.",
+  "tech_stack": [
+    ".NET",
+    "TypeScript",
+    "React",
+    "SQLite",
+    "Docker"
+  ],
+  "problem_solved": "Leadership transition and project governance continuity for a major open-source media server community",
+  "why_valuable": "Highlights the challenges and importance of succession planning in open-source projects, affecting thousands of self-hosted media server users",
+  "tags": [
+    "OpenSource",
+    "MediaServer",
+    "Governance",
+    "Community",
+    "Leadership"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-21T10:33:17.577764+00:00",
+  "updated_at": "2026-07-21T10:35:49.844376+00:00",
+  "published_to": []
+}

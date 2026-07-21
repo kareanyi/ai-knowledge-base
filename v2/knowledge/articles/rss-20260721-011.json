@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260721-011",
+  "source": "rss",
+  "source_url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+  "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+  "summary": "A presentation exploring how individual awareness can serve as a defense mechanism against surveillance capitalism, examining how tech companies exploit user data and offering strategies for reclaiming digital privacy through mindful technology use.",
+  "tech_stack": [
+    "Digital Privacy Tools",
+    "Web Analytics Awareness",
+    "Browser Privacy",
+    "Data Tracking Prevention"
+  ],
+  "problem_solved": "Addresses the systemic privacy exploitation where tech companies harvest and monetize personal data without meaningful user consent.",
+  "why_valuable": "Empowers individuals with awareness and practical tools to protect their digital privacy in an era of ubiquitous data collection.",
+  "tags": [
+    "Privacy",
+    "Surveillance Capitalism",
+    "Digital Rights",
+    "Awareness",
+    "Data Protection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-21T10:33:51.842634+00:00",
+  "updated_at": "2026-07-21T10:35:49.850260+00:00",
+  "published_to": []
+}
