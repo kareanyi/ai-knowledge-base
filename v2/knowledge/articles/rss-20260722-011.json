@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260722-011",
+  "source": "rss",
+  "source_url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+  "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+  "summary": "A comparative benchmark article testing the image generation capabilities of four major AI models (GPT, Claude, Gemini, and Grok) by evaluating their ability to recreate the Mona Lisa painting, providing practical insights into each model's visual output strengths.",
+  "tech_stack": [
+    "GPT (OpenAI)",
+    "Claude (Anthropic)",
+    "Gemini (Google)",
+    "Grok (xAI)"
+  ],
+  "problem_solved": "Compares and evaluates the image generation capabilities across different major AI platforms to help users understand their relative performance.",
+  "why_valuable": "Provides hands-on benchmarking of AI image generation models with a consistent test case, enabling practical comparison rather than relying on marketing claims.",
+  "tags": [
+    "AI Benchmark",
+    "Image Generation",
+    "Model Comparison",
+    "Generative AI",
+    "AI Testing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-22T10:34:56.236797+00:00",
+  "updated_at": "2026-07-22T10:38:35.392155+00:00",
+  "published_to": []
+}

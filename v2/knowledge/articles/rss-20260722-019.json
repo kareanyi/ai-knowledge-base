@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-019",
+  "source": "rss",
+  "source_url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+  "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+  "summary": "Jack Dorsey, through Block (formerly Square), has launched a new platform called Buzz that unifies team chat, AI agents, and Git hosting into a single collaborative environment for developers and technical teams.",
+  "tech_stack": [
+    "Real-time Chat",
+    "AI Agents",
+    "Git Hosting",
+    "Team Collaboration",
+    "Integrated Platform"
+  ],
+  "problem_solved": "Addresses tool fragmentation by combining communication, AI assistance, and code versioning into one unified workspace for development teams.",
+  "why_valuable": "Reduces context-switching overhead for developers by integrating essential tools (chat, git, AI) into a single platform, potentially improving team productivity and collaboration.",
+  "tags": [
+    "AI Agents",
+    "Developer Tools",
+    "Team Communication",
+    "Git",
+    "Product Launch"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-22T10:36:26.633356+00:00",
+  "updated_at": "2026-07-22T10:38:35.392961+00:00",
+  "published_to": []
+}

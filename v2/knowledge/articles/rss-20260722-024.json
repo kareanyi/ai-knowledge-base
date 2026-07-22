@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260722-024",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
+  "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
+  "summary": "The article discusses how Chinese open-weight AI models like Moonshot AI's Kimi K3 are gaining popularity due to their low cost and high performance, but enterprises are uncertain about future regulatory risks from Washington regarding the use of Chinese AI technology.",
+  "tech_stack": [
+    "Moonshot AI",
+    "Kimi K3",
+    "Open-weight Models"
+  ],
+  "problem_solved": "Addresses the policy uncertainty enterprises face when deciding whether to adopt Chinese open-weight AI models given potential regulatory changes in the US.",
+  "why_valuable": "Highlights the growing tension between cost-effective AI solutions and geopolitical policy risks that could impact enterprise AI adoption strategies.",
+  "tags": [
+    "AI Policy",
+    "China-US Relations",
+    "Open-weight Models",
+    "Enterprise AI",
+    "Regulatory Risk"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-22T10:37:18.083848+00:00",
+  "updated_at": "2026-07-22T10:38:35.393339+00:00",
+  "published_to": []
+}

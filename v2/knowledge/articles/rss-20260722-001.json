@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-001",
+  "source": "rss",
+  "source_url": "https://codeberg.org/Codeberg/org/pulls/1253",
+  "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+  "summary": "Codeberg, a Git hosting platform for open source projects, is proposing to extend their Terms of Use to explicitly prohibit 'LLM-extrusions' - preventing AI companies from scraping their code repositories to train language models without consent. This policy update is a response to growing concerns about open source code being used to train AI systems without proper licensing or attribution.",
+  "tech_stack": [
+    "Git",
+    "LLM",
+    "Open Source",
+    "Code Hosting",
+    "Terms of Use"
+  ],
+  "problem_solved": "Addresses the unauthorized use of open source code repositories for training large language models without maintainer consent or proper licensing.",
+  "why_valuable": "This policy protects open source maintainers' intellectual property rights and ensures their voluntary contributions aren't exploited by AI companies for commercial purposes without permission.",
+  "tags": [
+    "Open Source",
+    "AI Policy",
+    "Licensing",
+    "Data Rights",
+    "GitHub Alternative"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-22T10:33:01.144872+00:00",
+  "updated_at": "2026-07-22T10:38:35.386221+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-012",
+  "source": "rss",
+  "source_url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+  "title": "A digestion of the Jacobian conjecture counterexample",
+  "summary": "Terence Tao provides an accessible explanation and analysis of a counterexample to the Jacobian conjecture, a famous unsolved problem in algebraic geometry that asks whether polynomial maps with nowhere-vanishing Jacobian determinants must be globally invertible.",
+  "tech_stack": [
+    "Algebraic Geometry",
+    "Complex Analysis",
+    "Polynomial Maps",
+    "Jacobian Matrices",
+    "Abstract Algebra"
+  ],
+  "problem_solved": "Explains and digests why a polynomial map from C^n to C^n with non-vanishing Jacobian determinant fails to be globally invertible in certain cases, disproving the Jacobian conjecture.",
+  "why_valuable": "Transforms a highly technical mathematical counterexample into an accessible digest, making advanced algebraic geometry concepts understandable to working mathematicians and advanced students.",
+  "tags": [
+    "Jacobian-Conjecture",
+    "Counterexample",
+    "Algebraic-Geometry",
+    "Polynomial-Maps",
+    "Mathematical-Proof"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-22T10:35:10.839584+00:00",
+  "updated_at": "2026-07-22T10:38:35.392386+00:00",
+  "published_to": []
+}

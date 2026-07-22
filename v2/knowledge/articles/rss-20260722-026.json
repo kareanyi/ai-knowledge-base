@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-026",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+  "title": "Kimi K3 open-weight model: China&#8217;s biggest AI is a bet on memory, not compute",
+  "summary": "Moonshot AI released Kimi K3, the largest open-weight model with 2.8 trillion parameters, positioning it as a significant advancement in China's AI capabilities. The model represents a strategic focus on memory optimization rather than pure computational power.",
+  "tech_stack": [
+    "AI",
+    "Open-weight Models",
+    "Large Language Models",
+    "Memory Optimization",
+    "Transformer Architecture"
+  ],
+  "problem_solved": "Addresses the challenge of scaling AI models while optimizing for memory efficiency instead of relying solely on increased compute resources.",
+  "why_valuable": "It establishes a new benchmark for open-weight AI models and demonstrates an innovative architectural approach that could make advanced AI more accessible and efficient.",
+  "tags": [
+    "AI",
+    "Open-weight",
+    "LLM",
+    "China",
+    "Memory Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-22T10:37:34.176260+00:00",
+  "updated_at": "2026-07-22T10:38:35.393482+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-006",
+  "source": "rss",
+  "source_url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+  "title": "LG to ban residential proxies from smart TV apps",
+  "summary": "LG is implementing a ban on residential proxies for their smart TV apps to combat fraud and prevent users from bypassing geo-restrictions on streaming content. This move targets users who route their traffic through residential IP addresses to appear as legitimate home users rather than data center or VPN connections.",
+  "tech_stack": [
+    "Smart TV OS",
+    "Residential Proxies",
+    "IP Geolocation",
+    "Streaming Services",
+    "Fraud Detection"
+  ],
+  "problem_solved": "Prevents fraudulent activities like fake engagement metrics and circumvention of geographic content restrictions on LG smart TV platforms.",
+  "why_valuable": "Protects content licensing agreements and ensures fair access to streaming services by blocking proxy-based circumvention of regional restrictions.",
+  "tags": [
+    "Cybersecurity",
+    "Smart TV",
+    "Proxy Detection",
+    "Streaming",
+    "Fraud Prevention"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-22T10:34:01.577545+00:00",
+  "updated_at": "2026-07-22T10:38:35.386818+00:00",
+  "published_to": []
+}

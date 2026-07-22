@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260722-025",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+  "title": "US public health agencies to test OpenAI and Anthropic AI models",
+  "summary": "美国公共卫生部门将启动PULSE项目，在10个州/地方/部落辖区测试OpenAI和Anthropic的生成式AI工具。该项目由Coalition for Health AI牵头，联合OpenAI、Anthropic和Accenture共同开展，旨在为公共卫生领域的AI应用建立标准化测试框架和最佳实践指南。",
+  "tech_stack": [
+    "OpenAI GPT",
+    "Anthropic Claude",
+    "Accenture"
+  ],
+  "problem_solved": "为公共卫生机构提供安全、负责任地采用生成式AI的标准化测试框架和实施路径。",
+  "why_valuable": "通过跨部门合作和大规模试点，为AI在公共健康领域的实际应用建立可信的评估标准和使用规范。",
+  "tags": [
+    "Public Health",
+    "AI Testing",
+    "Government AI",
+    "Healthcare AI",
+    "Responsible AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-22T10:37:27.183284+00:00",
+  "updated_at": "2026-07-22T10:38:35.393408+00:00",
+  "published_to": []
+}

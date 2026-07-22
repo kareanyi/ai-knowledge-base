@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260722-015",
+  "source": "rss",
+  "source_url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+  "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+  "summary": "A federal judge approved a $1.5 billion settlement between Anthropic and authors who alleged their copyrighted books were used without permission to train the Claude AI assistant. The case represents one of the largest copyright settlements in the AI industry and could set a precedent for how AI companies handle training data rights going forward.",
+  "tech_stack": [
+    "AI/LLM",
+    "Claude",
+    "Machine Learning",
+    "Generative AI"
+  ],
+  "problem_solved": "Resolves a major copyright infringement lawsuit regarding unauthorized use of copyrighted books as training data for AI models.",
+  "why_valuable": "Establishes a legal precedent for AI copyright cases and ensures content creators receive compensation when their work is used to train AI systems.",
+  "tags": [
+    "AI",
+    "Copyright",
+    "Legal",
+    "Anthropic",
+    "Settlement"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-22T10:35:42.364231+00:00",
+  "updated_at": "2026-07-22T10:38:35.392672+00:00",
+  "published_to": []
+}

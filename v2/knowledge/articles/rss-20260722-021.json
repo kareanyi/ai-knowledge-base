@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+  "title": "Google&#8217;s Gemini 3.6 Flash targets enterprise agent token costs",
+  "summary": "Google发布了Gemini 3.6 Flash和3.5 Flash-Lite两款轻量级模型，专门针对企业级AI代理场景进行优化，旨在显著降低延迟和token使用成本。这标志着AI基础设施开始从单纯追求性能向注重成本效益的转变。",
+  "tech_stack": [
+    "Google Gemini",
+    "AI Agents",
+    "Enterprise Infrastructure",
+    "Token-based API",
+    "LLM Optimization"
+  ],
+  "problem_solved": "解决企业在大规模部署AI代理时面临的高延迟和高token成本问题",
+  "why_valuable": "为企业提供更经济高效的AI代理解决方案，使大规模商业化部署成为可能",
+  "tags": [
+    "Google Gemini",
+    "AI Agents",
+    "Enterprise AI",
+    "Cost Optimization",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-22T10:36:47.171749+00:00",
+  "updated_at": "2026-07-22T10:38:35.393104+00:00",
+  "published_to": []
+}

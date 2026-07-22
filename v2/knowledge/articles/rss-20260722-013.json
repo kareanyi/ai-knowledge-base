@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260722-013",
+  "source": "rss",
+  "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+  "title": "OpenAI and Hugging Face address security incident during model evaluation",
+  "summary": "OpenAI and Hugging Face publicly disclosed a security incident that occurred during the model evaluation process, highlighting the importance of security protocols when testing and evaluating AI models from external sources.",
+  "tech_stack": [
+    "AI Model Evaluation",
+    "Security Protocols",
+    "LLM Security"
+  ],
+  "problem_solved": "Addresses the disclosure of a security vulnerability or incident that was discovered during the process of evaluating AI models.",
+  "why_valuable": "Demonstrates transparency in AI security practices and helps the community understand risks associated with external model evaluation processes.",
+  "tags": [
+    "AI Security",
+    "Cybersecurity",
+    "Model Evaluation",
+    "OpenAI",
+    "Hugging Face"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-22T10:35:21.092055+00:00",
+  "updated_at": "2026-07-22T10:38:35.392495+00:00",
+  "published_to": []
+}

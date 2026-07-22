@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-010",
+  "source": "rss",
+  "source_url": "https://ai.google.dev/gemini-api/docs/latest-model",
+  "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+  "summary": "Google's Gemini API has deprecated temperature, top_p, and top_k sampling parameters for their latest models, meaning these settings are now ignored. This is a significant API change affecting developers who rely on these parameters to control response randomness and creativity.",
+  "tech_stack": [
+    "Gemini API",
+    "Google AI",
+    "Python",
+    "REST API",
+    "LLM"
+  ],
+  "problem_solved": "Clarifies that certain sampling control parameters are no longer supported in newer Gemini models, helping developers avoid confusion about why their parameter settings have no effect.",
+  "why_valuable": "Prevents developer frustration by making them aware of breaking API changes that could cause unexpected behavior in their LLM applications.",
+  "tags": [
+    "Gemini",
+    "Google AI",
+    "API",
+    "Deprecation",
+    "LLM Parameters"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-22T10:34:46.070957+00:00",
+  "updated_at": "2026-07-22T10:38:35.387061+00:00",
+  "published_to": []
+}

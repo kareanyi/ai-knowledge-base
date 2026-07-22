@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-017",
+  "source": "rss",
+  "source_url": "https://freeink.org/",
+  "title": "FreeInk: Open ecosystem for e-readers",
+  "summary": "FreeInk 是一个开源生态系统，旨在为电子书阅读器（如 Kobo、ReMarkable 等）提供开放的笔记和标注同步解决方案，打破厂商锁定限制，让用户能够自由地在不同设备和平台之间管理和同步他们的阅读笔记。",
+  "tech_stack": [
+    "Python",
+    "Docker",
+    "TypeScript",
+    "Node.js",
+    "SQLite"
+  ],
+  "problem_solved": "解决了电子书阅读器厂商生态系统封闭、用户笔记和标注无法跨设备同步和自由导出的问题。",
+  "why_valuable": "它为用户提供了对阅读笔记的完全控制权，同时推动了电子书阅读器生态系统的开放化，让用户不再受制于单一厂商的封闭平台。",
+  "tags": [
+    "Open Source",
+    "E-reader",
+    "Note Sync",
+    "Productivity",
+    "Digital Reading"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-22T10:36:04.124123+00:00",
+  "updated_at": "2026-07-22T10:38:35.392819+00:00",
+  "published_to": []
+}

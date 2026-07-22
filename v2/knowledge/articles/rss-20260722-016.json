@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260722-016",
+  "source": "rss",
+  "source_url": "https://ads.openai.com/",
+  "title": "Advertise in ChatGPT",
+  "summary": "OpenAI 宣布在 ChatGPT 中引入广告服务，标志着这家 AI 公司开始正式商业化其对话产品。广告将根据用户与 AI 的对话上下文智能展示，为广告主提供全新的用户触达渠道。",
+  "tech_stack": [
+    "OpenAI API",
+    "Large Language Models",
+    "AI-powered targeting",
+    "Analytics platforms"
+  ],
+  "problem_solved": "为 OpenAI 提供可持续的商业化收入来源，同时为品牌提供在 AI 对话场景中投放精准广告的新渠道",
+  "why_valuable": "代表了 AI 时代数字广告的重大变革，将颠覆传统搜索广告模式，为营销行业开辟全新的增长空间",
+  "tags": [
+    "AI Advertising",
+    "OpenAI",
+    "ChatGPT",
+    "Digital Marketing",
+    "Monetization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-22T10:35:52.225199+00:00",
+  "updated_at": "2026-07-22T10:38:35.392748+00:00",
+  "published_to": []
+}

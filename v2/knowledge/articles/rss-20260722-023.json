@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260722-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+  "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+  "summary": "Bristol Myers Squibb has become the first life sciences company to purchase Nvidia's DGX SuperPOD built on the Vera Rubin architecture, signaling a major push by the pharmaceutical industry to leverage AI infrastructure for accelerating drug discovery and development workflows.",
+  "tech_stack": [
+    "Nvidia DGX SuperPOD",
+    "Nvidia Vera Rubin",
+    "AI/ML for Drug Discovery",
+    "High-Performance Computing"
+  ],
+  "problem_solved": "Addresses the computational bottlenecks in pharmaceutical R&D by providing massive AI processing power to accelerate the drug discovery pipeline from target identification to clinical development.",
+  "why_valuable": "This partnership represents the pharmaceutical industry's serious commitment to AI-driven drug development, potentially reducing time-to-market for new therapies through accelerated computational research capabilities.",
+  "tags": [
+    "Pharma",
+    "Drug Discovery",
+    "AI Infrastructure",
+    "Healthcare AI",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-22T10:37:08.155702+00:00",
+  "updated_at": "2026-07-22T10:38:35.393258+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-009",
+  "source": "rss",
+  "source_url": "https://fireworks.ai/blog/kimik3-fable",
+  "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+  "summary": "Fireworks AI发布博客宣布Kimi K3模型与Fable模型的性能对比结果，Kimi K3在AA-Briefcase基准测试中排名第二，仅次于Fable 5，两者共同成为当前最先进的AI模型。这反映了国产AI模型月之暗面（Moonshot）在全球AI竞争中的技术实力。",
+  "tech_stack": [
+    "LLM",
+    "AI Agent",
+    "Kimi K3",
+    "Fireworks AI",
+    "Benchmark Evaluation"
+  ],
+  "problem_solved": "解决了AI模型性能评估问题，展示了Kimi K3作为AI Agent模型与Fable的竞争力",
+  "why_valuable": "为AI开发者和企业选择高性能AI Agent模型提供重要参考，证明国产大模型已进入全球领先行列",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Benchmark",
+    "Kimi"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-22T10:34:36.777465+00:00",
+  "updated_at": "2026-07-22T10:38:35.387006+00:00",
+  "published_to": []
+}
