@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-002",
+  "source": "rss",
+  "source_url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+  "title": "Amiga 1000: Ten years ahead of its time",
+  "summary": "The Amiga 1000, released in 1985, was a revolutionary personal computer that featured groundbreaking multimedia capabilities including advanced graphics, audio, and video processing that wouldn't become mainstream in consumer computers for another decade. Its custom chipset architecture enabled real-time graphics manipulation and sound synthesis that rivaled professional systems costing much more.",
+  "tech_stack": [
+    "Motorola 68000",
+    "AmigaOS",
+    "Denise/Pmula Chipsets",
+    "Kickstart ROM",
+    "Workbench GUI"
+  ],
+  "problem_solved": "It brought professional-grade multimedia capabilities to consumer computing at an affordable price point, democratizing digital content creation in the mid-1980s.",
+  "why_valuable": "The Amiga 1000 pioneered technologies like preemptive multitasking, multimedia acceleration, and GUI design that influenced modern operating systems and gaming consoles decades ahead of its time.",
+  "tags": [
+    "retro-computing",
+    "hardware-history",
+    "multimedia",
+    "gaming-history",
+    "innovation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:30:19.806260+00:00",
+  "updated_at": "2026-07-23T10:34:05.692109+00:00",
+  "published_to": []
+}

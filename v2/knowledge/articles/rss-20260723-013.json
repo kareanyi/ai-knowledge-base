@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-013",
+  "source": "rss",
+  "source_url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+  "title": "Are AI labs pelicanmaxxing?",
+  "summary": "A thoughtful analysis exploring whether major AI laboratories are over-investing in or excessively focusing on PELICAN-style architectural approaches and scaling strategies, sparking discussion about strategic direction in AI development.",
+  "tech_stack": [
+    "Transformers",
+    "PELICAN Architecture",
+    "Deep Learning",
+    "AI Research",
+    "Scaling Methods"
+  ],
+  "problem_solved": "Examines potential over-concentration of AI research efforts in specific architectural paradigms and questions whether the industry is strategically balanced.",
+  "why_valuable": "Prompts critical reflection on AI research priorities and investment strategies, encouraging more diverse approaches beyond dominant paradigms.",
+  "tags": [
+    "AI Research",
+    "Architecture",
+    "Scaling",
+    "Industry Analysis",
+    "Deep Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-23T10:32:40.741660+00:00",
+  "updated_at": "2026-07-23T10:34:05.700539+00:00",
+  "published_to": []
+}

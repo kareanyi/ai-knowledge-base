@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260723-014",
+  "source": "rss",
+  "source_url": "https://beej.us/blog/data/ai-making/",
+  "title": "Making",
+  "summary": "An article discussing AI's role in software development and the process of 'making' things with AI assistance, exploring how developers can leverage AI tools effectively in their creative workflow.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Software Development",
+    "Programming"
+  ],
+  "problem_solved": "Addresses how developers can effectively integrate AI tools into their software creation process.",
+  "why_valuable": "Provides practical insights on working with AI for development tasks, resonating with 365 HN points indicating strong community interest.",
+  "tags": [
+    "AI",
+    "Software Development",
+    "Making",
+    "Developer Tools",
+    "Productivity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:32:50.944015+00:00",
+  "updated_at": "2026-07-23T10:34:05.700760+00:00",
+  "published_to": []
+}

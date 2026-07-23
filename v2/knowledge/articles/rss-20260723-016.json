@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-016",
+  "source": "rss",
+  "source_url": "https://ishmael.textualize.io/blog/ghost-cut/",
+  "title": "Ghost Cut – Or why Cut and Paste is broken everywhere",
+  "summary": "A technical blog post exploring the fundamental problems and inconsistencies with cut and paste functionality across different computing environments, likely written from a terminal/TUI development perspective using Textual framework.",
+  "tech_stack": [
+    "Python",
+    "Textual",
+    "Terminal/CLI",
+    "Clipboard APIs",
+    "Cross-platform"
+  ],
+  "problem_solved": "Explains why the standard cut-and-paste operation behaves inconsistently or fails across different systems and applications.",
+  "why_valuable": "Sheds light on a ubiquitous but often overlooked operation that affects daily developer workflow, offering insights into low-level system interaction challenges.",
+  "tags": [
+    "UI/UX",
+    "Terminal",
+    "Clipboard",
+    "Cross-platform",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:33:12.605247+00:00",
+  "updated_at": "2026-07-23T10:34:05.701176+00:00",
+  "published_to": []
+}

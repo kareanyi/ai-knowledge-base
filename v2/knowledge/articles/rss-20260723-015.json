@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-015",
+  "source": "rss",
+  "source_url": "https://bento.page/slides/",
+  "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+  "summary": "Bento 是一个单 HTML 文件的幻灯片工具，让团队可以直接编辑和查看演示文稿，无需安装或云端登录，完全支持离线使用和协作编辑，解决了开发团队使用代码生成工具创建幻灯片后又需回退编辑代码的循环问题。",
+  "tech_stack": [
+    "HTML5",
+    "JavaScript",
+    "CSS3",
+    "WebRTC",
+    "Offline-First"
+  ],
+  "problem_solved": "解决开发团队使用 AI 编码工具生成幻灯片后，仍需修改代码才能进行小改动的繁琐流程问题。",
+  "why_valuable": "将完整幻灯片工具压缩为单个 HTML 文件，实现真正的离线可用性和零门槛协作，同时保留动画等高级功能。",
+  "tags": [
+    "Presentation",
+    "Single-File",
+    "Collaboration",
+    "Offline",
+    "Developer-Tool"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:32:59.797286+00:00",
+  "updated_at": "2026-07-23T10:34:05.700958+00:00",
+  "published_to": []
+}

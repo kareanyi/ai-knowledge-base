@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-018",
+  "source": "rss",
+  "source_url": "https://blog.melashri.net/micro/back-to-kagi/",
+  "title": "Back to Kagi",
+  "summary": "作者分享了从其他搜索引擎回归 Kagi 的体验，Kagi 是一个以隐私保护、无广告追踪和高质量搜索结果著称的付费搜索引擎。这篇文章在 Hacker News 上引发热烈讨论（273 分、201 条评论），反映了用户对当前搜索引擎广告泛滥和隐私问题的不满。",
+  "tech_stack": [
+    "搜索引擎技术",
+    "隐私保护",
+    "API",
+    "网络爬虫",
+    "机器学习"
+  ],
+  "problem_solved": "解决用户对 Google 等主流搜索引擎广告追踪、隐私侵犯和搜索结果质量下降的不满",
+  "why_valuable": "提供了一个关于互联网搜索隐私、订阅制商业模式和搜索质量权衡的思考角度，代表了用户对更干净互联网体验的追求",
+  "tags": [
+    "搜索引擎",
+    "隐私",
+    "Kagi",
+    "订阅服务",
+    "用户体验"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-23T10:33:40.175958+00:00",
+  "updated_at": "2026-07-23T10:34:05.701616+00:00",
+  "published_to": []
+}

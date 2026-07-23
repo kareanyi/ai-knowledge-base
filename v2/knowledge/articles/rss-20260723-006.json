@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260723-006",
+  "source": "rss",
+  "source_url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+  "title": "Malleable Computing, Emacs, and You",
+  "summary": "This article explores the concept of malleable computing—computing environments that can be reshaped and customized to fit user needs—and how Emacs exemplifies this philosophy through its extreme extensibility and customization capabilities.",
+  "tech_stack": [
+    "Emacs",
+    "Emacs Lisp",
+    "Lisp"
+  ],
+  "problem_solved": "Addresses the problem of rigid, inflexible computing tools that force users to adapt their workflows rather than adapting the tools themselves.",
+  "why_valuable": "Emacs demonstrates how building tools that are inherently malleable empowers users to create personalized computing experiences that maximize productivity and fit their unique needs.",
+  "tags": [
+    "Emacs",
+    "Customization",
+    "Productivity",
+    "Lisp",
+    "Extensibility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:31:08.238053+00:00",
+  "updated_at": "2026-07-23T10:34:05.692946+00:00",
+  "published_to": []
+}

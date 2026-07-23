@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-009",
+  "source": "rss",
+  "source_url": "https://github.com/cactus-compute/cactus-hybrid",
+  "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+  "summary": "Cactus Hybrid是一个混合推理系统，通过后训练Gemma 4 E2B模型使其能够输出置信度分数，从而智能判断何时应该信任设备端响应，何时应该路由到云端大模型。该方案仅需将15-35%的查询路由到Gemini 3.1 Flash-Lite，就能达到相同的性能水平。",
+  "tech_stack": [
+    "Gemma 4",
+    "Python",
+    "Google Cloud",
+    "On-device AI",
+    "LangChain"
+  ],
+  "problem_solved": "解决小型设备端模型速度和隐私优势与大模型准确性之间的权衡问题，同时降低AI部署的云计算成本。",
+  "why_valuable": "通过智能路由机制实现了成本、准确性和隐私的三角平衡，让开发者能够在不牺牲用户体验的前提下大幅降低AI推理成本。",
+  "tags": [
+    "On-device AI",
+    "Hybrid Inference",
+    "Confidence Calibration",
+    "Edge Computing",
+    "Cost Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-23T10:31:41.637618+00:00",
+  "updated_at": "2026-07-23T10:34:05.693606+00:00",
+  "published_to": []
+}

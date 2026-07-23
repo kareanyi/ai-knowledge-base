@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-012",
+  "source": "rss",
+  "source_url": "https://github.com/marcelroed/gigatoken/",
+  "title": "GigaToken: ~1000x faster Language model tokenization",
+  "summary": "GigaToken is a Rust-based tokenizer library that achieves approximately 1000x speedup over popular Python tokenizers like tiktoken for language model tokenization, utilizing aggressive caching strategies and Rust's performance characteristics to address tokenization bottlenecks in LLM training and inference pipelines.",
+  "tech_stack": [
+    "Rust",
+    "Python",
+    "PyO3",
+    "BPE Tokenization",
+    "Caching"
+  ],
+  "problem_solved": "Tokenization is often a critical bottleneck in LLM training and inference, especially when processing massive text datasets or performing batch inference.",
+  "why_valuable": "A 1000x speedup in tokenization can dramatically reduce preprocessing time and computational costs for LLM training pipelines and high-throughput inference workloads.",
+  "tags": [
+    "tokenization",
+    "performance",
+    "rust",
+    "llm",
+    "nlp"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-23T10:32:25.679197+00:00",
+  "updated_at": "2026-07-23T10:34:05.700308+00:00",
+  "published_to": []
+}

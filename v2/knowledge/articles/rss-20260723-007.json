@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-007",
+  "source": "rss",
+  "source_url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+  "title": "Fairphone 6 wide camera experimental Linux support",
+  "summary": "This article documents experimental work to enable wide-angle camera support on the Fairphone 6 when running Linux-based operating systems. The author reverse-engineered and developed driver support for camera hardware that wasn't originally supported in the Linux kernel, providing practical functionality for mobile Linux users.",
+  "tech_stack": [
+    "Linux Kernel",
+    "Mobile Linux",
+    "Camera Drivers",
+    "Device Tree",
+    "Hardware Reverse Engineering"
+  ],
+  "problem_solved": "Enables the wide-angle camera on Fairphone 6 to work under Linux-based operating systems where it was previously non-functional.",
+  "why_valuable": "Advances mobile Linux ecosystem by expanding hardware support, giving users more functional cameras on open-source hardware platforms like Fairphone.",
+  "tags": [
+    "Linux",
+    "Mobile",
+    "Camera",
+    "Fairphone",
+    "Driver"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:31:19.453387+00:00",
+  "updated_at": "2026-07-23T10:34:05.693152+00:00",
+  "published_to": []
+}

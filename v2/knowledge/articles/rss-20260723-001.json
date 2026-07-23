@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260723-001",
+  "source": "rss",
+  "source_url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+  "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+  "summary": "Cruller is Bun's custom JavaScript runtime written in Zig, and this discussion covers its continuation and compatibility updates specifically targeting Zig 0.16. The article likely explores runtime internals, migration challenges, or new features in the Zig-based runtime implementation.",
+  "tech_stack": [
+    "Zig",
+    "Bun",
+    "JavaScript",
+    "Cruller"
+  ],
+  "problem_solved": "Addresses compatibility and implementation challenges of Bun's Zig-based runtime with the Zig 0.16 release.",
+  "why_valuable": "Provides insights into low-level runtime implementation details for high-performance JavaScript execution, valuable for developers interested in systems programming and runtime internals.",
+  "tags": [
+    "Zig",
+    "Bun",
+    "Runtime",
+    "JavaScript",
+    "Systems Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:30:02.389424+00:00",
+  "updated_at": "2026-07-23T10:34:05.691838+00:00",
+  "published_to": []
+}

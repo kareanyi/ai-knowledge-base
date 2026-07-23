@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260723-017",
+  "source": "rss",
+  "source_url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+  "title": "Quality non-fiction books are the antithesis of AI slop",
+  "summary": "An opinion piece arguing that well-crafted non-fiction books represent genuine intellectual value and stand in stark contrast to low-quality AI-generated content flooding the internet. The author references a book prize index as a resource for discovering quality literary works that exemplify human craftsmanship over algorithmic output.",
+  "tech_stack": [
+    "Vercel",
+    "Web Platform"
+  ],
+  "problem_solved": "Addresses the degradation of online content quality and the challenge of finding authentic, well-researched information in an era of AI-generated 'slop'.",
+  "why_valuable": "It provides a thoughtful perspective on preserving intellectual rigor and human creativity against the commodification of content through AI tools.",
+  "tags": [
+    "AI",
+    "Publishing",
+    "Books",
+    "Content Quality",
+    "Digital Culture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-23T10:33:26.142575+00:00",
+  "updated_at": "2026-07-23T10:34:05.701380+00:00",
+  "published_to": []
+}

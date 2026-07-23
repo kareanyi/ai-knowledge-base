@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-010",
+  "source": "rss",
+  "source_url": "https://mitchellh.com/writing/everyone-should-know-simd",
+  "title": "Everyone should know SIMD",
+  "summary": "Mitchell Hashimoto's article explains SIMD (Single Instruction Multiple Data), a CPU technique that processes multiple data elements simultaneously with one instruction, significantly improving performance for parallelizable tasks like image processing, data parsing, and scientific computations.",
+  "tech_stack": [
+    "C/C++",
+    "Rust",
+    "CPU Intrinsics",
+    "Assembly",
+    "Low-level Programming"
+  ],
+  "problem_solved": "It addresses the inefficiency of sequential data processing by enabling parallel computation on a single CPU instruction.",
+  "why_valuable": "Understanding SIMD helps developers write significantly faster code by leveraging modern CPU capabilities for parallel workloads.",
+  "tags": [
+    "SIMD",
+    "Performance",
+    "CPU Optimization",
+    "Parallel Computing",
+    "Low-level Programming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-23T10:31:55.899712+00:00",
+  "updated_at": "2026-07-23T10:34:05.693815+00:00",
+  "published_to": []
+}

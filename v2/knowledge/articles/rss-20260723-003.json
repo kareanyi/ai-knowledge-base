@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260723-003",
+  "source": "rss",
+  "source_url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+  "title": "Restructuring GitHub's bug bounty program",
+  "summary": "GitHub announced restructuring changes to their bug bounty program, which was posted on their official security blog and discussed on Hacker News with moderate community interest.",
+  "tech_stack": [
+    "Security",
+    "Bug Bounty"
+  ],
+  "problem_solved": "This article discusses changes to how GitHub manages and rewards security vulnerability reporting through their bug bounty program.",
+  "why_valuable": "Changes to major platforms' bug bounty programs affect thousands of security researchers and can influence the broader security researcher ecosystem.",
+  "tags": [
+    "Security",
+    "Bug Bounty",
+    "GitHub",
+    "Vulnerability Disclosure",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-23T10:30:29.170210+00:00",
+  "updated_at": "2026-07-23T10:34:05.692313+00:00",
+  "published_to": []
+}

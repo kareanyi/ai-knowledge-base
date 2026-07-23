@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-020",
+  "source": "rss",
+  "source_url": "https://hatchet.run/blog/postgres-survival-guide",
+  "title": "The startup's Postgres survival guide",
+  "summary": "A practical survival guide for startups on PostgreSQL best practices, covering essential topics like schema design, indexing strategies, query optimization, and operational considerations to help early-stage teams avoid common database pitfalls.",
+  "tech_stack": [
+    "PostgreSQL",
+    "SQL",
+    "Database",
+    "Backend",
+    "Monitoring"
+  ],
+  "problem_solved": "Helps startups avoid costly PostgreSQL mistakes and build scalable, maintainable database infrastructure from day one.",
+  "why_valuable": "Provides battle-tested patterns and practical solutions that prevent startups from encountering performance issues and data problems as they scale.",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Backend",
+    "Best Practices",
+    "Startup"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-23T10:34:04.227694+00:00",
+  "updated_at": "2026-07-23T10:34:05.702026+00:00",
+  "published_to": []
+}

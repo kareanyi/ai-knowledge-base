@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-004",
+  "source": "rss",
+  "source_url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+  "title": "Protecting our FLOSS commons from LLMs",
+  "summary": "This article from Codeberg discusses the challenges of protecting open source software communities from being exploited by large language models that train on their code without proper attribution, compensation, or regard for licenses. The piece explores potential solutions and frameworks to ensure LLMs respect FLOSS licensing and contribute back to the communities whose work they depend on.",
+  "tech_stack": [
+    "FLOSS Licensing",
+    "Large Language Models",
+    "Open Source Governance",
+    "Git/Version Control",
+    "Licensing Compliance Tools"
+  ],
+  "problem_solved": "Addresses the ethical and legal issue of LLM companies using open source code for training without proper compensation or respect for open source licenses.",
+  "why_valuable": "Highlights a critical sustainability challenge for open source communities in the AI era and prompts important discussions about fair compensation and license enforcement for developers.",
+  "tags": [
+    "Open Source",
+    "LLM Ethics",
+    "Licensing",
+    "AI Policy",
+    "Developer Rights"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-23T10:30:42.850823+00:00",
+  "updated_at": "2026-07-23T10:34:05.692548+00:00",
+  "published_to": []
+}
