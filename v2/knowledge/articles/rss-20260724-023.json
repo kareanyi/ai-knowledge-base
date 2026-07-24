@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260724-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+  "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+  "summary": "AMD announced a strategic investment of up to $5 billion in Anthropic under an infrastructure agreement that will cover tens of billions of dollars worth of AI systems, with Anthropic deploying up to two gigawatts of capacity using AMD's Instinct MI450-series accelerators.",
+  "tech_stack": [
+    "AMD Instinct MI450",
+    "AI Accelerators",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Addresses Anthropic's massive compute infrastructure needs for training and deploying large-scale AI models.",
+  "why_valuable": "Strengthens AMD's competitive position against NVIDIA in the AI chip market while providing Anthropic with substantial compute resources for AI development.",
+  "tags": [
+    "AI Infrastructure",
+    "Semiconductor",
+    "Investment",
+    "Enterprise",
+    "Cloud Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-24T10:31:30.718906+00:00",
+  "updated_at": "2026-07-24T10:33:44.440179+00:00",
+  "published_to": []
+}

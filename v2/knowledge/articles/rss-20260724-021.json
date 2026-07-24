@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260724-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+  "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+  "summary": "OpenAI Presence is a managed enterprise AI agents product launched on July 22, 2025, available only through limited general availability rather than self-service. The product distinguishes itself by bundling dedicated Forward Deployed Engineers with AI agent deployments to assist enterprise customers with implementation and integration.",
+  "tech_stack": [
+    "OpenAI API",
+    "AI Agents",
+    "Enterprise Software",
+    "Managed Services"
+  ],
+  "problem_solved": "Addresses the challenge enterprises face when deploying AI agents without adequate technical support, by bundling dedicated engineers with the product.",
+  "why_valuable": "The combination of AI agents with embedded professional services reduces enterprise implementation risk and accelerates time-to-value for complex deployments.",
+  "tags": [
+    "Enterprise AI",
+    "AI Agents",
+    "Managed Services",
+    "OpenAI",
+    "B2B SaaS"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-24T10:31:07.001023+00:00",
+  "updated_at": "2026-07-24T10:33:44.440003+00:00",
+  "published_to": []
+}

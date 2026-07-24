@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-017",
+  "source": "rss",
+  "source_url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+  "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+  "summary": "This article examines why software factories (large-scale AI coding agent deployments) fail, arguing that focusing solely on harness engineering and technical infrastructure is insufficient. The author explores systemic and organizational challenges beyond pure technical solutions, drawing from real-world experience with AI agent deployment.",
+  "tech_stack": [
+    "AI Coding Agents",
+    "CI/CD Systems",
+    "Context Engineering",
+    "Testing Frameworks",
+    "Python"
+  ],
+  "problem_solved": "Why large-scale AI coding agent deployments fail at scale and why technical solutions alone cannot fix them.",
+  "why_valuable": "It provides critical insights into the real organizational and systemic barriers of AI agent deployment, moving beyond naive 'just add more testing' approaches.",
+  "tags": [
+    "AI-Agents",
+    "Software-Engineering",
+    "Engineering-Management",
+    "Context-Engineering",
+    "AI-Deployment"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-24T10:30:21.052735+00:00",
+  "updated_at": "2026-07-24T10:33:44.439623+00:00",
+  "published_to": []
+}

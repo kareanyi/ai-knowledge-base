@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260724-011",
+  "source": "rss",
+  "source_url": "https://jdan.github.io/98.css/#status-bar",
+  "title": "98.css",
+  "summary": "98.css is a CSS library that enables developers to style modern web applications with the nostalgic Windows 98 user interface aesthetic, using only CSS without any images or external assets.",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "Vanilla JavaScript"
+  ],
+  "problem_solved": "Provides a lightweight solution for creating authentic Windows 98-style UI designs without requiring image assets or complex setup",
+  "why_valuable": "Offers nostalgic appeal for retro computing enthusiasts while serving educational purposes and enabling unique creative design projects with minimal dependencies",
+  "tags": [
+    "CSS",
+    "Retro",
+    "Windows98",
+    "UI-Design",
+    "Nostalgia"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-24T10:29:01.699146+00:00",
+  "updated_at": "2026-07-24T10:33:44.438891+00:00",
+  "published_to": []
+}

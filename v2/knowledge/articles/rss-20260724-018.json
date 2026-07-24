@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-018",
+  "source": "rss",
+  "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+  "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+  "summary": "Startup founders and AI industry leaders are urging the Trump administration not to restrict Chinese open-weight AI models like DeepSeek, warning that such restrictions could harm American startups and developers who depend on these freely available models for innovation and cost efficiency.",
+  "tech_stack": [
+    "Open-Weight AI",
+    "DeepSeek",
+    "LLM",
+    "Open Source AI",
+    "GPU Infrastructure"
+  ],
+  "problem_solved": "This content addresses the policy debate around whether the U.S. should restrict access to Chinese open-weight AI models amid geopolitical tensions.",
+  "why_valuable": "It provides critical insight into how open-weight AI models have become essential infrastructure for startups and how policy restrictions could backfire by limiting American competitiveness.",
+  "tags": [
+    "AI Policy",
+    "Open Source AI",
+    "Geopolitics",
+    "Tech Regulation",
+    "Startups"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-24T10:30:35.503715+00:00",
+  "updated_at": "2026-07-24T10:33:44.439734+00:00",
+  "published_to": []
+}

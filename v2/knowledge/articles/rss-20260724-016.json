@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260724-016",
+  "source": "rss",
+  "source_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+  "title": "What happened to TheNumbers.com",
+  "summary": "An analysis of concerning changes to TheNumbers.com, a popular movie box office data tracking website, and the implications for film industry transparency and data accessibility.",
+  "tech_stack": [
+    "Web Publishing",
+    "Data Analytics"
+  ],
+  "problem_solved": "Highlights concerns about the loss or degradation of a free, publicly accessible movie industry data resource.",
+  "why_valuable": "Raises awareness about the importance of independent film industry data sources and the risks of losing open access to entertainment metrics.",
+  "tags": [
+    "Film Industry",
+    "Data Transparency",
+    "Media",
+    "Box Office",
+    "Entertainment Analytics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-24T10:30:02.507798+00:00",
+  "updated_at": "2026-07-24T10:33:44.439533+00:00",
+  "published_to": []
+}

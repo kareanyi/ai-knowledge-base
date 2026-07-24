@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-010",
+  "source": "rss",
+  "source_url": "https://platform.claude.com/cookbook/",
+  "title": "Claude Cookbook",
+  "summary": "The Claude Cookbook is Anthropic's official collection of practical guides and code examples for developers building applications with Claude AI. It provides step-by-step recipes covering common use cases like RAG, agents, and content generation.",
+  "tech_stack": [
+    "Python",
+    "TypeScript",
+    "Claude API",
+    "Anthropic SDK",
+    "LangChain"
+  ],
+  "problem_solved": "It solves the learning curve problem by providing ready-to-use code examples and best practices for developers integrating Claude into their applications.",
+  "why_valuable": "It offers curated, working code recipes that significantly accelerate development time for developers building with Claude AI.",
+  "tags": [
+    "AI",
+    "Claude",
+    "Anthropic",
+    "LLM",
+    "Developer-Guidance"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-24T10:28:49.086366+00:00",
+  "updated_at": "2026-07-24T10:33:44.433687+00:00",
+  "published_to": []
+}

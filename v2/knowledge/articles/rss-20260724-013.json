@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-013",
+  "source": "rss",
+  "source_url": "https://lukekanies.com/writing/building-on-atproto/",
+  "title": "Building on ATProto",
+  "summary": "The author shares their experience building applications on ATProto (Authenticated Transfer Protocol), Bluesky's decentralized social networking protocol. The article discusses technical challenges, development insights, and practical lessons learned from working with this emerging platform ecosystem.",
+  "tech_stack": [
+    "TypeScript",
+    "ATProto",
+    "Bluesky API",
+    "Lexicon",
+    "PDS (Personal Data Server)"
+  ],
+  "problem_solved": "Provides developers with real-world guidance on building decentralized social applications using ATProto's unique architecture and terminology.",
+  "why_valuable": "Offers rare firsthand developer experience with an emerging decentralized protocol, helping others avoid common pitfalls when building on ATProto's complex but powerful infrastructure.",
+  "tags": [
+    "Decentralization",
+    "Social Media",
+    "Web Development",
+    "Open Source",
+    "Fediverse"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-24T10:29:24.443826+00:00",
+  "updated_at": "2026-07-24T10:33:44.439188+00:00",
+  "published_to": []
+}

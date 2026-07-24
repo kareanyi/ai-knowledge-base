@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260724-003",
+  "source": "rss",
+  "source_url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+  "title": "Future euro banknote design proposals",
+  "summary": "The European Central Bank launched a public consultation from September to December 2023 to gather citizen input on themes and designs for future euro banknotes, inviting Europeans to share ideas on what European values and cultural heritage should be represented on new banknotes.",
+  "tech_stack": [
+    "Online Survey Platform",
+    "Digital Consultation Tools"
+  ],
+  "problem_solved": "Modernizes euro banknote designs to better reflect European identity, unity, and shared values through public participation.",
+  "why_valuable": "Engages citizens directly in the design process of a fundamental monetary instrument, fostering a sense of ownership and inclusivity across the eurozone.",
+  "tags": [
+    "Currency",
+    "EU Policy",
+    "Design",
+    "Public Consultation",
+    "Finance"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-24T10:27:29.901124+00:00",
+  "updated_at": "2026-07-24T10:33:44.433010+00:00",
+  "published_to": []
+}

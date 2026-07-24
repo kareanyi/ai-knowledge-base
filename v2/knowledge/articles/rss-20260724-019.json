@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-019",
+  "source": "rss",
+  "source_url": "https://github.com/palmier-io/palmier-pro",
+  "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+  "summary": "Palmier Pro is an open-source macOS video editor developed by the Palmier team, featuring built-in AI generation capabilities and a local MCP server for connecting to AI agents. The editor enables features like AI-powered transitions, multicam editing with Codex integration, and automated conversion of long-form content into short clips.",
+  "tech_stack": [
+    "Swift",
+    "MCP (Model Context Protocol)",
+    "AI/ML",
+    "macOS native",
+    "Codex"
+  ],
+  "problem_solved": "Brings professional AI-powered video editing capabilities to macOS with native agent integration for automated workflows.",
+  "why_valuable": "Combines open-source video editing with AI generation and agent connectivity, democratizing access to intelligent video production tools.",
+  "tags": [
+    "AI",
+    "Video Editing",
+    "macOS",
+    "Open Source",
+    "MCP"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-24T10:30:44.932664+00:00",
+  "updated_at": "2026-07-24T10:33:44.439822+00:00",
+  "published_to": []
+}

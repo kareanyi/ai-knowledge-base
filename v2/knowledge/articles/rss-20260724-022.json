@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+  "title": "Nvidia bets physical AI can solve healthcare robotics&#8217; data problem",
+  "summary": "Nvidia has developed a Medical Physics Simulation framework that approaches healthcare robotics through physical AI, enabling robots to learn through embodied experience involving contact, force, and consequence rather than purely through code. This framework addresses the critical data scarcity challenge in healthcare robotics training.",
+  "tech_stack": [
+    "NVIDIA",
+    "Medical Physics Simulation",
+    "Physical AI",
+    "Robotics Simulation",
+    "AI/ML"
+  ],
+  "problem_solved": "Solves the data scarcity problem in healthcare robotics by enabling robots to learn through simulated physical experience instead of relying on limited real-world medical data.",
+  "why_valuable": "Physical AI allows healthcare robots to develop robust, embodied understanding of the physical world through simulation, bypassing the ethical and practical challenges of collecting real medical training data.",
+  "tags": [
+    "Physical AI",
+    "Healthcare Robotics",
+    "NVIDIA",
+    "Medical Simulation",
+    "AI Training Data"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-24T10:31:19.449207+00:00",
+  "updated_at": "2026-07-24T10:33:44.440083+00:00",
+  "published_to": []
+}

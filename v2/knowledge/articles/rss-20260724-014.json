@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-014",
+  "source": "rss",
+  "source_url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+  "title": "A solid-state “atomic channel” for separating rare earth elements",
+  "summary": "Researchers at the University of Chicago developed a solid-state material using an 'atomic channel' mechanism to efficiently separate rare earth elements, offering a cleaner alternative to traditional solvent-based extraction methods that are environmentally harmful and costly.",
+  "tech_stack": [
+    "Solid-state chemistry",
+    "Atomic-scale separation",
+    "Membrane technology",
+    "Rare earth metallurgy",
+    "Materials engineering"
+  ],
+  "problem_solved": "Provides a more efficient and environmentally friendly method for separating chemically similar rare earth elements that are critical for clean energy and electronics.",
+  "why_valuable": "This breakthrough could revolutionize the rare earth supply chain by reducing environmental impact and processing costs while improving separation efficiency for materials essential to modern technology.",
+  "tags": [
+    "Materials Science",
+    "Rare Earth Elements",
+    "Clean Energy",
+    "Separation Technology",
+    "Sustainable Chemistry"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-24T10:29:37.954936+00:00",
+  "updated_at": "2026-07-24T10:33:44.439287+00:00",
+  "published_to": []
+}

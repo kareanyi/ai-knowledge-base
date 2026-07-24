@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-020",
+  "source": "rss",
+  "source_url": "https://learnopengl.com/",
+  "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+  "summary": "A comprehensive online tutorial resource for learning Modern OpenGL graphics programming, covering topics from basic concepts like drawing triangles to advanced rendering techniques including lighting, PBR, and post-processing.",
+  "tech_stack": [
+    "OpenGL",
+    "GLSL",
+    "C++",
+    "Graphics Programming",
+    "Shader Programming"
+  ],
+  "problem_solved": "Provides a structured, accessible learning path for developers to understand 3D graphics programming and real-time rendering concepts.",
+  "why_valuable": "Offers free, in-depth tutorials that demystify complex graphics concepts, making modern rendering techniques accessible to developers of all levels.",
+  "tags": [
+    "Graphics",
+    "OpenGL",
+    "GLSL",
+    "Shaders",
+    "3D Rendering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-24T10:30:56.990803+00:00",
+  "updated_at": "2026-07-24T10:33:44.439919+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260724-004",
+  "source": "rss",
+  "source_url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+  "title": "Nothing works and everyone is euphoric",
+  "summary": "A critical examination of the current AI hype cycle, arguing that despite widespread excitement and euphoria in the tech community, the actual functionality and reliability of AI systems remains severely limited. The post likely explores the disconnect between marketing promises and real-world AI capabilities.",
+  "tech_stack": [
+    "LLMs",
+    "AI",
+    "Machine Learning"
+  ],
+  "problem_solved": "Addresses the problem of unrealistic expectations and hype surrounding AI technology that doesn't actually work reliably in production.",
+  "why_valuable": "Provides a much-needed critical counterbalance to the prevailing AI euphoria, helping readers understand the gap between AI marketing and reality.",
+  "tags": [
+    "AI",
+    "Criticism",
+    "Tech Industry",
+    "LLM",
+    "Hype Cycle"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-24T10:27:43.351800+00:00",
+  "updated_at": "2026-07-24T10:33:44.433116+00:00",
+  "published_to": []
+}

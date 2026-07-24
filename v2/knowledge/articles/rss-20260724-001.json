@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260724-001",
+  "source": "rss",
+  "source_url": "https://meuarcanopessoal.net/",
+  "title": "Show HN: A static, client-side tarot calculator for Brazilian Portuguese",
+  "summary": "A static, client-side web application that generates tarot card readings and interpretations in Brazilian Portuguese. The site uses only front-end technologies without any backend server, making it lightweight, fast, and privacy-friendly by keeping all calculations in the user's browser.",
+  "tech_stack": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Brazilian Portuguese localization"
+  ],
+  "problem_solved": "Makes tarot readings accessible to Brazilian Portuguese speakers without requiring server infrastructure or external API calls.",
+  "why_valuable": "Provides a free, instant, and privacy-conscious tarot experience with zero backend dependencies and full offline capability.",
+  "tags": [
+    "Tarot",
+    "Brazilian Portuguese",
+    "Static Site",
+    "Client-side",
+    "Web App"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-24T10:27:03.240367+00:00",
+  "updated_at": "2026-07-24T10:33:44.432621+00:00",
+  "published_to": []
+}

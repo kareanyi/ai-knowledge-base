@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-006",
+  "source": "rss",
+  "source_url": "https://book-prize-index.vercel.app",
+  "title": "The Book Prize Index",
+  "summary": "The Book Prize Index 是一个书籍奖项索引网站，帮助读者追踪和发现各种文学奖的获奖作品，为书籍爱好者提供一个集中查看获奖书籍的便捷平台。",
+  "tech_stack": [
+    "Next.js",
+    "React",
+    "Vercel",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  "problem_solved": "帮助读者快速发现和追踪各类国际文学奖项的获奖作品，解决信息分散的问题",
+  "why_valuable": "为书籍爱好者和读者提供一站式平台，方便发现优质文学作品，节省搜索时间",
+  "tags": [
+    "Books",
+    "Literature",
+    "Awards",
+    "Reading",
+    "Index"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-24T10:28:04.478945+00:00",
+  "updated_at": "2026-07-24T10:33:44.433315+00:00",
+  "published_to": []
+}
