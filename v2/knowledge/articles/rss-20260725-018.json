@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-018",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+  "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+  "summary": "A technical presentation on Fil-C, a language or tool focused on achieving memory safety even with garbage or invalid inputs, likely through compile-time checks or runtime guarantees.",
+  "tech_stack": [
+    "C",
+    "Rust",
+    "Compiler",
+    "Memory Safety",
+    "Static Analysis"
+  ],
+  "problem_solved": "Provides memory safety guarantees for code that may receive invalid or garbage input, eliminating common memory vulnerabilities like buffer overflows and use-after-free.",
+  "why_valuable": "Offers a practical approach to building memory-safe systems without sacrificing the performance and control of low-level languages like C, bridging the gap between safety and efficiency.",
+  "tags": [
+    "Memory Safety",
+    "Systems Programming",
+    "Compiler",
+    "Low-level",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T10:00:23.091195+00:00",
+  "updated_at": "2026-07-25T10:03:50.103372+00:00",
+  "published_to": []
+}

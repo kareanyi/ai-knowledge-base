@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260725-005",
+  "source": "rss",
+  "source_url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+  "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+  "summary": "Taylor Farms, a major food supplier, contacted the White House to attempt delaying a Cyclospora-related food recall, raising concerns about corporate influence on food safety regulations and public health oversight.",
+  "tech_stack": [
+    "N/A"
+  ],
+  "problem_solved": "This is a news report about a food safety incident and corporate-government interaction, not a technical solution.",
+  "why_valuable": "It exposes potential corporate interference in food safety enforcement and highlights the importance of regulatory independence in protecting public health.",
+  "tags": [
+    "Food Safety",
+    "Public Health",
+    "Corporate Behavior",
+    "Regulatory Affairs",
+    "Government"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T09:57:37.087089+00:00",
+  "updated_at": "2026-07-25T10:03:50.094613+00:00",
+  "published_to": []
+}

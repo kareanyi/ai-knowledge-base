@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260725-004",
+  "source": "rss",
+  "source_url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+  "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+  "summary": "The UK AI Security Institute (AISI) published a preliminary assessment evaluating the cybersecurity capabilities of Kimi K3, a large language model. This report represents part of growing governmental efforts to understand and monitor potential security risks posed by advanced AI systems through structured red-teaming and capability evaluations.",
+  "tech_stack": [
+    "AI Red-Teaming",
+    "LLM Evaluation Frameworks",
+    "Cybersecurity Assessment"
+  ],
+  "problem_solved": "Addresses the critical need to understand whether advanced AI systems like Kimi K3 possess concerning cyberattack capabilities that could pose national security risks.",
+  "why_valuable": "Provides transparency into AI systems' security properties for policymakers and security researchers, enabling evidence-based governance of frontier AI models.",
+  "tags": [
+    "AI Security",
+    "Cybersecurity",
+    "Government Policy",
+    "Risk Assessment",
+    "LLM Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T09:57:21.149470+00:00",
+  "updated_at": "2026-07-25T10:03:50.094452+00:00",
+  "published_to": []
+}

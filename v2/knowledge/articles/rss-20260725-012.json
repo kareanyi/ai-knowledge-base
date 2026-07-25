@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260725-012",
+  "source": "rss",
+  "source_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+  "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+  "summary": "Major tech companies Nvidia, Microsoft, and Meta have signed a joint letter urging policymakers to avoid overregulating open-weight AI models, warning that excessive regulation could undermine American competitiveness in AI development and stifle innovation in the open-source AI ecosystem.",
+  "tech_stack": [
+    "Open-weight AI models",
+    "Large Language Models",
+    "Open-source AI"
+  ],
+  "problem_solved": "Addresses the policy debate around balancing AI safety concerns with maintaining innovation and open-source collaboration in AI development.",
+  "why_valuable": "Represents a significant lobbying effort by major tech players to shape the regulatory landscape for open-source AI, potentially influencing future AI policy decisions worldwide.",
+  "tags": [
+    "AI Regulation",
+    "Open-source AI",
+    "Big Tech",
+    "Policy",
+    "AI Industry"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-25T09:59:08.227503+00:00",
+  "updated_at": "2026-07-25T10:03:50.102287+00:00",
+  "published_to": []
+}

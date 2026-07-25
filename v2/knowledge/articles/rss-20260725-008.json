@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260725-008",
+  "source": "rss",
+  "source_url": "https://artificialanalysis.ai/models",
+  "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+  "summary": "Opus 5 has achieved the #1 ranking on the Artificial Analysis Intelligence Leaderboard, outperforming other leading AI models in comprehensive benchmarks. This announcement generated significant interest in the tech community with 291 points and 160 comments on Hacker News.",
+  "tech_stack": [
+    "Large Language Models",
+    "AI Benchmarks",
+    "Artificial Analysis Platform",
+    "Machine Learning"
+  ],
+  "problem_solved": "Determines which AI model currently offers the best overall performance across standard industry benchmarks.",
+  "why_valuable": "Provides developers and businesses with objective, data-driven insights to make informed decisions about which AI model best suits their specific use cases.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Benchmarks",
+    "Leaderboard",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T09:58:12.880820+00:00",
+  "updated_at": "2026-07-25T10:03:50.095080+00:00",
+  "published_to": []
+}

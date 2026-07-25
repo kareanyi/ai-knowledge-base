@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-019",
+  "source": "rss",
+  "source_url": "https://twitter.com/fried_rice/status/2080059356322918777",
+  "title": "Kimi K3 exploited the latest Redis server",
+  "summary": "Kimi K3, an AI system, successfully demonstrated an exploit against the latest Redis server version, showcasing advanced AI-powered security testing capabilities. This represents a concerning intersection of AI agents and real-world vulnerability research, highlighting both the potential and risks of autonomous AI systems in cybersecurity contexts. The demonstration garnered significant attention in the security community with 224 Hacker News points and 61 comments.",
+  "tech_stack": [
+    "Redis",
+    "Kimi K3",
+    "Python",
+    "AI Agents",
+    "Linux"
+  ],
+  "problem_solved": "Demonstrates how AI systems can autonomously identify and exploit vulnerabilities in popular database servers like Redis.",
+  "why_valuable": "Highlights the dual-use nature of AI in cybersecurity—while useful for penetration testing and vulnerability discovery, it also exposes risks of AI being weaponized for malicious purposes.",
+  "tags": [
+    "AI Security",
+    "Redis",
+    "Vulnerability",
+    "Exploit",
+    "AI Agents"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T10:00:53.673526+00:00",
+  "updated_at": "2026-07-25T10:03:50.103554+00:00",
+  "published_to": []
+}

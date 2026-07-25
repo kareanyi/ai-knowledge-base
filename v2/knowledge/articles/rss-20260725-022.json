@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260725-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+  "title": "OpenAI pushes ChatGPT into patient health records",
+  "summary": "OpenAI is integrating a Health feature into ChatGPT that allows users aged 18+ to connect their Apple Health data and US medical records to the chatbot, available across all subscription tiers on web and iOS platforms.",
+  "tech_stack": [
+    "ChatGPT",
+    "Apple Health",
+    "iOS",
+    "Web"
+  ],
+  "problem_solved": "Making personal health records more accessible and actionable through AI-powered conversational interfaces.",
+  "why_valuable": "Enables users to get AI-assisted insights from their comprehensive health data, potentially improving personal health management and awareness.",
+  "tags": [
+    "Healthcare AI",
+    "ChatGPT",
+    "Health Tech",
+    "Patient Data",
+    "Medical Records"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T10:01:37.460070+00:00",
+  "updated_at": "2026-07-25T10:03:50.104078+00:00",
+  "published_to": []
+}

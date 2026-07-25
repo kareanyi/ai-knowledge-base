@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-009",
+  "source": "rss",
+  "source_url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+  "title": "Postgres LISTEN/NOTIFY actually scales",
+  "summary": "This article explores the real-world scalability of PostgreSQL's LISTEN/NOTIFY mechanism, challenging the common misconception that it doesn't scale well. The author provides benchmarks and practical insights on how to effectively use this feature for real-time event notifications in production systems.",
+  "tech_stack": [
+    "PostgreSQL",
+    "LISTEN/NOTIFY",
+    "pgBouncer",
+    "Connection Pooling",
+    "Benchmark Testing"
+  ],
+  "problem_solved": "Addresses the widespread belief that PostgreSQL's LISTEN/NOTIFY feature is not scalable, providing evidence-based analysis of its actual performance characteristics.",
+  "why_valuable": "It provides empirical data and practical guidance for developers who might avoid a useful PostgreSQL feature due to perceived scalability limitations, enabling better architectural decisions.",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Scalability",
+    "Real-time",
+    "Event Notification"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T09:58:24.451294+00:00",
+  "updated_at": "2026-07-25T10:03:50.095228+00:00",
+  "published_to": []
+}

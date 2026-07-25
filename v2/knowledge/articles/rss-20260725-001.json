@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-001",
+  "source": "rss",
+  "source_url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+  "title": "Android May Soon Restrict On-Device ADB",
+  "summary": "Google is reportedly planning to restrict on-device ADB (Android Debug Bridge) usage in future Android versions for security reasons. ADB allows developers and power users to communicate with Android devices for debugging and installing apps, but its unrestricted access has been a vector for malware and unauthorized modifications. This change would impact developers, security researchers, and power users who rely on local debugging capabilities.",
+  "tech_stack": [
+    "Android",
+    "ADB",
+    "Android SDK",
+    "Linux",
+    "Shell"
+  ],
+  "problem_solved": "Addresses security vulnerabilities caused by unrestricted on-device ADB access being exploited by malware and potentially unwanted applications.",
+  "why_valuable": "Keeps Android developers, security researchers, and power users informed about upcoming platform changes that will affect their debugging workflows and device management practices.",
+  "tags": [
+    "Android",
+    "ADB",
+    "Mobile Security",
+    "Developer Tools",
+    "Android Platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T09:56:24.940609+00:00",
+  "updated_at": "2026-07-25T10:03:50.093870+00:00",
+  "published_to": []
+}

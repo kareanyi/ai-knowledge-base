@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260725-011",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+  "title": "Don't Take the Black Pill [video]",
+  "summary": "A video discussing AI development and technology trends with a philosophical message encouraging optimism over nihilism or fatalism in the tech community. The 'black pill' reference suggests a counterargument to pessimistic views about AI's future.",
+  "tech_stack": [
+    "AI/ML",
+    "Python",
+    "LLM"
+  ],
+  "problem_solved": "Addresses technological nihilism and fatalistic attitudes toward AI development in the developer community.",
+  "why_valuable": "Provides a counter-narrative to tech pessimism, encouraging builders and developers to maintain optimism about AI's potential positive impact.",
+  "tags": [
+    "AI",
+    "Philosophy",
+    "Technology",
+    "Culture",
+    "Video"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T09:58:55.994088+00:00",
+  "updated_at": "2026-07-25T10:03:50.102076+00:00",
+  "published_to": []
+}

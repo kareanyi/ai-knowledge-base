@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-017",
+  "source": "rss",
+  "source_url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+  "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+  "summary": "Buz is a community-driven fork of the Bun JavaScript runtime and package manager, rewritten in modern Zig to achieve sub-second incremental build times while maintaining API compatibility with Bun.",
+  "tech_stack": [
+    "Zig",
+    "Bun",
+    "JavaScript",
+    "TypeScript",
+    "WebAssembly"
+  ],
+  "problem_solved": "Provides a fast, open-source alternative to Bun with dramatically faster incremental compilation times using Zig's modern compilation model.",
+  "why_valuable": "It offers Bun compatibility with sub-1s build times in an open-source project, giving developers a high-performance alternative without vendor lock-in.",
+  "tags": [
+    "JavaScript-Runtime",
+    "Zig",
+    "Build-Tools",
+    "Package-Manager",
+    "Open-Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T10:00:03.993673+00:00",
+  "updated_at": "2026-07-25T10:03:50.103195+00:00",
+  "published_to": []
+}

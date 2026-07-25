@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-014",
+  "source": "rss",
+  "source_url": "https://hhh.hn/hanwha-github-token/",
+  "title": "My security camera shipped a GitHub admin token in its login page",
+  "summary": "安全研究人员发现汉华（Hanwha）安全摄像头在其登录页面中意外泄露了GitHub admin token，暴露了制造商软件开发流程中的严重安全漏洞，该token可能被恶意利用来访问公司的私有代码仓库。",
+  "tech_stack": [
+    "IoT",
+    "GitHub",
+    "Security",
+    "Firmware",
+    "Embedded Systems"
+  ],
+  "problem_solved": "披露了一起因制造疏忽导致敏感凭证意外暴露在产品前端的安全漏洞事件",
+  "why_valuable": "这是一个典型的供应链安全案例，提醒物联网设备制造商必须加强软件开发流程中的凭证管理和代码审查，避免敏感信息随产品分发",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "IoT",
+    "Supply Chain",
+    "Responsible Disclosure"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-25T09:59:30.202788+00:00",
+  "updated_at": "2026-07-25T10:03:50.102689+00:00",
+  "published_to": []
+}

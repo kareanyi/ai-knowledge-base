@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-013",
+  "source": "rss",
+  "source_url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+  "title": "Half-Life 2 running natively on HaikuOS",
+  "summary": "A developer successfully got Half-Life 2, Valve's classic first-person shooter, running natively on HaikuOS—an open-source BeOS-inspired operating system. This achievement required porting NVIDIA drivers for Turing GPUs and overcoming platform-specific compatibility challenges.",
+  "tech_stack": [
+    "HaikuOS",
+    "NVIDIA Drivers",
+    "C++",
+    "Valve Source Engine",
+    "Wine/Compatibility Layer"
+  ],
+  "problem_solved": "Enables running legacy Windows PC games on an alternative operating system without emulation overhead.",
+  "why_valuable": "Demonstrates cross-platform gaming capabilities and advances the HaikuOS ecosystem by proving it can handle modern game engines.",
+  "tags": [
+    "Gaming",
+    "HaikuOS",
+    "Porting",
+    "Open Source",
+    "Retro Gaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-25T09:59:19.874979+00:00",
+  "updated_at": "2026-07-25T10:03:50.102496+00:00",
+  "published_to": []
+}

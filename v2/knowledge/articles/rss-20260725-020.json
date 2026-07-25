@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260725-020",
+  "source": "rss",
+  "source_url": "https://globaloilnetwork.staffinganalytics.io/",
+  "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+  "summary": "An interactive visualization tool that simulates the economic impact of blocking the Strait of Hormuz on global oil trade networks, adapted from the Eisenberg-Noe financial network model to show how supply shocks propagate through interconnected oil markets. Originally developed as a pedagogical exercise for a Columbia supply chain class, it evolved into a full research visualization with academic paper.",
+  "tech_stack": [
+    "Web-based visualization",
+    "JavaScript",
+    "Real oil trade data",
+    "Network modeling",
+    "D3.js or similar visualization library"
+  ],
+  "problem_solved": "Visualizes how disruptions at critical oil shipping chokepoints cascade through global interconnected oil markets, depleting national reserves asymmetrically.",
+  "why_valuable": "Provides concrete visualization of global supply chain fragility and economic interconnectedness, helping policymakers and researchers understand geopolitical risk scenarios in energy markets.",
+  "tags": [
+    "oil-trade",
+    "supply-chain",
+    "network-analysis",
+    "data-visualization",
+    "geopolitical-risk"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-25T10:01:10.020760+00:00",
+  "updated_at": "2026-07-25T10:03:50.103735+00:00",
+  "published_to": []
+}
