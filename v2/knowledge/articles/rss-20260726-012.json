@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260726-012",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+  "title": "Clinical failure rates over the decades: yikes",
+  "summary": "This Science.org blog post examines the historical trends in clinical trial failure rates across decades, presenting alarming data about drug development challenges and the increasing difficulty of bringing new therapeutics to market.",
+  "tech_stack": [
+    "Data Visualization",
+    "Clinical Statistics",
+    "Pharmaceutical Research"
+  ],
+  "problem_solved": "Raises awareness about the persistently high failure rates in clinical drug development that have not improved despite advances in medical research.",
+  "why_valuable": "Highlights a critical challenge in pharmaceutical development that has significant implications for healthcare costs, drug pricing, and patient access to new treatments.",
+  "tags": [
+    "Pharmaceutical",
+    "Clinical Trials",
+    "Drug Development",
+    "Healthcare Analytics",
+    "Research Methodology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:10:44.977207+00:00",
+  "updated_at": "2026-07-26T10:12:44.904768+00:00",
+  "published_to": []
+}

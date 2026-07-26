@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-010",
+  "source": "rss",
+  "source_url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+  "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+  "summary": "Inflect-Micro-v2 是一个极轻量级的语音模型，仅用 9.36M 参数实现完整的语音合成/转换功能。该模型由 owensong 发布在 Hugging Face 上，专门针对需要高效资源利用的场景进行优化。",
+  "tech_stack": [
+    "Deep Learning",
+    "PyTorch",
+    "TTS",
+    "Model Compression",
+    "Hugging Face"
+  ],
+  "problem_solved": "解决了在资源受限的边缘设备和移动端部署高质量语音模型的问题",
+  "why_valuable": "通过将参数量控制在 9.36M，使得语音合成技术能够在低功耗设备上高效运行，降低了 AI 应用的硬件门槛",
+  "tags": [
+    "Speech-AI",
+    "Model-Compression",
+    "Edge-Device",
+    "TTS",
+    "Lightweight-Model"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:10:19.362313+00:00",
+  "updated_at": "2026-07-26T10:12:44.904324+00:00",
+  "published_to": []
+}

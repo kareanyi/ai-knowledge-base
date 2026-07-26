@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-017",
+  "source": "rss",
+  "source_url": "https://www.debian.org/vote/2026/vote_002",
+  "title": "LLM Usage in Debian: Three Proposals",
+  "summary": "The Debian project is voting on three proposals to establish policies regarding the use of Large Language Models (LLMs) and AI tools in the distribution's development, packaging, and maintenance workflows. This represents a significant governance decision for one of the oldest and most influential open-source projects in determining how AI-assisted development should be regulated.",
+  "tech_stack": [
+    "Debian",
+    "LLM",
+    "Open Source",
+    "Linux",
+    "AI"
+  ],
+  "problem_solved": "Establishes official guidelines for whether and how Debian contributors can use AI/LLM tools in package maintenance, documentation, and code development.",
+  "why_valuable": "Provides critical governance framework for AI usage in a major open-source project, serving as a potential model for other FOSS communities navigating similar decisions.",
+  "tags": [
+    "Debian",
+    "LLM",
+    "AI-Policy",
+    "OpenSource",
+    "Governance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:12:06.740365+00:00",
+  "updated_at": "2026-07-26T10:12:44.905733+00:00",
+  "published_to": []
+}

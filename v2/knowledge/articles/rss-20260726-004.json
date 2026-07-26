@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-004",
+  "source": "rss",
+  "source_url": "https://www.jetzero.aero",
+  "title": "JetZero",
+  "summary": "JetZero is developing a blended wing body (BWB) aircraft design that promises significant fuel efficiency improvements over traditional tube-and-wing aircraft. The company recently garnered attention on Hacker News with 199 points and 158 comments, indicating strong community interest in their aerospace innovation.",
+  "tech_stack": [
+    "Blended Wing Body Design",
+    "Aerospace Engineering",
+    "Computational Fluid Dynamics",
+    "Composite Materials",
+    "Avionics"
+  ],
+  "problem_solved": "Addresses aviation's fuel efficiency and carbon emissions challenges through an unconventional aircraft fuselage design that reduces drag and improves aerodynamic performance.",
+  "why_valuable": "A 20-30% reduction in fuel consumption compared to conventional aircraft could significantly lower operating costs and environmental impact for both military and commercial aviation applications.",
+  "tags": [
+    "aerospace",
+    "aviation",
+    "aircraft-design",
+    "fuel-efficiency",
+    "BWB"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:08:48.608806+00:00",
+  "updated_at": "2026-07-26T10:12:44.896731+00:00",
+  "published_to": []
+}

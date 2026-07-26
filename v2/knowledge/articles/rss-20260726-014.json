@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-014",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+  "title": "Cloudflare's new AI traffic options for customers",
+  "summary": "Cloudflare announced new AI traffic management options that give website owners enhanced control over how AI bots and crawlers access their content, including features for identifying, blocking, or selectively allowing AI traffic.",
+  "tech_stack": [
+    "Cloudflare Edge Network",
+    "Bot Management",
+    "AI Traffic Routing",
+    "Cloud Infrastructure",
+    "WAF"
+  ],
+  "problem_solved": "Provides website owners with granular control over AI crawler traffic to protect content and manage server resources.",
+  "why_valuable": "As AI crawlers increasingly consume web content, this gives publishers the ability to monetize, restrict, or monitor AI access to their sites.",
+  "tags": [
+    "Cloudflare",
+    "AI Bots",
+    "Web Infrastructure",
+    "Bot Detection",
+    "Content Protection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:11:13.357665+00:00",
+  "updated_at": "2026-07-26T10:12:44.905156+00:00",
+  "published_to": []
+}

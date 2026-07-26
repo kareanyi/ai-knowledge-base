@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260726-006",
+  "source": "rss",
+  "source_url": "https://golfcoursebrowser.com/",
+  "title": "Show HN: I mapped every US golf course",
+  "summary": "A developer created a free, ad-free web directory (golfcoursebrowser.com) that maps every US golf course using OpenStreetMap as the data backbone, solving the problem of poor Google search results for finding golf course information. The project is a work in progress with plans to expand globally.",
+  "tech_stack": [
+    "OpenStreetMap (OSM)",
+    "Web Mapping",
+    "Directory/Browse Interface"
+  ],
+  "problem_solved": "Poor Google search filtering makes it difficult to find accurate golf course information online.",
+  "why_valuable": "Provides golfers with a clean, ad-free, no-login-required tool to browse and discover golf courses across the US with integrated mapping.",
+  "tags": [
+    "Golf",
+    "Mapping",
+    "Directory",
+    "OpenStreetMap",
+    "Web App"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:09:20.170706+00:00",
+  "updated_at": "2026-07-26T10:12:44.897043+00:00",
+  "published_to": []
+}

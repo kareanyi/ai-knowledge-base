@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260726-008",
+  "source": "rss",
+  "source_url": "https://cachebag.sh/journal/interactive-rebasing/",
+  "title": "Git rebase -I is not that scary",
+  "summary": "This article demystifies Git's interactive rebase command (git rebase -i), showing that it's not as intimidating as many developers believe. It provides practical examples and step-by-step guidance to help developers confidently use this powerful version control feature.",
+  "tech_stack": [
+    "Git",
+    "Version Control",
+    "Git Commands"
+  ],
+  "problem_solved": "Removes the fear and confusion surrounding Git's interactive rebase functionality for developers.",
+  "why_valuable": "Interactive rebase is essential for maintaining clean commit history, and this article makes this powerful but intimidating feature accessible to more developers.",
+  "tags": [
+    "Git",
+    "Version Control",
+    "Developer Tools",
+    "Workflow",
+    "Best Practices"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:09:49.590616+00:00",
+  "updated_at": "2026-07-26T10:12:44.897345+00:00",
+  "published_to": []
+}

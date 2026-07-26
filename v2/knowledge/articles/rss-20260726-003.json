@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-003",
+  "source": "rss",
+  "source_url": "https://github.com/mulfyx/w4me-station",
+  "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+  "summary": "W4ME Station is a port of the WASM-4 fantasy console runtime to Java ME phones, enabling WebAssembly-based retro games to run on legacy feature phones. This creative project bridges modern WebAssembly technology with vintage mobile hardware, resurrecting old Java ME devices for gaming purposes.",
+  "tech_stack": [
+    "WebAssembly",
+    "WASM-4",
+    "Java ME",
+    "C",
+    "Mobile Development"
+  ],
+  "problem_solved": "Enables modern WebAssembly games to run on obsolete Java ME feature phones from the pre-smartphone era",
+  "why_valuable": "Preserves legacy hardware by repurposing old Java ME phones as retro gaming devices, demonstrating technical cross-compatibility between different eras of mobile technology",
+  "tags": [
+    "WebAssembly",
+    "Java ME",
+    "Retro Gaming",
+    "Emulation",
+    "Mobile"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:08:30.125402+00:00",
+  "updated_at": "2026-07-26T10:12:44.896546+00:00",
+  "published_to": []
+}

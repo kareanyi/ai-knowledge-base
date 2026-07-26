@@ -1,0 +1,28 @@
+{
+  "id": "github-20260726-001",
+  "source": "github",
+  "source_url": "https://github.com/mengxi-ream/read-frog",
+  "title": "mengxi-ream/read-frog",
+  "summary": "Read Frog is a browser extension for language learning and translation, supporting Chinese, English, and Japanese. It leverages LLM APIs (DeepSeek, OpenAI) to provide immersive translation and contextual learning assistance, built with React and WXT framework.",
+  "tech_stack": [
+    "TypeScript",
+    "React",
+    "WXT",
+    "DeepSeek",
+    "OpenAI"
+  ],
+  "problem_solved": "Provides real-time AI-powered translation and language learning assistance directly in the browser for reading foreign content",
+  "why_valuable": "Combines the convenience of a browser extension with powerful LLM capabilities to create an immersive, context-aware language learning experience",
+  "tags": [
+    "browser-extension",
+    "language-learning",
+    "translation",
+    "LLM",
+    "AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-26T10:04:52.597166+00:00",
+  "updated_at": "2026-07-26T10:12:44.895918+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-019",
+  "source": "rss",
+  "source_url": "https://github.com/slvDev/esp32-ai",
+  "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "summary": "A developer demonstrates running a compact 28.9 million parameter language model on an ESP32 microcontroller costing just $8, pushing the boundaries of edge AI by enabling LLM inference on extremely resource-constrained hardware with limited RAM and processing power.",
+  "tech_stack": [
+    "ESP32",
+    "C/C++",
+    "TensorFlow Lite Micro",
+    "LLM Quantization",
+    "Embedded Systems"
+  ],
+  "problem_solved": "Enables running AI language models directly on cheap microcontrollers without cloud connectivity, reducing latency and privacy concerns.",
+  "why_valuable": "Demonstrates that AI can run locally on extremely cheap, low-power devices, enabling new categories of smart IoT products with privacy-preserving, offline AI capabilities.",
+  "tags": [
+    "Edge AI",
+    "Embedded AI",
+    "LLM",
+    "Microcontroller",
+    "IoT"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-26T10:12:35.460957+00:00",
+  "updated_at": "2026-07-26T10:12:44.906105+00:00",
+  "published_to": []
+}

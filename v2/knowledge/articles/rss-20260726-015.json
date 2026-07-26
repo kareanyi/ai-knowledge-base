@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-015",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+  "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+  "summary": "General Motors is investing in sodium-ion battery technology as an alternative to lithium-ion for U.S. grid energy storage applications. Sodium-ion batteries offer potential cost advantages and use more abundant materials, making them attractive for large-scale stationary energy storage.",
+  "tech_stack": [
+    "Sodium-ion batteries",
+    "Grid energy storage",
+    "Battery technology",
+    "Renewable energy systems",
+    "Electric vehicle infrastructure"
+  ],
+  "problem_solved": "Addresses the need for more sustainable and cost-effective grid-scale energy storage solutions that reduce dependence on scarce lithium and cobalt resources.",
+  "why_valuable": "Sodium-ion technology could enable cheaper, more abundant energy storage for the power grid, accelerating the transition to renewable energy and reducing carbon emissions.",
+  "tags": [
+    "Energy storage",
+    "Battery technology",
+    "Clean energy",
+    "Grid infrastructure",
+    "Electric vehicles"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:11:27.946807+00:00",
+  "updated_at": "2026-07-26T10:12:44.905350+00:00",
+  "published_to": []
+}

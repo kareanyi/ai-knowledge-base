@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260726-009",
+  "source": "rss",
+  "source_url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+  "title": "Systems and Delays",
+  "summary": "This appears to be a technical blog post about designing systems with delay mechanisms, likely in the context of game development or functional reactive programming. Martin Janiczek typically writes about Elm and game development, suggesting this article explores practical patterns for handling timing and delays in interactive systems.",
+  "tech_stack": [
+    "Elm",
+    "Functional Programming",
+    "Game Development"
+  ],
+  "problem_solved": "How to architect systems that properly handle timing and delays in interactive applications",
+  "why_valuable": "Provides practical patterns for managing state transitions and timing in game loops or reactive systems, which is a common challenge in functional game development",
+  "tags": [
+    "Elm",
+    "Functional Programming",
+    "Game Development",
+    "Systems Design",
+    "Timing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-26T10:10:04.029946+00:00",
+  "updated_at": "2026-07-26T10:12:44.897506+00:00",
+  "published_to": []
+}

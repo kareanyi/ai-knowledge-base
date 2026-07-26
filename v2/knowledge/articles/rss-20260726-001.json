@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260726-001",
+  "source": "rss",
+  "source_url": "https://astral.sh/blog/ruff-v0.16.0",
+  "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+  "summary": "Ruff v0.16.0 is a major release of the blazing-fast Python linter written in Rust, dramatically increasing default rules from 59 to 413. This release positions Ruff as a comprehensive replacement for multiple Python linting tools while maintaining its signature speed advantage.",
+  "tech_stack": [
+    "Rust",
+    "Python",
+    "CLI",
+    "TOML"
+  ],
+  "problem_solved": "Provides ultra-fast Python linting with extensive rule coverage, replacing slower Python-based tools like Flake8 and isort.",
+  "why_valuable": "Dramatically improves developer productivity by offering 10-100x faster linting with nearly 7x more default rules, simplifying Python code quality tooling.",
+  "tags": [
+    "Python",
+    "Rust",
+    "Linter",
+    "Code Quality",
+    "Developer Tools"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-26T10:07:59.895727+00:00",
+  "updated_at": "2026-07-26T10:12:44.896206+00:00",
+  "published_to": []
+}

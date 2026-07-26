@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-018",
+  "source": "rss",
+  "source_url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+  "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+  "summary": "A flexible renewable ammonia demonstrator facility has become operational in Morris, Minnesota, using wind power to produce ammonia for fertilizer production. This project showcases how intermittent renewable energy can be integrated with industrial ammonia synthesis, offering a sustainable alternative to traditional natural gas-based ammonia manufacturing.",
+  "tech_stack": [
+    "Wind Power",
+    "Ammonia Synthesis",
+    "Electrolysis",
+    "Water Electrolysis",
+    "Haber-Bosch Process"
+  ],
+  "problem_solved": "Reduces carbon emissions from ammonia and fertilizer production by replacing fossil fuel feedstock with renewable wind energy.",
+  "why_valuable": "Demonstrates a scalable pathway to produce green ammonia for agriculture while decarbonizing a high-emission industrial sector critical to global food security.",
+  "tags": [
+    "Green Ammonia",
+    "Renewable Energy",
+    "Wind Power",
+    "Sustainable Agriculture",
+    "Clean Energy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:12:20.431997+00:00",
+  "updated_at": "2026-07-26T10:12:44.905923+00:00",
+  "published_to": []
+}

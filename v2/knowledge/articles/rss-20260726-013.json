@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260726-013",
+  "source": "rss",
+  "source_url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+  "title": "What is happening to jobs? Separating AI hype from reality",
+  "summary": "A Stanford Institute for Economic Policy Research policy brief examining empirical evidence on how AI is actually affecting employment, contrasting media hype about job displacement with real-world labor market data and trends.",
+  "tech_stack": [
+    "AI/ML",
+    "Labor Economics",
+    "Policy Research"
+  ],
+  "problem_solved": "Separates factual evidence from sensationalist claims about AI's impact on jobs and employment patterns.",
+  "why_valuable": "Provides rigorous academic analysis from Stanford to help policymakers, businesses, and workers understand the real state of AI-driven labor market changes rather than relying on speculative narratives.",
+  "tags": [
+    "AI",
+    "Employment",
+    "Labor Market",
+    "Policy",
+    "Economics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:11:00.273014+00:00",
+  "updated_at": "2026-07-26T10:12:44.904966+00:00",
+  "published_to": []
+}

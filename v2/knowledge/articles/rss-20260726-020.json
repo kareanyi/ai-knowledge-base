@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-020",
+  "source": "rss",
+  "source_url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+  "title": "Memory safety absolutists",
+  "summary": "A critical examination of the 'memory safety absolutist' movement in software engineering, arguing that blanket mandates for memory-safe languages miss important trade-offs in systems programming where performance, control, and legacy codebases require nuanced consideration of C/C++ alongside modern alternatives like Rust.",
+  "tech_stack": [
+    "Rust",
+    "C",
+    "C++",
+    "Systems Programming",
+    "Memory Safety"
+  ],
+  "problem_solved": "Addresses the oversimplified debate around mandating memory-safe languages without considering performance, control, and practical migration challenges in existing codebases.",
+  "why_valuable": "Provides a balanced perspective on the memory safety debate, helping developers and decision-makers understand that one-size-fits-all mandates may not serve all use cases, especially in performance-critical and embedded systems.",
+  "tags": [
+    "Memory Safety",
+    "Systems Programming",
+    "Programming Languages",
+    "Rust",
+    "Software Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-26T10:12:44.338379+00:00",
+  "updated_at": "2026-07-26T10:12:44.906296+00:00",
+  "published_to": []
+}

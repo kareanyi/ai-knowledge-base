@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260726-002",
+  "source": "rss",
+  "source_url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+  "title": "GrapheneOS protections against data extraction from locked devices",
+  "summary": "GrapheneOS implements advanced security mechanisms to prevent unauthorized data extraction from locked devices, addressing physical security threats that bypass traditional encryption protections. The article details specific countermeasures against forensic extraction techniques commonly used by law enforcement and attackers.",
+  "tech_stack": [
+    "Android",
+    "C",
+    "Rust",
+    "Linux Kernel",
+    "Hardware Security"
+  ],
+  "problem_solved": "Prevents law enforcement and forensic tools from extracting sensitive data from locked smartphones even with physical access to the device.",
+  "why_valuable": "Provides critical privacy protection for users who may have their devices seized or stolen while locked, addressing a gap that standard disk encryption cannot cover.",
+  "tags": [
+    "Mobile Security",
+    "Privacy",
+    "Android",
+    "Digital Forensics",
+    "Operating System"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-26T10:08:14.083771+00:00",
+  "updated_at": "2026-07-26T10:12:44.896372+00:00",
+  "published_to": []
+}
