@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-009",
+  "source": "rss",
+  "source_url": "https://nikolays.github.io/PGSimCity/",
+  "title": "PGSimCity - How PostgreSQL Works",
+  "summary": "PGSimCity is an interactive visual simulation that explains how PostgreSQL works internally, using a city-building game metaphor to make complex database concepts like query processing, buffer management, and concurrency control accessible and engaging.",
+  "tech_stack": [
+    "JavaScript",
+    "PostgreSQL",
+    "HTML/CSS",
+    "WebGL",
+    "Visualization"
+  ],
+  "problem_solved": "Makes the complex and abstract internals of PostgreSQL understandable through interactive gamification.",
+  "why_valuable": "Provides an intuitive, visual way to learn database internals that are typically hidden and difficult to grasp, helping developers become better at optimizing queries and understanding system behavior.",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Visualization",
+    "Education",
+    "Simulation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-27T11:34:58.707215+00:00",
+  "updated_at": "2026-07-27T11:39:31.754989+00:00",
+  "published_to": []
+}

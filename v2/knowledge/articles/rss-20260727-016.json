@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-016",
+  "source": "rss",
+  "source_url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+  "title": "Introduction to Data-Oriented Design [pdf]",
+  "summary": "这是一份关于游戏开发中面向数据设计（DOD）范式的技术文档，解释了如何通过优化数据在内存中的布局来提升CPU缓存命中率，从而显著提高程序性能，对比了传统面向对象设计与面向数据设计的核心差异。",
+  "tech_stack": [
+    "C/C++",
+    "Data-Oriented Design",
+    "CPU Cache Optimization",
+    "Memory Layout",
+    "Performance Profiling"
+  ],
+  "problem_solved": "解决了由于糟糕的数据局部性导致的CPU缓存未命中，从而造成程序性能下降的问题。",
+  "why_valuable": "对于游戏引擎、实时系统等性能敏感的应用，掌握DOD可以帮助开发者写出更高效的代码，充分利用CPU缓存机制获得显著的性能提升。",
+  "tags": [
+    "GameDev",
+    "Performance",
+    "CPU-Cache",
+    "Data-Oriented-Design",
+    "Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-27T11:36:31.120680+00:00",
+  "updated_at": "2026-07-27T11:39:31.761491+00:00",
+  "published_to": []
+}

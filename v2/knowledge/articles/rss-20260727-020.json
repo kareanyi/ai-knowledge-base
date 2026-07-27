@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+  "title": "How AI is shortening drug discovery timelines in China",
+  "summary": "Insilico Medicine, a Hong Kong-listed AI drug discovery company, has dramatically shortened drug development timelines in China from traditional multi-year cycles to approximately 9-13 months by combining artificial intelligence with laboratory research, as announced by CEO Alex Zhavoronkov.",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Drug Discovery",
+    "Pharmaceutical R&D",
+    "Laboratory Automation",
+    "Deep Learning"
+  ],
+  "problem_solved": "Traditional drug discovery typically takes 10-15 years from target identification to market, with candidate nomination alone taking 3-5 years, creating massive time and cost barriers for bringing new treatments to patients.",
+  "why_valuable": "By reducing candidate nomination timelines from years to months, AI-powered drug discovery can accelerate delivery of life-saving medications to patients while dramatically reducing development costs.",
+  "tags": [
+    "AI",
+    "Drug Discovery",
+    "Healthcare",
+    "Pharmaceutical",
+    "Biotech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-27T11:37:19.286771+00:00",
+  "updated_at": "2026-07-27T11:39:31.761717+00:00",
+  "published_to": []
+}

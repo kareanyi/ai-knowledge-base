@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260727-002",
+  "source": "rss",
+  "source_url": "https://github.com/libsm64/libsm64",
+  "title": "Libsm64: Mario 64 as a library for use in external game engines",
+  "summary": "Libsm64 is an open-source project that extracts Super Mario 64's core game logic, physics, and collision systems into a reusable C library that can be integrated into external game engines like Unity, Unreal, or Godot, allowing developers to use authentic Mario gameplay mechanics in their own projects.",
+  "tech_stack": [
+    "C",
+    "Assembly",
+    "ROM Extraction",
+    "Game Engine Integration"
+  ],
+  "problem_solved": "Provides open-source access to Super Mario 64's gameplay mechanics without requiring developers to reverse-engineer the game from scratch.",
+  "why_valuable": "Enables authentic retro game physics and mechanics to be reused in modern games, preserving gaming history while democratizing game development.",
+  "tags": [
+    "Reverse Engineering",
+    "Game Development",
+    "Retro Gaming",
+    "Open Source",
+    "Game Engine"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-27T11:33:02.647518+00:00",
+  "updated_at": "2026-07-27T11:39:31.754334+00:00",
+  "published_to": []
+}

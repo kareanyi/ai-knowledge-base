@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-006",
+  "source": "rss",
+  "source_url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+  "title": "How Unix spell ran in 64 kB of RAM",
+  "summary": "This article explores how the original Unix 'spell' command operated within just 64KB of RAM on early PDP-11 systems, using clever data structures like hashed dictionaries, compressed tries, and compact string storage techniques to perform spell-checking under extreme memory constraints.",
+  "tech_stack": [
+    "Unix",
+    "C",
+    "PDP-11 Assembly",
+    "Data Structures",
+    "Memory Management"
+  ],
+  "problem_solved": "How to implement a functional spell-checker that fits in extremely limited memory (64KB) on early computing hardware",
+  "why_valuable": "Demonstrates timeless software engineering principles for optimizing resource usage that remain relevant for modern embedded systems and memory-constrained environments",
+  "tags": [
+    "Unix",
+    "History",
+    "Memory-Optimization",
+    "Systems-Programming",
+    "Retro-Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-27T11:33:56.141568+00:00",
+  "updated_at": "2026-07-27T11:39:31.754729+00:00",
+  "published_to": []
+}

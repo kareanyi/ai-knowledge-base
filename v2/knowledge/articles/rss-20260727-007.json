@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-007",
+  "source": "rss",
+  "source_url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+  "title": "Elevated errors on Claude Opus 5",
+  "summary": "Anthropic reports elevated error rates affecting Claude Opus 5, one of their flagship AI language models, indicating a service degradation or outage affecting users of this specific model tier.",
+  "tech_stack": [
+    "Claude Opus 5",
+    "Anthropic API",
+    "LLM",
+    "Cloud Infrastructure",
+    "AI Service"
+  ],
+  "problem_solved": "This is an incident report documenting service degradation rather than a solution; it informs users about ongoing elevated error rates on Claude Opus 5.",
+  "why_valuable": "Provides transparency and awareness for developers and businesses relying on Claude Opus 5, allowing them to monitor service status and plan accordingly during the incident.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Anthropic",
+    "Claude",
+    "Service Status"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-07-27T11:34:30.110777+00:00",
+  "updated_at": "2026-07-27T11:39:31.754819+00:00",
+  "published_to": []
+}

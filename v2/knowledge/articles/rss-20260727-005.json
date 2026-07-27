@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-005",
+  "source": "rss",
+  "source_url": "https://code.videolan.org/videolan/vlc-unity",
+  "title": "VLC for Unity now supported on Linux",
+  "summary": "VLC media player library is now officially supported on Linux within the Unity game engine, expanding cross-platform multimedia playback capabilities for game developers using the popular open-source VLC framework.",
+  "tech_stack": [
+    "Unity",
+    "C/C++",
+    "Linux",
+    "libvlc",
+    "VLC"
+  ],
+  "problem_solved": "Enables Linux-based Unity developers to integrate full-featured video and audio playback into their games and applications using the proven VLC media framework.",
+  "why_valuable": "Provides a widely-adopted, codec-rich media playback solution for Linux Unity projects, eliminating the need for custom media backends on this platform.",
+  "tags": [
+    "VLC",
+    "Unity",
+    "Linux",
+    "Game Development",
+    "Multimedia"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-27T11:33:42.604765+00:00",
+  "updated_at": "2026-07-27T11:39:31.754644+00:00",
+  "published_to": []
+}

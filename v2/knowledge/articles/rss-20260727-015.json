@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-015",
+  "source": "rss",
+  "source_url": "https://beyondloom.com/decker/",
+  "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+  "summary": "Decker is a multimedia authoring platform that revives the spirit of Apple's Hypercard, allowing users to create interactive card-based applications using a custom declarative language (DML) with embedded HTML/CSS/JavaScript, combining retro computing aesthetics with modern web technologies.",
+  "tech_stack": [
+    "Decker's Markup Language (DML)",
+    "JavaScript",
+    "HTML/CSS",
+    "Go (implementation language)",
+    "WebAssembly"
+  ],
+  "problem_solved": "Makes interactive multimedia application development accessible to non-programmers while providing a rapid prototyping environment that honors the creative simplicity of Hypercard.",
+  "why_valuable": "Preserves and modernizes the Hypercard philosophy of democratizing software creation, offering a unique platform for quick prototyping, educational use, and nostalgic yet functional creative development.",
+  "tags": [
+    "Hypercard",
+    "retro-computing",
+    "multimedia-authoring",
+    "low-code",
+    "rapid-prototyping"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-27T11:36:20.805183+00:00",
+  "updated_at": "2026-07-27T11:39:31.761423+00:00",
+  "published_to": []
+}

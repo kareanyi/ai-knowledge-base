@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-011",
+  "source": "rss",
+  "source_url": "https://github.com/vercel-labs/scriptc",
+  "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+  "summary": "Scriptc is an experimental TypeScript-to-native compiler developed by Vercel Labs that compiles TypeScript code directly to standalone native binaries without embedding any JavaScript runtime engine, making it ideal for resource-constrained environments and edge deployment scenarios.",
+  "tech_stack": [
+    "TypeScript",
+    "Rust",
+    "LLVM",
+    "WebAssembly",
+    "Native Compilation"
+  ],
+  "problem_solved": "Eliminates the need for heavy JavaScript runtime engines when deploying TypeScript applications, enabling truly lightweight native executables.",
+  "why_valuable": "It allows TypeScript developers to ship dependency-free native binaries that start instantly and consume minimal memory, perfect for serverless functions, embedded systems, and CLI tools.",
+  "tags": [
+    "TypeScript",
+    "Compiler",
+    "Native",
+    "Vercel",
+    "Edge Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-27T11:35:19.767259+00:00",
+  "updated_at": "2026-07-27T11:39:31.760936+00:00",
+  "published_to": []
+}

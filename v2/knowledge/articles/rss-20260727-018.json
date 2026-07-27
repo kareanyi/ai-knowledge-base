@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-018",
+  "source": "rss",
+  "source_url": "https://github.com/gmrandazzo/CheapSecurity",
+  "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+  "summary": "CheapSecurity is a lightweight, self-hosted CCTV solution designed to run on affordable Linux Single Board Computers like Raspberry Pi, offering a privacy-focused alternative to cloud-based security camera systems.",
+  "tech_stack": [
+    "Linux",
+    "Python",
+    "FFmpeg",
+    "SQLite",
+    "Raspberry Pi"
+  ],
+  "problem_solved": "Provides an affordable and privacy-respecting video surveillance system that runs locally without requiring expensive cloud subscriptions or proprietary hardware.",
+  "why_valuable": "It democratizes home/business security by enabling users to build their own CCTV system for under $50 using readily available hardware, with full data ownership and no recurring fees.",
+  "tags": [
+    "CCTV",
+    "Security",
+    "Self-hosted",
+    "IoT",
+    "Privacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-27T11:36:53.828123+00:00",
+  "updated_at": "2026-07-27T11:39:31.761605+00:00",
+  "published_to": []
+}

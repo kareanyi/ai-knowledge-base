@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260727-010",
+  "source": "rss",
+  "source_url": "https://fontsinuse.com/",
+  "title": "Fonts In Use – Find out where a font is used",
+  "summary": "Fonts In Use is a curated archive showcasing real-world examples of typography in various designs, from print to digital media, allowing designers to discover fonts used in actual projects and understand their applications.",
+  "tech_stack": [
+    "Web Platform",
+    "Community Content"
+  ],
+  "problem_solved": "Helps designers find and research fonts being used in real-world designs rather than just in type specimen generators.",
+  "why_valuable": "Provides practical inspiration and context for typography choices, bridging the gap between font selection and actual design implementation.",
+  "tags": [
+    "Typography",
+    "Design",
+    "Resource",
+    "Inspiration",
+    "Curated"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-27T11:35:09.423417+00:00",
+  "updated_at": "2026-07-27T11:39:31.755080+00:00",
+  "published_to": []
+}

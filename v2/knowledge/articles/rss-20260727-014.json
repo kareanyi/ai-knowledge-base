@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260727-014",
+  "source": "rss",
+  "source_url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+  "title": "Simulate cassette tape audio profiles using FFmpeg",
+  "summary": "An open-source project that recreates vintage cassette tape audio characteristics using FFmpeg filters, adding effects like tape hiss, wow/flutter, frequency roll-off, and other analog artifacts to digital audio.",
+  "tech_stack": [
+    "FFmpeg",
+    "Shell Scripting",
+    "Audio Filtering",
+    "Digital Signal Processing"
+  ],
+  "problem_solved": "Provides an accessible way to simulate authentic cassette tape sound without expensive hardware or vintage equipment.",
+  "why_valuable": "Enables musicians, game developers, and content creators to add nostalgic retro audio effects to their projects using free, open-source tools.",
+  "tags": [
+    "Audio",
+    "Cassette",
+    "FFmpeg",
+    "Retro",
+    "Audio-Processing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-27T11:36:05.914220+00:00",
+  "updated_at": "2026-07-27T11:39:31.761317+00:00",
+  "published_to": []
+}

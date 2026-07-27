@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260727-012",
+  "source": "rss",
+  "source_url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+  "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+  "summary": "A US citizen from Atlanta has been charged by federal prosecutors after wiping their GrapheneOS phone during an airport customs search, highlighting the ongoing legal tension between digital privacy rights and law enforcement's authority to search devices at border crossings.",
+  "tech_stack": [
+    "GrapheneOS",
+    "Android",
+    "Full-disk encryption",
+    "Secure deletion"
+  ],
+  "problem_solved": "This article documents a legal case rather than solving a problem; it raises questions about the limits of privacy rights and device encryption when facing government searches at international borders.",
+  "why_valuable": "The case provides important precedent and discussion point about digital privacy, encryption rights, and the legal obligations citizens face when crossing borders with encrypted devices.",
+  "tags": [
+    "Digital Privacy",
+    "Legal",
+    "GrapheneOS",
+    "Border Security",
+    "Encryption"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-27T11:35:39.183029+00:00",
+  "updated_at": "2026-07-27T11:39:31.761081+00:00",
+  "published_to": []
+}
