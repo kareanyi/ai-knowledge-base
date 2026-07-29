@@ -1,0 +1,756 @@
+{
+  "collected_at": "2026-07-29T10:42:07.842331+00:00",
+  "total": 52,
+  "items": [
+    {
+      "id": "github-145553672",
+      "source": "github",
+      "source_url": "https://github.com/fighting41love/funNLP",
+      "title": "fighting41love/funNLP",
+      "content": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具",
+      "author": "fighting41love",
+      "created_at": "2018-08-21T11:20:39Z",
+      "metadata": {
+        "stars": 82118,
+        "forks": 15261,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-250510075",
+      "source": "github",
+      "source_url": "https://github.com/huggingface/trl",
+      "title": "huggingface/trl",
+      "content": "Train transformer language models with reinforcement learning.",
+      "author": "huggingface",
+      "created_at": "2020-03-27T10:54:55Z",
+      "metadata": {
+        "stars": 18959,
+        "forks": 2875,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-102343794",
+      "source": "github",
+      "source_url": "https://github.com/apache/brpc",
+      "title": "apache/brpc",
+      "content": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "author": "apache",
+      "created_at": "2017-09-04T09:28:47Z",
+      "metadata": {
+        "stars": 17571,
+        "forks": 4128,
+        "language": "C++",
+        "topics": [
+          "rpc"
+        ]
+      }
+    },
+    {
+      "id": "github-164852596",
+      "source": "github",
+      "source_url": "https://github.com/graykode/nlp-tutorial",
+      "title": "graykode/nlp-tutorial",
+      "content": "Natural Language Processing Tutorial for Deep Learning Researchers",
+      "author": "graykode",
+      "created_at": "2019-01-09T11:44:20Z",
+      "metadata": {
+        "stars": 14919,
+        "forks": 3944,
+        "language": "Jupyter Notebook",
+        "topics": [
+          "attention",
+          "bert",
+          "natural-language-processing",
+          "nlp",
+          "paper",
+          "pytorch",
+          "tensorflow",
+          "transformer",
+          "tutorial"
+        ]
+      }
+    },
+    {
+      "id": "github-24561828",
+      "source": "github",
+      "source_url": "https://github.com/gunthercox/ChatterBot",
+      "title": "gunthercox/ChatterBot",
+      "content": "ChatterBot is a machine learning, conversational dialog engine for creating chat bots",
+      "author": "gunthercox",
+      "created_at": "2014-09-28T14:49:00Z",
+      "metadata": {
+        "stars": 14507,
+        "forks": 4423,
+        "language": "Python",
+        "topics": [
+          "bot",
+          "chatbot",
+          "chatterbot",
+          "conversation",
+          "language",
+          "machine-learning",
+          "python"
+        ]
+      }
+    },
+    {
+      "id": "github-618511002",
+      "source": "github",
+      "source_url": "https://github.com/databrickslabs/dolly",
+      "title": "databrickslabs/dolly",
+      "content": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+      "author": "databrickslabs",
+      "created_at": "2023-03-24T16:15:53Z",
+      "metadata": {
+        "stars": 10805,
+        "forks": 1140,
+        "language": "Python",
+        "topics": [
+          "chatbot",
+          "databricks",
+          "dolly",
+          "gpt"
+        ]
+      }
+    },
+    {
+      "id": "github-1696822",
+      "source": "github",
+      "source_url": "https://github.com/clips/pattern",
+      "title": "clips/pattern",
+      "content": "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",
+      "author": "clips",
+      "created_at": "2011-05-03T15:29:01Z",
+      "metadata": {
+        "stars": 8858,
+        "forks": 1559,
+        "language": "Python",
+        "topics": [
+          "machine-learning",
+          "natural-language-processing",
+          "network-analysis",
+          "python",
+          "sentiment-analysis",
+          "web-mining",
+          "wordnet"
+        ]
+      }
+    },
+    {
+      "id": "github-967738751",
+      "source": "github",
+      "source_url": "https://github.com/mengxi-ream/read-frog",
+      "title": "mengxi-ream/read-frog",
+      "content": "🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译",
+      "author": "mengxi-ream",
+      "created_at": "2025-04-16T23:32:59Z",
+      "metadata": {
+        "stars": 8767,
+        "forks": 606,
+        "language": "TypeScript",
+        "topics": [
+          "browser-extension",
+          "chinese",
+          "chrome-extension",
+          "deepseek",
+          "english",
+          "english-learning",
+          "gpt",
+          "immersive-translate",
+          "japanese",
+          "language-learning",
+          "llm",
+          "openai",
+          "react",
+          "translate",
+          "wxt"
+        ]
+      }
+    },
+    {
+      "id": "github-646333922",
+      "source": "github",
+      "source_url": "https://github.com/OpenBMB/ToolBench",
+      "title": "OpenBMB/ToolBench",
+      "content": "[ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.",
+      "author": "OpenBMB",
+      "created_at": "2023-05-28T03:46:17Z",
+      "metadata": {
+        "stars": 5715,
+        "forks": 487,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-545104023",
+      "source": "github",
+      "source_url": "https://github.com/CarperAI/trlx",
+      "title": "CarperAI/trlx",
+      "content": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+      "author": "CarperAI",
+      "created_at": "2022-10-03T19:42:40Z",
+      "metadata": {
+        "stars": 4752,
+        "forks": 486,
+        "language": "Python",
+        "topics": [
+          "machine-learning",
+          "pytorch",
+          "reinforcement-learning"
+        ]
+      }
+    },
+    {
+      "id": "github-164433070",
+      "source": "github",
+      "source_url": "https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+      "title": "HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+      "content": "🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). 🍻 OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. 🗃️ Llama3, Mistral, etc. 🧑‍💻 Video Tutorials. ",
+      "author": "HuaizhengZhang",
+      "created_at": "2019-01-07T12:59:19Z",
+      "metadata": {
+        "stars": 4234,
+        "forks": 405,
+        "language": null,
+        "topics": [
+          "ai-infra",
+          "genai",
+          "large-language-models",
+          "llmsys",
+          "mlsys",
+          "model-serving",
+          "model-training"
+        ]
+      }
+    },
+    {
+      "id": "github-806007891",
+      "source": "github",
+      "source_url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+      "title": "aadi1011/AI-ML-Roadmap-from-scratch",
+      "content": "Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.",
+      "author": "aadi1011",
+      "created_at": "2024-05-26T05:26:18Z",
+      "metadata": {
+        "stars": 4079,
+        "forks": 769,
+        "language": null,
+        "topics": [
+          "ai",
+          "aiml",
+          "artificial-intelligence",
+          "data-science",
+          "deep-learning",
+          "hacktoberfest",
+          "hacktoberfest2025",
+          "learning",
+          "machine-learning",
+          "machine-learning-from-scratch",
+          "resources",
+          "roadmap",
+          "tutorial"
+        ]
+      }
+    },
+    {
+      "id": "github-211137351",
+      "source": "github",
+      "source_url": "https://github.com/brightmart/albert_zh",
+      "title": "brightmart/albert_zh",
+      "content": "A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型",
+      "author": "brightmart",
+      "created_at": "2019-09-26T16:45:30Z",
+      "metadata": {
+        "stars": 3981,
+        "forks": 742,
+        "language": "Python",
+        "topics": [
+          "albert",
+          "bert",
+          "chinese-corpus",
+          "pre-trained",
+          "pre-trained-model",
+          "pytorch",
+          "roberta",
+          "tensorflow",
+          "xlnet"
+        ]
+      }
+    },
+    {
+      "id": "github-925147332",
+      "source": "github",
+      "source_url": "https://github.com/umlx5h/LLPlayer",
+      "title": "umlx5h/LLPlayer",
+      "content": "The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!",
+      "author": "umlx5h",
+      "created_at": "2025-01-31T10:19:39Z",
+      "metadata": {
+        "stars": 3969,
+        "forks": 230,
+        "language": "C#",
+        "topics": [
+          "asr",
+          "csharp",
+          "flyleaf",
+          "language-learning",
+          "llm",
+          "media-player",
+          "ocr",
+          "ollama",
+          "player",
+          "video",
+          "video-player",
+          "whisper",
+          "wpf",
+          "yt-dlp"
+        ]
+      }
+    },
+    {
+      "id": "github-36616176",
+      "source": "github",
+      "source_url": "https://github.com/elixirschool/elixirschool",
+      "title": "elixirschool/elixirschool",
+      "content": "The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.",
+      "author": "elixirschool",
+      "created_at": "2015-05-31T18:27:42Z",
+      "metadata": {
+        "stars": 3670,
+        "forks": 1082,
+        "language": "Elixir",
+        "topics": [
+          "educational",
+          "elixir",
+          "elixir-lang",
+          "hacktoberfest",
+          "learning",
+          "lesson",
+          "programming",
+          "translated-lessons",
+          "translation"
+        ]
+      }
+    },
+    {
+      "id": "github-366721422",
+      "source": "github",
+      "source_url": "https://github.com/salmer/CppDeveloperRoadmap",
+      "title": "salmer/CppDeveloperRoadmap",
+      "content": "The roadmap for learning the C++ programming language for beginners and experienced devs.",
+      "author": "salmer",
+      "created_at": "2021-05-12T13:16:12Z",
+      "metadata": {
+        "stars": 3515,
+        "forks": 326,
+        "language": "HTML",
+        "topics": [
+          "cpp",
+          "developer-experience",
+          "diy",
+          "gitbook",
+          "junior",
+          "junior-developers",
+          "learning",
+          "middle",
+          "middle-developers",
+          "roadmap",
+          "self-study"
+        ]
+      }
+    },
+    {
+      "id": "github-917564127",
+      "source": "github",
+      "source_url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+      "title": "jonyzhang2023/awesome-embodied-vla-va-vln",
+      "content": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. ",
+      "author": "jonyzhang2023",
+      "created_at": "2025-01-16T08:23:23Z",
+      "metadata": {
+        "stars": 3421,
+        "forks": 160,
+        "language": null,
+        "topics": []
+      }
+    },
+    {
+      "id": "github-991939049",
+      "source": "github",
+      "source_url": "https://github.com/alibaba/ROLL",
+      "title": "alibaba/ROLL",
+      "content": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models",
+      "author": "alibaba",
+      "created_at": "2025-05-28T11:27:18Z",
+      "metadata": {
+        "stars": 3335,
+        "forks": 303,
+        "language": "Python",
+        "topics": [
+          "agentic",
+          "rlhf",
+          "rlvr"
+        ]
+      }
+    },
+    {
+      "id": "github-224296809",
+      "source": "github",
+      "source_url": "https://github.com/google-research/albert",
+      "title": "google-research/albert",
+      "content": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+      "author": "google-research",
+      "created_at": "2019-11-26T22:23:13Z",
+      "metadata": {
+        "stars": 3279,
+        "forks": 575,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-617325145",
+      "source": "github",
+      "source_url": "https://github.com/noahshinn/reflexion",
+      "title": "noahshinn/reflexion",
+      "content": "[NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning",
+      "author": "noahshinn",
+      "created_at": "2023-03-22T06:38:53Z",
+      "metadata": {
+        "stars": 3214,
+        "forks": 313,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "llm"
+        ]
+      }
+    },
+    {
+      "id": "rss-657943",
+      "source": "rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+      "title": "ChatGPT claims rogue AI attacked more companies",
+      "content": "Article URL: https://www.bbc.co.uk/news/articles/c2el319vzr3o\nComments URL: https://news.ycombinator.com/item?id=49094996\nPoints: 17\n# Comments: 5",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 09:03:17 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-651771",
+      "source": "rss",
+      "source_url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "content": "Article URL: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers\nComments URL: https://news.ycombinator.com/item?id=49094346\nPoints: 65\n# Comments: 24",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 07:18:24 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-473333",
+      "source": "rss",
+      "source_url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "content": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\nComments URL: https://news.ycombinator.com/item?id=49093569\nPoints: 189\n# Comments: 65",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 04:58:46 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-138585",
+      "source": "rss",
+      "source_url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "content": "Article URL: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\nComments URL: https://news.ycombinator.com/item?id=49093435\nPoints: 48\n# Comments: 17",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 04:30:47 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-722590",
+      "source": "rss",
+      "source_url": "https://www.datagubbe.se/scenegui/",
+      "title": "User Interfaces of the Demo Scene",
+      "content": "Article URL: https://www.datagubbe.se/scenegui/\nComments URL: https://news.ycombinator.com/item?id=49093434\nPoints: 205\n# Comments: 33",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 04:30:36 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-692833",
+      "source": "rss",
+      "source_url": "https://transformer-transformer.github.io/",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "content": "Article URL: https://transformer-transformer.github.io/\nComments URL: https://news.ycombinator.com/item?id=49093232\nPoints: 53\n# Comments: 4",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 03:52:29 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-784923",
+      "source": "rss",
+      "source_url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "title": "Hooray for the Sockets Interface",
+      "content": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\nComments URL: https://news.ycombinator.com/item?id=49092754\nPoints: 40\n# Comments: 21",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 02:25:29 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-653312",
+      "source": "rss",
+      "source_url": "https://learnvector.ai/",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "content": "Article URL: https://learnvector.ai/\nComments URL: https://news.ycombinator.com/item?id=49092499\nPoints: 191\n# Comments: 116",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 01:49:19 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-362880",
+      "source": "rss",
+      "source_url": "https://www.hubble.md/",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "content": "Article URL: https://www.hubble.md/\nComments URL: https://news.ycombinator.com/item?id=49091730\nPoints: 118\n# Comments: 46",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 00:11:23 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-960156",
+      "source": "rss",
+      "source_url": "https://reframe.camera/",
+      "title": "ReFrame – The EPaper Camera",
+      "content": "Article URL: https://reframe.camera/\nComments URL: https://news.ycombinator.com/item?id=49091379\nPoints: 138\n# Comments: 28",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 23:27:09 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-24044",
+      "source": "rss",
+      "source_url": "https://github.com/twalichiewicz/HNewhere",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "content": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.I figured there was probably a simpler way, so I threw together this userscript to merge the two.1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy ",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 22:09:06 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-650892",
+      "source": "rss",
+      "source_url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "title": "Half-Life ported to Mac OS 9",
+      "content": "Article URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/\nComments URL: https://news.ycombinator.com/item?id=49089814\nPoints: 250\n# Comments: 117",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 20:58:39 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-541212",
+      "source": "rss",
+      "source_url": "https://github.com/openai/codex-security",
+      "title": "Codex Security",
+      "content": "Article URL: https://github.com/openai/codex-security\nComments URL: https://news.ycombinator.com/item?id=49089755\nPoints: 505\n# Comments: 174",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 20:52:55 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-179453",
+      "source": "rss",
+      "source_url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "content": "https://www.apple.com/shop/apple-upgrade\n\nComments URL: https://news.ycombinator.com/item?id=49087306\nPoints: 182\n# Comments: 330",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 17:37:12 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-134628",
+      "source": "rss",
+      "source_url": "https://sbcl.org/all-news.html?2.6.7",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "content": "Article URL: https://sbcl.org/all-news.html?2.6.7\nComments URL: https://news.ycombinator.com/item?id=49086971\nPoints: 239\n# Comments: 105",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 17:11:54 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-733684",
+      "source": "rss",
+      "source_url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "title": "Substack writers, you need a website",
+      "content": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\nComments URL: https://news.ycombinator.com/item?id=49086788\nPoints: 549\n# Comments: 279",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 16:58:31 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-197058",
+      "source": "rss",
+      "source_url": "https://www.slow-journalism.com/",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "content": "Article URL: https://www.slow-journalism.com/\nComments URL: https://news.ycombinator.com/item?id=49085731\nPoints: 299\n# Comments: 168",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 15:50:38 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-42860",
+      "source": "rss",
+      "source_url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "content": "Article URL: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html\nComments URL: https://news.ycombinator.com/item?id=49085698\nPoints: 430\n# Comments: 92",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 15:48:34 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-906692",
+      "source": "rss",
+      "source_url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "title": "Zig's Incremental Compilation Internals",
+      "content": "Article URL: https://mlugg.co.uk/posts/incremental-compilation-internals/\nComments URL: https://news.ycombinator.com/item?id=49085666\nPoints: 247\n# Comments: 175",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 15:46:45 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-401983",
+      "source": "rss",
+      "source_url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "content": "Article URL: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/\nComments URL: https://news.ycombinator.com/item?id=49084987\nPoints: 164\n# Comments: 137",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 15:01:12 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-829121",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+      "title": "Google AI Overviews become more common in search",
+      "content": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI Overviews display generated summaries within conventional Google results, while AI Mode provides a conversational interface for longer questions and follow-up prompts. Users can move from [&#8230;]\nThe post Google AI Overviews become more common in search appeared first on AI News.",
+      "author": "",
+      "created_at": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-195068",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+      "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
+      "content": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims under the Patient-Driven Payment Model, audit fines, litigation exposure, and in the worst [&#8230;]\nThe post Guardoc Health processes clinical documentation using Amazon Nova models appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 11:30:47 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-311734",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
+      "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
+      "content": "Armenia is not a big country. It’s not a wealthy country. It’s not a famous country. And yet, it has become not only a consumer of different AI products akin to Clideo subtitles generator for video editing, or giants like OpenAI, but also entered the headlines of global news for several reasons, not the least [&#8230;]\nThe post Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty  appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 28 Jul 2026 08:52:46 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-676138",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+      "title": "How AI is shortening drug discovery timelines in China",
+      "content": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Alex Zhavoronkov. The Hong Kong-listed company’s fastest programme reached candidate nomination in nine months, while its typical timeline is about 13 months, Zhavoronkov said. He said [&#8230;]\nThe post How AI is shortening drug discovery timelines in China appeared first on AI News.",
+      "author": "",
+      "created_at": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-407349",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+      "title": "America&#8217;s AI Investment Boom Is Reshaping the Economy",
+      "content": "America&#8217;s AI Investment Boom Is Reshaping the Economy Artificial intelligence has become one of the defining investment stories in the United States, and the numbers continue to grow. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure, while demand for advanced chips has turned NVIDIA into one of [&#8230;]\nThe post America&#8217;s AI Investment Boom Is Reshaping the Economy appeared first on AI News.",
+      "author": "",
+      "created_at": "Mon, 27 Jul 2026 09:18:53 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-771412",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "content": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business model: Meta, Microsoft, Nvidia, IBM, Dell Technologies, CrowdStrike, Palantir, ServiceNow, Hugging Face, Perplexity, Mistral, Andreessen [&#8230;]\nThe post Meta, Microsoft, Nvidia, IBM, and others back open-weight AI appear",
+      "author": "",
+      "created_at": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-659232",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+      "title": "OpenAI pushes ChatGPT into patient health records",
+      "content": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can access it now on web and iOS, across the Free, Go, Plus, and Pro tiers. Users link Apple Health and, where supported, records from US [&#8230;]\nThe post OpenAI pushes ChatGPT into patient health records appeared first on AI News.",
+      "author": "",
+      "created_at": "Fri, 24 Jul 2026 14:58:17 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-927616",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "content": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence,&#160;announced&#160;on July 22, is a managed product delivered through a limited general availability programme, and the company states plainly that it is not yet available as a self-serve product. Deployments are led by OpenAI&#8217;s own Forward Deployed Engineers [&#8230;]\nThe post OpenAI Presence sells enterprise AI agents with engineers attached appeared first on AI News.",
+      "author": "",
+      "created_at": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-863813",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "title": "Nvidia bets physical AI can solve healthcare robotics&#8217; data problem",
+      "content": "Nvidia&#8217;s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvidia and much of the robotics industry now use to describe machines that have to learn how the world behaves through contact, force, and consequence, rather than through [&#8230;]\nThe post Nvidia bets physical AI can solve healthcare robotics&#8217; data problem appeared first on AI News.",
+      "author": "",
+      "created_at": "Thu, 23 Jul 2026 11:38:55 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-912434",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "content": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two gigawatts of capacity using AMD’s Instinct MI450-series accelerators, with deployment of the first gigawatt beginning in the first half of 2027. AMD’s investment will [&#8230;]\nThe post AMD to invest up to $5 billion in Anthropic under AI infrastructure deal appeared first on AI News.",
+      "author": "",
+      "created_at": "Thu, 23 Jul 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-907664",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+      "title": "SenseTime&#8217;s Galaxy Project targets domestic AI chip scale-up",
+      "content": "SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China. In a keynote titled ‘Intelligent Transformation and Symbiosis,’ Yang Fan – the company’s co-founder and president of its Large Device Business Group – laid out what SenseTime describes as a closed loop connecting chip-level technology, ecosystem [&#8230;]\nThe post SenseTime&#8217;s Galaxy Project targets domestic AI chip scale-up appeared first on AI News.",
+      "author": "",
+      "created_at": "Wed, 22 Jul 2026 11:21:05 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-579219",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+      "title": "Google&#8217;s Gemini 3.6 Flash targets enterprise agent token costs",
+      "content": "Google has released Gemini 3.6 Flash and 3.5 Flash-Lite as new workhorses designed to cut latency and token costs for enterprise AI agents. The economics of running autonomous software agents inside a production environment come down to a fixed equation few vendors advertise directly. A model needs to reason through a multi-step task competently, but [&#8230;]\nThe post Google&#8217;s Gemini 3.6 Flash targets enterprise agent token costs appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 21 Jul 2026 16:06:55 +0000",
+      "metadata": {}
+    }
+  ]
+}

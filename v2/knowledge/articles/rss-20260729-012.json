@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-012",
+  "source": "rss",
+  "source_url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+  "title": "Half-Life ported to Mac OS 9",
+  "summary": "A developer successfully ported the classic FPS game Half-Life (1998) to Mac OS 9, an obsolete Apple operating system, using reverse engineering and low-level programming techniques to make the game playable on vintage hardware.",
+  "tech_stack": [
+    "C/C++",
+    "Assembly",
+    "Mac OS 9 APIs",
+    "Quake Engine",
+    "Reverse Engineering"
+  ],
+  "problem_solved": "Brings the beloved 1998 FPS game Half-Life to the deprecated Mac OS 9 platform through reverse engineering.",
+  "why_valuable": "Represents an important preservation effort for gaming history while demonstrating impressive reverse engineering and porting skills for legacy systems.",
+  "tags": [
+    "Retro Gaming",
+    "Porting",
+    "Reverse Engineering",
+    "Classic Mac",
+    "Gaming Preservation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:48:59.615713+00:00",
+  "updated_at": "2026-07-29T10:53:11.359859+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260729-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+  "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
+  "summary": "Guardoc Health processes over one million clinical documents daily using Amazon Nova models via Amazon Bedrock to improve healthcare documentation accuracy. The AI solution helps prevent costly errors that lead to denied Medicare claims, audit fines, and litigation exposure under the Patient-Driven Payment Model.",
+  "tech_stack": [
+    "Amazon Nova",
+    "Amazon Bedrock",
+    "AI/ML"
+  ],
+  "problem_solved": "Healthcare organizations struggle with clinical documentation errors that result in denied Medicare claims, costly audit fines, and litigation risks.",
+  "why_valuable": "It enables high-volume clinical document processing at scale with improved accuracy, protecting healthcare providers from significant financial and legal penalties.",
+  "tags": [
+    "Healthcare AI",
+    "Amazon Bedrock",
+    "Clinical Documentation",
+    "Medical AI",
+    "Amazon Nova"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:51:05.227226+00:00",
+  "updated_at": "2026-07-29T10:53:11.361910+00:00",
+  "published_to": []
+}

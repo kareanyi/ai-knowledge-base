@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-008",
+  "source": "rss",
+  "source_url": "https://learnvector.ai/",
+  "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+  "summary": "LearnVector is Andrew Ng's AI education company focused on creating personalized one-to-one learning experiences at scale, leveraging AI to provide individualized tutoring and educational support that was traditionally only available through human tutors.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Python",
+    "Deep Learning",
+    "Machine Learning"
+  ],
+  "problem_solved": "Providing scalable personalized education that mimics one-on-one human tutoring through AI technology",
+  "why_valuable": " democratizes access to quality personalized learning by using AI to scale what was previously only available through expensive private tutors",
+  "tags": [
+    "AI Education",
+    "EdTech",
+    "Personalized Learning",
+    "Andrew Ng",
+    "AI Tutoring"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:48:12.289639+00:00",
+  "updated_at": "2026-07-29T10:53:11.353040+00:00",
+  "published_to": []
+}

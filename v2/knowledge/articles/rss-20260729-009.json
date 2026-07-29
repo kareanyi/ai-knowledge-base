@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-009",
+  "source": "rss",
+  "source_url": "https://www.hubble.md/",
+  "title": "Hubble: Open-source notetaking app for you and your agents",
+  "summary": "Hubble is an open-source notetaking application designed to serve both human users and AI agents, enabling seamless collaboration between users and their AI assistants through shared note-taking capabilities.",
+  "tech_stack": [
+    "Open Source",
+    "JavaScript",
+    "Node.js",
+    "Markdown",
+    "API Integration"
+  ],
+  "problem_solved": "Bridges the gap between human note-taking and AI agent workflows by providing a unified, open-source platform where both can create, access, and manage notes together.",
+  "why_valuable": "Its open-source nature and dual-user design (humans + AI agents) make it a flexible, transparent solution for teams and individuals looking to integrate AI assistance directly into their note-taking and knowledge management workflows.",
+  "tags": [
+    "Open Source",
+    "Notetaking",
+    "AI Agents",
+    "Collaboration",
+    "Productivity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:48:23.464414+00:00",
+  "updated_at": "2026-07-29T10:53:11.353271+00:00",
+  "published_to": []
+}

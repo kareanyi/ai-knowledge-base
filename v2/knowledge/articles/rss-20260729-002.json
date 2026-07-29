@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-002",
+  "source": "rss",
+  "source_url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+  "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+  "summary": "This article provides in-depth guidance on optimizing SQLite for production environments, focusing on WAL (Write-Ahead Logging) mode configuration, handling high-concurrency scenarios, and customizing VFS (Virtual File System) layers to achieve low-latency performance for application servers.",
+  "tech_stack": [
+    "SQLite",
+    "WAL Mode",
+    "VFS",
+    "C",
+    "Linux"
+  ],
+  "problem_solved": "Enables developers to deploy SQLite as a viable production-grade database by optimizing for low-latency and high-concurrency requirements.",
+  "why_valuable": "SQLite is often overlooked for production use, but with proper optimization of WAL mode and VFS layers, it can handle demanding workloads while maintaining simplicity and reliability.",
+  "tags": [
+    "SQLite",
+    "Database",
+    "Performance",
+    "WAL",
+    "VFS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-29T10:46:49.862490+00:00",
+  "updated_at": "2026-07-29T10:53:11.351826+00:00",
+  "published_to": []
+}

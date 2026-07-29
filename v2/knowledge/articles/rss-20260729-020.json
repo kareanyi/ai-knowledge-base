@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-020",
+  "source": "rss",
+  "source_url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+  "title": "Now is the time to give LLMs access to the ACM digital library",
+  "summary": "This opinion piece argues that ACM should grant Large Language Models access to the ACM Digital Library, enabling AI systems to provide accurate, cited computer science research to users and potentially revolutionizing how researchers and students access academic knowledge.",
+  "tech_stack": [
+    "Large Language Models",
+    "Digital Libraries",
+    "Academic Publishing",
+    "Information Retrieval",
+    "AI-powered Search"
+  ],
+  "problem_solved": "LLMs currently lack access to quality-controlled computer science research, limiting their ability to provide accurate, up-to-date academic information in the field.",
+  "why_valuable": "Granting LLM access to academic databases like ACM Digital Library could democratize access to scientific knowledge, improve AI accuracy in technical domains, and accelerate research discovery.",
+  "tags": [
+    "AI Ethics",
+    "Academic Publishing",
+    "Research Access",
+    "LLM",
+    "Open Knowledge"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:50:42.803728+00:00",
+  "updated_at": "2026-07-29T10:53:11.361512+00:00",
+  "published_to": []
+}

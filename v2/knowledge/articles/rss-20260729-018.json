@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-018",
+  "source": "rss",
+  "source_url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+  "title": "Kimi K3 Architecture Overview and Notes",
+  "summary": "Sebastian Raschka provides a detailed technical analysis of Kimi K3's model architecture, examining its components, innovations, and design choices. The article breaks down the architectural decisions that make Kimi K3 effective for large language model tasks.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "Deep Learning",
+    "LLM Architecture"
+  ],
+  "problem_solved": "Helps technical readers understand the internal architecture and design decisions of the Kimi K3 large language model",
+  "why_valuable": "Provides expert-level technical insights into modern LLM architecture design from a recognized AI researcher, enabling practitioners to learn from cutting-edge implementations",
+  "tags": [
+    "LLM",
+    "Architecture",
+    "AI Research",
+    "Transformers",
+    "Deep Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-29T10:50:15.504698+00:00",
+  "updated_at": "2026-07-29T10:53:11.361116+00:00",
+  "published_to": []
+}

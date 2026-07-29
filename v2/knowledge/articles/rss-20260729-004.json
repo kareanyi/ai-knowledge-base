@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-004",
+  "source": "rss",
+  "source_url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+  "title": "Cracking Windows Open: Porting RADV to Win32",
+  "summary": "Collabora engineers detail the technical challenges of porting RADV, the open-source AMD Vulkan driver built on Mesa/ACO compiler infrastructure, to run on Windows. The project involves adapting the Mesa gallium architecture and LLVM-based shader compilation pipeline to work with Windows kernel APIs and WDDM driver model.",
+  "tech_stack": [
+    "RADV",
+    "Mesa",
+    "Vulkan API",
+    "Windows/WDDM",
+    "LLVM/ACO"
+  ],
+  "problem_solved": "Brings AMD's open-source Vulkan driver technology from Linux to Windows, enabling alternative driver options for Windows users with AMD GPUs.",
+  "why_valuable": "Provides an open-source Vulkan driver alternative for Windows AMD users, potentially offering performance improvements and community-driven development over proprietary drivers.",
+  "tags": [
+    "GPU Drivers",
+    "Vulkan",
+    "AMD",
+    "Mesa",
+    "Cross-Platform"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-29T10:47:16.998380+00:00",
+  "updated_at": "2026-07-29T10:53:11.352262+00:00",
+  "published_to": []
+}

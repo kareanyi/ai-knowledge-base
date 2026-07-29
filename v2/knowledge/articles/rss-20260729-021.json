@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+  "title": "Google AI Overviews become more common in search",
+  "summary": "Google's AI-generated search summaries now appear in 43% of US searches, nearly tripling from 15% a year ago according to Similarweb's 2026 Generative AI Landscape report. The AI Overviews feature displays AI-generated summaries within conventional search results, while AI Mode offers a conversational interface for complex queries and follow-up interactions.",
+  "tech_stack": [
+    "Google AI Overviews",
+    "AI Mode",
+    "Similarweb Analytics",
+    "Generative AI",
+    "Search Engine AI"
+  ],
+  "problem_solved": "Demonstrates the rapid mainstream adoption rate of AI-generated content in traditional search engine experiences.",
+  "why_valuable": "Provides critical market intelligence data showing how quickly AI is being integrated into everyday search behavior, with adoption nearly tripling in one year.",
+  "tags": [
+    "Google AI",
+    "Search AI",
+    "AI Adoption",
+    "Market Intelligence",
+    "Generative AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-29T10:50:55.394248+00:00",
+  "updated_at": "2026-07-29T10:53:11.361713+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260729-019",
+  "source": "rss",
+  "source_url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+  "title": "Zig's Incremental Compilation Internals",
+  "summary": "This article provides an in-depth technical exploration of how Zig implements incremental compilation, explaining the internal mechanisms for dependency tracking, invalidation, and selective recompilation. The author examines the data structures and algorithms that enable Zig to achieve its signature fast incremental build times by only re-analyzing changed code and its affected dependencies.",
+  "tech_stack": [
+    "Zig",
+    "Compiler Design",
+    "Build Systems",
+    "LLVM"
+  ],
+  "problem_solved": "Explains how incremental compilation tracks code changes and rebuilds only necessary parts to achieve fast rebuild times.",
+  "why_valuable": "Provides rare insight into compiler internals, helping developers understand why Zig builds are significantly faster than traditional compiled languages and enabling future contributors to work on the build system.",
+  "tags": [
+    "Zig",
+    "Compiler",
+    "Incremental Compilation",
+    "Build Systems",
+    "Programming Languages"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-29T10:50:31.048168+00:00",
+  "updated_at": "2026-07-29T10:53:11.361312+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-003",
+  "source": "rss",
+  "source_url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+  "title": "More Tailscale tricks for your jailbroken Kindle",
+  "summary": "This article explores creative ways to run Tailscale VPN on a jailbroken Kindle e-reader, demonstrating different TUN modes and proxy configurations to extend networking capabilities beyond the device's original design.",
+  "tech_stack": [
+    "Tailscale",
+    "Linux",
+    "Kindle",
+    "Proxy",
+    "TUN mode"
+  ],
+  "problem_solved": "Enables VPN connectivity and secure networking on a Kindle e-reader for proxy and remote access purposes.",
+  "why_valuable": "Demonstrates creative hardware repurposing and shows Tailscale's versatility running on unconventional embedded devices.",
+  "tags": [
+    "VPN",
+    "Hardware Hacking",
+    "Kindle",
+    "Networking",
+    "Tailscale"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-29T10:47:03.224726+00:00",
+  "updated_at": "2026-07-29T10:53:11.352030+00:00",
+  "published_to": []
+}

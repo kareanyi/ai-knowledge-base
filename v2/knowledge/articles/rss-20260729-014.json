@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260729-014",
+  "source": "rss",
+  "source_url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+  "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+  "summary": "Apple is transitioning from the iPhone Upgrade Program to a new Apple Upgrade program, which offers customers an easier way to finance and upgrade their iPhones on an annual basis with the latest models.",
+  "tech_stack": [
+    "Apple Retail Services",
+    "FinTech",
+    "E-commerce"
+  ],
+  "problem_solved": "Simplifies iPhone financing and annual upgrade options for consumers.",
+  "why_valuable": "Provides accessible payment options for customers to get the latest iPhone every year with flexible financing terms.",
+  "tags": [
+    "Apple",
+    "iPhone",
+    "Consumer Electronics",
+    "FinTech",
+    "Retail"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-29T10:49:30.603326+00:00",
+  "updated_at": "2026-07-29T10:53:11.360286+00:00",
+  "published_to": []
+}

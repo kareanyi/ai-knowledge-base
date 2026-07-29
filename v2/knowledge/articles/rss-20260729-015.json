@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-015",
+  "source": "rss",
+  "source_url": "https://sbcl.org/all-news.html?2.6.7",
+  "title": "Steel Bank Common Lisp version 2.6.7",
+  "summary": "Steel Bank Common Lisp (SBCL) version 2.6.7 is a minor patch release of the popular open-source Common Lisp compiler and runtime. The release includes bug fixes, performance improvements, and compatibility updates for the Lisp community. This announcement received significant attention on Hacker News with 239 points and 105 comments.",
+  "tech_stack": [
+    "Common Lisp",
+    "SBCL",
+    "ASDF",
+    "FFI",
+    "Threads"
+  ],
+  "problem_solved": "Provides a stable, high-performance Common Lisp implementation with bug fixes and incremental improvements for developers building software in Lisp.",
+  "why_valuable": "SBCL is one of the most widely-used open-source Lisp implementations, and this patch release ensures continued stability and bug fixes for the community.",
+  "tags": [
+    "Lisp",
+    "Compiler",
+    "OpenSource",
+    "ProgrammingLanguage",
+    "Release"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:49:40.986868+00:00",
+  "updated_at": "2026-07-29T10:53:11.360478+00:00",
+  "published_to": []
+}

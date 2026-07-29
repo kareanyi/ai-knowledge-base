@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-005",
+  "source": "rss",
+  "source_url": "https://www.datagubbe.se/scenegui/",
+  "title": "User Interfaces of the Demo Scene",
+  "summary": "A historical exploration of graphical user interface designs created within the demo scene community, examining how these pioneering computer artists influenced modern UI/UX aesthetics through their innovative use of typography, color, and layout in real-time audiovisual presentations.",
+  "tech_stack": [
+    "HTML/CSS",
+    "Computer Graphics",
+    "Assembly Language",
+    "Real-time Rendering",
+    "Web Articles"
+  ],
+  "problem_solved": "Documents and preserves the often overlooked influence of demo scene UI design on contemporary computer interfaces",
+  "why_valuable": "Provides rare historical insight into a creative computing subculture that significantly shaped graphical user interface design aesthetics",
+  "tags": [
+    "Demo Scene",
+    "UI Design",
+    "Computer History",
+    "Retro Computing",
+    "Graphics Art"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-29T10:47:28.919268+00:00",
+  "updated_at": "2026-07-29T10:53:11.352460+00:00",
+  "published_to": []
+}

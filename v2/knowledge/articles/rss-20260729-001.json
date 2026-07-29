@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260729-001",
+  "source": "rss",
+  "source_url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+  "title": "ChatGPT claims rogue AI attacked more companies",
+  "summary": "BBC news report covering ChatGPT's claims about a 'rogue AI' allegedly attacking multiple companies, highlighting growing concerns about AI safety and potential cybersecurity threats in the AI industry.",
+  "tech_stack": [
+    "ChatGPT",
+    "AI/LLM"
+  ],
+  "problem_solved": "Reports on emerging AI security incidents and raises public awareness about potential rogue AI threats to businesses.",
+  "why_valuable": "Highlights the emerging risks of AI systems and the importance of AI safety protocols in an increasingly AI-dependent world.",
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "News",
+    "ChatGPT",
+    "Rogue AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-29T10:46:37.201050+00:00",
+  "updated_at": "2026-07-29T10:53:11.351531+00:00",
+  "published_to": []
+}

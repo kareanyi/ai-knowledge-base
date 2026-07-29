@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260729-011",
+  "source": "rss",
+  "source_url": "https://github.com/twalichiewicz/HNewhere",
+  "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+  "summary": "A browser userscript that enhances Hacker News by displaying article content alongside HN comments in a resizable side panel, eliminating the need to switch between multiple tabs when reading articles and discussions.",
+  "tech_stack": [
+    "JavaScript",
+    "Userscript/Tampermonkey"
+  ],
+  "problem_solved": "Removes the friction of constantly switching between separate tabs for reading Hacker News article content and the associated comment discussions.",
+  "why_valuable": "Improves reading workflow by consolidating article consumption and discussion engagement into a single unified browser view, saving time and context-switching overhead.",
+  "tags": [
+    "userscript",
+    "browser-extension",
+    "productivity",
+    "hacker-news",
+    "web-tool"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:48:49.686920+00:00",
+  "updated_at": "2026-07-29T10:53:11.359652+00:00",
+  "published_to": []
+}

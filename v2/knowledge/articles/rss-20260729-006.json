@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-006",
+  "source": "rss",
+  "source_url": "https://transformer-transformer.github.io/",
+  "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+  "summary": "This research presents a unified transformer-based framework for robot co-design that jointly optimizes robot morphology and motion control. The model leverages transformer architectures to learn the relationship between desired motions and optimal physical robot structures, enabling designers to specify motion requirements and automatically generate suitable robot designs.",
+  "tech_stack": [
+    "Transformers",
+    "Deep Learning",
+    "Robot Co-Design",
+    "PyTorch",
+    "Computer Vision"
+  ],
+  "problem_solved": "Simultaneously designing robot morphology and motion control rather than treating them as separate optimization problems",
+  "why_valuable": "Enables automated, unified robot design where physical structure is directly optimized for specific motion tasks, reducing manual trial-and-error in robot development.",
+  "tags": [
+    "Robot Co-Design",
+    "Transformers",
+    "Morphology Design",
+    "Motion Planning",
+    "Deep Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:47:41.448453+00:00",
+  "updated_at": "2026-07-29T10:53:11.352654+00:00",
+  "published_to": []
+}

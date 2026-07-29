@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-010",
+  "source": "rss",
+  "source_url": "https://reframe.camera/",
+  "title": "ReFrame – The EPaper Camera",
+  "summary": "ReFrame is an innovative camera project that utilizes e-paper display technology to create a unique photography device with minimalist design and ultra-low power consumption. The camera likely captures images and displays them on an e-ink screen, offering a distinct analog-like digital photography experience.",
+  "tech_stack": [
+    "E-Paper Display",
+    "Embedded Systems",
+    "Microcontroller",
+    "Hardware Design",
+    "Low-Power Electronics"
+  ],
+  "problem_solved": "Provides a sustainable, low-power alternative to traditional digital cameras for minimalist photography enthusiasts.",
+  "why_valuable": "Combines the instant gratification of digital photography with the aesthetic of physical paper prints, while dramatically reducing power consumption for extended battery life.",
+  "tags": [
+    "E-Paper",
+    "Camera",
+    "Hardware",
+    "IoT",
+    "Minimalism"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:48:37.384941+00:00",
+  "updated_at": "2026-07-29T10:53:11.353468+00:00",
+  "published_to": []
+}

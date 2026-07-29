@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-016",
+  "source": "rss",
+  "source_url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+  "title": "Substack writers, you need a website",
+  "summary": "The article argues that Substack writers should build their own independent website to avoid platform dependency risks, maintain full control over their audience and content, and create a more sustainable long-term content business.",
+  "tech_stack": [
+    "WordPress",
+    "Static Site Generators",
+    "Newsletter Platforms",
+    "CMS",
+    "Web Hosting"
+  ],
+  "problem_solved": "Addresses the risk of relying entirely on third-party newsletter platforms like Substack, where writers have limited control over their audience and content distribution.",
+  "why_valuable": "Provides practical guidance for content creators on diversifying their digital presence and protecting their content business from platform changes or shutdowns.",
+  "tags": [
+    "Content Creation",
+    "Newsletter",
+    "Platform Independence",
+    "Personal Branding",
+    "Digital Publishing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-29T10:49:51.492890+00:00",
+  "updated_at": "2026-07-29T10:53:11.360679+00:00",
+  "published_to": []
+}
