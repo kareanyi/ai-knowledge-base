@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-019",
+  "source": "rss",
+  "source_url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+  "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+  "summary": "Major AI companies including Microsoft, Google, and Amazon are hiring thousands of electricians, carpenters, and other trade workers to construct data centers across the country, driven by the massive electricity demands of AI infrastructure. This represents a significant shift in the AI industry's workforce needs, creating blue-collar job opportunities in parallel with the high-profile AI research roles.",
+  "tech_stack": [
+    "Data Centers",
+    "AI Infrastructure",
+    "Electrical Systems",
+    "HVAC",
+    "Construction Management"
+  ],
+  "problem_solved": "Addresses the infrastructure bottleneck facing AI expansion by highlighting the massive physical construction workforce needed to support AI computational demands.",
+  "why_valuable": "Reveals the often-overlooked physical labor reality behind AI development and the unexpected job creation in traditional trades sectors driven by the AI boom.",
+  "tags": [
+    "AI Industry",
+    "Data Centers",
+    "Construction Jobs",
+    "Infrastructure",
+    "Workforce Trends"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:37:28.143477+00:00",
+  "updated_at": "2026-07-30T10:39:47.923551+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+  "title": "OpenAI report links coding agents to faster science software builds",
+  "summary": "OpenAI released a field report documenting 8 scientific computing projects where AI coding agents significantly reduced build times and runtimes. The projects used either OpenAI's Codex alone (5 cases) or a combination of Codex and Anthropic's Claude Code (3 cases), demonstrating the practical impact of AI-assisted development in research environments.",
+  "tech_stack": [
+    "OpenAI Codex",
+    "Claude Code",
+    "Anthropic",
+    "Scientific Computing",
+    "AI Agents"
+  ],
+  "problem_solved": "Accelerates scientific software development cycles and reduces computational build times by automating code generation and optimization tasks.",
+  "why_valuable": "Provides empirical evidence that AI coding agents can meaningfully improve productivity in scientific computing, a domain traditionally requiring deep technical expertise and extensive development time.",
+  "tags": [
+    "AI Agents",
+    "Scientific Computing",
+    "OpenAI",
+    "Coding Automation",
+    "Research Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:37:36.537476+00:00",
+  "updated_at": "2026-07-30T10:39:47.923741+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-012",
+  "source": "rss",
+  "source_url": "https://prilik.com/blog/post/automating-ac-nyc/",
+  "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+  "summary": "The author describes a DIY project to make a standard window air conditioner smart using an ESP32 microcontroller with IR control, allowing remote and automated temperature control without modifying the apartment, ensuring no damage to the security deposit.",
+  "tech_stack": [
+    "ESP32",
+    "IR (Infrared)",
+    "Home Assistant",
+    "MQTT",
+    "Temperature Sensors"
+  ],
+  "problem_solved": "Transforms a basic, non-smart AC unit into an automated climate control system that can be controlled remotely while maintaining renter-friendly, non-destructive installation.",
+  "why_valuable": "Provides an affordable DIY alternative to expensive smart AC units, costing around $20-30 in parts while preserving apartment deposits for renters who cannot make permanent modifications.",
+  "tags": [
+    "IoT",
+    "Home Automation",
+    "ESP32",
+    "DIY",
+    "Smart Home"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-30T10:35:40.137728+00:00",
+  "updated_at": "2026-07-30T10:39:47.922328+00:00",
+  "published_to": []
+}

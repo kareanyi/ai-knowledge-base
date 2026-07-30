@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-007",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+  "title": "AI's top startups are barely publishing their research",
+  "summary": "Science magazine reports that leading AI startups like OpenAI and Anthropic are dramatically reducing their publication of academic research, reversing the open-source culture that historically drove AI advancement. This shift toward proprietary development raises concerns about scientific transparency, reproducibility, and the concentration of AI knowledge in private hands.",
+  "tech_stack": [
+    "AI Research",
+    "Machine Learning",
+    "Large Language Models",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+  "problem_solved": "The article examines the tension between commercial interests and open scientific collaboration in the AI industry.",
+  "why_valuable": "It highlights a critical concern about declining transparency in AI development and its implications for scientific progress, safety research, and public accountability.",
+  "tags": [
+    "AI Industry",
+    "Open Science",
+    "Research Transparency",
+    "AI Ethics",
+    "Tech Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-30T10:34:30.720798+00:00",
+  "updated_at": "2026-07-30T10:39:47.914644+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-002",
+  "source": "rss",
+  "source_url": "https://noelo.org/blog/kuna-release/",
+  "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+  "summary": "Kuna is a decompiler development project designed to work effectively with modern AI coding agents, representing a new approach to reverse engineering tools that leverage LLM capabilities for improved code analysis and reconstruction.",
+  "tech_stack": [
+    "Python",
+    "LLVM",
+    "Reverse Engineering",
+    "LLM/AI Agents",
+    "Binary Analysis"
+  ],
+  "problem_solved": "Makes decompiler development more tractable by integrating AI coding agents into the development workflow, enabling faster iteration and better results in creating tools that convert binary code back to readable source.",
+  "why_valuable": "Enables security researchers and developers to build more capable decompilers faster by treating AI agents as collaborative developers, potentially lowering the barrier to entry for reverse engineering tasks.",
+  "tags": [
+    "Decompiler",
+    "Reverse Engineering",
+    "AI Agents",
+    "Security Research",
+    "Binary Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:33:26.792944+00:00",
+  "updated_at": "2026-07-30T10:39:47.913714+00:00",
+  "published_to": []
+}

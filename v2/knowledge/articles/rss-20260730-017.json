@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-017",
+  "source": "rss",
+  "source_url": "https://www.superlogical.com/",
+  "title": "Superlogical",
+  "summary": "A thought-provoking article by Mitchell Hashimoto exploring the concept of 'superlogical' thinking - the ability to operate beyond conventional linear logic when building complex systems and organizations at scale. The piece discusses how exceptional founders and engineers develop intuitive, non-linear decision-making frameworks that allow them to solve problems that appear logically unsolvable.",
+  "tech_stack": [
+    "Systems Design",
+    "Distributed Systems",
+    "Organizational Design",
+    "Management",
+    "Engineering Leadership"
+  ],
+  "problem_solved": "Explains why conventional logical thinking has limits when scaling complex technical systems and organizations, and how to develop superior decision-making frameworks.",
+  "why_valuable": "Provides mental models for founders and engineers to transcend linear thinking and tackle seemingly impossible scaling challenges that require intuition, experience, and systems-level understanding.",
+  "tags": [
+    "Systems Thinking",
+    "Leadership",
+    "Engineering",
+    "Scaling",
+    "Decision Making"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-07-30T10:36:58.121739+00:00",
+  "updated_at": "2026-07-30T10:39:47.923220+00:00",
+  "published_to": []
+}

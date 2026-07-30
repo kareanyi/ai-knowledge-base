@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-014",
+  "source": "rss",
+  "source_url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+  "title": "Some thoughts about Anthropic's new cryptanalysis results",
+  "summary": "A technical analysis by cryptography expert Matthew Green examining new research from Anthropic regarding AI capabilities in cryptanalysis, discussing the implications of machine learning approaches for breaking or analyzing cryptographic systems.",
+  "tech_stack": [
+    "Cryptography",
+    "Machine Learning",
+    "AI/LLM",
+    "Block Ciphers",
+    "Hash Functions"
+  ],
+  "problem_solved": "Evaluates whether Anthropic's AI systems can meaningfully advance cryptanalysis capabilities against modern cryptographic primitives.",
+  "why_valuable": "Provides expert cryptographic analysis of AI's real-world threat to encryption systems, separating hype from genuine security implications for practitioners.",
+  "tags": [
+    "Cryptanalysis",
+    "AI Security",
+    "Cryptography",
+    "Machine Learning",
+    "Encryption"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:36:22.597451+00:00",
+  "updated_at": "2026-07-30T10:39:47.922710+00:00",
+  "published_to": []
+}

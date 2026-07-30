@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-003",
+  "source": "rss",
+  "source_url": "https://logicforprogrammers.com/",
+  "title": "Logic for Programmers",
+  "summary": "A free interactive book teaching mathematical logic specifically designed for programmers who want to understand formal reasoning, proofs, and logical foundations that underlie computer science and software development.",
+  "tech_stack": [
+    "Mathematical Logic",
+    "Proof Theory",
+    "Set Theory",
+    "Interactive Learning",
+    "Computer Science Fundamentals"
+  ],
+  "problem_solved": "Helps programmers bridge the gap between intuitive coding and rigorous mathematical reasoning needed for advanced programming, algorithm design, and formal verification.",
+  "why_valuable": "Makes abstract mathematical logic accessible and practical for developers through programming-focused explanations, transforming theoretical concepts into applicable skills for writing more reliable and correct software.",
+  "tags": [
+    "Logic",
+    "Mathematics",
+    "Education",
+    "Computer Science",
+    "Proofs"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-30T10:33:36.025590+00:00",
+  "updated_at": "2026-07-30T10:39:47.913905+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-011",
+  "source": "rss",
+  "source_url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+  "title": "Kimi K3-256k",
+  "summary": "Kimi K3-256k 是月之暗面（Moonshot AI）公司推出的大语言模型，具有 256K tokens 的超长上下文窗口能力，专为代码生成和复杂推理任务设计。",
+  "tech_stack": [
+    "Large Language Model",
+    "Long Context Window",
+    "Code Generation",
+    "Moonshot AI",
+    "Transformer Architecture"
+  ],
+  "problem_solved": "解决大语言模型在处理长代码文件和多轮对话时上下文长度限制的问题",
+  "why_valuable": "256K 超长上下文窗口使模型能够一次性处理整个大型代码库，显著提升代码理解和生成的连贯性与准确性",
+  "tags": [
+    "LLM",
+    "AI Coding",
+    "Long Context",
+    "Moonshot AI",
+    "Code Generation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:35:26.112020+00:00",
+  "updated_at": "2026-07-30T10:39:47.922108+00:00",
+  "published_to": []
+}

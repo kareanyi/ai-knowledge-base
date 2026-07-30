@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260730-001",
+  "source": "rss",
+  "source_url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+  "title": "Why the future is local app",
+  "summary": "This article discusses the growing trend toward local-first applications, arguing that local/desktop software offers advantages in privacy, performance, offline capability, and user control compared to cloud-dependent services. The author makes a case for why software that runs locally on user devices represents the future of computing.",
+  "tech_stack": [
+    "Local-First Software",
+    "Desktop Applications",
+    "PWA",
+    "Self-Hosted Solutions"
+  ],
+  "problem_solved": "Addresses the issues of privacy concerns, dependency on internet connectivity, and reduced user control inherent in cloud-based software.",
+  "why_valuable": "It provides perspective on an emerging architectural shift in software development toward local-first approaches, which is increasingly relevant as users become more concerned about data privacy and service availability.",
+  "tags": [
+    "local-first",
+    "desktop-apps",
+    "privacy",
+    "offline-first",
+    "self-hosted"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-07-30T10:33:12.036960+00:00",
+  "updated_at": "2026-07-30T10:39:47.913367+00:00",
+  "published_to": []
+}

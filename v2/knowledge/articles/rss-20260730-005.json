@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260730-005",
+  "source": "rss",
+  "source_url": "https://archive.org/details/mancomputerbyjoh0000john",
+  "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+  "summary": "A 1972 book by John G. Kemeny, co-creator of BASIC programming language, exploring the relationship between humans and computers, their roles, and the societal implications of computing technology.",
+  "tech_stack": [
+    "Computing Theory",
+    "BASIC",
+    "Programming"
+  ],
+  "problem_solved": "Provides philosophical and practical perspectives on human-computer interaction and the role of computers in society.",
+  "why_valuable": "Offers insights from a computing pioneer that remain relevant for understanding the human-computer relationship and the social impact of technology.",
+  "tags": [
+    "Computing History",
+    "BASIC",
+    "Human-Computer Interaction",
+    "Technology Philosophy",
+    "Software History"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-30T10:34:00.967538+00:00",
+  "updated_at": "2026-07-30T10:39:47.914248+00:00",
+  "published_to": []
+}

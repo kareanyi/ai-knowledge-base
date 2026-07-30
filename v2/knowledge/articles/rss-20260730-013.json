@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260730-013",
+  "source": "rss",
+  "source_url": "https://cheapfoodmap.com/",
+  "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+  "summary": "CheapFoodMap is a crowdsourced map application that helps users find quality meals under $10 at local restaurants (excluding franchises). Created by someone laid off after 18 years as a 100-day challenge, it covers 1200 meals across 15 US cities with heaviest coverage in Texas.",
+  "tech_stack": [
+    "Web Application",
+    "Crowdsourced Data",
+    "Google Reviews API",
+    "Map Platform"
+  ],
+  "problem_solved": "Helps budget-conscious people find affordable, high-quality local meals during times of economic uncertainty",
+  "why_valuable": "Provides a practical solution for people facing financial constraints to discover hidden gem restaurants at affordable prices",
+  "tags": [
+    "Crowdsourcing",
+    "Food Map",
+    "Budget Dining",
+    "Local Discovery",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:36:08.511694+00:00",
+  "updated_at": "2026-07-30T10:39:47.922513+00:00",
+  "published_to": []
+}

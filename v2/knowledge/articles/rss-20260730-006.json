@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-006",
+  "source": "rss",
+  "source_url": "https://llm2human.pages.dev/",
+  "title": "LLM Honeypot",
+  "summary": "LLM Honeypot (llm2human) is a security/privacy tool that helps make AI-generated text less detectable by LLM detection systems. It's a countermeasure against AI content classifiers, essentially creating a 'honeypot' to trap or evade AI detection mechanisms.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "Browser-based",
+    "Prompt Engineering",
+    "AI/ML Defense"
+  ],
+  "problem_solved": "Prevents AI-generated content from being detected by LLM classifiers and content moderation systems",
+  "why_valuable": "Provides privacy protection and bypasses increasingly common AI content detection requirements",
+  "tags": [
+    "Privacy",
+    "AI Detection",
+    "Security",
+    "Evasion",
+    "Content Moderation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:34:16.432298+00:00",
+  "updated_at": "2026-07-30T10:39:47.914412+00:00",
+  "published_to": []
+}

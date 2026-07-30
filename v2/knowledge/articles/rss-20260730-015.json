@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-015",
+  "source": "rss",
+  "source_url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+  "title": "Keychron announces first open-source firmware for gaming mice",
+  "summary": "Keychron, a peripheral manufacturer known for mechanical keyboards, has announced its first open-source firmware for gaming mice, marking a significant move toward transparency and community-driven hardware development in the gaming peripherals market.",
+  "tech_stack": [
+    "Open-source Firmware",
+    "Embedded Systems",
+    "Gaming Hardware",
+    "C Programming",
+    "Hardware Customization"
+  ],
+  "problem_solved": "Enables users to inspect, modify, and customize their gaming mouse firmware instead of being locked into proprietary software.",
+  "why_valuable": "Open-source firmware empowers users with full control over their hardware, promotes security transparency, and allows the community to contribute improvements and fixes.",
+  "tags": [
+    "Open Source",
+    "Gaming Peripherals",
+    "Firmware",
+    "Hardware Hacking",
+    "Community-driven"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-30T10:36:34.998722+00:00",
+  "updated_at": "2026-07-30T10:39:47.922884+00:00",
+  "published_to": []
+}
