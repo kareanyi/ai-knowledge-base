@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260731-010",
+  "source": "rss",
+  "source_url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+  "title": "The AI Aesthetic",
+  "summary": "A thoughtful exploration of the emerging visual and design language of AI-generated content, examining how AI outputs have developed distinctive aesthetic patterns and the implications for designers and users navigating this new creative landscape.",
+  "tech_stack": [
+    "Design",
+    "UI/UX",
+    "Visual Design",
+    "Web Design"
+  ],
+  "problem_solved": "Addresses the question of what constitutes 'AI aesthetic' and why AI-generated content tends to share recognizable visual characteristics.",
+  "why_valuable": "Helps designers and developers understand and navigate the unique visual language emerging from AI tools, enabling more intentional and human-centered design decisions.",
+  "tags": [
+    "AI",
+    "Design",
+    "Aesthetics",
+    "UX",
+    "Visual Design"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:48:08.644335+00:00",
+  "updated_at": "2026-07-31T10:50:20.341017+00:00",
+  "published_to": []
+}

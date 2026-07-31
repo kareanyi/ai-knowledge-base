@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-012",
+  "source": "rss",
+  "source_url": "https://rune.build/blog/rune-1-1-release",
+  "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+  "summary": "Rune 1.1 is a development tool that now adds Python support, an Emacs editor integration, and a symbol index feature. The release also marks Rune's transition to a free model, making it more accessible to developers. This update significantly expands its language support beyond its original offerings and improves code navigation capabilities.",
+  "tech_stack": [
+    "Rust",
+    "Python",
+    "Emacs",
+    "WebAssembly",
+    "Symbol Index"
+  ],
+  "problem_solved": "Provides developers with a unified, free development environment supporting multiple programming languages with advanced code navigation features.",
+  "why_valuable": "By becoming free and adding Python support alongside existing language capabilities, Rune lowers barriers to entry for developers seeking a flexible, multi-language development tool.",
+  "tags": [
+    "Development Tool",
+    "Python",
+    "Emacs",
+    "Code Editor",
+    "Free Software"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-31T10:48:36.363381+00:00",
+  "updated_at": "2026-07-31T10:50:20.348301+00:00",
+  "published_to": []
+}

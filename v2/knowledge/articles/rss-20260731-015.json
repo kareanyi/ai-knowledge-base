@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-015",
+  "source": "rss",
+  "source_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+  "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+  "summary": "A research team distilled DeepSeek V4 Flash into GPT-OSS-120B for finance reasoning tasks, achieving 83.61% on FinanceReasoning benchmark (surpassing Kimi K3 at 81.93%). They released 20B open weights and importantly found that censorship characteristics from the teacher model did not transfer to the distilled student model.",
+  "tech_stack": [
+    "DeepSeek V4 Flash",
+    "GPT-OSS-120B",
+    "Knowledge Distillation",
+    "FinanceReasoning",
+    "LLM Fine-tuning"
+  ],
+  "problem_solved": "Tests whether content moderation/censorship policies transfer from teacher models to student models during knowledge distillation",
+  "why_valuable": "Demonstrates that model capabilities can be transferred without inheriting the teacher's content policies, which has significant implications for open-source AI development and model safety research",
+  "tags": [
+    "LLM",
+    "Knowledge Distillation",
+    "AI Safety",
+    "Model Training",
+    "Censorship Transfer"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:49:15.469805+00:00",
+  "updated_at": "2026-07-31T10:50:20.348989+00:00",
+  "published_to": []
+}

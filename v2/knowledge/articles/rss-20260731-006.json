@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260731-006",
+  "source": "rss",
+  "source_url": "https://marbleos.com/demo",
+  "title": "Show HN: What should the GUI for AI agents look like?",
+  "summary": "MarbleOS is a new GUI concept for AI agents, inspired by Xerox PARC, Macintosh 1984, and NeXTSTEP. The project aims to make AI capabilities visible and intuitive through visual interfaces, similar to how early GUIs replaced cryptic terminal commands with point-and-click interactions. The creators seek community feedback on their vision for the future of AI interaction design.",
+  "tech_stack": [
+    "Web Technologies",
+    "GUI Framework",
+    "Demo Application"
+  ],
+  "problem_solved": "Making AI agent capabilities visible and accessible through intuitive visual interfaces instead of opaque command-based interactions.",
+  "why_valuable": "It could democratize AI agent usage by applying proven GUI paradigms to AI interactions, making complex AI capabilities as easy to use as dragging files on a desktop.",
+  "tags": [
+    "AI Agents",
+    "GUI Design",
+    "User Interface",
+    "Human-Computer Interaction",
+    "UX Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-31T10:47:21.646069+00:00",
+  "updated_at": "2026-07-31T10:50:20.340184+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-008",
+  "source": "rss",
+  "source_url": "https://earendil.com/posts/session-portability/",
+  "title": "The session you cannot take with you",
+  "summary": "This article explores the technical limitations of web session portability, discussing why user authentication sessions cannot be easily transferred or shared across different devices, browsers, or contexts. It examines the architectural constraints of traditional session management and cookie-based authentication systems.",
+  "tech_stack": [
+    "HTTP Cookies",
+    "Web Authentication",
+    "Session Management",
+    "Browser Security",
+    "OAuth"
+  ],
+  "problem_solved": "Explains why web sessions are inherently device-bound and cannot be easily portable across different contexts or shared between users.",
+  "why_valuable": "Provides deep insight into the fundamental security trade-offs and technical constraints that make session portability challenging in web applications.",
+  "tags": [
+    "Web Security",
+    "Authentication",
+    "Sessions",
+    "Cookies",
+    "Browser Architecture"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:47:47.065663+00:00",
+  "updated_at": "2026-07-31T10:50:20.340622+00:00",
+  "published_to": []
+}

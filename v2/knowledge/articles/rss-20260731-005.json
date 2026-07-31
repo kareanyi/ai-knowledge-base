@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260731-005",
+  "source": "rss",
+  "source_url": "https://github.com/mokshablr/gander",
+  "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+  "summary": "Gander is a privacy-focused Android file viewer that supports PDF, Office documents, images, videos, audio, Markdown, and code files while requiring zero permissions, solving the common dilemma of choosing between bloated apps or privacy-risky viewers.",
+  "tech_stack": [
+    "Android",
+    "Kotlin",
+    "Jetpack Compose"
+  ],
+  "problem_solved": "Eliminates the trade-off between installing large office suites or using file viewers that request excessive permissions and potentially upload user data.",
+  "why_valuable": "It provides a lightweight, privacy-safe solution for viewing multiple file formats without compromising user data or device storage.",
+  "tags": [
+    "Android",
+    "Privacy",
+    "File Viewer",
+    "No-Permission",
+    "Mobile App"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:47:10.664956+00:00",
+  "updated_at": "2026-07-31T10:50:20.339997+00:00",
+  "published_to": []
+}

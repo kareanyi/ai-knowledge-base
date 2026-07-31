@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-004",
+  "source": "rss",
+  "source_url": "https://api-docs.deepseek.com/updates/",
+  "title": "DeepSeek-V4-Flash Update",
+  "summary": "DeepSeek 发布了 V4-Flash 版本的 API 更新，这是一个针对快速推理优化的轻量级 AI 模型版本，提供了更快的响应速度和更低的成本，适合需要高效处理的开发者场景。",
+  "tech_stack": [
+    "DeepSeek V4",
+    "LLM API",
+    "Python",
+    "REST API",
+    "Model Distillation"
+  ],
+  "problem_solved": "解决了开发者在需要快速响应和低延迟的 AI 应用场景中，平衡性能与成本的需求。",
+  "why_valuable": "Flash 版本通过优化推理速度显著降低了延迟，同时保持竞争力的价格，为构建实时 AI 应用提供了实用的选择。",
+  "tags": [
+    "AI",
+    "LLM",
+    "API",
+    "DeepSeek",
+    "Inference Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:46:58.477585+00:00",
+  "updated_at": "2026-07-31T10:50:20.339806+00:00",
+  "published_to": []
+}

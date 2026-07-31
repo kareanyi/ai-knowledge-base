@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260731-017",
+  "source": "rss",
+  "source_url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+  "title": "Read this before you buy that TV streaming stick",
+  "summary": "A cybersecurity article warning consumers about potential security and privacy risks associated with TV streaming sticks, including data harvesting, pre-installed malware, and lack of security updates on cheap or unbranded devices.",
+  "tech_stack": [
+    "Smart TV firmware",
+    "Roku OS",
+    "Android TV",
+    "Amazon Fire OS"
+  ],
+  "problem_solved": "Educates consumers about hidden security and privacy risks when purchasing budget or third-party streaming devices.",
+  "why_valuable": "Raises critical awareness about how streaming devices can compromise user privacy and security through data collection and potential malware.",
+  "tags": [
+    "Cybersecurity",
+    "Privacy",
+    "IoT",
+    "Consumer Tech",
+    "Streaming Devices"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-31T10:49:42.185713+00:00",
+  "updated_at": "2026-07-31T10:50:20.349374+00:00",
+  "published_to": []
+}

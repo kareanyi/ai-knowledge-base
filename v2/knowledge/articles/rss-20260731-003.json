@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260731-003",
+  "source": "rss",
+  "source_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+  "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+  "summary": "Google leveraged AI to dramatically accelerate Chrome security bug detection and fixes, addressing more vulnerabilities in June than in the previous two years combined. The AI-powered approach has transformed their security vulnerability management process.",
+  "tech_stack": [
+    "AI/ML",
+    "Chrome Browser",
+    "Automated Code Analysis",
+    "Security Vulnerability Detection"
+  ],
+  "problem_solved": "Chrome security vulnerabilities were being discovered and patched too slowly, leaving users exposed to potential exploits for extended periods.",
+  "why_valuable": "This demonstrates AI's transformative potential in cybersecurity, enabling faster vulnerability identification that protects billions of Chrome users worldwide.",
+  "tags": [
+    "Cybersecurity",
+    "AI",
+    "Chrome",
+    "Browser Security",
+    "Vulnerability Detection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-31T10:46:45.827084+00:00",
+  "updated_at": "2026-07-31T10:50:20.339580+00:00",
+  "published_to": []
+}

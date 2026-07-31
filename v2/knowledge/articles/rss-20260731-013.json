@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-013",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+  "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+  "summary": "Researchers analyzed DNA and fossils of saber-toothed cats (Smilodon fatalis) and found evidence of severe inbreeding and reduced genetic diversity that likely contributed to their inability to adapt before extinction approximately 10,000 years ago. The study reveals these predators struggled with mobility issues, possibly exacerbated by their genetic deterioration during their final centuries.",
+  "tech_stack": [
+    "Paleogenomics",
+    "Ancient DNA Analysis",
+    "Fossil Morphology",
+    "Comparative Genomics",
+    "Radiocarbon Dating"
+  ],
+  "problem_solved": "Understanding the genetic and physiological factors that led to saber-toothed cat extinction at the end of the Pleistocene epoch.",
+  "why_valuable": "Provides evidence that genetic factors like inbreeding and loss of diversity may have made species more vulnerable to extinction during mass extinction events.",
+  "tags": [
+    "Paleontology",
+    "Genetics",
+    "Extinction",
+    "Prehistoric",
+    "Evolution"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-31T10:48:47.179855+00:00",
+  "updated_at": "2026-07-31T10:50:20.348545+00:00",
+  "published_to": []
+}

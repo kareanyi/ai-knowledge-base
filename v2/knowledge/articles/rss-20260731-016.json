@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-016",
+  "source": "rss",
+  "source_url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+  "title": "CodePen 2.0",
+  "summary": "Chris Coyier discusses the upcoming CodePen 2.0, a major evolution of the popular online code playground for HTML, CSS, and JavaScript. The article explores what new features and improvements might come with this significant version update to the platform used by millions of developers worldwide.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "WebAssembly",
+    "React",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Provides an enhanced online environment for front-end developers to prototype, share, and collaborate on web code snippets and projects.",
+  "why_valuable": "CodePen is a foundational tool in the web development community with millions of users, and a 2.0 version signals major innovation in how developers create and share front-end code.",
+  "tags": [
+    "WebDevelopment",
+    "CodeEditor",
+    "Frontend",
+    "DeveloperTools",
+    "CodePen"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:49:28.681334+00:00",
+  "updated_at": "2026-07-31T10:50:20.349212+00:00",
+  "published_to": []
+}

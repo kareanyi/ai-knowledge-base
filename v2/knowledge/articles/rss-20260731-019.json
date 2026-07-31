@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-019",
+  "source": "rss",
+  "source_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+  "title": "Stacked PRs are now live on GitHub",
+  "summary": "GitHub announced the public preview of Stacked Pull Requests, a feature that allows developers to create chains of related PRs for easier code review and incremental changes. This feature addresses the common challenge of managing large, complex pull requests by breaking them into logical, dependency-linked chunks.",
+  "tech_stack": [
+    "GitHub",
+    "Git",
+    "CI/CD",
+    "Pull Requests",
+    "Code Review"
+  ],
+  "problem_solved": "Solves the problem of unwieldy large pull requests that are difficult to review by enabling developers to stack related changes into manageable, incremental PRs.",
+  "why_valuable": "It significantly improves code review efficiency and developer productivity by allowing smaller, focused changes that are easier to understand, review, and merge independently.",
+  "tags": [
+    "GitHub",
+    "DevOps",
+    "Code Review",
+    "Developer Tools",
+    "Git Workflow"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:50:04.712779+00:00",
+  "updated_at": "2026-07-31T10:50:20.349691+00:00",
+  "published_to": []
+}

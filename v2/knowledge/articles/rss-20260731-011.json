@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260731-011",
+  "source": "rss",
+  "source_url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+  "title": "I flagged two research papers for fake authors and both were accepted as orals",
+  "summary": "A researcher conducted an experiment submitting papers with fake AI-generated author identities to academic conferences, and surprisingly both were accepted as oral presentations, revealing significant vulnerabilities in peer review processes for AI conferences.",
+  "tech_stack": [
+    "AI-generated content"
+  ],
+  "problem_solved": "Exposes how AI conference peer review systems can be gamed through fake author identities and lack of identity verification.",
+  "why_valuable": "Highlights critical integrity issues in academic publishing that could undermine the credibility of AI research if left unaddressed.",
+  "tags": [
+    "Academic Integrity",
+    "Peer Review",
+    "AI Research",
+    "Conference Fraud",
+    "Research Ethics"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:48:22.142403+00:00",
+  "updated_at": "2026-07-31T10:50:20.348087+00:00",
+  "published_to": []
+}

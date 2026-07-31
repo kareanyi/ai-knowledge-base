@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260731-002",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+  "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+  "summary": "Hungary's only nuclear power plant, which provides about half of the country's electricity, has been forced to shut down due to critically low water levels in the Danube River caused by prolonged drought and heatwaves across Europe.",
+  "tech_stack": [
+    "Nuclear Power",
+    "Hydraulic Cooling Systems"
+  ],
+  "problem_solved": "Highlights how climate change-induced water shortages threaten critical energy infrastructure that relies on rivers for cooling.",
+  "why_valuable": "Demonstrates the vulnerability of nuclear energy to extreme weather events and underscores the growing conflict between energy demands and environmental constraints.",
+  "tags": [
+    "climate-change",
+    "nuclear-energy",
+    "drought",
+    "energy-security",
+    "hungary"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-07-31T10:46:35.158397+00:00",
+  "updated_at": "2026-07-31T10:50:20.339340+00:00",
+  "published_to": []
+}

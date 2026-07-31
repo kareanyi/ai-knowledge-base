@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260731-020",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+  "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+  "summary": "Physicists have solved a long-standing muon mystery related to the g-2 experiment, but the solution has revealed inconsistencies with previously accepted experimental results, highlighting the complex and iterative nature of scientific discovery in particle physics.",
+  "tech_stack": [
+    "Particle Physics",
+    "Statistical Analysis",
+    "High-Energy Experiments",
+    "Scientific Method"
+  ],
+  "problem_solved": "Understanding discrepancies in muon magnetic moment measurements that have puzzled physicists for years.",
+  "why_valuable": "Advances fundamental understanding of subatomic particle behavior and demonstrates how scientific consensus evolves through rigorous verification and contradiction.",
+  "tags": [
+    "Physics",
+    "Muons",
+    "Particle Physics",
+    "Scientific Discovery",
+    "Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-07-31T10:50:19.541288+00:00",
+  "updated_at": "2026-07-31T10:50:20.349836+00:00",
+  "published_to": []
+}
