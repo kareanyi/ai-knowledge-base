@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-011",
+  "source": "rss",
+  "source_url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+  "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+  "summary": "This RFC formally deprecates obsolete key exchange methods in TLS 1.2 and DTLS 1.2, including RSA key exchange and Diffie-Hellman with small subgroups, addressing cryptographic vulnerabilities identified over the years.",
+  "tech_stack": [
+    "TLS 1.2",
+    "DTLS 1.2",
+    "Cryptographic Protocols",
+    "Key Exchange Algorithms",
+    "OpenSSL"
+  ],
+  "problem_solved": "Removes deprecated and insecure key exchange methods from widely-deployed transport security protocols to prevent cryptographic attacks.",
+  "why_valuable": "Provides formal standardization for removing weak cryptographic primitives, improving the security baseline for internet communications infrastructure.",
+  "tags": [
+    "TLS",
+    "Security",
+    "Cryptography",
+    "RFC",
+    "Protocols"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-02T10:07:30.360670+00:00",
+  "updated_at": "2026-08-02T10:11:39.361664+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260802-001",
+  "source": "rss",
+  "source_url": "https://mastodon.online/@mwichary/117023736804129342",
+  "title": "The time filter in Google Search broke a few days ago",
+  "summary": "A bug report describing how Google's time filter feature in search stopped working for several days, preventing users from filtering search results by time period.",
+  "tech_stack": [
+    "Google Search",
+    "Web Search"
+  ],
+  "problem_solved": "Reports a bug where the time filter in Google Search stopped functioning properly for days.",
+  "why_valuable": "This serves as a user bug report documenting a real issue with a widely-used search feature, though it doesn't provide technical solutions.",
+  "tags": [
+    "Bug Report",
+    "Google Search",
+    "Web",
+    "UX Issue",
+    "Search Feature"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-08-02T10:05:07.765764+00:00",
+  "updated_at": "2026-08-02T10:11:39.355481+00:00",
+  "published_to": []
+}

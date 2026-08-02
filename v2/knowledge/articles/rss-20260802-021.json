@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260802-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+  "title": "How AI is Changing Linux VPS Security for Businesses",
+  "summary": "This article explores how AI technologies are transforming cybersecurity practices for small and mid-sized businesses using Linux VPS hosting, addressing the growing complexity of cyber threats and the shift from optional to essential security measures.",
+  "tech_stack": [
+    "Linux VPS",
+    "AI/ML",
+    "Automation",
+    "Threat Detection Systems"
+  ],
+  "problem_solved": "It addresses the increasing sophistication of cyberattacks against businesses and the need for advanced automated security solutions beyond traditional methods.",
+  "why_valuable": "It highlights how AI-powered security can help businesses detect and respond to threats faster than manual approaches, which is critical as attack complexity increases.",
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "Linux",
+    "VPS",
+    "Business Security"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-02T10:09:43.865233+00:00",
+  "updated_at": "2026-08-02T10:11:39.362704+00:00",
+  "published_to": []
+}

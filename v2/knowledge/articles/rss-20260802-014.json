@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-014",
+  "source": "rss",
+  "source_url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
+  "title": "Drug reverses autism-like brain changes in adult mice within hours",
+  "summary": "UCLA researchers discovered that a drug can reverse autism-like brain changes in adult mice within hours, suggesting that autism-related neurological alterations may be reversible even after the brain has fully developed. The study challenges the long-held assumption that autism interventions must occur during early development.",
+  "tech_stack": [
+    "Mouse Models",
+    "Drug Administration",
+    "Brain Histology",
+    "Genetic Analysis",
+    "Behavioral Assessment"
+  ],
+  "problem_solved": "Whether autism-like brain changes in adults can be reversed, challenging the belief that only early childhood interventions are effective.",
+  "why_valuable": "This finding offers potential hope that autism spectrum conditions could be treatable in adulthood, significantly expanding the therapeutic window beyond early childhood.",
+  "tags": [
+    "Autism Research",
+    "Neuroscience",
+    "Drug Development",
+    "Mouse Studies",
+    "Neurodevelopmental Disorders"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-02T10:08:21.606208+00:00",
+  "updated_at": "2026-08-02T10:11:39.362113+00:00",
+  "published_to": []
+}

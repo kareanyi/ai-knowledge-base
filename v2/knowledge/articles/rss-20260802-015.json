@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-015",
+  "source": "rss",
+  "source_url": "https://chrismorgan.info/atom%3Erss",
+  "title": "Atom is better than RSS, in ways that matter",
+  "summary": "A technical analysis comparing Atom and RSS syndication formats, arguing that Atom solves important limitations in RSS such as better namespace handling, clearer specification, and more robust date handling with proper RFC 3339 timestamps.",
+  "tech_stack": [
+    "Atom",
+    "RSS",
+    "XML",
+    "HTTP",
+    "Web Syndication"
+  ],
+  "problem_solved": "Addresses RSS's technical shortcomings including ambiguous date formats, poor namespace support, and incomplete specifications that Atom improves upon.",
+  "why_valuable": "Provides concrete technical reasons for developers to choose Atom over RSS when implementing content syndication, backed by real-world interoperability issues.",
+  "tags": [
+    "Atom",
+    "RSS",
+    "Web Standards",
+    "Content Syndication",
+    "XML"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-02T10:08:34.519784+00:00",
+  "updated_at": "2026-08-02T10:11:39.362200+00:00",
+  "published_to": []
+}

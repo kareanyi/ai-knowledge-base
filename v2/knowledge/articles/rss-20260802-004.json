@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-004",
+  "source": "rss",
+  "source_url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+  "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+  "summary": "This article explores MkLinux, a historical port of Linux to PowerPC-based Apple computers, specifically featuring the Workgroup Server 9150. It covers the technical journey of running Linux on vintage Apple hardware with various hardware modifications ('pimped-out' upgrades).",
+  "tech_stack": [
+    "MkLinux",
+    "Linux Kernel",
+    "PowerPC",
+    "Apple Workgroup Server 9150",
+    "Retro Computing"
+  ],
+  "problem_solved": "Bringing Linux operating system capabilities to vintage Apple PowerPC hardware for extended use beyond original macOS support.",
+  "why_valuable": "Preserves computing history by documenting the technical achievement of porting Linux to alternative architectures and the creative modifications to extend vintage hardware life.",
+  "tags": [
+    "Linux",
+    "PowerPC",
+    "RetroComputing",
+    "VintageHardware",
+    "Apple"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-02T10:05:50.291199+00:00",
+  "updated_at": "2026-08-02T10:11:39.355876+00:00",
+  "published_to": []
+}

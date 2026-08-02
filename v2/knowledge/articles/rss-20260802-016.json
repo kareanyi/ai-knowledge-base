@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-016",
+  "source": "rss",
+  "source_url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+  "title": "Seedance 2.5",
+  "summary": "ByteDance's Seedance 2.5 is an AI video generation model featuring one-take creation capabilities and flexible referencing functionality, allowing users to generate complete videos with enhanced control and efficiency.",
+  "tech_stack": [
+    "AI Video Generation",
+    "Diffusion Models",
+    "Computer Vision",
+    "Deep Learning",
+    "Generative AI"
+  ],
+  "problem_solved": "Streamlines AI-powered video creation by enabling one-shot video generation with flexible content referencing, reducing the complexity of producing high-quality AI-generated videos.",
+  "why_valuable": "Democratizes professional video content creation by providing more intuitive controls and efficient workflows for AI video generation.",
+  "tags": [
+    "AI Video",
+    "Generative AI",
+    "Video Generation",
+    "ByteDance",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-02T10:08:47.411385+00:00",
+  "updated_at": "2026-08-02T10:11:39.362296+00:00",
+  "published_to": []
+}

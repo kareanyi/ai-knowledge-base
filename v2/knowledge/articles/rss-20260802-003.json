@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-003",
+  "source": "rss",
+  "source_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+  "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+  "summary": "This article benchmarks Kimi K3 large language model inference performance on MI355X AI accelerator chips, demonstrating superior cost efficiency compared to NVIDIA's B300 GPUs. It provides practical insights for organizations seeking optimal AI inference deployment strategies with better price-performance ratios.",
+  "tech_stack": [
+    "LLM Inference",
+    "MI355X Accelerator",
+    "NVIDIA B300",
+    "AI Optimization",
+    "Cost-Performance Analysis"
+  ],
+  "problem_solved": "Helps organizations determine the most cost-effective hardware solution for deploying large language models like Kimi K3 in production environments.",
+  "why_valuable": "Enables data-driven hardware selection decisions by providing concrete performance-per-dollar comparisons between competing AI accelerator options.",
+  "tags": [
+    "LLM",
+    "AI Inference",
+    "Hardware Benchmark",
+    "Cost Efficiency",
+    "AI Deployment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-02T10:05:32.212598+00:00",
+  "updated_at": "2026-08-02T10:11:39.355793+00:00",
+  "published_to": []
+}

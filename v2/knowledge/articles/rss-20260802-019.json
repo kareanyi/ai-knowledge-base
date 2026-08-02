@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260802-019",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+  "title": "OpenAI aligns safety practices with EU AI Act&#8217;s GPAI Code",
+  "summary": "OpenAI has publicly outlined how its safety, security, and transparency practices align with the EU AI Act's General-Purpose AI (GPAI) Code of Practice as enforcement approaches draw near. The company contributed to and endorsed both the GPAI Code of Practice and the separate Code of Practice on Transparency of AI-Generated Content, both developed through multi-stakeholder processes.",
+  "tech_stack": [
+    "EU AI Act",
+    "GPAI Code of Practice",
+    "AI-Generated Content Transparency Standards"
+  ],
+  "problem_solved": "Addresses the need for major AI companies to demonstrate regulatory compliance with the EU's comprehensive AI governance framework before enforcement begins.",
+  "why_valuable": "Provides a blueprint for how AI companies can align their internal safety practices with emerging global regulatory standards, setting precedent for industry-wide compliance approaches.",
+  "tags": [
+    "AI Regulation",
+    "EU AI Act",
+    "Regulatory Compliance",
+    "AI Governance",
+    "Policy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-02T10:09:26.844716+00:00",
+  "updated_at": "2026-08-02T10:11:39.362529+00:00",
+  "published_to": []
+}

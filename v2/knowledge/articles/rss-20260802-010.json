@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-010",
+  "source": "rss",
+  "source_url": "https://yarchive.net/comp/128bit.html",
+  "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+  "summary": "John Mashey from SGI authored this 1995 article exploring the rationale, challenges, and timeline for potential 128-bit processor architectures, examining address space requirements, data processing needs, and the transition from 64-bit computing.",
+  "tech_stack": [
+    "RISC Architecture",
+    "MIPS",
+    "CPU Design",
+    "Operating Systems",
+    "Compiler Technology"
+  ],
+  "problem_solved": "Examines whether and when computing needs would justify moving beyond 64-bit processors to 128-bit architectures.",
+  "why_valuable": "Provides a historical perspective on processor evolution predictions from a leading computer architect, offering insights into how technology forecasting was conducted in the mid-1990s.",
+  "tags": [
+    "CPU Architecture",
+    "Historical Computing",
+    "64-bit Computing",
+    "Processor Design",
+    "Technology Forecasting"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-02T10:07:19.123589+00:00",
+  "updated_at": "2026-08-02T10:11:39.356362+00:00",
+  "published_to": []
+}

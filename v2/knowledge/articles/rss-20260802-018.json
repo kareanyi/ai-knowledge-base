@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-018",
+  "source": "rss",
+  "source_url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+  "title": "But can your calculator run Linux?",
+  "summary": "A hacker successfully ported Linux to run on an HP Prime G1 graphing calculator, demonstrating the extreme end of calculator hacking by replacing the native firmware with a full Linux kernel and userspace environment.",
+  "tech_stack": [
+    "Linux Kernel",
+    "ARM",
+    "HP Prime Calculator",
+    "Embedded Linux",
+    "Reverse Engineering"
+  ],
+  "problem_solved": "Demonstrates what's possible when pushing hardware beyond its intended purpose by running a full operating system on a device designed only for mathematical calculations.",
+  "why_valuable": "Showcases deep hardware understanding, reverse engineering skills, and serves as inspiration for the hacking community to explore unconventional uses of everyday devices.",
+  "tags": [
+    "Linux",
+    "Calculator",
+    "Hacking",
+    "Reverse Engineering",
+    "Embedded Systems"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-02T10:09:12.985501+00:00",
+  "updated_at": "2026-08-02T10:11:39.362444+00:00",
+  "published_to": []
+}

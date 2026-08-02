@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-013",
+  "source": "rss",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "summary": "MIT Sloan research reveals that AI financial advisors can provide surprisingly competent advice, often comparable to human advisors. The key finding is that the quality of AI-generated financial guidance significantly depends on how users phrase their questions, suggesting a new paradigm where 'prompt engineering' becomes a valuable skill for personal finance management.",
+  "tech_stack": [
+    "LLM",
+    "Generative AI",
+    "Natural Language Processing",
+    "FinTech",
+    "Conversational AI"
+  ],
+  "problem_solved": "Democratizes access to quality financial advice by providing affordable, scalable AI-powered guidance that competes with expensive human financial advisors.",
+  "why_valuable": "It demonstrates that well-designed AI systems can make professional-grade financial guidance accessible to everyday people, potentially transforming personal finance management for millions who cannot afford traditional advisors.",
+  "tags": [
+    "AI",
+    "Finance",
+    "FinTech",
+    "LLM",
+    "Personal Finance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-02T10:08:02.643819+00:00",
+  "updated_at": "2026-08-02T10:11:39.362020+00:00",
+  "published_to": []
+}

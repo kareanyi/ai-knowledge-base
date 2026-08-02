@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-009",
+  "source": "rss",
+  "source_url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+  "title": "ASRock BC-250: Building the Budget Steam Machine",
+  "summary": "A comprehensive guide on building an affordable Steam Machine using the ASRock BC-250 barebone system for living room gaming, covering the assembly process, Steam OS installation, and performance optimization for a console-like experience.",
+  "tech_stack": [
+    "Steam OS",
+    "ASRock BC-250",
+    "Linux",
+    "x86_64",
+    "Barebone PC"
+  ],
+  "problem_solved": "Provides an affordable solution for gamers wanting a quiet, living room-friendly PC to play Steam games without the bulk and noise of traditional desktops.",
+  "why_valuable": "It offers a practical DIY pathway for users to create a budget-friendly Steam console alternative that balances cost, performance, and living room aesthetics.",
+  "tags": [
+    "gaming",
+    "steam",
+    "budget-pc",
+    "living-room",
+    "barebone"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-02T10:07:05.691018+00:00",
+  "updated_at": "2026-08-02T10:11:39.356282+00:00",
+  "published_to": []
+}

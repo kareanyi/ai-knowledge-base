@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260802-006",
+  "source": "rss",
+  "source_url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+  "title": "Four Time Scales for Technology Development and Deployment",
+  "summary": "Renowned roboticist Rodney Brooks analyzes how technology development and deployment operate across four distinct time scales, explaining why predictions about technology adoption often fail and how different phases of innovation require different time horizons.",
+  "tech_stack": [
+    "Technology Strategy",
+    "Innovation Management",
+    "Product Development"
+  ],
+  "problem_solved": "Explains why technology adoption predictions are often wrong and why there's a disconnect between development timelines and deployment reality.",
+  "why_valuable": "Provides a practical mental model for entrepreneurs, investors, and policymakers to set realistic expectations about technology development cycles.",
+  "tags": [
+    "Technology",
+    "Innovation",
+    "Strategy",
+    "Future Predictions",
+    "Product Management"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-02T10:06:20.300452+00:00",
+  "updated_at": "2026-08-02T10:11:39.356052+00:00",
+  "published_to": []
+}

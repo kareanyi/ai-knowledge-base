@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260802-017",
+  "source": "rss",
+  "source_url": "https://diataxis.fr/",
+  "title": "Diátaxis",
+  "summary": "Diátaxis is a documentation framework developed by Daniele Procida that provides a systematic approach to organizing technical documentation into four distinct types: tutorials (learning-oriented), how-to guides (task-oriented), reference (information-oriented), and explanation (understanding-oriented). It addresses the common problem of disorganized and confusing documentation by establishing clear purposes for each type of documentation.",
+  "tech_stack": [
+    "Documentation Methodology",
+    "Markdown",
+    "Sphinx",
+    "RestructuredText"
+  ],
+  "problem_solved": "Solves the problem of unstructured and confusing technical documentation by providing a clear framework that aligns documentation types with user needs.",
+  "why_valuable": "It dramatically improves developer experience and documentation quality by helping technical writers and developers create documentation that users can actually find and use effectively.",
+  "tags": [
+    "documentation",
+    "technical-writing",
+    "developer-experience",
+    "best-practices",
+    "knowledge-management"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-02T10:09:01.330975+00:00",
+  "updated_at": "2026-08-02T10:11:39.362358+00:00",
+  "published_to": []
+}

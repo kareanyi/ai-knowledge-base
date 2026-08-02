@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260802-002",
+  "source": "rss",
+  "source_url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+  "title": "I don't recommend Tailwind CSS",
+  "summary": "A developer shares their personal reasons for not recommending Tailwind CSS, likely discussing issues with readability, maintainability, or developer experience compared to traditional CSS approaches.",
+  "tech_stack": [
+    "Tailwind CSS",
+    "CSS",
+    "HTML",
+    "Frontend Development"
+  ],
+  "problem_solved": "Provides critical perspective on Tailwind CSS limitations to help developers make informed framework decisions.",
+  "why_valuable": "Offers a counterbalance to overwhelmingly positive Tailwind CSS marketing, presenting real-world drawbacks from a practitioner's experience.",
+  "tags": [
+    "Tailwind CSS",
+    "CSS",
+    "Frontend",
+    "Web Development",
+    "Opinion"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-02T10:05:19.374489+00:00",
+  "updated_at": "2026-08-02T10:11:39.355700+00:00",
+  "published_to": []
+}
