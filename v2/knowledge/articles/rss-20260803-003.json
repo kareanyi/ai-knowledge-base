@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260803-003",
+  "source": "rss",
+  "source_url": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
+  "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+  "summary": "UK Members of Parliament are questioning why Fujitsu, the Japanese IT company at the center of the Post Office Horizon scandal that caused widespread wrongful prosecutions, continues to be awarded contracts through lucrative government procurement frameworks worth hundreds of millions of pounds.",
+  "tech_stack": [
+    "Government IT Systems",
+    "Procurement Frameworks"
+  ],
+  "problem_solved": "Addresses concerns about government accountability and transparency in technology vendor selection following a major public scandal.",
+  "why_valuable": "Highlights the need for stronger vetting processes in government IT procurement to prevent continued awards to companies with documented histories of causing harm.",
+  "tags": [
+    "Government",
+    "Procurement",
+    "Policy",
+    "UK Parliament",
+    "Accountability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:33:51.225483+00:00",
+  "updated_at": "2026-08-03T11:40:50.250123+00:00",
+  "published_to": []
+}

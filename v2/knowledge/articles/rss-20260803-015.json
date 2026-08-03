@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-015",
+  "source": "rss",
+  "source_url": "https://sf.isopolis.city/",
+  "title": "Show HN: Isopolis – Isometric pixel map of SF",
+  "summary": "Isopolis is an interactive isometric pixel art map of San Francisco that allows users to explore the city's geography and landmarks in a retro gaming aesthetic. The project showcases SF's neighborhoods, streets, and notable locations rendered in charming pixel art style with smooth isometric perspective.",
+  "tech_stack": [
+    "HTML5",
+    "JavaScript",
+    "Canvas API",
+    "CSS3",
+    "WebGL"
+  ],
+  "problem_solved": "Provides an engaging, visually nostalgic way to explore and navigate San Francisco's urban geography through interactive pixel art.",
+  "why_valuable": "Combines creative artistic expression with geographic visualization, offering a unique perspective on the city that appeals to both locals and visitors while demonstrating impressive technical and artistic skill.",
+  "tags": [
+    "Interactive",
+    "Visualization",
+    "PixelArt",
+    "SanFrancisco",
+    "Maps"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-03T11:37:16.663042+00:00",
+  "updated_at": "2026-08-03T11:40:50.258218+00:00",
+  "published_to": []
+}

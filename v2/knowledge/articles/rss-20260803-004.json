@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260803-004",
+  "source": "rss",
+  "source_url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+  "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+  "summary": "PISIGuard is a privacy protection tool that detects and redacts personal identifiable information (PII) before sending user messages to AI chatbots, preventing sensitive data leakage to third-party AI services.",
+  "tech_stack": [
+    "Python",
+    "Regex",
+    "NLP",
+    "API Integration"
+  ],
+  "problem_solved": "Prevents accidental exposure of sensitive personal information when users interact with AI chatbots that may store or process user data.",
+  "why_valuable": "In the era of widespread AI adoption, it provides a critical layer of privacy protection by automatically identifying and masking PII before it leaves the user's device.",
+  "tags": [
+    "AI",
+    "Privacy",
+    "Security",
+    "PII",
+    "Data Protection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:34:24.228254+00:00",
+  "updated_at": "2026-08-03T11:40:50.250297+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-017",
+  "source": "rss",
+  "source_url": "https://ssh.place",
+  "title": "Show HN: ssh ssh.place",
+  "summary": "ssh.place is a web-based SSH service that allows users to access remote servers directly through their browser, providing a convenient terminal experience without requiring local SSH client installation. This Show HN project garnered significant community interest with 122 points and 73 comments.",
+  "tech_stack": [
+    "SSH",
+    "WebSocket",
+    "JavaScript",
+    "Go",
+    "Web Terminal"
+  ],
+  "problem_solved": "Eliminates the need for local SSH client setup by providing instant browser-based terminal access from any device.",
+  "why_valuable": "Offers developers and sysadmins instant SSH access from any browser, making it ideal for quick debugging, education, or accessing servers from restricted environments.",
+  "tags": [
+    "SSH",
+    "Web Terminal",
+    "DevTools",
+    "Networking",
+    "Browser Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:37:44.559023+00:00",
+  "updated_at": "2026-08-03T11:40:50.258618+00:00",
+  "published_to": []
+}

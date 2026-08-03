@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-005",
+  "source": "rss",
+  "source_url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+  "title": "The true power of regular expressions (2012)",
+  "summary": "A technical blog post by Nikita Popov exploring the theoretical foundations and true capabilities of regular expressions, likely discussing what regex can and cannot parse compared to more powerful formal grammars.",
+  "tech_stack": [
+    "Regular Expressions",
+    "PHP",
+    "Finite Automata",
+    "Formal Language Theory",
+    "Parser Theory"
+  ],
+  "problem_solved": "Explains the theoretical limits of regular expressions and why complex patterns require more powerful parsing techniques.",
+  "why_valuable": "Helps developers understand when to use regex versus proper parsers, preventing common misuse of regular expressions for tasks beyond their formal capabilities.",
+  "tags": [
+    "Regular Expressions",
+    "Parsing",
+    "Computer Science Theory",
+    "PHP",
+    "Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:34:36.414893+00:00",
+  "updated_at": "2026-08-03T11:40:50.250462+00:00",
+  "published_to": []
+}

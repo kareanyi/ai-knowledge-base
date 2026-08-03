@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-006",
+  "source": "rss",
+  "source_url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+  "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+  "summary": "A technical blog post demonstrating how to resolve slow PPPoE performance on UniFi network devices by implementing PPPoE Half-Bridge mode, which offloads the PPPoE termination to upstream equipment and reduces processing overhead on the UniFi gateway.",
+  "tech_stack": [
+    "UniFi",
+    "PPPoE",
+    "Networking",
+    "Linux",
+    "Router/Firewall"
+  ],
+  "problem_solved": "Addresses slow PPPoE throughput and performance bottlenecks on UniFi gateway devices when connected to ISPs using PPPoE authentication.",
+  "why_valuable": "Provides a practical workaround for users experiencing poor internet speeds due to PPPoE overhead, which is common in many regions (especially Asia-Pacific) where ISPs commonly use PPPoE authentication.",
+  "tags": [
+    "networking",
+    "PPPoE",
+    "UniFi",
+    "performance",
+    "router"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:34:51.390610+00:00",
+  "updated_at": "2026-08-03T11:40:50.250656+00:00",
+  "published_to": []
+}

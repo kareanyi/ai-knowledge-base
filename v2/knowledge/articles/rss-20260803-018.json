@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-018",
+  "source": "rss",
+  "source_url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+  "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+  "summary": "This article explains the technical reasons why the Book Corners mobile app cannot automatically sync user contributions back to OpenStreetMap, likely due to API limitations, authentication requirements, or design constraints around the mapping platform's data submission workflow.",
+  "tech_stack": [
+    "Flutter",
+    "Dart",
+    "OpenStreetMap",
+    "REST API",
+    "Mobile Development"
+  ],
+  "problem_solved": "Explains why the Book Corners app cannot implement automatic synchronization of user-added bookshop locations back to OpenStreetMap.",
+  "why_valuable": "Provides transparency about technical limitations and design decisions, helping users understand why offline-first data collection requires manual upload rather than automatic syncing.",
+  "tags": [
+    "OpenStreetMap",
+    "Flutter",
+    "Mobile App",
+    "Data Sync",
+    "API Integration"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-03T11:38:00.260825+00:00",
+  "updated_at": "2026-08-03T11:40:50.258810+00:00",
+  "published_to": []
+}

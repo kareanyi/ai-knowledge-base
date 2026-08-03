@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-019",
+  "source": "rss",
+  "source_url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+  "title": "SwiftUI After 7 Years",
+  "summary": "A critical retrospective examining SwiftUI's evolution and maturity after 7 years, questioning whether Apple's declarative UI framework has lived up to its initial promises or has remained mediocre in its implementation and capabilities.",
+  "tech_stack": [
+    "SwiftUI",
+    "Swift",
+    "iOS",
+    "macOS",
+    "Xcode"
+  ],
+  "problem_solved": "Provides an honest evaluation of whether SwiftUI successfully simplified cross-platform Apple development or fell short of expectations",
+  "why_valuable": "Offers a long-term perspective from a practitioner who has used SwiftUI extensively, providing valuable insights for developers deciding on UI framework strategies",
+  "tags": [
+    "SwiftUI",
+    "Apple",
+    "iOS",
+    "macOS",
+    "Developer-Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:38:11.415073+00:00",
+  "updated_at": "2026-08-03T11:40:50.258998+00:00",
+  "published_to": []
+}

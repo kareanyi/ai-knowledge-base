@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260803-001",
+  "source": "rss",
+  "source_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+  "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+  "summary": "The author proposes manually retyping LLM-generated code as a technique to prevent 'cognitive debt' - the knowledge gap that accumulates when developers use AI-generated code without fully understanding it. This practice forces active engagement with the code, improves retention, and helps developers build genuine expertise while still leveraging AI productivity gains.",
+  "tech_stack": [
+    "LLMs",
+    "AI Coding Assistants",
+    "General Programming"
+  ],
+  "problem_solved": "Addresses the knowledge gap and technical debt that accumulates when developers rely on AI-generated code without fully understanding it.",
+  "why_valuable": "Provides a practical balance between leveraging AI productivity and maintaining deep technical understanding, helping developers avoid becoming dependent on tools they don't comprehend.",
+  "tags": [
+    "AI",
+    "Learning",
+    "Productivity",
+    "Developer-Experience",
+    "Cognitive-Load"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:33:28.604460+00:00",
+  "updated_at": "2026-08-03T11:40:50.249703+00:00",
+  "published_to": []
+}

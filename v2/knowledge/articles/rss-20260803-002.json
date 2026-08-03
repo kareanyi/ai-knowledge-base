@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-002",
+  "source": "rss",
+  "source_url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+  "title": "What DMARC Protects You From, and What It Does Not",
+  "summary": "This article explains the protective capabilities of DMARC (Domain-based Message Authentication, Reporting & Conformance) in email security, covering what it effectively protects against (domain spoofing, phishing) and its limitations (no content encryption, no protection against BEC attacks or compromised accounts).",
+  "tech_stack": [
+    "DMARC",
+    "SPF",
+    "DKIM",
+    "DNS",
+    "Email Protocols"
+  ],
+  "problem_solved": "Explains email domain authentication and clarifies common misconceptions about what DMARC can and cannot prevent.",
+  "why_valuable": "Helps email administrators and security professionals understand realistic security boundaries of DMARC to avoid false confidence in email protection.",
+  "tags": [
+    "Email Security",
+    "DMARC",
+    "Cybersecurity",
+    "Phishing Prevention",
+    "Authentication"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:33:38.067411+00:00",
+  "updated_at": "2026-08-03T11:40:50.249938+00:00",
+  "published_to": []
+}

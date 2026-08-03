@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-010",
+  "source": "rss",
+  "source_url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+  "title": "The AI Productivity Gap",
+  "summary": "This article discusses the growing productivity disparity between individuals and organizations that effectively leverage AI tools versus those that don't. Author Bjorn Roche explores how AI adoption is creating a new productivity gap in the workplace, with significant implications for management and competitive advantage.",
+  "tech_stack": [
+    "AI/LLM tools",
+    "ChatGPT",
+    "Claude",
+    "AI coding assistants",
+    "Productivity software"
+  ],
+  "problem_solved": "Addresses why some workers and companies achieve dramatically different productivity gains from AI, creating inequality in the modern workplace.",
+  "why_valuable": "Helps managers and organizations understand the strategic importance of AI adoption and provides frameworks for maximizing AI productivity gains across teams.",
+  "tags": [
+    "AI",
+    "Productivity",
+    "Management",
+    "Technology Adoption",
+    "Future of Work"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:35:45.846396+00:00",
+  "updated_at": "2026-08-03T11:40:50.251595+00:00",
+  "published_to": []
+}

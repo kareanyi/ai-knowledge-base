@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260803-009",
+  "source": "rss",
+  "source_url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+  "title": "The Shape of Things to Come",
+  "summary": "A thought-provoking essay by former Google/Amazon engineer Steve Yegge exploring the future trajectory of AI technology and its implications for software development and society.",
+  "tech_stack": [
+    "LLM",
+    "AI Agents",
+    "Cloud Platforms",
+    "Machine Learning"
+  ],
+  "problem_solved": "Helps technical professionals understand where AI technology is heading and how to prepare for the coming changes.",
+  "why_valuable": "Steve Yegge offers rare insider perspective from both Google and Amazon, providing uniquely informed predictions about AI's future impact on software engineering.",
+  "tags": [
+    "AI",
+    "Predictions",
+    "Software Engineering",
+    "Future Tech",
+    "Essays"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-03T11:35:34.898215+00:00",
+  "updated_at": "2026-08-03T11:40:50.251338+00:00",
+  "published_to": []
+}

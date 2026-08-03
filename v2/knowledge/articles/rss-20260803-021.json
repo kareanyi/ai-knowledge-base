@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+  "title": "Why biological data matters more in AI drug discovery",
+  "summary": "GSK has partnered with Relation Therapeutics in a $110 million collaboration to generate large-scale biological datasets measuring human cell responses to genetic changes and drug interventions, which will be used to train AI models for drug discovery.",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Genomics",
+    "Cell Biology",
+    "Drug Discovery"
+  ],
+  "problem_solved": "Addresses the lack of comprehensive biological data needed to effectively train AI models for predicting drug efficacy and cellular responses.",
+  "why_valuable": "High-quality biological data can significantly improve AI model accuracy in drug discovery, potentially reducing development time and costs while increasing success rates.",
+  "tags": [
+    "AI Drug Discovery",
+    "Biotechnology",
+    "Genomics",
+    "Pharmaceutical Research",
+    "Machine Learning"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-03T11:38:39.833502+00:00",
+  "updated_at": "2026-08-03T11:40:50.259377+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260803-007",
+  "source": "rss",
+  "source_url": "https://github.com/janestreet/bonsai",
+  "title": "Bonsai: Janestreet's UI Library",
+  "summary": "Bonsai is a user interface library developed by Jane Street, written in OCaml, designed for building reactive and type-safe web applications. It uses incremental computation and a composable component model similar to React but leveraging OCaml's strong type system for guaranteed correctness.",
+  "tech_stack": [
+    "OCaml",
+    "Reactive Programming",
+    "Incremental Computation",
+    "Functional Programming"
+  ],
+  "problem_solved": "Enables building complex, interactive UIs with strong type safety guarantees that eliminate entire classes of runtime errors common in JavaScript UI frameworks.",
+  "why_valuable": "Combines the composability of modern UI frameworks with OCaml's powerful type system, making it impossible to write many categories of buggy code while being battle-tested in production at Jane Street.",
+  "tags": [
+    "UI Library",
+    "OCaml",
+    "Reactive",
+    "Functional Programming",
+    "Web Development"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-03T11:35:05.605806+00:00",
+  "updated_at": "2026-08-03T11:40:50.250891+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-014",
+  "source": "rss",
+  "source_url": "https://qwen.ai/blog?id=qwen3.8",
+  "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+  "summary": "Qwen3.8-Max is Alibaba's latest large language model positioned as a new benchmark for coding tasks and collaborative AI workflows, representing a significant advancement in the Qwen series known for strong open-source performance.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "MoE Architecture",
+    "Deep Learning"
+  ],
+  "problem_solved": "Raises the bar for AI-assisted coding and collaborative tasks where previous models fell short in performance or accuracy.",
+  "why_valuable": "The strong Hacker News engagement (633 points, 316 comments) indicates the tech community views this as a meaningful advancement in open-source LLM capabilities, particularly for developer-focused use cases.",
+  "tags": [
+    "LLM",
+    "AI",
+    "Coding",
+    "Qwen",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-03T11:36:40.772897+00:00",
+  "updated_at": "2026-08-03T11:40:50.258045+00:00",
+  "published_to": []
+}
