@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-017",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ten-advances-in-mathematics/",
+  "title": "Ten advances in mathematics and theoretical computer science",
+  "summary": "OpenAI's blog post documenting ten significant advances in mathematics and theoretical computer science, showcasing AI's growing capability in mathematical reasoning, formal verification, and complex problem-solving that were previously challenging for automated systems.",
+  "tech_stack": [
+    "Large Language Models",
+    "Reinforcement Learning",
+    "Formal Verification",
+    "Theorem Proving",
+    "Deep Learning"
+  ],
+  "problem_solved": "Demonstrates how AI systems can contribute to mathematical research and theoretical computer science by solving complex proofs and advancing computational boundaries.",
+  "why_valuable": "Bridges the gap between AI capabilities and fundamental scientific research, potentially accelerating discovery in mathematics and opening new frontiers for human-AI collaboration in theoretical domains.",
+  "tags": [
+    "AI Research",
+    "Mathematics",
+    "Theoretical CS",
+    "Proof Systems",
+    "Scientific Discovery"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-04T10:50:42.629050+00:00",
+  "updated_at": "2026-08-04T10:53:37.464213+00:00",
+  "published_to": []
+}

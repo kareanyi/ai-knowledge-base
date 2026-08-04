@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-012",
+  "source": "rss",
+  "source_url": "https://www.seangoedecke.com/llms-reward-expertise/",
+  "title": "LLMs reward expertise",
+  "summary": "This article explores how Large Language Models tend to produce better outputs when given expert-level inputs or context, essentially 'rewarding' users with domain expertise. The author argues that LLMs amplify existing knowledge gaps, making it harder for non-experts to identify errors while making experts more productive.",
+  "tech_stack": [
+    "LLMs",
+    "AI",
+    "NLP",
+    "Machine Learning",
+    "Generative AI"
+  ],
+  "problem_solved": "Explains why LLMs sometimes produce poor or misleading outputs and why expertise matters in AI interactions.",
+  "why_valuable": "Provides crucial insights into human-AI interaction dynamics and helps users understand how to leverage their own expertise for better AI outputs.",
+  "tags": [
+    "AI",
+    "LLMs",
+    "Expertise",
+    "Prompt Engineering",
+    "Human-AI Interaction"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-04T10:49:35.751880+00:00",
+  "updated_at": "2026-08-04T10:53:37.463277+00:00",
+  "published_to": []
+}

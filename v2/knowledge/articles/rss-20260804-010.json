@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-010",
+  "source": "rss",
+  "source_url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+  "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+  "summary": "A nostalgic tech blog post chronicling the author's frustrating experience attempting to run Windows XP 2002 on an Itanium (IA-64) processor architecture, exploring legacy Microsoft software and hardware compatibility challenges from the early 2000s era.",
+  "tech_stack": [
+    "Windows XP",
+    "Itanium (IA-64)",
+    "Intel Architecture",
+    "Legacy Windows APIs",
+    "Retro Computing"
+  ],
+  "problem_solved": "Documents the technical challenges and workarounds for running legacy Windows XP on the Itanium processor architecture",
+  "why_valuable": "Preserves historical computing knowledge about Microsoft's brief Itanium era and provides insights for retro computing enthusiasts exploring legacy software compatibility",
+  "tags": [
+    "RetroComputing",
+    "WindowsXP",
+    "Itanium",
+    "LegacySystems",
+    "Nostalgia"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-04T10:49:06.295464+00:00",
+  "updated_at": "2026-08-04T10:53:37.456433+00:00",
+  "published_to": []
+}

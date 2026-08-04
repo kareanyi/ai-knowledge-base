@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-015",
+  "source": "rss",
+  "source_url": "https://github.com/leonickson1/Swiftlet",
+  "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+  "summary": "Swiftlet is an open-source project enabling large language models (up to 80B parameters) to run on consumer hardware with minimal memory requirements—4.3 GB RAM for an 80B Qwen model on Mac and a 35B model on iPhone—through advanced quantization and optimization techniques.",
+  "tech_stack": [
+    "Swift",
+    "Quantization",
+    "ONNX",
+    "Qwen",
+    "CoreML"
+  ],
+  "problem_solved": "Makes running massive 80B+ parameter language models feasible on consumer devices with limited RAM, democratizing access to large AI models on edge devices like iPhones and personal Macs.",
+  "why_valuable": "Breaks the memory barrier that previously required expensive cloud computing or high-end hardware, enabling private, offline AI inference on everyday devices.",
+  "tags": [
+    "LLM",
+    "Edge AI",
+    "Quantization",
+    "Model Compression",
+    "Mobile AI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-04T10:50:15.714254+00:00",
+  "updated_at": "2026-08-04T10:53:37.463852+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260804-006",
+  "source": "rss",
+  "source_url": "https://pedroth.github.io/?p=post/NoNeedReact",
+  "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+  "summary": "An educational article demonstrating how to build a lightweight UI library from scratch using pure Vanilla JavaScript, showing the fundamental concepts behind reactive UI rendering without relying on heavy frameworks like React.",
+  "tech_stack": [
+    "Vanilla JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "problem_solved": "Demonstrates how to create simple reactive UI components without the overhead of React or similar frameworks.",
+  "why_valuable": "Helps developers understand core UI library internals and make informed decisions about when to use lightweight solutions vs full frameworks.",
+  "tags": [
+    "JavaScript",
+    "UI Library",
+    "Vanilla JS",
+    "Frontend",
+    "Web Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-04T10:48:08.699018+00:00",
+  "updated_at": "2026-08-04T10:53:37.455585+00:00",
+  "published_to": []
+}

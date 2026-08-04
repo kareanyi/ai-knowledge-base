@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-016",
+  "source": "rss",
+  "source_url": "https://hoplite.sh",
+  "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+  "summary": "Hoplite is a YC S26 startup that enables developers to deploy coding agents to the cloud with integrated QA tools. It automatically migrates local development environments including sessions, memories, and MCP server configurations to the cloud. The founders pivoted from an AI retail investing concept to build this developer tooling platform.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "MCP Servers",
+    "AI Coding Agents",
+    "Developer Tools",
+    "YC Batch S26"
+  ],
+  "problem_solved": "Eliminates the complexity of migrating and deploying AI coding agents from local development environments to production cloud infrastructure.",
+  "why_valuable": "It significantly reduces friction for developers wanting to scale and QA their AI coding agents in the cloud without rebuilding their entire development setup.",
+  "tags": [
+    "Cloud Deployment",
+    "Coding Agents",
+    "AI Developer Tools",
+    "YC Startups",
+    "QA Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-04T10:50:27.422861+00:00",
+  "updated_at": "2026-08-04T10:53:37.464033+00:00",
+  "published_to": []
+}

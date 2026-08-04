@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260804-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+  "title": "EU AI Act Article 50 transparency rules enter force",
+  "summary": "欧盟AI法案第50条透明度规则正式生效，要求在欧盟运营的AI提供商和部署者必须向用户明确告知他们正在与AI系统交互，特别是针对生成式AI工具的合规义务。",
+  "tech_stack": [
+    "Generative AI",
+    "AI Systems",
+    "EU AI Act"
+  ],
+  "problem_solved": "解决AI交互场景中用户缺乏知情权和透明度的问题，确保人们在不知情的情况下不会误认为是在与人类交互。",
+  "why_valuable": "为欧盟地区的AI使用建立了强制性法律透明度框架，保护消费者权益并推动AI行业规范化发展。",
+  "tags": [
+    "AI Regulation",
+    "EU Policy",
+    "Compliance",
+    "Transparency",
+    "Generative AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-04T10:51:32.544950+00:00",
+  "updated_at": "2026-08-04T10:53:37.464944+00:00",
+  "published_to": []
+}

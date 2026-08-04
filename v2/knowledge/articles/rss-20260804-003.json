@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-003",
+  "source": "rss",
+  "source_url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+  "title": "FFmpeg 9.0",
+  "summary": "FFmpeg 9.0 is a major release of the industry-standard open-source multimedia framework for video and audio encoding, decoding, transcoding, streaming, and filtering. This version continues FFmpeg's evolution as the most comprehensive command-line multimedia toolkit available, supporting virtually all audio/video codecs and formats.",
+  "tech_stack": [
+    "C",
+    "Assembly",
+    "libavcodec",
+    "libavformat",
+    "libavfilter"
+  ],
+  "problem_solved": "Provides cross-platform command-line tools for processing, converting, and streaming audio/video content in virtually any format",
+  "why_valuable": "As the de facto standard for multimedia processing, FFmpeg enables developers and content creators to handle any video/audio task without proprietary software dependencies",
+  "tags": [
+    "multimedia",
+    "video-processing",
+    "audio-processing",
+    "open-source",
+    "streaming"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-04T10:47:39.700915+00:00",
+  "updated_at": "2026-08-04T10:53:37.455155+00:00",
+  "published_to": []
+}

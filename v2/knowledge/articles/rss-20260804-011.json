@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-011",
+  "source": "rss",
+  "source_url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+  "title": "ZX Spectrum System Tour: Text Mode",
+  "summary": "A technical deep-dive into the ZX Spectrum's text mode system, exploring how this classic 1980s 8-bit home computer handled character display through its ULA graphics chip and memory layout. The article covers the underlying hardware architecture and software techniques used to render text on screen.",
+  "tech_stack": [
+    "Z80 Assembly",
+    "BASIC",
+    "ZX Spectrum ULA",
+    "8-bit Hardware",
+    "Retro Computing"
+  ],
+  "problem_solved": "Explains the technical implementation of text rendering on the ZX Spectrum's limited hardware resources.",
+  "why_valuable": "Provides valuable historical documentation of early 8-bit computing techniques for retro computing enthusiasts and those studying computer graphics evolution.",
+  "tags": [
+    "Retro Computing",
+    "8-bit",
+    "ZX Spectrum",
+    "Systems Programming",
+    "Vintage Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-04T10:49:24.340616+00:00",
+  "updated_at": "2026-08-04T10:53:37.463076+00:00",
+  "published_to": []
+}

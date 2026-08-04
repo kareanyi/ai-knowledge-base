@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260804-020",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49156682",
+  "title": "Ask HN: Who wants to be hired? (August 2026)",
+  "summary": "A monthly recurring Hacker News community post where tech professionals share their job search information in a standardized format (location, remote status, willingness to relocate, technologies, resume, email) to connect with potential employers directly.",
+  "tech_stack": [
+    "Community Platform"
+  ],
+  "problem_solved": "Connects tech job seekers with potential employers through a free, community-driven platform without intermediaries like recruiters or agencies.",
+  "why_valuable": "Provides a trusted, low-friction networking channel specifically for the tech community where direct employer-candidate connections can happen organically.",
+  "tags": [
+    "Jobs",
+    "Career",
+    "Community",
+    "Networking",
+    "HackerNews"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-04T10:51:22.464819+00:00",
+  "updated_at": "2026-08-04T10:53:37.464769+00:00",
+  "published_to": []
+}

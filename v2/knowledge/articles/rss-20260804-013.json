@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-013",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+  "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+  "summary": "Cloudflare is deploying smaller, efficient AI models like Kimi and GLM on their global edge network, optimizing for faster inference, lower latency, and enhanced security through their Workers AI platform.",
+  "tech_stack": [
+    "Cloudflare Workers AI",
+    "GLM (Zhipu AI)",
+    "Kimi (Moonshot AI)",
+    "Edge Computing",
+    "AI Model Optimization"
+  ],
+  "problem_solved": "Enables running AI inference at global edge scale with significantly reduced latency and improved performance compared to traditional centralized cloud deployments.",
+  "why_valuable": "Makes AI capabilities more accessible and cost-effective by leveraging edge infrastructure, benefiting developers and end-users with faster response times worldwide.",
+  "tags": [
+    "Edge AI",
+    "Model Deployment",
+    "Cloudflare",
+    "Inference Optimization",
+    "Distributed Systems"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-04T10:49:52.309255+00:00",
+  "updated_at": "2026-08-04T10:53:37.463460+00:00",
+  "published_to": []
+}

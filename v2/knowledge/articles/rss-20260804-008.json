@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-008",
+  "source": "rss",
+  "source_url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+  "title": "Harness Engineering for Self-Improvement",
+  "summary": "Lilian Weng explores the engineering practices and frameworks needed to build AI systems capable of self-improvement, likely covering topics like feedback mechanisms, training pipelines, and evaluation systems that enable models to iteratively enhance their capabilities.",
+  "tech_stack": [
+    "Machine Learning",
+    "LLM",
+    "Python",
+    "Reinforcement Learning",
+    "Evaluation Frameworks"
+  ],
+  "problem_solved": "Addresses the challenge of building reliable infrastructure and methodologies for creating AI systems that can autonomously improve their performance over time",
+  "why_valuable": "Self-improving AI systems represent a key frontier in AI development, and understanding the engineering harnesses needed to achieve this safely and effectively is crucial for advancing AI capabilities responsibly",
+  "tags": [
+    "AI Engineering",
+    "Self-Improvement",
+    "Agent Systems",
+    "ML Infrastructure",
+    "AI Safety"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-04T10:48:41.262923+00:00",
+  "updated_at": "2026-08-04T10:53:37.456045+00:00",
+  "published_to": []
+}

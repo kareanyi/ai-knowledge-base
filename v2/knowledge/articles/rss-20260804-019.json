@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260804-019",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49156683",
+  "title": "Ask HN: Who is hiring? (August 2026)",
+  "summary": "Hacker News monthly 'Who's Hiring?' megathread for August 2026 - a community-driven job board where company employees directly post openings, excluding recruiters and job boards. The thread enforces rules for location transparency and requires active engagement with applicants.",
+  "tech_stack": [
+    "Community Platform",
+    "Crowdsourced",
+    "Self-moderated"
+  ],
+  "problem_solved": "Connects tech talent directly with hiring companies while filtering out recruiters and ensuring authentic job postings with clear location/remote policies.",
+  "why_valuable": "Provides a trusted, low-friction hiring channel for the tech community with built-in accountability through direct employee posting and active reply requirements.",
+  "tags": [
+    "Hiring",
+    "Community",
+    "Jobs",
+    "Tech Recruitment",
+    "HN"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-04T10:51:12.217621+00:00",
+  "updated_at": "2026-08-04T10:53:37.464563+00:00",
+  "published_to": []
+}

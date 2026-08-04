@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-014",
+  "source": "rss",
+  "source_url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+  "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+  "summary": "C-Kermit, a classic network communication and file transfer software with 45 years of history, has received its first new release in 15 years. The update fixes build issues on modern systems and brings the decades-old C codebase up to date with contemporary toolchains.",
+  "tech_stack": [
+    "C",
+    "Unix",
+    "Kermit Protocol",
+    "Make",
+    "POSIX"
+  ],
+  "problem_solved": "Revitalizes a legacy but still useful file transfer and terminal emulation tool that works across heterogeneous systems, fixing compatibility with modern compilers and platforms.",
+  "why_valuable": "Demonstrates the practical value of maintaining historical software infrastructure and provides insights into navigating decades-old C codebases with patience and systematic debugging approaches.",
+  "tags": [
+    "Legacy Software",
+    "C Programming",
+    "Networking",
+    "File Transfer",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-04T10:50:06.064907+00:00",
+  "updated_at": "2026-08-04T10:53:37.463671+00:00",
+  "published_to": []
+}
