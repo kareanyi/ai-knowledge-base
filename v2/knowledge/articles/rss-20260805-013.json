@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-013",
+  "source": "rss",
+  "source_url": "https://techascent.com/blog/just-ducking-around.html",
+  "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+  "summary": "This blog post from TechAscent introduces the DuckDB library for Clojure, enabling Clojure developers to leverage DuckDB's powerful in-process analytical SQL capabilities directly in their applications without requiring a separate database server.",
+  "tech_stack": [
+    "Clojure",
+    "DuckDB",
+    "SQL",
+    "Java Interop",
+    "JVM"
+  ],
+  "problem_solved": "Provides fast, embeddable OLAP database capabilities for Clojure applications running on laptops or local environments",
+  "why_valuable": "Enables Clojure developers to perform analytical queries on local data with PostgreSQL-compatible SQL syntax while maintaining the benefits of an in-process, serverless database architecture",
+  "tags": [
+    "Clojure",
+    "DuckDB",
+    "Data Engineering",
+    "SQL Analytics",
+    "Functional Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:46:01.575011+00:00",
+  "updated_at": "2026-08-05T10:47:35.460152+00:00",
+  "published_to": []
+}

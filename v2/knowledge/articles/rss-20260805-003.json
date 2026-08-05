@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-003",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2607.29377",
+  "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+  "summary": "Zero-Mem is a research paper proposing a novel memory management technique for LLM agents that enables memory operations without consuming tokens, addressing the cost and context length issues associated with traditional memory retrieval methods.",
+  "tech_stack": [
+    "LLM",
+    "Python",
+    "Agent Frameworks",
+    "Memory Management Systems",
+    "Transformers"
+  ],
+  "problem_solved": "Reduces inference costs and context overhead by enabling LLM agents to perform memory operations without consuming valuable tokens.",
+  "why_valuable": "This approach could significantly lower operational costs for LLM agent deployments while maintaining effective long-term memory capabilities.",
+  "tags": [
+    "AI",
+    "LLM Agents",
+    "Memory Optimization",
+    "Research",
+    "Cost Reduction"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:43:57.268383+00:00",
+  "updated_at": "2026-08-05T10:47:35.452093+00:00",
+  "published_to": []
+}

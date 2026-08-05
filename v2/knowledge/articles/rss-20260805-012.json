@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260805-012",
+  "source": "rss",
+  "source_url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+  "title": "Pi's Minimalism Is Its Advantage",
+  "summary": "A discussion about how the minimalist design philosophy of 'Pi' (an AI/ML framework or research tool) provides strategic advantages in development and deployment, particularly when integrated with Databricks for automated research workflows.",
+  "tech_stack": [
+    "Databricks",
+    "Python",
+    "AI/ML",
+    "Autoresearch"
+  ],
+  "problem_solved": "Addresses complexity and overhead issues in AI research tooling by advocating for minimal, focused design principles.",
+  "why_valuable": "Demonstrates that simpler, more focused tools can outperform complex, feature-heavy alternatives in AI development workflows.",
+  "tags": [
+    "minimalism",
+    "AI",
+    "databricks",
+    "software-design",
+    "open-source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:45:47.466140+00:00",
+  "updated_at": "2026-08-05T10:47:35.459977+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-007",
+  "source": "rss",
+  "source_url": "https://queue.acm.org/detail.cfm?id=3807963",
+  "title": "Eight Myths on Software Engineering and GenAI",
+  "summary": "This ACM Queue article debunks eight common misconceptions about how Generative AI impacts software engineering, including myths about AI replacing developers, improving code quality, eliminating bugs, and reducing technical debt. Written by experienced software engineering leaders, it provides evidence-based analysis to help teams set realistic expectations for AI adoption.",
+  "tech_stack": [
+    "GenAI",
+    "LLM",
+    "Software Engineering",
+    "Code Analysis",
+    "Testing Automation"
+  ],
+  "problem_solved": "Addresses widespread misconceptions and unrealistic expectations about GenAI capabilities in software development workflows.",
+  "why_valuable": "Provides practical, myth-busting guidance that helps engineering teams make informed decisions about AI tool adoption and avoid overinvestment in misunderstood use cases.",
+  "tags": [
+    "GenAI",
+    "Software Engineering",
+    "Myth-busting",
+    "AI Tools",
+    "Development Practices"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-05T10:44:45.919708+00:00",
+  "updated_at": "2026-08-05T10:47:35.452722+00:00",
+  "published_to": []
+}

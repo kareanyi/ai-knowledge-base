@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-019",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/shieldstral/",
+  "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+  "summary": "Mistral AI released Shieldstral, a 3-billion parameter open-weights model specifically designed for multimodal content moderation, capable of analyzing both text and images to detect harmful content.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "ONNX",
+    "Multimodal AI"
+  ],
+  "problem_solved": "Provides accessible, lightweight content moderation for both text and images without requiring expensive API calls or proprietary solutions.",
+  "why_valuable": "Being open-weights with only 3B parameters, it democratizes AI-powered content moderation for developers and organizations with limited resources.",
+  "tags": [
+    "Open Source",
+    "Content Moderation",
+    "Multimodal",
+    "Safety AI",
+    "Mistral"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-05T10:47:21.451503+00:00",
+  "updated_at": "2026-08-05T10:47:35.461206+00:00",
+  "published_to": []
+}

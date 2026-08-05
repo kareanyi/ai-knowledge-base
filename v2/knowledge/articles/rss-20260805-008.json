@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-008",
+  "source": "rss",
+  "source_url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+  "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+  "summary": "Security researcher documents critical IP and DNS leak vulnerabilities in WebKit that compromise user privacy when using proxy browsers or iCloud Private Relay, potentially exposing users' real IP addresses despite privacy protections.",
+  "tech_stack": [
+    "WebKit",
+    "Safari",
+    "iCloud Private Relay",
+    "DNS",
+    "Proxy/VPN"
+  ],
+  "problem_solved": "Exposes WebKit vulnerabilities that cause IP and DNS leaks, undermining privacy protections in proxy browsers and Apple's iCloud Private Relay service.",
+  "why_valuable": "This disclosure helps security teams and Apple identify and patch critical privacy leaks that could expose users' real identities and locations despite using privacy tools.",
+  "tags": [
+    "Security",
+    "WebKit",
+    "Privacy",
+    "DNS-Leak",
+    "iCloud-Private-Relay"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:44:56.460372+00:00",
+  "updated_at": "2026-08-05T10:47:35.452904+00:00",
+  "published_to": []
+}

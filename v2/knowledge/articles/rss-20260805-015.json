@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-015",
+  "source": "rss",
+  "source_url": "https://deepgrove.ai/maple-preview",
+  "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+  "summary": "Maple-Preview is a ternary 20B Mixture of Experts LLM that achieves 120 tokens per second inference speed on iPhone, making large language model deployment on mobile devices practical without cloud dependency.",
+  "tech_stack": [
+    "Ternary Quantization",
+    "Mixture of Experts (MoE)",
+    "20B Parameters",
+    "Edge AI",
+    "Mobile Inference"
+  ],
+  "problem_solved": "Enables running large 20B parameter language models locally on resource-constrained mobile devices like iPhones with acceptable performance.",
+  "why_valuable": "Brings privacy-preserving, offline AI capabilities to mobile devices while demonstrating extreme model compression through ternary quantization techniques.",
+  "tags": [
+    "Edge AI",
+    "Mobile AI",
+    "LLM",
+    "Model Compression",
+    "MoE"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-05T10:46:24.856412+00:00",
+  "updated_at": "2026-08-05T10:47:35.460513+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260805-014",
+  "source": "rss",
+  "source_url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+  "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+  "summary": "Interpol's latest cybercrime report reveals that AI is now involved in over half of all cybercrimes in Africa, with digital scams experiencing significant surge across the continent. The report highlights how threat actors are increasingly weaponizing AI tools for fraud, phishing, and social engineering attacks targeting African populations.",
+  "tech_stack": [
+    "AI/ML",
+    "Digital Fraud Tools",
+    "Social Engineering"
+  ],
+  "problem_solved": "This content raises awareness about the growing threat of AI-enabled cybercrime in Africa rather than solving a problem.",
+  "why_valuable": "Provides critical threat intelligence from Interpol that helps organizations and governments understand emerging AI-powered attack vectors in the African region.",
+  "tags": [
+    "Cybersecurity",
+    "AI Threats",
+    "Africa",
+    "Fraud",
+    "Interpol"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:46:14.486257+00:00",
+  "updated_at": "2026-08-05T10:47:35.460327+00:00",
+  "published_to": []
+}

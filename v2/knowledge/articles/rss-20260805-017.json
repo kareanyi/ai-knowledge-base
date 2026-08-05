@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-017",
+  "source": "rss",
+  "source_url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+  "title": "Waymo in Dallas",
+  "summary": "Waymo announced the expansion of its autonomous ride-hailing service to Dallas, making it now open to all users in the city. This marks a significant step in Waymo's national expansion strategy, bringing their fifth-generation autonomous vehicles and driverless technology to a major US metropolitan area.",
+  "tech_stack": [
+    "Autonomous Vehicle Technology",
+    "LiDAR Sensors",
+    "Computer Vision AI",
+    "Real-time Mapping",
+    "Machine Learning"
+  ],
+  "problem_solved": "Provides urban mobility solutions through safe, autonomous transportation in Dallas-Fort Worth area.",
+  "why_valuable": "Represents a major milestone in commercializing autonomous vehicles for everyday public use in a large US city, demonstrating the scalability of self-driving technology.",
+  "tags": [
+    "Autonomous Vehicles",
+    "Self-Driving",
+    "Waymo",
+    "Urban Mobility",
+    "Ride-Hailing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:46:59.594053+00:00",
+  "updated_at": "2026-08-05T10:47:35.460869+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-010",
+  "source": "rss",
+  "source_url": "https://github.com/brian-armstrong/fec",
+  "title": "Show HN: SIMD Viterbi Decoder in Rust",
+  "summary": "用Rust重写的SIMD加速Viterbi解码器，用于卷积码的纠错解码。通过利用Rust的std::simd特性，实现了模板化、泛型的解码器，能在运行时根据CPU支持的指令集自动选择最优实现路径，小码率场景可完全在寄存器内完成解码。",
+  "tech_stack": [
+    "Rust",
+    "SIMD intrinsics",
+    "Convolutional codes",
+    "Viterbi algorithm",
+    "Runtime dispatch"
+  ],
+  "problem_solved": "实现高性能的卷积码Viterbi解码，通过SIMD并行化提升吞吐量。",
+  "why_valuable": "提供了比原C实现更高性能且保证内存安全的纠错码解码库，同时支持多架构指令集自动优化。",
+  "tags": [
+    "SIMD",
+    "Rust",
+    "Viterbi",
+    "Error-correction",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-05T10:45:16.387847+00:00",
+  "updated_at": "2026-08-05T10:47:35.453263+00:00",
+  "published_to": []
+}

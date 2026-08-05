@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260805-002",
+  "source": "rss",
+  "source_url": "https://calpaterson.com/helsinki-hn.html",
+  "title": "Helsinki Hacker News Meetup",
+  "summary": "A Helsinki Hacker News local meetup event announcement connecting local tech enthusiasts and entrepreneurs in the Helsinki area for networking and discussion.",
+  "tech_stack": [
+    "General Tech Community"
+  ],
+  "problem_solved": "Connects local Helsinki-based tech professionals and HN readers who want to meet in person rather than just interacting online.",
+  "why_valuable": "Provides face-to-face networking opportunities for the Helsinki tech community, fostering real-world connections beyond online discussions.",
+  "tags": [
+    "Meetup",
+    "Community",
+    "Helsinki",
+    "Networking",
+    "HackerNews"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-08-05T10:43:46.244318+00:00",
+  "updated_at": "2026-08-05T10:47:35.451946+00:00",
+  "published_to": []
+}

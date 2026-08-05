@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260805-005",
+  "source": "rss",
+  "source_url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+  "title": "Bugtraq is back",
+  "summary": "Bugtraq, one of the most influential and historic computer security mailing lists that had been discontinued for years, has returned to SecurityFocus. The list was originally a primary venue for vulnerability disclosure and security discussions in the early 2000s before its discontinuation.",
+  "tech_stack": [
+    "HyperKitty",
+    "Mailman 3",
+    "Mailing List Infrastructure"
+  ],
+  "problem_solved": "Marks the revival of a historic security mailing list that served as a crucial platform for vulnerability disclosure and security research community collaboration for over a decade.",
+  "why_valuable": "Restores access to a legendary security resource that shaped the vulnerability disclosure process and fostered the security research community, providing a familiar platform for continued security discussions.",
+  "tags": [
+    "Security",
+    "Mailing Lists",
+    "Vulnerability Disclosure",
+    "Bugtraq",
+    "Security Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:44:18.913315+00:00",
+  "updated_at": "2026-08-05T10:47:35.452352+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260805-001",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+  "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+  "summary": "The Guardian reports that Palantir, the data analytics and AI software company, paid only £2 million in UK corporation tax in 2024 despite generating significant revenue from UK government contracts. The low tax payment has raised questions about the company's accounting practices and tax optimization strategies in the UK.",
+  "tech_stack": [
+    "Data Analytics",
+    "AI/ML Software",
+    "Big Data"
+  ],
+  "problem_solved": "This investigative piece highlights corporate tax avoidance practices by major technology companies operating in the UK",
+  "why_valuable": "Sheds light on the gap between public sector technology spending and tax contributions from tech giants",
+  "tags": [
+    "Corporate Tax",
+    "Data Analytics",
+    "UK Government",
+    "Corporate Finance",
+    "Accountability"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-05T10:43:37.946448+00:00",
+  "updated_at": "2026-08-05T10:47:35.451676+00:00",
+  "published_to": []
+}

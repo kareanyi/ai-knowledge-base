@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-004",
+  "source": "rss",
+  "source_url": "https://github.com/Carloscodix/qapla",
+  "title": "An SLM trained on $8 ESP32-S3",
+  "summary": "Qapla 是一个开源项目，演示了如何在仅售 8 美元的 ESP32-S3 微控制器上训练和运行小型语言模型（SLM），实现了边缘设备上的本地 AI 推理能力。",
+  "tech_stack": [
+    "ESP32-S3",
+    "Python",
+    "TensorFlow Lite Micro",
+    "C/C++",
+    "Arduino"
+  ],
+  "problem_solved": "解决了在极低成本嵌入式硬件上运行 AI 语言模型的问题，实现了完全的本地化和离线 AI 推理。",
+  "why_valuable": "将 AI 能力下沉到低成本 IoT 设备，提供了隐私保护、低延迟和无网络依赖的边缘 AI 解决方案。",
+  "tags": [
+    "Edge AI",
+    "Embedded Systems",
+    "SLM",
+    "IoT",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:44:09.108044+00:00",
+  "updated_at": "2026-08-05T10:47:35.452229+00:00",
+  "published_to": []
+}

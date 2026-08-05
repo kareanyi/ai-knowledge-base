@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260805-006",
+  "source": "rss",
+  "source_url": "https://flowiseai.com/sunset",
+  "title": "Flowise is shutting down",
+  "summary": "Flowise, a popular open-source no-code platform for building LLM applications using LangChain, has officially announced its shutdown. The project, which provided a visual drag-and-drop interface for creating AI workflows, has ceased operations and its community is now migrating to alternative solutions.",
+  "tech_stack": [
+    "LangChain",
+    "Node.js",
+    "React",
+    "TypeScript",
+    "OpenAI API"
+  ],
+  "problem_solved": "It democratized AI application development by enabling non-developers to build LLM-powered workflows without writing code.",
+  "why_valuable": "This announcement marks the end of a widely-used open-source AI tool, signaling consolidation in the AI tooling space and prompting the community to explore alternative platforms.",
+  "tags": [
+    "OpenSource",
+    "AI",
+    "NoCode",
+    "LangChain",
+    "Sunset"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-05T10:44:34.531669+00:00",
+  "updated_at": "2026-08-05T10:47:35.452550+00:00",
+  "published_to": []
+}

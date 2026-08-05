@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260805-011",
+  "source": "rss",
+  "source_url": "https://seg6.space/posts/center-div/",
+  "title": "We finally learned to center a div, then browsers added sidebars",
+  "summary": "A humorous commentary on CSS layout evolution, lamenting how developers finally mastered centering divs with modern techniques like Flexbox and Grid, only to face new challenges when browsers introduced sidebar features that disrupt established layouts.",
+  "tech_stack": [
+    "CSS",
+    "Flexbox",
+    "Grid",
+    "HTML"
+  ],
+  "problem_solved": "Addresses the ongoing challenge of CSS centering and layout adaptability as browser features evolve.",
+  "why_valuable": "Provides relatable developer humor and insight into the ever-changing landscape of CSS best practices.",
+  "tags": [
+    "CSS",
+    "Frontend",
+    "WebDevelopment",
+    "Humor",
+    "Layout"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-05T10:45:28.480617+00:00",
+  "updated_at": "2026-08-05T10:47:35.459786+00:00",
+  "published_to": []
+}
