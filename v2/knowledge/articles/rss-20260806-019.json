@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-019",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/cloudflare-os/",
+  "title": "Cloudflare OS: an open platform for agents, apps, and work",
+  "summary": "Cloudflare OS is an open platform launched by Cloudflare that enables developers to build, deploy, and run AI agents, applications, and workflows directly on the edge network. It integrates Workers AI, durable objects, and agent orchestration tools into a unified platform, allowing AI agents to perform tasks like web browsing, file operations, and third-party integrations at scale.",
+  "tech_stack": [
+    "Cloudflare Workers",
+    "Workers AI",
+    "Durable Objects",
+    "AI Agents",
+    "Edge Computing"
+  ],
+  "problem_solved": "Eliminates the complexity of building and scaling AI-powered applications by providing a unified edge platform with built-in agent capabilities and infrastructure tools.",
+  "why_valuable": "It democratizes AI agent development by offering a globally distributed, low-latency platform where developers can deploy intelligent applications without managing underlying infrastructure.",
+  "tags": [
+    "Cloudflare",
+    "AI Agents",
+    "Edge Computing",
+    "Serverless",
+    "Platform"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-06T10:51:05.542716+00:00",
+  "updated_at": "2026-08-06T10:51:06.756422+00:00",
+  "published_to": []
+}

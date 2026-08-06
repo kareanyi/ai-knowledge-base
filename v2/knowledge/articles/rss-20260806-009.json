@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-009",
+  "source": "rss",
+  "source_url": "https://zed.dev/deltadb",
+  "title": "Zed DeltaDB",
+  "summary": "Zed DeltaDB is a high-performance database technology developed by the Zed code editor team, designed to handle real-time collaborative editing and local-first data synchronization. It likely employs delta-based or CRDT-style algorithms for efficient change tracking and conflict resolution.",
+  "tech_stack": [
+    "Rust",
+    "CRDT",
+    "Real-time Sync",
+    "Local-first",
+    "Collaborative Editing"
+  ],
+  "problem_solved": "Enables efficient real-time collaboration and local-first data persistence for high-performance applications like code editors.",
+  "why_valuable": "Provides a performant, conflict-free way to sync data across clients while maintaining offline capability, crucial for modern collaborative tools.",
+  "tags": [
+    "Database",
+    "CRDT",
+    "Real-time",
+    "Collaboration",
+    "Local-first"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-06T10:48:58.986345+00:00",
+  "updated_at": "2026-08-06T10:51:06.749340+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260806-010",
+  "source": "rss",
+  "source_url": "https://blog.fogus.me/llm/born-against.html",
+  "title": "Born Against, or why hobby programming communities are against LLM usage",
+  "summary": "A reflective essay exploring the philosophical and cultural reasons why hobby programming communities resist LLM usage, examining themes of authentic struggle, the value of learning through difficulty, and community identity preservation in the age of AI-assisted coding.",
+  "tech_stack": [
+    "Blog Platform",
+    "Static Site"
+  ],
+  "problem_solved": "Explains the ideological and cultural resistance to LLMs in hobbyist programming communities rather than providing technical solutions.",
+  "why_valuable": "Offers nuanced insight into programmer culture, the educational value of struggle, and the identity politics underlying technology adoption debates.",
+  "tags": [
+    "LLM",
+    "Programming Culture",
+    "Community",
+    "AI Ethics",
+    "Hobbyist"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-06T10:49:12.009926+00:00",
+  "updated_at": "2026-08-06T10:51:06.749467+00:00",
+  "published_to": []
+}

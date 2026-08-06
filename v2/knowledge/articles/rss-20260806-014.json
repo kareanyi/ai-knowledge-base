@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-014",
+  "source": "rss",
+  "source_url": "https://github.com/denoland/celld",
+  "title": "Celld: Self-hosted, distributed Durable Objects",
+  "summary": "Celld 是 Deno 团队开发的一个开源项目，旨在提供自托管的分布式 Durable Objects 实现，允许开发者在自己的基础设施上运行类似 Cloudflare Durable Objects 的强一致性状态管理方案。",
+  "tech_stack": [
+    "Rust",
+    "Deno",
+    "Durable Objects",
+    "V8",
+    "Distributed Systems"
+  ],
+  "problem_solved": "解决开发者必须依赖 Cloudflare Workers 才能使用 Durable Objects 的限制，提供自托管选项以获得更大的基础设施控制权。",
+  "why_valuable": "它让 Durable Objects 技术从云厂商锁定中解放出来，使开发者能在任何环境中部署强一致性的分布式状态管理，降低了技术门槛和成本。",
+  "tags": [
+    "Durable Objects",
+    "Distributed Systems",
+    "Deno",
+    "Cloudflare",
+    "Self-hosted"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-06T10:50:00.333091+00:00",
+  "updated_at": "2026-08-06T10:51:06.755728+00:00",
+  "published_to": []
+}

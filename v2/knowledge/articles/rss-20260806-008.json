@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-008",
+  "source": "rss",
+  "source_url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+  "title": "Muse Code and Muse Spark 1.2",
+  "summary": "Meta AI announces Muse Code and Muse Spark 1.2, which are AI-powered code generation and creative assistance tools designed to help developers and creators boost productivity through advanced language model capabilities.",
+  "tech_stack": [
+    "PyTorch",
+    "Transformer",
+    "Large Language Models",
+    "Python",
+    "Hugging Face"
+  ],
+  "problem_solved": "Enables faster code development and creative workflows by providing AI-assisted code completion and generation capabilities directly integrated into development environments.",
+  "why_valuable": "These tools democratize access to powerful code generation AI, helping developers write better code faster while reducing cognitive load during complex programming tasks.",
+  "tags": [
+    "AI",
+    "Code Generation",
+    "Meta AI",
+    "LLM",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-06T10:48:48.033687+00:00",
+  "updated_at": "2026-08-06T10:51:06.749202+00:00",
+  "published_to": []
+}

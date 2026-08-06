@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-001",
+  "source": "rss",
+  "source_url": "https://buttondown.com/blog/what-i-love-about-django",
+  "title": "What I love about Django",
+  "summary": "A personal opinion piece where the author shares their appreciation for Django, the Python web framework, highlighting what makes it special compared to other frameworks.",
+  "tech_stack": [
+    "Django",
+    "Python",
+    "SQLite",
+    "PostgreSQL",
+    "HTML/CSS"
+  ],
+  "problem_solved": "Provides developer insights on why Django is a beloved framework for building web applications.",
+  "why_valuable": "Personal perspective articles like this help developers make informed decisions about choosing Django for their projects based on real-world experiences.",
+  "tags": [
+    "Django",
+    "Python",
+    "Web Development",
+    "Framework",
+    "Backend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-06T10:47:03.474029+00:00",
+  "updated_at": "2026-08-06T10:51:06.748003+00:00",
+  "published_to": []
+}

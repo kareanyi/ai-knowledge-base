@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260806-013",
+  "source": "rss",
+  "source_url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+  "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+  "summary": "A security research article exposing a critical vulnerability in Atlassian Rovo where the AI-powered enterprise search tool can exfiltrate sensitive data by bypassing access controls, potentially exposing confidential corporate information to unauthorized users.",
+  "tech_stack": [
+    "Atlassian Rovo",
+    "AI/LLM",
+    "Enterprise Search",
+    "Security Research Tools"
+  ],
+  "problem_solved": "Documents a serious data exfiltration vulnerability in Atlassian's AI product that bypasses permission controls, allowing unauthorized access to sensitive corporate data.",
+  "why_valuable": "This security disclosure is critical for enterprise security teams using Atlassian products, as it reveals a fundamental flaw in how AI-powered search tools handle access controls, with implications for the broader AI enterprise security landscape.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "AI",
+    "Enterprise",
+    "Data Exfiltration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-06T10:49:45.800466+00:00",
+  "updated_at": "2026-08-06T10:51:06.755584+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-015",
+  "source": "rss",
+  "source_url": "https://www.hyperprobe.co",
+  "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+  "summary": "HyperProbe is a YC S26 startup enabling AI coding agents like Cursor and Claude to safely perform read-only debugging in production by inserting virtual breakpoints to extract exact variable values without risky redeployments.",
+  "tech_stack": [
+    "AI Agents",
+    "Python",
+    "Production Debugging",
+    "Virtual Breakpoints",
+    "Read-only Inspection"
+  ],
+  "problem_solved": "Eliminates the tedious process of digging through logs/traces or redeploying with debug statements to find production bugs.",
+  "why_valuable": "It gives AI agents real-time access to live production state, cutting debugging time from hours to minutes while keeping production safe.",
+  "tags": [
+    "AI",
+    "Debugging",
+    "DevOps",
+    "Production",
+    "Developer-Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-06T10:50:17.800870+00:00",
+  "updated_at": "2026-08-06T10:51:06.755864+00:00",
+  "published_to": []
+}

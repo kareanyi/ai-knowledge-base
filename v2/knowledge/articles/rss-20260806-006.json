@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-006",
+  "source": "rss",
+  "source_url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+  "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+  "summary": "Chips and Cheese publishes a technical critique of NVIDIA's Vera CPU whitepaper, identifying potential architectural issues or questionable design decisions in NVIDIA's new data center CPU architecture. The article provides independent technical analysis of Vera's design choices and implementation details.",
+  "tech_stack": [
+    "CPU Architecture",
+    "NVIDIA Vera",
+    "ARM Neoverse",
+    "Data Center Hardware",
+    "RISC-V"
+  ],
+  "problem_solved": "Exposes and analyzes technical deficiencies or inconsistencies found in NVIDIA's Vera CPU architecture whitepaper documentation.",
+  "why_valuable": "Provides independent, deep-dive technical analysis of NVIDIA's new CPU architecture from experts who specialize in CPU microarchitecture review, helping the industry understand potential design issues.",
+  "tags": [
+    "CPU",
+    "NVIDIA",
+    "GPU",
+    "Hardware Analysis",
+    "Microarchitecture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-06T10:48:17.217408+00:00",
+  "updated_at": "2026-08-06T10:51:06.748888+00:00",
+  "published_to": []
+}

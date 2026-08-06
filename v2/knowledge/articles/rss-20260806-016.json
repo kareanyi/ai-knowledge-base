@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-016",
+  "source": "rss",
+  "source_url": "https://www.discoveryloop.com/",
+  "title": "Discovery Loop",
+  "summary": "Discovery Loop is a curated resource discovery platform that helps users find and explore new tools, products, and resources across various categories. The platform appears to have gained significant traction in the tech community, as evidenced by its viral Hacker News discussion with 760+ points and 477 comments.",
+  "tech_stack": [
+    "Web Platform",
+    "Community-driven",
+    "Curated Content",
+    "Resource Aggregation",
+    "Discovery Engine"
+  ],
+  "problem_solved": "Solves the problem of information overload by curating and organizing discoverable resources, tools, and products in one accessible location.",
+  "why_valuable": "Provides a community-vetted resource hub that saves time for developers, entrepreneurs, and tech enthusiasts seeking quality tools and references without endless searching.",
+  "tags": [
+    "Discovery",
+    "Resources",
+    "Tools",
+    "Curated",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-06T10:50:30.422488+00:00",
+  "updated_at": "2026-08-06T10:51:06.756015+00:00",
+  "published_to": []
+}

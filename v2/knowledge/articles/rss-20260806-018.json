@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-018",
+  "source": "rss",
+  "source_url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+  "title": "The Entropy of a Markov Chain",
+  "summary": "This article explores the mathematical concept of entropy within Markov chains, a fundamental topic in statistical physics and probability theory. It likely explains how entropy measures the randomness or information content in stochastic processes with memoryless transitions, connecting thermodynamics to information theory.",
+  "tech_stack": [
+    "Mathematics",
+    "Probability Theory",
+    "Statistical Physics",
+    "Information Theory",
+    "Shannon Entropy"
+  ],
+  "problem_solved": "Explains how to quantify uncertainty and information flow in stochastic processes with Markov chain models",
+  "why_valuable": "Understanding entropy in Markov chains is fundamental for statistical mechanics, machine learning, and communication theory applications",
+  "tags": [
+    "Physics",
+    "Mathematics",
+    "Markov Chains",
+    "Entropy",
+    "Information Theory"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-06T10:50:54.459087+00:00",
+  "updated_at": "2026-08-06T10:51:06.756289+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-011",
+  "source": "rss",
+  "source_url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+  "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+  "summary": "Neon demonstrates that their castform solution achieves comparable retrieval performance to frontier models like GPT-4 while using open-source models that are 100x cheaper, focusing on database-integrated AI inference that reduces latency and costs for production applications.",
+  "tech_stack": [
+    "Serverless Postgres",
+    "Open Source LLMs",
+    "Retrieval-Augmented Generation",
+    "Vector Search",
+    "Python"
+  ],
+  "problem_solved": "Addresses the high cost and latency of using frontier AI models for retrieval tasks in production database environments.",
+  "why_valuable": "Enables developers to build AI-powered applications with enterprise-grade performance at a fraction of the cost using commodity hardware and open models.",
+  "tags": [
+    "Cost Efficiency",
+    "Open Source AI",
+    "Database Integration",
+    "RAG",
+    "LLM Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-06T10:49:23.226865+00:00",
+  "updated_at": "2026-08-06T10:51:06.755272+00:00",
+  "published_to": []
+}

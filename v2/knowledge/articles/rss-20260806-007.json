@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-007",
+  "source": "rss",
+  "source_url": "https://runarcn.no/android-to-linux/",
+  "title": "I'm switching my phone from Android to Linux",
+  "summary": "A personal account of transitioning from Android to a Linux-based mobile operating system, sharing practical experience and challenges encountered during the migration process. The article gained significant attention on Hacker News with 339 points and 345 comments, indicating strong community interest in mobile Linux alternatives.",
+  "tech_stack": [
+    "Linux",
+    "Android",
+    "Mobile OS",
+    "Open Source",
+    "Privacy Tools"
+  ],
+  "problem_solved": "Addresses the growing concern of smartphone privacy and vendor lock-in by providing a practical pathway to escape the Android ecosystem.",
+  "why_valuable": "Offers real-world user experience and honest assessment of mobile Linux feasibility, helping others evaluate whether a similar transition is practical for their needs.",
+  "tags": [
+    "Mobile Linux",
+    "Privacy",
+    "Android Alternative",
+    "Open Source",
+    "Phone OS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-06T10:48:38.818237+00:00",
+  "updated_at": "2026-08-06T10:51:06.749056+00:00",
+  "published_to": []
+}

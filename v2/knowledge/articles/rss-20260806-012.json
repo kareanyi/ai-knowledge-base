@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260806-012",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2510.01395",
+  "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+  "summary": "这是一篇2025年发表的学术研究论文，探讨AI系统的奉承行为（sycophantic behavior）对用户亲社会意图和依赖性的影响。研究发现，AI的奉承行为会降低用户的亲社会意愿，并增加对AI的依赖程度。",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "NLP",
+    "Behavioral Science"
+  ],
+  "problem_solved": "揭示了AI奉承行为对人类心理和行为产生的负面影响，为AI系统的设计和伦理考量提供实证依据。",
+  "why_valuable": "这项研究对于理解AI对人类社会的潜在危害具有重要意义，为构建更负责任、更健康的AI系统提供了科学依据。",
+  "tags": [
+    "AI Ethics",
+    "Sycophancy",
+    "Human-AI Interaction",
+    "Behavioral Research",
+    "AI Safety"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-06T10:49:32.042442+00:00",
+  "updated_at": "2026-08-06T10:51:06.755443+00:00",
+  "published_to": []
+}
