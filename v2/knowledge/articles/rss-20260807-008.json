@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-008",
+  "source": "rss",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+  "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+  "summary": "Researchers have developed a bioengineered chewing gum that can neutralize HPV (Human Papillomavirus) and other pathogenic microbes in the oral cavity, representing an innovative preventive approach that leverages a familiar delivery mechanism for antiviral therapy.",
+  "tech_stack": [
+    "Biotechnology",
+    "Recombinant Protein Engineering",
+    "Antiviral Agents",
+    "Oral Drug Delivery",
+    "Microbe Neutralization"
+  ],
+  "problem_solved": "Provides a novel, non-invasive way to deliver antiviral and antimicrobial compounds directly to the oral cavity to prevent HPV and other microbial infections.",
+  "why_valuable": "It transforms a common everyday product into a therapeutic tool, offering a low-cost, accessible method for preventive healthcare against viral and bacterial threats.",
+  "tags": [
+    "Biotechnology",
+    "HPV Prevention",
+    "Oral Health",
+    "Medical Innovation",
+    "Drug Delivery"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-07T09:10:01.240729+00:00",
+  "updated_at": "2026-08-07T09:13:11.637130+00:00",
+  "published_to": []
+}

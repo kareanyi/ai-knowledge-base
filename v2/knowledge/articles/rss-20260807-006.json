@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-006",
+  "source": "rss",
+  "source_url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+  "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+  "summary": "Troy Hunt announces that the Nepalese Government has joined Have I Been Pwned (HIBP), a breach notification service that alerts organizations when their domains appear in data breaches. This enables government IT departments to proactively notify employees and reset compromised credentials.",
+  "tech_stack": [
+    "Have I Been Pwned",
+    "Cybersecurity",
+    "Data Breach Notification",
+    "Government IT Security",
+    "Credential Monitoring"
+  ],
+  "problem_solved": "Helps government agencies detect when employee credentials have been exposed in data breaches before attackers can exploit them.",
+  "why_valuable": "Government agencies often have sensitive data and high-value targets, making proactive breach notification critical for national security and citizen data protection.",
+  "tags": [
+    "Cybersecurity",
+    "Data Breach",
+    "Government",
+    "Privacy",
+    "Credential Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-07T09:09:28.773330+00:00",
+  "updated_at": "2026-08-07T09:13:11.636736+00:00",
+  "published_to": []
+}

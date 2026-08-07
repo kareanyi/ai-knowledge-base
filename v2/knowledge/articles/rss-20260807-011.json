@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-011",
+  "source": "rss",
+  "source_url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+  "title": "Quake – 30th Anniversary Update",
+  "summary": "Bethesda celebrates Quake's 30th anniversary with a major update featuring new content, visual enhancements, and community events to reinvigorate the classic 1996 first-person shooter for modern players.",
+  "tech_stack": [
+    "Game Development",
+    "3D Graphics",
+    "Multiplayer Networking",
+    "id Tech Engine",
+    "Cross-platform Development"
+  ],
+  "problem_solved": "Keeps a 30-year-old classic game relevant and engaging for both nostalgic players and new audiences.",
+  "why_valuable": "Preserves gaming history while introducing classic FPS gameplay to new generations, strengthening the legacy of one of gaming's most influential titles.",
+  "tags": [
+    "Gaming",
+    "Classic FPS",
+    "Anniversary",
+    "Bethesda",
+    "Retro Gaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-07T09:10:38.119666+00:00",
+  "updated_at": "2026-08-07T09:13:11.644903+00:00",
+  "published_to": []
+}

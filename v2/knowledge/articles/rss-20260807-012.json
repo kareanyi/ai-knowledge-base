@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260807-012",
+  "source": "rss",
+  "source_url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+  "title": "Herdr is joining Y Combinator. The runtime stays open",
+  "summary": "Herdr announces its acceptance into Y Combinator while maintaining an open runtime model, indicating a startup that balances commercial growth with open-source principles. The company appears to be in the developer tools or infrastructure space.",
+  "tech_stack": [
+    "Open Source",
+    "Runtime Systems",
+    "Developer Tools"
+  ],
+  "problem_solved": "Provides open runtime infrastructure while offering commercial services through Y Combinator's accelerator program.",
+  "why_valuable": "Y Combinator backing validates the business model while keeping the runtime open attracts developer adoption and community contribution.",
+  "tags": [
+    "Y Combinator",
+    "Startup",
+    "Open Source",
+    "Runtime",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-07T09:10:52.187701+00:00",
+  "updated_at": "2026-08-07T09:13:11.645122+00:00",
+  "published_to": []
+}

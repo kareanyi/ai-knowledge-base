@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260807-014",
+  "source": "rss",
+  "source_url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+  "title": "Taste Is All That's Left",
+  "summary": "This thought-provoking essay explores the role of human 'taste' and aesthetic judgment in an era where AI commoditizes technical skills. The author argues that as AI tools become capable of executing creative tasks, what remains distinctively human is the ability to discern quality, make curatorial decisions, and provide creative direction. The piece resonates strongly with developers and creatives grappling with AI's impact on creative professions.",
+  "tech_stack": [
+    "AI",
+    "No specific tech stack - philosophical essay"
+  ],
+  "problem_solved": "Addresses the existential question of what uniquely human value remains as AI capabilities expand into creative and technical domains.",
+  "why_valuable": "Offers a nuanced perspective on human creative identity and provides a framework for understanding where human judgment remains irreplaceable in the AI age.",
+  "tags": [
+    "AI",
+    "Creativity",
+    "Philosophy",
+    "Design",
+    "Future of Work"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-07T09:11:55.296038+00:00",
+  "updated_at": "2026-08-07T09:13:11.645502+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-010",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+  "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+  "summary": "AMD宣布收购AI芯片初创公司Taalas，获得其专有的模型到硅(model-to-silicon)技术，该技术可将AI模型直接蚀刻到定制硅芯片上，从而实现显著更高的推理性能和能效。",
+  "tech_stack": [
+    "Custom Silicon",
+    "AI Inference",
+    "Model Compilation",
+    "Chip Design",
+    "Hardware Acceleration"
+  ],
+  "problem_solved": "解决大型AI模型在传统GPU上进行推理时的性能和能效瓶颈问题。",
+  "why_valuable": "通过将AI模型直接硬编码到专用硅芯片上，可以实现比传统GPU方案更高的推理速度和更低的功耗，为AI部署开辟新的硬件范式。",
+  "tags": [
+    "AMD",
+    "AI Chips",
+    "Semiconductor",
+    "Inference Optimization",
+    "Hardware-Software Co-design"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-07T09:10:22.352273+00:00",
+  "updated_at": "2026-08-07T09:13:11.637446+00:00",
+  "published_to": []
+}

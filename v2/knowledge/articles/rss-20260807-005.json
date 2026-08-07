@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-005",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+  "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+  "summary": "A New Mexico court ordered Meta to pay $567 million in damages for causing mental health harms to children through its social media platforms, marking one of the largest settlements related to children's online safety. This landmark ruling sets a precedent for holding big tech companies accountable for algorithmic impacts on minors.",
+  "tech_stack": [
+    "Social Media",
+    "Meta Platforms",
+    "Instagram",
+    "Facebook",
+    "Algorithmic Systems"
+  ],
+  "problem_solved": "This court ruling addresses the lack of accountability for tech companies whose platforms allegedly contribute to mental health issues in children and teenagers.",
+  "why_valuable": "This case signals growing regulatory pressure on big tech companies to take responsibility for their platforms' effects on vulnerable populations, potentially reshaping how social media companies design products for minors.",
+  "tags": [
+    "Big Tech",
+    "Regulation",
+    "Child Safety",
+    "Social Media",
+    "Legal"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-07T09:09:03.884447+00:00",
+  "updated_at": "2026-08-07T09:13:11.636539+00:00",
+  "published_to": []
+}

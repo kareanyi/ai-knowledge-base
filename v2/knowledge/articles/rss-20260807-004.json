@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-004",
+  "source": "rss",
+  "source_url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+  "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+  "summary": "New Orleans is piloting Carbyne's AI-powered Emergency Call Triage software to assist or potentially replace human dispatchers in handling 911 calls. The system uses artificial intelligence to quickly assess emergency situations and prioritize response resources. This deployment has sparked debate about the role of AI in critical public safety functions and whether machines can adequately handle life-or-death situations.",
+  "tech_stack": [
+    "AI/ML",
+    "Voice Recognition",
+    "Emergency Dispatch Systems",
+    "Real-time Communication",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Automates initial 911 call triage to potentially reduce response times and improve resource allocation during emergencies.",
+  "why_valuable": "Could dramatically improve emergency response efficiency while raising important questions about the balance between AI automation and human judgment in life-critical situations.",
+  "tags": [
+    "AI",
+    "Emergency Services",
+    "Public Safety",
+    "911",
+    "Government Technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-07T09:08:34.719104+00:00",
+  "updated_at": "2026-08-07T09:13:11.636360+00:00",
+  "published_to": []
+}

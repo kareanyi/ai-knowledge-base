@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260807-003",
+  "source": "rss",
+  "source_url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+  "title": "Framework discloses data breach via Metabase 0-day",
+  "summary": "Framework, a modular laptop company, disclosed a data breach that occurred through a zero-day vulnerability in Metabase, an open-source business intelligence and data visualization platform. The incident highlights the risks of unpatched third-party software exposing customer data.",
+  "tech_stack": [
+    "Metabase",
+    "Business Intelligence Platform",
+    "Hacker News"
+  ],
+  "problem_solved": "This is a security incident disclosure rather than a solution; it notifies affected users about compromised data exposure through a software vulnerability.",
+  "why_valuable": "Provides real-world evidence of the danger of unpatched third-party BI tools and serves as a case study for security teams to improve their vulnerability management practices.",
+  "tags": [
+    "Data Breach",
+    "Zero-day Vulnerability",
+    "Security Incident",
+    "Metabase",
+    "Third-party Risk"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-07T09:08:17.441198+00:00",
+  "updated_at": "2026-08-07T09:13:11.636186+00:00",
+  "published_to": []
+}

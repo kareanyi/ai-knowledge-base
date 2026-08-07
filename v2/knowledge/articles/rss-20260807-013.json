@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-013",
+  "source": "rss",
+  "source_url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+  "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+  "summary": "A developer shared their humorous discovery that their phone's motion detection system incorrectly classifies the act of running as someone snatching the phone and running away with it, revealing an edge case failure in motion pattern recognition algorithms that struggle to distinguish between jogging movements and theft scenarios.",
+  "tech_stack": [
+    "Mobile Sensors",
+    "Accelerometer",
+    "Gyroscope",
+    "Motion Detection Algorithms",
+    "Pattern Recognition"
+  ],
+  "problem_solved": "Highlights a humorous edge case where motion detection algorithms fail to correctly distinguish between running and phone theft scenarios.",
+  "why_valuable": "Demonstrates real-world limitations of sensor-based motion detection systems and the challenge of distinguishing between similar acceleration patterns in edge cases.",
+  "tags": [
+    "Mobile Sensors",
+    "Motion Detection",
+    "Bug Report",
+    "Accelerometer",
+    "UX Issues"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-07T09:11:06.626361+00:00",
+  "updated_at": "2026-08-07T09:13:11.645306+00:00",
+  "published_to": []
+}

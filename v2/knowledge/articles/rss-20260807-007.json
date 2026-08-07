@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-007",
+  "source": "rss",
+  "source_url": "https://www.aleksagordic.com/blog/vllm",
+  "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+  "summary": "A comprehensive technical breakdown of vLLM's internal architecture, exploring its high-throughput LLM inference mechanisms including PagedAttention, continuous batching, and KV cache management strategies that enable efficient GPU utilization during language model serving.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "CUDA",
+    "Triton",
+    "vLLM"
+  ],
+  "problem_solved": "Addresses the challenge of achieving high-throughput and memory-efficient LLM inference at scale by optimizing GPU resource utilization during token generation.",
+  "why_valuable": "Provides deep technical insights into production-grade LLM serving infrastructure, enabling developers and ML engineers to understand and optimize their inference deployments.",
+  "tags": [
+    "LLM",
+    "Inference",
+    "vLLM",
+    "Deep Learning",
+    "GPU Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-07T09:09:40.682030+00:00",
+  "updated_at": "2026-08-07T09:13:11.636946+00:00",
+  "published_to": []
+}

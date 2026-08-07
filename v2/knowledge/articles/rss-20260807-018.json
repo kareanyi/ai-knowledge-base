@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-018",
+  "source": "rss",
+  "source_url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+  "title": "Mario Meets Pareto",
+  "summary": "A blog post exploring the intersection of game-based optimization and Pareto efficiency, likely demonstrating multi-objective optimization techniques using a Mario-themed problem or environment as a test case. The article gained significant traction on Hacker News with over 1000 points.",
+  "tech_stack": [
+    "Python",
+    "Algorithm Design",
+    "Optimization Theory",
+    "Game Development",
+    "Statistics"
+  ],
+  "problem_solved": "Demonstrates how to balance multiple competing objectives in optimization problems using Pareto-based approaches.",
+  "why_valuable": "Provides practical insights into multi-objective optimization through an engaging, accessible gaming context that appeals to both developers and enthusiasts.",
+  "tags": [
+    "Optimization",
+    "Pareto",
+    "Algorithm",
+    "Game AI",
+    "Multi-objective"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-07T09:13:10.282916+00:00",
+  "updated_at": "2026-08-07T09:13:11.646217+00:00",
+  "published_to": []
+}
