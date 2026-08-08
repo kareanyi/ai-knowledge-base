@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-026",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+  "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+  "summary": "Alibaba launched Qwen3.8-Max with 2.4 trillion parameters using mixture-of-experts architecture, while DeepSeek released V4-Flash with competitive inference pricing. Both companies are driving down AI costs in China's intensifying model race.",
+  "tech_stack": [
+    "Mixture-of-Experts",
+    "Large Language Models",
+    "Parameter Optimization",
+    "Inference Optimization",
+    "Cost Efficiency"
+  ],
+  "problem_solved": "Reducing AI model inference costs and making advanced AI more economically accessible",
+  "why_valuable": "Lower AI costs democratize access to powerful models, enabling more businesses to leverage AI capabilities",
+  "tags": [
+    "AI Competition",
+    "China Tech",
+    "Cost Reduction",
+    "LLM",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:56:39.530287+00:00",
+  "updated_at": "2026-08-08T08:58:12.861054+00:00",
+  "published_to": []
+}

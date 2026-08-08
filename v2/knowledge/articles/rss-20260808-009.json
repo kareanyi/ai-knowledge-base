@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-009",
+  "source": "rss",
+  "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "title": "Managing AI Coding Costs at Scale",
+  "summary": "Databricks分享了在大规模使用AI编码工具时的成本管理策略和最佳实践,涵盖成本监控、优化方法和实际案例研究,为企业控制AI开发工具支出提供实用指南。",
+  "tech_stack": [
+    "Databricks",
+    "GitHub Copilot",
+    "AI/ML Platforms",
+    "Analytics Dashboards",
+    "Enterprise Software"
+  ],
+  "problem_solved": "解决企业在规模化部署AI编码助手时面临的高昂成本控制和资源优化问题。",
+  "why_valuable": "为企业提供了可落地的AI工具成本管理框架,帮助在保持开发效率的同时有效控制IT支出。",
+  "tags": [
+    "AI Coding",
+    "Cost Optimization",
+    "Enterprise",
+    "Developer Tools",
+    "Cloud Cost Management"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-08T08:52:47.308529+00:00",
+  "updated_at": "2026-08-08T08:58:12.851942+00:00",
+  "published_to": []
+}

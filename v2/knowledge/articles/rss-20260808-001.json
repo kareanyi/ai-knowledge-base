@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-001",
+  "source": "rss",
+  "source_url": "https://github.com/xoreaxeaxeax/rosenbridge",
+  "title": "Hardware backdoors in some x86 CPUs",
+  "summary": "Rosenbridge is a research project exposing undocumented hardware backdoors found in certain x86 CPUs, demonstrating how hidden functionality can exist within processor firmware that bypasses normal security boundaries.",
+  "tech_stack": [
+    "x86 Assembly",
+    "C",
+    "Low-level Hardware",
+    "CPU Architecture",
+    "Firmware Analysis"
+  ],
+  "problem_solved": "Reveals and documents undocumented backdoor mechanisms embedded in x86 CPU hardware that could compromise system security.",
+  "why_valuable": "Critical for hardware security research, helping the security community understand and defend against stealthy hardware-level vulnerabilities that traditional software security cannot detect.",
+  "tags": [
+    "Hardware",
+    "Security",
+    "Backdoor",
+    "x86",
+    "Vulnerability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-08T08:50:47.984161+00:00",
+  "updated_at": "2026-08-08T08:58:12.850603+00:00",
+  "published_to": []
+}

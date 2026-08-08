@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+  "title": "Stanford Evo 2 AI model generates phages against E. coli",
+  "summary": "Stanford researchers used Evo 2, a generative AI model, to synthesize nearly 300 bacteriophages from AI-generated DNA sequences. After laboratory testing, they identified 16 phages with strong E. coli-killing activity, focusing on bacteriophage ΦX174, demonstrating AI's potential to accelerate therapeutic phage development.",
+  "tech_stack": [
+    "Evo 2",
+    "Generative AI",
+    "DNA Synthesis",
+    "Laboratory Testing",
+    "Bacteriophage Engineering"
+  ],
+  "problem_solved": "Uses AI to accelerate the discovery and design of therapeutic bacteriophages as an alternative to antibiotics for drug-resistant bacterial infections.",
+  "why_valuable": "Demonstrates a practical breakthrough in applying generative AI to synthetic biology, potentially offering solutions to the growing antibiotic resistance crisis through AI-designed phage therapies.",
+  "tags": [
+    "AI",
+    "biotechnology",
+    "phage-therapy",
+    "genomics",
+    "drug-discovery"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-08T08:55:36.818633+00:00",
+  "updated_at": "2026-08-08T08:58:12.860113+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-027",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+  "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
+  "summary": "Red Hat has launched asago, an open-source community project backed by NVIDIA and IBM that automates the conversion of AI governance policies into production-ready deployment code. The project provides an auditable workflow designed to bridge the gap between compliance teams and engineering teams, addressing the growing complexity of AI regulation compliance.",
+  "tech_stack": [
+    "Open Source",
+    "Automation",
+    "AI Governance",
+    "Compliance Workflows",
+    "Container/Deployment Technologies"
+  ],
+  "problem_solved": "Closes the gap between AI policy/regulation requirements and actual production deployment by automating the translation of governance rules into executable code.",
+  "why_valuable": "Enables organizations to efficiently comply with emerging AI regulations like the EU AI Act by providing standardized, auditable workflows that connect fragmented compliance and engineering processes.",
+  "tags": [
+    "AI Governance",
+    "Open Source",
+    "EU AI Act",
+    "Compliance Automation",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:56:58.710688+00:00",
+  "updated_at": "2026-08-08T08:58:12.861236+00:00",
+  "published_to": []
+}

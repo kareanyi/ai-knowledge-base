@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260808-015",
+  "source": "rss",
+  "source_url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+  "title": "Möbius-Strip Crosswords",
+  "summary": "A creative blog post exploring the concept of designing crossword puzzles on a Möbius strip surface, where words wrap around and connect in non-traditional ways due to the topological properties of the one-sided strip.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "SVG",
+    "JavaScript"
+  ],
+  "problem_solved": "Explores the creative challenge of adapting traditional 2D crossword puzzles to work on a non-orientable 3D surface with unique connectivity rules.",
+  "why_valuable": "Demonstrates an interesting intersection of mathematics (topology), puzzles, and creative problem-solving that appeals to both math enthusiasts and puzzle designers.",
+  "tags": [
+    "Mathematics",
+    "Topology",
+    "Puzzles",
+    "Creative Coding",
+    "Visualization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:54:15.915095+00:00",
+  "updated_at": "2026-08-08T08:58:12.858962+00:00",
+  "published_to": []
+}

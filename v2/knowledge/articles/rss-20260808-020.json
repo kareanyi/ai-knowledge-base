@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-020",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/kitesurf/",
+  "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+  "summary": "Kitesurf is Cloudflare's experimental agent-first browser architecture designed to run web browsing tasks efficiently in V8 isolates at the edge, enabling AI agents to interact with websites without traditional browser overhead.",
+  "tech_stack": [
+    "V8 JavaScript Engine",
+    "Cloudflare Workers",
+    "Isolates",
+    "Rust",
+    "Browser Automation"
+  ],
+  "problem_solved": "Reduces the computational cost and latency of running browser-based AI agents by executing browser tasks in lightweight V8 isolates at Cloudflare's edge network instead of traditional virtual machines.",
+  "why_valuable": "It enables scalable, cost-effective browser automation for AI agents by leveraging Cloudflare's global edge infrastructure, potentially revolutionizing how AI crawlers and scrapers operate.",
+  "tags": [
+    "browser",
+    "AI-agents",
+    "edge-computing",
+    "cloudflare",
+    "v8-isolates"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-08T08:55:27.974759+00:00",
+  "updated_at": "2026-08-08T08:58:12.859928+00:00",
+  "published_to": []
+}

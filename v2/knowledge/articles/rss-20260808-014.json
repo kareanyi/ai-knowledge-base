@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-014",
+  "source": "rss",
+  "source_url": "https://www.sdss.org/black-hole-mapper-release-20/",
+  "title": "An all-sky map of half a million supermassive black holes",
+  "summary": "The Sloan Digital Sky Survey (SDSS) Black Hole Mapper has released its second major dataset, containing spectroscopic measurements of approximately 500,000 supermassive black holes (quasars), creating the largest-ever all-sky map of these cosmic objects and enabling unprecedented studies of the universe's large-scale structure.",
+  "tech_stack": [
+    "Spectroscopic Analysis",
+    "Astronomical Imaging",
+    "Large-scale Data Visualization",
+    "SDSS Infrastructure",
+    "Catalog Database Systems"
+  ],
+  "problem_solved": "Provides the most comprehensive spectroscopic catalog of supermassive black holes for studying cosmological structure and black hole evolution.",
+  "why_valuable": "This dataset enables researchers to map the universe's large-scale structure and understand how supermassive black holes influence galaxy formation across cosmic time.",
+  "tags": [
+    "Astronomy",
+    "Black Holes",
+    "Cosmology",
+    "Quasars",
+    "Spectroscopy"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-08T08:54:05.207690+00:00",
+  "updated_at": "2026-08-08T08:58:12.858763+00:00",
+  "published_to": []
+}

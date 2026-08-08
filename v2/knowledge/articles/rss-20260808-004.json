@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260808-004",
+  "source": "rss",
+  "source_url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+  "title": "The Nixpkgs core team has disbanded",
+  "summary": "The Nixpkgs core team has disbanded, marking a significant governance crisis in the Nix ecosystem. This represents a major organizational failure in one of the largest open source package repositories, raising concerns about open source sustainability and maintainer burnout.",
+  "tech_stack": [
+    "Nix",
+    "Nixpkgs",
+    "NixOS",
+    "Linux"
+  ],
+  "problem_solved": "This article documents rather than solves a problem - it reports on the collapse of governance structures in the Nixpkgs project due to maintainer burnout and interpersonal conflicts.",
+  "why_valuable": "It highlights critical issues around open source governance, maintainer sustainability, and the challenges of managing massive community projects with volunteer labor.",
+  "tags": [
+    "OpenSource",
+    "Governance",
+    "Community",
+    "NixOS",
+    "Sustainability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:51:34.019515+00:00",
+  "updated_at": "2026-08-08T08:58:12.851175+00:00",
+  "published_to": []
+}

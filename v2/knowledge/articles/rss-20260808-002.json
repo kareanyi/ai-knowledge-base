@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260808-002",
+  "source": "rss",
+  "source_url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+  "title": "Mythos social engineering AISI INC-2026-07-28-01",
+  "summary": "A Hacker News submission about Mythos social engineering research from an AI Safety Institute (AISI), likely documenting social engineering attack techniques or defense strategies. The report appears to be an institutional publication (INC-2026-07-28-01) discussing security vulnerabilities related to AI systems.",
+  "tech_stack": [
+    "N/A (Report/Research Document)"
+  ],
+  "problem_solved": "Addresses social engineering vulnerabilities and threats in AI systems and human-AI interactions.",
+  "why_valuable": "Provides critical security research on social engineering attack vectors against AI systems, contributing to the growing field of AI safety and security.",
+  "tags": [
+    "AI-Safety",
+    "Social-Engineering",
+    "Security-Research",
+    "AI-Security",
+    "Threat-Analysis"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-08T08:51:02.832237+00:00",
+  "updated_at": "2026-08-08T08:58:12.850832+00:00",
+  "published_to": []
+}

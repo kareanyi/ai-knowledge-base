@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260808-012",
+  "source": "rss",
+  "source_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+  "title": "Oracle bans AI-generated code from OpenJDK",
+  "summary": "Oracle has implemented a policy prohibiting AI-generated code contributions to OpenJDK, the open-source reference implementation of Java, despite CEO Larry Ellison previously claiming Oracle isn't using AI to write its own code. This policy likely stems from concerns about code quality, security vulnerabilities, and intellectual property ownership in critical infrastructure projects.",
+  "tech_stack": [
+    "Java",
+    "OpenJDK",
+    "AI Code Generation Tools"
+  ],
+  "problem_solved": "Addresses quality, security, and legal concerns about AI-generated code being introduced into critical open-source infrastructure.",
+  "why_valuable": "Highlights the growing tension between AI adoption and maintaining code quality/security standards in essential open-source projects, setting a precedent for other large-scale projects.",
+  "tags": [
+    "Java",
+    "OpenJDK",
+    "Oracle",
+    "AI-generated Code",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:53:41.656412+00:00",
+  "updated_at": "2026-08-08T08:58:12.858393+00:00",
+  "published_to": []
+}

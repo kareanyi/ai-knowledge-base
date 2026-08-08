@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-007",
+  "source": "rss",
+  "source_url": "https://github.com/xoreaxeaxeax/repsych",
+  "title": "Psychological Warfare in Reverse Engineering (2015)",
+  "summary": "A 2015 research project exploring psychological manipulation techniques applied to reverse engineering, focusing on how code obfuscation and anti-debugging methods can psychologically frustrate or mislead reverse engineers during binary analysis.",
+  "tech_stack": [
+    "x86 Assembly",
+    "C",
+    "Binary Analysis",
+    "Disassembly",
+    "Reverse Engineering"
+  ],
+  "problem_solved": "Addresses the mental and psychological challenges reverse engineers face when encountering deliberately hostile or misleading code structures.",
+  "why_valuable": "Provides unique insights into the human factors of reverse engineering, helping both security researchers understand adversarial code design and developers protect their software more effectively.",
+  "tags": [
+    "reverse-engineering",
+    "binary-analysis",
+    "obfuscation",
+    "security-research",
+    "x86"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:52:19.143498+00:00",
+  "updated_at": "2026-08-08T08:58:12.851608+00:00",
+  "published_to": []
+}

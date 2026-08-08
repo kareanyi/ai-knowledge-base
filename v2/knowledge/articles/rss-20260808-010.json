@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-010",
+  "source": "rss",
+  "source_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+  "title": "Assembly Hall of Shame",
+  "summary": "A curated collection of notoriously bad assembly code examples that serves as an educational resource for developers learning x86 assembly programming by studying common mistakes and anti-patterns to avoid.",
+  "tech_stack": [
+    "x86 Assembly",
+    "x86-64",
+    "MASM",
+    "GAS",
+    "Reverse Engineering"
+  ],
+  "problem_solved": "Provides concrete examples of what NOT to do when writing assembly code, helping developers recognize and avoid common pitfalls in low-level programming.",
+  "why_valuable": "Learning from worst practices is an effective pedagogical approach that helps developers internalize best practices through cautionary examples rather than just theoretical guidance.",
+  "tags": [
+    "Assembly",
+    "x86",
+    "ReverseEngineering",
+    "Education",
+    "CodeQuality"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:53:02.342087+00:00",
+  "updated_at": "2026-08-08T08:58:12.852158+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-025",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+  "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+  "summary": "PRISM2 is a medical AI model developed by Paige and Microsoft that uses a perceiver-based encoder to analyze whole-slide pathology images, trained jointly on tissue tiles and clinical dialogue from pathology reports. The model aggregates thousands of tile embeddings per slide into a unified representation and generates diagnostic text answers rather than performing simple pixel classification.",
+  "tech_stack": [
+    "Microsoft Azure",
+    "Perceiver Encoder",
+    "Whole-Slide Imaging",
+    "Multi-modal Learning",
+    "Deep Learning"
+  ],
+  "problem_solved": "Enables AI systems to interpret pathology slides with clinical context by combining visual analysis with natural language dialogue from pathology reports.",
+  "why_valuable": "It advances digital pathology by moving beyond basic image classification toward contextual diagnostic understanding, potentially improving accuracy and efficiency in cancer diagnosis.",
+  "tags": [
+    "Medical AI",
+    "Digital Pathology",
+    "Computer Vision",
+    "Healthcare AI",
+    "Multi-modal AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-08T08:56:29.551989+00:00",
+  "updated_at": "2026-08-08T08:58:12.860844+00:00",
+  "published_to": []
+}

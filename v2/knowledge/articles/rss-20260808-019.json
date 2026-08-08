@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-019",
+  "source": "rss",
+  "source_url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+  "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+  "summary": "This article describes how the author optimized PostgreSQL's query engine to achieve 300x performance improvements for analytical queries using three key techniques: batching (processing multiple rows together instead of one at a time), operator fusion (combining multiple operators into single passes), and SIMD instructions (utilizing CPU vector processing capabilities for parallel data operations).",
+  "tech_stack": [
+    "PostgreSQL",
+    "C",
+    "SIMD",
+    "Query Engine",
+    "Vectorized Execution"
+  ],
+  "problem_solved": "PostgreSQL's traditional tuple-at-a-time execution model creates excessive overhead for analytical workloads, making it inefficient compared to specialized OLAP databases.",
+  "why_valuable": "It demonstrates how fundamental architectural changes in query execution can unlock massive performance gains without changing the SQL interface or compatibility.",
+  "tags": [
+    "PostgreSQL",
+    "Performance",
+    "Database",
+    "SIMD",
+    "Query Optimization"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-08T08:55:10.691322+00:00",
+  "updated_at": "2026-08-08T08:58:12.859710+00:00",
+  "published_to": []
+}

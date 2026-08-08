@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-018",
+  "source": "rss",
+  "source_url": "https://github.com/Wyzer-Lang/wyzer",
+  "title": "Show HN: Wyzer Programming Language",
+  "summary": "Wyzer is a statically typed, compiled programming language designed for distributed systems safety, combining choreographic programming with the Perceus memory model. Created as an alternative to Rust, it addresses the gap where Rust provides memory safety but lacks guarantees against distributed deadlocks.",
+  "tech_stack": [
+    "Wyzer",
+    "Choreographic Programming",
+    "Perceus Memory Model",
+    "Static Typing",
+    "Compilation"
+  ],
+  "problem_solved": "Provides guaranteed safety against distributed deadlocks in concurrent/distributed systems where existing languages like Rust fail to offer comprehensive safety guarantees.",
+  "why_valuable": "It bridges the gap between memory safety and distributed system safety, offering a unified programming model that eliminates an entire class of concurrency bugs.",
+  "tags": [
+    "Programming Language",
+    "Distributed Systems",
+    "Memory Safety",
+    "Choreographic Programming",
+    "Systems Programming"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-08T08:54:53.673055+00:00",
+  "updated_at": "2026-08-08T08:58:12.859525+00:00",
+  "published_to": []
+}

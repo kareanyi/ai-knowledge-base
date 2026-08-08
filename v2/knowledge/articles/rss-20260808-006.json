@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-006",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+  "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+  "summary": "A former NSA chief has called for water system controllers to be removed from internet connectivity following suspected Iranian cyberattacks on water infrastructure. The article highlights the growing vulnerability of critical infrastructure to nation-state threat actors and the need for fundamental changes in how operational technology systems are managed and protected.",
+  "tech_stack": [
+    "SCADA",
+    "ICS",
+    "Industrial IoT",
+    "Operational Technology",
+    "SCADA/HMI Systems"
+  ],
+  "problem_solved": "Addresses the critical security vulnerability of exposed water system controllers connected to the public internet that are susceptible to foreign state-sponsored cyberattacks.",
+  "why_valuable": "Raises awareness about the urgent need to disconnect critical infrastructure from the internet and implement proper air-gapped security measures for industrial control systems.",
+  "tags": [
+    "Cybersecurity",
+    "Critical Infrastructure",
+    "Water Systems",
+    "SCADA Security",
+    "Nation-State Threats"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-08T08:52:01.373032+00:00",
+  "updated_at": "2026-08-08T08:58:12.851469+00:00",
+  "published_to": []
+}
