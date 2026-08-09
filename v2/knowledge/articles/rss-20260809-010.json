@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-010",
+  "source": "rss",
+  "source_url": "https://seg6.space/posts/phone-server/",
+  "title": "My server is a phone now",
+  "summary": "作者分享了如何将闲置的Android手机转变为个人服务器的详细教程，包括使用Linux Deploy在Android上运行完整的Linux环境，并配置SSH和反向代理实现公网访问。这个项目展示了移动设备作为轻量级服务器的可行性和实际应用场景。",
+  "tech_stack": [
+    "Android",
+    "Linux Deploy",
+    "SSH",
+    "Nginx",
+    "Cloudflare Tunnel"
+  ],
+  "problem_solved": "解决了闲置Android手机资源浪费的问题，提供了一个低成本的私人服务器解决方案。",
+  "why_valuable": "通过将普通Android手机变成可访问的服务器，不仅节省了购买专用服务器的成本，还体现了资源再利用的环保理念，同时具备良好的便携性。",
+  "tags": [
+    "DIY",
+    "Self-hosted",
+    "Android",
+    "Server",
+    "Mobile"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-09T08:54:17.528648+00:00",
+  "updated_at": "2026-08-09T08:59:15.994387+00:00",
+  "published_to": []
+}

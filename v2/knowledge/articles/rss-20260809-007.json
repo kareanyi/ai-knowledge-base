@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-007",
+  "source": "rss",
+  "source_url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+  "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+  "summary": "A peer-reviewed study examining how melatonin supplementation affects next-morning cognitive performance in healthy young adults, finding that melatonin intake impairs morning cognition.",
+  "tech_stack": [
+    "Clinical Research",
+    "Cognitive Testing",
+    "Statistical Analysis",
+    "Sleep Medicine",
+    "Evidence-Based Medicine"
+  ],
+  "problem_solved": "Investigates whether melatonin supplementation causes next-day cognitive impairment in young, healthy individuals.",
+  "why_valuable": "Provides important clinical evidence for safe melatonin use timing, helping consumers and healthcare providers understand potential cognitive trade-offs of taking melatonin before sleep.",
+  "tags": [
+    "Sleep Science",
+    "Cognitive Research",
+    "Melatonin",
+    "Health Study",
+    "Medical Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-09T08:53:44.337079+00:00",
+  "updated_at": "2026-08-09T08:59:15.993851+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260809-018",
+  "source": "rss",
+  "source_url": "https://specification.website/spec/foundations/for-sale-dns/",
+  "title": "_for-sale DNS records",
+  "summary": "This is a specification proposing the use of DNS TXT records to indicate domain names for sale, enabling domain owners to publish sale information and contact details directly in DNS without relying on third-party marketplaces or brokers.",
+  "tech_stack": [
+    "DNS",
+    "TXT Records",
+    "Web Standards",
+    "Decentralized Infrastructure"
+  ],
+  "problem_solved": "Enables domain owners to list properties for sale directly through DNS infrastructure instead of depending on centralized domain marketplaces.",
+  "why_valuable": "It creates a decentralized, platform-independent mechanism for domain name sales that could reduce costs and increase transparency in the domain aftermarket.",
+  "tags": [
+    "DNS",
+    "Web Standards",
+    "Decentralization",
+    "Domain Names",
+    "Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-09T08:56:14.790233+00:00",
+  "updated_at": "2026-08-09T08:59:16.001905+00:00",
+  "published_to": []
+}

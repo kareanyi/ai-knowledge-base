@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260809-003",
+  "source": "rss",
+  "source_url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+  "title": "Illinois just told every operating system to start reporting your kid's age",
+  "summary": "Illinois has passed legislation requiring operating systems to report and verify children's ages, imposing new compliance requirements on tech companies regarding minor users. The bill specifically targets OS-level age verification and reporting mechanisms, likely expanding upon federal COPPA regulations.",
+  "tech_stack": [
+    "Operating Systems",
+    "Age Verification Systems",
+    "Reporting Mechanisms"
+  ],
+  "problem_solved": "Addresses the need for better age verification and tracking of minors using digital devices and operating systems.",
+  "why_valuable": "This legislation sets a precedent for OS-level age reporting requirements, potentially impacting how operating systems handle children's data and privacy across the entire technology industry.",
+  "tags": [
+    "Privacy",
+    "Regulation",
+    "COPPA",
+    "Children Protection",
+    "Age Verification"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-09T08:52:25.202295+00:00",
+  "updated_at": "2026-08-09T08:59:15.993265+00:00",
+  "published_to": []
+}

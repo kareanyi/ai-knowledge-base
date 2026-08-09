@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260809-005",
+  "source": "rss",
+  "source_url": "https://marketnow.site/",
+  "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+  "summary": "A real-time MCP (Model Context Protocol) interceptor tool designed to monitor and block AI agents from reading sensitive files like .env configurations or executing potentially dangerous system commands through the MCP interface.",
+  "tech_stack": [
+    "MCP",
+    "TypeScript",
+    "Node.js"
+  ],
+  "problem_solved": "Prevents AI agents from accessing sensitive environment variables and executing harmful commands through the Model Context Protocol.",
+  "why_valuable": "Provides essential security controls for production AI agent deployments by acting as a guardrail layer that intercepts and filters dangerous MCP operations in real-time.",
+  "tags": [
+    "AI-Security",
+    "MCP",
+    "AI-Agents",
+    "Security-Tools",
+    "DevOps"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-09T08:52:48.809404+00:00",
+  "updated_at": "2026-08-09T08:59:15.993570+00:00",
+  "published_to": []
+}

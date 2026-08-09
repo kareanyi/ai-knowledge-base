@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260809-004",
+  "source": "rss",
+  "source_url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+  "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+  "summary": "Daring Fireball's John Gruber retracts his previous criticism of an App Store rejection after realizing the rejection was actually justified. This is a case of a prominent tech blogger publicly acknowledging an error in his original assessment.",
+  "tech_stack": [
+    "App Store",
+    "iOS"
+  ],
+  "problem_solved": "Corrects misinformation about App Store policies that was spread to a wide audience through a popular tech blog.",
+  "why_valuable": "Demonstrates intellectual honesty and responsible tech journalism by publicly admitting error rather than doubling down.",
+  "tags": [
+    "Apple",
+    "App Store",
+    "Tech Journalism",
+    "iOS Development",
+    "Editorial Integrity"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-08-09T08:52:33.755664+00:00",
+  "updated_at": "2026-08-09T08:59:15.993421+00:00",
+  "published_to": []
+}

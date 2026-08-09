@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-009",
+  "source": "rss",
+  "source_url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+  "title": "Dithered QR Codes",
+  "summary": "An exploration of applying dithering techniques (pixel pattern halftoning) to QR codes to create visually interesting effects while maintaining scannability, likely demonstrating the technical challenge of preserving error correction while creating aesthetic patterns.",
+  "tech_stack": [
+    "Image Processing",
+    "QR Code Generation",
+    "Dithering Algorithms",
+    "Computer Graphics",
+    "Web Technologies"
+  ],
+  "problem_solved": "Demonstrates how to create visually artistic QR codes using dithering patterns without breaking the code's scannability",
+  "why_valuable": "Combines creative coding with practical utility, showing that functional elements like QR codes can also be aesthetically pleasing through algorithmic image processing techniques",
+  "tags": [
+    "QR-Codes",
+    "Dithering",
+    "Image-Processing",
+    "Creative-Coding",
+    "Computer-Graphics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-09T08:54:09.720468+00:00",
+  "updated_at": "2026-08-09T08:59:15.994137+00:00",
+  "published_to": []
+}

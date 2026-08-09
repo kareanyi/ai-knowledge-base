@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-013",
+  "source": "rss",
+  "source_url": "https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute",
+  "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+  "summary": "An open-source interactive web map for visualizing the August 12 total solar eclipse path, featuring multiple data layers including besselian elements, umbra live tracking, 3D shadow projection, and cloud coverage data. The map allows users to explore the totality path with configurable opacity and zoom levels.",
+  "tech_stack": [
+    "JavaScript",
+    "WebGL",
+    "Geographic Information System",
+    "Leaflet/OpenLayers",
+    "Astronomical Calculation"
+  ],
+  "problem_solved": "Provides a comprehensive visualization tool for tracking and planning around the August 12 total solar eclipse path with real-time shadow and weather overlay data.",
+  "why_valuable": "Enables eclipse chasers, astronomers, and the general public to understand and plan for the eclipse experience with layered scientific data visualizations.",
+  "tags": [
+    "Solar Eclipse",
+    "Interactive Map",
+    "Astronomy",
+    "Open Source",
+    "Visualization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-09T08:54:59.346572+00:00",
+  "updated_at": "2026-08-09T08:59:16.000998+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-012",
+  "source": "rss",
+  "source_url": "https://shopify.engineering/scaling-inventory-reservations",
+  "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+  "summary": "Shopify engineers replaced their Redis-based inventory reservation system with MySQL, achieving better scalability while reducing infrastructure complexity and operational overhead for their high-volume e-commerce platform.",
+  "tech_stack": [
+    "MySQL",
+    "Redis",
+    "Distributed Systems",
+    "E-commerce",
+    "Database Optimization"
+  ],
+  "problem_solved": "Scaling inventory reservation system to handle high-volume concurrent operations while maintaining consistency and performance.",
+  "why_valuable": "Demonstrates that traditional relational databases can outperform specialized solutions at scale, offering simpler operations and reduced costs for inventory management use cases.",
+  "tags": [
+    "database",
+    "scaling",
+    "mysql",
+    "redis",
+    "inventory-system"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-09T08:54:45.169148+00:00",
+  "updated_at": "2026-08-09T08:59:16.000815+00:00",
+  "published_to": []
+}

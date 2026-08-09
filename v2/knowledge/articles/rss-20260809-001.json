@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-001",
+  "source": "rss",
+  "source_url": "https://github.com/jmarshall23/msword",
+  "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+  "summary": "A native x64 port of Microsoft Word 1.1a from 1991, enabling the classic 16-bit Windows word processor to run natively on modern 64-bit Windows systems through reverse engineering and code移植, rather than relying on WOW64 compatibility layers.",
+  "tech_stack": [
+    "C/C++",
+    "x64 Assembly",
+    "Win32 API",
+    "Reverse Engineering",
+    "Windows Internals"
+  ],
+  "problem_solved": "Enables running vintage Windows 16-bit applications natively on modern 64-bit hardware without emulation overhead.",
+  "why_valuable": "Preserves software heritage and demonstrates deep technical expertise in Windows architecture, while providing practical value for running legacy applications with better performance.",
+  "tags": [
+    "Reverse Engineering",
+    "Legacy Software",
+    "Windows",
+    "x64",
+    "Porting"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-09T08:52:05.346832+00:00",
+  "updated_at": "2026-08-09T08:59:15.992730+00:00",
+  "published_to": []
+}

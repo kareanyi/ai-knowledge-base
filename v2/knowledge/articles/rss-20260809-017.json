@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-017",
+  "source": "rss",
+  "source_url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+  "title": "Triton: DirectX 11 Driver for QEMU",
+  "summary": "Triton is a newly developed DirectX 11 graphics driver designed to enable hardware-accelerated DirectX 11 rendering within QEMU virtual machines, significantly improving graphics performance for Windows guests running on emulated/virtualized environments like macOS.",
+  "tech_stack": [
+    "QEMU",
+    "DirectX 11",
+    "C/C++",
+    "Graphics Drivers",
+    "Virtualization"
+  ],
+  "problem_solved": "Enables high-performance DirectX 11 graphics acceleration in virtualized Windows environments where traditional software rendering or limited GPU passthrough options fall short.",
+  "why_valuable": "This driver bridges the graphics performance gap in cross-platform virtualization, allowing users to run Windows DirectX 11 applications and games smoothly on non-Windows hosts like macOS through QEMU.",
+  "tags": [
+    "Virtualization",
+    "Graphics",
+    "DirectX",
+    "QEMU",
+    "Drivers"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-09T08:56:00.005774+00:00",
+  "updated_at": "2026-08-09T08:59:16.001725+00:00",
+  "published_to": []
+}

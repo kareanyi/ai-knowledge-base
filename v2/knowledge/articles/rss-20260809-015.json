@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-015",
+  "source": "rss",
+  "source_url": "https://code.claude.com/docs/en/cross-session-messaging",
+  "title": "Message your other Claude Code sessions",
+  "summary": "This documentation describes Claude Code's cross-session messaging feature, enabling users to send messages between different Claude Code sessions running in separate terminals or contexts, supporting multi-agent workflows and distributed AI collaboration.",
+  "tech_stack": [
+    "Claude Code",
+    "CLI",
+    "Claude API",
+    "Terminal/Shell",
+    "IPC (Inter-Process Communication)"
+  ],
+  "problem_solved": "Enables communication and coordination between multiple concurrent Claude Code sessions, solving the isolation problem in distributed AI-assisted development workflows.",
+  "why_valuable": "This feature unlocks multi-agent architectures where different AI sessions can specialize in tasks (e.g., frontend, backend, testing) and collaborate by passing context and instructions between each other.",
+  "tags": [
+    "Claude",
+    "AI Coding Assistant",
+    "Multi-agent",
+    "CLI Tool",
+    "Developer Productivity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-09T08:55:28.658923+00:00",
+  "updated_at": "2026-08-09T08:59:16.001366+00:00",
+  "published_to": []
+}
