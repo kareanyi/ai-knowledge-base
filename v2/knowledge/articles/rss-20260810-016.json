@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260810-016",
+  "source": "rss",
+  "source_url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+  "title": "Taxi drivers rarely die of Alzheimer's",
+  "summary": "Research shows taxi drivers have significantly lower rates of death from Alzheimer's disease, likely due to the intensive cognitive demands of navigating complex urban environments and maintaining detailed mental maps. The hippocampus, brain region crucial for spatial navigation, appears to benefit from this sustained mental exercise, potentially providing neuroprotective effects against dementia.",
+  "tech_stack": [
+    "Neuroscience",
+    "Cognitive Science",
+    "Epidemiology"
+  ],
+  "problem_solved": "Explores why certain mentally demanding occupations may provide protection against neurodegenerative diseases like Alzheimer's.",
+  "why_valuable": "Offers evidence-based insights into how mentally stimulating activities, particularly spatial reasoning and navigation, could help protect brain health and potentially reduce dementia risk.",
+  "tags": [
+    "Neuroscience",
+    "Brain Health",
+    "Cognitive Reserve",
+    "Alzheimers",
+    "Spatial Navigation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-10T09:36:15.114068+00:00",
+  "updated_at": "2026-08-10T09:37:02.305324+00:00",
+  "published_to": []
+}

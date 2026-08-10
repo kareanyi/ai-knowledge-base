@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-003",
+  "source": "rss",
+  "source_url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+  "title": "Auto mode is now the default in Claude Code",
+  "summary": "Anthropic has made Auto mode the default setting in Claude Code, their CLI tool for AI-assisted coding. Auto mode allows Claude to autonomously execute commands and make changes without requiring constant user approval, significantly improving workflow efficiency. This change reflects a shift toward more autonomous AI coding assistants that can handle multi-step tasks with minimal intervention.",
+  "tech_stack": [
+    "Claude Code",
+    "Anthropic Claude AI",
+    "CLI",
+    "Shell Commands",
+    "Git"
+  ],
+  "problem_solved": "Reduces friction in AI-assisted coding by eliminating the need for constant user approval on every action, enabling more seamless autonomous workflows.",
+  "why_valuable": "Developers can now leverage AI coding assistants more efficiently for complex, multi-step tasks while maintaining oversight through review modes for sensitive operations.",
+  "tags": [
+    "AI",
+    "Claude",
+    "Developer Tools",
+    "CLI",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-10T09:32:01.138339+00:00",
+  "updated_at": "2026-08-10T09:37:02.296381+00:00",
+  "published_to": []
+}

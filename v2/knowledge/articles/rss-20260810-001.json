@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-001",
+  "source": "rss",
+  "source_url": "https://www.docker.com/products/docker-sandboxes/",
+  "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+  "summary": "Docker Sandboxes 是 Docker 官方提供的即用型隔离沙箱环境，专为 AI agents 设计，允许在隔离的容器中安全执行任务，支持一键部署预配置环境如 VS Code、Node.js、Python 等，运行时长灵活可控（15分钟到24小时），用完即销毁无需手动清理。",
+  "tech_stack": [
+    "Docker",
+    "Container Technology",
+    "VS Code",
+    "Node.js",
+    "Python"
+  ],
+  "problem_solved": "解决 AI agents 在不安全环境中执行操作的风险，以及开发者需要频繁搭建和清理开发环境的繁琐问题。",
+  "why_valuable": "通过提供隔离、可丢弃的运行环境，大幅提升 AI agent 任务执行的安全性和开发效率，同时简化环境配置流程。",
+  "tags": [
+    "Docker",
+    "Containerization",
+    "AI-Agents",
+    "Sandboxing",
+    "Cloud-Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-10T09:31:38.111759+00:00",
+  "updated_at": "2026-08-10T09:37:02.295813+00:00",
+  "published_to": []
+}

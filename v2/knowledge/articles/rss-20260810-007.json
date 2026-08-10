@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260810-007",
+  "source": "rss",
+  "source_url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+  "title": "What Happened to HackerOne?",
+  "summary": "A critical analysis examining what has happened to HackerOne, one of the leading bug bounty platforms, likely exploring challenges, market changes, or shifts in the company's trajectory and business model.",
+  "tech_stack": [
+    "Web Platform",
+    "Security",
+    "Crowdsourced Testing"
+  ],
+  "problem_solved": "Provides industry analysis and insights into the challenges facing the bug bounty and vulnerability disclosure platform market.",
+  "why_valuable": "Offers perspective on the evolution of the cybersecurity crowdsourcing industry and HackerOne's position in a competitive market.",
+  "tags": [
+    "cybersecurity",
+    "bug-bounty",
+    "startup-analysis",
+    "vulnerability-disclosure",
+    "platform-economy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-10T09:33:17.185774+00:00",
+  "updated_at": "2026-08-10T09:37:02.296995+00:00",
+  "published_to": []
+}

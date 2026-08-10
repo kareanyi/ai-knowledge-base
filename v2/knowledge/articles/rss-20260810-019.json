@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-019",
+  "source": "rss",
+  "source_url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+  "title": "Everything you do is being recorded",
+  "summary": "This article explores the emerging landscape of AI-powered wearable devices capable of continuous surveillance, documenting people's daily activities and conversations. It examines the growing privacy concerns and presents various countermeasures being developed to protect individuals from constant digital recording.",
+  "tech_stack": [
+    "AI",
+    "Wearable Technology",
+    "Facial Recognition",
+    "Audio Recording",
+    "Privacy Tools"
+  ],
+  "problem_solved": "Addresses the challenge of maintaining personal privacy in an era where AI-powered wearables enable mass surveillance of everyday life.",
+  "why_valuable": "It raises critical awareness about the tension between technological convenience and privacy rights, helping readers understand both the threats and potential solutions in the surveillance age.",
+  "tags": [
+    "Privacy",
+    "AI",
+    "Surveillance",
+    "Wearable Tech",
+    "Digital Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-10T09:37:01.053142+00:00",
+  "updated_at": "2026-08-10T09:37:02.305853+00:00",
+  "published_to": []
+}

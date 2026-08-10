@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-006",
+  "source": "rss",
+  "source_url": "https://foldingglobes.com/",
+  "title": "Turn satellite imagery into a paper globe you fold yourself",
+  "summary": "A web tool that transforms real satellite imagery into printable paper globe templates that users can cut out and fold into physical 3D globes. The project converts geographic data into an accessible DIY paper craft format, making cartography tangible and interactive.",
+  "tech_stack": [
+    "JavaScript",
+    "Python",
+    "Mapbox API",
+    "GDAL",
+    "PDF Generation"
+  ],
+  "problem_solved": "Transforms complex satellite imagery and geographic data into an accessible, hands-on paper craft that anyone can print and assemble at home.",
+  "why_valuable": "Combines geospatial technology with tactile craft, making abstract geographic data tangible and educational while providing a unique intersection of technology and art.",
+  "tags": [
+    "Satellite Imagery",
+    "Paper Craft",
+    "Cartography",
+    "Web Tool",
+    "DIY"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-10T09:32:54.647980+00:00",
+  "updated_at": "2026-08-10T09:37:02.296870+00:00",
+  "published_to": []
+}

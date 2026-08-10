@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-004",
+  "source": "rss",
+  "source_url": "https://www.whodunnitai.com/",
+  "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "summary": "A voice-driven murder mystery game where players interview AI-powered suspects using OpenAI's GPT-Realtime-2.1 model via WebRTC for real-time speech-to-speech conversations. The developer revisited and improved a proof-of-concept built 2-3 years ago with today's more advanced voice AI technology.",
+  "tech_stack": [
+    "OpenAI GPT-Realtime-2.1",
+    "WebRTC",
+    "JavaScript",
+    "Speech-to-Speech AI",
+    "Real-time Communication"
+  ],
+  "problem_solved": "Enables natural voice-based interactive storytelling where players can interrogate AI characters in a murder mystery game setting",
+  "why_valuable": "Demonstrates practical application of cutting-edge voice AI for immersive entertainment experiences, making AI characters feel more lifelike through conversational dialogue",
+  "tags": [
+    "Voice AI",
+    "Interactive Game",
+    "Murder Mystery",
+    "OpenAI",
+    "WebRTC"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-10T09:32:17.111666+00:00",
+  "updated_at": "2026-08-10T09:37:02.296565+00:00",
+  "published_to": []
+}

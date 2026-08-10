@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-008",
+  "source": "rss",
+  "source_url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+  "title": "How We Pushed CDC into Postgres",
+  "summary": "Snowflake's engineering team explains how they implemented CDC (Change Data Capture) to enable real-time replication from PostgreSQL to Snowflake's data warehouse platform. The blog details the technical challenges and solutions for streaming database changes at scale.",
+  "tech_stack": [
+    "PostgreSQL",
+    "Snowflake",
+    "CDC",
+    "Streaming",
+    "Data Replication"
+  ],
+  "problem_solved": "Enables near real-time data synchronization from PostgreSQL databases to Snowflake for analytics and data warehousing purposes.",
+  "why_valuable": "Provides a robust solution for organizations needing to continuously sync PostgreSQL data to Snowflake without manual ETL processes or batch loads.",
+  "tags": [
+    "CDC",
+    "PostgreSQL",
+    "Snowflake",
+    "Data Engineering",
+    "Database Replication"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-10T09:33:34.095188+00:00",
+  "updated_at": "2026-08-10T09:37:02.297118+00:00",
+  "published_to": []
+}

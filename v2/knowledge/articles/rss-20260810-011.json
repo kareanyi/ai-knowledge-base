@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260810-011",
+  "source": "rss",
+  "source_url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+  "title": "New Zealand lost its music media, and what we're building to replace it",
+  "summary": "This article discusses the decline of music media coverage in New Zealand following the closure of major outlets, and outlines Propel Music's mission to fill that void by building local music journalism and coverage infrastructure. It explores the challenges of maintaining independent music media in a small market and the community-driven approach being taken to sustain New Zealand's music ecosystem.",
+  "tech_stack": [
+    "WordPress",
+    "Digital Publishing",
+    "Content Management"
+  ],
+  "problem_solved": "Addresses the gap left by the disappearance of dedicated music journalism and coverage in New Zealand.",
+  "why_valuable": "Provides essential infrastructure for documenting and supporting the local music scene when traditional media has largely abandoned the beat.",
+  "tags": [
+    "Music Media",
+    "Local Journalism",
+    "New Zealand",
+    "Independent Media",
+    "Music Industry"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-08-10T09:34:33.579786+00:00",
+  "updated_at": "2026-08-10T09:37:02.304330+00:00",
+  "published_to": []
+}

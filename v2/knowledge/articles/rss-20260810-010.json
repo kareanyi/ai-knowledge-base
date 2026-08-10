@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260810-010",
+  "source": "rss",
+  "source_url": "https://tuxedono2.com",
+  "title": "Tuxedo No. 2 – Cocktail recipes",
+  "summary": "Tuxedo No. 2 是一个专注于经典鸡尾酒食谱的网站，提供传统鸡尾酒的配方和调制方法，帮助调酒爱好者和专业人士获取经典配方。",
+  "tech_stack": [
+    "Web Development",
+    "HTML/CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "为调酒师和鸡尾酒爱好者提供经典鸡尾酒的标准化配方和调制指南。",
+  "why_valuable": "保留了传统鸡尾酒配方，让经典调酒艺术得以传承，为家庭调酒和专业调酒提供可靠参考。",
+  "tags": [
+    "Cocktail",
+    "Recipes",
+    "Mixology",
+    "Beverages",
+    "Food"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-10T09:34:07.498114+00:00",
+  "updated_at": "2026-08-10T09:37:02.297349+00:00",
+  "published_to": []
+}

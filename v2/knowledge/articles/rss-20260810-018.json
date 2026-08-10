@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260810-018",
+  "source": "rss",
+  "source_url": "https://www.w3.org/Provider/Style/URI",
+  "title": "Cool URIs Don't Change (1998)",
+  "summary": "这是W3C于1998年发布的关于URI设计原则的经典指南，强调了URL持久性的重要性，提供了如何创建不会随时间改变的URI的最佳实践建议。",
+  "tech_stack": [
+    "HTTP",
+    "URI/URL",
+    "Web Architecture",
+    "HTML"
+  ],
+  "problem_solved": "解决了Web资源链接因URI变更而失效的问题，确保互联网内容的长期可访问性。",
+  "why_valuable": "作为互联网最基础的设计原则之一，URL稳定性直接影响用户体验、信息长期保存和搜索引擎优化，是构建可持续Web的关键。",
+  "tags": [
+    "Web Standards",
+    "URL Design",
+    "W3C",
+    "Best Practices",
+    "Web Architecture"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-10T09:36:45.097245+00:00",
+  "updated_at": "2026-08-10T09:37:02.305670+00:00",
+  "published_to": []
+}

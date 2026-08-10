@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-005",
+  "source": "rss",
+  "source_url": "https://github.com/shinyquagsire23/Klepton",
+  "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+  "summary": "Klepton 是一个开源项目，旨在让 Apple Vision Pro 能够运行 Android ARM64 VR 应用。通过创建 Android 兼容层，使得原本为 Android 设备开发的 VR 应用可以在 visionOS 生态系统中运行。",
+  "tech_stack": [
+    "Android ARM64",
+    "visionOS",
+    "VR/AR",
+    "Cross-platform",
+    "Emulation Layer"
+  ],
+  "problem_solved": "解决 Apple Vision Pro 缺乏 Android VR 应用生态的问题，通过兼容层让 Android 开发者的工作成果能在 Vision Pro 上使用。",
+  "why_valuable": "它桥接了 Android 和 visionOS 两个生态系统，为 Vision Pro 用户带来更丰富的 VR 内容选择，同时也为 Android 开发者提供了新的平台。",
+  "tags": [
+    "Vision Pro",
+    "Android",
+    "VR",
+    "Cross-platform",
+    "Compatibility Layer"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-10T09:32:27.208914+00:00",
+  "updated_at": "2026-08-10T09:37:02.296704+00:00",
+  "published_to": []
+}
