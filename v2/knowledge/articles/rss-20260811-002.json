@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260811-002",
+  "source": "rss",
+  "source_url": "https://github.com/activeing123/mcptoon",
+  "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+  "summary": "Mcptoon is a lightweight, token-efficient CLI client for the Model Context Protocol (MCP), designed to help developers interact with MCP servers while minimizing token consumption and API costs. It provides a streamlined command-line interface for managing AI tool integrations.",
+  "tech_stack": [
+    "Node.js",
+    "MCP Protocol",
+    "TypeScript",
+    "CLI Tools"
+  ],
+  "problem_solved": "Reduces token usage and associated costs when interacting with MCP-enabled AI tools and services through a lightweight CLI client.",
+  "why_valuable": "Offers significant cost savings for developers and teams running frequent MCP-based AI workflows by optimizing token efficiency without sacrificing functionality.",
+  "tags": [
+    "MCP",
+    "CLI",
+    "AI",
+    "Anthropic",
+    "Token-Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-11T09:07:21.213122+00:00",
+  "updated_at": "2026-08-11T09:15:13.756761+00:00",
+  "published_to": []
+}

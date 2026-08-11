@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260811-009",
+  "source": "rss",
+  "source_url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "title": "How Claude marks AI-generated content",
+  "summary": "Anthropic's official support documentation explaining the mechanisms and policies behind how Claude identifies and marks AI-generated content, providing transparency about content provenance and detection methods.",
+  "tech_stack": [
+    "Claude AI",
+    "Content Watermarking",
+    "AI Detection Systems"
+  ],
+  "problem_solved": "Addresses the challenge of identifying and authenticating AI-generated content versus human-written content.",
+  "why_valuable": "Provides transparency and trust in AI interactions by helping users understand how content origin is determined and marked.",
+  "tags": [
+    "AI Watermarking",
+    "Content Authenticity",
+    "Anthropic",
+    "Claude",
+    "Transparency"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-11T09:09:11.521677+00:00",
+  "updated_at": "2026-08-11T09:15:13.758079+00:00",
+  "published_to": []
+}

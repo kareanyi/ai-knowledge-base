@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260811-019",
+  "source": "rss",
+  "source_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+  "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+  "summary": "Meta CEO Mark Zuckerberg publicly criticizes competitors like OpenAI and Google for their closed AI approaches, positioning Meta as the champion of open-source AI models with LLaMA as a central strategy. The piece covers Meta's philosophical and business arguments for open models versus the closed development strategies of rivals.",
+  "tech_stack": [
+    "LLaMA",
+    "Open Source AI",
+    "Meta AI"
+  ],
+  "problem_solved": "Addresses the strategic positioning and philosophical debate around open versus closed AI development models in the competitive AI landscape.",
+  "why_valuable": "Provides insight into Big Tech's AI strategy debates and the business/ethical implications of open-source vs proprietary AI models.",
+  "tags": [
+    "AI Business Strategy",
+    "Open Source AI",
+    "Meta",
+    "Big Tech Competition",
+    "LLaMA"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-08-11T09:12:10.541419+00:00",
+  "updated_at": "2026-08-11T09:15:13.766110+00:00",
+  "published_to": []
+}

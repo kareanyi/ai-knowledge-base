@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260811-017",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+  "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+  "summary": "A 1991 Mars Bar was discovered unopened and found to be 20g larger than today's standard size, serving as an interesting artifact of how product portions have shrunk over three decades.",
+  "tech_stack": [
+    "None"
+  ],
+  "problem_solved": "Not applicable - this is a consumer news article about product size changes rather than a technical solution.",
+  "why_valuable": "Provides nostalgic insight into how confectionery product sizing has changed over time, reflecting broader trends in 'shrinkflation' and consumer awareness.",
+  "tags": [
+    "News",
+    "Food",
+    "Nostalgia",
+    "Consumer",
+    "Retail"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-08-11T09:11:34.569649+00:00",
+  "updated_at": "2026-08-11T09:15:13.765808+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-012",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/riemann-zeta",
+  "title": "Learning more about Claude's mathematical capabilities",
+  "summary": "Anthropic publishes research findings on Claude's mathematical reasoning capabilities, specifically testing its performance on problems related to the Riemann zeta function - one of mathematics' most famous unsolved problems. The study evaluates how AI models handle complex mathematical proofs and computations.",
+  "tech_stack": [
+    "Python",
+    "Mathematical Proof Systems",
+    "Large Language Models",
+    "Automated Reasoning Tools",
+    "Testing Frameworks"
+  ],
+  "problem_solved": "Provides empirical evaluation of AI's mathematical reasoning abilities on advanced topics like the Riemann zeta function.",
+  "why_valuable": "Helps researchers understand the current capabilities and limitations of AI systems in performing complex mathematical reasoning, which is crucial for developing more capable AI assistants.",
+  "tags": [
+    "AI Research",
+    "Claude",
+    "Mathematics",
+    "Riemann Zeta",
+    "Mathematical Reasoning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-11T09:10:05.941511+00:00",
+  "updated_at": "2026-08-11T09:15:13.764976+00:00",
+  "published_to": []
+}

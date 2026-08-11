@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260811-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+  "title": "The limits of physics AI: where Siemens says the human stays in charge",
+  "summary": "Siemens highlights that Physics AI can accelerate design exploration by up to 1,000x compared to traditional simulations, but the technology has firm limitations when it comes to approving safety-critical components, requiring human oversight for final sign-off decisions.",
+  "tech_stack": [
+    "Physics AI",
+    "Simulation Technology",
+    "Industrial AI",
+    "Design Optimization"
+  ],
+  "problem_solved": "Addresses the gap between AI's computational speed in physics simulation and the irreplaceable need for human judgment in safety-critical engineering decisions.",
+  "why_valuable": "Provides a realistic perspective on AI adoption in industrial engineering, preventing over-reliance on automation where human accountability remains essential.",
+  "tags": [
+    "Physics AI",
+    "Industrial AI",
+    "Human-AI Collaboration",
+    "Safety-Critical Systems",
+    "Simulation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-11T09:13:05.530038+00:00",
+  "updated_at": "2026-08-11T09:15:13.766731+00:00",
+  "published_to": []
+}

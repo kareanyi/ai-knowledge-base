@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260811-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+  "title": "How AI is changing the vulnerability response timeline",
+  "summary": "AI is transforming how security researchers analyze code, trace suspicious behavior, and identify vulnerabilities that traditional tools miss. The article focuses on zero-day vulnerability response, examining how container composition, dependency records, and rebuild speed impact security teams after unknown flaws are discovered.",
+  "tech_stack": [
+    "AI",
+    "Container Technology",
+    "Dependency Analysis Tools",
+    "Code Analysis"
+  ],
+  "problem_solved": "Accelerates the detection and response to zero-day vulnerabilities that conventional security tools overlook",
+  "why_valuable": "Enables security teams to respond faster to critical vulnerabilities, reducing the window of exposure and potential damage from attacks",
+  "tags": [
+    "Cybersecurity",
+    "AI",
+    "Zero-day",
+    "Vulnerability Management",
+    "Threat Detection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-11T09:12:33.883564+00:00",
+  "updated_at": "2026-08-11T09:15:13.766434+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-016",
+  "source": "rss",
+  "source_url": "https://github.com/AntigmaLabs/ante",
+  "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+  "summary": "Ante is a coding agent packaged as a single binary that runs entirely offline, allowing developers to use AI-powered code assistance without internet connectivity or cloud API dependencies.",
+  "tech_stack": [
+    "Rust",
+    "Local LLM",
+    "CLI",
+    "llama.cpp",
+    "Git integration"
+  ],
+  "problem_solved": "Enables offline, privacy-preserving AI coding assistance without requiring cloud services or internet connectivity",
+  "why_valuable": "Provides enterprise-friendly, self-hosted coding agent that eliminates data privacy concerns and works in air-gapped environments",
+  "tags": [
+    "AI",
+    "Coding-Agent",
+    "Offline",
+    "Local-LLM",
+    "Developer-Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-11T09:11:16.770305+00:00",
+  "updated_at": "2026-08-11T09:15:13.765654+00:00",
+  "published_to": []
+}

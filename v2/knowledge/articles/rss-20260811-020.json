@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260811-020",
+  "source": "rss",
+  "source_url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+  "title": "Humanising LLM Outputs Is Dumb",
+  "summary": "A critical opinion piece arguing against the trend of 'humanizing' LLM outputs, suggesting that artificially making AI text feel more human is counterproductive and diminishes the value of AI-generated content's inherent clarity and efficiency.",
+  "tech_stack": [
+    "LLM",
+    "AI Text Generation",
+    "NLP"
+  ],
+  "problem_solved": "Challenges the misguided practice of artificially enhancing AI outputs to sound more human-like.",
+  "why_valuable": "Offers a contrarian perspective that encourages rethinking our assumptions about what makes AI content valuable.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Opinion",
+    "Content Generation",
+    "Prompt Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-11T09:12:23.723602+00:00",
+  "updated_at": "2026-08-11T09:15:13.766281+00:00",
+  "published_to": []
+}

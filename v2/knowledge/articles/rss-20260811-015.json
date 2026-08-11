@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-015",
+  "source": "rss",
+  "source_url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+  "title": "Exploiting System Management Mode with a very long interrupt",
+  "summary": "A security research project demonstrating exploitation techniques for System Management Mode (SMM) vulnerabilities by crafting very long interrupt handlers. SMM operates at ring -2, the highest privilege level on x86 processors, making this research critical for firmware-level security analysis.",
+  "tech_stack": [
+    "x86 Assembly",
+    "C",
+    "System Management Mode",
+    "UEFI/BIOS",
+    "Low-level System Programming"
+  ],
+  "problem_solved": "Exploits architectural weaknesses in SMM implementation that can lead to privilege escalation and persistent firmware-level compromise.",
+  "why_valuable": "SMM vulnerabilities provide attackers with near-undetectable, highly privileged access below the operating system and hypervisor, making this research essential for defensive security teams and firmware developers.",
+  "tags": [
+    "SMM",
+    "Firmware Security",
+    "Vulnerability Research",
+    "x86",
+    "Privilege Escalation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-11T09:11:00.357486+00:00",
+  "updated_at": "2026-08-11T09:15:13.765499+00:00",
+  "published_to": []
+}

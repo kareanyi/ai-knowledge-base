@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-007",
+  "source": "rss",
+  "source_url": "https://everycube.alen.is/",
+  "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+  "summary": "An interactive web visualization tool that allows users to explore all 43 quintillion possible states of a standard 3x3x3 Rubik's Cube through a smooth scrolling interface, providing an intuitive way to understand the massive combinatorial space of the puzzle.",
+  "tech_stack": [
+    "JavaScript",
+    "WebGL",
+    "HTML5",
+    "CSS3",
+    "Three.js"
+  ],
+  "problem_solved": "Makes the abstract concept of 43 quintillion Rubik's Cube combinations tangible and explorable through visual navigation.",
+  "why_valuable": "It transforms an incomprehensible number into an interactive experience, making combinatorial mathematics accessible and engaging for puzzle enthusiasts and math learners alike.",
+  "tags": [
+    "Visualization",
+    "Mathematics",
+    "Interactive",
+    "Puzzle",
+    "Education"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-11T09:08:41.694353+00:00",
+  "updated_at": "2026-08-11T09:15:13.757737+00:00",
+  "published_to": []
+}

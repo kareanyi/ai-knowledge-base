@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260811-014",
+  "source": "rss",
+  "source_url": "http://danluu.com/pl-tokens/",
+  "title": "What's the best programming language for coding agents?",
+  "summary": "Dan Luu's analysis comparing programming languages for AI coding agents, focusing on token efficiency—how many tokens each language requires to express equivalent logic. Since LLM API costs are tied to token usage, more verbose languages become proportionally more expensive when used with AI coding assistants.",
+  "tech_stack": [
+    "Various programming languages",
+    "LLM APIs",
+    "Token counting tools"
+  ],
+  "problem_solved": "Helps developers understand which programming languages are more cost-effective when used with AI coding agents by measuring token verbosity.",
+  "why_valuable": "Provides empirical data on language verbosity that directly impacts AI-assisted development costs, enabling more informed language selection decisions.",
+  "tags": [
+    "Programming Languages",
+    "AI Agents",
+    "Token Efficiency",
+    "LLM Cost",
+    "Developer Productivity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-11T09:10:41.437725+00:00",
+  "updated_at": "2026-08-11T09:15:13.765330+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-013",
+  "source": "rss",
+  "source_url": "https://cactuscompute.com/needle",
+  "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "summary": "Cactus 发布了 Needle 2，一个 14MB 的 agentic LLM 模型，专为手机、可穿戴设备、智能家居、小型机器人和微控制器设计。该模型使用 45M 参数和 2bit 压缩技术，在 Raspberry Pi 5 上可达 500 tokens/sec 的解码速度，仅需 28MB RAM 即可运行完整会话。",
+  "tech_stack": [
+    "LLM",
+    "Model Compression",
+    "Edge Computing",
+    "Embedded AI",
+    "2bit Quantization"
+  ],
+  "problem_solved": "解决传统 LLM 模型过大无法在资源受限的边缘设备和嵌入式系统上运行的问题",
+  "why_valuable": "首个能够在 14MB 体积内实现完整 agentic 能力的 LLM，使得在手机、手表、智能家居设备乃至微控制器上本地运行 AI 成为可能，特别适合隐私敏感场景",
+  "tags": [
+    "Edge AI",
+    "LLM",
+    "Model Compression",
+    "Embedded Systems",
+    "On-device AI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-11T09:10:21.212066+00:00",
+  "updated_at": "2026-08-11T09:15:13.765140+00:00",
+  "published_to": []
+}

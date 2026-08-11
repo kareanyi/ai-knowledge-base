@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+  "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+  "summary": "Meta's Superintelligence Labs released Muse Glimmer, a 30-billion-parameter model optimized for local AI agents on consumer GPUs, licensed under Apache 2.0 and available on Hugging Face. The model targets developers seeking local coding assistance, function calling, and LLM-as-a-judge evaluation capabilities without cloud dependency.",
+  "tech_stack": [
+    "Meta Muse Glimmer",
+    "Hugging Face",
+    "Consumer GPUs",
+    "Apache 2.0",
+    "Local AI"
+  ],
+  "problem_solved": "Enables developers to run powerful AI agents locally on consumer hardware instead of relying on expensive cloud-based API services.",
+  "why_valuable": "Provides a privacy-preserving, cost-effective open-source foundation for building customizable AI agents without vendor lock-in or API costs.",
+  "tags": [
+    "Local AI",
+    "Open Source",
+    "LLM",
+    "AI Agents",
+    "Meta"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-11T09:12:51.441040+00:00",
+  "updated_at": "2026-08-11T09:15:13.766586+00:00",
+  "published_to": []
+}

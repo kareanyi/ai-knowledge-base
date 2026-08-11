@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-018",
+  "source": "rss",
+  "source_url": "https://github.com/Juror-AI/juror",
+  "title": "Show HN: Open-Source Greptile Alternative",
+  "summary": "Juror is an open-source alternative to Greptile, designed to provide code search, indexing, and analysis capabilities for developers. It appears to be a Hacker News launched project aimed at offering a free, self-hostable solution for codebase intelligence.",
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "GitHub API",
+    "Vector Search",
+    "LLM Integration"
+  ],
+  "problem_solved": "Provides an open-source, self-hostable alternative for code search and codebase analysis without vendor lock-in or subscription costs.",
+  "why_valuable": "Offers developers full control over their code intelligence infrastructure with transparency of source code, making it ideal for privacy-conscious teams or those wanting to self-host.",
+  "tags": [
+    "Open Source",
+    "Code Search",
+    "Developer Tools",
+    "AI",
+    "Self-hosted"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-11T09:11:53.439693+00:00",
+  "updated_at": "2026-08-11T09:15:13.765960+00:00",
+  "published_to": []
+}
