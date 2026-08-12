@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-009",
+  "source": "rss",
+  "source_url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+  "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+  "summary": "Nvidia announced Nemotron 3.5 Lightning, their latest large language model optimized for conversational AI and task completion, along with NeMo Switchyard, a customization framework that allows developers to fine-tune and deploy LLMs efficiently on RTX GPUs and DGX systems.",
+  "tech_stack": [
+    "Nvidia Nemotron",
+    "NeMo Framework",
+    "RTX GPUs",
+    "DGX Systems",
+    "CUDA"
+  ],
+  "problem_solved": "Enables enterprises and developers to deploy customized, high-performance LLM applications on Nvidia hardware with optimized inference and fine-tuning capabilities.",
+  "why_valuable": "Provides a complete, hardware-software integrated AI solution that bridges the gap between consumer-grade RTX GPUs and enterprise DGX systems for LLM deployment and customization.",
+  "tags": [
+    "LLM",
+    "Nvidia",
+    "AI Inference",
+    "GPU Computing",
+    "Enterprise AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-12T09:21:59.706703+00:00",
+  "updated_at": "2026-08-12T09:24:46.164164+00:00",
+  "published_to": []
+}

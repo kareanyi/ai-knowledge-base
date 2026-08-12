@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260812-005",
+  "source": "rss",
+  "source_url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+  "title": "The Human Is the Loop",
+  "summary": "这篇文章探讨了在AI和自动化系统中人类角色的重要性， argues that humans should remain an essential active component rather than just a fallback mechanism in automated systems. The author discusses the philosophical and practical implications of keeping humans meaningfully engaged in decision-making loops.",
+  "tech_stack": [
+    "AI/ML Systems",
+    "Automation",
+    "LLM"
+  ],
+  "problem_solved": "Addresses the growing tendency to remove humans from automated processes, potentially leading to brittle or irresponsible AI systems.",
+  "why_valuable": "Provides critical perspective on maintaining meaningful human oversight in an era of increasing automation, helping developers and organizations think more responsibly about AI deployment.",
+  "tags": [
+    "AI",
+    "Human-Centered Design",
+    "Automation",
+    "Ethics",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-12T09:20:45.967009+00:00",
+  "updated_at": "2026-08-12T09:24:46.163521+00:00",
+  "published_to": []
+}

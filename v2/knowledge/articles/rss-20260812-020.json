@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260812-020",
+  "source": "rss",
+  "source_url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+  "title": "OpenAI’s head of ethics leaves less than a year after joining",
+  "summary": "This news reports on the resignation of OpenAI's head of ethics less than a year after joining, raising concerns about internal governance and oversight at the leading AI company amid growing scrutiny of AI safety practices.",
+  "tech_stack": [
+    "AI",
+    "OpenAI",
+    "LLM",
+    "ChatGPT"
+  ],
+  "problem_solved": "Reports on a leadership crisis that highlights potential gaps in AI company oversight and ethical governance structures.",
+  "why_valuable": "Significant for understanding the tensions between AI commercial development and ethical oversight, relevant to anyone tracking AI industry governance and safety practices.",
+  "tags": [
+    "AI Ethics",
+    "OpenAI",
+    "Corporate Governance",
+    "Leadership",
+    "AI Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-12T09:24:44.769612+00:00",
+  "updated_at": "2026-08-12T09:24:46.171070+00:00",
+  "published_to": []
+}

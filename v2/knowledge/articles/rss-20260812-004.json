@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-004",
+  "source": "rss",
+  "source_url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+  "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+  "summary": "DARPA's LIFT (Large Integrated Flight Team) heavy lift drone challenge concluded with winner Avidrone achieving an impressive 3.84:1 payload-to-weight ratio, demonstrating breakthrough efficiency in unmanned aerial cargo delivery systems for military and commercial logistics applications.",
+  "tech_stack": [
+    "Drone/UAV Technology",
+    "Electric Propulsion",
+    "Carbon Fiber Composites",
+    "Flight Control Systems",
+    "Aerospace Engineering"
+  ],
+  "problem_solved": "Enables drones to efficiently lift and transport heavy payloads relative to their own weight, making aerial cargo delivery more practical and economically viable.",
+  "why_valuable": "The 3.84:1 payload-to-weight ratio represents a significant engineering milestone that could revolutionize military logistics, disaster relief, and last-mile delivery operations using autonomous drones.",
+  "tags": [
+    "UAV",
+    "Drone",
+    "DARPA",
+    "Heavy-Lift",
+    "Aerospace"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-12T09:20:31.848841+00:00",
+  "updated_at": "2026-08-12T09:24:46.163358+00:00",
+  "published_to": []
+}

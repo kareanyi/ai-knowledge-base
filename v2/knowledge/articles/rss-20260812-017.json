@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-017",
+  "source": "rss",
+  "source_url": "https://stolen-thoughts.com/",
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "summary": "This research paper investigates techniques for extracting and manipulating reasoning traces from proprietary LLM APIs like OpenAI's o1, demonstrating security vulnerabilities in how reasoning chains are exposed through API endpoints.",
+  "tech_stack": [
+    "LLM APIs",
+    "Python",
+    "Prompt Engineering",
+    "API Security",
+    "Reasoning Models"
+  ],
+  "problem_solved": "Exposes and demonstrates security vulnerabilities in proprietary LLM APIs that allow extraction of internal reasoning traces through careful prompting techniques.",
+  "why_valuable": "Critical security research that highlights privacy and IP protection concerns for companies deploying proprietary AI models via API services.",
+  "tags": [
+    "AI Security",
+    "LLM",
+    "API Vulnerability",
+    "Research",
+    "Privacy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-12T09:24:04.083012+00:00",
+  "updated_at": "2026-08-12T09:24:46.170582+00:00",
+  "published_to": []
+}

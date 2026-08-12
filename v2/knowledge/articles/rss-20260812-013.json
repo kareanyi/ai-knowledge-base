@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260812-013",
+  "source": "rss",
+  "source_url": "https://master.dev/blog/typographic-css-tricks/",
+  "title": "CSS properties you should know for better text designs",
+  "summary": "An article providing practical CSS tips for improving typography and text designs on websites, covering essential CSS properties that help developers create more polished and readable text layouts.",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "Web Typography"
+  ],
+  "problem_solved": "Helps developers improve text readability and visual appeal using lesser-known CSS typography properties.",
+  "why_valuable": "Typography is fundamental to user experience and design quality, and mastering CSS text properties can significantly enhance web aesthetics and readability.",
+  "tags": [
+    "CSS",
+    "Typography",
+    "Web Design",
+    "Frontend",
+    "Styling"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-12T09:22:59.547840+00:00",
+  "updated_at": "2026-08-12T09:24:46.169961+00:00",
+  "published_to": []
+}

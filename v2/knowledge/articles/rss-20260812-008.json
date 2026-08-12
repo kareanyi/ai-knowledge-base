@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-008",
+  "source": "rss",
+  "source_url": "https://ngrok.com/blog/compression-is-prediction",
+  "title": "Compression is prediction",
+  "summary": "This article explores the fundamental insight that compression algorithms are essentially prediction mechanisms - they work by identifying patterns and predicting what comes next, allowing redundant information to be stored more efficiently. The piece connects compression theory to broader concepts in information theory and machine learning, showing how language models can be viewed as compression systems.",
+  "tech_stack": [
+    "Compression Algorithms",
+    "Information Theory",
+    "Machine Learning",
+    "Python",
+    "Statistical Methods"
+  ],
+  "problem_solved": "Explains why compression works by revealing its underlying connection to prediction and pattern recognition.",
+  "why_valuable": "Provides a unifying conceptual framework that connects compression, prediction, and AI, helping practitioners understand the fundamental nature of both compression algorithms and language models.",
+  "tags": [
+    "compression",
+    "prediction",
+    "information-theory",
+    "machine-learning",
+    "algorithms"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-12T09:21:44.429319+00:00",
+  "updated_at": "2026-08-12T09:24:46.164001+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260812-012",
+  "source": "rss",
+  "source_url": "https://x.ai/bot",
+  "title": "Grok Bot",
+  "summary": "Grok Bot is x.ai's AI assistant featuring real-time knowledge access through X platform integration and a distinctive witty, rebellious personality that sets it apart from more formal AI chatbots like ChatGPT and Claude.",
+  "tech_stack": [
+    "x.ai LLM",
+    "X Platform API",
+    "Real-time Data Integration",
+    "Web UI"
+  ],
+  "problem_solved": "Provides users with real-time information from X (Twitter) combined with an AI assistant that offers a more casual, humorous personality compared to traditional AI assistants.",
+  "why_valuable": "Combines real-time social media data with a unique personality trait, offering a different paradigm for AI assistants that appeals to users seeking both current information and entertainment.",
+  "tags": [
+    "AI Assistant",
+    "x.ai",
+    "Chatbot",
+    "Real-time AI",
+    "Musk"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-12T09:22:48.540753+00:00",
+  "updated_at": "2026-08-12T09:24:46.169782+00:00",
+  "published_to": []
+}

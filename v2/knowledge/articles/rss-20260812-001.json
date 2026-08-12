@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260812-001",
+  "source": "rss",
+  "source_url": "https://www.cringebot3000.com/",
+  "title": "LinkedIn CringeBot 3000",
+  "summary": "CringeBot 3000 is a satirical AI-powered tool that generates cringe-worthy LinkedIn comments, playing on the often over-enthusiastic and performative nature of LinkedIn culture. The tool likely uses humor to parody typical LinkedIn engagement patterns like humble brags, motivational spam, and excessive emoji use.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Web Application"
+  ],
+  "problem_solved": "Satirizes the overly positive, performative culture on LinkedIn by generating parody comments that highlight common cringe-worthy behaviors.",
+  "why_valuable": "Provides entertainment and social commentary on professional social media culture while demonstrating AI's ability to understand and replicate specific communication styles.",
+  "tags": [
+    "satire",
+    "LinkedIn",
+    "AI-generated",
+    "social-media",
+    "humor"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-12T09:19:45.396543+00:00",
+  "updated_at": "2026-08-12T09:24:46.162550+00:00",
+  "published_to": []
+}

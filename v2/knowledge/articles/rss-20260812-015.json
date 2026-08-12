@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-015",
+  "source": "rss",
+  "source_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+  "title": "Mojo 1.0",
+  "summary": "Mojo 1.0 is a new programming language developed by Modular (founded by Chris Lattner, creator of LLVM/Clang/Swift) that unifies Python's usability with systems-level performance, marking its first stable major release.",
+  "tech_stack": [
+    "Mojo",
+    "Python",
+    "LLVM",
+    "MLIR",
+    "Systems Programming"
+  ],
+  "problem_solved": "Addresses Python's performance limitations while maintaining its syntax and ease of use, bridging the gap between high-level scripting and low-level systems programming.",
+  "why_valuable": "Enables developers to write Python-like code with near-C performance, potentially transforming AI/ML development and systems programming without sacrificing developer productivity.",
+  "tags": [
+    "Programming Language",
+    "AI/ML",
+    "Systems Programming",
+    "Python",
+    "Performance"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-12T09:23:31.061285+00:00",
+  "updated_at": "2026-08-12T09:24:46.170278+00:00",
+  "published_to": []
+}

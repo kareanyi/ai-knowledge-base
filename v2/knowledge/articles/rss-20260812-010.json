@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-010",
+  "source": "rss",
+  "source_url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+  "title": "Making holograms with a pen plotter",
+  "summary": "A maker project demonstrating how to create holographic interference patterns using a pen plotter, a CNC drawing machine typically used for vector graphics on paper. The author explores generating hologram-like visual effects through computational methods and physical plotting techniques.",
+  "tech_stack": [
+    "Python",
+    "SVG",
+    "HPGL",
+    "CNC",
+    "Generative Art"
+  ],
+  "problem_solved": "Makes hologram creation accessible to hobbyists without expensive laser equipment by using a low-cost pen plotter to physically draw interference patterns.",
+  "why_valuable": "Demonstrates creative DIY applications for common maker tools and bridges the gap between optical physics and accessible fabrication techniques.",
+  "tags": [
+    "holography",
+    "pen plotter",
+    "maker",
+    "DIY",
+    "optics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-12T09:22:15.013620+00:00",
+  "updated_at": "2026-08-12T09:24:46.164313+00:00",
+  "published_to": []
+}

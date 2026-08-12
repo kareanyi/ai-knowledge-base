@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-018",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+  "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+  "summary": "Scientists are using geoneutrinos—subatomic particles produced by radioactive decay deep within Earth—to study the composition and structure of the planet's mantle, providing a new window into geological processes that cannot be directly observed through drilling.",
+  "tech_stack": [
+    "Particle Physics",
+    "Neutrino Detection",
+    "Geophysics",
+    "Radioactive Decay Analysis",
+    "Seismology"
+  ],
+  "problem_solved": "Revealing the chemical composition and heat sources in Earth's deep mantle that are inaccessible through direct sampling.",
+  "why_valuable": "Offers a non-invasive method to understand Earth's internal structure and the radioactive elements driving geological activity, which could reshape our understanding of plate tectonics and planetary formation.",
+  "tags": [
+    "Geoneutrinos",
+    "Earth Science",
+    "Particle Physics",
+    "Geophysics",
+    "Planetary Science"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-12T09:24:21.935442+00:00",
+  "updated_at": "2026-08-12T09:24:46.170743+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-002",
+  "source": "rss",
+  "source_url": "https://llama.app",
+  "title": "llama.cpp",
+  "summary": "llama.cpp is an open-source pure C/C++ implementation of LLaMA model inference that enables running large language models locally on consumer hardware. It achieves this through optimized inference and model quantization techniques.",
+  "tech_stack": [
+    "C/C++",
+    "llama.cpp",
+    "Metal",
+    "BLAS",
+    "CUDA"
+  ],
+  "problem_solved": "Enables running large language models locally on consumer hardware without expensive cloud services or Python dependencies",
+  "why_valuable": "Democratizes AI by making LLM inference possible on everyday hardware with minimal resource requirements and full privacy protection",
+  "tags": [
+    "LLM",
+    "AI",
+    "OpenSource",
+    "Quantization",
+    "LocalInference"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-12T09:19:57.173992+00:00",
+  "updated_at": "2026-08-12T09:24:46.162928+00:00",
+  "published_to": []
+}
