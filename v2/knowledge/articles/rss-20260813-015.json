@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-015",
+  "source": "rss",
+  "source_url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+  "title": "Qwen3.8-2.4T",
+  "summary": "Qwen3.8-2.4T is a large-scale open-source language model from Alibaba's Qwen series, featuring 2.4 trillion parameters with FP8 quantization for efficient deployment. The model gained significant attention on Hacker News with 615 points and 142 comments, indicating strong community interest in this large language model release.",
+  "tech_stack": [
+    "Qwen",
+    "FP8 Quantization",
+    "Hugging Face",
+    "Transformers",
+    "LLM"
+  ],
+  "problem_solved": "Provides a massive open-source LLM with efficient FP8 precision for reduced memory footprint while maintaining performance.",
+  "why_valuable": "Offers access to a 2.4T parameter model with optimized quantization, making large-scale AI capabilities more accessible for research and deployment.",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Qwen",
+    "FP8",
+    "Transformers"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:23:49.248313+00:00",
+  "updated_at": "2026-08-13T09:25:07.447246+00:00",
+  "published_to": []
+}

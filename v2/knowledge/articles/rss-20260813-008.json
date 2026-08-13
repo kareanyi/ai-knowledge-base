@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-008",
+  "source": "rss",
+  "source_url": "https://zed.dev/blog/introducing-delta",
+  "title": "Delta",
+  "summary": "Zed 官方博客介绍了 Delta，这是一个为 Zed 编辑器打造的高性能代码差异查看工具，充分利用 GPU 渲染能力提供实时的、语法高亮的 diff 体验。",
+  "tech_stack": [
+    "Rust",
+    "Zed Editor",
+    "GPUI",
+    "GTK",
+    "OpenGL"
+  ],
+  "problem_solved": "解决传统 diff 工具在大文件或复杂代码库中渲染缓慢、视觉效果简陋的问题。",
+  "why_valuable": "Delta 将专业 diff 工具的能力与 Zed 编辑器的现代 GPU 加速渲染技术结合，为开发者提供毫秒级响应的代码变更可视化体验。",
+  "tags": [
+    "Developer Tools",
+    "Code Editor",
+    "Diff Tool",
+    "Rust",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:22:20.626445+00:00",
+  "updated_at": "2026-08-13T09:25:07.439622+00:00",
+  "published_to": []
+}

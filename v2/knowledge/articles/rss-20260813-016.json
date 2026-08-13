@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260813-016",
+  "source": "rss",
+  "source_url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+  "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+  "summary": "Tailscale engineers documented their deep-dive investigation into a 16-year-old bug in SQLite's Write-Ahead Logging (WAL) reset mechanism that caused data inconsistencies in certain edge cases. The article details their systematic debugging approach using binary analysis, code archaeology, and collaboration with the SQLite team to identify and resolve the root cause.",
+  "tech_stack": [
+    "SQLite",
+    "Go",
+    "WAL",
+    "C"
+  ],
+  "problem_solved": "Tracked down a long-standing bug in SQLite's WAL mode where the reset mechanism could fail under specific conditions, causing potential data corruption or inconsistent database states.",
+  "why_valuable": "Demonstrates expert-level debugging methodology for low-level database systems while contributing a valuable fix to one of the most widely used embedded databases in the world.",
+  "tags": [
+    "SQLite",
+    "Bug-Fixing",
+    "Database",
+    "Debugging",
+    "Open-Source"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-13T09:24:27.479894+00:00",
+  "updated_at": "2026-08-13T09:25:07.447429+00:00",
+  "published_to": []
+}

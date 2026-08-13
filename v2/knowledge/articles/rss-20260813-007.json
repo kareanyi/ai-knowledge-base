@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-007",
+  "source": "rss",
+  "source_url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+  "title": "Breaking the WAL",
+  "summary": "This is a technical deep-dive from Antithesis investigating a bug in Write-Ahead Logging (WAL) systems, a critical database recovery mechanism. The article likely explores a subtle race condition or state corruption issue that breaks WAL's guarantees of data durability and crash recovery.",
+  "tech_stack": [
+    "PostgreSQL",
+    "WAL",
+    "Distributed Systems",
+    "C/C++",
+    "Deterministic Testing"
+  ],
+  "problem_solved": "Diagnoses and demonstrates a bug that compromises the reliability guarantees of Write-Ahead Logging in database systems.",
+  "why_valuable": "WAL is foundational to database reliability; finding and explaining such bugs helps the community understand edge cases in distributed database internals.",
+  "tags": [
+    "Database",
+    "WAL",
+    "Bug Investigation",
+    "Distributed Systems",
+    "Reliability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:22:01.940364+00:00",
+  "updated_at": "2026-08-13T09:25:07.439414+00:00",
+  "published_to": []
+}

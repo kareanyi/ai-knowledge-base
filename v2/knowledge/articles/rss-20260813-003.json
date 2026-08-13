@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-003",
+  "source": "rss",
+  "source_url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+  "title": "Flutter 3.47",
+  "summary": "Flutter 3.47 是 Google 跨平台 UI 框架的最新稳定版本，带来性能优化、新组件和改进的开发工具链，继续巩固 Flutter 在跨平台开发领域的领先地位。",
+  "tech_stack": [
+    "Flutter",
+    "Dart",
+    "Material Design",
+    "Impeller",
+    "DevTools"
+  ],
+  "problem_solved": "解决跨平台移动开发中需要维护多套代码库的问题，提供统一的代码库同时支持 iOS、Android、Web 和桌面应用。",
+  "why_valuable": "通过统一的开发框架显著提升开发效率，减少开发和维护成本，同时新版本带来的性能优化和功能更新保持框架竞争力。",
+  "tags": [
+    "Mobile Development",
+    "Cross-Platform",
+    "UI Framework",
+    "Google",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:21:01.773174+00:00",
+  "updated_at": "2026-08-13T09:25:07.438804+00:00",
+  "published_to": []
+}

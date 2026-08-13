@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-014",
+  "source": "rss",
+  "source_url": "https://x.ai/news/grok-4-6",
+  "title": "Grok 4.6",
+  "summary": "xAI announces Grok 4.6, the latest version of Elon Musk's AI assistant featuring significant improvements in reasoning, benchmark performance, and multimodal capabilities. The release has generated substantial interest in the AI community with strong engagement on Hacker News.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "CUDA",
+    "Distributed Training"
+  ],
+  "problem_solved": "Delivers a more powerful and capable AI assistant that competes with leading models like GPT-4 and Claude in reasoning, coding, and general intelligence tasks.",
+  "why_valuable": "Provides state-of-the-art AI capabilities with unique personality and humor, backed by xAI's infrastructure and Musk's vision for AI development.",
+  "tags": [
+    "AI",
+    "Large Language Model",
+    "xAI",
+    "Grok",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:23:37.375647+00:00",
+  "updated_at": "2026-08-13T09:25:07.447064+00:00",
+  "published_to": []
+}

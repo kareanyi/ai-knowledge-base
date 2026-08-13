@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-018",
+  "source": "rss",
+  "source_url": "https://knownagents.com/insights",
+  "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+  "summary": "This article reports on a security threat where malicious actors are conducting mass vulnerability scans while spoofing AI bot user agents like ClaudeBot and GPTBot to evade detection. The campaign disguises automated reconnaissance activity as legitimate AI web crawling, making it harder for defenders to identify and block the attacks.",
+  "tech_stack": [
+    "HTTP User-Agent",
+    "Web Vulnerability Scanning",
+    "Bot Detection Systems",
+    "Network Security Monitoring",
+    "Web Servers"
+  ],
+  "problem_solved": "Raises awareness about a new threat vector where vulnerability scanning is disguised as legitimate AI crawler traffic to bypass security filters.",
+  "why_valuable": "It helps security professionals recognize that AI bot impersonation is being used as a technique to obfuscate malicious scanning activities, enabling better detection and response strategies.",
+  "tags": [
+    "cybersecurity",
+    "vulnerability-scanning",
+    "bot-detection",
+    "threat-intelligence",
+    "ai-security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-13T09:24:54.022871+00:00",
+  "updated_at": "2026-08-13T09:25:07.447871+00:00",
+  "published_to": []
+}

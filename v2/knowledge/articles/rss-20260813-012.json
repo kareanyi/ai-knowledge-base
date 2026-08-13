@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260813-012",
+  "source": "rss",
+  "source_url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+  "title": "Pixel Watch 5",
+  "summary": "Google announces the Pixel Watch 5, the latest generation of its Wear OS smartwatch, continuing the Pixel hardware lineup expansion. The announcement generated significant community interest with 142 points and 275 comments on Hacker News.",
+  "tech_stack": [
+    "Wear OS",
+    "Android",
+    "Google Tensor",
+    "Fitbit"
+  ],
+  "problem_solved": "Google delivers its latest smartwatch with improved hardware, health tracking capabilities, and deeper software integration for Android users seeking a premium Wear OS experience.",
+  "why_valuable": "The Pixel Watch 5 represents Google's ongoing commitment to its own hardware ecosystem and compete directly with Apple Watch in the premium smartwatch market.",
+  "tags": [
+    "Google",
+    "Smartwatch",
+    "Wear OS",
+    "Android",
+    "Consumer Hardware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-13T09:23:09.430069+00:00",
+  "updated_at": "2026-08-13T09:25:07.446686+00:00",
+  "published_to": []
+}

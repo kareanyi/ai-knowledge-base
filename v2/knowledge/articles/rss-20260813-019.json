@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-019",
+  "source": "rss",
+  "source_url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+  "title": "Why tiny JPEGs look different in Chrome",
+  "summary": "A technical deep-dive into why Chrome renders tiny JPEG images differently than expected, exploring browser-specific image processing optimizations and scaling algorithms that affect visual output of small compressed images.",
+  "tech_stack": [
+    "JPEG",
+    "Chrome",
+    "Browser Rendering",
+    "Image Processing",
+    "CSS"
+  ],
+  "problem_solved": "Explains the unexpected visual differences when viewing small JPEG images in Chrome compared to other browsers or expected output.",
+  "why_valuable": "Helps web developers understand browser-specific image rendering behaviors, enabling them to debug visual inconsistencies and optimize images for cross-browser compatibility.",
+  "tags": [
+    "Browser",
+    "Image Rendering",
+    "JPEG",
+    "Chrome",
+    "Web Development"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:25:06.000409+00:00",
+  "updated_at": "2026-08-13T09:25:07.448097+00:00",
+  "published_to": []
+}

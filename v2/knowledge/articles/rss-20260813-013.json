@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-013",
+  "source": "rss",
+  "source_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+  "title": "DeepSeek V4 Pro 0813",
+  "summary": "DeepSeek V4 Pro 0813 is a new large language model from Chinese AI startup DeepSeek, released in August 2024, available through OpenRouter API. The model garnered massive attention with 911 points and 373 comments on Hacker News, indicating significant community interest in this competitive AI offering.",
+  "tech_stack": [
+    "LLM",
+    "DeepSeek",
+    "OpenRouter",
+    "AI API",
+    "Python"
+  ],
+  "problem_solved": "Provides developers and users with access to a powerful, cost-effective AI model that competes with major players like OpenAI and Anthropic.",
+  "why_valuable": "DeepSeek has been disrupting the AI market by offering competitive models at significantly lower costs than Western alternatives, democratizing access to state-of-the-art AI capabilities.",
+  "tags": [
+    "AI",
+    "LLM",
+    "DeepSeek",
+    "Open Source",
+    "API"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:23:24.809007+00:00",
+  "updated_at": "2026-08-13T09:25:07.446880+00:00",
+  "published_to": []
+}

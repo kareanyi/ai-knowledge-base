@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260813-004",
+  "source": "rss",
+  "source_url": "https://adapt.com/blog/build-wide-ship-narrow",
+  "title": "Build Wide, Ship Narrow",
+  "summary": "This article discusses a product development strategy that encourages teams to explore broadly during research and ideation phases while maintaining focus during execution and delivery. The approach balances innovation with disciplined product shipping.",
+  "tech_stack": [
+    "General Strategy"
+  ],
+  "problem_solved": "Addresses the challenge of balancing comprehensive exploration with focused product delivery to avoid feature bloat and scope creep.",
+  "why_valuable": "Provides a practical framework for teams to innovate widely without sacrificing product focus or delivery velocity.",
+  "tags": [
+    "Product Strategy",
+    "Product Management",
+    "Lean Development",
+    "Innovation",
+    "Startups"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-13T09:21:12.374618+00:00",
+  "updated_at": "2026-08-13T09:25:07.438956+00:00",
+  "published_to": []
+}

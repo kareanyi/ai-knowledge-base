@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260813-011",
+  "source": "rss",
+  "source_url": "https://lovable.dev/blog/series-c",
+  "title": "Lovable raises $400M Series C",
+  "summary": "Lovable, an AI-powered developer platform, has secured $400 million in Series C funding, reaching a valuation of $2.15 billion. The round was led by Accel with participation from existing investors, bringing total funding to over $500 million.",
+  "tech_stack": [
+    "AI",
+    "TypeScript",
+    "React",
+    "Full-stack development"
+  ],
+  "problem_solved": "Making application development faster and more accessible through AI-powered tooling",
+  "why_valuable": "The massive funding round demonstrates strong investor confidence in AI-native development tools and positions Lovable as a leading platform in the competitive no-code/low-code market",
+  "tags": [
+    "AI",
+    "Developer-Tools",
+    "Startup",
+    "Funding",
+    "No-Code"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-13T09:22:55.753478+00:00",
+  "updated_at": "2026-08-13T09:25:07.446464+00:00",
+  "published_to": []
+}
