@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-004",
+  "source": "rss",
+  "source_url": "https://github.com/JustVugg/lumabri",
+  "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+  "summary": "Lumabri is a peer-to-peer swarm platform that enables distributed execution of Mixture of Experts (MoE) AI models using the Colibri protocol, allowing users to run large language models collaboratively without centralized infrastructure.",
+  "tech_stack": [
+    "Colibri Protocol",
+    "P2P Networking",
+    "Mixture of Experts",
+    "Distributed Systems",
+    "libp2p"
+  ],
+  "problem_solved": "Enables decentralized and privacy-preserving execution of computationally expensive MoE models by distributing inference workload across a volunteer peer-to-peer network.",
+  "why_valuable": "Reduces the barrier to running large AI models by eliminating the need for expensive centralized cloud infrastructure while providing better privacy through distributed computation.",
+  "tags": [
+    "P2P",
+    "AI",
+    "Decentralization",
+    "MoE",
+    "Distributed Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-14T09:16:31.596608+00:00",
+  "updated_at": "2026-08-14T09:20:17.773803+00:00",
+  "published_to": []
+}

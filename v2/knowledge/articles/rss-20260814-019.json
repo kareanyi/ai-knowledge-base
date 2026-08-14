@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-019",
+  "source": "rss",
+  "source_url": "https://docs.mistral.ai/models/ocr-4-1",
+  "title": "Mistral OCR 4.1",
+  "summary": "Mistral OCR 4.1 is an advanced optical character recognition and document parsing model from Mistral AI that extracts text and structural information from various document formats with high accuracy. It supports multilingual document processing and provides layout-aware extraction, making it suitable for enterprise document digitization workflows.",
+  "tech_stack": [
+    "Mistral AI",
+    "OCR",
+    "Document Parsing",
+    "Cloud API",
+    "Python"
+  ],
+  "problem_solved": "It solves the challenge of accurately extracting and structuring text from complex documents like PDFs and images while preserving layout and formatting information.",
+  "why_valuable": "Mistral OCR 4.1 provides state-of-the-art document understanding capabilities that can significantly reduce manual data entry work and enable efficient automation of document-heavy business processes.",
+  "tags": [
+    "OCR",
+    "Document Processing",
+    "Computer Vision",
+    "AI",
+    "Enterprise AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-14T09:20:03.690311+00:00",
+  "updated_at": "2026-08-14T09:20:17.780986+00:00",
+  "published_to": []
+}

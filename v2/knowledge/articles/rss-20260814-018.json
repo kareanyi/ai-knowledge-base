@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-018",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+  "title": "Gemini 3.7 Flash",
+  "summary": "Gemini 3.7 Flash 是 Google 发布的最新 Gemini 系列 AI 模型，专为高速和高效推理设计，延续了 Flash 系列注重速度和成本优化的定位。这是 Google 在 AI 模型竞争中的重要更新版本。",
+  "tech_stack": [
+    "Gemini API",
+    "Google Cloud",
+    "AI/ML",
+    "Python",
+    "REST API"
+  ],
+  "problem_solved": "为开发者提供快速、低成本且高效的 AI 推理能力，适用于需要高吞吐量和低延迟的应用场景。",
+  "why_valuable": "Gemini 3.7 Flash 在 Hacker News 上获得 817 点和 430 条评论，表明开发者社区对其性能提升和实用性有高度期待和关注。",
+  "tags": [
+    "Gemini",
+    "Google AI",
+    "LLM",
+    "AI Model",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-14T09:19:50.320204+00:00",
+  "updated_at": "2026-08-14T09:20:17.780883+00:00",
+  "published_to": []
+}

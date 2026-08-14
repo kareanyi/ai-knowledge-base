@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260814-001",
+  "source": "rss",
+  "source_url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+  "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+  "summary": "A French tech publication reports that the Xiaomi 17 Ultra smartphone allegedly cheated in moon and eclipse photography, using AI-generated or stock images instead of actual camera captures, exposing potential deceptive marketing practices regarding the phone's camera capabilities.",
+  "tech_stack": [
+    "Smartphone Camera",
+    "AI Image Processing",
+    "Android/HyperOS",
+    "Computational Photography"
+  ],
+  "problem_solved": "Exposes alleged false advertising in smartphone camera marketing where AI post-processing may replace actual photographic capture.",
+  "why_valuable": "Helps consumers understand potential marketing exaggerations and make informed purchasing decisions about smartphone cameras.",
+  "tags": [
+    "Smartphone",
+    "Photography",
+    "AI",
+    "Marketing",
+    "Xiaomi"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-14T09:15:50.878192+00:00",
+  "updated_at": "2026-08-14T09:20:17.773385+00:00",
+  "published_to": []
+}

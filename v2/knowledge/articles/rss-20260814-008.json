@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-008",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+  "title": "How Gödel's Proof Works (2020)",
+  "summary": "This article from Quanta Magazine explains Gödel's incompleteness theorems, revealing how he constructed self-referential mathematical statements that cannot be proven true or false within any sufficiently powerful formal system. The piece breaks down the ingenious encoding of logic into arithmetic that allows numbers to represent both mathematical statements and their proofs.",
+  "tech_stack": [
+    "Mathematical Logic",
+    "Number Theory",
+    "Formal Systems",
+    "Proof Theory",
+    "Recursion"
+  ],
+  "problem_solved": "It addresses the fundamental question of whether mathematics can prove all truths about numbers, demonstrating that any consistent formal system powerful enough to describe arithmetic will contain undecidable propositions.",
+  "why_valuable": "Gödel's theorem fundamentally changed our understanding of mathematics' limits, showing inherent boundaries in formal proof systems that have profound implications for computer science, AI, and the philosophy of mathematics.",
+  "tags": [
+    "Mathematics",
+    "Logic",
+    "Gödel",
+    "Proof Theory",
+    "Philosophy"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-14T09:17:25.203725+00:00",
+  "updated_at": "2026-08-14T09:20:17.774104+00:00",
+  "published_to": []
+}

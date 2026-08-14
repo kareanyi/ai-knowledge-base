@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-005",
+  "source": "rss",
+  "source_url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+  "title": "Bluesky Protocol Services",
+  "summary": "Bluesky Protocol Services 是 Bluesky 推出的去中心化社交网络协议服务，基于 AT Protocol (Authenticated Transfer Protocol)，旨在为用户提供数据所有权和跨平台互操作性的开放社交网络解决方案。",
+  "tech_stack": [
+    "AT Protocol",
+    "TypeScript",
+    "Node.js",
+    "WebSockets",
+    "CRDT"
+  ],
+  "problem_solved": "解决中心化社交平台对用户数据和社交图谱的垄断，让用户能够真正拥有和控制自己的社交数据。",
+  "why_valuable": "通过开放的协议标准实现社交网络的可移植性和互操作性，创建一个不由单一公司控制的去中心化社交生态系统。",
+  "tags": [
+    "Decentralization",
+    "Social Network",
+    "Open Protocol",
+    "Web3",
+    "AT Protocol"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-14T09:16:42.835214+00:00",
+  "updated_at": "2026-08-14T09:20:17.773876+00:00",
+  "published_to": []
+}

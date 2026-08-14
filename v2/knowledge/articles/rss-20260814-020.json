@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-020",
+  "source": "rss",
+  "source_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+  "title": "Spaghettifying DRAM",
+  "summary": "A security research project by the MDS (Microarchitectural Data Sampling) researcher focusing on DRAM manipulation techniques, likely related to Rowhammer-style hardware vulnerability exploitation. The 'bath salts' naming follows the tradition of Rowhammer-related research names (Throwhammer, Half-Double, etc.).",
+  "tech_stack": [
+    "C",
+    "Assembly",
+    "Low-level Systems Programming",
+    "Linux Kernel",
+    "x86 Architecture"
+  ],
+  "problem_solved": "Exploits and analyzes hardware-level memory vulnerabilities in DRAM through techniques like Rowhammer attacks.",
+  "why_valuable": "Advances understanding of physical memory security vulnerabilities that affect millions of devices at the hardware level.",
+  "tags": [
+    "DRAM",
+    "Rowhammer",
+    "Hardware Security",
+    "Memory Exploitation",
+    "Reverse Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-14T09:20:16.942161+00:00",
+  "updated_at": "2026-08-14T09:20:17.781112+00:00",
+  "published_to": []
+}

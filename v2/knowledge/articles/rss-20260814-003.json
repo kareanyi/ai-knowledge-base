@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-003",
+  "source": "rss",
+  "source_url": "https://z.ai/blog/glm-5.3",
+  "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+  "summary": "GLM-5.3 is a frontier-level code generation model developed by Zhipu AI (智谱AI) that demonstrates emergent cyber capabilities, positioning it as a competitor to other state-of-the-art coding models. The model has garnered significant attention on Hacker News with 406 points and 168 comments, indicating strong community interest in its capabilities.",
+  "tech_stack": [
+    "Large Language Models",
+    "Code Generation",
+    "Chinese AI Models",
+    "Emergent Capabilities",
+    "Software Development"
+  ],
+  "problem_solved": "Provides advanced AI-powered code generation and software development assistance with enhanced capabilities beyond traditional coding tasks.",
+  "why_valuable": "Represents a significant advancement in AI-assisted coding with emergent capabilities that could transform software development workflows and automation.",
+  "tags": [
+    "AI",
+    "Code Generation",
+    "LLM",
+    "Machine Learning",
+    "Software Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-14T09:16:17.349513+00:00",
+  "updated_at": "2026-08-14T09:20:17.773713+00:00",
+  "published_to": []
+}

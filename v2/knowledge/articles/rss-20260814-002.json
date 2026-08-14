@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-002",
+  "source": "rss",
+  "source_url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+  "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+  "summary": "A detailed security research article documenting the discovery of a universal Remote Code Execution (RCE) deserialization gadget chain affecting Ruby 4.0 applications, enabling attackers to achieve code execution through unsafe deserialization vulnerabilities.",
+  "tech_stack": [
+    "Ruby",
+    "Ruby 4.0",
+    "Deserialization",
+    "Gadget Chain",
+    "RCE Exploit"
+  ],
+  "problem_solved": "Exposes critical deserialization vulnerabilities in Ruby 4.0 that allow attackers to achieve arbitrary code execution through carefully crafted object chains.",
+  "why_valuable": "Provides essential security research for the Ruby community to understand and defend against deserialization attacks before they can be exploited in production systems.",
+  "tags": [
+    "Security",
+    "Ruby",
+    "RCE",
+    "Deserialization",
+    "Vulnerability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-14T09:16:00.964439+00:00",
+  "updated_at": "2026-08-14T09:20:17.773619+00:00",
+  "published_to": []
+}

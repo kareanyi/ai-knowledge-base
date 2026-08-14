@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260814-016",
+  "source": "rss",
+  "source_url": "https://mcfunley.com/choose-boring-technology",
+  "title": "Choose Boring Technology (2015)",
+  "summary": "Dan McKinley's influential essay argues that engineering organizations should be conservative with technology choices, saving their limited 'innovation tokens' for problems that truly require new solutions. The article advocates using 'boring' proven technology for most problems, freeing up cognitive budget and reducing operational risk.",
+  "tech_stack": [
+    "General Engineering Principles"
+  ],
+  "problem_solved": "Helps engineering leaders make better technology selection decisions by providing a framework to evaluate when new technology is worth the cost versus when to use proven solutions.",
+  "why_valuable": "It provides a mental model for technology decision-making that prevents teams from accumulating technical debt and burning through innovation budget on non-differentiating problems.",
+  "tags": [
+    "Engineering Management",
+    "Technology Strategy",
+    "Software Architecture",
+    "Decision Making",
+    "Organizational Design"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-14T09:19:23.096669+00:00",
+  "updated_at": "2026-08-14T09:20:17.780665+00:00",
+  "published_to": []
+}

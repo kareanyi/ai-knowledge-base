@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-010",
+  "source": "rss",
+  "source_url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+  "title": "Understanding is the new bottleneck",
+  "summary": "Geoffrey Litt argues that as AI makes code generation increasingly easy, the real bottleneck in software development has shifted from writing code to understanding, validating, and maintaining AI-generated code. The article explores how developer workflows, tools, and skills need to evolve to handle this new reality where 'understanding' becomes the critical scarce resource.",
+  "tech_stack": [
+    "LLMs",
+    "AI Coding Assistants",
+    "Software Development",
+    "Developer Tools",
+    "Programming"
+  ],
+  "problem_solved": "Addresses the challenge that as AI makes code generation easier, the bottleneck has shifted to understanding and verifying AI-generated code rather than writing it.",
+  "why_valuable": "Provides a forward-thinking perspective on how the role of software developers is fundamentally changing in the AI era, highlighting which skills become more valuable.",
+  "tags": [
+    "AI",
+    "Software Development",
+    "Developer Tools",
+    "LLM",
+    "Programming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-14T09:17:55.451003+00:00",
+  "updated_at": "2026-08-14T09:20:17.774249+00:00",
+  "published_to": []
+}

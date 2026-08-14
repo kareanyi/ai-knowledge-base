@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-011",
+  "source": "rss",
+  "source_url": "https://github.com/systemd/systemd/issues/40262",
+  "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+  "summary": "A performance issue report for systemd-journald where single log lines are causing unexpectedly large disk writes—49KB+ on ext4 and 110KB+ on btrfs filesystems, indicating inefficient journal logging behavior that wastes disk I/O and storage.",
+  "tech_stack": [
+    "systemd",
+    "Linux",
+    "journald",
+    "ext4",
+    "btrfs"
+  ],
+  "problem_solved": "Reports and documents excessive disk write amplification in systemd's journal logging service when processing single log entries.",
+  "why_valuable": "Helps Linux system administrators and developers understand and address journald's disk I/O overhead, which can impact storage performance and SSD lifespan.",
+  "tags": [
+    "Linux",
+    "systemd",
+    "journald",
+    "performance",
+    "disk-I/O"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-14T09:18:09.738152+00:00",
+  "updated_at": "2026-08-14T09:20:17.779939+00:00",
+  "published_to": []
+}

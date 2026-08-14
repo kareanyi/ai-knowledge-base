@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-015",
+  "source": "rss",
+  "source_url": "https://0.mk/blog/link-rot",
+  "title": "Where did the old web go? We followed 657,607 links to find out",
+  "summary": "A research project that crawled and followed 657,607 links to measure the extent of link rot on the web, documenting how much of the old web has disappeared over time and identifying patterns in web content decay.",
+  "tech_stack": [
+    "Web Crawling",
+    "Python",
+    "Data Analysis",
+    "HTTP Monitoring",
+    "Statistics"
+  ],
+  "problem_solved": "Quantifies the scale of link rot by empirically measuring how many web pages and resources have become inaccessible over time.",
+  "why_valuable": "Provides concrete data on digital preservation challenges, helping researchers and archivists understand the urgency of web archiving efforts.",
+  "tags": [
+    "link-rot",
+    "digital-preservation",
+    "web-archive",
+    "internet-history",
+    "research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-14T09:19:07.758685+00:00",
+  "updated_at": "2026-08-14T09:20:17.780552+00:00",
+  "published_to": []
+}

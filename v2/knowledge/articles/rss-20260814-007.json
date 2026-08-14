@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260814-007",
+  "source": "rss",
+  "source_url": "https://gruhn.me/blog/2026-08-13/",
+  "title": "NP-overrated",
+  "summary": "A contrarian blog post arguing that NP-completeness and computational complexity theory are overemphasized in computer science education and discourse, questioning whether the focus on NP problems is as fundamental as commonly portrayed.",
+  "tech_stack": [
+    "Blog Platform",
+    "Markdown"
+  ],
+  "problem_solved": "Questions the over-emphasis of NP-completeness in CS education and the practical relevance of complexity class theory",
+  "why_valuable": "Provides an alternative perspective on computer science curriculum priorities and sparks discussion about what foundational knowledge truly matters for practitioners",
+  "tags": [
+    "Computer Science",
+    "Complexity Theory",
+    "NP",
+    "Opinion",
+    "Education"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-14T09:17:11.006683+00:00",
+  "updated_at": "2026-08-14T09:20:17.774017+00:00",
+  "published_to": []
+}

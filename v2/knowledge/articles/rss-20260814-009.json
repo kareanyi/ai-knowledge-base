@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260814-009",
+  "source": "rss",
+  "source_url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+  "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+  "summary": "OpenAI published a research report examining how organizations across various industries are adopting and using ChatGPT, providing empirical evidence on AI implementation patterns in enterprise settings. The study likely analyzes usage data and case studies to understand real-world AI deployment.",
+  "tech_stack": [
+    "ChatGPT",
+    "Large Language Models",
+    "AI",
+    "Enterprise Software"
+  ],
+  "problem_solved": "Provides data-driven insights into how businesses are actually implementing and benefiting from AI tools like ChatGPT in their operations.",
+  "why_valuable": "Offers concrete evidence and patterns on AI adoption beyond speculation, helping organizations understand industry trends and use cases for AI integration.",
+  "tags": [
+    "AI Adoption",
+    "Enterprise",
+    "Research",
+    "OpenAI",
+    "ChatGPT"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-14T09:17:37.674989+00:00",
+  "updated_at": "2026-08-14T09:20:17.774184+00:00",
+  "published_to": []
+}
