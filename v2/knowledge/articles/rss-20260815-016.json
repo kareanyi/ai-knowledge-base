@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-016",
+  "source": "rss",
+  "source_url": "https://www.mixedbread.com/blog/toast-1",
+  "title": "Introducing Toast 1",
+  "summary": "MixedBread AI company announces Toast 1, likely a new AI model or product in their portfolio. Based on Hacker News engagement (198 points, 61 comments), this appears to be a significant release that has garnered attention from the developer and AI community.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "NLP",
+    "Embeddings",
+    "API"
+  ],
+  "problem_solved": "Providing an improved AI embedding or text processing solution for developers and enterprises.",
+  "why_valuable": "MixedBread specializes in AI embeddings and text processing, so Toast 1 likely offers better performance, accuracy, or cost-efficiency for AI-powered applications.",
+  "tags": [
+    "AI",
+    "Embeddings",
+    "Product Launch",
+    "Open Source",
+    "API"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:39:59.035905+00:00",
+  "updated_at": "2026-08-15T08:43:02.179622+00:00",
+  "published_to": []
+}

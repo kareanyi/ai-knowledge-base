@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-012",
+  "source": "rss",
+  "source_url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+  "title": "Maximizing the value of your Claude Code sessions",
+  "summary": "An Anthropic blog post offering practical strategies and best practices for developers to maximize productivity when using Claude Code, their AI-powered coding assistant. The article covers effective prompting techniques, session management, and workflow optimization strategies.",
+  "tech_stack": [
+    "Claude Code",
+    "Anthropic Claude API",
+    "Terminal/CLI Tools",
+    "AI-Assisted Development"
+  ],
+  "problem_solved": "Helps developers overcome the learning curve and inefficiency of using AI coding assistants by providing structured approaches to maximize output quality and reduce iteration cycles.",
+  "why_valuable": "Provides expert guidance from the creators themselves, helping teams save time and produce better code by learning the optimal ways to interact with Claude Code for various development tasks.",
+  "tags": [
+    "AI Coding Assistant",
+    "Developer Productivity",
+    "Claude",
+    "Best Practices",
+    "Workflow Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:39:12.298588+00:00",
+  "updated_at": "2026-08-15T08:43:02.178904+00:00",
+  "published_to": []
+}

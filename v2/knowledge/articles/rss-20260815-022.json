@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+  "title": "Google tests AMIE for clinical video consultations",
+  "summary": "Google's AI research system AMIE (Video) conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings comparable to primary care physicians across multiple core measures. The study involved 15 trained actors portraying conditions across cardiopulmonary, abdominal, HEENT, neurological/psychiatric, and musculoskeletal presentations.",
+  "tech_stack": [
+    "AMIE (Articulate Medical Intelligence Explorer)",
+    "Video Consultation AI",
+    "Machine Learning",
+    "Clinical Evaluation Systems"
+  ],
+  "problem_solved": "Provides AI-powered clinical consultation capabilities that could augment primary care physicians and improve healthcare accessibility.",
+  "why_valuable": "Demonstrates that AI systems can achieve physician-level performance in clinical video consultations, potentially addressing physician shortages and expanding healthcare access.",
+  "tags": [
+    "Medical AI",
+    "Healthcare",
+    "Video Consultation",
+    "Clinical AI",
+    "Google Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:41:28.087020+00:00",
+  "updated_at": "2026-08-15T08:43:02.180643+00:00",
+  "published_to": []
+}

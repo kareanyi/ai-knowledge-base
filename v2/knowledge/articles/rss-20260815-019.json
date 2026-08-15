@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-019",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+  "title": "Samsung health AI models analyse wearable biosignal data",
+  "summary": "Samsung Research America's Digital Health Team has developed two AI foundation models specifically designed to analyze wearable biosignal data from smartwatches, including heart activity, sleep patterns, and physical activity metrics. This work supports Samsung's Connected Care vision focused on advancing digital health monitoring capabilities.",
+  "tech_stack": [
+    "AI Foundation Models",
+    "Wearable Technology",
+    "Smartwatch Biosensors",
+    "Heart Activity Monitoring",
+    "Sleep Tracking"
+  ],
+  "problem_solved": "Enables sophisticated health monitoring and analysis from continuous wearable biosignal data that was previously difficult to process at scale.",
+  "why_valuable": "Foundation models can generalize across multiple health metrics, potentially enabling early disease detection and personalized health insights from everyday wearable device data.",
+  "tags": [
+    "AI",
+    "Healthcare",
+    "Wearables",
+    "Digital Health",
+    "Biosignals"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:40:59.242748+00:00",
+  "updated_at": "2026-08-15T08:43:02.180200+00:00",
+  "published_to": []
+}

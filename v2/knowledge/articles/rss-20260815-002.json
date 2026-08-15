@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260815-002",
+  "source": "rss",
+  "source_url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+  "title": "The other Sean Byrne doesn't exist",
+  "summary": "A personal blog post from conic.al discussing identity and existence, likely exploring what happens when searching for someone with your own name reveals unexpected results or empty search results, suggesting themes of digital identity and the feeling of non-existence in online spaces.",
+  "tech_stack": [
+    "HTML",
+    "CSS"
+  ],
+  "problem_solved": "Explores existential questions about digital identity and whether a person truly exists if they have no online presence under their name.",
+  "why_valuable": "Offers a thoughtful meditation on how identity is constructed and perceived in the digital age, resonating with anyone who has searched for themselves online.",
+  "tags": [
+    "personal",
+    "identity",
+    "internet",
+    "essay",
+    "existential"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-15T08:37:08.299439+00:00",
+  "updated_at": "2026-08-15T08:43:02.170113+00:00",
+  "published_to": []
+}

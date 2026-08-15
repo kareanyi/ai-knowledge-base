@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260815-003",
+  "source": "rss",
+  "source_url": "https://app.deltix.ai",
+  "title": "Show HN: Deltix – AI Driven Testing",
+  "summary": "Deltix is an AI-powered software testing platform that automates test generation and validation using machine learning. The platform likely helps developers and QA teams reduce manual testing effort by intelligently identifying test cases and detecting bugs.",
+  "tech_stack": [
+    "AI/ML",
+    "Cloud SaaS",
+    "Web Platform"
+  ],
+  "problem_solved": "Automates and enhances software testing processes by using AI to generate test cases and identify bugs with less manual intervention.",
+  "why_valuable": "Significantly reduces QA time and improves test coverage by leveraging AI to automatically generate and maintain test suites.",
+  "tags": [
+    "AI",
+    "Testing",
+    "QA",
+    "Automation",
+    "DevOps"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-15T08:37:18.087004+00:00",
+  "updated_at": "2026-08-15T08:43:02.170316+00:00",
+  "published_to": []
+}

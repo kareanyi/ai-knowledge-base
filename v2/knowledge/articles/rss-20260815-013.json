@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-013",
+  "source": "rss",
+  "source_url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+  "title": "RustDesk now supports true unattended remote access on Wayland",
+  "summary": "RustDesk, an open-source remote desktop application, has released a feature enabling true unattended remote access on Wayland display servers. This addresses a long-standing limitation where Linux systems using Wayland required user interaction to initiate remote sessions, making automated and headless remote access impractical.",
+  "tech_stack": [
+    "Rust",
+    "Wayland",
+    "X11",
+    "WebRTC",
+    "Open Source"
+  ],
+  "problem_solved": "Enables automatic remote connections to Linux systems running Wayland without requiring physical user approval or interaction at the remote end.",
+  "why_valuable": "This removes a critical barrier for Linux users who need reliable unattended remote access, competing with proprietary solutions like TeamViewer while remaining fully open-source.",
+  "tags": [
+    "Remote Desktop",
+    "Wayland",
+    "Linux",
+    "Open Source",
+    "Cross-Platform"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:39:25.916519+00:00",
+  "updated_at": "2026-08-15T08:43:02.179087+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+  "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+  "summary": "Novo Nordisk 与 AWS 建立战略合作，将 AWS 的人工智能工具（包括 AI agents）应用于药物发现全流程，涵盖靶点识别、疗法设计和研究工作流自动化。双方在伦敦设立了联合创新中心，推动 agentic AI 在制药行业的落地。",
+  "tech_stack": [
+    "AWS AI",
+    "Agentic AI",
+    "Cloud Computing",
+    "Machine Learning",
+    "Automation"
+  ],
+  "problem_solved": "通过引入 AI agents 自动化药物发现流程中的多个环节，加速靶点识别和疗法设计，提高研发效率。",
+  "why_valuable": "将云端 agentic AI 技术与顶级制药公司的药物发现流程深度整合，为 AI 在医疗健康领域的商业化应用提供了重要参考模式。",
+  "tags": [
+    "AI",
+    "Drug Discovery",
+    "Healthcare",
+    "AWS",
+    "Agentic AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:41:40.087560+00:00",
+  "updated_at": "2026-08-15T08:43:02.180808+00:00",
+  "published_to": []
+}

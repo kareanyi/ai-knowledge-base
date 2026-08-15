@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-009",
+  "source": "rss",
+  "source_url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+  "title": "Firefox is now the last major browser that still supports uBlock Origin",
+  "summary": "Firefox has become the last major browser to support uBlock Origin, the popular ad-blocking extension. This is due to Google's Chrome and other Chromium-based browsers transitioning to Manifest V3, a browser extension framework that fundamentally limits the capabilities of content blockers. Firefox remains committed to supporting the more powerful Manifest V2 extensions like uBlock Origin, making it the primary choice for users prioritizing privacy and ad-free browsing.",
+  "tech_stack": [
+    "Browser Extensions",
+    "Manifest V2",
+    "Manifest V3",
+    "Chromium",
+    "Firefox"
+  ],
+  "problem_solved": "Provides a browser option for users who need powerful ad-blocking and privacy protection that other major browsers no longer support.",
+  "why_valuable": "Highlights an important choice for privacy-conscious users and signals the ongoing tension between browser vendors and ad-blocking communities as web standards evolve.",
+  "tags": [
+    "Browser",
+    "Privacy",
+    "Ad-blocking",
+    "Extensions",
+    "Web Standards"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:38:34.060256+00:00",
+  "updated_at": "2026-08-15T08:43:02.178309+00:00",
+  "published_to": []
+}

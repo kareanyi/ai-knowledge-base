@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-015",
+  "source": "rss",
+  "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+  "title": "Google is making private AI practical with homomorphic encryption",
+  "summary": "Google正在推动同态加密(Homomorphic Encryption, FHE)技术在AI领域的实际应用，使模型能够在加密数据上直接进行推理计算，无需解密原始数据，从而在不暴露用户隐私的前提下实现安全的AI服务。",
+  "tech_stack": [
+    "Homomorphic Encryption",
+    "TensorFlow",
+    "Privacy-preserving Computation",
+    "Machine Learning",
+    "Cryptography"
+  ],
+  "problem_solved": "解决了在数据隐私敏感场景下，如何在不暴露原始数据的同时进行AI模型推理和计算的核心问题。",
+  "why_valuable": "同态加密使企业能够在不信任环境中安全使用AI，同时满足数据隐私法规要求，为医疗、金融等高敏感数据领域的AI应用开辟了新路径。",
+  "tags": [
+    "Homomorphic Encryption",
+    "Privacy Computing",
+    "AI Security",
+    "Google",
+    "Cryptography"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:39:48.813874+00:00",
+  "updated_at": "2026-08-15T08:43:02.179443+00:00",
+  "published_to": []
+}

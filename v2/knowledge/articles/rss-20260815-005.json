@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-005",
+  "source": "rss",
+  "source_url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+  "title": "The Ploopy A+ Trackball Is Here",
+  "summary": "Ploopy announces the A+ Trackball, their latest open-source hardware trackball peripheral designed for ergonomic computing and customization enthusiasts.",
+  "tech_stack": [
+    "Hardware",
+    "Arduino",
+    "Open Source",
+    "Firmware",
+    "Mechanical Design"
+  ],
+  "problem_solved": "Provides an open-source, highly customizable trackball option for users seeking ergonomic mouse alternatives",
+  "why_valuable": "Ploopy's commitment to open-source hardware allows users to modify, repair, and customize their peripherals, promoting sustainability and user control",
+  "tags": [
+    "Hardware",
+    "Open Source",
+    "Trackball",
+    "Ergonomics",
+    "Peripheral"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:37:40.501469+00:00",
+  "updated_at": "2026-08-15T08:43:02.170621+00:00",
+  "published_to": []
+}

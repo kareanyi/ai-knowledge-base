@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-001",
+  "source": "rss",
+  "source_url": "https://chenxiachan.github.io/thoughtdag/",
+  "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+  "summary": "ThoughtDAG 是一个用于 LLM 对话的可编辑上下文图工具，通过可视化的有向无环图（DAG）结构帮助用户管理和追踪对话中的思维链路，让复杂的多轮对话变得结构清晰可追溯。",
+  "tech_stack": [
+    "JavaScript",
+    "D3.js",
+    "LLM APIs",
+    "Web Technology",
+    "Graph Visualization"
+  ],
+  "problem_solved": "解决 LLM 多轮对话中上下文碎片化、思维链路难以追踪和编辑的问题。",
+  "why_valuable": "通过 DAG 可视化让用户能清晰地看到、编辑和重新组织对话中的思维过程，提升 AI 交互的效率和深度。",
+  "tags": [
+    "LLM",
+    "Context Management",
+    "DAG",
+    "Visualization",
+    "AI Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:36:50.375650+00:00",
+  "updated_at": "2026-08-15T08:43:02.169798+00:00",
+  "published_to": []
+}

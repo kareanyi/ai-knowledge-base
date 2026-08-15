@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-017",
+  "source": "rss",
+  "source_url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+  "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+  "summary": "A maker created a DIY e-ink newspaper display that aggregates RSS feeds, providing a tactile, distraction-free alternative to reading news on smartphones. The project combines a small e-paper screen with a Raspberry Pi to fetch and display articles in a newspaper-style layout.",
+  "tech_stack": [
+    "Python",
+    "Raspberry Pi",
+    "E-ink Display",
+    "RSS Feeds",
+    "DIY Electronics"
+  ],
+  "problem_solved": "Reduces phone screen time and digital distraction by creating a physical, read-only newspaper device for consuming RSS content",
+  "why_valuable": "Offers a creative solution to smartphone addiction by combining retro newspaper aesthetics with modern feed aggregation, promoting mindful information consumption",
+  "tags": [
+    "DIY",
+    "E-ink",
+    "RSS",
+    "Minimalism",
+    "Hardware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:40:25.139754+00:00",
+  "updated_at": "2026-08-15T08:43:02.179858+00:00",
+  "published_to": []
+}

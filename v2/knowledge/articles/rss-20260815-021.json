@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+  "title": "Okta targets AI agent token costs with MCP scoping",
+  "summary": "Okta introduces identity-scoped Model Context Protocol (MCP) tool lists to reduce AI agent token costs by minimizing the 'tool tax' - the overhead of tokens consumed when models process tool schemas, names, descriptions, and parameters for every exposed tool.",
+  "tech_stack": [
+    "Model Context Protocol (MCP)",
+    "Okta Identity",
+    "AI Agents",
+    "LLM API",
+    "OAuth/OIDC"
+  ],
+  "problem_solved": "Reduces excessive token consumption in AI agent workflows by scoping available tools to only those relevant to a user's identity and permissions.",
+  "why_valuable": "As AI agent deployments scale, token costs become significant; identity-scoped MCP reduces unnecessary prompt overhead, lowering operational costs while maintaining security.",
+  "tags": [
+    "AI Agents",
+    "MCP",
+    "Token Optimization",
+    "Identity Management",
+    "Cost Reduction"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:41:16.775896+00:00",
+  "updated_at": "2026-08-15T08:43:02.180501+00:00",
+  "published_to": []
+}

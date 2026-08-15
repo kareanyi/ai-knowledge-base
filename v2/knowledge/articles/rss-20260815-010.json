@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-010",
+  "source": "rss",
+  "source_url": "https://github.com/lajosdeme/mole",
+  "title": "Show HN: Mole – Deep research agent for your terminal",
+  "summary": "Mole is a terminal-based deep research agent that enforces strict budget control (0% overshoot), provides verified source citations for every claim, and ensures privacy boundaries for local data processing - addressing common pain points of existing AI research tools.",
+  "tech_stack": [
+    "Go",
+    "CLI",
+    "LLM APIs",
+    "Terminal"
+  ],
+  "problem_solved": "Research agents waste budget, produce unverified confident answers without proper source attribution, and lack privacy controls for local data.",
+  "why_valuable": "It guarantees budget compliance, trustworthy citations, and local data privacy - eliminating cost surprises and ensuring research integrity.",
+  "tags": [
+    "AI",
+    "Research Agent",
+    "CLI",
+    "Privacy",
+    "Budget Control"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:38:45.085038+00:00",
+  "updated_at": "2026-08-15T08:43:02.178516+00:00",
+  "published_to": []
+}

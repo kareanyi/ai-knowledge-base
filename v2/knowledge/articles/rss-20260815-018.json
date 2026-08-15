@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-018",
+  "source": "rss",
+  "source_url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+  "title": "Why does Opus 5 feel worse to work with?",
+  "summary": "An analysis of why Anthropic's Claude Opus 5 model feels worse to work with compared to previous versions, exploring user experience discrepancies and potential reasons behind the perceived decline in performance or usability despite technical improvements.",
+  "tech_stack": [
+    "Claude Opus 5",
+    "Anthropic",
+    "LLM",
+    "AI Model"
+  ],
+  "problem_solved": "Understanding why a newer AI model version feels less effective or pleasant to use despite being marketed as an improvement.",
+  "why_valuable": "Provides community feedback and analysis on AI model user experience, helping developers understand model behavior changes and set appropriate expectations.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Claude",
+    "Anthropic",
+    "Developer-Experience"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:40:35.452784+00:00",
+  "updated_at": "2026-08-15T08:43:02.180051+00:00",
+  "published_to": []
+}

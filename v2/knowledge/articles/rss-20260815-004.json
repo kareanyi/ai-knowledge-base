@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260815-004",
+  "source": "rss",
+  "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+  "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+  "summary": "A magnitude 7.7 earthquake struck 68 km north-northwest of Ende, Indonesia, as reported by the USGS. The event received significant attention with 183 points and 43 comments on Hacker News, indicating public interest in natural disaster events.",
+  "tech_stack": [
+    "USGS Earthquake Monitoring System",
+    "Geological Survey Infrastructure"
+  ],
+  "problem_solved": "Provides real-time seismic event reporting and public safety information about a major earthquake in Indonesia.",
+  "why_valuable": "Offers critical earthquake data for emergency response, public awareness, and scientific monitoring of seismic activity in the region.",
+  "tags": [
+    "Earthquake",
+    "Natural Disaster",
+    "Indonesia",
+    "Seismology",
+    "Emergency Response"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:37:31.007147+00:00",
+  "updated_at": "2026-08-15T08:43:02.170476+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-008",
+  "source": "rss",
+  "source_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+  "title": "Going Dark, and the era of law enforcement hacking",
+  "summary": "This blog post from cryptography expert Matthew Green discusses the 'Going Dark' debate—the ongoing tension between strong encryption protecting user privacy and law enforcement's push for exceptional access to communications. The article examines the policy implications of encryption on public safety and digital security.",
+  "tech_stack": [
+    "Cryptography",
+    "End-to-End Encryption",
+    "Mobile Platforms",
+    "Messaging Protocols"
+  ],
+  "problem_solved": "Addresses the policy conflict between strong encryption protecting user privacy and law enforcement's ability to conduct surveillance.",
+  "why_valuable": "Provides expert cryptographic analysis on a critical policy debate that affects billions of users' privacy and global security infrastructure.",
+  "tags": [
+    "Encryption",
+    "Privacy",
+    "Law Enforcement",
+    "Cryptography",
+    "Cybersecurity Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-15T08:38:19.451935+00:00",
+  "updated_at": "2026-08-15T08:43:02.171180+00:00",
+  "published_to": []
+}

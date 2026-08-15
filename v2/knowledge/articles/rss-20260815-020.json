@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+  "title": "Google AI health coach to use Abbott glucose data",
+  "summary": "Google and Abbott have announced a multiyear partnership to integrate Abbott's Lingo continuous glucose monitoring data into Google's AI-powered health coaching app. The Gemini-powered service will provide users with combined glucose trends alongside other personal health metrics for better metabolic health management.",
+  "tech_stack": [
+    "Google Gemini",
+    "Google Health App",
+    "Abbott Lingo",
+    "Continuous Glucose Monitoring",
+    "AI Health Coaching"
+  ],
+  "problem_solved": "Breaks down data silos by combining continuous glucose monitoring with AI-powered health insights for more holistic personal health tracking.",
+  "why_valuable": "Enables proactive health management by giving users unified access to glucose data and AI-driven health recommendations in one platform.",
+  "tags": [
+    "Digital Health",
+    "Healthcare AI",
+    "Wearable Technology",
+    "Glucose Monitoring",
+    "Health Integration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:41:08.941938+00:00",
+  "updated_at": "2026-08-15T08:43:02.180353+00:00",
+  "published_to": []
+}

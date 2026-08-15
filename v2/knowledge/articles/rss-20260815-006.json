@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260815-006",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/1811.03459",
+  "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+  "summary": "这是一篇2018年发表于arXiv的学术论文，探讨如何简化和重构入门微积分的教学方法，旨在使微积分概念更容易被初学者理解。",
+  "tech_stack": [
+    "LaTeX",
+    "Mathematical Analysis",
+    "arXiv"
+  ],
+  "problem_solved": "解决了入门微积分教学概念复杂、学习曲线陡峭的问题",
+  "why_valuable": "通过重新组织微积分教学内容，提供更直观的学习路径，降低初学者的理解门槛",
+  "tags": [
+    "Mathematics",
+    "Education",
+    "Calculus",
+    "Pedagogy",
+    "Academic"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-15T08:37:53.828388+00:00",
+  "updated_at": "2026-08-15T08:43:02.170865+00:00",
+  "published_to": []
+}

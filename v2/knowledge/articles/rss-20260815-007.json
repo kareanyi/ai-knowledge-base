@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-007",
+  "source": "rss",
+  "source_url": "https://eigendrum.com/#p=circle",
+  "title": "eigendrum",
+  "summary": "Eigendrum appears to be a web-based visualization tool focused on eigenfunctions, likely showing how drum-like vibrations and patterns emerge from mathematical eigenvalues. The site likely provides interactive visualizations demonstrating the relationship between geometry (circle) and the mathematics of vibration modes.",
+  "tech_stack": [
+    "JavaScript",
+    "WebGL",
+    "HTML5 Canvas",
+    "Mathematical Visualization"
+  ],
+  "problem_solved": "Makes abstract mathematical concepts of eigenvalues and eigenfunctions tangible through visual, interactive demonstrations.",
+  "why_valuable": "Transforms complex linear algebra concepts into intuitive visual experiences that help educators, students, and enthusiasts understand wave mechanics and spectral theory.",
+  "tags": [
+    "Visualization",
+    "Mathematics",
+    "Eigenfunctions",
+    "Interactive",
+    "Education"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-15T08:38:07.280072+00:00",
+  "updated_at": "2026-08-15T08:43:02.171033+00:00",
+  "published_to": []
+}

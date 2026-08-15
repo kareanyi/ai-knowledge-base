@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-014",
+  "source": "rss",
+  "source_url": "https://www.byhand.ai/",
+  "title": "AI by Hand",
+  "summary": "AI by Hand is a website focused on teaching and demystifying artificial intelligence concepts through hands-on, manual approaches. It appears to help users understand AI by walking through algorithms and concepts step-by-step rather than treating them as black boxes.",
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "Python",
+    "TensorFlow",
+    "Data Visualization"
+  ],
+  "problem_solved": "Makes complex AI/ML concepts accessible and understandable through visual, hands-on learning instead of overwhelming users with abstract theory.",
+  "why_valuable": "Bridges the gap between theoretical AI knowledge and practical understanding by allowing users to see and interact with AI concepts step-by-step.",
+  "tags": [
+    "AI Education",
+    "Machine Learning",
+    "Visualization",
+    "Interactive Learning",
+    "Beginner-Friendly"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-15T08:39:37.843927+00:00",
+  "updated_at": "2026-08-15T08:43:02.179263+00:00",
+  "published_to": []
+}
