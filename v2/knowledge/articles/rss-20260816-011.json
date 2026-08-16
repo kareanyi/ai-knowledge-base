@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260816-011",
+  "source": "rss",
+  "source_url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+  "title": "Software Engineering fundamentals matter more",
+  "summary": "A thoughtful article arguing that traditional software engineering fundamentals—testing, architecture, debugging, and code quality—remain critical and perhaps even more important in the age of AI-assisted development. The piece counters the hype around AI coding tools by emphasizing that strong foundational skills are essential for effectively leveraging these new technologies.",
+  "tech_stack": [
+    "Software Engineering",
+    "Testing",
+    "Architecture Design",
+    "Debugging"
+  ],
+  "problem_solved": "Addresses the misconception that AI tools reduce the need for software engineering fundamentals.",
+  "why_valuable": "Provides practical guidance on why mastering core engineering principles remains essential for building reliable, maintainable software regardless of emerging AI technologies.",
+  "tags": [
+    "Software Engineering",
+    "Best Practices",
+    "AI Tools",
+    "Code Quality",
+    "Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-16T08:40:49.827283+00:00",
+  "updated_at": "2026-08-16T08:42:47.695372+00:00",
+  "published_to": []
+}

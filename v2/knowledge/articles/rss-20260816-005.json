@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260816-005",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/multiagent-systems",
+  "title": "Patterns and problems in emerging multi-agent systems",
+  "summary": "Anthropic's research article examining design patterns and common challenges encountered when building multi-agent AI systems, likely based on their experience developing agents with Claude. The article explores both successful approaches and pitfalls in orchestrating multiple AI agents to collaborate on complex tasks.",
+  "tech_stack": [
+    "Claude",
+    "Multi-Agent Architecture",
+    "LLM-based Agents",
+    "Anthropic API"
+  ],
+  "problem_solved": "Provides guidance on designing reliable multi-agent systems by documenting common patterns and problems encountered in production deployments.",
+  "why_valuable": "Offers insights from a leading AI lab on the practical challenges of multi-agent orchestration, helping developers avoid common pitfalls when building complex agentic systems.",
+  "tags": [
+    "Multi-Agent",
+    "AI Agents",
+    "LLM",
+    "System Design",
+    "Anthropic"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-16T08:39:24.428648+00:00",
+  "updated_at": "2026-08-16T08:42:47.694147+00:00",
+  "published_to": []
+}

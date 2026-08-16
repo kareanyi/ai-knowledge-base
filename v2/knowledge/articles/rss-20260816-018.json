@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260816-018",
+  "source": "rss",
+  "source_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "title": "AI has access to a vastly larger working memory than the human brain",
+  "summary": "This article compares AI's working memory capabilities with the human brain, arguing that despite AI's access to vastly larger computational resources, this doesn't necessarily translate to superior mathematical reasoning. The author explores the qualitative differences between how AI processes information versus how human mathematicians think, suggesting that raw computational power alone cannot replicate human mathematical intuition and creativity.",
+  "tech_stack": [
+    "AI",
+    "Large Language Models",
+    "Neural Networks"
+  ],
+  "problem_solved": "Addresses common misconceptions about AI surpassing human intelligence in cognitive tasks like mathematical reasoning.",
+  "why_valuable": "Provides nuanced understanding of the fundamental differences between artificial and human intelligence, helping readers avoid overestimating AI capabilities.",
+  "tags": [
+    "AI",
+    "Cognitive Science",
+    "Human Brain",
+    "Working Memory",
+    "Mathematics"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-16T08:42:32.952733+00:00",
+  "updated_at": "2026-08-16T08:42:47.700954+00:00",
+  "published_to": []
+}

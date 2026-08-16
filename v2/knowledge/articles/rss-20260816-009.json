@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260816-009",
+  "source": "rss",
+  "source_url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+  "title": "Tea5767-Radio-Tuner",
+  "summary": "A simple Arduino library/project for controlling the TEA5767 FM radio module, allowing users to tune to different radio frequencies. The project enables microcontrollers to interface with this popular low-cost FM receiver chip for building radio projects.",
+  "tech_stack": [
+    "Arduino",
+    "C/C++",
+    "TEA5767"
+  ],
+  "problem_solved": "Provides an easy interface to control TEA5767 FM radio module frequency tuning from Arduino",
+  "why_valuable": "Enables hobbyists and makers to add FM radio functionality to their embedded projects with minimal complexity",
+  "tags": [
+    "Arduino",
+    "Embedded",
+    "FM Radio",
+    "Hardware",
+    "IoT"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-16T08:40:30.419852+00:00",
+  "updated_at": "2026-08-16T08:42:47.694989+00:00",
+  "published_to": []
+}

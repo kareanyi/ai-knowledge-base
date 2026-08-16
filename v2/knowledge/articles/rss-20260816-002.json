@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-002",
+  "source": "rss",
+  "source_url": "https://www.falstad.com/mathphysics.html",
+  "title": "Falstad Math and Physics Simulations",
+  "summary": "A comprehensive collection of interactive Java/HTML5-based math and physics simulations created by Paul Falstad, featuring real-time visual demonstrations of complex concepts including wave interference, electromagnetic fields, quantum mechanics, and Fourier transforms.",
+  "tech_stack": [
+    "Java",
+    "HTML5",
+    "JavaScript",
+    "WebGL",
+    "Physics Simulation"
+  ],
+  "problem_solved": "Makes abstract mathematical and physics concepts tangible and intuitive through interactive real-time visual simulations.",
+  "why_valuable": "Provides free, high-quality educational tools that have helped generations of students intuitively understand complex scientific concepts through hands-on experimentation.",
+  "tags": [
+    "Education",
+    "Physics",
+    "Mathematics",
+    "Simulations",
+    "Interactive-Learning"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-16T08:38:33.753040+00:00",
+  "updated_at": "2026-08-16T08:42:47.693529+00:00",
+  "published_to": []
+}

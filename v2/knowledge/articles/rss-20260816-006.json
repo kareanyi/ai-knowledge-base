@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260816-006",
+  "source": "rss",
+  "source_url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+  "title": "Guiding Ships with Moire Patterns",
+  "summary": "A blog post exploring how moiré patterns (optical interference effects) can be utilized as visual navigation aids for guiding ships, particularly useful for docking and harbor operations. The article explains the physics behind these patterns and their practical application in maritime navigation.",
+  "tech_stack": [
+    "Optics",
+    "Visual Design",
+    "Navigation Systems",
+    "Physics"
+  ],
+  "problem_solved": "Provides an elegant visual solution for guiding ships during navigation and docking operations using optical interference patterns.",
+  "why_valuable": "Offers a low-tech, intuitive visual guidance system that can improve maritime safety without requiring complex electronic systems.",
+  "tags": [
+    "Moiré Patterns",
+    "Navigation",
+    "Maritime",
+    "Optics",
+    "Visual Design"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-16T08:39:47.132202+00:00",
+  "updated_at": "2026-08-16T08:42:47.694364+00:00",
+  "published_to": []
+}

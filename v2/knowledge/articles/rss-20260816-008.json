@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-008",
+  "source": "rss",
+  "source_url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+  "title": "Big Pickle on SWE Atlas – Codebase QnA",
+  "summary": "Big Pickle on SWE Atlas is a codebase question-answering tool that enables developers to query code repositories using natural language, leveraging large language models for code understanding and retrieval.",
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "Code Embedding",
+    "Vector Search",
+    "NLP"
+  ],
+  "problem_solved": "Helps developers quickly understand and navigate unfamiliar codebases by answering questions in natural language.",
+  "why_valuable": "Reduces time spent on code comprehension and onboarding by providing instant, AI-powered answers about codebase structure and functionality.",
+  "tags": [
+    "AI",
+    "Code Intelligence",
+    "LLM",
+    "Developer Tools",
+    "Q&A"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-16T08:40:19.115778+00:00",
+  "updated_at": "2026-08-16T08:42:47.694777+00:00",
+  "published_to": []
+}

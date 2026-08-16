@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-004",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+  "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+  "summary": "The article explores a novel method of extracting hydrogen from geological formations by applying electrical stimulation to rocks, potentially unlocking a significant source of clean energy from the Earth itself.",
+  "tech_stack": [
+    "Geological Engineering",
+    "Hydrogen Energy",
+    "Electrical Stimulation",
+    "Energy Extraction",
+    "Clean Energy"
+  ],
+  "problem_solved": "Addresses the challenge of discovering viable natural hydrogen sources for clean energy production beyond artificial synthesis methods.",
+  "why_valuable": "Natural geologic hydrogen could provide a nearly carbon-free, domestically-sourced energy carrier that revolutionizes the clean energy landscape.",
+  "tags": [
+    "Clean Energy",
+    "Hydrogen",
+    "Geology",
+    "Energy Extraction",
+    "Sustainable Energy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-16T08:39:02.876756+00:00",
+  "updated_at": "2026-08-16T08:42:47.693923+00:00",
+  "published_to": []
+}

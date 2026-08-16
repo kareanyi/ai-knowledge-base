@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-017",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+  "title": "AI in drug discovery – what it is, where we stand and the path forward",
+  "summary": "Science.org's blog post examines the current state of AI in drug discovery, discussing real achievements like AlphaFold's protein structure prediction and generative models for molecule design, while honestly assessing limitations in clinical translation. The article covers where AI has proven valuable versus where hype exceeds reality, offering a balanced perspective on the path forward for pharmaceutical AI applications.",
+  "tech_stack": [
+    "AlphaFold",
+    "Deep Learning",
+    "Generative AI",
+    "High-Performance Computing",
+    "Molecular Modeling"
+  ],
+  "problem_solved": "AI addresses the fundamental bottleneck in pharmaceutical development: reducing the 10-15 year timeline and billions of dollars required to bring new drugs from discovery to market.",
+  "why_valuable": "By accelerating target identification, molecular design, and prediction of drug-protein interactions, AI has potential to democratize drug development and bring treatments to patients years earlier.",
+  "tags": [
+    "AI",
+    "drug-discovery",
+    "biotech",
+    "AlphaFold",
+    "pharma"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-16T08:42:07.382474+00:00",
+  "updated_at": "2026-08-16T08:42:47.700746+00:00",
+  "published_to": []
+}

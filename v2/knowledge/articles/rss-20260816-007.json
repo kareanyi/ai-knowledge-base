@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-007",
+  "source": "rss",
+  "source_url": "https://www.micdrop.gg/",
+  "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+  "summary": "Mic Drop is a real-time multiplayer karaoke game where players compete to guess songs fastest. The web-based game enables remote friends to enjoy karaoke-style entertainment together, featuring instant gameplay rounds with scoring.",
+  "tech_stack": [
+    "WebRTC",
+    "React",
+    "Node.js",
+    "WebSocket",
+    "Audio Streaming"
+  ],
+  "problem_solved": "Provides a fun social music game experience for remote friends who want to play karaoke together online.",
+  "why_valuable": "Fills the gap for casual real-time multiplayer music entertainment in a simple browser-based format that requires no downloads.",
+  "tags": [
+    "multiplayer",
+    "karaoke",
+    "real-time",
+    "social-gaming",
+    "web-app"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-16T08:40:00.435696+00:00",
+  "updated_at": "2026-08-16T08:42:47.694576+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260816-019",
+  "source": "rss",
+  "source_url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+  "title": "Semaglutide linked to lower predicted dementia risk",
+  "summary": "A peer-reviewed study published in Alzheimer's & Dementia journal found that semaglutide (the active ingredient in Ozempic and Wegovy) is associated with a lower predicted risk of dementia, suggesting potential neuroprotective benefits of GLP-1 receptor agonists beyond their approved uses for diabetes and weight management.",
+  "tech_stack": [
+    "Clinical Research",
+    "Statistical Analysis",
+    "Medical Data Analytics"
+  ],
+  "problem_solved": "Addresses the growing dementia epidemic by identifying an existing FDA-approved drug that may help reduce cognitive decline risk.",
+  "why_valuable": "Offers a potential readily available treatment option for dementia prevention, leveraging an already-approved medication with a well-understood safety profile.",
+  "tags": [
+    "Medical Research",
+    "Drug Discovery",
+    "Neurodegenerative Disease",
+    "GLP-1",
+    "Clinical Trial"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-16T08:42:46.510457+00:00",
+  "updated_at": "2026-08-16T08:42:47.701180+00:00",
+  "published_to": []
+}

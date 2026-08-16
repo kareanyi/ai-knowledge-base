@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-016",
+  "source": "rss",
+  "source_url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+  "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+  "summary": "A weather forecasting article reporting that a Super El Niño event is strengthening to record levels ahead of the 2026-2027 winter season, with predicted impacts across North America and Europe. The article discusses climate model projections and potential weather pattern changes.",
+  "tech_stack": [
+    "Climate Modeling",
+    "NOAA Data",
+    "Weather Satellites",
+    "Ensemble Forecasting",
+    "Long-range Prediction Models"
+  ],
+  "problem_solved": "Provides advance warning about an impending super El Niño event that could significantly alter winter weather patterns across multiple continents",
+  "why_valuable": "Helps communities, agriculture, energy sectors, and emergency planners prepare for potential extreme weather events several months in advance",
+  "tags": [
+    "Meteorology",
+    "Climate",
+    "El Niño",
+    "Weather Forecasting",
+    "Extreme Weather"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-16T08:41:47.545428+00:00",
+  "updated_at": "2026-08-16T08:42:47.700539+00:00",
+  "published_to": []
+}

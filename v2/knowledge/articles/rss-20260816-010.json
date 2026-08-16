@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-010",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2608.13122",
+  "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+  "summary": "A case study on using AI tools to assist in porting a 250,000-line legacy Fortran weather simulation code to GPU architecture, demonstrating how AI can accelerate the modernization of large-scale scientific computing applications.",
+  "tech_stack": [
+    "Fortran",
+    "CUDA",
+    "AI Coding Assistants",
+    "Weather Simulation Models",
+    "HPC"
+  ],
+  "problem_solved": "Accelerates the time-consuming and error-prone process of manually converting legacy weather simulation code from CPU to GPU architecture.",
+  "why_valuable": "Provides a practical blueprint for applying AI-assisted tools to modernize critical scientific computing infrastructure, potentially achieving orders of magnitude performance improvements.",
+  "tags": [
+    "GPU",
+    "Legacy Code",
+    "Weather Simulation",
+    "AI-Assisted",
+    "HPC"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-16T08:40:39.842726+00:00",
+  "updated_at": "2026-08-16T08:42:47.695184+00:00",
+  "published_to": []
+}

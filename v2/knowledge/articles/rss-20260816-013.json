@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-013",
+  "source": "rss",
+  "source_url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+  "title": "Tracking down a Zsh history data loss bug",
+  "summary": "The author investigates a bug in Zsh shell's history truncation mechanism that causes unexpected data loss when the history file grows beyond certain limits. Through systematic debugging using strace, code inspection, and binary search across git history, the author identifies the root cause and provides a fix.",
+  "tech_stack": [
+    "Zsh",
+    "C",
+    "strace",
+    "Git",
+    "GDB"
+  ],
+  "problem_solved": "Zsh shell history entries being silently lost when the history file reaches a specific size threshold during truncation operations.",
+  "why_valuable": "This demonstrates effective debugging methodology for tracking down subtle data loss bugs in widely-used Unix tools, while providing a fix that prevents losing valuable command history for all Zsh users.",
+  "tags": [
+    "Zsh",
+    "BugFix",
+    "Debugging",
+    "Shell",
+    "OpenSource"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-16T08:41:09.818543+00:00",
+  "updated_at": "2026-08-16T08:42:47.695756+00:00",
+  "published_to": []
+}

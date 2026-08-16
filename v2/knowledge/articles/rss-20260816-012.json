@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-012",
+  "source": "rss",
+  "source_url": "https://sugartrack-beta.vercel.app/",
+  "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+  "summary": "SugarTrack is a privacy-focused Android app for logging blood sugar levels that works completely offline without requiring user accounts or cloud storage. The app targets diabetic patients who need a simple, secure way to track their glucose readings without data privacy concerns.",
+  "tech_stack": [
+    "Android",
+    "Kotlin",
+    "SQLite",
+    "Jetpack Compose",
+    "Vercel"
+  ],
+  "problem_solved": "Provides a private, offline-first blood sugar tracking solution for diabetics who want to avoid cloud accounts and data sharing",
+  "why_valuable": "Respects user privacy by eliminating account requirements and cloud dependencies while providing essential diabetes management functionality",
+  "tags": [
+    "Mobile",
+    "Health",
+    "Privacy",
+    "Offline",
+    "Diabetes"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-16T08:40:59.813772+00:00",
+  "updated_at": "2026-08-16T08:42:47.695569+00:00",
+  "published_to": []
+}

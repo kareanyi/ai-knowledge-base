@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260816-003",
+  "source": "rss",
+  "source_url": "https://nntaleb.substack.com/p/have-another-drink",
+  "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
+  "summary": "Nassim Taleb critiques a government-sponsored study on alcohol, questioning its scientific methodology and statistical validity. The article examines how official health research may fail to meet rigorous standards of evidence.",
+  "tech_stack": [
+    "Statistics",
+    "Research Methodology",
+    "Scientific Analysis",
+    "Risk Assessment"
+  ],
+  "problem_solved": "Exposes methodological flaws and lack of scientific rigor in government-sponsored alcohol research.",
+  "why_valuable": "Highlights the importance of statistical scrutiny and skepticism toward official health studies that often influence public policy.",
+  "tags": [
+    "Research",
+    "Statistics",
+    "Health Policy",
+    "Scientific Skepticism",
+    "Methodology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-16T08:38:46.690578+00:00",
+  "updated_at": "2026-08-16T08:42:47.693725+00:00",
+  "published_to": []
+}
