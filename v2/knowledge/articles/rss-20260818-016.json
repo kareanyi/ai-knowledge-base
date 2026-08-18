@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260818-016",
+  "source": "rss",
+  "source_url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+  "title": "Judge sets framework for Nine PBS to retrieve archival data",
+  "summary": "This is a news article reporting on a court ruling that establishes a legal framework for Nine PBS (an Australian public broadcaster) to retrieve and access its archival broadcast data, likely in a dispute over digital preservation or content rights.",
+  "tech_stack": [
+    "N/A - Legal/News Content"
+  ],
+  "problem_solved": "Addresses legal and procedural barriers preventing a public broadcaster from accessing and retrieving its own archival media content.",
+  "why_valuable": "Establishes precedent for public broadcasting organizations to maintain control over and access to their historical content archives.",
+  "tags": [
+    "Legal",
+    "Public Broadcasting",
+    "Archival",
+    "Media Rights",
+    "Copyright"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-18T08:50:11.362714+00:00",
+  "updated_at": "2026-08-18T08:53:40.707172+00:00",
+  "published_to": []
+}

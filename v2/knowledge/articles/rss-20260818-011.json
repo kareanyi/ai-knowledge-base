@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-011",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+  "title": "India has paved the way for charging merchants a fee on UPI transactions",
+  "summary": "India has announced plans to charge merchants fees on UPI transactions, marking a significant policy shift for one of the world's most widely used digital payment systems. This move by the National Payments Corporation of India (NPCI) aims to sustain the digital payments ecosystem while balancing merchant and consumer interests.",
+  "tech_stack": [
+    "UPI",
+    "Digital Payments",
+    "FinTech",
+    "NPCI",
+    "Mobile Payments"
+  ],
+  "problem_solved": "Addresses the sustainability and cost-recovery challenge of maintaining India's massive digital payments infrastructure.",
+  "why_valuable": "This policy change affects over 300 million UPI users and millions of merchants, potentially reshaping India's digital economy and setting a precedent for other countries' payment systems.",
+  "tags": [
+    "UPI",
+    "Digital Payments",
+    "India",
+    "FinTech",
+    "Policy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-18T08:48:56.191617+00:00",
+  "updated_at": "2026-08-18T08:53:40.706248+00:00",
+  "published_to": []
+}

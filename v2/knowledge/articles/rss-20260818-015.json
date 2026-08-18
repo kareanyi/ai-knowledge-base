@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260818-015",
+  "source": "rss",
+  "source_url": "https://sunclock.net/",
+  "title": "Sun Clock",
+  "summary": "Sun Clock is a web-based utility that displays time based on the sun's position, showing solar cycles like sunrise, sunset, and solar noon in a visual clock format.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "Web APIs"
+  ],
+  "problem_solved": "Provides a natural, sun-based perspective on time rather than arbitrary clock hours.",
+  "why_valuable": "Offers an intuitive visual representation of daylight patterns and solar position for planning outdoor activities or understanding seasonal time changes.",
+  "tags": [
+    "Time",
+    "Sun",
+    "Web Tool",
+    "Utility",
+    "Solar"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-18T08:49:58.055737+00:00",
+  "updated_at": "2026-08-18T08:53:40.706998+00:00",
+  "published_to": []
+}

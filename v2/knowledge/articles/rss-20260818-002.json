@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-002",
+  "source": "rss",
+  "source_url": "https://danluu.com/benchpocalypse/",
+  "title": "The Benchmarkpocalypse",
+  "summary": "Dan Luu's article explores how software benchmarks are systematically misleading, gaming the system, and often failing to reflect real-world performance. Through multiple case studies and examples, the author demonstrates why relying on published benchmarks is dangerous and how the benchmarking ecosystem has degraded over time.",
+  "tech_stack": [
+    "C",
+    "C++",
+    "Assembly",
+    "Linux",
+    "Various benchmarking tools"
+  ],
+  "problem_solved": "Exposes the fundamental problems with software performance benchmarks and why they rarely translate to real-world improvements.",
+  "why_valuable": "Helps developers critically evaluate performance claims and understand the gaming, overfitting, and measurement errors that plague the benchmarking ecosystem.",
+  "tags": [
+    "Performance",
+    "Benchmarking",
+    "Systems",
+    "Engineering",
+    "Reliability"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-18T08:46:15.747866+00:00",
+  "updated_at": "2026-08-18T08:53:40.698511+00:00",
+  "published_to": []
+}

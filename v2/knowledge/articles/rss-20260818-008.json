@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-008",
+  "source": "rss",
+  "source_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+  "title": "GPT-5.6 Sol Pricing Cut by 50%",
+  "summary": "OpenAI has reduced the pricing of GPT-5.6 Sol model by 50% on OpenRouter platform, making this advanced language model more affordable for developers and businesses. The price cut reflects ongoing competition in the AI API market and the trend of reducing costs for accessing large language models.",
+  "tech_stack": [
+    "OpenAI",
+    "GPT-5.6",
+    "OpenRouter",
+    "LLM",
+    "AI API"
+  ],
+  "problem_solved": "Reduces the financial barrier for developers and businesses to access advanced AI capabilities through lower API costs.",
+  "why_valuable": "Price reductions in AI models democratize access to advanced AI technology, enabling more developers and startups to integrate powerful AI capabilities into their applications at reduced costs.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Pricing",
+    "OpenAI",
+    "OpenRouter"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-18T08:48:04.558659+00:00",
+  "updated_at": "2026-08-18T08:53:40.699726+00:00",
+  "published_to": []
+}

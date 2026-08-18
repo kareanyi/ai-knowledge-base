@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260818-003",
+  "source": "rss",
+  "source_url": "https://www.repaircafe.org/",
+  "title": "Repair Cafe – Fix Your Broken Items",
+  "summary": "Repair Cafe is a community-based initiative that brings together volunteers with repair skills and people who have broken items, enabling them to fix objects together in a social setting rather than discarding them.",
+  "tech_stack": [
+    "Community Platform",
+    "Repair Services",
+    "Volunteer Network"
+  ],
+  "problem_solved": "Reduces electronic and household waste by fixing broken items instead of throwing them away",
+  "why_valuable": "Promotes sustainability, reduces landfill waste, saves consumers money, and builds community connections through shared knowledge and skills",
+  "tags": [
+    "Sustainability",
+    "Community",
+    "Repair",
+    "Waste Reduction",
+    "Circular Economy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-18T08:46:22.412723+00:00",
+  "updated_at": "2026-08-18T08:53:40.698716+00:00",
+  "published_to": []
+}

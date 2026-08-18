@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260818-004",
+  "source": "rss",
+  "source_url": "https://scapplications.com/",
+  "title": "scScript for Linux",
+  "summary": "scScript for Linux appears to be a scripting solution or tool from scapplications.com designed for Linux environments, likely providing automation or command-line functionality for users. Based on the Hacker News discussion with 33 points, it has garnered moderate interest from the developer community.",
+  "tech_stack": [
+    "Linux",
+    "Bash",
+    "Shell Scripting"
+  ],
+  "problem_solved": "Provides scripting capabilities or automation tools specifically optimized for Linux systems.",
+  "why_valuable": "Offers Linux-specific scripting solutions that can enhance productivity for developers and system administrators working in Linux environments.",
+  "tags": [
+    "Linux",
+    "Scripting",
+    "Automation",
+    "CLI",
+    "Developer Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-18T08:47:02.211481+00:00",
+  "updated_at": "2026-08-18T08:53:40.698910+00:00",
+  "published_to": []
+}

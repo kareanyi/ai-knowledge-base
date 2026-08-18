@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-013",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2608.13759",
+  "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+  "summary": "This paper presents a Rust-based framework for GPU offloading that provides portable, memory-safe, and high-performance GPU compute capabilities. It enables CPU code to seamlessly offload computations to GPUs while maintaining Rust's ownership and type safety guarantees, addressing the gap between Rust's safety features and GPU acceleration needs.",
+  "tech_stack": [
+    "Rust",
+    "GPU Computing",
+    "CUDA",
+    "Async Programming",
+    "Systems Programming"
+  ],
+  "problem_solved": "Enables Rust developers to offload compute-intensive tasks to GPUs without sacrificing memory safety or requiring unsafe code patterns common in existing GPU libraries.",
+  "why_valuable": "Combines Rust's compile-time safety guarantees with GPU acceleration, making high-performance computing more accessible and less prone to memory errors than traditional approaches like CUDA.",
+  "tags": [
+    "Rust",
+    "GPU",
+    "GPU Offload",
+    "Systems Programming",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-18T08:49:25.878053+00:00",
+  "updated_at": "2026-08-18T08:53:40.706638+00:00",
+  "published_to": []
+}

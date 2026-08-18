@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260818-014",
+  "source": "rss",
+  "source_url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+  "title": "An update on leaving Gmail for Fastmail",
+  "summary": "A personal account documenting the author's decision to migrate from Gmail to Fastmail, driven by privacy concerns and dissatisfaction with Google's data practices. The article provides practical insights into the email migration process and reflects on the trade-offs involved in switching email providers.",
+  "tech_stack": [
+    "Fastmail",
+    "Gmail",
+    "Email Services",
+    "Domain Hosting"
+  ],
+  "problem_solved": "Addresses privacy concerns and data ownership issues by migrating from Google's email ecosystem to a more privacy-focused alternative.",
+  "why_valuable": "Offers a real-world case study of escaping big tech dependency, with practical guidance for users considering similar email provider transitions.",
+  "tags": [
+    "privacy",
+    "email",
+    "fastmail",
+    "gmail",
+    "migration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-18T08:49:42.858526+00:00",
+  "updated_at": "2026-08-18T08:53:40.706821+00:00",
+  "published_to": []
+}

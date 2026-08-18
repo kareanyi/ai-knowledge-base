@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260818-019",
+  "source": "rss",
+  "source_url": "https://www.librarian.net/notoai/",
+  "title": "How to disable or avoid intrusive AI",
+  "summary": "This is a Hacker News post sharing resources and strategies for users to opt out of or disable intrusive AI features in modern products and services. The discussion received significant engagement with 294 points and 174 comments, indicating strong community interest in maintaining user control over AI integration.",
+  "tech_stack": [
+    "Browser Extensions",
+    "Ad Blockers",
+    "Privacy Tools"
+  ],
+  "problem_solved": "Addresses the growing problem of AI features being forced on users without easy opt-out options.",
+  "why_valuable": "Provides practical guidance for privacy-conscious users who want to avoid unwanted AI surveillance and data collection.",
+  "tags": [
+    "AI",
+    "Privacy",
+    "User Control",
+    "Opt-out",
+    "Digital Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-18T08:50:58.315509+00:00",
+  "updated_at": "2026-08-18T08:53:40.707748+00:00",
+  "published_to": []
+}

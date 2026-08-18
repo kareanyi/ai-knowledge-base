@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-007",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+  "title": "How do functions like alloca allocate memory from the stack?",
+  "summary": "Raymond Chen's blog post explaining the internal mechanics of stack-based memory allocation functions like alloca(), describing how they manipulate the stack pointer to allocate and deallocate memory without explicit free calls.",
+  "tech_stack": [
+    "C",
+    "C++",
+    "Assembly",
+    "Windows",
+    "Stack Memory"
+  ],
+  "problem_solved": "Explains how stack allocation functions work at the machine level, demystifying the mechanism behind alloca() and similar functions.",
+  "why_valuable": "Provides deep understanding of low-level memory management that helps developers avoid common pitfalls and write more efficient code.",
+  "tags": [
+    "Memory Management",
+    "Stack",
+    "Low-level Programming",
+    "C/C++",
+    "System Programming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-18T08:47:50.298324+00:00",
+  "updated_at": "2026-08-18T08:53:40.699532+00:00",
+  "published_to": []
+}

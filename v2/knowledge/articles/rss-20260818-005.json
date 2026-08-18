@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-005",
+  "source": "rss",
+  "source_url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+  "title": "Quake Shareware, a CD-ROM just a little too full",
+  "summary": "A technical deep-dive by Fabien Sanglard analyzing the Quake shareware CD-ROM packaging and distribution, exploring the technical challenges and innovations of delivering id Software's groundbreaking 3D engine on optical media in 1996.",
+  "tech_stack": [
+    "C",
+    "id Tech 1",
+    "DOS",
+    "CD-ROM",
+    "Assembly"
+  ],
+  "problem_solved": "Documents the technical and logistical challenges of packaging a revolutionary 3D game engine on CD-ROM for shareware distribution in the mid-90s.",
+  "why_valuable": "Provides rare technical insights into one of gaming's most influential titles and the innovative shareware distribution model that democratized access to cutting-edge 3D graphics.",
+  "tags": [
+    "gaming-history",
+    "reverse-engineering",
+    "id-software",
+    "shareware",
+    "90s-computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-18T08:47:21.730097+00:00",
+  "updated_at": "2026-08-18T08:53:40.699100+00:00",
+  "published_to": []
+}

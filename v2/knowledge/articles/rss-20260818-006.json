@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-006",
+  "source": "rss",
+  "source_url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+  "title": "Fairphone 6 and PostmarketOS working main camera",
+  "summary": "A technical blog post documenting the process of getting the main camera working on Fairphone 6 running PostmarketOS, a privacy-focused mobile Linux distribution. The article likely covers driver development, hardware compatibility work, or reverse engineering camera modules for Linux support.",
+  "tech_stack": [
+    "PostmarketOS",
+    "Linux",
+    "Mobile camera drivers",
+    "Kernel development",
+    "Shell scripting"
+  ],
+  "problem_solved": "Enables camera functionality on Fairphone 6 hardware when running PostmarketOS, which is not natively supported out of the box.",
+  "why_valuable": "Provides a practical solution for users who want to use repairable, ethical Fairphone hardware with open-source mobile Linux while maintaining essential camera functionality.",
+  "tags": [
+    "Fairphone",
+    "PostmarketOS",
+    "Linux",
+    "Mobile",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-18T08:47:37.199736+00:00",
+  "updated_at": "2026-08-18T08:53:40.699338+00:00",
+  "published_to": []
+}

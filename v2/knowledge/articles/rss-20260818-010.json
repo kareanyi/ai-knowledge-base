@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260818-010",
+  "source": "rss",
+  "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+  "title": "AI;DR (AI; Didn't Read)",
+  "summary": "This article explores the growing trend of people relying on AI-generated summaries instead of reading full content, using the clever acronym AI;DR (AI; Didn't Read) as a play on the traditional TL;DR. It examines the cultural and cognitive implications of how AI tools are reshaping our information consumption habits.",
+  "tech_stack": [
+    "AI/LLM",
+    "Content Summarization",
+    "Knowledge Management"
+  ],
+  "problem_solved": "Addresses the cultural shift toward preferring AI summaries over original content reading.",
+  "why_valuable": "It sparks an important conversation about attention economy and critical thinking in an AI-assisted information age.",
+  "tags": [
+    "AI",
+    "Content Consumption",
+    "Digital Culture",
+    "Attention Economy",
+    "Reading Habits"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-18T08:48:40.987748+00:00",
+  "updated_at": "2026-08-18T08:53:40.700104+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-017",
+  "source": "rss",
+  "source_url": "https://speko.ai/",
+  "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+  "summary": "Speko is a YC S26 startup that provides a platform to automatically find the optimal combination of speech-to-text, LLM, and text-to-speech models for voice AI applications, based on user constraints and their comprehensive benchmarking data across multiple vendors.",
+  "tech_stack": [
+    "Speech-to-Text (STT)",
+    "Large Language Models (LLM)",
+    "Text-to-Speech (TTS)",
+    "Voice AI Infrastructure",
+    "Model Benchmarking Platform"
+  ],
+  "problem_solved": "Eliminates the time-consuming manual evaluation process of finding the best voice AI model stack from dozens of rapidly evolving options.",
+  "why_valuable": "Enables developers to make data-driven decisions when building voice agents by providing benchmarked comparisons and recommendations, saving significant evaluation time in a fragmented market.",
+  "tags": [
+    "Voice AI",
+    "Speech Technology",
+    "YC Startup",
+    "AI Agent",
+    "Model Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-18T08:50:28.827102+00:00",
+  "updated_at": "2026-08-18T08:53:40.707385+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260818-001",
+  "source": "rss",
+  "source_url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+  "title": "Exercise intensity modulates interorgan communication and is associated with",
+  "summary": "This research paper from Cell Reports Medicine investigates how different exercise intensities affect communication between organs in the body. The study examines the biological mechanisms through which exercise intensity influences interorgan signaling and its health implications, likely involving metabolites, hormones, or signaling molecules that facilitate crosstalk between tissues.",
+  "tech_stack": [
+    "Metabolomics",
+    "Proteomics",
+    "Bioinformatics Analysis",
+    "Clinical Biomarker Analysis"
+  ],
+  "problem_solved": "Understanding how varying exercise intensities influence biological communication pathways between different organs and tissues in the body.",
+  "why_valuable": "Provides scientific evidence for optimal exercise prescriptions by revealing the mechanistic link between exercise intensity and systemic interorgan communication, which could inform personalized fitness and therapeutic interventions.",
+  "tags": [
+    "Exercise Science",
+    "Metabolism",
+    "Interorgan Communication",
+    "Biomedical Research",
+    "Cell Biology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-18T08:46:04.570996+00:00",
+  "updated_at": "2026-08-18T08:53:40.698178+00:00",
+  "published_to": []
+}
