@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260819-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+  "title": "OpenAI president urges enterprises to hasten AI security defences",
+  "summary": "OpenAI总裁Greg Brockman警告企业安全团队需要加快采用AI防御措施，基于OpenAI-Hugging Face安全事件的分析，呼吁组织以前所未有的速度提升安全实践。",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "OpenAI",
+    "Hugging Face"
+  ],
+  "problem_solved": "解决企业在AI技术快速部署中面临的安全防御滞后问题。",
+  "why_valuable": "通过真实安全事件案例提醒企业重视AI安全，为行业提供安全实践指导。",
+  "tags": [
+    "AI Security",
+    "Enterprise",
+    "LLM",
+    "OpenAI",
+    "Defensive AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:51:21.682330+00:00",
+  "updated_at": "2026-08-19T08:54:06.460671+00:00",
+  "published_to": []
+}

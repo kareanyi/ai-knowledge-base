@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-007",
+  "source": "rss",
+  "source_url": "https://github.com/katiahayati/lucasartsifier/",
+  "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+  "summary": "The Lucasartsifier is a static analysis tool that decompiles Sierra game resource files to automatically detect unwinnable 'walking-dead' states where players get stuck without required items, then generates patch files to prevent these situations.",
+  "tech_stack": [
+    "Static Analysis",
+    "Decompilation",
+    "Game Reverse Engineering",
+    "Patch Generation",
+    "Resource File Parsing"
+  ],
+  "problem_solved": "Prevents classic Sierra adventure game players from getting permanently stuck in unwinnable states due to missing required items from earlier game sections.",
+  "why_valuable": "Preserves the playability of beloved 80s/90s Sierra games by automatically detecting and fixing game-breaking design flaws, making classic gaming more accessible.",
+  "tags": [
+    "Retro Gaming",
+    "Game Preservation",
+    "Decompilation",
+    "Static Analysis",
+    "Adventure Games"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:47:57.834531+00:00",
+  "updated_at": "2026-08-19T08:54:06.451628+00:00",
+  "published_to": []
+}

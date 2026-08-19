@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-004",
+  "source": "rss",
+  "source_url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+  "title": "λλ: A Programming Language for Silicon Photonics",
+  "summary": "A research paper presenting λλ, a domain-specific programming language specifically designed for silicon photonics circuit design and programming. The language aims to provide abstractions for specifying optical components, light propagation, and photonic circuit behavior in a type-safe and verifiable manner.",
+  "tech_stack": [
+    "Functional Programming",
+    "Type Theory",
+    "Compiler Design",
+    "Silicon Photonics",
+    "DSL Design"
+  ],
+  "problem_solved": "Addresses the lack of proper programming abstractions for designing and verifying complex silicon photonic integrated circuits, which currently rely on manual layout and simulation tools.",
+  "why_valuable": "Enables photonic hardware designers to program optical circuits at a higher abstraction level while ensuring correctness through formal type checking, potentially accelerating photonic chip development.",
+  "tags": [
+    "Programming Languages",
+    "Silicon Photonics",
+    "Domain-Specific Language",
+    "Type Systems",
+    "Hardware Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:47:03.778867+00:00",
+  "updated_at": "2026-08-19T08:54:06.451206+00:00",
+  "published_to": []
+}

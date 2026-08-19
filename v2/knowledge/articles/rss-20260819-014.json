@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-014",
+  "source": "rss",
+  "source_url": "https://modelmap.cc",
+  "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+  "summary": "Modelmap.cc is an interactive web tool that visualizes the architecture of any HuggingFace model with animations, allowing users to explore and understand the internal structure of neural networks without reading complex code or documentation.",
+  "tech_stack": [
+    "React",
+    "SVG Animation",
+    "HuggingFace API",
+    "JavaScript",
+    "Web Technologies"
+  ],
+  "problem_solved": "Makes complex neural network architectures accessible and understandable through visual exploration instead of parsing dense code.",
+  "why_valuable": "Reduces the learning curve for understanding transformer architectures by providing intuitive, interactive visual representations that work with any HuggingFace model.",
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Visualization",
+    "HuggingFace",
+    "Educational Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-19T08:50:01.646848+00:00",
+  "updated_at": "2026-08-19T08:54:06.459451+00:00",
+  "published_to": []
+}

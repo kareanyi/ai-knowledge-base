@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-012",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+  "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+  "summary": "A scientific study revealed that children's lung function significantly improved in London's ultra low emission zone, with researchers documenting measurable health benefits within just two years of implementation, demonstrating the direct positive impact of air quality policies on respiratory health.",
+  "tech_stack": [
+    "Epidemiology",
+    "Medical Research",
+    "Air Quality Monitoring",
+    "Public Health Policy",
+    "Longitudinal Study"
+  ],
+  "problem_solved": "Children's respiratory health damage caused by urban air pollution",
+  "why_valuable": "Provides concrete scientific evidence that environmental policies can rapidly improve children's health outcomes, offering hope and actionable data for public health planning worldwide",
+  "tags": [
+    "Public Health",
+    "Air Pollution",
+    "Children's Health",
+    "Environmental Policy",
+    "Urban Planning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-19T08:49:35.210511+00:00",
+  "updated_at": "2026-08-19T08:54:06.459031+00:00",
+  "published_to": []
+}

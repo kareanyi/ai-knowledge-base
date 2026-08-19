@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260819-003",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+  "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+  "summary": "This Ars Technica article reports on fierce criticism from health experts and lawmakers against Robert F. Kennedy Jr., who allegedly destroyed valuable healthcare research during his tenure. The article documents the political fallout and scientific community's backlash against what critics call deliberate sabotage of public health infrastructure.",
+  "tech_stack": [],
+  "problem_solved": "This is a news/policy article rather than a technical solution; it documents a problem (research destruction) rather than solving one.",
+  "why_valuable": "The article serves as investigative journalism documenting potential damage to public health research and the political consequences for policymakers.",
+  "tags": [
+    "Healthcare",
+    "Politics",
+    "Policy",
+    "Public Health",
+    "News"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:46:32.655038+00:00",
+  "updated_at": "2026-08-19T08:54:06.451059+00:00",
+  "published_to": []
+}

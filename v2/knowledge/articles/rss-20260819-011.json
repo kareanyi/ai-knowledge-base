@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260819-011",
+  "source": "rss",
+  "source_url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+  "title": "Sticky wage norms and the real wage cost of unexpected inflation",
+  "summary": "This is an academic economics paper from the University of Chicago's Becker Friedman Institute examining how sticky wage norms—where workers resist nominal wage cuts—affect the real wage cost of unexpected inflation. The paper quantifies how workers bear economic costs when inflation erodes real wages faster than nominal wages can adjust downward.",
+  "tech_stack": [
+    "Academic Research",
+    "Economic Modeling",
+    "Statistical Analysis"
+  ],
+  "problem_solved": "Quantifies the hidden cost workers pay during unexpected inflation due to wage rigidity and social norms against wage cuts.",
+  "why_valuable": "Provides empirical evidence for monetary policymakers on how nominal rigidities create unequal distribution of inflation costs between workers and employers.",
+  "tags": [
+    "Economics",
+    "Labor Economics",
+    "Monetary Policy",
+    "Inflation",
+    "Wage Stickiness"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:49:20.608459+00:00",
+  "updated_at": "2026-08-19T08:54:06.458800+00:00",
+  "published_to": []
+}

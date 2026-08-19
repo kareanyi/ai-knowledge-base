@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-013",
+  "source": "rss",
+  "source_url": "https://www.cerebras.ai/cs4",
+  "title": "Cerebras CS-4",
+  "summary": "Cerebras CS-4是其第四代晶圆级AI超级计算机，专为大规模生成式AI和大型语言模型训练设计，提供近乎无限的内存和带宽，相比传统GPU集群可显著提升训练效率。",
+  "tech_stack": [
+    "Wafer Scale Engine",
+    "Sparks Software",
+    "AI Training Infrastructure",
+    "High Bandwidth Memory",
+    "Custom ASIC"
+  ],
+  "problem_solved": "解决大规模AI模型训练中遇到的内存带宽瓶颈和计算效率低下问题。",
+  "why_valuable": "其晶圆级集成技术将85万个AI优化核心集成在单个晶圆上，为下一代AI模型提供前所未有的计算规模和效率。",
+  "tags": [
+    "AI Hardware",
+    "Semiconductor",
+    "Supercomputing",
+    "Machine Learning",
+    "Enterprise AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-19T08:49:48.636568+00:00",
+  "updated_at": "2026-08-19T08:54:06.459263+00:00",
+  "published_to": []
+}

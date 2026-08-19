@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-017",
+  "source": "rss",
+  "source_url": "https://github.com/DenisSergeevitch/desktop-fly",
+  "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+  "summary": "A macOS desktop application that renders an interactive 3D visualization of a fruit fly using real neural connectivity data from the FlyWire connectome project, allowing users to explore the Drosophila brain's neural network in real-time on their desktop.",
+  "tech_stack": [
+    "Swift",
+    "Metal",
+    "Python",
+    "C++",
+    "CUDA"
+  ],
+  "problem_solved": "Makes complex neural connectome data accessible and visually engaging by rendering the entire fruit fly brain connectivity in 3D on a desktop environment.",
+  "why_valuable": "Bridges the gap between neuroscience research data and public accessibility by presenting FlyWire's groundbreaking fruit fly brain connectome as an interactive 3D desktop experience.",
+  "tags": [
+    "neuroscience",
+    "3D-visualization",
+    "connectome",
+    "fruit-fly",
+    "macOS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-19T08:50:42.677848+00:00",
+  "updated_at": "2026-08-19T08:54:06.460066+00:00",
+  "published_to": []
+}

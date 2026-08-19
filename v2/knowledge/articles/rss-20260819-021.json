@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+  "title": "Alvys launches AI agents for freight TMS workflows",
+  "summary": "Alvys, a freight software provider, has launched an agentic AI platform called Alvys Foundry that enables carriers and brokers to automate operational tasks directly within their transportation management system (TMS). The platform offers more than 20 pre-built AI agents alongside custom agent capabilities, working with existing freight data and workflows.",
+  "tech_stack": [
+    "AI Agents",
+    "Transportation Management System (TMS)",
+    "Agentic AI",
+    "Workflow Automation",
+    "Freight Software"
+  ],
+  "problem_solved": "Automates repetitive operational tasks for freight carriers and brokers, reducing manual work within TMS workflows.",
+  "why_valuable": "Enables freight industry to leverage AI automation without replacing existing systems, improving operational efficiency and reducing manual processing time.",
+  "tags": [
+    "AI Agents",
+    "TMS",
+    "Freight Logistics",
+    "Automation",
+    "Logistics Tech"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-19T08:51:44.498926+00:00",
+  "updated_at": "2026-08-19T08:54:06.460857+00:00",
+  "published_to": []
+}

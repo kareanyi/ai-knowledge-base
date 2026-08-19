@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260819-008",
+  "source": "rss",
+  "source_url": "https://openlogi.org/en",
+  "title": "OpenLogi",
+  "summary": "OpenLogi is an open-source logistics and shipping management platform designed to help businesses and individuals track, manage, and optimize their supply chain and delivery operations. The platform appears to offer tools for shipment tracking, inventory management, and fleet coordination with a focus on transparency and accessibility.",
+  "tech_stack": [
+    "Web Platform",
+    "Open Source",
+    "Cloud Infrastructure",
+    "API Integration"
+  ],
+  "problem_solved": "Provides an accessible, free alternative to expensive proprietary logistics software for managing shipping and supply chain operations.",
+  "why_valuable": " democratizes logistics management by making sophisticated tracking and coordination tools available to small businesses and individuals who cannot afford enterprise-level solutions.",
+  "tags": [
+    "logistics",
+    "open-source",
+    "shipping",
+    "supply-chain",
+    "delivery"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:48:26.581314+00:00",
+  "updated_at": "2026-08-19T08:54:06.451844+00:00",
+  "published_to": []
+}

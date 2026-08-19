@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260819-019",
+  "source": "rss",
+  "source_url": "https://github.com/RyanCodrai/turbovec",
+  "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+  "summary": "Turbovec 是一个用 Rust 语言实现的向量搜索库，灵感来自 Google 的 TurboQuant 项目，专注于高维向量的快速相似度搜索。该项目在 Hacker News 上获得了 245 个点赞和 31 条评论，表明社区对 Rust 在 AI/向量搜索领域的应用有较高兴趣。",
+  "tech_stack": [
+    "Rust",
+    "Vector Search",
+    "ANN Algorithm"
+  ],
+  "problem_solved": "解决大规模高维向量数据的快速相似度搜索问题，提供高性能内存安全的实现方案",
+  "why_valuable": "Rust 语言特性保证了内存安全和高性能，适合在生产环境中部署需要低延迟的向量搜索服务",
+  "tags": [
+    "Vector Search",
+    "Rust",
+    "ANN",
+    "Machine Learning",
+    "High Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:51:14.017459+00:00",
+  "updated_at": "2026-08-19T08:54:06.460465+00:00",
+  "published_to": []
+}

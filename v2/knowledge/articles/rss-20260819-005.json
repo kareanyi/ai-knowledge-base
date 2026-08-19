@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-005",
+  "source": "rss",
+  "source_url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+  "title": "Palomar: A registry of Lean verified mathematics",
+  "summary": "Palomar is a registry system for cataloging and tracking Lean-verified mathematics, created to organize the growing body of formally proven theorems in the Mathlib library. It provides a centralized database for mathematicians and researchers to discover, reference, and navigate verified mathematical results.",
+  "tech_stack": [
+    "Lean",
+    "Mathlib",
+    "Formal Verification",
+    "Theorem Proving",
+    "Web Registry"
+  ],
+  "problem_solved": "Addresses the challenge of managing and discovering the rapidly expanding collection of formally verified mathematical theorems in the Lean ecosystem.",
+  "why_valuable": "Provides crucial infrastructure for the formal mathematics community, enabling easier access to verified proofs and promoting reproducibility and trust in mathematical knowledge.",
+  "tags": [
+    "formal-verification",
+    "theorem-proving",
+    "lean",
+    "mathematics",
+    "mathlib"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:47:24.777877+00:00",
+  "updated_at": "2026-08-19T08:54:06.451355+00:00",
+  "published_to": []
+}

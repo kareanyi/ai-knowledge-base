@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-016",
+  "source": "rss",
+  "source_url": "https://linear.app/data",
+  "title": "AI usage patterns in software teams",
+  "summary": "This is a Hacker News discussion about AI usage patterns in software teams, likely analyzing data from Linear (a project management platform) on how development teams are adopting and using AI tools in their workflows.",
+  "tech_stack": [
+    "AI",
+    "Software Development",
+    "Project Management",
+    "Data Analytics",
+    "Productivity Tools"
+  ],
+  "problem_solved": "Understanding how software teams are integrating AI tools into their development processes and what patterns emerge from real-world usage.",
+  "why_valuable": "Provides data-driven insights into AI adoption trends in engineering organizations, helping teams benchmark their own AI usage against industry norms.",
+  "tags": [
+    "AI Adoption",
+    "Software Teams",
+    "Productivity",
+    "Engineering",
+    "Data Insights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:50:27.641931+00:00",
+  "updated_at": "2026-08-19T08:54:06.459870+00:00",
+  "published_to": []
+}

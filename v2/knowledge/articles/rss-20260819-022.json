@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260819-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+  "title": "Reading Zhipu&#8217;s GLM-5.3 results past the headline number",
+  "summary": "这是一篇关于Zhipu AI公司GLM-5.3模型评测的深度分析文章，揭示了该公司自身承认在网络安全领域仍存在差距，但正在快速追赶。文章强调了不应只看表面数字，而要理解评测数据背后的真实含义。",
+  "tech_stack": [
+    "Large Language Model",
+    "AI Benchmarking",
+    "Cybersecurity AI",
+    "LLM Evaluation"
+  ],
+  "problem_solved": "帮助读者理解AI模型评测数据的深层含义，揭示厂商自身对技术差距的坦诚评估",
+  "why_valuable": "提供了AI评测数据解读的新视角，强调厂商自我评估与公开宣传之间的差异，有助于行业和用户更客观地评估AI模型能力",
+  "tags": [
+    "AI",
+    "LLM",
+    "Benchmarking",
+    "Chinese AI",
+    "Model Evaluation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:51:59.702761+00:00",
+  "updated_at": "2026-08-19T08:54:06.461049+00:00",
+  "published_to": []
+}

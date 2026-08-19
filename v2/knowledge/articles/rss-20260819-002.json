@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260819-002",
+  "source": "rss",
+  "source_url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+  "title": "Where Human Sleep Went Wrong",
+  "summary": "A scientific article exploring the evolutionary history of human sleep patterns and examining how modern human sleep differs from other primates and ancestral human sleep behaviors.",
+  "tech_stack": [
+    "N/A - Science Article"
+  ],
+  "problem_solved": "Understanding why modern humans experience sleep differently compared to their evolutionary ancestors and other primates.",
+  "why_valuable": "Provides scientific insight into the evolutionary mismatch between our ancestral sleep biology and modern lifestyle demands.",
+  "tags": [
+    "sleep science",
+    "human evolution",
+    "biology",
+    "anthropology",
+    "health"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-19T08:46:16.246598+00:00",
+  "updated_at": "2026-08-19T08:54:06.450903+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-001",
+  "source": "rss",
+  "source_url": "https://www.modular.com/blog/modcon-announcements",
+  "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+  "summary": "Modular (now owned by Qualcomm) has open-sourced the Mojo programming language, which was designed to combine Python's accessibility with systems-level performance for AI and machine learning workloads.",
+  "tech_stack": [
+    "Mojo",
+    "Python",
+    "MLIR",
+    "Systems Programming",
+    "AI/ML"
+  ],
+  "problem_solved": "Bridges the gap between Python's developer productivity and the performance demands of AI/ML workloads by providing a Python-compatible language with C-like speed.",
+  "why_valuable": "Opens up a promising new language that could democratize high-performance AI programming while maintaining Python ecosystem compatibility.",
+  "tags": [
+    "Programming Languages",
+    "Open Source",
+    "AI/ML",
+    "Systems Programming",
+    "Python"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-19T08:46:03.116103+00:00",
+  "updated_at": "2026-08-19T08:54:06.450623+00:00",
+  "published_to": []
+}
