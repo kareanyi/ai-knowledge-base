@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-015",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2608.16753",
+  "title": "Mathematics in the age of AI",
+  "summary": "This academic paper explores how artificial intelligence is transforming mathematical research, including AI-assisted theorem proving, mathematical discovery, and the future relationship between computational methods and pure mathematics.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Formal Mathematics",
+    "Theorem Provers",
+    "Computational Mathematics"
+  ],
+  "problem_solved": "Explores how AI can assist, accelerate, and potentially transform mathematical research and proof discovery.",
+  "why_valuable": "Provides insights into the evolving symbiosis between AI and mathematics, offering perspectives on how computational tools are reshaping one of humanity's oldest intellectual pursuits.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Research",
+    "Theorem-Proving",
+    "Academic"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-20T08:52:08.617761+00:00",
+  "updated_at": "2026-08-20T08:56:24.273781+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-002",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+  "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+  "summary": "This blog post from Microsoft's 'The Old New Thing' explores the historical reason why the Microsoft Entertainment Pack required a physical sticker on its packaging explicitly stating it contained Tetris. The article delves into the complex licensing history of Tetris during the early 1990s, where multiple parties claimed rights to distribute the game, creating confusion in the market.",
+  "tech_stack": [
+    "Windows 3.x",
+    "DOS",
+    "Retro Gaming",
+    "Game Packaging",
+    "Historical Documentation"
+  ],
+  "problem_solved": "Explains the licensing confusion around Tetris distribution rights that forced Microsoft to add verification stickers to differentiate their legitimate product from competitors.",
+  "why_valuable": "Provides fascinating insight into early PC gaming industry licensing practices and the legal complexities of software distribution in the pre-internet era.",
+  "tags": [
+    "Retro Gaming",
+    "Tetris",
+    "Software Licensing",
+    "Windows 3.x",
+    "Gaming History"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-20T08:48:02.153223+00:00",
+  "updated_at": "2026-08-20T08:56:24.265672+00:00",
+  "published_to": []
+}

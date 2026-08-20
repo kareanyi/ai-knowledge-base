@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260820-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+  "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+  "summary": "HoneyBook has launched HoneyBook MCP, a connector that integrates its small business management platform with Anthropic's Claude AI assistant, enabling independent businesses to leverage autonomous AI agents for streamlined operations. This move aims to democratize enterprise-grade AI capabilities for small businesses and freelancers who previously lacked access to such technology.",
+  "tech_stack": [
+    "Claude",
+    "MCP (Model Context Protocol)",
+    "AI Agents",
+    "HoneyBook Platform"
+  ],
+  "problem_solved": "Brings autonomous AI agent capabilities to small businesses and independent professionals who lack the resources of large enterprises.",
+  "why_valuable": "Levels the playing field by giving small businesses access to the same AI-powered automation tools that large corporations use, improving operational efficiency.",
+  "tags": [
+    "Agentic AI",
+    "Small Business",
+    "Claude",
+    "MCP",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-20T08:54:12.926160+00:00",
+  "updated_at": "2026-08-20T08:56:24.275190+00:00",
+  "published_to": []
+}

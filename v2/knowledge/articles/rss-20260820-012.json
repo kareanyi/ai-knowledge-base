@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-012",
+  "source": "rss",
+  "source_url": "https://github.com/onecli/onecli",
+  "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+  "summary": "OneCLI is an open-source agent harness designed for teams that provides sandboxed personal AI agents to employees, with built-in integrations to services like GitHub, Gmail, Notion, and Dropbox, plus deterministic human-in-the-loop approval for sensitive operations and centralized team policy management.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "Cloud Sandbox",
+    "API Integrations",
+    "YC"
+  ],
+  "problem_solved": "Enables enterprises to safely deploy AI agents to employees without security risks, while maintaining control over sensitive actions.",
+  "why_valuable": "It bridges the gap between AI agent capabilities and enterprise security requirements by providing sandboxed execution environments with mandatory human approval workflows for critical operations.",
+  "tags": [
+    "AI Agents",
+    "Enterprise",
+    "Open Source",
+    "Security",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-20T08:51:14.600512+00:00",
+  "updated_at": "2026-08-20T08:56:24.273258+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260820-010",
+  "source": "rss",
+  "source_url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+  "title": "Google has stopped pushing Git tags for some Android source code",
+  "summary": "Google has stopped pushing Git tags for some Android source code repositories, as announced by the GrapheneOS project. This change affects how developers and security researchers track specific Android versions and security patches through the Android Open Source Project (AOSP). The decision impacts the workflow of anyone who relies on Git tags to verify or audit Android source code versions.",
+  "tech_stack": [
+    "Git",
+    "Android AOSP",
+    "Linux Kernel",
+    "Repo Tool"
+  ],
+  "problem_solved": "Addresses the change in Android source code distribution method that affects version tracking and verification workflows.",
+  "why_valuable": "Important for Android developers, security researchers, and custom ROM projects who need to verify exact source code versions for security audits and compatibility checks.",
+  "tags": [
+    "Android",
+    "Open Source",
+    "Git",
+    "Security",
+    "Google"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-20T08:50:38.242032+00:00",
+  "updated_at": "2026-08-20T08:56:24.267077+00:00",
+  "published_to": []
+}

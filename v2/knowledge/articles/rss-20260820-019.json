@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-019",
+  "source": "rss",
+  "source_url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+  "title": "A joke domain purchase turned in geopolitical warfare",
+  "summary": "This article describes how a casual domain purchase for SondeHub, a radiosonde weather balloon tracking project, unexpectedly escalated into a geopolitical incident when Russian hackers or state actors targeted the infrastructure, turning a hobbyist technical project into a cyberwarfare battleground.",
+  "tech_stack": [
+    "Python",
+    "Software Defined Radio (SDR)",
+    "Web Hosting",
+    "APRS",
+    "Tracking Systems"
+  ],
+  "problem_solved": "Tracks and maps weather balloons (radiosondes) globally through community-driven receivers",
+  "why_valuable": "Demonstrates how open-source hobbyist projects can inadvertently become targets in geopolitical conflicts, highlighting the expanding attack surface of civilian technical infrastructure",
+  "tags": [
+    "Geopolitics",
+    "Cybersecurity",
+    "Open Source",
+    "Radio Tracking",
+    "War"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-20T08:53:15.272916+00:00",
+  "updated_at": "2026-08-20T08:56:24.274471+00:00",
+  "published_to": []
+}

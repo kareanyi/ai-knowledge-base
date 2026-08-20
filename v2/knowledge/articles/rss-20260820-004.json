@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-004",
+  "source": "rss",
+  "source_url": "https://github.com/anthropics/claude-code/issues/6235",
+  "title": "Feature Request: Support AGENTS.md",
+  "summary": "This is a feature request for Anthropic's Claude Code CLI to support an AGENTS.md file, which would provide instructions specifically for AI agents and automated use cases, separate from the existing CLAUDE.md that serves human users. The proposal suggests the agent-focused file would have different default behaviors than the user-focused one.",
+  "tech_stack": [
+    "Claude Code",
+    "GitHub Issues",
+    "CLI",
+    "Anthropic API",
+    "Markdown"
+  ],
+  "problem_solved": "Provides a way to define separate instructions for AI agent/automated workflows versus human-interactive sessions in Claude Code.",
+  "why_valuable": "Enables developers to optimize Claude Code behavior for both human collaboration and autonomous agent execution with context-appropriate instructions, improving automation capabilities.",
+  "tags": [
+    "AI",
+    "Claude",
+    "Feature Request",
+    "CLI",
+    "Agents"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-20T08:48:55.588687+00:00",
+  "updated_at": "2026-08-20T08:56:24.266126+00:00",
+  "published_to": []
+}

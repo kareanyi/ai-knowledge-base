@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260820-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+  "title": "A third of ChatGPT ads appear in irrelevant conversations",
+  "summary": "A study by Searchable analyzed over 11,000 ads served within ChatGPT conversations between July 4 and August 4, 2026, finding that approximately one-third of advertisements appeared in irrelevant contexts. This challenges OpenAI's promise that ChatGPT's contextual understanding would enable highly targeted advertising. The findings suggest that despite AI's advanced language capabilities, ad targeting within conversational interfaces remains imperfect.",
+  "tech_stack": [
+    "ChatGPT",
+    "Searchable",
+    "AI advertising platforms"
+  ],
+  "problem_solved": "Reveals the gap between AI-powered advertising promises and actual targeting effectiveness in conversational AI interfaces.",
+  "why_valuable": "Provides empirical evidence of limitations in AI-driven contextual advertising, offering valuable insights for marketers and AI companies seeking to improve ad relevance in emerging AI platforms.",
+  "tags": [
+    "AI Advertising",
+    "ChatGPT",
+    "Targeting",
+    "Digital Marketing",
+    "LLM Applications"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-20T08:53:49.109816+00:00",
+  "updated_at": "2026-08-20T08:56:24.274813+00:00",
+  "published_to": []
+}

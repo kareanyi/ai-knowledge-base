@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-011",
+  "source": "rss",
+  "source_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+  "title": "OpenRouter is joining Stripe",
+  "summary": "Stripe is acquiring OpenRouter, an AI model aggregation platform that provides unified API access to multiple AI providers, in a deal reportedly worth over $7 billion. This acquisition represents Stripe's strategic expansion into AI infrastructure services and highlights the growing consolidation in the AI developer tools space.",
+  "tech_stack": [
+    "API Integration",
+    "Cloud Infrastructure",
+    "Python",
+    "Go",
+    "Multi-model AI Gateway"
+  ],
+  "problem_solved": "Solves the problem of fragmented AI APIs by providing developers with a single unified interface to access and route requests across multiple AI model providers.",
+  "why_valuable": "The acquisition validates OpenRouter's business model of simplifying AI model access and positions Stripe to integrate AI capabilities into its payment and developer infrastructure ecosystem.",
+  "tags": [
+    "AI",
+    "M&A",
+    "API Services",
+    "Developer Tools",
+    "Fintech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-20T08:51:00.775812+00:00",
+  "updated_at": "2026-08-20T08:56:24.273041+00:00",
+  "published_to": []
+}

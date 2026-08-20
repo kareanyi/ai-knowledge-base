@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260820-001",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+  "title": "Windows brings out the Rorschach test in everyone",
+  "summary": "Raymond Chen's classic blog post from 2003 exploring how different people interpret Windows behaviors and messages in vastly different ways, much like a Rorschach inkblot test where the same input produces wildly different perceived meanings.",
+  "tech_stack": [
+    "Windows API",
+    "Win32",
+    "COM",
+    "C++"
+  ],
+  "problem_solved": "Explains why users, developers, and testers often have conflicting interpretations of the same Windows system behavior or error message.",
+  "why_valuable": "Provides insight into the human and psychological factors behind software design challenges, helping developers understand why consistent UI/UX communication matters.",
+  "tags": [
+    "Windows",
+    "Raymond Chen",
+    "Software Design",
+    "User Experience",
+    "Programming History"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-20T08:47:45.338783+00:00",
+  "updated_at": "2026-08-20T08:56:24.265351+00:00",
+  "published_to": []
+}

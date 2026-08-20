@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260820-003",
+  "source": "rss",
+  "source_url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+  "title": "Turns are Better than Radians (2022)",
+  "summary": "The article argues that 'turns' (where 1 complete rotation = 1.0) are mathematically and computationally superior to radians for angle representation, citing benefits like cleaner mental math, better precision near common fractions like 1/3 and 1/6, and simpler trigonometric function implementations.",
+  "tech_stack": [
+    "Mathematics",
+    "Programming",
+    "Numerical Computing",
+    "Trigonometry"
+  ],
+  "problem_solved": "Challenges the long-standing convention of using radians as the standard angle unit by demonstrating that turns offer better numerical precision and simpler mental arithmetic.",
+  "why_valuable": "Provides a counterintuitive but well-reasoned argument that could lead to cleaner code, fewer precision errors, and more intuitive angle manipulation in software development.",
+  "tags": [
+    "Mathematics",
+    "Programming",
+    "Optimization",
+    "Trigonometry",
+    "Computer Science"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-20T08:48:39.154326+00:00",
+  "updated_at": "2026-08-20T08:56:24.265895+00:00",
+  "published_to": []
+}

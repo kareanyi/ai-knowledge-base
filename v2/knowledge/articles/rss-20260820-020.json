@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-020",
+  "source": "rss",
+  "source_url": "https://theremin.bizibah.com/",
+  "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+  "summary": "A browser-based theremin instrument that uses webcam and computer vision to detect hand movements, allowing users to play musical sounds by waving their hands in the air without touching any physical device.",
+  "tech_stack": [
+    "JavaScript",
+    "Web Audio API",
+    "MediaPipe",
+    "getUserMedia API",
+    "HTML5 Canvas"
+  ],
+  "problem_solved": "Makes musical creation accessible and fun without requiring physical instruments or musical training, using gesture control.",
+  "why_valuable": "Combines accessibility, creativity, and cutting-edge browser technology in an engaging, interactive way that encourages musical experimentation.",
+  "tags": [
+    "music",
+    "web-audio",
+    "computer-vision",
+    "gesture-control",
+    "creative-coding"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-20T08:53:34.389268+00:00",
+  "updated_at": "2026-08-20T08:56:24.274646+00:00",
+  "published_to": []
+}

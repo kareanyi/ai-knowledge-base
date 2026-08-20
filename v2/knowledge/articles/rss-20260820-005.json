@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-005",
+  "source": "rss",
+  "source_url": "https://os8088.com/spotlight/",
+  "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+  "summary": "A browser-based emulator project that recreates the IBM XT computing environment, supporting not only the original 8088-based DOS system but also CP/M 2.2 with Z80 emulation and legacy MS Word 1.1a, allowing users to experience vintage computing directly in modern browsers.",
+  "tech_stack": [
+    "8088/x86 Assembly",
+    "Z80 Emulation",
+    "WebAssembly",
+    "JavaScript",
+    "CP/M 2.2"
+  ],
+  "problem_solved": "Enables preservation and accessibility of historical computing systems by running 40-year-old software like IBM XT OS, CP/M, and MS Word in modern browsers without native hardware.",
+  "why_valuable": "It serves as both a digital museum for computing history and a technical demonstration of browser-based hardware emulation, making retro computing accessible to enthusiasts and educators.",
+  "tags": [
+    "RetroComputing",
+    "Emulation",
+    "BrowserBased",
+    "VintageSoftware",
+    "IBMXT"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-20T08:49:12.110234+00:00",
+  "updated_at": "2026-08-20T08:56:24.266327+00:00",
+  "published_to": []
+}

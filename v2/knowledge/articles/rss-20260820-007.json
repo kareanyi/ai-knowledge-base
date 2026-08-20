@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-007",
+  "source": "rss",
+  "source_url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+  "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+  "summary": "A technical walkthrough on reverse-engineering and unlocking a Cricut Maker cutting machine that has been locked or deactivated by the manufacturer, likely involving firmware extraction and modification to bypass DRM restrictions.",
+  "tech_stack": [
+    "ARM",
+    "Firmware Analysis",
+    "SPI Flash",
+    "Hardware Reverse Engineering",
+    "Custom Scripts"
+  ],
+  "problem_solved": "Enables users to repurpose locked/deactivated Cricut machines that would otherwise become e-waste due to subscription-based DRM locks.",
+  "why_valuable": "Demonstrates practical right-to-repair techniques and helps reduce electronic waste by extending device lifespan through DRM circumvention.",
+  "tags": [
+    "Hardware Hacking",
+    "DRM Bypass",
+    "Reverse Engineering",
+    "IoT Security",
+    "Right to Repair"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-20T08:49:49.052405+00:00",
+  "updated_at": "2026-08-20T08:56:24.266630+00:00",
+  "published_to": []
+}
