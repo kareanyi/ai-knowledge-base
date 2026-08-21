@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-003",
+  "source": "rss",
+  "source_url": "https://Argentic.network",
+  "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+  "summary": "Argentic is a payment infrastructure project that implements L402 (Lightning Network HTTP authentication) to create a micro-payment toll booth system for AI scraping agents accessing web content or APIs. It enables content providers to charge AI companies small fees for accessing their data using Bitcoin's Lightning Network.",
+  "tech_stack": [
+    "Lightning Network",
+    "L402 Protocol",
+    "Bitcoin",
+    "Web3",
+    "Node.js"
+  ],
+  "problem_solved": "Solves the problem of monetizing web content and APIs against AI scraping bots without complex billing infrastructure.",
+  "why_valuable": "Provides a frictionless micro-payment solution for the emerging conflict between content creators and AI companies scraping their data.",
+  "tags": [
+    "Lightning Network",
+    "L402",
+    "Bitcoin",
+    "AI Agents",
+    "Micropayments"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:50:50.730032+00:00",
+  "updated_at": "2026-08-21T08:57:54.392738+00:00",
+  "published_to": []
+}

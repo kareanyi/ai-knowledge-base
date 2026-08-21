@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260821-020",
+  "source": "rss",
+  "source_url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+  "title": "Anti-AI fonts are useless and harmful",
+  "summary": "This article argues that fonts specifically designed to prevent AI systems from reading text (anti-AI fonts) are both ineffective at blocking AI and potentially harmful to accessibility. The author explains why such fonts fail technically and raise ethical concerns about their impact on screen readers and assistive technologies.",
+  "tech_stack": [
+    "AI/ML",
+    "OCR",
+    "Typography",
+    "Web Technologies"
+  ],
+  "problem_solved": "Critiques the flawed concept of anti-AI fonts that aim to prevent AI text recognition but ultimately fail and harm accessibility.",
+  "why_valuable": "Highlights an important tension between AI protection measures and digital accessibility, helping readers understand the unintended consequences of anti-AI design approaches.",
+  "tags": [
+    "AI Ethics",
+    "Typography",
+    "Accessibility",
+    "Digital Rights",
+    "Font Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:55:16.731727+00:00",
+  "updated_at": "2026-08-21T08:57:54.401582+00:00",
+  "published_to": []
+}

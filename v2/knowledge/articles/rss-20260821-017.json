@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-017",
+  "source": "rss",
+  "source_url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+  "title": "Linux 7.2",
+  "summary": "Igalia announces the release of Linux kernel version 7.2, a point release that includes upstream kernel improvements, bug fixes, and hardware support updates. As a company known for contributions to browser engines and graphics stack, Igalia likely highlights kernel changes relevant to their focus areas like graphics drivers and Vulkan/OpenGL support.",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "Mesa",
+    "Vulkan",
+    "OpenGL"
+  ],
+  "problem_solved": "Delivers the latest kernel improvements, security patches, and hardware enablement for Linux-based systems.",
+  "why_valuable": "Point releases of the Linux kernel provide critical stability fixes and new hardware support that benefit millions of servers, desktops, and embedded devices running Linux worldwide.",
+  "tags": [
+    "Linux",
+    "Open Source",
+    "Kernel",
+    "Systems Programming",
+    "Open Source Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:54:33.429929+00:00",
+  "updated_at": "2026-08-21T08:57:54.401012+00:00",
+  "published_to": []
+}

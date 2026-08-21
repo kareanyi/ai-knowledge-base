@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-006",
+  "source": "rss",
+  "source_url": "https://github.com/vivekhaldar/seed",
+  "title": "Seed: Minimal, self-modifying agent harness",
+  "summary": "Seed is a lightweight, minimal framework for building AI agents with self-modifying capabilities, allowing agents to update their own behavior or code during execution. It provides a stripped-down harness compared to larger agent frameworks like LangChain or AutoGPT, focusing on core functionality for experimentation with autonomous agent behaviors.",
+  "tech_stack": [
+    "Python",
+    "LLMs",
+    "OpenAI API",
+    "Anthropic API",
+    "CLI"
+  ],
+  "problem_solved": "Provides a minimal, experimental framework for building self-modifying AI agents without the complexity and overhead of larger agent frameworks.",
+  "why_valuable": "Enables rapid prototyping and experimentation with self-modifying agent concepts in a lightweight, understandable codebase for researchers and developers exploring autonomous AI behaviors.",
+  "tags": [
+    "AI Agents",
+    "Self-Modifying",
+    "LLM",
+    "Autonomous Systems",
+    "Minimal Framework"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:51:46.111640+00:00",
+  "updated_at": "2026-08-21T08:57:54.393278+00:00",
+  "published_to": []
+}

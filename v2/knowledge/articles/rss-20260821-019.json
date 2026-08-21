@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260821-019",
+  "source": "rss",
+  "source_url": "https://github.com/zachahn/vomit",
+  "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "summary": "Vomit is a developer tool that uses a separate LLM to clean up and repair the raw streaming output from Claude 5, handling issues like incomplete tokens, truncation, and formatting artifacts that commonly occur during LLM response streaming.",
+  "tech_stack": [
+    "Ruby",
+    "Claude API",
+    "LLM"
+  ],
+  "problem_solved": "Solves the problem of messy, incomplete, or corrupted streaming output from Claude 5 by using a secondary LLM to intelligently clean up and complete the text.",
+  "why_valuable": "It provides a reliable way to handle streaming LLM output edge cases, ensuring developers get clean, usable text even when tokens are cut off mid-stream.",
+  "tags": [
+    "LLM",
+    "Claude",
+    "Streaming",
+    "Developer Tools",
+    "Text Processing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:55:00.989713+00:00",
+  "updated_at": "2026-08-21T08:57:54.401430+00:00",
+  "published_to": []
+}

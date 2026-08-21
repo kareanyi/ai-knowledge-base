@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260821-008",
+  "source": "rss",
+  "source_url": "https://github.com/openai/codex/issues/37674",
+  "title": "Codex on AWS bedrock bug causing 10x charges",
+  "summary": "A GitHub issue reporting that Codex deployed on AWS Bedrock has a bug causing approximately 10x overcharging, leading to unexpectedly high billing costs for users.",
+  "tech_stack": [
+    "AWS Bedrock",
+    "OpenAI Codex",
+    "Cloud Infrastructure",
+    "API Integration"
+  ],
+  "problem_solved": "Exposes a critical billing bug in Codex on AWS Bedrock causing users to be overcharged 10x their expected costs",
+  "why_valuable": "This is a critical financial issue that could result in significant unexpected charges for enterprise users relying on Codex for production workloads",
+  "tags": [
+    "Bug",
+    "AWS",
+    "CloudCost",
+    "Billing",
+    "OpenAI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:52:13.430008+00:00",
+  "updated_at": "2026-08-21T08:57:54.393618+00:00",
+  "published_to": []
+}

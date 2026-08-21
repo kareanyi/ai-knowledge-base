@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-012",
+  "source": "rss",
+  "source_url": "https://strn.cat/posts/spacetime/",
+  "title": "SpacetimeDB: a short technical review",
+  "summary": "A technical review of SpacetimeDB, examining its architecture as a temporal database combined with distributed computing capabilities for building real-time collaborative applications with built-in time-travel query features.",
+  "tech_stack": [
+    "Rust",
+    "SpacetimeDB",
+    "WebAssembly",
+    "Distributed Systems",
+    "Temporal Database"
+  ],
+  "problem_solved": "Simplifies building real-time collaborative applications by providing native time-travel queries and automatic state synchronization across distributed nodes.",
+  "why_valuable": "Reduces application complexity by embedding temporal versioning and distributed consensus directly into the database layer, enabling developers to query historical states effortlessly.",
+  "tags": [
+    "database",
+    "distributed-systems",
+    "temporal-database",
+    "rust",
+    "real-time"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:53:15.421203+00:00",
+  "updated_at": "2026-08-21T08:57:54.400115+00:00",
+  "published_to": []
+}

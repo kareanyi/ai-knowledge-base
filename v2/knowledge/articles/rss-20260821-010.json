@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-010",
+  "source": "rss",
+  "source_url": "https://openrouter.ai/stealth/ox-alpha",
+  "title": "Ox Alpha",
+  "summary": "Ox Alpha is OpenRouter's stealth/undisclosed AI model offering, announced as a mysterious 'stealth' release on their official channels. The model appears to be designed for users seeking specialized AI capabilities through OpenRouter's unified API infrastructure, with the exact capabilities kept intentionally undisclosed at launch.",
+  "tech_stack": [
+    "OpenRouter API",
+    "LLM Infrastructure",
+    "Stealth AI Model",
+    "Unified API Gateway",
+    "Multi-model Routing"
+  ],
+  "problem_solved": "Provides access to undisclosed/specialized AI capabilities through a privacy-focused, unified inference platform",
+  "why_valuable": "Offers an alternative for users requiring specialized or less restricted AI interactions via a trusted third-party inference layer with competitive pricing",
+  "tags": [
+    "AI",
+    "LLM",
+    "Stealth Model",
+    "OpenRouter",
+    "Privacy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-21T08:52:47.246023+00:00",
+  "updated_at": "2026-08-21T08:57:54.393947+00:00",
+  "published_to": []
+}

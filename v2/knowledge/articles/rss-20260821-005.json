@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260821-005",
+  "source": "rss",
+  "source_url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+  "title": "Japan tried to build an operating system for the world, the US intervened",
+  "summary": "A historical account of Japan's attempt in the 1980s-1990s to develop a unified operating system standard called TRON for global adoption, which was thwarted by US government intervention citing trade concerns and intellectual property protections, ultimately preserving American tech dominance in the OS market.",
+  "tech_stack": [
+    "TRON OS",
+    "Operating Systems",
+    "Standard Development"
+  ],
+  "problem_solved": "Addresses the geopolitical challenge of technological sovereignty and how nations compete for control over global technology standards.",
+  "why_valuable": "Provides a crucial historical case study on technology policy, trade wars, and government intervention in tech markets that continues to inform current debates about AI dominance and semiconductor competition.",
+  "tags": [
+    "Technology History",
+    "Geopolitics",
+    "Operating Systems",
+    "Trade Policy",
+    "Standard Wars"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:51:29.850112+00:00",
+  "updated_at": "2026-08-21T08:57:54.393075+00:00",
+  "published_to": []
+}

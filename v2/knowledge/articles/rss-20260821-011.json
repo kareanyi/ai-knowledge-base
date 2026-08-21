@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-011",
+  "source": "rss",
+  "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+  "title": "The August 17 outage",
+  "summary": "GitHub's official post-mortem analysis of the August 17 service outage, detailing the incident timeline, root cause analysis, and comprehensive remediation plan to prevent similar failures in the future.",
+  "tech_stack": [
+    "Git",
+    "Cloud Infrastructure",
+    "Distributed Systems",
+    "CI/CD",
+    "Monitoring"
+  ],
+  "problem_solved": "Major platform outage affecting millions of developers' ability to access and deploy code.",
+  "why_valuable": "Demonstrates GitHub's commitment to transparency and incident accountability, providing valuable lessons for site reliability engineering practices.",
+  "tags": [
+    "SRE",
+    "Incident-Response",
+    "Infrastructure",
+    "Reliability",
+    "DevOps"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-21T08:52:58.141618+00:00",
+  "updated_at": "2026-08-21T08:57:54.399842+00:00",
+  "published_to": []
+}

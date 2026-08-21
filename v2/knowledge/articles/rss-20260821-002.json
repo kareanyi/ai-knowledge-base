@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-002",
+  "source": "rss",
+  "source_url": "https://encore.dev/blog/firecracker-apple-silicon",
+  "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+  "summary": "文章介绍了团队如何在 Apple Silicon (M1/M2) 芯片上移植和重建基于 Firecracker 的 Linux MicroVM 技术栈，解决了在 ARM 架构上运行轻量级虚拟化解决方案的挑战。",
+  "tech_stack": [
+    "Firecracker",
+    "Linux",
+    "Apple Silicon",
+    "Rust",
+    "MicroVM"
+  ],
+  "problem_solved": "在 Apple Silicon Mac 上实现与生产环境一致的轻量级 MicroVM 虚拟化，让开发者本地开发体验贴近生产环境。",
+  "why_valuable": "使开发者能在本地 Apple Silicon Mac 上运行与生产环境一致的微服务开发环境，提升开发效率和环境一致性。",
+  "tags": [
+    "Virtualization",
+    "Firecracker",
+    "Apple Silicon",
+    "MicroVM",
+    "ARM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-21T08:50:36.240089+00:00",
+  "updated_at": "2026-08-21T08:57:54.392565+00:00",
+  "published_to": []
+}

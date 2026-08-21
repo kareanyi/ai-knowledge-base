@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-018",
+  "source": "rss",
+  "source_url": "https://github.com/runvendo/vendo",
+  "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+  "summary": "Vendo is a YC S26 startup that enables users to build custom features like dashboards, workflows, and small apps directly inside the SaaS products they already use by describing their needs in natural language.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "problem_solved": "SaaS products struggle to accommodate diverse customer needs without accumulating technical debt from custom implementations.",
+  "why_valuable": "It allows product teams to stop building one-off custom features while giving enterprise customers the customization they demand.",
+  "tags": [
+    "SaaS",
+    "LowCode",
+    "NoCode",
+    "API",
+    "Customization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:54:47.252704+00:00",
+  "updated_at": "2026-08-21T08:57:54.401240+00:00",
+  "published_to": []
+}

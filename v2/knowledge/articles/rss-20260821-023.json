@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+  "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+  "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that provides developers unified access to over 400 AI models from 80+ providers through a single API interface. The acquisition extends Stripe's existing AI billing capabilities with model selection and intelligent routing features.",
+  "tech_stack": [
+    "OpenRouter",
+    "Stripe",
+    "AI APIs",
+    "Model Routing",
+    "Token-based Billing"
+  ],
+  "problem_solved": "Developers struggle with integrating and managing multiple AI model providers, each with different APIs, pricing models, and billing systems.",
+  "why_valuable": "It provides a unified API gateway for AI model access with standardized billing, simplifying the complex landscape of AI provider management for developers.",
+  "tags": [
+    "AI",
+    "Model Routing",
+    "API Integration",
+    "Developer Tools",
+    "Acquisition"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-21T08:55:47.896356+00:00",
+  "updated_at": "2026-08-21T08:57:54.402003+00:00",
+  "published_to": []
+}

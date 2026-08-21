@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-009",
+  "source": "rss",
+  "source_url": "https://annas-archive.gl/blog/physical-destruction.html",
+  "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+  "summary": "Anna's Archive, a shadow library project, is issuing a call to action for scanning and preserving physical books, especially rare ones, before they are destroyed or lost. The blog post highlights concerns that AI companies' massive data collection efforts and hunger for training data pose an existential threat to physical book collections worldwide.",
+  "tech_stack": [
+    "IPFS",
+    "Tor",
+    "Python",
+    "Web Scraping",
+    "Distributed Storage"
+  ],
+  "problem_solved": "Preserving rare and endangered physical books from being destroyed or lost due to increasing digitization pressures and AI data hunger.",
+  "why_valuable": "It addresses the urgent intersection of cultural preservation and AI technology, raising awareness about the fragility of physical knowledge repositories in the age of large-scale data collection.",
+  "tags": [
+    "Book Preservation",
+    "Digital Archiving",
+    "AI",
+    "Cultural Heritage",
+    "Open Access"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:52:31.147941+00:00",
+  "updated_at": "2026-08-21T08:57:54.393788+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+  "title": "How AI coding tools are contributing to the popularity of JavaScript",
+  "summary": "TypeScript surpassed all other languages to become the most used language on GitHub in August 2025, marking the largest shift in language rankings in a decade. This unexpected surge occurred precisely when AI coding agents were being widely adopted, contradicting earlier predictions that AI would diminish the importance of language selection.",
+  "tech_stack": [
+    "TypeScript",
+    "JavaScript",
+    "GitHub",
+    "AI Coding Agents",
+    "GitHub Copilot"
+  ],
+  "problem_solved": "It addresses the unexpected paradox that AI coding tools, rather than reducing the importance of language choice, have actually accelerated the adoption of TypeScript/JavaScript.",
+  "why_valuable": "This insight reveals how AI coding assistants are reshaping developer preferences and language ecosystems, with major implications for technology stack decisions.",
+  "tags": [
+    "AI",
+    "TypeScript",
+    "JavaScript",
+    "Developer-Tools",
+    "GitHub"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:55:27.310143+00:00",
+  "updated_at": "2026-08-21T08:57:54.401725+00:00",
+  "published_to": []
+}

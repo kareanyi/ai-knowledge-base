@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-007",
+  "source": "rss",
+  "source_url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+  "title": "Micron announces $10B research hub in Boise",
+  "summary": "Micron宣布在爱达荷州博伊西投资100亿美元建设Micron Research Labs，这是一个美国本土的长期创新中心，旨在塑造内存技术和AI的未来发展。",
+  "tech_stack": [
+    "Memory Technology",
+    "Semiconductor Manufacturing",
+    "AI Infrastructure",
+    "DRAM/NAND",
+    "HBM"
+  ],
+  "problem_solved": "加强美国本土半导体研发能力，减少对海外芯片制造的依赖，支持AI产业发展所需的高端内存需求。",
+  "why_valuable": "该投资将巩固美国在先进内存技术领域的竞争力，为AI计算提供关键的基础设施支撑，具有重要的战略意义。",
+  "tags": [
+    "Semiconductor",
+    "Memory",
+    "AI",
+    "Research",
+    "US Manufacturing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-21T08:51:59.842688+00:00",
+  "updated_at": "2026-08-21T08:57:54.393443+00:00",
+  "published_to": []
+}

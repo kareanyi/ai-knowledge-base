@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+  "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
+  "summary": "Amazon announces ambitious plans to expand its Prime Air autonomous drone delivery service to nearly 500 US cities and towns by the end of 2026, representing a sixfold increase from current coverage and targeting communities with tens of millions of customers.",
+  "tech_stack": [
+    "Autonomous Drone Technology",
+    "Last-Mile Delivery",
+    "GPS Navigation",
+    "AI-Powered Flight Systems",
+    "Logistics Automation"
+  ],
+  "problem_solved": "Solves the last-mile delivery challenge by enabling autonomous drone delivery to residential areas at scale.",
+  "why_valuable": "Provides faster, more efficient delivery options while reducing carbon footprint and reaching underserved communities with unprecedented speed and convenience.",
+  "tags": [
+    "E-commerce",
+    "Drone Delivery",
+    "Autonomous Systems",
+    "Logistics",
+    "Amazon"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-21T08:55:37.205825+00:00",
+  "updated_at": "2026-08-21T08:57:54.401864+00:00",
+  "published_to": []
+}
