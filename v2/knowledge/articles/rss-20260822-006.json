@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-006",
+  "source": "rss",
+  "source_url": "https://rust-glancer.github.io/blog/hello-world/",
+  "title": "Rust Glancer: Rust LSP using 100x less RAM",
+  "summary": "Rust Glancer is an experimental lightweight implementation of the Rust Language Server Protocol that achieves approximately 100x reduction in RAM usage compared to traditional LSP servers like rust-analyzer, making it suitable for resource-constrained environments and large codebases.",
+  "tech_stack": [
+    "Rust",
+    "LSP (Language Server Protocol)",
+    "Tree-sitter",
+    "Inkwell (LLVM bindings)"
+  ],
+  "problem_solved": "Traditional Rust LSP servers consume excessive memory, making IDE performance sluggish especially on larger codebases.",
+  "why_valuable": "By reducing memory footprint by 100x, it enables smooth IDE experiences on resource-limited systems and makes LSP viable in contexts where it previously wasn't practical.",
+  "tags": [
+    "Rust",
+    "LSP",
+    "Performance",
+    "Memory Optimization",
+    "Language Server"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-22T08:40:34.146110+00:00",
+  "updated_at": "2026-08-22T08:44:13.464924+00:00",
+  "published_to": []
+}

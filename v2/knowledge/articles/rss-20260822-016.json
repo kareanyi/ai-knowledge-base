@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-016",
+  "source": "rss",
+  "source_url": "https://kagi.com/changelog#11296",
+  "title": "Kagi added a setting for removing paywalled links from search results",
+  "summary": "Kagi, an alternative search engine, has introduced a new setting that allows users to filter out paywalled links from their search results, addressing the common frustration of encountering inaccessible content behind paywalls. This feature aligns with Kagi's positioning as a user-centric search engine that prioritizes browsing experience over advertising revenue.",
+  "tech_stack": [
+    "Search Engine",
+    "Content Filtering",
+    "Web Interface",
+    "User Preference Settings"
+  ],
+  "problem_solved": "Saves users time and frustration by removing paywalled content from search results, so they only see accessible information.",
+  "why_valuable": "It gives users greater control over their browsing experience and reflects a growing demand for search engines that prioritize user needs over ad revenue.",
+  "tags": [
+    "Search Engine",
+    "Paywall",
+    "Content Filtering",
+    "User Privacy",
+    "Product Feature"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:43:32.121871+00:00",
+  "updated_at": "2026-08-22T08:44:13.471172+00:00",
+  "published_to": []
+}

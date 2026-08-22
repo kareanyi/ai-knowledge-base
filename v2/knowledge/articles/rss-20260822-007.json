@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-007",
+  "source": "rss",
+  "source_url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+  "title": "Scientists release biggest 2D map of the universe",
+  "summary": "Scientists at Lawrence Berkeley National Laboratory have released the largest-ever 2D map of the universe, creating a comprehensive visualization of cosmic structure. The map is publicly accessible through the Legacy Survey Sky Viewer tool, representing a significant milestone in astronomical surveys.",
+  "tech_stack": [
+    "Astronomical imaging",
+    "Large-scale data visualization",
+    "Sky survey technology",
+    "Python",
+    "Data processing pipelines"
+  ],
+  "problem_solved": "Provides astronomers with a comprehensive 2D visualization of the universe's large-scale structure for research and education purposes.",
+  "why_valuable": "This unprecedented cosmic map enables groundbreaking research into dark energy, galaxy distribution, and the large-scale structure of the universe while serving as an accessible public resource for the scientific community and education.",
+  "tags": [
+    "Cosmology",
+    "Astronomy",
+    "Dark Energy",
+    "Sky Survey",
+    "Data Visualization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:40:53.115209+00:00",
+  "updated_at": "2026-08-22T08:44:13.465065+00:00",
+  "published_to": []
+}

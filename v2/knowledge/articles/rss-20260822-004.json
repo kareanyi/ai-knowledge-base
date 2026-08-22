@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260822-004",
+  "source": "rss",
+  "source_url": "https://danluu.com/hn-comments/",
+  "title": "HN: The Good Parts (2016)",
+  "summary": "DanLuu's analytical piece examining what makes quality Hacker News comments by studying actual comment patterns and examples from the platform. The article provides data-driven insights into effective technical discourse on HN.",
+  "tech_stack": [
+    "Web Analytics",
+    "Community Analysis"
+  ],
+  "problem_solved": "Helps readers understand what distinguishes valuable technical discussion from noise on Hacker News",
+  "why_valuable": "Provides actionable insights into community behavior and effective communication in technical spaces based on empirical observation",
+  "tags": [
+    "hacker-news",
+    "community",
+    "analysis",
+    "writing",
+    "discourse"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:39:50.089609+00:00",
+  "updated_at": "2026-08-22T08:44:13.464634+00:00",
+  "published_to": []
+}

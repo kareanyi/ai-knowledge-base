@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-014",
+  "source": "rss",
+  "source_url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+  "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+  "summary": "Claudette (nobuzz) is a prompt engineering tool that modifies Claude's output to remove BuzzFeed-style language patterns, making AI responses more natural, professional, and less sensationalist. It addresses the common complaint that AI assistants often generate overly casual or clickbait-sounding content.",
+  "tech_stack": [
+    "Claude API",
+    "Prompt Engineering",
+    "JavaScript",
+    "Python"
+  ],
+  "problem_solved": "Prevents Claude from generating BuzzFeed-style, sensationalist, or overly casual content that feels inauthentic.",
+  "why_valuable": "Improves AI output quality by making responses more professional and authentic, addressing a real pain point in AI-generated content readability.",
+  "tags": [
+    "AI",
+    "Claude",
+    "Prompt Engineering",
+    "Content Quality",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:42:54.529602+00:00",
+  "updated_at": "2026-08-22T08:44:13.470793+00:00",
+  "published_to": []
+}

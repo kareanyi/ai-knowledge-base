@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-002",
+  "source": "rss",
+  "source_url": "https://danluu.com/perf-opt/",
+  "title": "There's no reason for software to be slow anymore",
+  "summary": "Dan Luu's article argues that with modern hardware capabilities and advanced compiler optimizations, there's no longer an excuse for writing slow software. The piece covers how tools, languages, and hardware have evolved to make performance optimization more accessible to developers.",
+  "tech_stack": [
+    "Compilers",
+    "Modern Hardware",
+    "Programming Languages",
+    "Low-level Optimization"
+  ],
+  "problem_solved": "Addresses the misconception that software slowness is inevitable due to hardware limitations.",
+  "why_valuable": "Challenges developers to reconsider their assumptions about performance and encourages writing efficient code by leveraging modern tooling.",
+  "tags": [
+    "Performance",
+    "Optimization",
+    "Software Engineering",
+    "Hardware",
+    "Best Practices"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-22T08:39:24.502478+00:00",
+  "updated_at": "2026-08-22T08:44:13.464306+00:00",
+  "published_to": []
+}

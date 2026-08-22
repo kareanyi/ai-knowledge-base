@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-010",
+  "source": "rss",
+  "source_url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+  "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+  "summary": "LiteLLM, a Y Combinator W23-backed company that provides a unified API interface for 100+ LLM providers, is actively hiring Rust and Performance Engineers to optimize their LLM gateway infrastructure. The company offers a proxy solution that standardizes calls across different LLM providers like OpenAI, Anthropic, and Azure.",
+  "tech_stack": [
+    "Rust",
+    "Python",
+    "LLM APIs",
+    "Proxy/Gateway Architecture",
+    "Performance Engineering"
+  ],
+  "problem_solved": "Hiring Rust and performance engineers to scale and optimize LiteLLM's unified LLM gateway infrastructure that handles API calls to 100+ different LLM providers.",
+  "why_valuable": "This role offers the opportunity to work on high-performance systems in the rapidly growing AI infrastructure space, backed by Y Combinator.",
+  "tags": [
+    "Rust",
+    "Performance Engineering",
+    "LLM",
+    "AI Infrastructure",
+    "YC W23"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-22T08:41:48.001455+00:00",
+  "updated_at": "2026-08-22T08:44:13.465584+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-012",
+  "source": "rss",
+  "source_url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+  "title": "How we made a text-to-speech model respond in sub-50 ms",
+  "summary": "A technical blog post describing how the team optimized a text-to-speech model to achieve sub-50ms latency, focusing on the intersection of speed and cost efficiency using Qwen3 as the base model.",
+  "tech_stack": [
+    "Python",
+    "Qwen3",
+    "Deep Learning",
+    "ONNX",
+    "TensorRT"
+  ],
+  "problem_solved": "Reducing text-to-speech response latency to enable real-time conversational AI experiences",
+  "why_valuable": "Enables natural, human-like conversational interactions by eliminating perceptible delays in speech generation",
+  "tags": [
+    "TTS",
+    "Low Latency",
+    "AI Optimization",
+    "Speech AI",
+    "Performance Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:42:18.580112+00:00",
+  "updated_at": "2026-08-22T08:44:13.465979+00:00",
+  "published_to": []
+}

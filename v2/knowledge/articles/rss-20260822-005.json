@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-005",
+  "source": "rss",
+  "source_url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+  "title": "Three important steps in my maturation process",
+  "summary": "A personal blog post by Thomas Dulien reflecting on three key developmental milestones in his journey as a security researcher and reverse engineer, offering insights into professional maturation in the technical security field.",
+  "tech_stack": [
+    "Security Research",
+    "Reverse Engineering",
+    "C/C++",
+    "Assembly",
+    "Low-level Systems"
+  ],
+  "problem_solved": "Shares personal growth insights for security researchers navigating their career and technical development.",
+  "why_valuable": "Provides mentorship-style wisdom from an experienced practitioner in the security community, resonating with 129 HN upvotes and 58 comments.",
+  "tags": [
+    "Security Research",
+    "Career Growth",
+    "Personal Development",
+    "Reverse Engineering",
+    "Mentorship"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:40:03.791627+00:00",
+  "updated_at": "2026-08-22T08:44:13.464782+00:00",
+  "published_to": []
+}

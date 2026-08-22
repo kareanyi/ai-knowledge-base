@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260822-015",
+  "source": "rss",
+  "source_url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+  "title": "Zig’s io.threaded is neat",
+  "summary": "An article exploring Zig's io.threaded feature, a concurrent I/O mechanism in Zig's standard library that enables efficient multi-threaded I/O operations with a clean, zero-cost abstraction design.",
+  "tech_stack": [
+    "Zig"
+  ],
+  "problem_solved": "Provides a clean and efficient way to handle concurrent I/O operations in systems programming without the complexity of traditional threading models.",
+  "why_valuable": "Zig's io.threaded offers a unique blend of performance and simplicity for concurrent I/O, representing Zig's philosophy of 'no hidden control flow' in a practical systems programming context.",
+  "tags": [
+    "Zig",
+    "Systems Programming",
+    "Concurrent I/O",
+    "Threading",
+    "Async"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:43:15.234519+00:00",
+  "updated_at": "2026-08-22T08:44:13.470992+00:00",
+  "published_to": []
+}

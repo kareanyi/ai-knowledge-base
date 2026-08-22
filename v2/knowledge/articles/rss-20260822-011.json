@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-011",
+  "source": "rss",
+  "source_url": "https://bandarlabs.github.io/Cobalt/",
+  "title": "Kobo can run apps now",
+  "summary": "Cobalt is an open-source project that enables Kobo e-readers to run custom applications, expanding their limited functionality beyond the stock firmware. The project provides a framework for sideloading and executing apps on these e-ink devices, giving users more freedom with their hardware.",
+  "tech_stack": [
+    "Linux",
+    "Kobo Hardware",
+    "Custom Firmware",
+    "E-ink Display",
+    "Open Source"
+  ],
+  "problem_solved": "Solves the limitation of Kobo e-readers being restricted to vendor-provided reading functionality by enabling custom app execution.",
+  "why_valuable": "Gives users freedom to customize and extend their e-reader devices, potentially prolonging device usefulness and enabling personalized features.",
+  "tags": [
+    "E-reader",
+    "Hacking",
+    "Modding",
+    "Open Source",
+    "Custom Firmware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:42:03.683681+00:00",
+  "updated_at": "2026-08-22T08:44:13.465777+00:00",
+  "published_to": []
+}

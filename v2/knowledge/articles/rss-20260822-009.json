@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-009",
+  "source": "rss",
+  "source_url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+  "title": "OTel isn’t going well",
+  "summary": "A critical analysis of OpenTelemetry (OTel) implementation challenges, where the author documents specific problems with a detailed spreadsheet. The article explores real-world pain points organizations face when adopting OTel for distributed systems observability.",
+  "tech_stack": [
+    "OpenTelemetry",
+    "Observability",
+    "Distributed Tracing",
+    "Metrics Collection",
+    "HCN/YAML Configuration"
+  ],
+  "problem_solved": "Documents and addresses implementation friction, configuration complexity, and operational challenges with OpenTelemetry adoption in production environments.",
+  "why_valuable": "Provides honest, data-driven insights into OTel's practical limitations, helping teams set realistic expectations and avoid common pitfalls during observability migrations.",
+  "tags": [
+    "OpenTelemetry",
+    "Observability",
+    "Distributed Systems",
+    "Monitoring",
+    "DevOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:41:31.088150+00:00",
+  "updated_at": "2026-08-22T08:44:13.465408+00:00",
+  "published_to": []
+}

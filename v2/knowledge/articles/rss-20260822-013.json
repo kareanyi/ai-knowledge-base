@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-013",
+  "source": "rss",
+  "source_url": "https://www.felonybench.com/",
+  "title": "Felony Bench",
+  "summary": "Felony Bench is a web-based legal reference tool that helps users understand felony classifications, sentencing guidelines, and legal processes. The site gained significant traction on Hacker News, indicating strong interest from the tech community in accessible legal information tools.",
+  "tech_stack": [
+    "Web Application",
+    "JavaScript",
+    "CSS",
+    "HTML5"
+  ],
+  "problem_solved": "Makes complex felony legal information accessible and understandable to the general public",
+  "why_valuable": "Provides transparent, easy-to-understand legal reference material that helps people navigate complex criminal justice information",
+  "tags": [
+    "Legal Tech",
+    "Criminal Justice",
+    "Web App",
+    "Public Resource",
+    "Legal Reference"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-22T08:42:37.034883+00:00",
+  "updated_at": "2026-08-22T08:44:13.466157+00:00",
+  "published_to": []
+}

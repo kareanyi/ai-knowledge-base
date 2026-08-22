@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260822-019",
+  "source": "rss",
+  "source_url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+  "title": "Felony charges for citizen deleting phone data at US Border",
+  "summary": "The New York Times reports on Samuel Tunick being charged with felonies for allegedly deleting data from his phone when crossing the US border, highlighting the legal tension between digital privacy rights and border security enforcement by Customs and Border Protection agents.",
+  "tech_stack": [
+    "Digital devices",
+    "Smartphone data",
+    "Cloud storage"
+  ],
+  "problem_solved": "Documents a legal case exploring the limits of Fourth Amendment protections for electronic devices and data at international border crossings.",
+  "why_valuable": "Raises critical public awareness about digital privacy rights and the expanding legal authority of border agents to search electronic devices, an issue affecting millions of international travelers.",
+  "tags": [
+    "Privacy",
+    "Border Security",
+    "Constitutional Law",
+    "Digital Rights",
+    "CBP"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-22T08:44:12.525929+00:00",
+  "updated_at": "2026-08-22T08:44:13.471745+00:00",
+  "published_to": []
+}
