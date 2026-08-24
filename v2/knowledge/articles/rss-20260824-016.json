@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260824-016",
+  "source": "rss",
+  "source_url": "https://martypc.net/",
+  "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+  "summary": "MartyPC is a cross-platform emulator for early personal computers, implemented in Rust for high performance and portability. It allows users to run vintage PC software and games from the 1980s era on modern hardware.",
+  "tech_stack": [
+    "Rust",
+    "SDL2",
+    "Emulation Framework",
+    "Cross-platform Development"
+  ],
+  "problem_solved": "Enables running legacy PC software and classic games from the early computing era on modern hardware without original hardware.",
+  "why_valuable": "Preserves computing history by providing a performant, portable emulator that accurately replicates early PC behavior while leveraging Rust's safety and performance characteristics.",
+  "tags": [
+    "Emulation",
+    "Retro Computing",
+    "Rust",
+    "Cross-platform",
+    "Vintage PCs"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-24T08:56:23.825877+00:00",
+  "updated_at": "2026-08-24T08:57:27.530892+00:00",
+  "published_to": []
+}

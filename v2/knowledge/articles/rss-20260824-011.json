@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260824-011",
+  "source": "rss",
+  "source_url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+  "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+  "summary": "This Lancet article examines the potential risk of transmitting amyloid β pathology (the protein aggregates associated with Alzheimer's disease) through blood transfusions and blood products, contributing to ongoing discussions about transfusion safety and blood donation policies.",
+  "tech_stack": [
+    "Clinical Epidemiology",
+    "Meta-analysis",
+    "Statistical Modeling",
+    "Laboratory Detection Methods"
+  ],
+  "problem_solved": "Addresses whether amyloid β proteins can be iatrogenically transmitted via blood transfusions, raising important questions about blood supply safety and screening protocols.",
+  "why_valuable": "Findings could influence global blood donation guidelines and transfusion practices, potentially affecting millions of patients requiring blood products annually.",
+  "tags": [
+    "Neurology",
+    "Blood Transfusion",
+    "Amyloid-β",
+    "Alzheimer's Disease",
+    "Public Health"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-24T08:54:58.979538+00:00",
+  "updated_at": "2026-08-24T08:57:27.529937+00:00",
+  "published_to": []
+}

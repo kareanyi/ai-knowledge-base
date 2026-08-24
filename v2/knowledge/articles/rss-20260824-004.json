@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260824-004",
+  "source": "rss",
+  "source_url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+  "title": "Death to px, long live ch",
+  "summary": "A blog post advocating for using CSS 'ch' units (character width) instead of 'px' pixels for better responsive and accessible web design. The author argues that character-based measurements adapt better to different font sizes and user preferences.",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "Web Design"
+  ],
+  "problem_solved": "Provides an alternative to fixed pixel measurements that doesn't scale well with user font preferences.",
+  "why_valuable": "ch units create layouts that naturally adapt to text size, improving both responsiveness and accessibility.",
+  "tags": [
+    "CSS",
+    "Web Design",
+    "Responsive",
+    "Accessibility",
+    "Typography"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-24T08:52:48.772334+00:00",
+  "updated_at": "2026-08-24T08:57:27.521349+00:00",
+  "published_to": []
+}

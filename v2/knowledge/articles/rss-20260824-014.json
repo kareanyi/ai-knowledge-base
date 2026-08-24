@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260824-014",
+  "source": "rss",
+  "source_url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+  "title": "Fast and Hard Code",
+  "summary": "Armin Ronacher discusses the trade-offs between writing highly optimized, performant code and maintaining readable, maintainable codebases, exploring when developers should embrace 'hard' code patterns for speed gains.",
+  "tech_stack": [
+    "Python",
+    "C",
+    "Flask"
+  ],
+  "problem_solved": "Addresses the tension between code performance optimization and software maintainability in production systems.",
+  "why_valuable": "Provides practical guidance from an experienced systems programmer on when to sacrifice code elegance for measurable performance improvements.",
+  "tags": [
+    "Performance",
+    "Code Quality",
+    "Optimization",
+    "Software Engineering",
+    "Python"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-24T08:55:52.334435+00:00",
+  "updated_at": "2026-08-24T08:57:27.530503+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-018",
+  "source": "rss",
+  "source_url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+  "title": "NanoGPT Speedrun Frontier",
+  "summary": "PrimeIntellect's research project exploring extreme optimization and acceleration of NanoGPT (Andrej Karpathy's minimal GPT implementation), likely focusing on distributed training techniques and performance improvements to push the boundaries of what's achievable with this educational codebase.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "CUDA",
+    "Distributed Training",
+    "Transformers"
+  ],
+  "problem_solved": "Addresses the challenge of optimizing GPT training efficiency and speed using minimal, hackable codebases.",
+  "why_valuable": "Demonstrates how educational/small-scale codebases can be pushed to frontier-level performance through optimization techniques.",
+  "tags": [
+    "GPT",
+    "Optimization",
+    "Distributed Training",
+    "Open Source",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-24T08:56:52.643230+00:00",
+  "updated_at": "2026-08-24T08:57:27.531253+00:00",
+  "published_to": []
+}

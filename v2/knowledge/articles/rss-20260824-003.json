@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260824-003",
+  "source": "rss",
+  "source_url": "https://earendil.com/posts/what-is-a-harness/",
+  "title": "What Is a Harness?",
+  "summary": "A technical blog post explaining the concept of a 'harness' in software development, likely focusing on test harnesses or evaluation frameworks used to systematically test and validate code under various conditions.",
+  "tech_stack": [
+    "Software Testing",
+    "Testing Frameworks",
+    "CI/CD"
+  ],
+  "problem_solved": "Explains what a harness is and why it's used in software development contexts for systematic testing and evaluation.",
+  "why_valuable": "Provides foundational understanding of testing infrastructure concepts that are essential for building reliable software systems.",
+  "tags": [
+    "Testing",
+    "Software Engineering",
+    "Harness",
+    "Quality Assurance",
+    "DevOps"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-24T08:52:37.468883+00:00",
+  "updated_at": "2026-08-24T08:57:27.521145+00:00",
+  "published_to": []
+}

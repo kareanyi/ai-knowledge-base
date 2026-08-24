@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260824-002",
+  "source": "rss",
+  "source_url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+  "title": "Authoritarianism of Code",
+  "summary": "A philosophical reflection on how code is inherently authoritarian - it enforces rules exactly as written without interpretation or flexibility, exploring the implications of this strict nature in software development and its relationship to human communication and power structures.",
+  "tech_stack": [
+    "Programming Philosophy",
+    "Software Development"
+  ],
+  "problem_solved": "Explores the fundamental nature of code as an authoritarian force that demands strict adherence to rules.",
+  "why_valuable": "Offers deep philosophical insight into why code differs from natural language and what this means for developers and the software industry.",
+  "tags": [
+    "Programming Philosophy",
+    "Software Engineering",
+    "Code Quality",
+    "Developer Culture",
+    "Technical Writing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-24T08:52:23.686005+00:00",
+  "updated_at": "2026-08-24T08:57:27.520950+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-012",
+  "source": "rss",
+  "source_url": "https://malisper.me/jit-compiling-code-in-5-us/",
+  "title": "JIT Compiling Code in 5μs",
+  "summary": "A technical blog post by Matt Maislin explaining how to build a JIT compiler capable of compiling code in just 5 microseconds, demonstrating extreme optimization techniques for real-time code generation and execution.",
+  "tech_stack": [
+    "C",
+    "Assembly",
+    "LuaJIT",
+    "x86-64",
+    "Memory Management"
+  ],
+  "problem_solved": "Achieves near-instantaneous JIT compilation for scenarios requiring zero-latency code execution without perceptible compilation overhead.",
+  "why_valuable": "Demonstrates practical extreme optimization techniques that enable use cases like REPLs, high-frequency trading, and hot code reloading where compilation latency must be imperceptible.",
+  "tags": [
+    "JIT",
+    "Compiler",
+    "Performance",
+    "Low-level",
+    "Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-24T08:55:22.795899+00:00",
+  "updated_at": "2026-08-24T08:57:27.530131+00:00",
+  "published_to": []
+}

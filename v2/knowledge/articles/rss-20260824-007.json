@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260824-007",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+  "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+  "summary": "The Sydney Marathon medal mistakenly depicted Munich's Olympic Stadium instead of a Sydney landmark, causing embarrassment for the event organizers who have since apologized for the design error.",
+  "tech_stack": [
+    "News Reporting",
+    "Digital Media"
+  ],
+  "problem_solved": "Not applicable - this is a news article about a factual error in event merchandise, not a technical solution",
+  "why_valuable": "Demonstrates the importance of thorough design verification and the impact of simple mistakes in large-scale public events",
+  "tags": [
+    "News",
+    "Event Management",
+    "Design Error",
+    "Sydney",
+    "Marathon"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-08-24T08:53:38.956371+00:00",
+  "updated_at": "2026-08-24T08:57:27.529146+00:00",
+  "published_to": []
+}

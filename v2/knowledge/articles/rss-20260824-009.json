@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-009",
+  "source": "rss",
+  "source_url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+  "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+  "summary": "本文报道了一个使用阿里巴巴开源的 Qwen 3.8 27B 模型进行逆向工程任务的实验案例，模型在30分钟内成功完成了复杂的代码逆向分析工作，展示了开源大语言模型在安全研究领域的实际应用价值。",
+  "tech_stack": [
+    "Qwen 3.8 27B",
+    "LLM",
+    "Reverse Engineering",
+    "Open Source AI",
+    "Code Analysis"
+  ],
+  "problem_solved": "证明了开源大语言模型能够完成复杂的逆向工程任务，为安全研究人员和开发者提供了可负担的AI辅助工具选择。",
+  "why_valuable": "打破了人们对开源模型能力的认知边界，展示了一个仅27B参数的模型可以接近前沿模型在代码分析任务上的表现。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Reverse Engineering",
+    "Open Source",
+    "Code Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-24T08:54:17.903419+00:00",
+  "updated_at": "2026-08-24T08:57:27.529543+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-008",
+  "source": "rss",
+  "source_url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+  "title": "Iranian hackers shut down UK power plant for 4 days",
+  "summary": "This news article reports on Iranian hackers successfully breaching and shutting down a UK power plant for four days, highlighting the vulnerability of critical national infrastructure to state-sponsored cyber attacks and the potential real-world consequences of such operations.",
+  "tech_stack": [
+    "ICS/SCADA Systems",
+    "Industrial Control Systems",
+    "Nation-State Malware",
+    "Critical Infrastructure Networks",
+    "Supervisory Control Systems"
+  ],
+  "problem_solved": "This article reports rather than solves a problem—it illustrates the growing threat of cyber attacks on critical infrastructure and the urgent need for improved cybersecurity defenses in the energy sector.",
+  "why_valuable": "The article raises awareness about the serious risks posed by nation-state actors to essential services and underscores the importance of protecting critical infrastructure from sophisticated cyber threats.",
+  "tags": [
+    "Cybersecurity",
+    "Critical Infrastructure",
+    "Nation-State Attacks",
+    "Energy Sector",
+    "Geopolitical Threats"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-24T08:54:03.068361+00:00",
+  "updated_at": "2026-08-24T08:57:27.529345+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260824-020",
+  "source": "rss",
+  "source_url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+  "title": "Things I want in a modern relational query language",
+  "summary": "A thoughtful exploration of desired features for a modern relational query language, examining what improvements and innovations the author believes would better serve developers compared to traditional SQL approaches.",
+  "tech_stack": [
+    "SQL",
+    "Relational Databases",
+    "Query Languages",
+    "Database Systems"
+  ],
+  "problem_solved": "Addresses the limitations and friction points developers experience when working with traditional SQL in modern application development.",
+  "why_valuable": "Provides practical insights into evolving database query paradigms to meet contemporary developer needs for better readability, expressiveness, and developer experience.",
+  "tags": [
+    "SQL",
+    "Database",
+    "Query Language",
+    "Programming Languages",
+    "Data Engineering"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-24T08:57:26.673386+00:00",
+  "updated_at": "2026-08-24T08:57:27.531618+00:00",
+  "published_to": []
+}

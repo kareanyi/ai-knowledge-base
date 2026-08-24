@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-006",
+  "source": "rss",
+  "source_url": "https://securelist.com/android-head-unit-malware/121106/",
+  "title": "Malware infects Android-based automotive head unit firmware",
+  "summary": "Security researchers from Kaspersky's Securelist discovered malware specifically targeting Android-based automotive head units (infotainment systems). The research reveals how attackers can compromise vehicle firmware, potentially giving them access to sensitive data, location tracking, and in-vehicle system controls.",
+  "tech_stack": [
+    "Android OS",
+    "Firmware Analysis",
+    "Malware Reverse Engineering",
+    "Embedded Systems",
+    "Vehicle Diagnostics"
+  ],
+  "problem_solved": "Identifies and analyzes malware threats targeting connected car infotainment systems running Android, raising awareness about automotive cybersecurity vulnerabilities.",
+  "why_valuable": "This research addresses a critical and emerging attack surface as vehicles become increasingly connected and software-dependent, providing actionable intelligence for manufacturers, security teams, and consumers.",
+  "tags": [
+    "Malware",
+    "Automotive Security",
+    "Android",
+    "IoT",
+    "Firmware"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-24T08:53:22.426256+00:00",
+  "updated_at": "2026-08-24T08:57:27.521724+00:00",
+  "published_to": []
+}

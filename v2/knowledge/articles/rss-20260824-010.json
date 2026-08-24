@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-010",
+  "source": "rss",
+  "source_url": "https://skylens.yantraai.app/",
+  "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+  "summary": "SkyLens is a web application that provides real-time 3D visualization of satellite positions orbiting Earth, combined with an archive of declassified Pentagon UFO/UAP documents for public research.",
+  "tech_stack": [
+    "WebGL",
+    "Three.js",
+    "React",
+    "Node.js",
+    "Satellite Tracking APIs"
+  ],
+  "problem_solved": "Makes complex space tracking data and declassified government UFO documents accessible through an interactive 3D interface",
+  "why_valuable": "Combines two fascinating topics—live satellite tracking and government UFO disclosures—into an engaging, publicly accessible visualization platform that democratizes space data",
+  "tags": [
+    "satellite-tracker",
+    "UFO-UAP",
+    "3D-visualization",
+    "real-time-data",
+    "space-technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-24T08:54:37.861349+00:00",
+  "updated_at": "2026-08-24T08:57:27.529731+00:00",
+  "published_to": []
+}

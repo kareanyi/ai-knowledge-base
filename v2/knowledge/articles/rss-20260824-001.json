@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-001",
+  "source": "rss",
+  "source_url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+  "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+  "summary": "Slovakia has discovered a Russian backdoor embedded in their national traffic speed camera infrastructure, raising significant concerns about foreign interference in critical national infrastructure systems.",
+  "tech_stack": [
+    "Embedded Systems",
+    "Network Infrastructure",
+    "IoT Security",
+    "Surveillance Systems",
+    "Critical Infrastructure"
+  ],
+  "problem_solved": "Reveals a potential state-sponsored espionage and sabotage vector targeting critical transportation infrastructure.",
+  "why_valuable": "Highlights the growing threat of supply chain attacks and foreign backdoors in essential public infrastructure, emphasizing the need for rigorous security auditing of critical systems.",
+  "tags": [
+    "cybersecurity",
+    "critical-infrastructure",
+    "nation-state-threats",
+    "russia",
+    "surveillance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-24T08:52:05.127849+00:00",
+  "updated_at": "2026-08-24T08:57:27.520563+00:00",
+  "published_to": []
+}

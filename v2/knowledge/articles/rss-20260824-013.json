@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260824-013",
+  "source": "rss",
+  "source_url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+  "title": "The End of an Athlon",
+  "summary": "一篇关于AMD Athlon处理器历史的怀旧文章，作者通过个人经历回顾了这款经典CPU的技术特性和时代意义，属于技术历史回顾类博客内容。",
+  "tech_stack": [
+    "x86 Assembly",
+    "AMD Athlon",
+    "Historical Computing"
+  ],
+  "problem_solved": "记录和回顾AMD Athlon处理器时代的终结，保存计算历史",
+  "why_valuable": "对于 retro computing 爱好者和技术历史研究者来说，提供了一手的技术回忆和见解",
+  "tags": [
+    "RetroComputing",
+    "AMD",
+    "Hardware",
+    "Nostalgia",
+    "History"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-24T08:55:38.634318+00:00",
+  "updated_at": "2026-08-24T08:57:27.530321+00:00",
+  "published_to": []
+}
