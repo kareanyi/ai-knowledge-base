@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-020",
+  "source": "rss",
+  "source_url": "https://twitter.com/lemire/status/2091894299289874926",
+  "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+  "summary": "Xiaomi has developed a new custom CPU that achieves Apple-level single-threaded performance while significantly outperforming it in multi-threaded workloads, representing a major advancement in mobile semiconductor design.",
+  "tech_stack": [
+    "ARM Architecture",
+    "Custom CPU Design",
+    "Mobile SoC",
+    "Semiconductor Manufacturing",
+    "RISC Architecture"
+  ],
+  "problem_solved": "Reduces the performance gap between non-Apple Android chips and Apple's A-series/M-series processors in both single and multi-threaded scenarios.",
+  "why_valuable": "Demonstrates China's growing semiconductor capabilities and could disrupt the premium mobile chip market currently dominated by Apple and Qualcomm.",
+  "tags": [
+    "CPU",
+    "Semiconductor",
+    "Mobile Hardware",
+    "ARM",
+    "Xiaomi"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-25T08:57:58.357357+00:00",
+  "updated_at": "2026-08-25T09:00:41.287792+00:00",
+  "published_to": []
+}

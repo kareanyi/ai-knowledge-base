@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-010",
+  "source": "rss",
+  "source_url": "https://ciechanow.ski/moon/",
+  "title": "Moon (2024)",
+  "summary": "An interactive educational article by Bartosz Ciechanowski explaining the Moon through detailed visualizations, animations, and clear explanations covering lunar phases, orbital mechanics, and physical properties.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Canvas API",
+    "SVG"
+  ],
+  "problem_solved": "Makes complex astronomical concepts about the Moon accessible and engaging through interactive visualizations.",
+  "why_valuable": "Provides beautiful, scientifically accurate interactive graphics that transform abstract concepts into intuitive understanding.",
+  "tags": [
+    "Astronomy",
+    "Education",
+    "Interactive",
+    "Visualization",
+    "Explainer"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-25T08:55:16.508807+00:00",
+  "updated_at": "2026-08-25T09:00:41.280955+00:00",
+  "published_to": []
+}

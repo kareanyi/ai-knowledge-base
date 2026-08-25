@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260825-006",
+  "source": "rss",
+  "source_url": "https://paulgraham.com/prepare.html",
+  "title": "How Universities Should Prepare Founders",
+  "summary": "Paul Graham's essay argues that universities fail to prepare students for startup entrepreneurship by focusing too much on theory and not enough on building actual products. He suggests universities should teach students to create things rather than merely consume knowledge, emphasizing the importance of learning through practical creation and shipping real products.",
+  "tech_stack": [
+    "HTML",
+    "Plain Text Essay"
+  ],
+  "problem_solved": "Addresses the gap between traditional university education and the practical skills needed to become successful startup founders.",
+  "why_valuable": "Provides actionable insights from one of Silicon Valley's most influential startup mentors on how educational institutions can better foster entrepreneurial talent.",
+  "tags": [
+    "startups",
+    "entrepreneurship",
+    "education",
+    "y-combinator",
+    "founder"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-25T08:54:18.667468+00:00",
+  "updated_at": "2026-08-25T09:00:41.280586+00:00",
+  "published_to": []
+}

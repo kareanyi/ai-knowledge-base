@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-017",
+  "source": "rss",
+  "source_url": "https://picomq.com/",
+  "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+  "summary": "PicoMQ is a Rust-based server that provides durable streams over HTTP, built on top of object storage (S3) for cost-effective message queuing. It offers URL-addressable granular streams with operations like create/append/read/long-poll and SSE support, using S3Stream as the underlying storage primitive from AutoMQ.",
+  "tech_stack": [
+    "Rust",
+    "Object Store (S3)",
+    "PostgreSQL",
+    "HTTP",
+    "Server-Sent Events (SSE)"
+  ],
+  "problem_solved": "Provides a cheap, scalable alternative to traditional message brokers by leveraging object storage for durable stream persistence.",
+  "why_valuable": "Enables developers to build event-driven architectures with durable streams at object storage costs, eliminating the need for expensive dedicated message queue infrastructure.",
+  "tags": [
+    "streaming",
+    "message-queue",
+    "rust",
+    "s3",
+    "event-driven"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-25T08:57:08.975025+00:00",
+  "updated_at": "2026-08-25T09:00:41.287391+00:00",
+  "published_to": []
+}

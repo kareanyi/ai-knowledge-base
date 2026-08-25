@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-008",
+  "source": "rss",
+  "source_url": "https://github.com/murerkinn/bookshelf",
+  "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+  "summary": "Bookshelf is a self-hosted eBook library application that leverages object storage (like S3 or MinIO) to manage and serve digital books, allowing users to host their personal book collections on cloud infrastructure.",
+  "tech_stack": [
+    "Python",
+    "FastAPI",
+    "S3/Object Storage",
+    "HTML/CSS",
+    "SQLite"
+  ],
+  "problem_solved": "Provides a lightweight, self-hosted alternative to cloud eBook services like Kindle or Calibre Web, enabling users to store books on any S3-compatible object storage.",
+  "why_valuable": "It gives users full control over their eBook collection while utilizing cost-effective and scalable object storage solutions, with the simplicity of self-hosting.",
+  "tags": [
+    "self-hosted",
+    "eBook",
+    "library",
+    "object-storage",
+    "S3"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-25T08:54:45.488341+00:00",
+  "updated_at": "2026-08-25T09:00:41.280771+00:00",
+  "published_to": []
+}

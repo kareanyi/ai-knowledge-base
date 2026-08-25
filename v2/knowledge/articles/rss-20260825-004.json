@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-004",
+  "source": "rss",
+  "source_url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+  "title": "SiFive's First Server Platform",
+  "summary": "SiFive 发布了其首个服务器级计算平台，标志着 RISC-V 架构在高性能数据中心领域的重要进展，展示了该公司在挑战传统 x86 和 ARM 服务器市场方面的野心。",
+  "tech_stack": [
+    "RISC-V",
+    "服务器硬件",
+    "半导体设计",
+    "SiFive IP",
+    "高性能计算"
+  ],
+  "problem_solved": "为数据中心和云计算市场提供了一个基于开源 RISC-V 架构的服务器级处理器解决方案",
+  "why_valuable": "这是 RISC-V 生态系统向高性能计算领域迈出的关键一步，有望打破传统服务器芯片市场的双头垄断格局",
+  "tags": [
+    "RISC-V",
+    "Server Platform",
+    "SiFive",
+    "Hardware",
+    "Semiconductor"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-25T08:53:37.786544+00:00",
+  "updated_at": "2026-08-25T09:00:41.280393+00:00",
+  "published_to": []
+}

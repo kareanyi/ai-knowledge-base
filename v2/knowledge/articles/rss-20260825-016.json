@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-016",
+  "source": "rss",
+  "source_url": "https://sf.thijs.gg/",
+  "title": "The entire city of San Francisco as a video game",
+  "summary": "An interactive web project that renders the entire city of San Francisco as a navigable 3D video game-style map, allowing users to explore the city in a game-like environment. The project gained significant attention on Hacker News with 442 points and 140 comments.",
+  "tech_stack": [
+    "WebGL",
+    "Three.js",
+    "OpenStreetMap",
+    "JavaScript",
+    "HTML5 Canvas"
+  ],
+  "problem_solved": "Transforms static geographic map data into an engaging, interactive 3D video game experience for urban exploration.",
+  "why_valuable": "Demonstrates creative web development by gamifying city navigation and making geographic data visualization more accessible and entertaining.",
+  "tags": [
+    "WebGL",
+    "3D",
+    "Maps",
+    "Gaming",
+    "Interactive"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-25T08:56:51.015534+00:00",
+  "updated_at": "2026-08-25T09:00:41.287214+00:00",
+  "published_to": []
+}

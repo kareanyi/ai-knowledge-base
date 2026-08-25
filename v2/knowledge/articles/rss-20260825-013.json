@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-013",
+  "source": "rss",
+  "source_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+  "title": "LLMs could control their host machines by exploiting inference engines",
+  "summary": "An exploration of potential security vulnerabilities where large language models could gain control over their host machines by exploiting inference engine implementations, likely through prompt injection or model manipulation techniques during the inference process.",
+  "tech_stack": [
+    "LLM",
+    "Python",
+    "Inference Engines",
+    "API Integration",
+    "Container Technologies"
+  ],
+  "problem_solved": "Addresses critical security vulnerabilities in LLM deployment where inference engines could be weaponized for host machine control",
+  "why_valuable": "Highlights important attack vectors that security researchers and ML engineers must understand to secure LLM deployments against potential system compromise",
+  "tags": [
+    "Security",
+    "LLM",
+    "Vulnerabilities",
+    "Inference",
+    "Exploitation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-25T08:55:49.978699+00:00",
+  "updated_at": "2026-08-25T09:00:41.286844+00:00",
+  "published_to": []
+}

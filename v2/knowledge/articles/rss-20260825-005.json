@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-005",
+  "source": "rss",
+  "source_url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+  "title": "Thomson Reuters Launches Its Own Frontier Model",
+  "summary": "Thomson Reuters has announced the launch of its own frontier AI model, leveraging its extensive proprietary data assets including legal documents, news content, and corporate information. This move positions the company to compete directly with major AI labs by offering domain-specific AI capabilities tailored for legal, tax, and risk professionals.",
+  "tech_stack": [
+    "Large Language Models",
+    "AI/ML Infrastructure",
+    "Legal Tech",
+    "Natural Language Processing",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Provides specialized AI capabilities for legal and professional services that generic AI models cannot adequately address due to lack of domain-specific training data.",
+  "why_valuable": "Enables Thomson Reuters to control its AI destiny, maintain data sovereignty, and offer highly accurate, domain-specific AI solutions to its professional customer base.",
+  "tags": [
+    "AI",
+    "LegalTech",
+    "EnterpriseAI",
+    "FrontierModel",
+    "DataAssets"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-25T08:53:50.764906+00:00",
+  "updated_at": "2026-08-25T09:00:41.280489+00:00",
+  "published_to": []
+}

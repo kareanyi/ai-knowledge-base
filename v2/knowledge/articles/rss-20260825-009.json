@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260825-009",
+  "source": "rss",
+  "source_url": "https://developer.apple.com/news/?id=1ptvdtcm",
+  "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+  "summary": "Apple确认iCloud+的Hide My Email功能将继续在icloud.com网站上可用，解决了用户对该功能可能被移除的担忧。这是一项关键的隐私保护服务更新，确保用户可以继续使用匿名邮件转发功能保护个人邮箱地址。",
+  "tech_stack": [
+    "iCloud+",
+    "Apple ID",
+    "Web Services",
+    "Privacy Technology"
+  ],
+  "problem_solved": "解决了用户对Hide My Email功能可用性的不确定性，确保隐私邮件转发服务持续可用",
+  "why_valuable": "对依赖Hide My Email保护个人邮箱隐私的iCloud+订阅用户至关重要，这是Apple隐私保护战略的重要组成部分",
+  "tags": [
+    "Apple",
+    "iCloud",
+    "Privacy",
+    "Email",
+    "Product Update"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-25T08:55:01.396471+00:00",
+  "updated_at": "2026-08-25T09:00:41.280864+00:00",
+  "published_to": []
+}

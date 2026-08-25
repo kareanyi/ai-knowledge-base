@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-003",
+  "source": "rss",
+  "source_url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+  "title": "Headlong: A Microharness for Persistent Agents",
+  "summary": "Headlong is a lightweight framework for building and managing persistent AI agents, providing essential infrastructure for maintaining agent state, context, and execution continuity across sessions without the overhead of larger frameworks.",
+  "tech_stack": [
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "AI Agents",
+    "LLM Integration"
+  ],
+  "problem_solved": "Simplifies the complexity of building persistent AI agents that need to maintain state and context across multiple interactions or sessions.",
+  "why_valuable": "Reduces boilerplate and infrastructure complexity for developers building AI agent applications, making persistent agent development more accessible and maintainable.",
+  "tags": [
+    "AI Agents",
+    "Persistent State",
+    "Agent Framework",
+    "Microharness",
+    "LLM Applications"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-25T08:53:21.798238+00:00",
+  "updated_at": "2026-08-25T09:00:41.280289+00:00",
+  "published_to": []
+}

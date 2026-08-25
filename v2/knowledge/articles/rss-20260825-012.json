@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260825-012",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+  "title": "Oceans hit highest temperature on record",
+  "summary": "The BBC reports that global ocean temperatures have reached their highest recorded level, marking a significant milestone in climate change monitoring and raising urgent concerns about marine ecosystem impacts.",
+  "tech_stack": [],
+  "problem_solved": "Documenting and raising awareness about unprecedented ocean warming trends caused by climate change.",
+  "why_valuable": "This news alerts the public and policymakers to a critical climate milestone that could trigger cascading effects on weather patterns, marine life, and sea level.",
+  "tags": [
+    "ClimateChange",
+    "Ocean",
+    "Environment",
+    "News",
+    "Science"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-25T08:55:40.365010+00:00",
+  "updated_at": "2026-08-25T09:00:41.286721+00:00",
+  "published_to": []
+}

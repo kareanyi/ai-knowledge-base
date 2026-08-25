@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-001",
+  "source": "rss",
+  "source_url": "https://github.com/dragthelake/ambient-context",
+  "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+  "summary": "A macOS menu bar app that continuously captures the text content of your focused window using the Accessibility API and saves it as daily Markdown files, allowing AI assistants like Claude Code to query your work history or build project context without any screen capture or OCR.",
+  "tech_stack": [
+    "Swift",
+    "Accessibility API",
+    "Markdown",
+    "macOS Menu Bar",
+    "GitHub"
+  ],
+  "problem_solved": "Enables AI coding assistants to have persistent memory of your work by capturing active window text as lightweight Markdown logs instead of intrusive screenshots.",
+  "why_valuable": "It provides a privacy-preserving, lightweight alternative to screen recording that gives AI tools meaningful context about your work history without capturing visual data.",
+  "tags": [
+    "AI-Tools",
+    "Developer-Productivity",
+    "macOS",
+    "Accessibility",
+    "Context-Awareness"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-25T08:52:54.230047+00:00",
+  "updated_at": "2026-08-25T09:00:41.279930+00:00",
+  "published_to": []
+}
