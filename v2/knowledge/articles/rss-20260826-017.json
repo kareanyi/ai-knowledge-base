@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-017",
+  "source": "rss",
+  "source_url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+  "title": "Tooltips need a delay, and then they need to skip it",
+  "summary": "This article explores UX best practices for tooltip behavior in web interfaces, advocating for implementing a delay before showing tooltips to prevent accidental triggers, while also explaining scenarios where that delay should be skipped (such as keyboard focus or touch devices).",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Web APIs",
+    "Accessibility"
+  ],
+  "problem_solved": "Prevents annoying tooltips from appearing too quickly when users accidentally hover over interactive elements.",
+  "why_valuable": "Improves user experience by reducing tooltip noise while maintaining accessibility for keyboard and touch users.",
+  "tags": [
+    "UI/UX",
+    "Frontend",
+    "Accessibility",
+    "Web Development",
+    "User Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:58:19.023640+00:00",
+  "updated_at": "2026-08-26T09:01:20.074171+00:00",
+  "published_to": []
+}

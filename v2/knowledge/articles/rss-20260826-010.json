@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-010",
+  "source": "rss",
+  "source_url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+  "title": "C2PA Cameras Do Not Survive Contact with Reality",
+  "summary": "This article examines the practical limitations of C2PA (Coalition for Content Provenance and Authenticity) implementation in cameras, revealing that the content authenticity metadata fails to survive common real-world scenarios like basic image editing or format conversion. The author conducted hands-on testing to expose the gap between C2PA's promised capabilities and actual functionality.",
+  "tech_stack": [
+    "C2PA",
+    "Metadata",
+    "Android",
+    "Image Processing",
+    "Digital Forensics"
+  ],
+  "problem_solved": "Exposes why C2PA cameras fail to deliver reliable content authenticity verification in practice.",
+  "why_valuable": "Highlights critical flaws in digital content provenance standards that are increasingly important for combating AI-generated misinformation.",
+  "tags": [
+    "C2PA",
+    "Content Authenticity",
+    "Digital Forensics",
+    "Misinformation",
+    "Camera Metadata"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:55:59.617779+00:00",
+  "updated_at": "2026-08-26T09:01:20.067487+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-005",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2607.21503",
+  "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+  "summary": "This research paper examines how AI agents should architect their context and memory management systems, treating memory utilization and computational cost as core architectural decisions rather than implementation details. The paper explores strategies for optimizing context window usage while balancing performance and economic considerations in production AI systems.",
+  "tech_stack": [
+    "LLM",
+    "AI Agents",
+    "Context Windows",
+    "Token Management",
+    "Architectural Design"
+  ],
+  "problem_solved": "How to architect AI agents to efficiently manage limited context windows while optimizing for both performance and operational costs.",
+  "why_valuable": "Context management is one of the fundamental bottlenecks in AI agent systems, directly impacting reliability, scalability, and cost-effectiveness of production deployments.",
+  "tags": [
+    "AI Agents",
+    "Context Management",
+    "Memory Architecture",
+    "Cost Optimization",
+    "LLM Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-26T08:54:54.595582+00:00",
+  "updated_at": "2026-08-26T09:01:20.066791+00:00",
+  "published_to": []
+}

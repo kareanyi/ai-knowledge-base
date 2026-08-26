@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-013",
+  "source": "rss",
+  "source_url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+  "title": "Run OpenBSD on DigitalOcean for $4/month",
+  "summary": "A practical guide showing how to deploy and run OpenBSD on DigitalOcean's $4/month cloud VPS, bypassing DigitalOcean's lack of official OpenBSD support through custom installation methods.",
+  "tech_stack": [
+    "OpenBSD",
+    "DigitalOcean",
+    "Cloud VPS",
+    "Unix/Linux",
+    "Command Line"
+  ],
+  "problem_solved": "Enables users to run OpenBSD on affordable cloud infrastructure where it's not officially supported",
+  "why_valuable": "Provides a cost-effective ($4/month) way to leverage OpenBSD's security and simplicity in a cloud environment, benefiting developers seeking a secure self-hosted setup",
+  "tags": [
+    "OpenBSD",
+    "DigitalOcean",
+    "Cloud Computing",
+    "Self-hosting",
+    "Unix"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:56:59.665180+00:00",
+  "updated_at": "2026-08-26T09:01:20.073626+00:00",
+  "published_to": []
+}

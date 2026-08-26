@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260826-003",
+  "source": "rss",
+  "source_url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+  "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+  "summary": "Penn State researchers found that over half of US adults self-report lacking basic statistical understanding, indicating a significant gap in quantitative literacy that affects people's ability to interpret data and make informed decisions in daily life.",
+  "tech_stack": [],
+  "problem_solved": "Identifies the widespread statistical literacy deficiency among American adults.",
+  "why_valuable": "Highlights a critical educational gap that impacts decision-making across healthcare, finance, and civic engagement.",
+  "tags": [
+    "statistics",
+    "education",
+    "research",
+    "data-literacy",
+    "public-awareness"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-26T08:54:23.716221+00:00",
+  "updated_at": "2026-08-26T09:01:20.066401+00:00",
+  "published_to": []
+}

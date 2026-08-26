@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-018",
+  "source": "rss",
+  "source_url": "https://github.com/ThinkOffApp/CarWatch",
+  "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+  "summary": "A developer successfully deployed a 35B parameter Qwen language model on a Raspberry Pi to create a local car AI assistant. The system connects to the vehicle's ODB-II port for reading diagnostics, integrates with the manufacturer's cloud API for controlling functions like AC and door locks, and includes the full car manual as context. It operates offline for privacy-sensitive queries and can communicate with other AI agents in a discussion room.",
+  "tech_stack": [
+    "Raspberry Pi",
+    "Qwen 35B LLM",
+    "ODB-II Interface",
+    "Python",
+    "Cloud API Integration"
+  ],
+  "problem_solved": "Enables offline-capable, privacy-preserving voice and text interaction with vehicle systems and maintenance information without relying on cloud services.",
+  "why_valuable": "Democratizes smart car assistance by running capable AI on affordable edge hardware while maintaining full offline functionality and privacy.",
+  "tags": [
+    "Edge AI",
+    "Local LLM",
+    "IoT",
+    "Automotive Tech",
+    "Raspberry Pi"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-26T08:58:34.574175+00:00",
+  "updated_at": "2026-08-26T09:01:20.074304+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-014",
+  "source": "rss",
+  "source_url": "https://github.com/zedeus/nitter/issues/1442",
+  "title": "Nitter and XCancel receive cease and desist notices",
+  "summary": "Nitter, a popular open-source alternative frontend for Twitter, along with related service XCancel, has received cease and desist notices from Twitter/X. This represents another incident in the ongoing conflict between centralized social media platforms and the open-source community that builds alternative interfaces.",
+  "tech_stack": [
+    "Open Source",
+    "Web Scraping",
+    "GitHub",
+    "Frontend Development",
+    "RSS"
+  ],
+  "problem_solved": "Addresses privacy concerns and lack of ad-free alternatives when accessing Twitter/X content",
+  "why_valuable": "Demonstrates the ongoing tension between platform control and open-source alternatives, highlighting the importance of decentralized internet infrastructure and user privacy rights",
+  "tags": [
+    "Open Source",
+    "Privacy",
+    "Twitter",
+    "Legal",
+    "Decentralization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:57:24.537419+00:00",
+  "updated_at": "2026-08-26T09:01:20.073761+00:00",
+  "published_to": []
+}

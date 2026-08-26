@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-008",
+  "source": "rss",
+  "source_url": "https://github.com/swimmingbrain/texbrain",
+  "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+  "summary": "TeXbrain is a browser-based LaTeX editor that compiles pdfTeX to WebAssembly, allowing users to write LaTeX and get PDFs without any backend server. Built by a master's engineering student who wanted to avoid Overleaf's paid git sync feature, it stores all files locally in one folder on the user's disk as a static site.",
+  "tech_stack": [
+    "WebAssembly",
+    "pdfTeX",
+    "JavaScript",
+    "HTML/CSS",
+    "LocalStorage/FileSystem API"
+  ],
+  "problem_solved": "Provides a free, local-first LaTeX editor with PDF compilation without requiring subscriptions or cloud services for essential features like version control.",
+  "why_valuable": "It democratizes access to LaTeX editing by eliminating subscription costs while keeping all files local on the user's disk, giving full control and privacy over documents.",
+  "tags": [
+    "LaTeX",
+    "WebAssembly",
+    "Editor",
+    "Local-First",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-26T08:55:35.587653+00:00",
+  "updated_at": "2026-08-26T09:01:20.067222+00:00",
+  "published_to": []
+}

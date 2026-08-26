@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260826-009",
+  "source": "rss",
+  "source_url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+  "title": "When str.lower() is a security vulnerability in Python",
+  "summary": "This article explores how using Python's `str.lower()` for case-insensitive string comparisons can introduce security vulnerabilities, likely due to Unicode case mapping edge cases where certain characters transform unexpectedly, potentially allowing attackers to bypass authentication or validation checks.",
+  "tech_stack": [
+    "Python",
+    "Unicode"
+  ],
+  "problem_solved": "Identifies security vulnerabilities that arise from naive case-insensitive string comparisons using `str.lower()` in security-sensitive contexts.",
+  "why_valuable": "Reveals a subtle but critical security pitfall that many Python developers overlook when handling user input, case-insensitive matching, or authentication logic.",
+  "tags": [
+    "Python",
+    "Security",
+    "Unicode",
+    "Vulnerability",
+    "String-Handling"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-26T08:55:46.334247+00:00",
+  "updated_at": "2026-08-26T09:01:20.067355+00:00",
+  "published_to": []
+}

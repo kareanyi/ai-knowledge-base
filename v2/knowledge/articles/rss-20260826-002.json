@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-002",
+  "source": "rss",
+  "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "summary": "OpenAI's security team disrupted a Russian-linked covert influence campaign that was exploiting their AI models to generate and distribute political disinformation across social media platforms, marking one of the first major documented cases of state-sponsored actors using commercial AI for influence operations.",
+  "tech_stack": [
+    "OpenAI GPT Models",
+    "Content Detection Systems",
+    "Social Media Analytics",
+    "Attribution Technology",
+    "Digital Forensics"
+  ],
+  "problem_solved": "Addresses the weaponization of AI technology by nation-state actors for conducting sophisticated influence and disinformation campaigns at scale.",
+  "why_valuable": "Demonstrates proactive platform governance by AI companies and provides transparency into how AI systems are being misused for geopolitical manipulation, setting precedent for industry-wide security responses.",
+  "tags": [
+    "AI Security",
+    "Disinformation",
+    "Nation-State Threats",
+    "Influence Operations",
+    "Platform Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:54:12.831369+00:00",
+  "updated_at": "2026-08-26T09:01:20.066247+00:00",
+  "published_to": []
+}

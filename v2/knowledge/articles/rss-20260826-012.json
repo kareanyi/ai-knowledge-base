@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-012",
+  "source": "rss",
+  "source_url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+  "title": "Firefox 157 will include JPEG XL by default on all platforms",
+  "summary": "Firefox 157 will enable JPEG XL image format support by default across all platforms, marking a significant milestone for the modern image format that offers better compression and quality than traditional JPEG/PNG.",
+  "tech_stack": [
+    "Firefox",
+    "JPEG XL",
+    "C++",
+    "Web Standards",
+    "Browser Engine"
+  ],
+  "problem_solved": "Provides native browser support for JPEG XL, a modern image format with superior compression efficiency, lossless recompression, and HDR capabilities.",
+  "why_valuable": "JPEG XL adoption in major browsers like Firefox will enable faster web page loads with better image quality, reducing bandwidth costs and improving user experience.",
+  "tags": [
+    "Browser",
+    "JPEG XL",
+    "Image Format",
+    "Mozilla",
+    "Web Standards"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:56:43.107465+00:00",
+  "updated_at": "2026-08-26T09:01:20.073482+00:00",
+  "published_to": []
+}

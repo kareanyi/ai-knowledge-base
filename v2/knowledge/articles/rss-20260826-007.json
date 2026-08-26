@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260826-007",
+  "source": "rss",
+  "source_url": "https://github.com/runetes/maiao",
+  "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+  "summary": "Maiao is a CLI tool that brings Gerrit's linear code review workflow to GitHub, GitLab, Gitea, and other Git hosting platforms. It enables teams to use the superior commit-based review model popularized by Gerrit while leveraging their preferred Git platform.",
+  "tech_stack": [
+    "Go",
+    "Git",
+    "GitHub API",
+    "GitLab API"
+  ],
+  "problem_solved": "Enables Gerrit-style linear code review workflow on platforms that traditionally only support fork-based workflows.",
+  "why_valuable": "Combines Gerrit's mature, commit-based review process with the flexibility of modern Git hosting platforms, improving code quality for teams.",
+  "tags": [
+    "CodeReview",
+    "Git",
+    "DevOps",
+    "CLI",
+    "DeveloperTools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:55:20.995310+00:00",
+  "updated_at": "2026-08-26T09:01:20.067085+00:00",
+  "published_to": []
+}

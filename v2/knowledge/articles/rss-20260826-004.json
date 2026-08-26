@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260826-004",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+  "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+  "summary": "The IBM 7950 Harvest was a specialized supercomputer developed by IBM for the NSA during the Cold War, designed specifically for cryptanalysis and codebreaking operations. It represents a unique collaboration between commercial technology and government intelligence needs during the Cold War era.",
+  "tech_stack": [
+    "Custom IBM Hardware",
+    "Specialized Processor Architecture",
+    "Mainframe Systems"
+  ],
+  "problem_solved": "Provided the NSA with unprecedented computational power to break enemy cryptographic codes and ciphers during the Cold War.",
+  "why_valuable": "It offers insight into the intersection of government intelligence and computing technology, showing how classified hardware development shaped both cryptography and mainstream computing advances.",
+  "tags": [
+    "Cold War",
+    "NSA",
+    "Supercomputer",
+    "Cryptanalysis",
+    "Historical Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:54:40.212606+00:00",
+  "updated_at": "2026-08-26T09:01:20.066602+00:00",
+  "published_to": []
+}

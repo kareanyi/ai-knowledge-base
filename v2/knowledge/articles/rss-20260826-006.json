@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-006",
+  "source": "rss",
+  "source_url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+  "title": "Queryable Executables",
+  "summary": "This blog post explores techniques for making compiled executables inherently queryable and inspectable, allowing users to extract metadata, dependencies, and other information directly from binaries without relying on external tools or debugging symbols.",
+  "tech_stack": [
+    "ELF",
+    "Binary Analysis",
+    "Linux",
+    "Linkers",
+    "Debugging"
+  ],
+  "problem_solved": "Addresses the challenge of inspecting and understanding executables without relying on separate debugging information or external tooling.",
+  "why_valuable": "Enables better binary introspection, security auditing, and developer tooling by embedding query capabilities directly into compiled executables.",
+  "tags": [
+    "Executable",
+    "Binary",
+    "ELF",
+    "Introspection",
+    "Debugging"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-26T08:55:05.936494+00:00",
+  "updated_at": "2026-08-26T09:01:20.066952+00:00",
+  "published_to": []
+}

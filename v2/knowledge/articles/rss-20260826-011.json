@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-011",
+  "source": "rss",
+  "source_url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+  "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+  "summary": "The FDA has authorized the first wearable medical device that continuously monitors both ketone levels and blood sugar simultaneously, marking a significant advancement in diabetes management technology.",
+  "tech_stack": [
+    "Biosensor Technology",
+    "Wearable Hardware",
+    "Continuous Glucose Monitoring (CGM)",
+    "Medical Device Sensors",
+    "Real-time Monitoring"
+  ],
+  "problem_solved": "Provides continuous dual monitoring of blood glucose and ketones to help diabetics and healthcare providers detect dangerous metabolic states earlier than traditional periodic testing methods.",
+  "why_valuable": "Enables proactive management of diabetes by detecting ketoacidosis risk in real-time, potentially preventing life-threatening complications through continuous data tracking.",
+  "tags": [
+    "Medical Devices",
+    "Wearable Technology",
+    "Healthcare",
+    "Diabetes Management",
+    "FDA Approval"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-26T08:56:14.356047+00:00",
+  "updated_at": "2026-08-26T09:01:20.073318+00:00",
+  "published_to": []
+}
