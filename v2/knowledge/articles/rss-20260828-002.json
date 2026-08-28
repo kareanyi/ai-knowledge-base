@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260828-002",
+  "source": "rss",
+  "source_url": "https://github.com/sseshachala/conductai",
+  "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+  "summary": "Conduct is an open-source safety framework providing guardrails for LLM and MCP (Model Context Protocol) tool calls, helping developers add security and control mechanisms to their AI applications without building safety layers from scratch.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "MCP",
+    "LLM APIs"
+  ],
+  "problem_solved": "Provides standardized safety guardrails to prevent LLM applications from making unauthorized tool calls or generating harmful outputs.",
+  "why_valuable": "Enables developers to quickly implement production-grade safety controls for AI systems, reducing the risk of unintended behavior in LLM-powered applications.",
+  "tags": [
+    "AI",
+    "Guardrails",
+    "LLM",
+    "Security",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-28T20:08:41.865002+00:00",
+  "updated_at": "2026-08-28T20:14:04.839359+00:00",
+  "published_to": []
+}

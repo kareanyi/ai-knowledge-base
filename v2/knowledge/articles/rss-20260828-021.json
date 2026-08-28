@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260828-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+  "title": "A quarter of Nvidia&#8217;s business next year comes from labs it is financing",
+  "summary": "Nvidia has invested nearly $50 billion into AI labs that purchase its chips, with commitments exceeding $500 billion, and CFO Colette Kress revealed these financed labs will account for roughly a quarter of Nvidia's business next year, creating a circular financing model in the AI industry.",
+  "tech_stack": [
+    "GPU Hardware",
+    "AI Infrastructure",
+    "Cloud Computing"
+  ],
+  "problem_solved": "This article illuminates the interconnected financial relationships and potential market risks in the AI chip industry where Nvidia both finances and supplies AI research labs.",
+  "why_valuable": "It reveals a significant circular business dependency in AI infrastructure that could impact market stability and raise regulatory concerns about market concentration.",
+  "tags": [
+    "AI Hardware",
+    "Investment",
+    "Business Strategy",
+    "GPU Market",
+    "Tech Finance"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-28T20:12:14.898566+00:00",
+  "updated_at": "2026-08-28T20:14:04.848971+00:00",
+  "published_to": []
+}

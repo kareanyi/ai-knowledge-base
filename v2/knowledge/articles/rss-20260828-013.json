@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260828-013",
+  "source": "rss",
+  "source_url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+  "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+  "summary": "An article exploring the German term 'Verschlimmbesserung' - the phenomenon of making something worse while attempting to improve it - applied to software development and updates. The author discusses how well-intentioned code changes, refactoring, or feature additions often end up degrading user experience or introducing new bugs.",
+  "tech_stack": [
+    "General Software Engineering",
+    "Web Technologies"
+  ],
+  "problem_solved": "Addresses the common software engineering anti-pattern where updates and improvements inadvertently make products worse for users.",
+  "why_valuable": "It provides valuable vocabulary and awareness to help developers recognize, discuss, and consciously avoid the trap of making improvements that ultimately harm the user experience.",
+  "tags": [
+    "Software Engineering",
+    "Best Practices",
+    "Anti-patterns",
+    "Software Quality",
+    "Refactoring"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:10:49.484813+00:00",
+  "updated_at": "2026-08-28T20:14:04.847684+00:00",
+  "published_to": []
+}

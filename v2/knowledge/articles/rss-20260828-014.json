@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-014",
+  "source": "rss",
+  "source_url": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
+  "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+  "summary": "Scott Hanselman documents his systematic debugging process when his 10 Gigabit Ethernet network was mysteriously limited to 300 Megabits speeds, walking through the troubleshooting steps he took to identify and resolve the bottleneck issue.",
+  "tech_stack": [
+    "Network Hardware",
+    "Ethernet",
+    "Network Diagnostics",
+    "Windows Networking",
+    "Switches"
+  ],
+  "problem_solved": "Diagnoses why 10Gbps network hardware delivers only 300Mbps throughput and how to fix it.",
+  "why_valuable": "Provides a real-world case study in network troubleshooting methodology that helps readers understand how to systematically isolate and resolve network performance bottlenecks.",
+  "tags": [
+    "Networking",
+    "Debugging",
+    "Troubleshooting",
+    "Hardware",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:10:59.944896+00:00",
+  "updated_at": "2026-08-28T20:14:04.847861+00:00",
+  "published_to": []
+}

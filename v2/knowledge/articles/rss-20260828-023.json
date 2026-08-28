@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+  "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+  "summary": "NVIDIA发布了Jetson Orin Nano 2，这是一款面向边缘机器人的计算平台，专注于物理AI应用，可部署在无人机、机器人和视觉系统上。该平台为开发者提供了一个入门级选项，使他们能够在本地设备上直接运行生成式AI模型，而无需依赖远程数据中心。",
+  "tech_stack": [
+    "NVIDIA Jetson Orin Nano",
+    "Edge AI",
+    "Physical AI",
+    "Generative AI",
+    "Robotics"
+  ],
+  "problem_solved": "解决了边缘设备无法本地运行复杂AI模型的问题，使无人机和机器人等设备能够独立执行生成式AI任务。",
+  "why_valuable": "它将AI计算能力从云端延伸到边缘设备，实现了更低延迟、更高隐私保护以及离线可用的AI应用场景。",
+  "tags": [
+    "NVIDIA",
+    "Edge AI",
+    "Robotics",
+    "Physical AI",
+    "Hardware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:12:37.359317+00:00",
+  "updated_at": "2026-08-28T20:14:04.849306+00:00",
+  "published_to": []
+}

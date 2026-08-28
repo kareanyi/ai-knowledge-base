@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260828-001",
+  "source": "rss",
+  "source_url": "https://tmog.org",
+  "title": "The OG Creator of Task Manager on Windows Built a New Task Manager",
+  "summary": "The original developer of Windows Task Manager has created a new, modern task manager application. This is significant news as the creator brings decades of expertise in system monitoring and performance management to build an improved successor.",
+  "tech_stack": [
+    "Windows",
+    "System Utilities",
+    "Desktop Application"
+  ],
+  "problem_solved": "Provides a modern replacement for Windows Task Manager with improved features designed by the person who originally created the iconic system utility.",
+  "why_valuable": "The credibility and expertise of the original Task Manager creator gives this project unique legitimacy and potential for addressing long-standing pain points in system monitoring tools.",
+  "tags": [
+    "Windows",
+    "Task Manager",
+    "System Utility",
+    "Developer Tools",
+    "Productivity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:08:28.711316+00:00",
+  "updated_at": "2026-08-28T20:14:04.839037+00:00",
+  "published_to": []
+}

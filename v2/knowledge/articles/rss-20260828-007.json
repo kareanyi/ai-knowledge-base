@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260828-007",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+  "title": "Just the rumour of a bug is enough to find an exploit these days",
+  "summary": "This article discusses how modern security research has evolved to the point where even a rumor or hint about a bug can trigger rapid vulnerability discovery and exploitation, highlighting the interconnected nature of today's security community and the speed of information propagation.",
+  "tech_stack": [
+    "Security Research",
+    "Reverse Engineering",
+    "Fuzzing",
+    "Exploit Development"
+  ],
+  "problem_solved": "Examines how the security community can quickly find and weaponize exploits from minimal information about potential vulnerabilities.",
+  "why_valuable": "Provides valuable insights into the current state of security research culture and the challenges of responsible disclosure in an era of instant information sharing.",
+  "tags": [
+    "cybersecurity",
+    "vulnerability-research",
+    "exploitation",
+    "responsible-disclosure",
+    "security-culture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:09:32.634285+00:00",
+  "updated_at": "2026-08-28T20:14:04.839986+00:00",
+  "published_to": []
+}

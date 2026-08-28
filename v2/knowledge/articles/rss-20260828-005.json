@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-005",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2608.23691",
+  "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+  "summary": "This research paper explores using multi-agent AI systems for autonomous mathematical discovery in open-world environments, where multiple AI agents collaborate to explore, conjecture, and potentially prove mathematical theorems without human intervention.",
+  "tech_stack": [
+    "Large Language Models",
+    "Multi-Agent Systems",
+    "Python",
+    "Reasoning Engines",
+    "Open-World Reasoning"
+  ],
+  "problem_solved": "Enables AI systems to autonomously perform mathematical research and discovery that traditionally requires human mathematicians.",
+  "why_valuable": "It represents a significant step toward AI systems that can contribute novel mathematical knowledge and accelerate scientific discovery beyond pattern recognition.",
+  "tags": [
+    "AI Agents",
+    "Mathematical AI",
+    "Multi-Agent Systems",
+    "Autonomous Discovery",
+    "Research Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-28T20:09:07.844876+00:00",
+  "updated_at": "2026-08-28T20:14:04.839754+00:00",
+  "published_to": []
+}

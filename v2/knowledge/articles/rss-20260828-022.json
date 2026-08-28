@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+  "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+  "summary": "Gatik, an autonomous trucking company, raised $200 million in Series D funding led by Qatar Investment Authority and Koch Disruptive Technologies to scale its AI-powered driverless freight operations across North America. The company has now secured over $600 million in total funding, demonstrating strong investor confidence in autonomous freight solutions.",
+  "tech_stack": [
+    "AI",
+    "Autonomous Driving",
+    "Computer Vision",
+    "Lidar",
+    "Machine Learning"
+  ],
+  "problem_solved": "Addresses the trucking industry driver shortage and the demand for efficient, round-the-clock freight transportation without human drivers.",
+  "why_valuable": "Enables 24/7 autonomous freight delivery, reducing labor costs, improving supply chain reliability, and accelerating the commercialization of autonomous logistics at scale.",
+  "tags": [
+    "Autonomous Vehicles",
+    "AI",
+    "Freight Logistics",
+    "Self-Driving Trucks",
+    "Series D"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:12:25.089585+00:00",
+  "updated_at": "2026-08-28T20:14:04.849145+00:00",
+  "published_to": []
+}

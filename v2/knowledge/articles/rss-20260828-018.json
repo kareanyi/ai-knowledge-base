@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260828-018",
+  "source": "rss",
+  "source_url": "https://www.inventati.org/",
+  "title": "U.S. sanctions against the A/I Collective",
+  "summary": "The U.S. Government has sanctioned Autistici Inventati (A/I Collective), an Italian privacy-focused hosting provider known for hosting noblogs.org and providing anonymization services. The organization was designated as a 'global terrorist' entity, marking a significant escalation in government action against privacy-preserving infrastructure.",
+  "tech_stack": [
+    "Linux servers",
+    "Tor/Onion services",
+    "Privacy encryption tools",
+    "Anonymous hosting infrastructure"
+  ],
+  "problem_solved": "A/I Collective previously provided secure, privacy-preserving hosting and communication tools for activists, journalists, and researchers who needed protection from surveillance.",
+  "why_valuable": "This event highlights the growing tension between privacy rights, online anonymity tools, and government counterterrorism efforts, potentially setting precedent for future actions against privacy infrastructure.",
+  "tags": [
+    "Privacy",
+    "Censorship",
+    "Cybersecurity",
+    "Anonymity",
+    "Activism"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:11:41.336537+00:00",
+  "updated_at": "2026-08-28T20:14:04.848512+00:00",
+  "published_to": []
+}

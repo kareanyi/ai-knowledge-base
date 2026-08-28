@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260828-016",
+  "source": "rss",
+  "source_url": "https://en.refund4freedom.org/",
+  "title": "Get your Windows license refund",
+  "summary": "A consumer advocacy guide helping users exercise their legal rights to request refunds for unused or unwanted Windows licenses, potentially leveraging EU consumer protection laws and Microsoft's refund policies.",
+  "tech_stack": [
+    "Web Technologies (static site)",
+    "Legal/Policy Framework"
+  ],
+  "problem_solved": "Helps consumers recover money spent on Windows licenses they don't use or didn't intend to purchase.",
+  "why_valuable": "Empowers users to reclaim software costs through legitimate refund requests, potentially saving hundreds of dollars per license.",
+  "tags": [
+    "Windows",
+    "Refunds",
+    "Consumer Rights",
+    "Software Licensing",
+    "Legal"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:11:21.045322+00:00",
+  "updated_at": "2026-08-28T20:14:04.848202+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-011",
+  "source": "rss",
+  "source_url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+  "title": "GUIs should be fully keyboard-driven",
+  "summary": "This opinion piece argues that modern graphical user interfaces should be designed to be fully operable via keyboard, highlighting the productivity and accessibility benefits of keyboard-driven navigation over mouse-centric interactions.",
+  "tech_stack": [
+    "UI/UX Design",
+    "Accessibility Standards",
+    "Keyboard Shortcuts",
+    "Terminal Emulators",
+    "Window Managers"
+  ],
+  "problem_solved": "Addresses the common issue of software that requires mouse interaction for basic tasks, limiting efficiency and accessibility for power users and those with mobility impairments.",
+  "why_valuable": "Advocates for inclusive design that improves productivity, reduces context-switching friction, and makes software accessible to users who cannot use traditional pointing devices.",
+  "tags": [
+    "Accessibility",
+    "Keyboard Navigation",
+    "UI/UX Design",
+    "Productivity",
+    "User Experience"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-28T20:10:25.753525+00:00",
+  "updated_at": "2026-08-28T20:14:04.847309+00:00",
+  "published_to": []
+}

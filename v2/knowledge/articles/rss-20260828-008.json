@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-008",
+  "source": "rss",
+  "source_url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+  "title": "EasyEffects can massively improve laptop speaker sound quality",
+  "summary": "这篇文章介绍 EasyEffects 如何通过音频处理显著提升 Linux 笔记本电脑的扬声器音质，作者认为它应该成为每个 Linux 发行版的默认组件。这是一个开源的 PipeWire 音频处理工具，提供均衡器、压缩器、限制器等音效增强功能。",
+  "tech_stack": [
+    "Linux",
+    "EasyEffects",
+    "PipeWire",
+    "GStreamer",
+    "PulseAudio"
+  ],
+  "problem_solved": "解决笔记本电脑扬声器音质单薄、低音不足的问题",
+  "why_valuable": "无需专业音频知识即可一键改善音频输出质量，提升日常使用体验",
+  "tags": [
+    "Linux",
+    "Audio",
+    "Open Source",
+    "Desktop",
+    "PipeWire"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:09:58.303290+00:00",
+  "updated_at": "2026-08-28T20:14:04.840154+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260828-017",
+  "source": "rss",
+  "source_url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+  "title": "Htmx 4.0",
+  "summary": "Htmx 4.0 is a major release of the JavaScript library that enables dynamic web interactions using pure HTML attributes. This version marks a significant milestone with improved performance, better ESM support, and updated dependencies.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML",
+    "ESM",
+    "CSS"
+  ],
+  "problem_solved": "Simplifies building interactive web applications by allowing developers to use HTML attributes instead of writing complex JavaScript for AJAX, WebSockets, and server-sent events.",
+  "why_valuable": "Reduces frontend complexity and improves developer productivity by leveraging hypermedia as the core interaction model, making web development more accessible.",
+  "tags": [
+    "JavaScript",
+    "Frontend",
+    "Web Development",
+    "HTML",
+    "Library"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-28T20:11:28.910628+00:00",
+  "updated_at": "2026-08-28T20:14:04.848353+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-004",
+  "source": "rss",
+  "source_url": "https://handbook.sutro.sh",
+  "title": "The Analytical AI Handbook",
+  "summary": "The Analytical AI Handbook from Sutro is a comprehensive guide focused on analytical AI applications and methodologies, likely covering practical approaches to implementing AI-driven data analysis. It provides structured guidance for leveraging AI in analytical contexts.",
+  "tech_stack": [
+    "AI/ML",
+    "LLM",
+    "Analytics",
+    "Data Processing",
+    "Documentation"
+  ],
+  "problem_solved": "Provides structured guidance and best practices for implementing analytical AI solutions effectively.",
+  "why_valuable": "Offers practical, consolidated knowledge for practitioners looking to understand and apply analytical AI techniques.",
+  "tags": [
+    "AI",
+    "Analytics",
+    "Handbook",
+    "LLM",
+    "Data Science"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-28T20:08:59.471776+00:00",
+  "updated_at": "2026-08-28T20:14:04.839635+00:00",
+  "published_to": []
+}

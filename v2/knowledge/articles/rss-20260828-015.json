@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-015",
+  "source": "rss",
+  "source_url": "https://2026.stateofthemap.org/",
+  "title": "State of the Map 2026",
+  "summary": "State of the Map 2026 is the annual international conference for the OpenStreetMap community, bringing together mappers, developers, researchers, and enthusiasts to discuss the future of collaborative mapping, share innovations, and strengthen the global open mapping ecosystem.",
+  "tech_stack": [
+    "OpenStreetMap",
+    "GIS",
+    "PostgreSQL/PostGIS",
+    "JavaScript",
+    "Python"
+  ],
+  "problem_solved": "Provides a centralized platform for the global OpenStreetMap community to exchange knowledge, showcase projects, and address challenges in open-source mapping.",
+  "why_valuable": "Advances open-source mapping collaboration worldwide by connecting contributors across borders and fostering innovation in geospatial data.",
+  "tags": [
+    "OpenStreetMap",
+    "Open Data",
+    "GIS",
+    "Mapping",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-28T20:11:09.589535+00:00",
+  "updated_at": "2026-08-28T20:14:04.848027+00:00",
+  "published_to": []
+}

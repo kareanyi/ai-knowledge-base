@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-003",
+  "source": "rss",
+  "source_url": "https://bumbletap.com/blog/chrome-manifest-v2-extensions-removed",
+  "title": "Chrome Deletes the Last Manifest V2 Extensions on August 31",
+  "summary": "Google Chrome is removing all Manifest V2 extensions on August 31, forcing developers to migrate their extensions to Manifest V3 API or face discontinuation. This marks the end of Chrome's support for the legacy extension framework that has been used for over a decade.",
+  "tech_stack": [
+    "Chrome Extensions",
+    "Manifest V2",
+    "Manifest V3",
+    "WebExtensions API",
+    "JavaScript"
+  ],
+  "problem_solved": "Addresses the deadline for Chrome extension developers to migrate from Manifest V2 to Manifest V3 before extensions become non-functional.",
+  "why_valuable": "Critical awareness for extension developers to act before the August 31 deadline to avoid their extensions being automatically disabled.",
+  "tags": [
+    "Chrome",
+    "Browser Extensions",
+    "Manifest V3 Migration",
+    "Google Chrome",
+    "WebExtensions"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-08-28T20:08:49.955997+00:00",
+  "updated_at": "2026-08-28T20:14:04.839501+00:00",
+  "published_to": []
+}
