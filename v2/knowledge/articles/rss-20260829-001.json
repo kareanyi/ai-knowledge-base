@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260829-001",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+  "title": "Iceland votes on whether to restart talks on joining EU",
+  "summary": "Iceland is holding a vote on whether to resume negotiations for joining the European Union, a decision that could reshape the country's relationship with Europe. The referendum comes after years of paused talks, reflecting complex public sentiment about EU membership and national sovereignty.",
+  "tech_stack": [
+    "None"
+  ],
+  "problem_solved": "This is a political news article, not a technology-related content.",
+  "why_valuable": "Provides insight into Iceland's democratic process and potential future geopolitical alignment decisions.",
+  "tags": [
+    "Politics",
+    "EU",
+    "Iceland",
+    "Referendum",
+    "International Relations"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-29T13:46:21.363657+00:00",
+  "updated_at": "2026-08-29T13:51:41.082846+00:00",
+  "published_to": []
+}

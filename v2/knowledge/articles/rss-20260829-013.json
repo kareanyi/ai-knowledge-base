@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-013",
+  "source": "rss",
+  "source_url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+  "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+  "summary": "A technical deep-dive into discovering and debugging a network polling (netpoll) bug in the Go runtime specifically affecting 32-bit embedded systems. The article documents the investigation process of a low-level runtime issue that causes problems in resource-constrained environments.",
+  "tech_stack": [
+    "Go",
+    "C",
+    "Assembly",
+    "Embedded Systems",
+    "Linux"
+  ],
+  "problem_solved": "Diagnoses and traces a bug in Go's network polling implementation that manifests only on 32-bit embedded platforms due to pointer/size handling differences.",
+  "why_valuable": "Provides rare insights into Go runtime internals debugging and helps embedded developers avoid or fix similar issues in production IoT and embedded applications.",
+  "tags": [
+    "Go",
+    "Runtime",
+    "Bug",
+    "Embedded",
+    "Debugging"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-29T13:49:48.564149+00:00",
+  "updated_at": "2026-08-29T13:51:41.090177+00:00",
+  "published_to": []
+}

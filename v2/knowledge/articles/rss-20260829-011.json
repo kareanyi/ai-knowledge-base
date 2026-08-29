@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-011",
+  "source": "rss",
+  "source_url": "https://12factor.net/",
+  "title": "The Twelve-Factor App (2025)",
+  "summary": "The Twelve-Factor App is a methodology for building modern software-as-a-service applications, originally authored by Heroku engineers in 2011, outlining 12 best practices for configuration management, deployment, and development workflow that ensure portability, scalability, and maintainability across different environments.",
+  "tech_stack": [
+    "Cloud Platforms",
+    "Containerization",
+    "CI/CD Pipelines",
+    "DevOps Practices",
+    "Web Frameworks"
+  ],
+  "problem_solved": "It solves inconsistent application design problems that arise when software behaves differently across development, staging, and production environments.",
+  "why_valuable": "It provides a universal framework accepted by the industry that ensures applications can be deployed anywhere, scale effortlessly, and maintain consistency across teams and environments.",
+  "tags": [
+    "SaaS",
+    "Cloud Native",
+    "DevOps",
+    "Best Practices",
+    "Architecture"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-29T13:49:32.032335+00:00",
+  "updated_at": "2026-08-29T13:51:41.084849+00:00",
+  "published_to": []
+}

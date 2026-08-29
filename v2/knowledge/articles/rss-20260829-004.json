@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260829-004",
+  "source": "rss",
+  "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+  "title": "Our decision on Cursor following its acquisition by SpaceX",
+  "summary": "This OpenAI article discusses their strategic decision regarding Cursor following its acquisition by SpaceX, examining the implications for the AI-powered code editing market and potential conflicts of interest in the AI ecosystem.",
+  "tech_stack": [
+    "AI",
+    "Code Editor Technology",
+    "Machine Learning"
+  ],
+  "problem_solved": "Addresses strategic positioning and competitive dynamics in the AI tooling space following a major industry acquisition.",
+  "why_valuable": "Provides transparency on corporate decision-making processes and ecosystem relationships in the rapidly evolving AI industry.",
+  "tags": [
+    "AI Strategy",
+    "Corporate Decisions",
+    "OpenAI",
+    "Cursor",
+    "SpaceX"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-29T13:46:51.074954+00:00",
+  "updated_at": "2026-08-29T13:51:41.083500+00:00",
+  "published_to": []
+}

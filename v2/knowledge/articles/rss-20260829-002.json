@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-002",
+  "source": "rss",
+  "source_url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+  "title": "Samsung's Processing-in-Memory (PIM)",
+  "summary": "Samsung's Processing-in-Memory (PIM) technology integrates computation directly into HBM memory, enabling in-memory data processing to eliminate the memory bandwidth bottleneck and reduce data movement energy costs in AI and high-performance computing workloads.",
+  "tech_stack": [
+    "Processing-in-Memory",
+    "HBM",
+    "Custom ASIC",
+    "DRAM",
+    "AI Accelerators"
+  ],
+  "problem_solved": "Eliminates the memory wall problem by performing computations where data resides, reducing costly data movement between processor and memory.",
+  "why_valuable": "Dramatically improves performance and energy efficiency for AI/ML workloads by avoiding expensive memory accesses and leveraging massive parallelism in memory arrays.",
+  "tags": [
+    "Processing-in-Memory",
+    "HBM",
+    "AI Acceleration",
+    "Memory Architecture",
+    "Semiconductor"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-29T13:46:31.583358+00:00",
+  "updated_at": "2026-08-29T13:51:41.083086+00:00",
+  "published_to": []
+}

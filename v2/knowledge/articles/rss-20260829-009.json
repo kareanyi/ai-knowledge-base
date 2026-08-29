@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-009",
+  "source": "rss",
+  "source_url": "https://github.com/Lakr233/vphone-cli",
+  "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+  "summary": "A command-line tool that leverages Apple's official Virtualization.framework to boot and run a virtual iPhone environment directly on macOS, enabling developers and researchers to experiment with iOS virtualization without dedicated hardware.",
+  "tech_stack": [
+    "Swift",
+    "Apple Virtualization.framework",
+    "macOS",
+    "Xcode",
+    "Hypervisor.framework"
+  ],
+  "problem_solved": "Enables running virtual iOS devices on Apple Silicon Macs for development, testing, and research purposes without physical iPhone hardware.",
+  "why_valuable": "Provides open-source access to Apple's native virtualization capabilities, democratizing iOS development and security research by removing the dependency on physical iOS devices.",
+  "tags": [
+    "iOS",
+    "Virtualization",
+    "Apple Silicon",
+    "macOS",
+    "CLI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-29T13:47:48.456116+00:00",
+  "updated_at": "2026-08-29T13:51:41.084460+00:00",
+  "published_to": []
+}

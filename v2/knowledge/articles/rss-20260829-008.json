@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-008",
+  "source": "rss",
+  "source_url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+  "title": "I accidentally turned LLM memory into program analysis",
+  "summary": "The author describes an accidental discovery where they repurposed LLM memory mechanisms (likely retrieval-augmented generation or context management systems) to perform program analysis tasks, demonstrating an unconventional but clever crossover between AI architecture and traditional software security analysis.",
+  "tech_stack": [
+    "LLM",
+    "Python",
+    "Program Analysis",
+    "Security Tools",
+    "Context Memory Systems"
+  ],
+  "problem_solved": "Explores using existing LLM memory and retrieval mechanisms as a novel approach to analyze and understand program code structure and behavior.",
+  "why_valuable": "Demonstrates creative cross-domain application of LLM architecture that could provide new tooling for security researchers and developers at minimal implementation cost.",
+  "tags": [
+    "LLM",
+    "Program Analysis",
+    "Security Research",
+    "AI",
+    "Bug Bounty"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-29T13:47:40.632966+00:00",
+  "updated_at": "2026-08-29T13:51:41.084247+00:00",
+  "published_to": []
+}

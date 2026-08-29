@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-005",
+  "source": "rss",
+  "source_url": "https://github.com/stemdeckapp/stemdeck",
+  "title": "StemDeck, a free, open-source and local AI stem separator",
+  "summary": "StemDeck is a free, open-source, and local AI-powered audio stem separator that allows users to extract individual instrument tracks (vocals, drums, bass, etc.) from audio files without internet connectivity or subscription fees.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Demucs",
+    "FFmpeg",
+    "CUDA"
+  ],
+  "problem_solved": "Eliminates the need for expensive cloud-based stem separation services by providing a free, private, and offline audio stem extraction tool.",
+  "why_valuable": "It democratizes audio production by offering free, local stem separation that preserves user privacy and eliminates recurring subscription costs.",
+  "tags": [
+    "AI",
+    "Audio Processing",
+    "Open Source",
+    "Local AI",
+    "Stem Separation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-29T13:47:02.965877+00:00",
+  "updated_at": "2026-08-29T13:51:41.083692+00:00",
+  "published_to": []
+}

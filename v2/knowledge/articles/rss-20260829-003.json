@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260829-003",
+  "source": "rss",
+  "source_url": "https://github.com/kingroryg/turbokv",
+  "title": "TurboKV: Insanely fast Rust key-value store",
+  "summary": "TurboKV is a high-performance key-value store written in Rust, designed to deliver exceptional speed and low-latency data access. The project leverages Rust's memory safety guarantees and zero-cost abstractions to compete with traditional high-speed KV stores.",
+  "tech_stack": [
+    "Rust",
+    "Async I/O",
+    "Memory-mapped files",
+    "Lock-free data structures"
+  ],
+  "problem_solved": "Provides extremely fast key-value storage with minimal latency for high-throughput applications",
+  "why_valuable": "Combines Rust's performance and safety features to deliver Redis-competitive speeds with stronger memory safety guarantees",
+  "tags": [
+    "Rust",
+    "Key-Value Store",
+    "High Performance",
+    "Database",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-29T13:46:40.216328+00:00",
+  "updated_at": "2026-08-29T13:51:41.083282+00:00",
+  "published_to": []
+}

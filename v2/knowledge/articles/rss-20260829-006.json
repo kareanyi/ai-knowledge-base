@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-006",
+  "source": "rss",
+  "source_url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+  "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+  "summary": "An exploratory article investigating potential correlations between the Sumerian King List (ancient Mesopotamian king succession records) and paleoclimate data, using data analysis to examine whether historical royal reigns align with known climate events like droughts or floods in ancient Mesopotamia.",
+  "tech_stack": [
+    "Data Visualization",
+    "Python",
+    "JavaScript",
+    "Web Development",
+    "D3.js"
+  ],
+  "problem_solved": "Explores whether historical narratives and climate science data corroborate each other in ancient Mesopotamia.",
+  "why_valuable": "This interdisciplinary approach bridges archaeology and climate science, potentially offering new insights into ancient historical events and validating traditional sources through scientific data.",
+  "tags": [
+    "Archaeology",
+    "Ancient History",
+    "Paleoclimatology",
+    "Data Analysis",
+    "Mesopotamia"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-29T13:47:16.400280+00:00",
+  "updated_at": "2026-08-29T13:51:41.083878+00:00",
+  "published_to": []
+}
