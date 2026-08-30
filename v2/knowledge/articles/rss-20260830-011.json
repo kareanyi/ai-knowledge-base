@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-011",
+  "source": "rss",
+  "source_url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+  "title": "Everyone Should Build Their Own Network Stack",
+  "summary": "A technical blog post (part 2 of a series) about building your own network infrastructure using DN42 (Decentralized Network 42), a private network experiment that allows enthusiasts to practice networking skills like BGP routing and VPN configuration in a real-world environment without relying on commercial ISPs.",
+  "tech_stack": [
+    "BGP",
+    "WireGuard",
+    "Linux",
+    "Docker",
+    "DNS"
+  ],
+  "problem_solved": "Provides hands-on networking education by guiding readers through building personal network infrastructure from scratch",
+  "why_valuable": "Fills the gap between theoretical networking knowledge and practical experience by offering a safe, legal sandbox to experiment with real-world protocols and configurations",
+  "tags": [
+    "networking",
+    "DN42",
+    "self-hosted",
+    "BGP",
+    "infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:47:16.268591+00:00",
+  "updated_at": "2026-08-30T13:49:16.201733+00:00",
+  "published_to": []
+}

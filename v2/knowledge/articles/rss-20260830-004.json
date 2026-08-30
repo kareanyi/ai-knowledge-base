@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260830-004",
+  "source": "rss",
+  "source_url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+  "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+  "summary": "这是一个为 Windows 3.1x 及更高版本编写的 Conway's Game of Life（康威生命游戏）实现项目，由知名程序员 Brian Raiter 创建，展示了对经典平台的编程支持。",
+  "tech_stack": [
+    "C语言",
+    "Windows API",
+    "Win16"
+  ],
+  "problem_solved": "为 Windows 3.1x 平台提供经典细胞自动机模拟程序",
+  "why_valuable": "作为复古软件工程实例，对于理解早期 Windows 编程和欣赏经典代码质量具有教育意义",
+  "tags": [
+    "RetroComputing",
+    "GameOfLife",
+    "Windows3.1",
+    "CellularAutomata",
+    "CProgramming"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-08-30T13:45:55.285598+00:00",
+  "updated_at": "2026-08-30T13:49:16.200590+00:00",
+  "published_to": []
+}

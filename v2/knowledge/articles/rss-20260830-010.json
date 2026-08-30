@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-010",
+  "source": "rss",
+  "source_url": "https://github.com/AniketWathore/bolnee-chat",
+  "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+  "summary": "Bolnee-Chat 是一个开源的自托管聊天机器人项目，旨在让企业能够轻松将 AI 聊天功能集成到自己的商业网站中，支持完全自定义和数据隐私控制。",
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "OpenAI API",
+    "Self-hosted"
+  ],
+  "problem_solved": "帮助企业解决将 AI 聊天机器人集成到网站时面临的高成本、数据隐私和定制化限制问题。",
+  "why_valuable": "提供开源免费方案，让企业无需依赖第三方 SaaS 服务即可拥有完全控制的对话式 AI 能力。",
+  "tags": [
+    "Chatbot",
+    "Open Source",
+    "Self-hosted",
+    "AI Integration",
+    "Business Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-30T13:47:02.703376+00:00",
+  "updated_at": "2026-08-30T13:49:16.201602+00:00",
+  "published_to": []
+}

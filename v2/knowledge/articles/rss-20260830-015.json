@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-015",
+  "source": "rss",
+  "source_url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+  "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+  "summary": "This Chips and Cheese article covers Samsung's near-memory compute technology using CXL (Compute Express Link) presented at Hot Chips 2026, featuring a collaboration with Xcena on devices that place compute capabilities closer to memory to address bandwidth and latency constraints in modern data center workloads.",
+  "tech_stack": [
+    "CXL",
+    "Hardware Architecture",
+    "Semiconductor Design",
+    "Memory Systems",
+    "Near-Memory Compute"
+  ],
+  "problem_solved": "Addresses memory bandwidth bottlenecks and latency issues by enabling compute operations to run closer to memory rather than requiring data to travel to distant CPUs.",
+  "why_valuable": "CXL near-memory compute allows for more efficient data movement in AI/ML workloads and large-scale data center applications, reducing the memory wall problem.",
+  "tags": [
+    "CXL",
+    "Memory",
+    "Hardware",
+    "Semiconductor",
+    "Hot Chips"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:48:01.225418+00:00",
+  "updated_at": "2026-08-30T13:49:16.206858+00:00",
+  "published_to": []
+}

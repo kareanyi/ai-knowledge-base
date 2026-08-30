@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-001",
+  "source": "rss",
+  "source_url": "https://github.com/anthropics/claude-code/issues/66504",
+  "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+  "summary": "A GitHub issue discussing the default behavior of Anthropic's Claude Code CLI tool that automatically appends session URLs to git commit messages and pull request descriptions. The community discussion (46 points, 23 comments on Hacker News) indicates users are weighing in on whether this automatic URL tracking should remain the default or be made optional.",
+  "tech_stack": [
+    "Claude Code",
+    "Git",
+    "GitHub API",
+    "TypeScript",
+    "Node.js"
+  ],
+  "problem_solved": "Addresses the default behavior of automatically adding AI session tracking URLs to version control commits and PR descriptions",
+  "why_valuable": "Provides transparency and traceability for AI-assisted code changes by linking commits to specific Claude sessions",
+  "tags": [
+    "Claude AI",
+    "Developer Tools",
+    "Git Integration",
+    "CLI",
+    "Session Tracking"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-30T13:45:13.688129+00:00",
+  "updated_at": "2026-08-30T13:49:16.199973+00:00",
+  "published_to": []
+}

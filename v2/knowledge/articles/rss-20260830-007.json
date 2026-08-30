@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260830-007",
+  "source": "rss",
+  "source_url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+  "title": "One Nix flake to rule them all",
+  "summary": "This article describes using a unified Nix flake configuration to manage all aspects of a development project, including development environments, builds, and deployments in one centralized location.",
+  "tech_stack": [
+    "Nix",
+    "Nix flakes",
+    "NixOS",
+    "Bash"
+  ],
+  "problem_solved": "Managing fragmented and complex Nix configurations across multiple files and projects by consolidating everything into a single flake.",
+  "why_valuable": "Provides a reproducible, centralized approach to project configuration that reduces overhead and improves consistency across development environments.",
+  "tags": [
+    "Nix",
+    "DevOps",
+    "Reproducibility",
+    "Configuration Management",
+    "Flakes"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:46:29.761909+00:00",
+  "updated_at": "2026-08-30T13:49:16.201053+00:00",
+  "published_to": []
+}

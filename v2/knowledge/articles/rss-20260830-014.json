@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-014",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/1804.07389",
+  "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+  "summary": "This is a research project that calculates and finds the longest straight-line path you can walk or sail on Earth, either on land or water. The study uses optimization algorithms with geographical data to solve this interesting mathematical puzzle of finding maximum straight-line distances across the Earth's surface.",
+  "tech_stack": [
+    "Python",
+    "NumPy",
+    "GeoJSON",
+    "Optimization Algorithms",
+    "SRTM Data"
+  ],
+  "problem_solved": "Solves the mathematical problem of finding the longest continuous straight-line path that can be traveled on Earth without changing direction.",
+  "why_valuable": "It combines geographic data with algorithmic optimization to solve an intriguing real-world problem, demonstrating practical applications of computational geometry and geographic information systems.",
+  "tags": [
+    "geography",
+    "algorithm",
+    "optimization",
+    "computational-geometry",
+    "GIS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:47:48.823852+00:00",
+  "updated_at": "2026-08-30T13:49:16.206670+00:00",
+  "published_to": []
+}

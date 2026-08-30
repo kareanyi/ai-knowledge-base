@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-003",
+  "source": "rss",
+  "source_url": "https://smoores.dev/post/automating_immersive_reading/",
+  "title": "Automating Immersive Reading",
+  "summary": "A developer shares their approach to automating immersive reading, likely using AI or scripting tools to enhance reading workflows and comprehension.",
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "Automation",
+    "APIs",
+    "Scripting"
+  ],
+  "problem_solved": "Streamlines and automates the process of immersive/active reading for better information retention",
+  "why_valuable": "Helps readers process and retain information more efficiently through automation",
+  "tags": [
+    "Automation",
+    "Reading",
+    "AI",
+    "Productivity",
+    "Developer"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-30T13:45:43.294366+00:00",
+  "updated_at": "2026-08-30T13:49:16.200438+00:00",
+  "published_to": []
+}

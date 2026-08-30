@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-020",
+  "source": "rss",
+  "source_url": "https://science.nasa.gov/mission/roman-space-telescope/",
+  "title": "Nancy Grace Roman Space Telescope",
+  "summary": "The Nancy Grace Roman Space Telescope is NASA's next flagship astrophysics mission, featuring a 2.4-meter mirror and wide-field infrared instrument to study dark energy, search for exoplanets, and conduct wide-area surveys of the universe. Named after NASA's first Chief of Astronomy, this mission complements James Webb while focusing on cosmic expansion mysteries and planetary discovery.",
+  "tech_stack": [
+    "Spacecraft Engineering",
+    "Infrared Astronomy",
+    "Wide-Field Imaging",
+    "Coronagraph Technology",
+    "Space Mission Operations"
+  ],
+  "problem_solved": "Advances understanding of dark energy, dark matter, and searches for habitable exoplanets through wide-field infrared surveys of the universe.",
+  "why_valuable": "As a Hubble-class space telescope with revolutionary wide-field capability, Roman will map billions of galaxies, discover thousands of exoplanets, and help resolve cosmic mysteries that current telescopes cannot address at this scale.",
+  "tags": [
+    "NASA",
+    "Space Telescope",
+    "Astronomy",
+    "Dark Energy",
+    "Exoplanets"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-30T13:49:14.909785+00:00",
+  "updated_at": "2026-08-30T13:49:16.207737+00:00",
+  "published_to": []
+}

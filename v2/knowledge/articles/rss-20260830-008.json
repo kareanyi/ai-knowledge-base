@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260830-008",
+  "source": "rss",
+  "source_url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+  "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+  "summary": "The Fair Work Commission has condemned the use of AI-generated legal advice, calling it 'plain wrong' when used improperly in legal proceedings. The article highlights concerns about people using AI tools like ChatGPT to draft legal documents and submissions without proper understanding or verification by qualified legal professionals.",
+  "tech_stack": [
+    "AI/LLM",
+    "ChatGPT",
+    "Legal Technology"
+  ],
+  "problem_solved": "This article exposes the problem of AI being misused to generate potentially inaccurate legal advice and documents that don't meet legal standards.",
+  "why_valuable": "It raises critical ethical and regulatory questions about AI limitations in professional domains requiring qualified human judgment, particularly in legal contexts where errors can have serious consequences.",
+  "tags": [
+    "AI Ethics",
+    "Legal Tech",
+    "Regulation",
+    "Employment Law",
+    "AI Misuse"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:46:42.740647+00:00",
+  "updated_at": "2026-08-30T13:49:16.201190+00:00",
+  "published_to": []
+}

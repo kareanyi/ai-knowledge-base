@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-019",
+  "source": "rss",
+  "source_url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+  "title": "Hy4 preview",
+  "summary": "Tencent has released and open-sourced Tencent Hy4 Preview, a next-generation technical framework or tool that garnered significant attention in the developer community with 344 Hacker News points and 208 comments, indicating strong interest in its capabilities and potential applications.",
+  "tech_stack": [
+    "Tencent Hy4",
+    "Open Source",
+    "C++",
+    "JavaScript Engine",
+    "Preview Version"
+  ],
+  "problem_solved": "Provides developers with access to Tencent's latest framework technology through open-source release, enabling community collaboration and innovation.",
+  "why_valuable": "Tencent's open-sourcing of Hy4 demonstrates the company's commitment to contributing to the developer ecosystem and allowing external developers to leverage and improve upon their technology.",
+  "tags": [
+    "Tencent",
+    "Open Source",
+    "Hy4",
+    "Framework",
+    "Preview"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:48:55.141904+00:00",
+  "updated_at": "2026-08-30T13:49:16.207551+00:00",
+  "published_to": []
+}

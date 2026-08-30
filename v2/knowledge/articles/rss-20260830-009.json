@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-009",
+  "source": "rss",
+  "source_url": "https://git.zx2c4.com/spark/about/",
+  "title": "Spark: Sparklines in your shell",
+  "summary": "Spark is a lightweight command-line utility that generates inline ASCII sparkline charts directly in the terminal, allowing users to visualize data trends without leaving their shell environment or needing external charting tools.",
+  "tech_stack": [
+    "Shell",
+    "C",
+    "Unix",
+    "Bash",
+    "Command-line"
+  ],
+  "problem_solved": "Quickly visualize data trends and patterns directly in the terminal without requiring full charting libraries or GUI tools.",
+  "why_valuable": "It provides instant, frictionless data visualization that integrates seamlessly into existing shell workflows, making it ideal for monitoring, debugging, and quick data exploration.",
+  "tags": [
+    "CLI",
+    "Visualization",
+    "Terminal",
+    "Unix",
+    "Data-Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:46:54.521820+00:00",
+  "updated_at": "2026-08-30T13:49:16.201438+00:00",
+  "published_to": []
+}

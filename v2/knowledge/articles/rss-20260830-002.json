@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-002",
+  "source": "rss",
+  "source_url": "https://github.com/fugue-labs/monty-go",
+  "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+  "summary": "monty-go is a pure-Go library that wraps Pydantic's Monty Python interpreter, enabling Go applications to safely evaluate Python expressions without requiring a full Python runtime or CGO dependencies.",
+  "tech_stack": [
+    "Go",
+    "Python",
+    "Monty Python Interpreter",
+    "Pydantic",
+    "cgo-free"
+  ],
+  "problem_solved": "Enables Go applications to evaluate Python expressions safely and efficiently without the overhead of a full Python installation or security risks of embedding a Python runtime.",
+  "why_valuable": "Provides a lightweight, secure bridge between Go and Python ecosystems, allowing developers to leverage Python expression evaluation capabilities in Go applications with minimal dependencies.",
+  "tags": [
+    "Go",
+    "Python Interop",
+    "Expression Evaluation",
+    "Pydantic",
+    "Monty"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:45:27.990203+00:00",
+  "updated_at": "2026-08-30T13:49:16.200274+00:00",
+  "published_to": []
+}

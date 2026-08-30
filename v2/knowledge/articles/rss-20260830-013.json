@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-013",
+  "source": "rss",
+  "source_url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+  "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+  "summary": "A critical security vulnerability in QubesOS that allows attackers to execute arbitrary code by exploiting an error reporting backchannel during copy-to-VM operations, bypassing the system's VM isolation security model.",
+  "tech_stack": [
+    "QubesOS",
+    "Xen",
+    "Fedora",
+    "Linux",
+    "QEMU"
+  ],
+  "problem_solved": "Addresses a critical isolation bypass vulnerability that could allow malicious code to escape VM containment and execute on the host system.",
+  "why_valuable": "This security patch is essential for QubesOS users as the vulnerability completely undermines the core security promise of the OS—VM isolation—potentially exposing sensitive data to compromise.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "QubesOS",
+    "VM-Isolation",
+    "Zero-Day"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-08-30T13:47:36.803987+00:00",
+  "updated_at": "2026-08-30T13:49:16.201993+00:00",
+  "published_to": []
+}

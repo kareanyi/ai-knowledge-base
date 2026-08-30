@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260830-018",
+  "source": "rss",
+  "source_url": "https://danluu.com/bug-blind/",
+  "title": "Bug Blindness",
+  "summary": "Dan Luu's essay explores the phenomenon of 'bug blindness' - how developers become blind to obvious bugs in their own code due to cognitive biases, familiarity with the codebase, and assumption-driven thinking. The article draws from real-world examples and psychological research to explain why even experienced engineers miss simple issues that would be obvious to others.",
+  "tech_stack": [
+    "General Software Engineering",
+    "No specific framework"
+  ],
+  "problem_solved": "Explains why developers often overlook obvious bugs in their own code and how to recognize this cognitive trap.",
+  "why_valuable": "Understanding bug blindness helps developers develop better debugging strategies and awareness of cognitive limitations in code review processes.",
+  "tags": [
+    "Software Engineering",
+    "Debugging",
+    "Cognitive Bias",
+    "Programming",
+    "Software Quality"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-30T13:48:37.662451+00:00",
+  "updated_at": "2026-08-30T13:49:16.207389+00:00",
+  "published_to": []
+}

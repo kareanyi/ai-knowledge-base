@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-016",
+  "source": "rss",
+  "source_url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+  "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+  "summary": "California lawmakers unanimously passed legislation exempting Linux and open-source software from age-verification requirements, protecting software distributed under GPL, MIT, BSD, and Apache licenses from regulatory burdens that could have hindered open-source development and distribution.",
+  "tech_stack": [
+    "Linux",
+    "GPL",
+    "MIT License",
+    "BSD License",
+    "Apache License"
+  ],
+  "problem_solved": "Prevents age-verification laws from creating barriers to open-source software distribution and development.",
+  "why_valuable": "This exemption protects the open-source ecosystem from compliance costs and access restrictions that could have severely impacted community-driven software projects.",
+  "tags": [
+    "Open Source",
+    "Linux",
+    "California Law",
+    "Age Verification",
+    "Licensing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-30T13:48:13.747242+00:00",
+  "updated_at": "2026-08-30T13:49:16.207029+00:00",
+  "published_to": []
+}

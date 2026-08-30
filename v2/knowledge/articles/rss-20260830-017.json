@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-017",
+  "source": "rss",
+  "source_url": "https://freecore.org/",
+  "title": "FreeCORE TrueNAS Core – Continued",
+  "summary": "FreeCORE TrueNAS Core – Continued is a technical article about TrueNAS Core, the open-source NAS operating system based on FreeBSD, likely continuing previous coverage of storage solutions, server configuration, or FreeNAS/TrueNAS developments on the freecore.org platform.",
+  "tech_stack": [
+    "TrueNAS Core",
+    "FreeBSD",
+    "ZFS",
+    "NAS/SAN Storage",
+    "OpenZFS"
+  ],
+  "problem_solved": "Provides continued documentation and technical guidance for deploying and managing TrueNAS Core as an enterprise-grade network storage solution.",
+  "why_valuable": "TrueNAS Core offers a powerful, free open-source storage platform and continued coverage helps users stay updated with best practices and new features.",
+  "tags": [
+    "TrueNAS",
+    "FreeBSD",
+    "NAS",
+    "Storage",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-30T13:48:27.240711+00:00",
+  "updated_at": "2026-08-30T13:49:16.207193+00:00",
+  "published_to": []
+}
