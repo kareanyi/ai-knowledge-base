@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260831-014",
+  "source": "rss",
+  "source_url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+  "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+  "summary": "OpenShot 4.0 is a major release of the popular open-source video editing software, introducing new screen and webcam recording capabilities, enhanced video editing tools, and significantly improved color grading/grading features for professional-quality video production.",
+  "tech_stack": [
+    "Python",
+    "Qt",
+    "FFmpeg",
+    "MLT Framework"
+  ],
+  "problem_solved": "Provides free, open-source video editing with recording and professional color grading capabilities that compete with expensive commercial software.",
+  "why_valuable": "Democratizes video production by offering a complete free editing suite with recording, editing, and color grading tools that were previously only available in premium software.",
+  "tags": [
+    "video-editing",
+    "open-source",
+    "creative-tools",
+    "python",
+    "desktop-app"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:04:54.485544+00:00",
+  "updated_at": "2026-08-31T16:07:50.788330+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-002",
+  "source": "rss",
+  "source_url": "https://github.com/Hebbian-Robotics/hflow",
+  "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+  "summary": "Hebbian Robotics launched HFlow, an SDK that transforms messy multimodal recordings from robots and human operators into standardized, quality-checked episodes with queryable dataset manifests. The tool processes synchronized streams including video, joint states, actions, timestamps, and metadata to create training-ready data pipelines for robotics ML.",
+  "tech_stack": [
+    "Python",
+    "SDK",
+    "Multimodal Data Processing",
+    "Data Pipeline",
+    "Computer Vision"
+  ],
+  "problem_solved": "Solves the data preprocessing bottleneck in robotics ML by automating the conversion of raw heterogeneous sensor recordings into clean, standardized, queryable datasets.",
+  "why_valuable": "It accelerates robotics ML development by eliminating the tedious work of manual data cleaning and standardization, enabling researchers and engineers to focus on model training rather than data wrangling.",
+  "tags": [
+    "Robotics",
+    "Data Pipeline",
+    "Machine Learning",
+    "SDK",
+    "Multimodal"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:02:39.612327+00:00",
+  "updated_at": "2026-08-31T16:07:50.780717+00:00",
+  "published_to": []
+}

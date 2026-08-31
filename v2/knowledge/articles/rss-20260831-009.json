@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260831-009",
+  "source": "rss",
+  "source_url": "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/",
+  "title": "My Experience Has Nuance, Yours Is a Data Point",
+  "summary": "A philosophical reflection on how AI systems reduce human experiences to mere data points, while humans themselves possess rich nuance and complexity that cannot be fully captured by algorithmic processing.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Data Processing"
+  ],
+  "problem_solved": "Highlights the fundamental tension between human experiential nuance and AI's data-driven reductionism.",
+  "why_valuable": "It raises critical awareness about AI's limitations in understanding the depth of human experience and the ethical implications of treating subjective lives as objective data.",
+  "tags": [
+    "AI",
+    "Philosophy",
+    "Human-Experience",
+    "Criticism",
+    "Data-Ethics"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-31T16:04:04.040360+00:00",
+  "updated_at": "2026-08-31T16:07:50.781611+00:00",
+  "published_to": []
+}

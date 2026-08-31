@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-011",
+  "source": "rss",
+  "source_url": "https://serverbox.stupidlabs.lol/",
+  "title": "Show HN: Linux server management over SSH – written in Rust and Tauri",
+  "summary": "ServerBox is a web-based Linux server management tool built with Rust and Tauri, providing a graphical interface for SSH-based server administration directly from the browser.",
+  "tech_stack": [
+    "Rust",
+    "Tauri",
+    "SSH",
+    "Web Technologies",
+    "HTML/CSS/JS"
+  ],
+  "problem_solved": "Simplifies Linux server management by offering a modern GUI alternative to traditional command-line SSH operations.",
+  "why_valuable": "Makes server administration accessible to users who prefer visual interfaces while maintaining the power and flexibility of direct SSH access.",
+  "tags": [
+    "Linux",
+    "Server Management",
+    "SSH",
+    "Rust",
+    "DevOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:04:28.238016+00:00",
+  "updated_at": "2026-08-31T16:07:50.787796+00:00",
+  "published_to": []
+}

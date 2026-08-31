@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-016",
+  "source": "rss",
+  "source_url": "https://reactos.org/project-news/reactos-0416-released/",
+  "title": "ReactOS 0.4.16",
+  "summary": "ReactOS 0.4.16 is the latest release of a free, open-source operating system designed to be binary-compatible with Microsoft Windows, allowing Windows applications and drivers to run natively without requiring a Windows license.",
+  "tech_stack": [
+    "C",
+    "C++",
+    "Assembly",
+    "ReactOS Kernel",
+    "Win32 API"
+  ],
+  "problem_solved": "Provides a free Windows-compatible operating system for running Windows software without purchasing Windows licenses.",
+  "why_valuable": "Enables users to run Windows applications on open-source infrastructure, supporting legacy software preservation and reducing software dependency on proprietary systems.",
+  "tags": [
+    "Operating System",
+    "Open Source",
+    "Windows Compatibility",
+    "System Programming",
+    "Legacy Software"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:05:23.665870+00:00",
+  "updated_at": "2026-08-31T16:07:50.788554+00:00",
+  "published_to": []
+}

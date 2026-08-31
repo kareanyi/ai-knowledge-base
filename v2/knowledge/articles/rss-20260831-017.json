@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-017",
+  "source": "rss",
+  "source_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+  "title": "Breaking Claude Code Opus 5 Auto Mode",
+  "summary": "This blog post explores vulnerabilities, limitations, or unexpected behaviors in Claude Code Opus 5's automatic operation mode, likely through security research and red teaming techniques to understand its boundaries and failure modes.",
+  "tech_stack": [
+    "Claude Code",
+    "Claude Opus 5",
+    "AI Agents",
+    "CLI Tools",
+    "Python"
+  ],
+  "problem_solved": "Identifies and documents weaknesses or exploits in Claude Code's automated coding assistant mode for security research purposes.",
+  "why_valuable": "Provides critical security insights into AI agent behavior and helps understand the boundaries of autonomous AI coding tools through practical red teaming.",
+  "tags": [
+    "AI Security",
+    "Claude",
+    "Red Teaming",
+    "AI Agents",
+    "Vulnerability Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:05:33.748587+00:00",
+  "updated_at": "2026-08-31T16:07:50.788667+00:00",
+  "published_to": []
+}

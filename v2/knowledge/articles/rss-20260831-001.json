@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-001",
+  "source": "rss",
+  "source_url": "https://usealmanac.com/",
+  "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+  "summary": "Almanac is a YC S26-backed AI platform that acts as an intelligent company-wide knowledge system, allowing employees to query and receive context-appropriate responses based on all company data. The founders initially built internal tools for their own company but encountered significant friction in integrating various data sources and connectors, leading them to create a general-purpose solution.",
+  "tech_stack": [
+    "AI/LLM",
+    "OAuth",
+    "Enterprise Integration",
+    "Knowledge Graph",
+    "Agent Systems"
+  ],
+  "problem_solved": "Enables companies to create AI agents that truly understand and can access all organizational context across disparate tools and data sources.",
+  "why_valuable": "Solves the fragmented data problem in enterprises by providing a unified intelligence layer that makes company-wide knowledge accessible to AI queries.",
+  "tags": [
+    "AI Agent",
+    "Enterprise",
+    "Knowledge Management",
+    "YC-backed",
+    "Productivity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:02:30.059221+00:00",
+  "updated_at": "2026-08-31T16:07:50.780409+00:00",
+  "published_to": []
+}

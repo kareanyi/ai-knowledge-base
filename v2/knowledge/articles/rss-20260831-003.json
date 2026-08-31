@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-003",
+  "source": "rss",
+  "source_url": "https://trustcontrols.ai/",
+  "title": "Agentic Trust Controls",
+  "summary": "An AI safety and governance platform focused on implementing trust controls for autonomous AI agents, providing mechanisms to ensure safe and accountable AI agent behavior in enterprise environments.",
+  "tech_stack": [
+    "AI Agents",
+    "LLM",
+    "Enterprise Security",
+    "Governance Framework",
+    "Autonomous Systems"
+  ],
+  "problem_solved": "Provides safety guardrails and accountability mechanisms for autonomous AI agents operating in enterprise environments.",
+  "why_valuable": "Enables organizations to deploy AI agents with confidence by implementing necessary trust controls and governance frameworks to prevent unintended consequences.",
+  "tags": [
+    "AI Agents",
+    "Trust",
+    "Safety",
+    "Governance",
+    "Enterprise AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-31T16:02:49.374773+00:00",
+  "updated_at": "2026-08-31T16:07:50.780899+00:00",
+  "published_to": []
+}

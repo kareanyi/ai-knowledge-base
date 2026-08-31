@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-006",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+  "title": "ChatGPT to face tougher regulation in the EU",
+  "summary": "The Verge reports that OpenAI's ChatGPT will face stricter regulation under the EU's Digital Services Act (DSA), requiring increased transparency and compliance measures for AI systems operating within the European market.",
+  "tech_stack": [
+    "ChatGPT",
+    "OpenAI",
+    "Digital Services Act",
+    "EU Regulation",
+    "AI"
+  ],
+  "problem_solved": "Addresses the regulatory gap for AI systems by establishing compliance requirements for large language models operating in the EU.",
+  "why_valuable": "Provides critical insight into how AI companies must adapt their products and policies to meet evolving government oversight in major markets.",
+  "tags": [
+    "AI Regulation",
+    "EU",
+    "Digital Services Act",
+    "ChatGPT",
+    "OpenAI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-08-31T16:03:17.548947+00:00",
+  "updated_at": "2026-08-31T16:07:50.781293+00:00",
+  "published_to": []
+}

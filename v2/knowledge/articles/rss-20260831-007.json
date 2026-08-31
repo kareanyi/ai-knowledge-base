@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260831-007",
+  "source": "rss",
+  "source_url": "https://www.cppstories.com/2026/hardening-experiments/",
+  "title": "C++26: Standard Library Hardening Experiments",
+  "summary": "This article explores experimental hardening features being introduced in the C++26 standard library, focusing on improving runtime safety and catching undefined behavior earlier in the development cycle.",
+  "tech_stack": [
+    "C++",
+    "C++26",
+    "Standard Library",
+    "Compiler Diagnostics"
+  ],
+  "problem_solved": "Addresses C++ safety issues by adding built-in hardening mechanisms to the standard library that help detect programming errors and undefined behavior at runtime.",
+  "why_valuable": "Provides safer default behaviors in C++, reducing security vulnerabilities and undefined behavior that have historically plagued C++ codebases.",
+  "tags": [
+    "C++",
+    "Standard Library",
+    "Security",
+    "Hardening",
+    "C++26"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:03:35.914454+00:00",
+  "updated_at": "2026-08-31T16:07:50.781405+00:00",
+  "published_to": []
+}

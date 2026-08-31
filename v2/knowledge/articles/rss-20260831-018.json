@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260831-018",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+  "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+  "summary": "A massive 12TB data breach dubbed the 'Steam teraleak' has exposed over a decade of lost PC gaming history from Valve's Steam platform, including unreleased games, prototypes, beta versions, and internal development files that were thought to be lost forever.",
+  "tech_stack": [
+    "Steam",
+    "Valve",
+    "PC Gaming Platform"
+  ],
+  "problem_solved": "This incident highlights security vulnerabilities in gaming platforms while simultaneously preserving gaming history that would otherwise have been lost.",
+  "why_valuable": "The leaked data provides invaluable insights into game development history, unreleased prototypes, and deleted content that holds significant cultural and historical value for the gaming community.",
+  "tags": [
+    "Gaming",
+    "Steam",
+    "Data Leak",
+    "PC Gaming",
+    "Digital Preservation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:05:46.845480+00:00",
+  "updated_at": "2026-08-31T16:07:50.788770+00:00",
+  "published_to": []
+}

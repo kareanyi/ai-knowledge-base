@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-012",
+  "source": "rss",
+  "source_url": "https://calpaterson.com/memoryfields.html",
+  "title": "Agent Memory as a File Format",
+  "summary": "This article explores a novel approach to AI agent memory management by proposing file formats as a structured way to store, version, and retrieve agent memory rather than relying on monolithic context windows. The author Cal Paterson discusses the practical implications of treating memory as persistent, organized data structures that can be easily searched and modified.",
+  "tech_stack": [
+    "Python",
+    "AI Agents",
+    "File Formats",
+    "Memory Management",
+    "Context Management"
+  ],
+  "problem_solved": "How to structure and manage AI agent memory in a scalable, organized way instead of relying on fixed context windows.",
+  "why_valuable": "File-based memory architecture enables better memory persistence, searchability, and version control for AI agents, potentially solving context window limitations.",
+  "tags": [
+    "AI Agents",
+    "Memory Architecture",
+    "File Formats",
+    "Context Management",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:04:36.737577+00:00",
+  "updated_at": "2026-08-31T16:07:50.788063+00:00",
+  "published_to": []
+}

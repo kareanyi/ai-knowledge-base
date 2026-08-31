@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260831-013",
+  "source": "rss",
+  "source_url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+  "title": "Malleable software = solid bases and custom code",
+  "summary": "A blog post exploring software architecture philosophy, discussing how building malleable/flexible software systems requires establishing solid foundational components while keeping custom code adaptable and customizable.",
+  "tech_stack": [
+    "Software Architecture",
+    "Design Patterns",
+    "Modular Design",
+    "API Design"
+  ],
+  "problem_solved": "Addresses the challenge of balancing software flexibility with maintainability and stability in complex systems.",
+  "why_valuable": "Provides architectural insights for developers building extensible software systems that can evolve with changing requirements.",
+  "tags": [
+    "Software Architecture",
+    "Design Philosophy",
+    "Flexibility",
+    "Maintainability",
+    "Modular Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:04:46.023037+00:00",
+  "updated_at": "2026-08-31T16:07:50.788192+00:00",
+  "published_to": []
+}

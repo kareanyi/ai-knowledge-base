@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-004",
+  "source": "rss",
+  "source_url": "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/",
+  "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
+  "summary": "Apache Iggy, a high-performance message streaming platform written in Rust, has graduated to become an Apache Top-Level Project (TLP), marking a significant milestone in its maturity and stability as an open-source project under the Apache Software Foundation.",
+  "tech_stack": [
+    "Rust",
+    "Apache",
+    "Message Streaming",
+    "Zero-copy",
+    "Pub/Sub"
+  ],
+  "problem_solved": "Provides a high-performance, low-latency message streaming solution for real-time data distribution in distributed systems",
+  "why_valuable": "The Rust implementation delivers excellent performance with memory safety guarantees, and Apache TLP status ensures long-term project stability, corporate-friendly licensing, and robust community governance.",
+  "tags": [
+    "Rust",
+    "Message Streaming",
+    "Apache",
+    "Real-time Systems",
+    "Distributed Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-08-31T16:02:59.391023+00:00",
+  "updated_at": "2026-08-31T16:07:50.781049+00:00",
+  "published_to": []
+}

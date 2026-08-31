@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-010",
+  "source": "rss",
+  "source_url": "https://codex-tool-reference.simonw.chatgpt.site/",
+  "title": "ChatGPT Work Tool and Skill Reference",
+  "summary": "A reference site created by Simon W documenting ChatGPT work tools and skills, providing structured guidance on utilizing AI capabilities for practical tasks. The site aggregates and organizes information about available AI-powered tools and their applications.",
+  "tech_stack": [
+    "ChatGPT",
+    "LLM",
+    "Documentation",
+    "Python",
+    "Web Development"
+  ],
+  "problem_solved": "Helps users discover and understand available ChatGPT work tools and skills in one organized reference location.",
+  "why_valuable": "Provides curated, well-organized reference material that saves time for users learning to leverage ChatGPT's expanding tool ecosystem.",
+  "tags": [
+    "AI",
+    "ChatGPT",
+    "Reference",
+    "Documentation",
+    "Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-08-31T16:04:21.745613+00:00",
+  "updated_at": "2026-08-31T16:07:50.781708+00:00",
+  "published_to": []
+}
