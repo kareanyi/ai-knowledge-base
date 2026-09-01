@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-014",
+  "source": "rss",
+  "source_url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+  "title": "I turned my security cameras into an automatic bird identification system",
+  "summary": "A DIY enthusiast integrated BirdNET-Go AI with existing security cameras to create an automated bird identification system that detects and identifies bird species visiting their property through audio analysis in real-time.",
+  "tech_stack": [
+    "BirdNET-Go",
+    "Python",
+    "Security Cameras",
+    "FFmpeg",
+    "Audio Processing"
+  ],
+  "problem_solved": "Enables automatic monitoring and identification of bird species visiting a property without requiring manual observation or expensive dedicated bird cameras.",
+  "why_valuable": "Repurposes existing security infrastructure with AI to create an affordable citizen science tool for continuous bird monitoring and data collection.",
+  "tags": [
+    "AI",
+    "BirdNET",
+    "IoT",
+    "DIY",
+    "Smart Home"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-01T13:23:04.732210+00:00",
+  "updated_at": "2026-09-01T13:24:33.492254+00:00",
+  "published_to": []
+}

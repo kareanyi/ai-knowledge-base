@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-015",
+  "source": "rss",
+  "source_url": "https://ravynos.com/",
+  "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+  "summary": "RavynOS is a pre-alpha open-source operating system project that aims to create a macOS-like desktop experience by combining Apple's Darwin kernel, FreeBSD components, and other Apple open-source projects into a fully open-source system.",
+  "tech_stack": [
+    "Darwin",
+    "FreeBSD",
+    "WebKit",
+    "C/C++",
+    "LLVM"
+  ],
+  "problem_solved": "Provides an open-source alternative for users seeking a modern, macOS-inspired desktop experience without proprietary dependencies.",
+  "why_valuable": "Offers the computing community a chance to study, modify, and distribute a Darwin/FreeBSD-based system while giving users more freedom in their operating system choices.",
+  "tags": [
+    "Operating System",
+    "Open Source",
+    "Darwin",
+    "FreeBSD",
+    "Desktop OS"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-01T13:23:17.986518+00:00",
+  "updated_at": "2026-09-01T13:24:33.492432+00:00",
+  "published_to": []
+}

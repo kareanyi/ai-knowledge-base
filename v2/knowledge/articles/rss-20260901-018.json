@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260901-018",
+  "source": "rss",
+  "source_url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+  "title": "I think the military commissary's freezers were hacked",
+  "summary": "A personal narrative from the 'Signal and Silence' Substack where the author recounts a strange experience with malfunctioning freezers at a military commissary, implying possible tampering or unauthorized access. The story gained significant traction on Hacker News with 377 points and 207 comments, suggesting it resonates with readers interested in security anecdotes or conspiracy-adjacent themes.",
+  "tech_stack": [
+    "Substack",
+    "Hacker News"
+  ],
+  "problem_solved": "Not a problem-solving article; it's a personal anecdote exploring potential security concerns at a military facility.",
+  "why_valuable": "Entertaining storytelling that sparks discussion about physical security, IoT vulnerabilities, or government facility safety, though lacks technical depth.",
+  "tags": [
+    "Storytelling",
+    "Security",
+    "Personal-Experience",
+    "Conspiracy",
+    "Military"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-01T13:24:04.588622+00:00",
+  "updated_at": "2026-09-01T13:24:33.492975+00:00",
+  "published_to": []
+}

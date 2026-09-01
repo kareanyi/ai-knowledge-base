@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-007",
+  "source": "rss",
+  "source_url": "https://restroomarchive.com",
+  "title": "Restroom Archive",
+  "summary": "Restroom Archive is a community-driven website that archives and provides access to public restroom location information and ratings. The platform appears to be a crowdsourced database helping users find and review bathrooms in various locations, gaining modest traction on Hacker News with 183 points and 44 comments.",
+  "tech_stack": [
+    "Web",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "SQL"
+  ],
+  "problem_solved": "Helps people quickly find and access information about nearby public restrooms with user-contributed ratings and reviews.",
+  "why_valuable": "Addresses a common but often overlooked daily need by providing a centralized, community-verified resource for locating public facilities worldwide.",
+  "tags": [
+    "utility",
+    "location",
+    "community",
+    "database",
+    "web-app"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-01T13:21:54.722288+00:00",
+  "updated_at": "2026-09-01T13:24:33.485744+00:00",
+  "published_to": []
+}

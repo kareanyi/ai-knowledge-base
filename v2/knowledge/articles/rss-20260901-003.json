@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260901-003",
+  "source": "rss",
+  "source_url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+  "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+  "summary": "AnkiDroid, a popular open-source flashcard app, reports that Google Play has rejected their app update because it links to Open Collective for donations. This highlights an ongoing tension between Google Play's payment policies and the way open-source projects traditionally raise funds to sustain development.",
+  "tech_stack": [
+    "Android",
+    "Open Collective",
+    "Google Play",
+    "Java/Kotlin"
+  ],
+  "problem_solved": "Documents the conflict between Google Play's strict payment and subscription policies and open-source projects' need for alternative funding mechanisms outside Google's payment system.",
+  "why_valuable": "This issue represents a broader challenge for the open-source ecosystem where platform policies can restrict how free software projects receive community support and financial contributions.",
+  "tags": [
+    "Android",
+    "Open Source",
+    "Monetization",
+    "Google Play Policy",
+    "Mobile Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-01T13:20:51.967781+00:00",
+  "updated_at": "2026-09-01T13:24:33.484922+00:00",
+  "published_to": []
+}

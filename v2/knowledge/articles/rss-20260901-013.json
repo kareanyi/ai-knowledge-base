@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-013",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+  "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+  "summary": "A pure HTML/JavaScript project that renders a walkable 3D cyberpunk city using only ASCII characters, with updates adding traffic systems, interior spaces, and varying building heights.",
+  "tech_stack": [
+    "HTML5",
+    "JavaScript",
+    "CSS",
+    "ASCII Art",
+    "Canvas API"
+  ],
+  "problem_solved": "Demonstrates how to create immersive 3D environments using only text characters without external dependencies.",
+  "why_valuable": "Showcases creative use of minimal web technologies and proves ASCII art can deliver visually impressive experiences.",
+  "tags": [
+    "ASCII Art",
+    "Cyberpunk",
+    "HTML5",
+    "3D Rendering",
+    "Generative Art"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-01T13:22:52.640131+00:00",
+  "updated_at": "2026-09-01T13:24:33.492072+00:00",
+  "published_to": []
+}

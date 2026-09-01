@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-017",
+  "source": "rss",
+  "source_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+  "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+  "summary": "Apple was unexpectedly surprised by strong consumer and enterprise demand for Mac Mini and Mac Studio systems, driven primarily by AI/ML development workloads that leverage Apple Silicon's neural engine capabilities. The company is reportedly scrambling to meet the surge in orders, indicating a larger trend of Apple hardware being adopted for AI development beyond traditional creative workflows.",
+  "tech_stack": [
+    "Apple Silicon",
+    "M-series Chips",
+    "Neural Engine",
+    "macOS",
+    "Core ML"
+  ],
+  "problem_solved": "Meeting unexpected high demand for AI-capable desktop hardware that developers and businesses want for machine learning workloads.",
+  "why_valuable": "Demonstrates Apple Silicon's growing appeal in the AI/ML developer community beyond Apple's traditional user base, with significant market implications for Apple's professional hardware lineup.",
+  "tags": [
+    "Apple",
+    "AI Hardware",
+    "Mac",
+    "Apple Silicon",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-01T13:23:43.284565+00:00",
+  "updated_at": "2026-09-01T13:24:33.492781+00:00",
+  "published_to": []
+}

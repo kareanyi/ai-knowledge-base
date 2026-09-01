@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260901-019",
+  "source": "rss",
+  "source_url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+  "title": "Roget's Thesaurus",
+  "summary": "The University of Chicago hosts an online version of Roget's Thesaurus, a classic reference work originally compiled by Peter Mark Roget in 1805. Unlike a standard dictionary, it organizes words by concepts and ideas rather than alphabetically, allowing users to browse related terms across categories.",
+  "tech_stack": [
+    "HTML",
+    "Classic ASP",
+    "Unix/Linux Servers",
+    "University of Chicago IT Infrastructure"
+  ],
+  "problem_solved": "Provides quick access to synonyms, antonyms, and conceptually related words for writers, students, and anyone seeking the right vocabulary.",
+  "why_valuable": "Roget's unique conceptual organization by ideas rather than letters offers a creative alternative to alphabetical thesauruses, helping users explore language connections they might not discover otherwise.",
+  "tags": [
+    "Reference",
+    "Language",
+    "Education",
+    "Writing-Tools",
+    "Classic-Literature"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-01T13:24:18.054832+00:00",
+  "updated_at": "2026-09-01T13:24:33.493150+00:00",
+  "published_to": []
+}

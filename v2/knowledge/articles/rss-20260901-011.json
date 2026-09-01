@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-011",
+  "source": "rss",
+  "source_url": "https://datacolada.org/138",
+  "title": "Evidence of Fraud in an Influential Study About Procrastination",
+  "summary": "DataColada researchers present statistical evidence suggesting data fabrication in a widely-cited procrastination study by Fuschia Sirois and others, using digit pattern analysis and data distribution anomalies to support their fraud allegations.",
+  "tech_stack": [
+    "Statistical Analysis",
+    "Python",
+    "R",
+    "Benford's Law Analysis",
+    "Digit Pattern Analysis"
+  ],
+  "problem_solved": "Exposes potential scientific fraud and data fabrication in published psychological research that influenced the field.",
+  "why_valuable": "Demonstrates how statistical forensics can detect research fraud and maintains integrity in scientific literature by holding researchers accountable.",
+  "tags": [
+    "Scientific Fraud",
+    "Research Integrity",
+    "Statistics",
+    "Psychology",
+    "Data Analysis"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-01T13:22:30.982066+00:00",
+  "updated_at": "2026-09-01T13:24:33.486498+00:00",
+  "published_to": []
+}

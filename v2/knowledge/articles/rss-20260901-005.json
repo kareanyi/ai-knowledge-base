@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260901-005",
+  "source": "rss",
+  "source_url": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+  "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+  "summary": "NASA's Roman Space Telescope offers a public engagement program called 'Adopt a Pixel' where participants can name specific coordinates in the universe captured by the telescope, creating a personal connection to space exploration.",
+  "tech_stack": [
+    "Space Telescope Technology",
+    "Astronomical Imaging",
+    "Crowdsourced Science"
+  ],
+  "problem_solved": "Engages the general public with space science and creates emotional investment in astronomical research.",
+  "why_valuable": "Democratizes access to space exploration and inspires public interest in astronomy through a gamified naming experience.",
+  "tags": [
+    "NASA",
+    "Astronomy",
+    "Citizen Science",
+    "Space Exploration",
+    "Public Outreach"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-01T13:21:18.794214+00:00",
+  "updated_at": "2026-09-01T13:24:33.485368+00:00",
+  "published_to": []
+}

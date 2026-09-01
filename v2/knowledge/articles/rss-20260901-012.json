@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-012",
+  "source": "rss",
+  "source_url": "https://tmpout.sh/5/",
+  "title": "Tmp.0ut Volume 5",
+  "summary": "Tmp.0ut 是一个专注于黑客文化、CTF 竞赛、逆向工程和安全研究的极客杂志/文选，Volume 5 是其第五期发布，收录了来自黑客社区的技术文章和项目分享。",
+  "tech_stack": [
+    "Assembly",
+    "Reverse Engineering",
+    "Binary Analysis",
+    "CTF",
+    "System Programming"
+  ],
+  "problem_solved": "为黑客社区和安全研究者提供一个分享技术知识、工具和经验的去中心化平台。",
+  "why_valuable": "它填补了主流技术出版物与专业安全社区之间的空白，为逆向工程师和CTF选手提供实践导向的高质量技术内容。",
+  "tags": [
+    "Hacking",
+    "Reverse Engineering",
+    "CTF",
+    "Security Research",
+    "Zine"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-01T13:22:40.566431+00:00",
+  "updated_at": "2026-09-01T13:24:33.486671+00:00",
+  "published_to": []
+}
