@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-006",
+  "source": "rss",
+  "source_url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+  "title": "Commodore 64 released September 1, 1982",
+  "summary": "This article commemorates the release of the Commodore 64 on September 1, 1982, one of the most successful home computers in history with over 17 million units sold. The piece discusses the computer's impact on democratizing computing for ordinary families during the early personal computer era.",
+  "tech_stack": [
+    "6510 CPU",
+    "64KB RAM",
+    "VIC-II Graphics",
+    "SID Sound Chip",
+    "MOS Technology"
+  ],
+  "problem_solved": "Made personal computing accessible and affordable to mainstream households during the early 1980s.",
+  "why_valuable": "The Commodore 64 shaped an entire generation of programmers, gamers, and tech enthusiasts, representing a pivotal milestone in computing history.",
+  "tags": [
+    "Retro Computing",
+    "8-bit",
+    "Home Computer",
+    "Commodore",
+    "Computing History"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-02T12:43:48.311446+00:00",
+  "updated_at": "2026-09-02T12:46:58.930100+00:00",
+  "published_to": []
+}

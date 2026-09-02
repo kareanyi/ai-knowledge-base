@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-017",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+  "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+  "summary": "Simon Willison reports that OpenAI's Codex app bundles a complete copy of LibreOffice, enabling the AI to natively handle office document operations like creating/editing Word docs, spreadsheets, and presentations directly within the agent workflow.",
+  "tech_stack": [
+    "LibreOffice",
+    "OpenAI Codex",
+    "ChatGPT",
+    "Python",
+    "Document Automation"
+  ],
+  "problem_solved": "Enables AI agents to directly manipulate office documents without relying on external API calls or third-party document processing services.",
+  "why_valuable": "This bundling approach allows AI to have full local control over document processing, enabling more powerful end-to-end automation workflows for office tasks while potentially reducing dependency on cloud services.",
+  "tags": [
+    "AI Agents",
+    "LibreOffice",
+    "OpenAI",
+    "Document Processing",
+    "Software Bundling"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:46:13.023492+00:00",
+  "updated_at": "2026-09-02T12:46:58.937274+00:00",
+  "published_to": []
+}

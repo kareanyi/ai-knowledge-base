@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260902-004",
+  "source": "rss",
+  "source_url": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+  "title": "Sweden pauses Denmark power cable over EU grid rules",
+  "summary": "Sweden has suspended the power cable connection to Denmark due to EU electricity grid regulatory compliance concerns, creating a dispute between the two Nordic nations over energy infrastructure rules.",
+  "tech_stack": [
+    "Energy Infrastructure",
+    "EU Grid Regulations",
+    "Power Transmission"
+  ],
+  "problem_solved": "This is a news report about an energy dispute, not a technical solution—Sweden is raising concerns about Denmark's compliance with EU electricity market regulations.",
+  "why_valuable": "It highlights the growing tension between national energy policies and EU-wide grid regulations in the European energy transition.",
+  "tags": [
+    "Energy Policy",
+    "EU Regulations",
+    "Nordic Power Grid",
+    "Infrastructure",
+    "Energy Dispute"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-02T12:43:23.327187+00:00",
+  "updated_at": "2026-09-02T12:46:58.929783+00:00",
+  "published_to": []
+}

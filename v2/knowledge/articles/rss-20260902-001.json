@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260902-001",
+  "source": "rss",
+  "source_url": "https://code.mendhak.com/hardcode-feature-flags/",
+  "title": "It's OK to hardcode feature flags (2025)",
+  "summary": "A contrarian blog post arguing that hardcoding feature flags directly in code is acceptable and often preferable to maintaining complex external configuration systems, challenging conventional wisdom about configuration management.",
+  "tech_stack": [
+    "Git",
+    "CI/CD",
+    "Configuration Management"
+  ],
+  "problem_solved": "Addresses the over-engineering problem where teams build elaborate feature flag systems when simple hardcoded conditionals would suffice.",
+  "why_valuable": "Offers a pragmatic counterpoint to industry dogma, advocating for simpler solutions that reduce complexity, external dependencies, and maintenance overhead.",
+  "tags": [
+    "Feature Flags",
+    "Software Engineering",
+    "Best Practices",
+    "Simplicity",
+    "Configuration"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-02T12:42:46.007849+00:00",
+  "updated_at": "2026-09-02T12:46:58.929214+00:00",
+  "published_to": []
+}

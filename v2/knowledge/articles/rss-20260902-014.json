@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-014",
+  "source": "rss",
+  "source_url": "https://blog.cr.yp.to/20260704-bugs.html",
+  "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
+  "summary": "Daniel J. Bernstein's blog post analyzing implementation bugs in post-quantum cryptography, specifically comparing pure post-quantum (solo PQ) implementations versus hybrid approaches combining elliptic curve cryptography with post-quantum (ECC+PQ) to understand security tradeoffs in different PQC deployment strategies.",
+  "tech_stack": [
+    "Post-Quantum Cryptography",
+    "ECC",
+    "Cryptographic Libraries",
+    "Kyber",
+    "Dilithium"
+  ],
+  "problem_solved": "Understanding and comparing the frequency and severity of implementation bugs between solo PQ and hybrid ECC+PQ cryptographic implementations",
+  "why_valuable": "Provides empirical analysis to help organizations make informed decisions about PQC migration strategies, balancing security, compatibility, and implementation complexity",
+  "tags": [
+    "Post-Quantum",
+    "Cryptography",
+    "Security",
+    "ECC",
+    "Hybrid-Crypto"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:45:34.716466+00:00",
+  "updated_at": "2026-09-02T12:46:58.936706+00:00",
+  "published_to": []
+}

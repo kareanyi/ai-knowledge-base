@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260902-013",
+  "source": "rss",
+  "source_url": "https://masteranza.github.io/weedout/",
+  "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+  "summary": "Weedout is a $1.99 Safari extension for macOS that filters out YouTube videos labeled with 'Made with AI' from feeds, search results, related videos, playlists, and Shorts by leveraging YouTube's own AI content labeling system.",
+  "tech_stack": [
+    "Safari Extension",
+    "JavaScript",
+    "macOS",
+    "YouTube Data"
+  ],
+  "problem_solved": "Addresses the problem of AI-generated conspiracy and low-quality content cluttering YouTube recommendations and search results.",
+  "why_valuable": "Provides users with direct control over their YouTube browsing experience by filtering AI-labeled content at the browser level without requiring server-side processing.",
+  "tags": [
+    "Browser Extension",
+    "YouTube",
+    "AI Content Filter",
+    "Safari",
+    "Productivity Tool"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:45:16.835820+00:00",
+  "updated_at": "2026-09-02T12:46:58.936514+00:00",
+  "published_to": []
+}

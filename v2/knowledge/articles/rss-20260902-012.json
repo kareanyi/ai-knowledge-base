@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-012",
+  "source": "rss",
+  "source_url": "https://lws.io/blog/my-local-model-setup/",
+  "title": "My local model setup on an M4 Pro Mac Mini",
+  "summary": "A comprehensive guide on setting up and optimizing local AI model inference using an M4 Pro Mac Mini, covering model selection, performance tuning, and practical configurations for running LLMs without cloud dependencies.",
+  "tech_stack": [
+    "Apple Silicon",
+    "macOS",
+    "Ollama",
+    "Python",
+    "Homebrew"
+  ],
+  "problem_solved": "Enables running large language models locally on consumer hardware for privacy-focused, cost-effective AI inference without internet connectivity requirements.",
+  "why_valuable": "Provides a practical, detailed approach to leveraging affordable Apple Silicon hardware for local AI deployment, giving users full control over their data while eliminating ongoing API costs.",
+  "tags": [
+    "LocalLLM",
+    "AppleSilicon",
+    "SelfHosted",
+    "Privacy",
+    "MLOps"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-02T12:45:06.228508+00:00",
+  "updated_at": "2026-09-02T12:46:58.930996+00:00",
+  "published_to": []
+}

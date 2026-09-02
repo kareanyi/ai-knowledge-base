@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-010",
+  "source": "rss",
+  "source_url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+  "title": "The efficient frontier of LLM inference",
+  "summary": "This article explores optimization strategies for deploying large language models in production, examining the tradeoffs between cost, latency, and throughput. It discusses practical techniques for achieving efficient LLM inference at scale.",
+  "tech_stack": [
+    "Python",
+    "GPU Computing",
+    "ML Infrastructure",
+    "vLLM",
+    "TensorRT"
+  ],
+  "problem_solved": "Helps ML engineers navigate the complex tradeoffs between cost, performance, and efficiency when deploying LLMs in production environments.",
+  "why_valuable": "Provides actionable insights for optimizing LLM inference costs and performance, which is critical for organizations running AI applications at scale.",
+  "tags": [
+    "LLM",
+    "Inference",
+    "Optimization",
+    "MLOps",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-02T12:44:40.121101+00:00",
+  "updated_at": "2026-09-02T12:46:58.930659+00:00",
+  "published_to": []
+}

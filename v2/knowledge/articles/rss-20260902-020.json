@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-020",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+  "summary": "Anthropic releases Claude Fable 5.1 and Claude Mythos 5.1, the latest versions of their AI assistant models with updated capabilities and improvements documented in their official system cards. The release garnered massive attention on Hacker News with over 1300 points and 1200+ comments.",
+  "tech_stack": [
+    "Claude AI",
+    "Anthropic",
+    "Large Language Models",
+    "AI Safety",
+    " Constitutional AI"
+  ],
+  "problem_solved": "Provides improved AI language model capabilities with enhanced reasoning, safety measures, and performance for various AI assistant use cases.",
+  "why_valuable": "Represents a significant update to one of the leading commercial AI assistants, potentially offering better accuracy, safety, and capabilities for enterprise and consumer applications.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Claude",
+    "Anthropic",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-02T12:46:58.002911+00:00",
+  "updated_at": "2026-09-02T12:46:58.937828+00:00",
+  "published_to": []
+}

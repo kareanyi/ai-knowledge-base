@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260902-019",
+  "source": "rss",
+  "source_url": "https://danluu.com/zitron/",
+  "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+  "summary": "Dan Luu analyzes the accuracy of Ed Zitron's AI skeptic predictions, examining whether his critical views on AI overhype have proven correct over time. The article provides a data-driven evaluation of Zitron's forecasting track record regarding AI capabilities, enterprise adoption challenges, and the gap between hype and reality.",
+  "tech_stack": [
+    "Blog/Static Site",
+    "HTML",
+    "Analytics"
+  ],
+  "problem_solved": "Evaluates whether prominent AI skeptic predictions have accurately predicted AI limitations and market disappointments",
+  "why_valuable": "Provides empirical validation of AI criticism in a hype-heavy environment, helping readers distinguish between justified skepticism and unwarranted pessimism",
+  "tags": [
+    "AI",
+    "predictions",
+    "skepticism",
+    "analysis",
+    "technology-criticism"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-02T12:46:45.102217+00:00",
+  "updated_at": "2026-09-02T12:46:58.937628+00:00",
+  "published_to": []
+}

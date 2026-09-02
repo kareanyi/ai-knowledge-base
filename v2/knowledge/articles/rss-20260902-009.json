@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260902-009",
+  "source": "rss",
+  "source_url": "https://www.lisep.org/tru",
+  "title": "True Rate of Unemployment",
+  "summary": "The True Rate of Unemployment (TRU) project by LISEP (Luxembourg Institute of Socio-Economic Research) presents an alternative methodology for calculating unemployment that aims to provide a more accurate picture of labor market conditions than official statistics. The project gained significant attention on Hacker News with 265 points and 239 comments, indicating strong public interest in understanding true employment metrics.",
+  "tech_stack": [
+    "Research/Analysis",
+    "Statistical Modeling"
+  ],
+  "problem_solved": "Addresses the potential inadequacy and misrepresentation in official government unemployment statistics that may undercount or misclassify underemployment and discouraged workers.",
+  "why_valuable": "It offers policymakers, economists, and the public a more transparent and comprehensive view of labor market health, enabling better-informed decisions on economic policy.",
+  "tags": [
+    "Economics",
+    "Labor Statistics",
+    "Public Policy",
+    "Research",
+    "Social Science"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:44:31.325086+00:00",
+  "updated_at": "2026-09-02T12:46:58.930523+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-003",
+  "source": "rss",
+  "source_url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+  "title": "Quasar 438B: Europe's Leading AI Model",
+  "summary": "Quasar 438B is a large language model developed by Multiverse Computing, positioned as Europe's leading AI model with 438 billion parameters. The model appears to be designed to provide European data sovereignty and compliance with EU regulations while competing with US-based AI systems.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Python",
+    "Quantum Computing",
+    "Deep Learning"
+  ],
+  "problem_solved": "Provides a European alternative to US-dominated AI models, addressing data sovereignty and regulatory compliance concerns for European organizations.",
+  "why_valuable": "Enables European companies and governments to use advanced AI capabilities while maintaining data within EU jurisdiction and complying with strict privacy regulations.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Europe",
+    "Data Sovereignty",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:43:08.997498+00:00",
+  "updated_at": "2026-09-02T12:46:58.929634+00:00",
+  "published_to": []
+}

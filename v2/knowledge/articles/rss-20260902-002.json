@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-002",
+  "source": "rss",
+  "source_url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+  "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+  "summary": "The article explores why symmetric ferrocyanide electrolytes haven't been adopted in flow batteries, examining the electrochemical challenges and practical barriers that prevent this seemingly promising approach from working effectively.",
+  "tech_stack": [
+    "Electrochemistry",
+    "Redox Chemistry",
+    "Flow Battery Technology",
+    "Aqueous Electrolytes",
+    "Materials Science"
+  ],
+  "problem_solved": "Explains the technical barriers preventing symmetric ferrocyanide electrolytes from being viable for commercial flow battery applications.",
+  "why_valuable": "Provides scientific insight into a niche but important area of energy storage technology, helping researchers and engineers understand fundamental limitations in battery chemistry.",
+  "tags": [
+    "flow-batteries",
+    "electrochemistry",
+    "energy-storage",
+    "ferrocyanide",
+    "redox-chemistry"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:42:57.048237+00:00",
+  "updated_at": "2026-09-02T12:46:58.929480+00:00",
+  "published_to": []
+}

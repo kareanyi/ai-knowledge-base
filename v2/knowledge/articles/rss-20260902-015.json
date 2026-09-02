@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260902-015",
+  "source": "rss",
+  "source_url": "https://hnmatchmaker.com/",
+  "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+  "summary": "A web tool that automatically matches job seekers with job postings from Hacker News's monthly 'Who Wants to Be Hired?' and 'Who's Hiring?' threads using an LLM to extract data and score matches based on salary, domain, location preferences, and other factors.",
+  "tech_stack": [
+    "abacus.ai",
+    "LLM",
+    "Web Application"
+  ],
+  "problem_solved": "Solves the problem of manually scanning through thousands of HN hiring thread comments to find compatible job candidates or positions.",
+  "why_valuable": "Saves job seekers and recruiters hours of manual review by automating the matching process with intelligent filtering for deal-breakers like remote vs onsite preferences.",
+  "tags": [
+    "HackerNews",
+    "Job Matching",
+    "LLM",
+    "Career",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:45:46.599011+00:00",
+  "updated_at": "2026-09-02T12:46:58.936912+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260902-011",
+  "source": "rss",
+  "source_url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+  "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+  "summary": "Krebs on Security reports on the FBI investigation into a dark web service that allegedly sold personal data of 153+ million driver licenses. The breach raises significant concerns about identity theft risks and the security of government-issued identification databases.",
+  "tech_stack": [
+    "Dark Web Services",
+    "Data Trading Platforms",
+    "Cybersecurity Investigation Tools"
+  ],
+  "problem_solved": "This is a news report about a data breach, not a solution—reports on how threat actors exposed massive amounts of driver license data and the resulting federal investigation.",
+  "why_valuable": "Highlights the scale of personal data exposure and underscores the critical importance of protecting government-issued ID databases from unauthorized access.",
+  "tags": [
+    "cybersecurity",
+    "data-breach",
+    "privacy",
+    "identity-theft",
+    "dark-web"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-02T12:44:54.762129+00:00",
+  "updated_at": "2026-09-02T12:46:58.930845+00:00",
+  "published_to": []
+}
