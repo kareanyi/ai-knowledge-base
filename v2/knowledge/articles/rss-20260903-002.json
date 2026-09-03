@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260903-002",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+  "title": "ChatGPT Ads passes $1B run rate in 200 days",
+  "summary": "ChatGPT Ads has reached a $1 billion annualised revenue run rate in under 200 days, marking a significant commercial milestone for OpenAI's advertising platform. The company is now expanding self-service ad access through Ads Manager to new regions including India, Europe, the Middle East, and North Africa, with tens of thousands of advertisers already using the platform.",
+  "tech_stack": [
+    "OpenAI Platform",
+    "Ads Manager",
+    "AI-powered Advertising"
+  ],
+  "problem_solved": "Provides businesses with a new AI-powered advertising platform to reach ChatGPT's massive user base.",
+  "why_valuable": "Demonstrates the unprecedented speed of commercial adoption for AI-native advertising products and validates OpenAI's monetization strategy beyond subscription models.",
+  "tags": [
+    "AI",
+    "Advertising",
+    "OpenAI",
+    "ChatGPT",
+    "Business"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-03T12:46:39.485160+00:00",
+  "updated_at": "2026-09-03T12:48:23.091158+00:00",
+  "published_to": []
+}

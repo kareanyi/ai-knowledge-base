@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260903-001",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+  "title": "Motional and MIT AI explains self-driving car decisions",
+  "summary": "Motional and MIT researchers developed an explainable AI system for self-driving cars that provides real-time decision explanations, addressing the 'black-box' problem in autonomous vehicle AI. The research, published in Nature, aims to make autonomous vehicle decision-making transparent and interpretable.",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Explainable AI (XAI)",
+    "Machine Learning",
+    "Computer Vision",
+    "Autonomous Vehicle Systems"
+  ],
+  "problem_solved": "The black-box problem in autonomous vehicle AI where decision-making processes are opaque and unexplainable to humans.",
+  "why_valuable": "It enables transparency and trust in self-driving technology, which is essential for safety certification, regulatory approval, and public acceptance of autonomous vehicles.",
+  "tags": [
+    "self-driving-cars",
+    "explainable-AI",
+    "autonomous-vehicles",
+    "AI-safety",
+    "MIT-research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-03T12:46:25.958210+00:00",
+  "updated_at": "2026-09-03T12:48:23.090812+00:00",
+  "published_to": []
+}

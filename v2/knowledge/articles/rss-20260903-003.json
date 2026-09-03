@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260903-003",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+  "title": "Why MCP servers are becoming AI’s newest attack surface",
+  "summary": "The article discusses how Model Context Protocol (MCP) servers, rapidly adopted infrastructure in the AI ecosystem, are emerging as a new attack surface for security vulnerabilities. As AI standards and connectors spread quickly through the industry, security teams struggle to implement adequate protections against potential threats.",
+  "tech_stack": [
+    "MCP (Model Context Protocol)",
+    "AI Infrastructure",
+    "Security Standards",
+    "Connectors",
+    "AI Agents"
+  ],
+  "problem_solved": "Highlights the security vulnerabilities and attack surfaces introduced by rapidly adopted MCP server infrastructure in AI systems.",
+  "why_valuable": "Raises critical awareness about security gaps in emerging AI infrastructure that organizations must address before widespread deployment.",
+  "tags": [
+    "AI Security",
+    "MCP",
+    "Vulnerability",
+    "Infrastructure",
+    "Zero-Day"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-03T12:46:48.066158+00:00",
+  "updated_at": "2026-09-03T12:48:23.091319+00:00",
+  "published_to": []
+}
