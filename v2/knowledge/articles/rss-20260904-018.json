@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-018",
+  "source": "rss",
+  "source_url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+  "title": "GPS glitched across the US by as much as 33 feet",
+  "summary": "A mysterious GPS timing glitch affected positioning accuracy across the entire United States, causing errors up to 33 feet—something scientists say has never been observed before in the GPS system's history.",
+  "tech_stack": [
+    "GPS",
+    "GNSS",
+    "Satellite Navigation",
+    "Timing Infrastructure",
+    "Earth Ionosphere"
+  ],
+  "problem_solved": "Scientists are investigating an unprecedented GPS anomaly that could impact navigation, aviation, and critical infrastructure dependent on precise timing.",
+  "why_valuable": "Understanding this unprecedented GPS disruption is critical for safeguarding global navigation systems and the billions of devices and services that rely on precise GPS timing.",
+  "tags": [
+    "GPS",
+    "Satellite",
+    "Infrastructure",
+    "Anomaly",
+    "Navigation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-04T12:42:54.294097+00:00",
+  "updated_at": "2026-09-04T12:44:58.478234+00:00",
+  "published_to": []
+}

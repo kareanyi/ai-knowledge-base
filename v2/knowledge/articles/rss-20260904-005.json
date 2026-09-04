@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260904-005",
+  "source": "rss",
+  "source_url": "https://carbonawarepricing.com/",
+  "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+  "summary": "A real-time dashboard tracking carbon-aware electricity pricing across 38 global power grids, enabling users to identify when electricity is cheapest and cleanest to use. The platform monitors grid carbon intensity to help optimize energy consumption timing for environmental benefit.",
+  "tech_stack": [
+    "Real-time monitoring",
+    "Grid data APIs",
+    "Data visualization",
+    "Web dashboard"
+  ],
+  "problem_solved": "Helps consumers and businesses determine the optimal time to use electricity based on carbon intensity and pricing across multiple power grids worldwide.",
+  "why_valuable": "Enables carbon-conscious decision-making by providing transparency into when electricity is cleaner, supporting both environmental and potentially cost-saving benefits through smart scheduling.",
+  "tags": [
+    "Sustainability",
+    "Energy",
+    "Carbon Footprint",
+    "Climate Tech",
+    "Smart Grid"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-04T12:40:34.856495+00:00",
+  "updated_at": "2026-09-04T12:44:58.468416+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-015",
+  "source": "rss",
+  "source_url": "https://reactoratlas.com",
+  "title": "Show HN: Reactor Atlas",
+  "summary": "Reactor Atlas is a platform being developed by a nuclear engineer-turned-entrepreneur who previously built a successful blockchain company. The project appears to leverage the founder's nuclear simulation background and HPC expertise to create a resource or tool related to nuclear reactors, emerging as the founder pivots from blockchain services (which are declining due to AI competition) to more specialized scientific ventures.",
+  "tech_stack": [
+    "HPC Software",
+    "Nuclear Simulation",
+    "Blockchain",
+    "Python",
+    "Web Platform"
+  ],
+  "problem_solved": "Making nuclear reactor data, simulations, or information more accessible and actionable for the industry or general audience.",
+  "why_valuable": "Combines deep nuclear engineering expertise with modern software practices to fill a gap in nuclear energy information infrastructure, especially as AI disrupts traditional software consulting.",
+  "tags": [
+    "Nuclear",
+    "Energy",
+    "HPC",
+    "Startups",
+    "AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-04T12:42:23.762556+00:00",
+  "updated_at": "2026-09-04T12:44:58.477651+00:00",
+  "published_to": []
+}

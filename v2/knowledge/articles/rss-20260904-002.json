@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260904-002",
+  "source": "rss",
+  "source_url": "https://www.oo-software.com/en/shutup10",
+  "title": "O&O ShutUp10 – The antispy tool for Windows 10 and 11",
+  "summary": "O&O ShutUp10 is a free privacy control utility for Windows 10 and 11 that provides a centralized interface to manage Windows telemetry, data collection, and spy features without requiring registry edits or complex group policy changes.",
+  "tech_stack": [
+    "Windows API",
+    "C++",
+    "Registry"
+  ],
+  "problem_solved": "It solves the problem of Windows collecting user data and telemetry without easy opt-out options, giving users granular control over their privacy settings.",
+  "why_valuable": "It provides free, accessible privacy protection for Windows users who want to disable telemetry without technical registry knowledge.",
+  "tags": [
+    "Privacy",
+    "Windows",
+    "Antispy",
+    "Privacy-Tool",
+    "Windows-10"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-04T12:39:56.586838+00:00",
+  "updated_at": "2026-09-04T12:44:58.467801+00:00",
+  "published_to": []
+}

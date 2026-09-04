@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260904-001",
+  "source": "rss",
+  "source_url": "https://collusion.wiki/",
+  "title": "Discovery of a new OpenAI agent message board",
+  "summary": "A discovery post highlighting collusion.wiki as a new community platform for OpenAI agent discussions and information sharing.",
+  "tech_stack": [
+    "Web Platform",
+    "OpenAI API",
+    "Community Forum"
+  ],
+  "problem_solved": "Provides a centralized message board for OpenAI agent-related discussions and discoveries",
+  "why_valuable": "Offers a dedicated space for the AI community to share insights about OpenAI agents and related developments",
+  "tags": [
+    "OpenAI",
+    "AI Agent",
+    "Community",
+    "Message Board",
+    "Discovery"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-09-04T12:39:46.206154+00:00",
+  "updated_at": "2026-09-04T12:44:58.467470+00:00",
+  "published_to": []
+}

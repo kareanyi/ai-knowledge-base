@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+  "title": "NVIDIA to acquire Hugging Face for $12.93B",
+  "summary": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository's platform and infrastructure, aiming to expand AI access for enterprise developers, software engineers, and research institutions globally.",
+  "tech_stack": [
+    "NVIDIA GPU",
+    "Hugging Face Transformers",
+    "Cloud Infrastructure",
+    "Open-source AI Models",
+    "Enterprise Platform"
+  ],
+  "problem_solved": "Addresses the need for scaled AI infrastructure and expanded access to open-source AI models for developers and research institutions worldwide.",
+  "why_valuable": "This acquisition combines NVIDIA's hardware dominance with Hugging Face's open-source ecosystem, potentially democratizing AI development and accelerating enterprise AI adoption at a massive scale.",
+  "tags": [
+    "AI",
+    "Acquisition",
+    "NVIDIA",
+    "Hugging Face",
+    "Enterprise AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-04T12:43:44.941468+00:00",
+  "updated_at": "2026-09-04T12:44:58.478938+00:00",
+  "published_to": []
+}

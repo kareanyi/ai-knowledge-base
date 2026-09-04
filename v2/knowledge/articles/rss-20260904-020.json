@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260904-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+  "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+  "summary": "A survey of 2,150 U.S. adults reveals that 50.5% consider romantic or sexual relationships with AI as a form of cheating, highlighting growing societal concerns about AI companions and their impact on human relationships.",
+  "tech_stack": [
+    "Survey Analytics",
+    "SurveyMonkey"
+  ],
+  "problem_solved": "Quantifies public attitudes toward AI romantic relationships and their ethical implications.",
+  "why_valuable": "Provides empirical data on how society perceives AI-human romantic interactions, which is valuable for developers and policymakers navigating AI ethics.",
+  "tags": [
+    "AI Ethics",
+    "Social Impact",
+    "Survey Data",
+    "Human-AI Relationship",
+    "Digital Romance"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-04T12:43:29.563274+00:00",
+  "updated_at": "2026-09-04T12:44:58.478571+00:00",
+  "published_to": []
+}

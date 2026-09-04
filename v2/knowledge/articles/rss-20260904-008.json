@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-008",
+  "source": "rss",
+  "source_url": "https://armature.tech/blog/which-tools-coding-agents-install",
+  "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+  "summary": "An empirical study analyzing which tools AI coding agents (Claude, Codex, Cursor) choose to install, based on 17,000 experimental runs to understand their tool selection patterns and decision-making behaviors.",
+  "tech_stack": [
+    "Python",
+    "AI APIs",
+    "Data Analysis",
+    "Benchmarking Tools",
+    "Claude API"
+  ],
+  "problem_solved": "Understanding how different AI coding agents make tool installation and selection decisions in real-world coding tasks.",
+  "why_valuable": "Provides quantitative data and insights into AI agent behavior, helping developers understand and predict how different coding assistants approach tool usage in development workflows.",
+  "tags": [
+    "AI Agents",
+    "Coding Assistants",
+    "Research",
+    "Benchmarking",
+    "Tool Selection"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-04T12:41:05.097838+00:00",
+  "updated_at": "2026-09-04T12:44:58.476274+00:00",
+  "published_to": []
+}

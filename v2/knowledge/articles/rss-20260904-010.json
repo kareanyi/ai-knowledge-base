@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-010",
+  "source": "rss",
+  "source_url": "https://inference-docs.cerebras.ai/models/overview",
+  "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+  "summary": "阿里云开源的 Qwen 3.8 27B 大语言模型现在可以在 Cerebras 推理平台上运行，实现高达 1500 tokens/s 的推理速度，远超传统 GPU 部署方案的性能表现。",
+  "tech_stack": [
+    "Cerebras",
+    "Qwen 3.8 27B",
+    "LLM Inference",
+    "WSE芯片",
+    "Python API"
+  ],
+  "problem_solved": "解决大语言模型推理速度慢、成本高的问题，提供超高速的模型部署方案",
+  "why_valuable": "通过 Cerebras 的 wafer-scale 引擎技术，首次实现开源大模型在超大规模参数下的实时推理能力",
+  "tags": [
+    "LLM",
+    "Inference",
+    "Qwen",
+    "Cerebras",
+    "Open Source AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-04T12:41:25.126085+00:00",
+  "updated_at": "2026-09-04T12:44:58.476679+00:00",
+  "published_to": []
+}

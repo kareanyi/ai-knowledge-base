@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-004",
+  "source": "rss",
+  "source_url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+  "title": "Solving the Jane Street Reverse Engineering Challenge",
+  "summary": "A technical walkthrough of solving Jane Street's reverse engineering challenge, which is part of their recruitment process. The article likely demonstrates techniques for unpacking and analyzing obfuscated binary code used by the trading firm.",
+  "tech_stack": [
+    "Assembly",
+    "Python",
+    "GDB/radare2",
+    "Reverse Engineering Tools",
+    "Binary Analysis"
+  ],
+  "problem_solved": "Decoding and unpacking Jane Street's obfuscated binary challenge to extract the hidden solution.",
+  "why_valuable": "Provides practical learning for reverse engineering techniques and demonstrates problem-solving skills valuable in quantitative trading and security roles.",
+  "tags": [
+    "Reverse Engineering",
+    "Binary Analysis",
+    "Obfuscation",
+    "Low-level Programming",
+    "Finance Tech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-04T12:40:23.412185+00:00",
+  "updated_at": "2026-09-04T12:44:58.468183+00:00",
+  "published_to": []
+}

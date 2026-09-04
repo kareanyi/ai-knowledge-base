@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-019",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+  "title": "M&#038;T Bank expands enterprise AI after years of technology overhaul",
+  "summary": "M&T Bank, a US regional bank, has deployed AI copilots to more than 15,000 employees following years of technology modernization, applying AI across internal operations, customer service, software development, and risk management functions including call center analysis, report drafting, code generation, and portfolio risk flagging.",
+  "tech_stack": [
+    "AI Copilots",
+    "Conversational AI",
+    "LLM-based Tools",
+    "Enterprise AI Platforms",
+    "Code Generation Tools"
+  ],
+  "problem_solved": "Large-scale enterprise AI adoption challenge in traditional banking sector - how to deploy AI across a 15,000+ employee workforce for multiple business functions.",
+  "why_valuable": "Provides a real-world case study of successful enterprise AI deployment at scale in financial services, demonstrating practical applications across operations, customer service, development, and risk management.",
+  "tags": [
+    "Enterprise AI",
+    "Banking",
+    "Digital Transformation",
+    "AI Copilots",
+    "Financial Services"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-04T12:43:19.223120+00:00",
+  "updated_at": "2026-09-04T12:44:58.478403+00:00",
+  "published_to": []
+}

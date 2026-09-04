@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260904-007",
+  "source": "rss",
+  "source_url": "https://gwern.net/xanadu",
+  "title": "Project Xanadu: Even More Hindsight (2025)",
+  "summary": "Gwern's comprehensive retrospective on Project Xanadu, the legendary hypertext system conceived by Ted Nelson in 1960 that became computing's most famous example of vaporware. The piece analyzes the project's failures, missed opportunities, and the lessons learned about why ambitious visions often fail to materialize.",
+  "tech_stack": [
+    "Hypertext",
+    "Web Technologies",
+    "Historical Analysis"
+  ],
+  "problem_solved": "Provides historical analysis of why the world's longest-running software development project failed to deliver its revolutionary vision for hypertext.",
+  "why_valuable": "Offers rare insight into the cautionary tale of over-ambition in software development, with lessons applicable to modern tech projects and the AI era.",
+  "tags": [
+    "Hypertext",
+    "Software History",
+    "Vaporware",
+    "Ted Nelson",
+    "Project Management"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-04T12:40:54.396501+00:00",
+  "updated_at": "2026-09-04T12:44:58.476061+00:00",
+  "published_to": []
+}

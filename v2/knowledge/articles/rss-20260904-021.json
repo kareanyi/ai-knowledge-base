@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260904-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+  "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+  "summary": "OneRail launched OmniSTAR, an AI-powered delivery platform using Nvidia technology that helps retailers, wholesalers, and distributors optimize last-mile delivery by automatically evaluating and selecting the most cost-effective delivery option among owned fleets, couriers, parcel carriers, and other modes while meeting service level requirements.",
+  "tech_stack": [
+    "Nvidia AI",
+    "Machine Learning",
+    "Logistics Optimization"
+  ],
+  "problem_solved": "Solves the last-mile delivery optimization challenge by automatically selecting the lowest-cost delivery method that meets required service levels for each individual order.",
+  "why_valuable": "It enables retailers and distributors to reduce logistics costs while maintaining delivery service quality through intelligent, real-time decision-making for each shipment.",
+  "tags": [
+    "AI",
+    "Logistics",
+    "Delivery",
+    "Retail",
+    "Optimization"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-04T12:43:38.532643+00:00",
+  "updated_at": "2026-09-04T12:44:58.478773+00:00",
+  "published_to": []
+}

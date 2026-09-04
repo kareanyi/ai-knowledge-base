@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260904-013",
+  "source": "rss",
+  "source_url": "https://neil.fraser.name/news/2026/09/03/",
+  "title": ".name Termination",
+  "summary": "Neil Fraser 撰写的一篇关于 .name 域名终止/删除的文章，该文章在 Hacker News 上获得了极高关注度（1943 分、482 条评论），内容涉及域名生命周期管理和互联网域名政策的讨论。",
+  "tech_stack": [
+    "Web Standards",
+    "DNS",
+    "Domain Management",
+    "Internet Governance"
+  ],
+  "problem_solved": "解释 .name 域名终止机制及其对域名持有者的影响，帮助读者理解域名过期和删除的技术与政策流程。",
+  "why_valuable": "提供了关于域名生命周期管理的深度技术解析，帮助开发者和网站所有者理解域名终止的实际运作机制。",
+  "tags": [
+    "DNS",
+    "Domain",
+    "Web",
+    "Internet",
+    "Policy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-04T12:42:01.734102+00:00",
+  "updated_at": "2026-09-04T12:44:58.477271+00:00",
+  "published_to": []
+}

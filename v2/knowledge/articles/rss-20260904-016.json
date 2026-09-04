@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-016",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49548600",
+  "title": "Ask HN: Who is using MCP in production?",
+  "summary": "A Hacker News discussion questioning the real-world production adoption of MCP (Model Context Protocol), with the author noting that despite early attention, they haven't encountered many actual production deployments. The post seeks to understand practical use cases and advantages over traditional API or CLI integrations.",
+  "tech_stack": [
+    "MCP",
+    "LLM",
+    "AI Agents",
+    "API Integration",
+    "CLI Tools"
+  ],
+  "problem_solved": "Addresses the gap between MCP's initial hype and its actual production deployment in real-world applications.",
+  "why_valuable": "Reveals community sentiment and practical challenges around adopting new AI protocols in production environments, helping developers understand the current maturity state of MCP.",
+  "tags": [
+    "MCP",
+    "AI",
+    "LLM",
+    "Production",
+    "Developer Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-04T12:42:34.645909+00:00",
+  "updated_at": "2026-09-04T12:44:58.477873+00:00",
+  "published_to": []
+}
