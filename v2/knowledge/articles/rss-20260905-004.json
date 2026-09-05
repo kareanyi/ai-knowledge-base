@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-004",
+  "source": "rss",
+  "source_url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+  "title": "Nitter has more working instances than before the takedowns",
+  "summary": "Nitter, an open-source alternative frontend for Twitter/X that provides ad-free, privacy-focused access to tweets without requiring authentication, has recovered from previous takedowns and now has more working instances than ever before. The project, hosted on Codeberg, demonstrates community resilience against platform restrictions and API limitations imposed by X (formerly Twitter).",
+  "tech_stack": [
+    "Python",
+    "RSS Feeds",
+    "JSON API",
+    "Self-hosting",
+    "Codeberg"
+  ],
+  "problem_solved": "Provides free, open-source access to Twitter/X content without API costs, ads, or tracking, bypassing platform restrictions.",
+  "why_valuable": "Offers decentralized, privacy-respecting access to social media content while maintaining resilience through multiple independent instances.",
+  "tags": [
+    "Open Source",
+    "Privacy",
+    "Twitter Alternative",
+    "Decentralization",
+    "Self-hosted"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-05T11:47:54.849858+00:00",
+  "updated_at": "2026-09-05T11:50:23.752742+00:00",
+  "published_to": []
+}

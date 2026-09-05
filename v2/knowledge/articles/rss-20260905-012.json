@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-012",
+  "source": "rss",
+  "source_url": "https://quad9.net/",
+  "title": "An open DNS recursive service for free security and high privacy",
+  "summary": "Quad9 是一个免费的开源 DNS 递归服务，通过阻止已知恶意域名来提供安全保护，同时注重用户隐私，不记录个人可识别数据。该服务由非营利组织运营，在全球部署服务器节点确保快速响应。",
+  "tech_stack": [
+    "DNS",
+    "Anycast Network",
+    "Threat Intelligence",
+    "Linux",
+    "Network Infrastructure"
+  ],
+  "problem_solved": "解决用户在上网时面临的安全威胁（如恶意软件、钓鱼网站）和隐私泄露问题",
+  "why_valuable": "为全球用户提供免费、企业级的安全 DNS 解析服务，无需追踪用户数据即可有效阻止网络威胁",
+  "tags": [
+    "DNS",
+    "Privacy",
+    "Security",
+    "Open Source",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-05T11:49:07.590871+00:00",
+  "updated_at": "2026-09-05T11:50:23.754476+00:00",
+  "published_to": []
+}

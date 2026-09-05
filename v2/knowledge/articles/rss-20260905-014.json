@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260905-014",
+  "source": "rss",
+  "source_url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+  "title": "Government Rails Site Hit Hours After CVE Patch",
+  "summary": "A blog post reporting on how a government Ruby on Rails website was successfully exploited within hours of a CVE security patch being released, highlighting the critical vulnerability window between patch disclosure and actual deployment in production systems.",
+  "tech_stack": [
+    "Ruby on Rails",
+    "CVE",
+    "Web Security",
+    "Patch Management"
+  ],
+  "problem_solved": "Illustrates the danger of delayed security patch deployment and the rapid exploitation of vulnerabilities after CVE disclosure.",
+  "why_valuable": "Serves as a cautionary tale for organizations about the risks of slow patching processes, especially for critical government infrastructure.",
+  "tags": [
+    "Security",
+    "CVE",
+    "Ruby on Rails",
+    "Zero-Day",
+    "Vulnerability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-05T11:49:26.218570+00:00",
+  "updated_at": "2026-09-05T11:50:23.754878+00:00",
+  "published_to": []
+}

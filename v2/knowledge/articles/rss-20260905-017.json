@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-017",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+  "title": "Formalizing Fermat's Last Theorem",
+  "summary": "Anthropic researchers are working on formalizing Fermat's Last Theorem using the Lean proof assistant, creating machine-verifiable mathematical proofs for one of mathematics' most celebrated results originally proven by Andrew Wiles in 1994.",
+  "tech_stack": [
+    "Lean",
+    "Proof Assistants",
+    "Formal Verification",
+    "Mathematical AI",
+    "Type Theory"
+  ],
+  "problem_solved": "Creates machine-verifiable, error-free formal proofs of one of the most complex mathematical theorems ever proven.",
+  "why_valuable": "Ensures mathematical rigor by providing independently verifiable proofs that eliminate human error in complex reasoning, advancing the intersection of AI and pure mathematics.",
+  "tags": [
+    "Formal Methods",
+    "Mathematical Proofs",
+    "Lean",
+    "AI Research",
+    "Verification"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-05T11:49:54.806840+00:00",
+  "updated_at": "2026-09-05T11:50:23.755522+00:00",
+  "published_to": []
+}

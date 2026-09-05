@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-003",
+  "source": "rss",
+  "source_url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+  "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+  "summary": "CodeRabbit evaluated the GPT-6 Astra model for code review tasks, analyzing its performance improvements, privacy implications, and cost efficiency compared to previous models. The article provides practical insights for development teams considering AI-powered code review solutions.",
+  "tech_stack": [
+    "GPT-6 Astra",
+    "AI/ML",
+    "Code Review",
+    "LLM",
+    "Python"
+  ],
+  "problem_solved": "Evaluates whether GPT-6 Astra delivers sufficient performance gains and cost-effectiveness for automated code review while maintaining data privacy standards.",
+  "why_valuable": "Provides real-world evaluation data to help development teams make informed decisions about adopting advanced AI models for code review workflows.",
+  "tags": [
+    "AI",
+    "Code Review",
+    "LLM",
+    "Privacy",
+    "Cost Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-05T11:47:45.012921+00:00",
+  "updated_at": "2026-09-05T11:50:23.744092+00:00",
+  "published_to": []
+}

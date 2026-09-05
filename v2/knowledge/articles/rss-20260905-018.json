@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-018",
+  "source": "rss",
+  "source_url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+  "title": "The Rust React Compiler is now native in Vite",
+  "summary": "The React compiler has been natively integrated into Vite, bringing Rust-based compilation to the popular build tool. This eliminates the need for Babel plugins or SWC for React compilation, leveraging Rust's performance for faster builds.",
+  "tech_stack": [
+    "React",
+    "Rust",
+    "Vite",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "problem_solved": "Provides native Rust-based React compilation directly in Vite for significantly faster build times compared to traditional JavaScript-based transpilation.",
+  "why_valuable": "Combines Vite's excellent developer experience with Rust's superior compilation speed, reducing build times and improving frontend development workflow efficiency.",
+  "tags": [
+    "React",
+    "Rust",
+    "Vite",
+    "Compiler",
+    "Frontend"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-05T11:50:03.418686+00:00",
+  "updated_at": "2026-09-05T11:50:23.755752+00:00",
+  "published_to": []
+}

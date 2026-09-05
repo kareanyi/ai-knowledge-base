@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-007",
+  "source": "rss",
+  "source_url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+  "title": "Can guitar frets perform multiplication?",
+  "summary": "Charles Petzold explores the mathematical relationship between guitar fret positioning and multiplication, demonstrating how fret spacing follows logarithmic patterns based on the 12th root of 2. Moving one fret multiplies the frequency by 2^(1/12), and moving 12 frets doubles it—an elegant demonstration of exponential math in physical form.",
+  "tech_stack": [
+    "Mathematics",
+    "Music Theory",
+    "HTML",
+    "CSS",
+    "Logarithms"
+  ],
+  "problem_solved": "Demonstrates how abstract mathematical concepts like logarithms and exponentials manifest in physical musical instrument design.",
+  "why_valuable": "Makes abstract math tangible by showing how guitar fret positioning encodes exponential relationships, revealing the hidden mathematics in everyday objects.",
+  "tags": [
+    "Mathematics",
+    "Music",
+    "Education",
+    "Logarithms",
+    "STEM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-05T11:48:25.193328+00:00",
+  "updated_at": "2026-09-05T11:50:23.753422+00:00",
+  "published_to": []
+}

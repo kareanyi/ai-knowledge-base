@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-020",
+  "source": "rss",
+  "source_url": "https://bob.ibm.com/",
+  "title": "IBM Bob",
+  "summary": "IBM Bob is an IBM internal development platform/tool that has garnered significant attention on Hacker News with 277 points and 293 comments, suggesting strong community interest in this enterprise offering.",
+  "tech_stack": [
+    "Cloud",
+    "Enterprise Software",
+    "Developer Tools",
+    "IBM Cloud",
+    "AI/ML"
+  ],
+  "problem_solved": "Provides IBM developers with an integrated platform for coding, deployment, or internal workflow management.",
+  "why_valuable": "The high engagement on Hacker News indicates this tool addresses real developer pain points in the enterprise development workflow.",
+  "tags": [
+    "IBM",
+    "Developer Tools",
+    "Enterprise",
+    "Platform",
+    "Cloud"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-05T11:50:22.645130+00:00",
+  "updated_at": "2026-09-05T11:50:23.756156+00:00",
+  "published_to": []
+}

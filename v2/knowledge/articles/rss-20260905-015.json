@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-015",
+  "source": "rss",
+  "source_url": "https://github.com/anthropics/fermats-last-theorem",
+  "title": "Fermat's Last Theorem in Lean 4",
+  "summary": "A Lean 4 formalization of Fermat's Last Theorem, providing a computer-verified proof of one of mathematics' most famous unsolved problems that remained unproven for over 350 years until Andrew Wiles' 1995 proof.",
+  "tech_stack": [
+    "Lean 4",
+    "Mathlib",
+    "Functional Programming",
+    "Type Theory",
+    "Formal Verification"
+  ],
+  "problem_solved": "Provides a machine-checked, formally verified proof of Fermat's Last Theorem, eliminating any possibility of human error in the original mathematical proof.",
+  "why_valuable": "Formal verification ensures absolute mathematical certainty and makes the proof verifiable by computers, advancing the field of formalized mathematics and proof assistants.",
+  "tags": [
+    "formal-verification",
+    "proof-assistant",
+    "number-theory",
+    "lean4",
+    "mathlib"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-05T11:49:36.319233+00:00",
+  "updated_at": "2026-09-05T11:50:23.755093+00:00",
+  "published_to": []
+}

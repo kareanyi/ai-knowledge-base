@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-002",
+  "source": "rss",
+  "source_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "summary": "This article explores a growing concern in the tech industry where AI-powered tools increasingly handle incident management and troubleshooting, potentially leaving engineers disconnected from deep system knowledge. Sylvain Kalache raises important questions about the tradeoff between operational efficiency gained through AI automation and the risk of losing institutional knowledge and hands-on expertise among engineering teams.",
+  "tech_stack": [
+    "AI/ML",
+    "DevOps",
+    "SRE",
+    "Monitoring Tools",
+    "Incident Management"
+  ],
+  "problem_solved": "Highlights the unintended consequence of AI automating incident response—engineers may lose intimate understanding of the systems they maintain.",
+  "why_valuable": "It addresses a critical emerging challenge in engineering culture: balancing AI-driven efficiency with maintaining skilled engineers who deeply understand their systems.",
+  "tags": [
+    "AI Automation",
+    "DevOps",
+    "SRE",
+    "Engineering Culture",
+    "Knowledge Management"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-05T11:47:32.052012+00:00",
+  "updated_at": "2026-09-05T11:50:23.743929+00:00",
+  "published_to": []
+}

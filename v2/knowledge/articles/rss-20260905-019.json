@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-019",
+  "source": "rss",
+  "source_url": "https://opentrailpaper.com",
+  "title": "Show HN: Open-Source eInk Bike Computer",
+  "summary": "An open-source eInk bicycle computer built with ESP32 that connects to ANT+ sensors (speed, cadence, heart rate) for cycling metrics display. The project includes a custom ANT protocol implementation for ESP32 achieved through reverse engineering undocumented registers.",
+  "tech_stack": [
+    "ESP32",
+    "eInk Display",
+    "ANT+ Protocol",
+    "Arduino",
+    "Open Source Hardware"
+  ],
+  "problem_solved": "Provides cyclists with a low-cost, customizable, open-source alternative to expensive proprietary bike computers.",
+  "why_valuable": "Empowers cycling enthusiasts to build, modify, and customize their own bike computer while demonstrating creative use of AI for reverse-engineering wireless protocols.",
+  "tags": [
+    "Hardware",
+    "OpenSource",
+    "Cycling",
+    "ESP32",
+    "IoT"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-05T11:50:11.917501+00:00",
+  "updated_at": "2026-09-05T11:50:23.755960+00:00",
+  "published_to": []
+}

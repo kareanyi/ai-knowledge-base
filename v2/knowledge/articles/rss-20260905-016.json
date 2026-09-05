@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-016",
+  "source": "rss",
+  "source_url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+  "title": "Shutting down our public encrypted DNS",
+  "summary": "Mullvad, a privacy-focused VPN provider, announced they are shutting down their public encrypted DNS servers and instead sponsoring Quad9, a nonprofit privacy-focused DNS service. The decision was made to focus resources on their core VPN business while supporting an established, independent DNS provider that aligns with their privacy mission.",
+  "tech_stack": [
+    "DNS",
+    "DNS-over-HTTPS (DoH)",
+    "DNS-over-TLS (DoT)",
+    "TLS/Encryption",
+    "VPN"
+  ],
+  "problem_solved": "Addresses the challenge of maintaining a public DNS service that diverts resources from core business while still providing privacy-respecting DNS options to users.",
+  "why_valuable": "Demonstrates how companies can strategically redirect resources by partnering with specialized providers, promoting a healthier privacy ecosystem rather than fragmenting efforts.",
+  "tags": [
+    "Privacy",
+    "DNS",
+    "Security",
+    "VPN",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-05T11:49:46.211544+00:00",
+  "updated_at": "2026-09-05T11:50:23.755318+00:00",
+  "published_to": []
+}

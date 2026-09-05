@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-011",
+  "source": "rss",
+  "source_url": "https://www.statichost.eu/",
+  "title": "Statichost.eu – European static site hosting",
+  "summary": "Statichost.eu is a European-based static site hosting service that provides simple, fast, and GDPR-compliant hosting for static websites. The service garnered significant attention on Hacker News with 310 points and 130 comments, indicating strong community interest in European hosting alternatives.",
+  "tech_stack": [
+    "CDN",
+    "Git",
+    "Static Hosting",
+    "TLS/SSL",
+    "CI/CD"
+  ],
+  "problem_solved": "Provides a privacy-focused, GDPR-compliant alternative for hosting static websites with European data residency.",
+  "why_valuable": "Offers European hosting infrastructure for developers seeking data sovereignty and compliance without sacrificing performance or simplicity.",
+  "tags": [
+    "Hosting",
+    "Static Sites",
+    "European",
+    "GDPR",
+    "Web Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-05T11:48:59.909475+00:00",
+  "updated_at": "2026-09-05T11:50:23.754246+00:00",
+  "published_to": []
+}

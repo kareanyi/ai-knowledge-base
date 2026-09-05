@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-013",
+  "source": "rss",
+  "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "title": "Can AI design circuit boards yet?",
+  "summary": "This article benchmarks the current state of AI capabilities in designing printed circuit boards (PCBs), testing various AI tools against real-world circuit design challenges. The author evaluates whether modern AI systems can autonomously handle tasks like schematic capture, component selection, and PCB layout routing.",
+  "tech_stack": [
+    "AI/LLM",
+    "PCB Design Tools",
+    "EDA Software",
+    "Circuit Simulation",
+    "Electronic Benchmarks"
+  ],
+  "problem_solved": "Determines whether current AI systems can replace or assist human engineers in designing functional circuit boards.",
+  "why_valuable": "Provides empirical evidence about AI's practical limitations in specialized engineering domains, helping the electronics industry understand realistic expectations for AI adoption in hardware design workflows.",
+  "tags": [
+    "AI",
+    "Electronics",
+    "PCB Design",
+    "Benchmarking",
+    "Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-05T11:49:17.011863+00:00",
+  "updated_at": "2026-09-05T11:50:23.754680+00:00",
+  "published_to": []
+}
