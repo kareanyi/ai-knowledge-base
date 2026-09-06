@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-014",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2609.03344",
+  "title": "LLMs as a Cognitive Virus",
+  "summary": "This paper explores the metaphor of Large Language Models as a 'cognitive virus,' examining how widespread LLM usage may alter human thinking patterns, reduce critical thinking, and potentially pose risks to human cognition and intellectual autonomy. The work likely discusses both theoretical frameworks and empirical observations about AI's psychological and societal impacts.",
+  "tech_stack": [
+    "LLM",
+    "AI",
+    "NLP",
+    "Cognitive Science",
+    "Machine Learning"
+  ],
+  "problem_solved": "Addresses concerns about how LLMs might negatively impact human cognitive abilities and critical thinking processes.",
+  "why_valuable": "Raises important awareness about the unintended cognitive consequences of AI dependency and prompts necessary discussions about AI's broader societal impact beyond technical capabilities.",
+  "tags": [
+    "AI Safety",
+    "Cognitive Science",
+    "LLM",
+    "AI Ethics",
+    "Society"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:07:29.834036+00:00",
+  "updated_at": "2026-09-06T12:10:29.409265+00:00",
+  "published_to": []
+}

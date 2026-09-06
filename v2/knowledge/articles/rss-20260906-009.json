@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-009",
+  "source": "rss",
+  "source_url": "https://openai.robocurve.org/gpt-6-astra/",
+  "title": "GPT-6 Astra on robot arms",
+  "summary": "An experimental project exploring the integration of GPT-6 (or OpenAI's latest model) with robotic arm control systems, likely demonstrating how large language models can interpret natural language commands and translate them into robotic movements or task execution.",
+  "tech_stack": [
+    "GPT-6",
+    "Robotics",
+    "OpenAI API",
+    "Robot Arms",
+    "Natural Language Processing"
+  ],
+  "problem_solved": "Enabling non-experts to control robotic arms through natural language instructions instead of requiring specialized programming knowledge.",
+  "why_valuable": "Democratizes robotics by allowing anyone to command robotic arms using conversational language, potentially revolutionizing industrial automation and human-robot collaboration.",
+  "tags": [
+    "Robotics",
+    "LLM",
+    "GPT-6",
+    "Automation",
+    "Natural Language Interface"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-06T12:06:33.841724+00:00",
+  "updated_at": "2026-09-06T12:10:29.408668+00:00",
+  "published_to": []
+}

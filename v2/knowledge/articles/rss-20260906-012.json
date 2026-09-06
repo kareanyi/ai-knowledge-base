@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260906-012",
+  "source": "rss",
+  "source_url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+  "title": "The revolt of the reader",
+  "summary": "Bryan Cantrill's thoughtful essay exploring the often-overlooked role of readers in computing systems, examining how traditional software architecture has historically prioritized writers over readers and the consequences of this imbalance. The piece draws on Cantrill's deep systems programming expertise to argue for reconsidering the reader's importance in system design.",
+  "tech_stack": [
+    "Systems Programming",
+    "DTrace",
+    "Operating Systems",
+    "Data Structures"
+  ],
+  "problem_solved": "Examines the systemic bias in computing where readers (consumers) are treated as secondary to writers (producers), and why this creates architectural problems.",
+  "why_valuable": "Challenges fundamental assumptions about data flow and consumption patterns in software systems, offering a fresh perspective on system design from one of the industry's most respected systems programmers.",
+  "tags": [
+    "Systems Design",
+    "Software Architecture",
+    "Read-Write Patterns",
+    "Technical Writing",
+    "Observability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:07:10.517438+00:00",
+  "updated_at": "2026-09-06T12:10:29.409002+00:00",
+  "published_to": []
+}

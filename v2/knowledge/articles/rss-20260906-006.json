@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-006",
+  "source": "rss",
+  "source_url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+  "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+  "summary": "Isar Aerospace, a German aerospace company, successfully reached orbit and deployed payloads on their second flight attempt, marking a historic milestone for European private spaceflight and demonstrating the viability of their small satellite launch vehicle.",
+  "tech_stack": [
+    "Rocket Launch Technology",
+    "Small Satellite Deployment",
+    "Liquid Propulsion",
+    "Orbital Flight Systems",
+    "Payload Integration"
+  ],
+  "problem_solved": "Provides Europe with independent small satellite launch capability, reducing dependence on foreign launch providers for small payloads.",
+  "why_valuable": "Achieving orbit on only the second flight demonstrates rapid technological maturity and positions Europe to compete in the growing small satellite launch market.",
+  "tags": [
+    "Aerospace",
+    "Spaceflight",
+    "Launch Vehicle",
+    "European Space",
+    "Small Satellites"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:05:59.348744+00:00",
+  "updated_at": "2026-09-06T12:10:29.408193+00:00",
+  "published_to": []
+}

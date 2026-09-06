@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260906-001",
+  "source": "rss",
+  "source_url": "https://github.com/pigeonlabsHQ/pigeon",
+  "title": "Pigeon, a signed Pass for what a sub-agent may do",
+  "summary": "Pigeon is a security framework that provides signed passes to control and restrict what actions sub-agents can perform within AI agent systems, essentially serving as a permission and authorization mechanism for multi-agent architectures.",
+  "tech_stack": [
+    "Python",
+    "Cryptographic Signing",
+    "Agent Framework Integration"
+  ],
+  "problem_solved": "Provides granular access control and permission management for sub-agents to prevent unauthorized actions in AI agent systems.",
+  "why_valuable": "Enables secure multi-agent deployments by implementing signed permission checks, preventing sub-agents from performing actions outside their defined scope.",
+  "tags": [
+    "AI Agents",
+    "Security",
+    "Access Control",
+    "Authorization",
+    "Multi-Agent Systems"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-06T12:05:10.198779+00:00",
+  "updated_at": "2026-09-06T12:10:29.400289+00:00",
+  "published_to": []
+}

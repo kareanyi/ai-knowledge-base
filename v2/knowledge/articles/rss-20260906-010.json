@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-010",
+  "source": "rss",
+  "source_url": "https://cloudinabottle.org/blog/launch-post",
+  "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+  "summary": "Cloud in a Bottle is an open-source project that simplifies self-hosting by packaging complex cloud infrastructure into an easy-to-use solution, making it accessible to non-technical users who want to run their own servers and services.",
+  "tech_stack": [
+    "Docker",
+    "Linux",
+    "Bash",
+    "YAML",
+    "Nginx"
+  ],
+  "problem_solved": "Eliminates the technical complexity and steep learning curve that prevents average users from self-hosting their own cloud services.",
+  "why_valuable": "It democratizes cloud infrastructure by empowering individuals to own and control their data without requiring DevOps expertise.",
+  "tags": [
+    "Self-Hosting",
+    "Cloud",
+    "Infrastructure",
+    "Open Source",
+    "DevOps"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:06:43.128240+00:00",
+  "updated_at": "2026-09-06T12:10:29.408783+00:00",
+  "published_to": []
+}

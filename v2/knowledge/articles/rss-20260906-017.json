@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-017",
+  "source": "rss",
+  "source_url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+  "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+  "summary": "A technical article that visually explains how Rust implements dynamic dispatch through virtual tables (vtables) for trait objects (dyn Trait), showing the actual memory layout and structure of these runtime polymorphism mechanisms.",
+  "tech_stack": [
+    "Rust",
+    "Memory Management",
+    "Vtables",
+    "Trait Objects",
+    "Dynamic Dispatch"
+  ],
+  "problem_solved": "Helps developers understand the invisible memory structures behind Rust's dyn Trait dynamic dispatch, making abstract compiler internals concrete and visible.",
+  "why_valuable": "Understanding vtable implementation is essential for writing efficient Rust code with trait objects, and visualization transforms an abstract concept into intuitive knowledge.",
+  "tags": [
+    "Rust",
+    "Vtables",
+    "Memory Layout",
+    "Trait Objects",
+    "Dynamic Dispatch"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:08:05.037289+00:00",
+  "updated_at": "2026-09-06T12:10:29.409618+00:00",
+  "published_to": []
+}

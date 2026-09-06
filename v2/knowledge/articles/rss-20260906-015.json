@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260906-015",
+  "source": "rss",
+  "source_url": "https://usr.lmf.cnrs.fr/lpo/",
+  "title": "Learn Programming with OCaml",
+  "summary": "Learn Programming with OCaml (LPO) 是由法国国家科学研究中心(CNRS)提供的免费在线教材,旨在帮助初学者通过学习OCaml函数式编程语言来入门编程。该课程来自法国顶级学术机构,在Hacker News上获得266分和101条评论的高度关注。",
+  "tech_stack": [
+    "OCaml",
+    "函数式编程",
+    "HTML/CSS",
+    "学术教材"
+  ],
+  "problem_solved": "帮助编程初学者通过学习OCaml函数式编程范式来入门计算机科学",
+  "why_valuable": "来自法国顶级学术机构CNRS的权威教材,提供免费高质量的编程学习资源,且OCaml作为函数式语言有助于培养严谨的编程思维",
+  "tags": [
+    "Programming",
+    "OCaml",
+    "Functional-Programming",
+    "Learning",
+    "Academic"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:07:39.481844+00:00",
+  "updated_at": "2026-09-06T12:10:29.409382+00:00",
+  "published_to": []
+}

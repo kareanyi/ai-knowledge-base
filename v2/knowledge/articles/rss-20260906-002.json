@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260906-002",
+  "source": "rss",
+  "source_url": "https://bergie.iki.fi/blog/eupl/",
+  "title": "I Changed My License",
+  "summary": "Henri Bergie shares his personal journey and reasoning behind changing his open source project's license, discussing the considerations and implications of license migration in the open source ecosystem.",
+  "tech_stack": [
+    "Open Source Licensing",
+    "EUPL",
+    "Python"
+  ],
+  "problem_solved": "Helps developers understand the practical considerations and decision-making process when migrating open source software between different licenses.",
+  "why_valuable": "Provides real-world insight into open source licensing decisions and the trade-offs developers face when changing project licenses.",
+  "tags": [
+    "Open Source",
+    "Licensing",
+    "EUPL",
+    "Software License",
+    "Legal"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-06T12:05:21.026975+00:00",
+  "updated_at": "2026-09-06T12:10:29.400572+00:00",
+  "published_to": []
+}

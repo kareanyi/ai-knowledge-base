@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-018",
+  "source": "rss",
+  "source_url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+  "title": "How Swiss tables work in Go built-in map",
+  "summary": "This article explains the internal implementation of Swiss tables in Go's built-in map, covering how the hash table algorithm works, its memory efficiency improvements, and the performance benefits over traditional open addressing schemes used in earlier Go versions.",
+  "tech_stack": [
+    "Go",
+    "Assembly",
+    "Low-level programming",
+    "Hash tables",
+    "Memory management"
+  ],
+  "problem_solved": "Provides understanding of how Go implements efficient hash maps using Swiss table algorithm for better cache locality and reduced memory overhead.",
+  "why_valuable": "Helps Go developers understand map internals to write more performant code and debug hash-related issues by knowing how collisions, rehashing, and memory layout work under the hood.",
+  "tags": [
+    "Go",
+    "SwissTables",
+    "HashMap",
+    "DataStructures",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:08:44.414069+00:00",
+  "updated_at": "2026-09-06T12:10:29.409731+00:00",
+  "published_to": []
+}

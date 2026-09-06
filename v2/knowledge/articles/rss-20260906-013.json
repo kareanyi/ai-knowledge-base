@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-013",
+  "source": "rss",
+  "source_url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+  "title": "Private German rocket makes history, reaches orbit from European soil",
+  "summary": "Isar Aerospace, a German private rocket company, successfully launched their Spectrum rocket to orbit from Norway's Andøya Spaceport, marking the first time a private European company achieves orbit from European soil. This historic launch demonstrates Europe's growing capability for independent space access without relying on non-European launch sites.",
+  "tech_stack": [
+    "Spectrum Rocket",
+    "Liquid Oxygen/Methane Propulsion",
+    "Andøya Spaceport",
+    "Small Satellite Launch Vehicle",
+    "Vertical Launch System"
+  ],
+  "problem_solved": "Enables Europe to launch rockets from European territory, reducing dependency on external launch facilities like French Guiana or non-European sites.",
+  "why_valuable": "This milestone represents a significant step toward European space independence and establishes a new competitive player in the small satellite launch market.",
+  "tags": [
+    "Space Launch",
+    "European Aerospace",
+    "Private Spaceflight",
+    "Orbital Rocket",
+    "Rocket Technology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:07:19.619203+00:00",
+  "updated_at": "2026-09-06T12:10:29.409112+00:00",
+  "published_to": []
+}

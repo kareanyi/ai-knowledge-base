@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-011",
+  "source": "rss",
+  "source_url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+  "title": "Chrome again exempts Google from user site data settings",
+  "summary": "Investigative article revealing that Chrome has once again exempted Google's own websites from user site data privacy settings, raising concerns about unfair treatment of competitors and potential privacy implications for users.",
+  "tech_stack": [
+    "Chrome",
+    "Browser Technology",
+    "Web Privacy",
+    "HTML5 Storage",
+    "Browser APIs"
+  ],
+  "problem_solved": "Exposes potential bias in Chrome's privacy enforcement where Google's own sites are treated differently from third-party sites regarding user data controls.",
+  "why_valuable": "Highlights important questions about browser neutrality, fair competition, and whether major tech companies can be trusted to self-regulate their own privacy practices.",
+  "tags": [
+    "browser-privacy",
+    "google-chrome",
+    "antitrust",
+    "user-data",
+    "big-tech"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-06T12:06:52.995990+00:00",
+  "updated_at": "2026-09-06T12:10:29.408894+00:00",
+  "published_to": []
+}

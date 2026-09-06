@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-003",
+  "source": "rss",
+  "source_url": "https://keenbean.app/",
+  "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
+  "summary": "Keen Bean is a macOS meeting notes application that uses AI to automatically draft technical specifications in real-time during meetings, eliminating the need for manual documentation while allowing users to focus on the conversation.",
+  "tech_stack": [
+    "Swift",
+    "SwiftUI",
+    "AI/LLM Integration",
+    "macOS",
+    "Core ML"
+  ],
+  "problem_solved": "Reduces the burden of manual meeting documentation by automatically generating specs and notes while discussions are happening",
+  "why_valuable": "Saves significant time on post-meeting documentation and ensures no critical details are missed during important discussions",
+  "tags": [
+    "macOS",
+    "Meeting Tools",
+    "AI Automation",
+    "Productivity",
+    "Documentation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-06T12:05:31.712797+00:00",
+  "updated_at": "2026-09-06T12:10:29.400706+00:00",
+  "published_to": []
+}

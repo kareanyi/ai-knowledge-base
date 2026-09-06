@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260906-007",
+  "source": "rss",
+  "source_url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+  "title": "AMD Based FreeBSD Desktop Reloaded",
+  "summary": "A technical guide on setting up an AMD-based desktop environment on FreeBSD, likely covering GPU drivers, system configuration, and desktop software integration for a modern BSD workstation.",
+  "tech_stack": [
+    "FreeBSD",
+    "AMD GPU",
+    "AMD CPU",
+    "X11/Wayland",
+    "BSD Desktop Environment"
+  ],
+  "problem_solved": "Provides guidance on running FreeBSD with AMD hardware, addressing the historical challenge of AMD GPU/driver support on BSD systems.",
+  "why_valuable": "FreeBSD desktop documentation is scarce, and AMD hardware support has been traditionally limited, making this a valuable resource for BSD enthusiasts seeking an alternative to Linux.",
+  "tags": [
+    "FreeBSD",
+    "AMD",
+    "Desktop Setup",
+    "BSD",
+    "Open Source OS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-06T12:06:09.642639+00:00",
+  "updated_at": "2026-09-06T12:10:29.408416+00:00",
+  "published_to": []
+}
