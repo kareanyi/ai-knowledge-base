@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+  "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+  "summary": "MG Ship has launched an AI-powered route optimization and carrier selection module targeting global retailers and commercial shippers, utilizing automated routing algorithms combined with carrier recommendation systems across international trade corridors to deliver measurable operational efficiency gains in logistics operations.",
+  "tech_stack": [
+    "AI",
+    "Route Optimization Algorithms",
+    "Carrier Recommendation Systems",
+    "Automation",
+    "International Trade Systems"
+  ],
+  "problem_solved": "Addresses inefficient manual route planning and carrier selection processes in global logistics operations that lead to increased costs and delivery times.",
+  "why_valuable": "Provides enterprise supply chain operators with quantifiable cost and time savings through automated decision-making in shipping logistics.",
+  "tags": [
+    "AI",
+    "Logistics",
+    "Supply Chain",
+    "Route Optimization",
+    "Retail"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:13:58.439554+00:00",
+  "updated_at": "2026-09-07T14:15:59.790848+00:00",
+  "published_to": []
+}

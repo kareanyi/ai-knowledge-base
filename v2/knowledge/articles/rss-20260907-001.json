@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260907-001",
+  "source": "rss",
+  "source_url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+  "title": "De-Brainrot Vacations",
+  "summary": "A developer shares their experience of taking a vacation to disconnect from technology and social media 'brainrot', reflecting on digital detox and mental reset during time off work. The article resonated with the tech community, gaining significant engagement on Hacker News.",
+  "tech_stack": [
+    "Blog/CMS",
+    "Hacker News Integration"
+  ],
+  "problem_solved": "Addresses the challenge of tech burnout and digital overstimulation that many developers experience in their daily lives.",
+  "why_valuable": "It provides a relatable perspective on mental health and digital wellness in the developer community, offering insights into managing screen time and avoiding cognitive fatigue.",
+  "tags": [
+    "Mental Health",
+    "Digital Detox",
+    "Work-Life Balance",
+    "Developer Experience",
+    "Burnout"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:09:49.867366+00:00",
+  "updated_at": "2026-09-07T14:15:59.778587+00:00",
+  "published_to": []
+}

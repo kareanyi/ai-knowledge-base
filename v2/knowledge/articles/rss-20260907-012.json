@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-012",
+  "source": "rss",
+  "source_url": "https://openbaarvervoerbelgie.be/",
+  "title": "Live map of public transport in Belgium",
+  "summary": "A live interactive map website displaying real-time public transportation routes and schedules across Belgium, including trains, buses, trams, and metro systems, allowing users to track and plan their transit journeys.",
+  "tech_stack": [
+    "JavaScript",
+    "Leaflet.js",
+    "GTFS",
+    "Node.js",
+    "OpenStreetMap"
+  ],
+  "problem_solved": "Provides real-time visibility and tracking of public transportation options across Belgium.",
+  "why_valuable": "Helps commuters and travelers easily discover and monitor public transit options with up-to-date information in one convenient interface.",
+  "tags": [
+    "transit",
+    "mapping",
+    "Belgium",
+    "real-time",
+    "open-data"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:12:14.122469+00:00",
+  "updated_at": "2026-09-07T14:15:59.788992+00:00",
+  "published_to": []
+}

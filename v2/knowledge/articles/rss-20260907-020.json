@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-020",
+  "source": "rss",
+  "source_url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+  "title": "It took a year to ship WebAssembly in Anubis",
+  "summary": "A detailed technical retrospective on the year-long journey of integrating WebAssembly into Anubis, a developer tool/platform, sharing the real-world challenges, architectural decisions, and lessons learned from shipping WASM support in a production system.",
+  "tech_stack": [
+    "WebAssembly",
+    "WASM",
+    "JavaScript",
+    "Systems Programming",
+    "Backend"
+  ],
+  "problem_solved": "Successfully integrated WebAssembly runtime support into the Anubis platform, enabling users to run WASM-compiled code within the existing infrastructure.",
+  "why_valuable": "Provides authentic, hard-won insights from a year of production WASM integration that can help other developers avoid similar pitfalls and set realistic expectations for their own WASM adoption journeys.",
+  "tags": [
+    "WebAssembly",
+    "WASM",
+    "Software Architecture",
+    "Developer Experience",
+    "Engineering retrospective"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-07T14:13:48.836114+00:00",
+  "updated_at": "2026-09-07T14:15:59.790627+00:00",
+  "published_to": []
+}

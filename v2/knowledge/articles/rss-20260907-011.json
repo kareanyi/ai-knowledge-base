@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-011",
+  "source": "rss",
+  "source_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+  "title": "Speculative Decoding in vLLM on AMD GPUs",
+  "summary": "This article explains how vLLM implements speculative decoding on AMD GPUs using ROCm, enabling faster LLM inference by having a smaller draft model propose tokens that are verified in parallel by the larger target model, making AMD hardware more competitive for production LLM deployments.",
+  "tech_stack": [
+    "vLLM",
+    "ROCm",
+    "Python",
+    "PyTorch",
+    "Speculative Decoding"
+  ],
+  "problem_solved": "Enables efficient speculative decoding inference on AMD GPUs, which previously lacked optimized support in vLLM's high-performance inference engine.",
+  "why_valuable": "Allows AMD GPU users to achieve significantly faster LLM inference speeds at lower hardware costs, democratizing access to optimized large language model serving.",
+  "tags": [
+    "LLM Inference",
+    "Speculative Decoding",
+    "AMD GPUs",
+    "vLLM",
+    "ROCm"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-07T14:12:03.339217+00:00",
+  "updated_at": "2026-09-07T14:15:59.788795+00:00",
+  "published_to": []
+}

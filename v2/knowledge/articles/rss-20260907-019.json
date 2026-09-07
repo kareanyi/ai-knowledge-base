@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-019",
+  "source": "rss",
+  "source_url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+  "title": "Is mathematics about to enter the conservatory?",
+  "summary": "A reflective essay exploring how AI and LLMs are transforming mathematical research and practice, drawing an analogy to how music became institutionalized through conservatories. The author examines whether mathematics is undergoing a similar paradigm shift as computational tools become integral to proof discovery and mathematical reasoning.",
+  "tech_stack": [
+    "LLMs",
+    "Python",
+    "Lean",
+    "Mathematica",
+    "Machine Learning"
+  ],
+  "problem_solved": "Explores the philosophical and practical implications of AI-assisted mathematics and whether formal institutional changes are needed to accommodate computational mathematical tools.",
+  "why_valuable": "Provides thought-provoking analysis on how AI is reshaping one of humanity's most rigorous intellectual disciplines, with implications for education, research, and the nature of mathematical truth.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "LLM",
+    "Research",
+    "Philosophy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:13:33.984037+00:00",
+  "updated_at": "2026-09-07T14:15:59.790430+00:00",
+  "published_to": []
+}

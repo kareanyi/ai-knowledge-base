@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-005",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+  "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+  "summary": "Tottenham Hotspur football club successfully migrated their IT infrastructure away from VMware, achieving an 85 percent reduction in licensing fees. This migration is part of a broader trend where organizations are seeking alternatives to VMware following Broadcom's acquisition and subsequent pricing changes.",
+  "tech_stack": [
+    "VMware",
+    "Virtualization",
+    "IT Infrastructure",
+    "Cloud Computing",
+    "Hypervisor"
+  ],
+  "problem_solved": "Addresses the problem of excessive VMware licensing costs that have skyrocketed following Broadcom's acquisition of VMware.",
+  "why_valuable": "Demonstrates a real-world 85% cost reduction case study, showing organizations can achieve significant savings while maintaining reliable IT infrastructure through strategic vendor migration.",
+  "tags": [
+    "VMware",
+    "Cost Reduction",
+    "IT Migration",
+    "Virtualization",
+    "Enterprise Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:10:44.874959+00:00",
+  "updated_at": "2026-09-07T14:15:59.779308+00:00",
+  "published_to": []
+}

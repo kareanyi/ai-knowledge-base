@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260907-013",
+  "source": "rss",
+  "source_url": "https://orchidfiles.com/programming-is-art/",
+  "title": "Programming is Art",
+  "summary": "This article explores the artistic and creative dimensions of programming, arguing that writing code shares many qualities with artistic expression such as aesthetics, style, and personal expression.",
+  "tech_stack": [
+    "General Programming"
+  ],
+  "problem_solved": "Challenges the perception that programming is purely technical and mechanical, highlighting its creative and aesthetic aspects.",
+  "why_valuable": "Provides a philosophical perspective that can help programmers appreciate the beauty in their craft and develop a more holistic approach to software development.",
+  "tags": [
+    "Programming Philosophy",
+    "Software Craftsmanship",
+    "Creative Coding",
+    "Developer Perspective",
+    "Art of Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:12:24.013135+00:00",
+  "updated_at": "2026-09-07T14:15:59.789190+00:00",
+  "published_to": []
+}

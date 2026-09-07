@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260907-003",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+  "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+  "summary": "This article reports on how major smartphone manufacturers are failing to meet the EU's repairability requirements under the new Right to Repair legislation, with devices scoring poorly on repairability indices despite regulatory mandates aimed at reducing e-waste and extending product lifespans.",
+  "tech_stack": [
+    "Smartphone hardware",
+    "EU regulations",
+    "Sustainability policy"
+  ],
+  "problem_solved": "Addresses the growing e-waste crisis and planned obsolescence by examining why smartphone manufacturers resist EU-mandated repairability standards.",
+  "why_valuable": "Sheds light on the disconnect between regulatory intent and industry practice, informing consumers and policymakers about challenges in implementing sustainable electronics legislation.",
+  "tags": [
+    "Smartphones",
+    "EU regulation",
+    "Right to Repair",
+    "Sustainability",
+    "Consumer Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:10:21.816099+00:00",
+  "updated_at": "2026-09-07T14:15:59.779023+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-002",
+  "source": "rss",
+  "source_url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+  "title": "Splash-free urinals for global sustainability and accessibility",
+  "summary": "This is an academic research paper from PNAS Nexus investigating the physics of urinal splashing and proposing optimized urinal designs that reduce water usage while improving accessibility for users of different heights and physical abilities.",
+  "tech_stack": [
+    "Computational Fluid Dynamics",
+    "Materials Science",
+    "Ergonomic Design",
+    "Experimental Physics",
+    "3D Printing"
+  ],
+  "problem_solved": "Reduces water waste in public restrooms and improves accessibility by designing urinals that minimize splash-back for all users regardless of height or physical capability.",
+  "why_valuable": "Addresses both environmental sustainability (water conservation) and social inclusion (accessibility for diverse users) through evidence-based design optimization.",
+  "tags": [
+    "Sustainability",
+    "Accessibility",
+    "Fluid Dynamics",
+    "Product Design",
+    "Inclusive Engineering"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-07T14:10:04.257382+00:00",
+  "updated_at": "2026-09-07T14:15:59.778873+00:00",
+  "published_to": []
+}

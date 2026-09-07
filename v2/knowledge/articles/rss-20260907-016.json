@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260907-016",
+  "source": "rss",
+  "source_url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+  "title": "Keep Our Servers Running",
+  "summary": "Internet Archive is running a September fundraising campaign offering 3x matching for recurring donations to support their server infrastructure and digital preservation mission. The campaign generated significant community interest with 676 points and 165 comments on Hacker News.",
+  "tech_stack": [
+    "Web Infrastructure",
+    "Digital Preservation",
+    "Web Archiving"
+  ],
+  "problem_solved": "Raises funds to maintain Internet Archive's servers that preserve billions of web pages, books, videos, and audio files accessible to the public for free.",
+  "why_valuable": "Internet Archive serves as a critical digital library preserving human knowledge and cultural heritage for future generations, accessible to anyone with an internet connection.",
+  "tags": [
+    "Digital Preservation",
+    "Nonprofit",
+    "Open Access",
+    "Web Archive",
+    "Crowdfunding"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:12:56.502282+00:00",
+  "updated_at": "2026-09-07T14:15:59.789828+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-015",
+  "source": "rss",
+  "source_url": "https://github.com/timgordontg/engrim",
+  "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+  "summary": "Engrim is a universal, local-first memory engine built on SQLite that enables AI command-line interfaces to maintain persistent context and state across conversations without relying on cloud services.",
+  "tech_stack": [
+    "SQLite",
+    "Python",
+    "AI CLI",
+    "Local-first Architecture",
+    "Context Management"
+  ],
+  "problem_solved": "Enables AI CLI tools to maintain persistent memory and context locally, eliminating the need for cloud-based memory services while preserving user privacy.",
+  "why_valuable": "Provides a privacy-preserving, open-source solution for AI context management that keeps all data on the user's machine while remaining framework-agnostic.",
+  "tags": [
+    "AI",
+    "SQLite",
+    "local-first",
+    "CLI",
+    "memory-engine"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:12:45.514168+00:00",
+  "updated_at": "2026-09-07T14:15:59.789606+00:00",
+  "published_to": []
+}

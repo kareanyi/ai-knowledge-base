@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260907-004",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49596976",
+  "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+  "summary": "A security researcher discovered that CodePen 2.0 transmits user input to their servers in near real-time (1-2 seconds) as you type, even before saving. Testing with a unique marker confirmed that typed content appears verbatim in network requests to codepen.dev, raising concerns about accidental secret exposure.",
+  "tech_stack": [
+    "Web Security",
+    "Browser DevTools",
+    "Network Analysis"
+  ],
+  "problem_solved": "Reveals a privacy/security issue where CodePen's live preview system may inadvertently transmit sensitive data like API keys or secrets to third-party servers without explicit user consent.",
+  "why_valuable": "Highlights an important security concern for developers who may accidentally type secrets into online code editors, potentially exposing credentials to unauthorized servers.",
+  "tags": [
+    "Security",
+    "Privacy",
+    "Web Dev",
+    "CodePen",
+    "Data Exposure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:10:32.692189+00:00",
+  "updated_at": "2026-09-07T14:15:59.779168+00:00",
+  "published_to": []
+}

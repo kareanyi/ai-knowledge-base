@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-010",
+  "source": "rss",
+  "source_url": "https://mathathonchallenge.com/index.html",
+  "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+  "summary": "Caltech Mathathon is the first hackathon ever devoted to research-level mathematics, bringing hackathon culture to pure mathematical research and creating a unique collaborative platform for mathematicians to tackle advanced theoretical problems in a time-boxed competitive format.",
+  "tech_stack": [
+    "LaTeX",
+    "Mathematica",
+    "Python",
+    "Proof Assistants",
+    "Computational Mathematics"
+  ],
+  "problem_solved": "Bridges the gap between hackathon culture and theoretical mathematics research, making advanced math collaboration more accessible and time-efficient.",
+  "why_valuable": "Creates a novel intersection of competitive programming culture with deep mathematical research, potentially accelerating breakthroughs by fostering intense collaboration among mathematicians.",
+  "tags": [
+    "Mathematics",
+    "Research",
+    "Hackathon",
+    "Caltech",
+    "Academic"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-07T14:11:50.594786+00:00",
+  "updated_at": "2026-09-07T14:15:59.788562+00:00",
+  "published_to": []
+}
