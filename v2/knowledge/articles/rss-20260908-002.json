@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260908-002",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+  "title": "Why getting your hands dirty is good for you",
+  "summary": "BBC Future article exploring the scientific evidence behind how exposure to soil and microorganisms through activities like gardening can boost human health within weeks, including improvements to immune function, mental health, and gut microbiome diversity.",
+  "tech_stack": [
+    "N/A - Health/Science Article"
+  ],
+  "problem_solved": "Explains why modern humans are missing essential microbial exposures from natural environments that our immune systems evolved to need.",
+  "why_valuable": "Provides accessible scientific explanations for the health benefits of nature exposure, backed by research on the microbiome-immune system connection.",
+  "tags": [
+    "Health",
+    "Microbiome",
+    "Nature",
+    "Wellness",
+    "Immunology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:46:22.261702+00:00",
+  "updated_at": "2026-09-08T12:49:32.166237+00:00",
+  "published_to": []
+}

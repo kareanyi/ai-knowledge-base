@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-008",
+  "source": "rss",
+  "source_url": "https://rohanadwankar.github.io/posts/platforms.html",
+  "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+  "summary": "A technical deep-dive exploring the virtual machine infrastructure that powers mobile AI agents, specifically analyzing how platforms like Instinct and Claude Code execute agent tasks within isolated VM environments for reliability and scalability.",
+  "tech_stack": [
+    "Virtual Machines",
+    "Claude Code",
+    "Anthropic",
+    "Mobile Agents",
+    "Python"
+  ],
+  "problem_solved": "Reveals how AI agent platforms achieve reliable task execution through VM-based isolation and state management",
+  "why_valuable": "Provides rare insight into the underlying infrastructure powering the next generation of AI agents, essential knowledge for developers building production agent systems",
+  "tags": [
+    "AI-Agents",
+    "Virtualization",
+    "Claude-Code",
+    "Infrastructure",
+    "Agent-Architecture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:47:20.250714+00:00",
+  "updated_at": "2026-09-08T12:49:32.175530+00:00",
+  "published_to": []
+}

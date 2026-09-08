@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-009",
+  "source": "rss",
+  "source_url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+  "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+  "summary": "Arm announced the Mali G2-Ultra NX GPU, bringing desktop-class gaming performance to mobile devices with integrated AI-native graphics capabilities for enhanced rendering and visual quality.",
+  "tech_stack": [
+    "ARM Architecture",
+    "AI-native Graphics",
+    "Mobile GPU",
+    "Ray Tracing",
+    "Machine Learning"
+  ],
+  "problem_solved": "Enables high-performance desktop-quality gaming on mobile devices while incorporating AI-accelerated graphics rendering for improved visual fidelity.",
+  "why_valuable": "Bridges the performance gap between mobile and desktop gaming by combining powerful GPU architecture with native AI capabilities for smarter, more efficient graphics processing.",
+  "tags": [
+    "Mobile GPU",
+    "AI Graphics",
+    "Mobile Gaming",
+    "ARM",
+    "Ray Tracing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:47:29.232654+00:00",
+  "updated_at": "2026-09-08T12:49:32.175709+00:00",
+  "published_to": []
+}

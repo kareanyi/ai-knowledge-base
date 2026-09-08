@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-013",
+  "source": "rss",
+  "source_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+  "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+  "summary": "A security researcher successfully factored RSA keys from a Certificate Authority dating back to the 1990s, demonstrating that legacy cryptographic keys from that era can be broken with modern computational power and factorization techniques.",
+  "tech_stack": [
+    "RSA Cryptography",
+    "Certificate Authority",
+    "Python",
+    "GMP (GNU MP Library)",
+    "LLL Algorithm"
+  ],
+  "problem_solved": "Demonstrates the practical vulnerability of old 1990s-era RSA keys that may still be in use or cached in systems.",
+  "why_valuable": "Highlights the critical security risk of legacy cryptographic keys and the necessity of regular key rotation and deprecation of outdated encryption standards.",
+  "tags": [
+    "Cryptography",
+    "Security",
+    "RSA",
+    "Certificate Authority",
+    "Vulnerability Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-08T12:48:12.559945+00:00",
+  "updated_at": "2026-09-08T12:49:32.176513+00:00",
+  "published_to": []
+}

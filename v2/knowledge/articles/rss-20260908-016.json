@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-016",
+  "source": "rss",
+  "source_url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+  "title": "Emacs Bedrock 2.0",
+  "summary": "Emacs Bedrock 2.0 is a minimal yet powerful Emacs configuration framework that provides a solid foundation for customizing and extending the Emacs editor. This major version update likely brings improved modularity, better defaults, and enhanced tooling for developers who want a clean starting point for their Emacs setup.",
+  "tech_stack": [
+    "Emacs Lisp",
+    "Emacs",
+    "Git",
+    "Org-mode",
+    "Shell"
+  ],
+  "problem_solved": "Provides a well-structured, minimal Emacs configuration foundation to avoid starting from scratch or dealing with bloated starter kits.",
+  "why_valuable": "It offers a balanced approach between customization and simplicity, helping developers build efficient, personalized Emacs environments with less configuration overhead.",
+  "tags": [
+    "Emacs",
+    "Text-Editor",
+    "Configuration",
+    "Lisp",
+    "Developer-Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:48:44.715570+00:00",
+  "updated_at": "2026-09-08T12:49:32.177086+00:00",
+  "published_to": []
+}

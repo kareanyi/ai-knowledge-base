@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-017",
+  "source": "rss",
+  "source_url": "https://lax-skyline.parcelscope.net/",
+  "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+  "summary": "An interactive web-based visualization that chronologically maps the construction history of Los Angeles buildings from 1880 to 2026, allowing users to watch the city's skyline evolve building by building over nearly 150 years.",
+  "tech_stack": [
+    "JavaScript",
+    "GIS/Mapping",
+    "Web Visualization",
+    "Geographic Data",
+    "D3.js or similar"
+  ],
+  "problem_solved": "Makes complex urban development data accessible and engaging by visualizing how Los Angeles grew and transformed over time.",
+  "why_valuable": "Provides urban planners, historians, and citizens with an intuitive tool to understand city growth patterns and the historical context of urban development.",
+  "tags": [
+    "Urban Planning",
+    "Data Visualization",
+    "Historical Analysis",
+    "Mapping",
+    "GIS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-08T12:48:55.164163+00:00",
+  "updated_at": "2026-09-08T12:49:32.177276+00:00",
+  "published_to": []
+}

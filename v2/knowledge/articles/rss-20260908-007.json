@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260908-007",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+  "title": "Mistral raises €3B",
+  "summary": "Mistral AI, the French AI company, has raised €3 billion in a massive funding round to advance sovereign open-weight AI to frontier level. This represents one of the largest AI funding rounds in Europe and positions Mistral to compete directly with US-based AI giants while promoting European AI independence through open-weight model development.",
+  "tech_stack": [
+    "Large Language Models",
+    "Open-weight AI",
+    "Machine Learning Infrastructure"
+  ],
+  "problem_solved": "Addresses European AI sovereignty by enabling the development of competitive frontier AI capabilities independent of US tech giants.",
+  "why_valuable": "This €3B funding demonstrates strong investor confidence in European AI capabilities and accelerates the push for open-weight AI models that can be deployed without vendor lock-in.",
+  "tags": [
+    "AI",
+    "Funding",
+    "European Tech",
+    "LLM",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-08T12:47:09.852795+00:00",
+  "updated_at": "2026-09-08T12:49:32.175314+00:00",
+  "published_to": []
+}

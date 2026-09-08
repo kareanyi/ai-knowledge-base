@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260908-004",
+  "source": "rss",
+  "source_url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+  "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+  "summary": "这篇文章分析了欧洲企业的CDN使用情况，揭示了近90%使用CDN的欧洲企业选择Cloudflare的市场现状，反映了CDN基础设施领域的高度集中化趋势和潜在的单点依赖风险。",
+  "tech_stack": [
+    "Cloudflare CDN",
+    "Content Delivery Network",
+    "网络基础设施",
+    "Web性能优化"
+  ],
+  "problem_solved": "展示了CDN市场集中度问题，帮助理解互联网基础设施的竞争格局和依赖风险",
+  "why_valuable": "提供了欧洲CDN市场份额的具体数据，帮助识别关键基础设施提供商的主导地位和市场风险",
+  "tags": [
+    "CDN",
+    "Cloudflare",
+    "Market Analysis",
+    "Infrastructure",
+    "Europe"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-08T12:46:39.754402+00:00",
+  "updated_at": "2026-09-08T12:49:32.174650+00:00",
+  "published_to": []
+}

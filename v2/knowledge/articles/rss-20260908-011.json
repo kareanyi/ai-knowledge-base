@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-011",
+  "source": "rss",
+  "source_url": "https://weirdgloop.org/blog/google-jail",
+  "title": "There's a new \"Google Jail\" for independent wikis",
+  "summary": "An article discussing how independent wikis are experiencing mysterious search visibility drops in Google, often called 'Google Jail', where sites lose significant organic traffic without clear reason. The post has gained significant attention on Hacker News with 244 points and 89 comments, indicating this is a widespread concern affecting wiki maintainers.",
+  "tech_stack": [
+    "SEO",
+    "Web Infrastructure",
+    "Content Management",
+    "Open Source",
+    "MediaWiki"
+  ],
+  "problem_solved": "Addresses the problem of independent wikis being penalized or deindexed by Google's algorithm, losing critical search traffic that these knowledge-sharing platforms depend on.",
+  "why_valuable": "Independent wikis rely heavily on organic search for discoverability, and being excluded from Google severely impacts their ability to serve users and maintain community sustainability.",
+  "tags": [
+    "SEO",
+    "Independent Publishing",
+    "Wikis",
+    "Web Visibility",
+    "Google Algorithm"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:47:54.017995+00:00",
+  "updated_at": "2026-09-08T12:49:32.176095+00:00",
+  "published_to": []
+}

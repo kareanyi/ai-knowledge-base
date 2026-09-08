@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260908-006",
+  "source": "rss",
+  "source_url": "https://www.pm.gov.au/media/my-feed-my-way",
+  "title": "My Feed, My Way",
+  "summary": "The Australian Prime Minister's office released a media statement titled 'My Feed, My Way,' which appears to be a policy initiative related to social media algorithms and giving users more control over their content feeds. This initiative gained significant attention on Hacker News with 148 points and 113 comments.",
+  "tech_stack": [
+    "Social Media Platforms",
+    "Algorithm Systems",
+    "Digital Policy"
+  ],
+  "problem_solved": "Addresses concerns about social media algorithmic manipulation and lack of user control over content feeds.",
+  "why_valuable": "Provides government-level acknowledgment and potential regulation of social media platform practices that affect user content consumption and digital autonomy.",
+  "tags": [
+    "social-media",
+    "algorithms",
+    "digital-policy",
+    "australia",
+    "user-control"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:47:01.587199+00:00",
+  "updated_at": "2026-09-08T12:49:32.175085+00:00",
+  "published_to": []
+}

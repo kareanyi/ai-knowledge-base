@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260908-010",
+  "source": "rss",
+  "source_url": "https://danluu.com/agentic-testing/",
+  "title": "How well do agents use test/verification techniques?",
+  "summary": "Dan Luu examines how effectively AI agents utilize testing and verification techniques in software development, likely providing empirical analysis and data-driven insights into the current capabilities and limitations of agentic AI systems in quality assurance workflows.",
+  "tech_stack": [
+    "AI Agents",
+    "Testing Frameworks",
+    "Software Verification",
+    "LLM-based Systems"
+  ],
+  "problem_solved": "Evaluates whether AI agents can reliably use test-driven development and verification methods to produce correct, bug-free code.",
+  "why_valuable": "Provides concrete, data-backed analysis of a critical question in AI-assisted software development: whether agents can be trusted to write and validate their own tests.",
+  "tags": [
+    "AI Agents",
+    "Testing",
+    "Verification",
+    "Software Quality",
+    "Agentic AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-08T12:47:39.593180+00:00",
+  "updated_at": "2026-09-08T12:49:32.175904+00:00",
+  "published_to": []
+}

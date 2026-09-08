@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-018",
+  "source": "rss",
+  "source_url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+  "title": "Understanding Computer Memory Architecture and SSD Internals",
+  "summary": "An educational article explaining how computer memory architecture works, including RAM, cache hierarchy, and virtual memory concepts, along with detailed SSD internals covering NAND flash, wear leveling, and garbage collection mechanisms.",
+  "tech_stack": [
+    "Hardware Architecture",
+    "RAM",
+    "NAND Flash",
+    "SSD",
+    "Memory Hierarchy"
+  ],
+  "problem_solved": "Helps developers understand low-level hardware concepts like memory management and storage technology to write more efficient software.",
+  "why_valuable": "Provides essential foundational knowledge that bridges the gap between software and hardware, enabling developers to make better architectural decisions and optimize performance.",
+  "tags": [
+    "Hardware",
+    "Memory",
+    "SSD",
+    "Systems Programming",
+    "Low-level"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:49:18.348031+00:00",
+  "updated_at": "2026-09-08T12:49:32.177496+00:00",
+  "published_to": []
+}

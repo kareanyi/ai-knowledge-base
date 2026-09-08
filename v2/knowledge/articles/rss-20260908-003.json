@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260908-003",
+  "source": "rss",
+  "source_url": "https://vale.rocks/posts/html-relics",
+  "title": "Antiquated HTML Snippets and Artefacts",
+  "summary": "A blog post discussing obsolete and deprecated HTML patterns that were once common in web development but are no longer considered best practices, serving as a guide for modernizing legacy code and understanding HTML evolution.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "DOM"
+  ],
+  "problem_solved": "Helps developers identify outdated HTML artifacts and replace them with modern, standards-compliant alternatives.",
+  "why_valuable": "Keeps web developers informed about deprecated practices and ensures cleaner, more maintainable HTML code in modern web projects.",
+  "tags": [
+    "HTML",
+    "Web Development",
+    "Legacy Code",
+    "Frontend",
+    "Best Practices"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-08T12:46:30.481669+00:00",
+  "updated_at": "2026-09-08T12:49:32.166469+00:00",
+  "published_to": []
+}

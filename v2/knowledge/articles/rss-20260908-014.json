@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-014",
+  "source": "rss",
+  "source_url": "https://d2lang.com/blog/tala-is-open-source/",
+  "title": "TALA Is Open-Source",
+  "summary": "D2 图表语言宣布其核心组件 TALA 正式开源发布，这是一个用于图表布局和渲染的重要工具，Hacker News 获得 250 分和 20 条评论关注。",
+  "tech_stack": [
+    "D2",
+    "Go",
+    "Open Source",
+    "Diagram",
+    "Layout Engine"
+  ],
+  "problem_solved": "为 D2 图表语言提供开源的布局算法和渲染能力，使开发者能够更好地控制和定制图表生成过程。",
+  "why_valuable": "开源 TALA 让社区能够参与改进、审计代码并自由使用核心组件，推动 D2 生态系统的持续发展。",
+  "tags": [
+    "D2",
+    "Open Source",
+    "Diagram",
+    "Layout",
+    "Graphical Programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-08T12:48:24.974461+00:00",
+  "updated_at": "2026-09-08T12:49:32.176704+00:00",
+  "published_to": []
+}
