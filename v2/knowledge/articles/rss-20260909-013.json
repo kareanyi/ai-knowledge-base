@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260909-013",
+  "source": "rss",
+  "source_url": "https://gpu-lexer.vercel.app/",
+  "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+  "summary": "A lightweight 27.5KB syntax highlighter that leverages WebGPU for GPU-accelerated text highlighting, offering language-agnostic support with exceptional performance.",
+  "tech_stack": [
+    "WebGPU",
+    "JavaScript",
+    "GPU Shaders",
+    "WGSL"
+  ],
+  "problem_solved": "Provides high-performance syntax highlighting by offloading computation to GPU, addressing the performance limitations of traditional CPU-based highlighters.",
+  "why_valuable": "Combines tiny bundle size (27.5KB) with GPU acceleration for near-instant syntax highlighting across multiple programming languages.",
+  "tags": [
+    "WebGPU",
+    "Syntax-Highlighting",
+    "Performance",
+    "GPU-Computing",
+    "Developer-Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-09T12:55:04.201174+00:00",
+  "updated_at": "2026-09-09T12:59:14.324984+00:00",
+  "published_to": []
+}

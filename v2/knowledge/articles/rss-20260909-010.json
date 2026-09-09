@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260909-010",
+  "source": "rss",
+  "source_url": "https://gwern.net/on-really-trying",
+  "title": "On Really Trying (2009)",
+  "summary": "This essay explores the concept of genuine effort versus superficial attempts, examining why people often fail to truly commit to their goals and what it means to 'really try.' Based on Gwern's characteristic evidence-based, rationalist approach, it likely analyzes the psychological and practical barriers to authentic commitment.",
+  "tech_stack": [
+    "Static Site Generator",
+    "Markdown",
+    "HTML"
+  ],
+  "problem_solved": "Addresses why people fail to genuinely commit effort to their goals, settling instead for half-hearted attempts that guarantee mediocre results.",
+  "why_valuable": "Provides a framework for understanding authentic commitment and effort, helping readers distinguish between performative action and genuine striving.",
+  "tags": [
+    "Self-Improvement",
+    "Rationality",
+    "Psychology",
+    "Effort",
+    "Productivity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-09T12:54:20.575795+00:00",
+  "updated_at": "2026-09-09T12:59:14.324404+00:00",
+  "published_to": []
+}

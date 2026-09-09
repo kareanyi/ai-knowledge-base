@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260909-019",
+  "source": "rss",
+  "source_url": "https://openai.com/index/navier-stokes-solution/",
+  "title": "On the Navier–Stokes Millennium Prize Problem",
+  "summary": "A mathematician has claimed to solve the Navier-Stokes Millennium Prize Problem, one of the seven most important unsolved problems in mathematics, sparking massive discussion across the mathematics and tech communities including OpenAI and Sam Altman sharing insights on this potential breakthrough.",
+  "tech_stack": [
+    "Mathematical Proof",
+    "Partial Differential Equations",
+    "Computational Verification",
+    "Academic Research"
+  ],
+  "problem_solved": "The Navier-Stokes existence and smoothness problem, which concerns whether solutions to the Navier-Stokes equations can always be smooth and defined for all points in space without singularities forming.",
+  "why_valuable": "Solving this problem would represent one of the greatest mathematical achievements of the 21st century, worth $1 million and fundamentally advancing our understanding of fluid dynamics.",
+  "tags": [
+    "Mathematics",
+    "Fluid Dynamics",
+    "Millennium Prize",
+    "PDE",
+    "OpenAI"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-09T12:56:26.365227+00:00",
+  "updated_at": "2026-09-09T12:59:14.326118+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-015",
+  "source": "rss",
+  "source_url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+  "title": "How to build a printer",
+  "summary": "A technical tutorial by Nishant Joshi about building a 3D printer from scratch, following the popular 'build your own X' genre. The article covers hardware assembly, electronics, firmware configuration, and practical implementation of FDM (Fused Deposition Modeling) printing technology.",
+  "tech_stack": [
+    "Marlin/Klipper",
+    "Arduino/Raspberry Pi",
+    "CAD Software",
+    "Stepper Motors",
+    "Electronics/PCB"
+  ],
+  "problem_solved": "Provides a comprehensive guide for makers to build their own 3D printer, enabling customization and cost savings compared to commercial options.",
+  "why_valuable": " democratizes manufacturing technology by showing how to build functional 3D printing hardware from components, fostering deeper understanding of precision mechanics and embedded systems.",
+  "tags": [
+    "3D Printing",
+    "DIY",
+    "Hardware",
+    "Makers",
+    "Embedded Systems"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:55:35.308289+00:00",
+  "updated_at": "2026-09-09T12:59:14.325348+00:00",
+  "published_to": []
+}

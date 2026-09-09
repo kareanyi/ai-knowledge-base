@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-009",
+  "source": "rss",
+  "source_url": "https://openai.com/index/codex-quantum-computing-experiments/",
+  "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+  "summary": "OpenAI's GPT-5.6 Sol model assists researchers in running quantum computing experiments by automating code generation and experiment setup, leveraging Codex to bridge AI capabilities with complex quantum computing workflows.",
+  "tech_stack": [
+    "OpenAI GPT-5.6 Sol",
+    "Codex",
+    "Python",
+    "Quantum Computing Frameworks",
+    "HPC Infrastructure"
+  ],
+  "problem_solved": "Simplifies the complexity of quantum computing experiments by using AI to generate and execute quantum code automatically.",
+  "why_valuable": "Democratizes access to quantum computing by lowering the technical barrier for researchers to run experiments efficiently.",
+  "tags": [
+    "AI",
+    "Quantum Computing",
+    "OpenAI",
+    "Codex",
+    "Research Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-09T12:54:10.012820+00:00",
+  "updated_at": "2026-09-09T12:59:14.324215+00:00",
+  "published_to": []
+}

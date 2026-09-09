@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+  "title": "Arm launches Total Design for Physical AI and robotics framework",
+  "summary": "Arm has launched 'Total Design for Physical AI' and a new robotics framework to establish common standards across automated systems in physical industries (mining, agriculture, manufacturing, transport), addressing engineering fragmentation while targeting a projected $200 billion annual compute market by the 2030s.",
+  "tech_stack": [
+    "Arm Architecture",
+    "Physical AI",
+    "Robotics Framework",
+    "Edge Computing",
+    "IoT Systems"
+  ],
+  "problem_solved": "Addresses the engineering fragmentation problem across physical industries where lack of standardized frameworks hinders integration of automated systems.",
+  "why_valuable": "Provides standardized infrastructure enabling faster development and deployment of physical AI across multiple trillion-dollar industries, unlocking significant market opportunity.",
+  "tags": [
+    "Physical AI",
+    "Robotics",
+    "Industrial Automation",
+    "Semiconductors",
+    "Edge Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:57:19.244742+00:00",
+  "updated_at": "2026-09-09T12:59:14.326844+00:00",
+  "published_to": []
+}

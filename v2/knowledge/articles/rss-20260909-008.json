@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260909-008",
+  "source": "rss",
+  "source_url": "https://buttondown.com/blog/lotus-notes-email",
+  "title": "Lotus Notes and the dangers of starting from scratch",
+  "summary": "This article examines Lotus Notes as a cautionary tale about the risks of building software from scratch instead of leveraging existing solutions. It explores the historical context of IBM's Notes/Domino platform and discusses lessons learned about enterprise software development decisions.",
+  "tech_stack": [
+    "Lotus Notes",
+    "Domino",
+    "Enterprise Software",
+    "Software Architecture"
+  ],
+  "problem_solved": "Addresses the common enterprise software dilemma of whether to build custom solutions or adopt established platforms.",
+  "why_valuable": "Provides historical insights into the consequences of reinventing the wheel in enterprise software, helping organizations avoid similar mistakes.",
+  "tags": [
+    "Lotus Notes",
+    "Enterprise Software",
+    "Software Development",
+    "Tech History",
+    "Architecture Decisions"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:53:59.177455+00:00",
+  "updated_at": "2026-09-09T12:59:14.324023+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-017",
+  "source": "rss",
+  "source_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+  "title": "Mercury 2.5",
+  "summary": "Mercury 2.5 is an update release from Inception Labs, an AI infrastructure company, introducing new features or improvements to their Mercury product line. Based on Hacker News engagement (216 points, 37 comments), this appears to be a moderately significant release in the AI/ML infrastructure space.",
+  "tech_stack": [
+    "AI Infrastructure",
+    "Python",
+    "Cloud Computing",
+    "Machine Learning",
+    "API Services"
+  ],
+  "problem_solved": "Provides improved AI model serving, inference optimization, or developer tools for building AI applications.",
+  "why_valuable": "Updates to AI infrastructure products help developers build faster, cheaper, and more scalable AI applications.",
+  "tags": [
+    "AI",
+    "Infrastructure",
+    "Machine Learning",
+    "Developer Tools",
+    "Version Update"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-09T12:55:58.161990+00:00",
+  "updated_at": "2026-09-09T12:59:14.325738+00:00",
+  "published_to": []
+}

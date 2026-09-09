@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-018",
+  "source": "rss",
+  "source_url": "https://ai.meta.com/muse/",
+  "title": "Muse – Meta’s personal AI agent",
+  "summary": "Muse is Meta's personal AI agent designed to help users with daily tasks through natural language interactions, representing Meta's entry into the personal AI assistant market alongside their existing Llama language models.",
+  "tech_stack": [
+    "PyTorch",
+    "Llama",
+    "Meta AI Infrastructure",
+    "Python",
+    "Transformer Architecture"
+  ],
+  "problem_solved": "Provides users with a personal AI assistant that can help with various tasks using natural language processing and contextual understanding.",
+  "why_valuable": "It democratizes access to Meta's advanced AI capabilities for everyday users, potentially competing with other personal AI agents in the market.",
+  "tags": [
+    "AI Agent",
+    "Meta",
+    "LLM",
+    "Personal Assistant",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:56:09.818083+00:00",
+  "updated_at": "2026-09-09T12:59:14.325927+00:00",
+  "published_to": []
+}

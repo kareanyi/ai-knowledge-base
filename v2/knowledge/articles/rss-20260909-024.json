@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-024",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+  "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+  "summary": "Coca-Cola deployed AI-powered recommendation technology through its Coke Buddy platform to help Malaysian retailers optimize their ordering decisions. The Perfect Basket feature uses a Central Recommendation Engine that analyzes historical orders, seasonality, weather patterns, and purchasing behaviors of similar businesses to suggest optimal product quantities.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Recommendation Engine",
+    "Data Analytics",
+    "Cloud Platform"
+  ],
+  "problem_solved": "Helps small Malaysian retailers make smarter inventory ordering decisions to reduce stockouts and overstocking.",
+  "why_valuable": "Improves supply chain efficiency and strengthens retailer relationships by personalizing recommendations based on local context like weather and seasonal demand patterns.",
+  "tags": [
+    "AI",
+    "Retail",
+    "Recommendation System",
+    "Supply Chain",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:57:38.172454+00:00",
+  "updated_at": "2026-09-09T12:59:14.327021+00:00",
+  "published_to": []
+}

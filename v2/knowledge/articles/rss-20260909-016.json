@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260909-016",
+  "source": "rss",
+  "source_url": "https://mathstodon.xyz/@tao/117237320796901560",
+  "title": "Tao: Open math problems being non-renewably mined by AI",
+  "summary": "Terence Tao discusses the philosophical implications of AI solving open mathematical problems, using the metaphor of 'non-renewable resources' - once AI solves a famous open problem, that problem no longer exists as an open challenge for human mathematicians to pursue and derive meaning from.",
+  "tech_stack": [
+    "AI",
+    "LLM",
+    "Automated Theorem Proving",
+    "Mathematical Reasoning Systems"
+  ],
+  "problem_solved": "Raises awareness about the finite nature of open math problems and the existential question of what happens when AI exhausts these intellectual challenges.",
+  "why_valuable": "It sparks important philosophical debate about the value of unsolved problems, the role of human mathematical creativity, and the ethical dimensions of AI advancing too quickly into traditionally human domains.",
+  "tags": [
+    "Mathematics",
+    "AI Philosophy",
+    "Open Problems",
+    "Research Ethics",
+    "Human-AI Collaboration"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-09T12:55:46.003471+00:00",
+  "updated_at": "2026-09-09T12:59:14.325531+00:00",
+  "published_to": []
+}

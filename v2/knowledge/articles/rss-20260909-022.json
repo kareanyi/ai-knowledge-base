@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260909-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+  "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+  "summary": "Samsung has partnered with Mistral AI to deploy on-premises AI models across its semiconductor manufacturing and engineering operations. The partnership, announced during a bilateral summit between South Korea and France, will integrate Mistral's software suite including Mistral Large into Samsung's internal semiconductor facilities for customized solutions.",
+  "tech_stack": [
+    "Mistral Large",
+    "On-premises AI deployment",
+    "Enterprise software integration"
+  ],
+  "problem_solved": "Enables Samsung to leverage advanced AI capabilities for semiconductor manufacturing while maintaining data security through on-premises deployment.",
+  "why_valuable": "Demonstrates strategic enterprise AI adoption in critical manufacturing sectors and showcases cross-border tech collaboration between European AI startups and major Asian corporations.",
+  "tags": [
+    "AI",
+    "Semiconductor",
+    "Manufacturing",
+    "Enterprise",
+    "Partnership"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-09T12:57:02.963868+00:00",
+  "updated_at": "2026-09-09T12:59:14.326667+00:00",
+  "published_to": []
+}

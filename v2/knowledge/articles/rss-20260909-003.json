@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-003",
+  "source": "rss",
+  "source_url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+  "title": "Desert Ant Labs: local, fast models that run on device",
+  "summary": "Desert Ant Labs 是一个专注于本地运行、快速且能在设备上执行的 AI 模型项目，旨在让开发者无需依赖云端 API 即可在本地设备上运行 AI 模型，提供更好的隐私保护和更低的延迟。",
+  "tech_stack": [
+    "On-device ML",
+    "Quantized Models",
+    "Edge Computing",
+    "Local LLM Inference",
+    "Python"
+  ],
+  "problem_solved": "解决了对云端 AI API 的依赖问题，提供隐私保护、降低延迟和减少使用成本。",
+  "why_valuable": "通过在本地设备上运行 AI 模型，它消除了网络延迟、隐私担忧和持续 API 成本的问题，使 AI 更加accessible和私有化。",
+  "tags": [
+    "Local AI",
+    "Edge Computing",
+    "Privacy",
+    "On-device Inference",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:53:06.935536+00:00",
+  "updated_at": "2026-09-09T12:59:14.315751+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260909-004",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49624603",
+  "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+  "summary": "DeepSeek announces V4.1 Flash model release around September 10, 2026, claiming comprehensive superiority over V4 Pro in performance, cost, speed, and task completion time. As a user-friendly strategy, all V4 Pro requests will be routed to V4.1 Flash at Flash pricing until V4.1 Pro launches.",
+  "tech_stack": [
+    "DeepSeek V4.1 Flash",
+    "LLM",
+    "AI Model"
+  ],
+  "problem_solved": "Provides a more cost-effective and higher-performing AI model alternative to the previous Pro version.",
+  "why_valuable": "Offers better performance at lower cost with faster response times, democratizing access to advanced AI capabilities.",
+  "tags": [
+    "AI",
+    "LLM",
+    "DeepSeek",
+    "Model Release",
+    "Cost Efficiency"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:53:16.535206+00:00",
+  "updated_at": "2026-09-09T12:59:14.315949+00:00",
+  "published_to": []
+}

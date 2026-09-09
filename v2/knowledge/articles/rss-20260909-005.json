@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260909-005",
+  "source": "rss",
+  "source_url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+  "title": "Flock Wants a Closely Surveilled World with No Exit",
+  "summary": "The New Yorker article examines Flock Safety, a surveillance technology company that provides license plate readers and AI-powered cameras to neighborhoods and law enforcement, creating an extensive surveillance network that critics argue removes any possibility of anonymity in public spaces.",
+  "tech_stack": [
+    "License Plate Recognition (LPR)",
+    "AI/Computer Vision",
+    "Cloud Infrastructure",
+    "IoT Cameras"
+  ],
+  "problem_solved": "From Flock's perspective: enabling communities to track vehicles and reduce crime; from critics' view: creating persistent surveillance infrastructure with no opt-out for citizens.",
+  "why_valuable": "This article raises critical questions about the privacy-surveillance tradeoff as AI-powered surveillance becomes increasingly ubiquitous in American neighborhoods.",
+  "tags": [
+    "Privacy",
+    "Surveillance",
+    "AI Ethics",
+    "Smart Cities",
+    "Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-09T12:53:30.295873+00:00",
+  "updated_at": "2026-09-09T12:59:14.316140+00:00",
+  "published_to": []
+}

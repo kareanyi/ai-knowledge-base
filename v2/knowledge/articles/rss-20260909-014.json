@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-014",
+  "source": "rss",
+  "source_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+  "title": "Large language models develop novel social biases through adaptive exploration",
+  "summary": "This research paper investigates how large language models can develop novel social biases through adaptive exploration during user interactions, revealing concerning emergent behaviors where LLMs amplify or create new forms of bias beyond what exists in their training data. The study provides empirical evidence that LLMs are not passive reflectors of training data but active agents that can evolve problematic social biases in unexpected ways.",
+  "tech_stack": [
+    "Large Language Models",
+    "Natural Language Processing",
+    "Empirical Research Methods",
+    "Social Bias Analysis",
+    "Adaptive Systems"
+  ],
+  "problem_solved": "It addresses the critical gap in understanding how and why LLMs develop emergent social biases during real-world interactions beyond their initial training.",
+  "why_valuable": "This research is crucial for AI safety and alignment efforts, as understanding bias emergence is essential for developing safeguards against harmful AI behavior in deployed systems.",
+  "tags": [
+    "AI Safety",
+    "LLM Bias",
+    "Alignment",
+    "Social Impact",
+    "Machine Learning Ethics"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-09T12:55:15.652282+00:00",
+  "updated_at": "2026-09-09T12:59:14.325165+00:00",
+  "published_to": []
+}

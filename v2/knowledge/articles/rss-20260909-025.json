@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-025",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+  "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+  "summary": "Google has launched WeatherNext 3, an AI-powered weather forecasting model specifically designed for the energy sector, predicting wind speed at turbine height (100m), cloud cover, and solar irradiance with hourly updates. The model targets energy traders, grid operators, and wind/solar developers who need precise weather data for trading and operational decisions.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Weather Forecasting",
+    "Neural Networks",
+    "Google Cloud"
+  ],
+  "problem_solved": "Provides precise, grid-relevant weather predictions that help energy traders and grid operators optimize renewable energy integration and trading decisions.",
+  "why_valuable": "Enables more accurate forecasting of wind and solar energy generation, improving grid stability and potentially reducing energy costs by helping operators anticipate supply fluctuations.",
+  "tags": [
+    "AI",
+    "Weather Forecasting",
+    "Energy",
+    "Renewable Energy",
+    "Grid Management"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-09T12:57:52.049797+00:00",
+  "updated_at": "2026-09-09T12:59:14.327200+00:00",
+  "published_to": []
+}

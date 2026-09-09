@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-012",
+  "source": "rss",
+  "source_url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+  "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+  "summary": "A biographical article exploring Lee Holloway's life and career as the technical architect who built Cloudflare's foundational technology, tracing his journey from early programming beginnings to co-founding one of the internet's most critical infrastructure companies.",
+  "tech_stack": [
+    "C",
+    "Lua",
+    "Nginx",
+    "Rust",
+    "Network Infrastructure"
+  ],
+  "problem_solved": "Provides rare insight into the technical vision and engineering decisions behind Cloudflare's internet infrastructure platform.",
+  "why_valuable": "Offers a personal narrative of tech history, documenting how a key internet infrastructure company was built from the ground up by its technical founder.",
+  "tags": [
+    "Biography",
+    "Cloudflare",
+    "Internet Infrastructure",
+    "Tech History",
+    "Engineering Leadership"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:54:53.834662+00:00",
+  "updated_at": "2026-09-09T12:59:14.324799+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-002",
+  "source": "rss",
+  "source_url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+  "title": "I advertise malicious software on Google Ads",
+  "summary": "A security research article documenting how threat actors abuse Google Ads platform to advertise and distribute malicious software, providing insights into attack vectors and defensive countermeasures.",
+  "tech_stack": [
+    "Google Ads",
+    "Web Security",
+    "Social Engineering",
+    "Malware Distribution",
+    "Phishing"
+  ],
+  "problem_solved": "Documents how legitimate advertising platforms are weaponized by threat actors to distribute malware at scale.",
+  "why_valuable": "Provides actionable threat intelligence about advertising-based attack patterns that help organizations improve their security posture and detection capabilities.",
+  "tags": [
+    "Cybersecurity",
+    "Google Ads",
+    "Malware",
+    "Threat Intelligence",
+    "Social Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-09T12:52:56.278452+00:00",
+  "updated_at": "2026-09-09T12:59:14.315529+00:00",
+  "published_to": []
+}
