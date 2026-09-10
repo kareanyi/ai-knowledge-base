@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-015",
+  "source": "rss",
+  "source_url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+  "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+  "summary": "Hitachi has launched a new line of CO2 heat pump water heaters featuring solar-friendly tariff controls that allow the system to optimize operation based on electricity pricing and solar generation patterns. The product leverages natural CO2 refrigerant with high efficiency to provide sustainable hot water heating while reducing electricity costs.",
+  "tech_stack": [
+    "CO2 Heat Pump Technology",
+    "Smart Tariff Controls",
+    "Solar Integration",
+    "Natural Refrigerant",
+    "IoT Connectivity"
+  ],
+  "problem_solved": "Reduces household energy costs and carbon footprint by intelligently scheduling water heating operations to align with cheaper electricity tariffs and excess solar generation.",
+  "why_valuable": "It provides an accessible way for homeowners to combine heat pump technology with solar energy systems, maximizing self-consumption and reducing grid dependency while using environmentally friendly CO2 refrigerant.",
+  "tags": [
+    "Heat Pump",
+    "Solar Energy",
+    "Smart Home",
+    "Renewable Energy",
+    "Energy Efficiency"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-10T12:54:05.716379+00:00",
+  "updated_at": "2026-09-10T12:54:56.742147+00:00",
+  "published_to": []
+}

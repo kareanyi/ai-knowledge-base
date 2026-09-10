@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-010",
+  "source": "rss",
+  "source_url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+  "title": "AirPods 5",
+  "summary": "Apple announces AirPods 5 featuring best-in-class open-ear active noise cancellation technology, allowing users to enjoy ANC without the need for ear tips that create a seal in the ear canal.",
+  "tech_stack": [
+    "H2 Chip",
+    "Active Noise Cancellation",
+    "Open-Ear Design",
+    "Custom Acoustic Architecture",
+    "Adaptive Audio"
+  ],
+  "problem_solved": "Delivers active noise cancellation in an open-ear form factor, solving the discomfort issue of traditional in-ear earbuds while maintaining noise-blocking capability.",
+  "why_valuable": "Represents a significant audio engineering breakthrough by implementing effective ANC in earbuds that don't seal the ear canal, offering all-day comfort without sacrificing noise isolation.",
+  "tags": [
+    "Apple",
+    "AirPods",
+    "Audio",
+    "Wearables",
+    "Active Noise Cancellation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-10T12:53:11.593580+00:00",
+  "updated_at": "2026-09-10T12:54:56.741085+00:00",
+  "published_to": []
+}

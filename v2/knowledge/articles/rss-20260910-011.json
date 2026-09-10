@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-011",
+  "source": "rss",
+  "source_url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+  "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+  "summary": "Apple officially announced the iPhone 18 Pro and iPhone 18 Pro Max, showcasing their latest flagship smartphones with advanced camera systems, enhanced processing power through next-generation Apple silicon, and refined design features targeting professional mobile photographers and power users.",
+  "tech_stack": [
+    "Apple Silicon A-Series",
+    "iOS",
+    "Advanced Camera Systems",
+    "OLED Display",
+    "Machine Learning"
+  ],
+  "problem_solved": "Delivers cutting-edge mobile computing and photography capabilities for consumers seeking premium smartphone experiences",
+  "why_valuable": "Raises the bar for flagship smartphones with industry-leading performance, camera technology, and seamless ecosystem integration that appeals to both professionals and enthusiasts",
+  "tags": [
+    "Apple",
+    "iPhone",
+    "Smartphone",
+    "Mobile Technology",
+    "Photography"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-10T12:53:23.271101+00:00",
+  "updated_at": "2026-09-10T12:54:56.741324+00:00",
+  "published_to": []
+}

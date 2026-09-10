@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260910-009",
+  "source": "rss",
+  "source_url": "https://www.apple.com/iphone-duo/",
+  "title": "iPhone Duo",
+  "summary": "Apple iPhone Duo appears to be a product page for a new iPhone variant, likely featuring dual-SIM capabilities or a dual-device concept based on the 'Duo' naming convention. The page received significant attention on Hacker News with over 1252 points and 2192 comments, indicating strong community interest.",
+  "tech_stack": [
+    "iOS",
+    "Apple Silicon",
+    "A-series Chip"
+  ],
+  "problem_solved": "Provides users with enhanced connectivity options through dual-SIM functionality or dual-device flexibility.",
+  "why_valuable": "Caters to power users and international travelers who need multiple phone numbers or separation between work and personal usage.",
+  "tags": [
+    "Apple",
+    "iPhone",
+    "Smartphone",
+    "Consumer Tech",
+    "Mobile"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-10T12:53:01.266660+00:00",
+  "updated_at": "2026-09-10T12:54:56.740884+00:00",
+  "published_to": []
+}

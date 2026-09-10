@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-005",
+  "source": "rss",
+  "source_url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+  "title": "DeepSeek v4.1 Flash",
+  "summary": "DeepSeek v4.1 Flash is a lightweight, high-speed variant of DeepSeek's large language model, optimized for fast inference while maintaining strong performance. Available on Hugging Face, it represents DeepSeek's continued push toward efficient, open-source AI deployment that competes with proprietary models.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "MoE Architecture",
+    "CUDA"
+  ],
+  "problem_solved": "Provides fast, efficient language model inference that balances performance with computational cost for real-time applications.",
+  "why_valuable": "Offers open-source access to competitive LLM capabilities with optimized inference speed, democratizing access to advanced AI for developers and businesses.",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "AI Inference",
+    "Deep Learning",
+    "Optimized Model"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-10T12:52:13.272053+00:00",
+  "updated_at": "2026-09-10T12:54:56.739976+00:00",
+  "published_to": []
+}

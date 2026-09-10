@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-013",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+  "title": "Growing proof that autonomous cars save lives",
+  "summary": "IEEE Spectrum article presenting evidence that autonomous vehicles are safer than human drivers and could significantly reduce traffic fatalities. The article discusses data and research supporting the safety benefits of self-driving technology.",
+  "tech_stack": [
+    "Autonomous Vehicles",
+    "AI/ML",
+    "Sensors (LiDAR/Radar)",
+    "Computer Vision",
+    "Vehicle-to-Everything (V2X)"
+  ],
+  "problem_solved": "Addresses public concerns about autonomous vehicle safety by presenting data-driven evidence that self-driving cars can reduce traffic deaths.",
+  "why_valuable": "Provides crucial empirical evidence for autonomous vehicle safety, helping build public trust and informing policy decisions for wider adoption of self-driving technology.",
+  "tags": [
+    "autonomous-vehicles",
+    "self-driving-cars",
+    "road-safety",
+    "AI",
+    "transportation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-10T12:53:43.541473+00:00",
+  "updated_at": "2026-09-10T12:54:56.741746+00:00",
+  "published_to": []
+}

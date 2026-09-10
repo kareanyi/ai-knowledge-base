@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-007",
+  "source": "rss",
+  "source_url": "https://rivendell.dmitrybrant.com/relativity/",
+  "title": "Show HN: What if the speed of light was 5 km/h?",
+  "summary": "An interactive web visualization that scales the speed of light to 5 km/h, allowing users to experience relativistic effects like time dilation and length contraction in real-time with everyday objects. The tool runs entirely in the browser using WebGL/Canvas rendering.",
+  "tech_stack": [
+    "JavaScript",
+    "WebGL",
+    "Canvas",
+    "HTML5",
+    "CSS3"
+  ],
+  "problem_solved": "Makes abstract relativistic physics concepts viscerally understandable by scaling light speed to human-perceptible velocities.",
+  "why_valuable": "Transforms intimidating physics concepts into an interactive, explorable experience that builds genuine intuition for relativity.",
+  "tags": [
+    "Physics",
+    "Visualization",
+    "Education",
+    "Relativity",
+    "Interactive"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-10T12:52:35.920645+00:00",
+  "updated_at": "2026-09-10T12:54:56.740446+00:00",
+  "published_to": []
+}

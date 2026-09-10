@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260910-004",
+  "source": "rss",
+  "source_url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+  "title": "I think I hate the internet",
+  "summary": "A personal opinion piece expressing the author's frustration and disillusionment with the modern internet experience, likely touching on issues like attention economy, social media overload, privacy concerns, or the degradation of online content quality.",
+  "tech_stack": [
+    "Bear Blog"
+  ],
+  "problem_solved": "This is not a technical solution but rather a reflective commentary on the deteriorating quality and experience of the modern internet.",
+  "why_valuable": "Serves as a voice for users frustrated with the current state of the web and may spark discussion about internet culture and the need for change.",
+  "tags": [
+    "Internet Culture",
+    "Personal Opinion",
+    "Web Experience",
+    "Social Media",
+    "Tech Criticism"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-10T12:52:03.551365+00:00",
+  "updated_at": "2026-09-10T12:54:56.739656+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-018",
+  "source": "rss",
+  "source_url": "https://github.com/rnoro/tithon",
+  "title": "Show HN: Persistent Jupyter kernel execution and live output streaming in VSCode",
+  "summary": "Tithon is a VSCode extension that provides persistent Jupyter kernel execution and live output streaming, solving the problem of losing training progress when sessions are interrupted by system crashes, network issues, or laptop battery drain during long-running ML training loops.",
+  "tech_stack": [
+    "VSCode Extensions API",
+    "Python",
+    "Jupyter/ipykernel",
+    "WebSocket",
+    "Machine Learning"
+  ],
+  "problem_solved": "Prevents loss of Jupyter kernel state and training progress when laptops crash or networks disconnect during long-running training jobs.",
+  "why_valuable": "Provides reliability and continuity for ML training tasks, allowing developers to monitor live outputs directly in their IDE without constantly checking external logging tools like W&B.",
+  "tags": [
+    "Jupyter",
+    "VSCode",
+    "Machine Learning",
+    "Developer Tools",
+    "Persistence"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-10T12:54:42.079813+00:00",
+  "updated_at": "2026-09-10T12:54:56.742788+00:00",
+  "published_to": []
+}
