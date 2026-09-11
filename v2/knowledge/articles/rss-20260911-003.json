@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260911-003",
+  "source": "rss",
+  "source_url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+  "title": "The Waymo effect: how AI is quietly making research less collaborative",
+  "summary": "This article explores how AI technologies, exemplified by Waymo's autonomous driving development model, are unintentionally reducing collaboration in research environments. The 'Waymo effect' describes how AI tools enable smaller, more autonomous research teams to achieve results that previously required large collaborative efforts, potentially fragmenting the academic community.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Autonomous Vehicles",
+    "Research Tools"
+  ],
+  "problem_solved": "Identifies the unintended consequence of AI adoption on academic/research collaboration dynamics.",
+  "why_valuable": "Highlights a critical social impact of AI that is rarely discussed—how productivity tools can erode the collaborative foundations of scientific progress.",
+  "tags": [
+    "AI Impact",
+    "Research Culture",
+    "Collaboration",
+    "Academic",
+    "Technology Society"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-11T12:47:04.310250+00:00",
+  "updated_at": "2026-09-11T12:54:16.992018+00:00",
+  "published_to": []
+}

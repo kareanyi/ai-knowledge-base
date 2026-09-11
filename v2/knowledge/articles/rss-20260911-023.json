@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+  "title": "JD.com expands physical AI in logistics with 3 million robots",
+  "summary": "JD.com announced a Physical AI Acceleration Plan to expand AI and robotics across its logistics operations, with a five-year target to deploy 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company unveiled its industrial Wolf Robot series at JDDiscovery 2026 in Beijing.",
+  "tech_stack": [
+    "Robotics",
+    "Autonomous Vehicles",
+    "Delivery Drones",
+    "AI Logistics",
+    "Industrial Automation"
+  ],
+  "problem_solved": "Scaling logistics automation to handle massive e-commerce fulfillment demands efficiently.",
+  "why_valuable": "Demonstrates commercial-scale AI/robotics deployment in real-world supply chain operations with measurable targets.",
+  "tags": [
+    "Logistics",
+    "Robotics",
+    "AI",
+    "Automation",
+    "E-commerce"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-11T12:52:25.450520+00:00",
+  "updated_at": "2026-09-11T12:54:17.001851+00:00",
+  "published_to": []
+}

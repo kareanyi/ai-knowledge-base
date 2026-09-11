@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260911-002",
+  "source": "rss",
+  "source_url": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
+  "title": "Instagram's head says engagement falls by half without the algorithm",
+  "summary": "Adam Mosseri, head of Instagram, revealed that user engagement drops by approximately 50% when users opt out of the algorithmic feed, demonstrating the critical role algorithms play in content curation and user retention on social media platforms.",
+  "tech_stack": [
+    "Algorithmic Feed Systems",
+    "Social Media Platforms",
+    "Content Recommendation",
+    "User Engagement Analytics"
+  ],
+  "problem_solved": "This article explains why social media platforms rely heavily on algorithmic curation and quantifies the impact of removing algorithmic control from user feeds.",
+  "why_valuable": "It provides empirical evidence (50% engagement drop) that algorithmic curation is essential for modern social media platforms to maintain user engagement, offering valuable insight for product decisions and policy discussions about algorithmic opt-outs.",
+  "tags": [
+    "Social Media",
+    "Algorithm",
+    "Engagement",
+    "Instagram",
+    "Feed Curation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-11T12:46:52.594042+00:00",
+  "updated_at": "2026-09-11T12:54:16.991861+00:00",
+  "published_to": []
+}

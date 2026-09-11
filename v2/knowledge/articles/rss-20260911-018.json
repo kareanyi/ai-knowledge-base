@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-018",
+  "source": "rss",
+  "source_url": "https://planetscale.com/blog/introducing-neki",
+  "title": "Neki – Sharded Postgres",
+  "summary": "PlanetScale introduced Neki, a sharding solution designed to enable horizontal scaling of PostgreSQL databases. The project addresses the challenge of scaling Postgres beyond single-node limitations while maintaining compatibility with the PostgreSQL ecosystem.",
+  "tech_stack": [
+    "PostgreSQL",
+    "Sharding",
+    "Distributed Database",
+    "SQL Compatibility",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Solves the horizontal scaling limitation of PostgreSQL when vertical scaling reaches its ceiling.",
+  "why_valuable": "Enables developers to scale PostgreSQL workloads horizontally while maintaining familiar Postgres syntax and tooling, avoiding the need to migrate to entirely different distributed databases.",
+  "tags": [
+    "PostgreSQL",
+    "Database Sharding",
+    "Distributed Systems",
+    "Scalability",
+    "Database Architecture"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-11T12:51:13.808298+00:00",
+  "updated_at": "2026-09-11T12:54:17.001232+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260911-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+  "title": "Supply chains detect fast, act slow: How AI agents fix it",
+  "summary": "The article discusses how supply chain disruptions cost businesses approximately $184 billion in 2025, with the core issue being that companies can detect problems quickly but struggle to take effective action. AI agents are presented as the solution to bridge this detection-action gap in supply chain management.",
+  "tech_stack": [
+    "AI Agents",
+    "Machine Learning",
+    "Automation",
+    "Business Intelligence"
+  ],
+  "problem_solved": "The slow response time between detecting supply chain disruptions and implementing corrective actions, which results in billions of dollars in losses.",
+  "why_valuable": "It addresses a massive operational inefficiency causing $184 billion in annual losses by enabling faster, automated decision-making in supply chain operations.",
+  "tags": [
+    "AI Agents",
+    "Supply Chain",
+    "Enterprise AI",
+    "Business Automation",
+    "Risk Management"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-11T12:52:12.567053+00:00",
+  "updated_at": "2026-09-11T12:54:17.001713+00:00",
+  "published_to": []
+}

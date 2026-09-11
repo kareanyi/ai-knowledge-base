@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-009",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+  "title": "GPT‑Live‑1 in the API",
+  "summary": "OpenAI announces the availability of GPT-Live-1 model capabilities through their API, enabling developers to integrate real-time interactive AI features into their applications.",
+  "tech_stack": [
+    "OpenAI API",
+    "GPT-Live-1",
+    "WebSocket",
+    "Real-time Streaming",
+    "Python"
+  ],
+  "problem_solved": "Makes real-time AI interaction capabilities accessible to developers via API for building live conversational applications",
+  "why_valuable": "Enables developers to easily incorporate real-time AI streaming and interaction features without building infrastructure from scratch",
+  "tags": [
+    "OpenAI",
+    "Real-time AI",
+    "API",
+    "Live Streaming",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-11T12:49:04.163936+00:00",
+  "updated_at": "2026-09-11T12:54:17.000123+00:00",
+  "published_to": []
+}

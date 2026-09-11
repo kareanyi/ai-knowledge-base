@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-014",
+  "source": "rss",
+  "source_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "title": "OpenAI Agents API",
+  "summary": "OpenAI Agents API 是 OpenAI 官方推出的用于构建 AI Agent 的开发接口，提供标准化的工具调用、状态管理和任务编排能力，让开发者能够更便捷地创建能够执行复杂多步骤任务的智能代理应用。",
+  "tech_stack": [
+    "OpenAI API",
+    "Python SDK",
+    "JavaScript SDK",
+    "Function Calling",
+    "Tools API"
+  ],
+  "problem_solved": "降低 AI Agent 开发门槛，为开发者提供标准化的接口来构建能够自主推理、使用工具并执行复杂任务的智能代理。",
+  "why_valuable": "作为 OpenAI 官方支持的 Agent 开发框架，提供了可靠的基础设施和标准化的开发范式，加速 AI Agent 应用的落地和普及。",
+  "tags": [
+    "AI Agent",
+    "OpenAI",
+    "LLM",
+    "API",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-11T12:50:14.840524+00:00",
+  "updated_at": "2026-09-11T12:54:17.000737+00:00",
+  "published_to": []
+}

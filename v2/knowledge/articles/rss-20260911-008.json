@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-008",
+  "source": "rss",
+  "source_url": "https://vale.rocks/posts/css-relics",
+  "title": "CSS Curiosities of the Past",
+  "summary": "An exploration of deprecated, experimental, or obsolete CSS features from earlier eras of web development, examining techniques that were once used but are now considered relics or have been replaced by modern standards.",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "Web Development",
+    "Browser APIs",
+    "DOM"
+  ],
+  "problem_solved": "Documents and explains legacy CSS quirks and abandoned techniques that developers may encounter in older codebases or browser-specific implementations.",
+  "why_valuable": "Provides historical context and understanding of CSS evolution, helping developers recognize and handle deprecated patterns while appreciating how far web standards have progressed.",
+  "tags": [
+    "CSS",
+    "Web Development",
+    "Frontend",
+    "Web History",
+    "Legacy Code"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-11T12:48:47.628698+00:00",
+  "updated_at": "2026-09-11T12:54:16.999990+00:00",
+  "published_to": []
+}

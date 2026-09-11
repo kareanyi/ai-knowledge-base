@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-015",
+  "source": "rss",
+  "source_url": "https://auberon.xyz/blog/posts/deathray/",
+  "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+  "summary": "A security researcher discovered a vulnerability dubbed 'Deathray' that allows malicious websites to freeze or crash macOS browsers by exploiting computationally expensive CSS operations like backdrop-filter, effectively creating a denial-of-service attack vector against Mac users visiting untrusted sites.",
+  "tech_stack": [
+    "CSS",
+    "WebKit",
+    "macOS Safari",
+    "HTML",
+    "JavaScript"
+  ],
+  "problem_solved": "Demonstrates a critical browser DoS vulnerability that enables any website to freeze a visitor's Mac without their consent.",
+  "why_valuable": "This research exposes a serious client-side security flaw affecting Mac users and pushes for browser vendors to implement safeguards against resource-exhaustion attacks from web content.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "DoS",
+    "WebKit",
+    "Mac"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-11T12:50:31.776833+00:00",
+  "updated_at": "2026-09-11T12:54:17.000877+00:00",
+  "published_to": []
+}

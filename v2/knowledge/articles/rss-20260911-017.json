@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260911-017",
+  "source": "rss",
+  "source_url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+  "title": "Forgejo <=16.0.3 Critical RCE",
+  "summary": "Critical Remote Code Execution vulnerability discovered in Forgejo versions up to 16.0.3, requiring immediate upgrade to 16.0.4. This security flaw could allow attackers to execute arbitrary code on servers running affected Forgejo instances.",
+  "tech_stack": [
+    "Go",
+    "Forgejo",
+    "Gitea"
+  ],
+  "problem_solved": "Critical RCE vulnerability that could compromise entire Forgejo servers and the systems they run on",
+  "why_valuable": "Immediate security patch prevents potential server takeover and data breaches for self-hosted Git services",
+  "tags": [
+    "Security",
+    "RCE",
+    "Vulnerability",
+    "Forgejo",
+    "DevOps"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-11T12:50:59.095762+00:00",
+  "updated_at": "2026-09-11T12:54:17.001113+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+  "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+  "summary": "NVIDIA采用Palantir Foundry平台和cuOpt优化工具来自动化其全球制造基地的硬件供应链分配决策，通过衡量从晶圆输出到第一个token的运营交付时间来优化整个流程效率。",
+  "tech_stack": [
+    "Palantir Foundry",
+    "NVIDIA cuOpt",
+    "AI Optimization",
+    "Supply Chain Analytics",
+    "Manufacturing Automation"
+  ],
+  "problem_solved": "解决跨全球制造基地的复杂硬件供应链分配自动化决策问题",
+  "why_valuable": "通过精确测量time-to-rack和time-to-token等关键指标，显著提升供应链运营效率和交付速度",
+  "tags": [
+    "Supply Chain",
+    "AI Optimization",
+    "Manufacturing",
+    "NVIDIA",
+    "Enterprise AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-11T12:51:54.569956+00:00",
+  "updated_at": "2026-09-11T12:54:17.001593+00:00",
+  "published_to": []
+}

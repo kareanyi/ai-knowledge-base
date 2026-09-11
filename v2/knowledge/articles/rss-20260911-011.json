@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-011",
+  "source": "rss",
+  "source_url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+  "title": "Nine coding harnesses vs. your laptop",
+  "summary": "This Hacker News post compares nine different coding harnesses (development environments/IDEs) against traditional laptop coding, discussing tradeoffs between cloud-based development environments, local setups, and specialized tools for developer productivity.",
+  "tech_stack": [
+    "Cloud IDEs",
+    "VS Code",
+    "GitHub Codespaces",
+    "Gitpod",
+    "Local Development"
+  ],
+  "problem_solved": "Helps developers evaluate and choose between different coding environments and tools for their workflow.",
+  "why_valuable": "Provides practical comparisons of development setups, helping developers optimize their coding environment for productivity and convenience.",
+  "tags": [
+    "Development Environment",
+    "IDE",
+    "Developer Tools",
+    "Productivity",
+    "Hacker News"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-11T12:49:33.824640+00:00",
+  "updated_at": "2026-09-11T12:54:17.000375+00:00",
+  "published_to": []
+}

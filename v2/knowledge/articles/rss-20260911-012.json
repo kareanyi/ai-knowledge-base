@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260911-012",
+  "source": "rss",
+  "source_url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+  "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+  "summary": "The NTSB published an investigative update on a Boeing 767 runway excursion accident at Miami airport, providing preliminary findings and ongoing investigation details from the National Transportation Safety Board's official investigation process.",
+  "tech_stack": [],
+  "problem_solved": "This NTSB investigation provides official documentation and preliminary findings for the B-767 runway excursion incident to establish probable cause and issue safety recommendations.",
+  "why_valuable": "It offers transparency on aviation safety investigations and helps the industry learn from incidents to prevent future runway excursions.",
+  "tags": [
+    "Aviation",
+    "Safety",
+    "NTSB",
+    "Accident-Investigation",
+    "Airlines"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-11T12:49:44.184067+00:00",
+  "updated_at": "2026-09-11T12:54:17.000495+00:00",
+  "published_to": []
+}

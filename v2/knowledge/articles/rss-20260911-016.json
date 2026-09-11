@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-016",
+  "source": "rss",
+  "source_url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+  "title": "Music Theory for the 21st-Century Classroom",
+  "summary": "An open-source, web-based music theory textbook designed for modern classroom use, covering topics like notation, intervals, scales, chords, and form with interactive examples and exercises suitable for university-level music education.",
+  "tech_stack": [
+    "HTML/CSS",
+    "JavaScript",
+    "Web Audio API",
+    "Markdown",
+    "Git"
+  ],
+  "problem_solved": "Modernizes traditional music theory education by providing a free, accessible, and interactive digital textbook that can be easily updated and shared.",
+  "why_valuable": "Offers a cost-free alternative to expensive traditional textbooks while incorporating interactive audio examples and modern pedagogical approaches for the 21st-century learner.",
+  "tags": [
+    "music",
+    "education",
+    "open-source",
+    "textbook",
+    "interactive"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-11T12:50:47.261381+00:00",
+  "updated_at": "2026-09-11T12:54:17.000999+00:00",
+  "published_to": []
+}

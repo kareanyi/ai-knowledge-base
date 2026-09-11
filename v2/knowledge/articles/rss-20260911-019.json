@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-019",
+  "source": "rss",
+  "source_url": "https://cognition.com/blog/swe-2",
+  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+  "summary": "Cognition公司发布了新的SWE-2模型，这是一款专注于软件工程任务的AI编码助手，直接对标Fable 5.1和GPT-Astra等竞品。SWE-2作为Devin产品的更新版本，在Hacker News上获得了426个投票和176条评论，显示出业界对AI软件工程工具的高度关注。该模型的发布标志着AI编程助手的竞争进入新阶段，各家厂商在代码生成、调试和自动化任务处理能力上展开激烈角逐。",
+  "tech_stack": [
+    "Python",
+    "Large Language Models",
+    "AI Agents",
+    "Machine Learning",
+    "Devin"
+  ],
+  "problem_solved": "解决软件工程任务中代码编写、调试和自动化流程的效率问题，让AI能够像专业软件工程师一样完成复杂编程任务",
+  "why_valuable": "它代表了AI在软件工程领域应用的重大进步，能够显著提升开发者生产力，加速软件开发和代码审查流程",
+  "tags": [
+    "AI Coding",
+    "Software Engineering",
+    "LLM",
+    "Devin",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-11T12:51:24.973175+00:00",
+  "updated_at": "2026-09-11T12:54:17.001349+00:00",
+  "published_to": []
+}

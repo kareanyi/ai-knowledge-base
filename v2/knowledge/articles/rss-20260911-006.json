@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-006",
+  "source": "rss",
+  "source_url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+  "title": "Cherenkov Radiation - traveling faster than light",
+  "summary": "IAEA educational article explaining Cherenkov radiation - the electromagnetic phenomenon where charged particles travel faster than light in a medium (like water), producing the characteristic blue glow visible in nuclear reactors and underwater neutrino detectors.",
+  "tech_stack": [
+    "Nuclear Physics",
+    "Electromagnetic Radiation",
+    "Particle Physics",
+    "Radiation Detection",
+    "Nuclear Engineering"
+  ],
+  "problem_solved": "Explains why nuclear reactor cores appear to glow blue and how particles can effectively 'break' the light speed barrier within certain media.",
+  "why_valuable": "Provides accessible scientific explanation of a fundamental physics phenomenon with practical applications in radiation detection, nuclear reactor monitoring, and astrophysics research.",
+  "tags": [
+    "Cherenkov Radiation",
+    "Nuclear Physics",
+    "Particle Physics",
+    "Light Speed",
+    "Radiation Detection"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-11T12:48:02.497875+00:00",
+  "updated_at": "2026-09-11T12:54:16.999676+00:00",
+  "published_to": []
+}

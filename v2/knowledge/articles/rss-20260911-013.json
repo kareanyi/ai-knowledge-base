@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-013",
+  "source": "rss",
+  "source_url": "https://merybenavente.me/blog/proof-of-capture",
+  "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+  "summary": "An open-source implementation that uses steganography to embed proof of capture metadata into images, similar to Apple's Reference Image feature. The project allows photographers to verify when and where photos were taken by hiding cryptographic proof within the image data itself.",
+  "tech_stack": [
+    "Steganography",
+    "Python",
+    "Cryptography",
+    "Image Processing",
+    "Open Source"
+  ],
+  "problem_solved": "Provides a way to prove the authenticity and origin of digital photos by embedding verifiable metadata directly into the image file",
+  "why_valuable": "Offers an open, trustless alternative to proprietary solutions like Apple's Reference Image, giving users full control over their proof of capture data",
+  "tags": [
+    "Steganography",
+    "Proof of Capture",
+    "Photography",
+    "Privacy",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-11T12:50:04.798421+00:00",
+  "updated_at": "2026-09-11T12:54:17.000609+00:00",
+  "published_to": []
+}

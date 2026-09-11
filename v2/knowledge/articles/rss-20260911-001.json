@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-001",
+  "source": "rss",
+  "source_url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+  "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+  "summary": "A Twitter post reveals that Moonshot AI (Kimi's parent company) was allegedly routing user queries through Anthropic's Claude API and using the conversations for model training, effectively collecting valuable exchange data to improve their own models at low cost.",
+  "tech_stack": [
+    "Claude API",
+    "Kimi AI",
+    "Moonshot AI",
+    "API proxying",
+    "Model distillation"
+  ],
+  "problem_solved": "The practice addresses the high cost and difficulty of generating high-quality training data for LLM fine-tuning by leveraging third-party API outputs.",
+  "why_valuable": "This incident exposes a controversial but common practice in AI development where companies use proxy services to harvest training data, raising ethical questions about data collection and model ownership.",
+  "tags": [
+    "AI Ethics",
+    "Model Distillation",
+    "Data Collection",
+    "LLM Training",
+    "Industry News"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-11T12:46:42.291831+00:00",
+  "updated_at": "2026-09-11T12:54:16.991593+00:00",
+  "published_to": []
+}

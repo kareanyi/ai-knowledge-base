@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260911-005",
+  "source": "rss",
+  "source_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+  "title": "Claude is no longer available for minors",
+  "summary": "Anthropic has implemented age assurance requirements for Claude, effectively restricting access to users under 18. This policy change aligns with regulatory compliance for AI services regarding minor protection, following similar moves by other AI providers.",
+  "tech_stack": [
+    "Policy",
+    "Compliance",
+    "Age Verification"
+  ],
+  "problem_solved": "Addresses regulatory requirements and child safety concerns by restricting AI access to minors",
+  "why_valuable": "Demonstrates responsible AI deployment and compliance with child protection regulations like COPPA and GDPR-K",
+  "tags": [
+    "AI Policy",
+    "Safety",
+    "Privacy",
+    "Regulation",
+    "Anthropic"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-11T12:47:43.686083+00:00",
+  "updated_at": "2026-09-11T12:54:16.992314+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-004",
+  "source": "rss",
+  "source_url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+  "title": "RTK reports token savings, but our cost benchmarks disagree",
+  "summary": "A technical analysis investigating whether Redux Toolkit (RTK) actually reduces AI coding costs through token savings, contrary to RTK's reported claims. The author conducted empirical benchmarks comparing token usage between RTK and non-RTK approaches to verify the cost savings assertion.",
+  "tech_stack": [
+    "Redux Toolkit",
+    "React",
+    "AI Coding Tools",
+    "JavaScript",
+    "Benchmarking"
+  ],
+  "problem_solved": "Determines whether using Redux Toolkit genuinely reduces AI-assisted coding costs through reduced token consumption.",
+  "why_valuable": "Provides empirical data to challenge a common assumption in the React ecosystem, helping developers make evidence-based decisions about their state management tooling choices.",
+  "tags": [
+    "Redux",
+    "AI",
+    "Cost Optimization",
+    "Benchmarking",
+    "React"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-11T12:47:19.839284+00:00",
+  "updated_at": "2026-09-11T12:54:16.992179+00:00",
+  "published_to": []
+}
