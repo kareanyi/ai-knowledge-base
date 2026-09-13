@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260913-004",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+  "title": "Revolut confirms customer data breach through fake government requests",
+  "summary": "Revolut, a popular fintech company, confirmed a customer data breach that occurred through social engineering attacks where threat actors impersonated government officials to obtain sensitive customer information via fake legal requests. The breach exposed personal data of customers, highlighting vulnerabilities in how companies verify and process law enforcement requests.",
+  "tech_stack": [
+    "FinTech",
+    "Data Security",
+    "Authentication Systems",
+    "Social Engineering",
+    "Identity Verification"
+  ],
+  "problem_solved": "Addresses the growing threat of social engineering attacks targeting financial institutions through fake government/legal requests.",
+  "why_valuable": "Raises awareness about the importance of robust verification processes for government data requests and the risks of impersonation attacks in the fintech sector.",
+  "tags": [
+    "Security Breach",
+    "FinTech",
+    "Social Engineering",
+    "Data Privacy",
+    "Cyber Attack"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-13T13:16:32.310753+00:00",
+  "updated_at": "2026-09-13T13:22:10.608566+00:00",
+  "published_to": []
+}

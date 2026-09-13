@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260913-006",
+  "source": "rss",
+  "source_url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+  "title": "JetKVM Mini",
+  "summary": "JetKVM Mini is a compact, affordable KVM-over-IP hardware device that enables remote keyboard, video, and mouse control of computers at the hardware level, representing a smaller and more accessible version of their existing remote KVM solution.",
+  "tech_stack": [
+    "Embedded Linux",
+    "Web Interface",
+    "Hardware/Firmware",
+    "IP Networking",
+    "USB-C"
+  ],
+  "problem_solved": "Enables IT administrators and home lab enthusiasts to remotely control computers and servers without physical proximity, useful for headless setups and remote troubleshooting.",
+  "why_valuable": "Provides an affordable, plug-and-play hardware solution for remote KVM access, eliminating the need for physical presence when managing servers, workstations, or homelab equipment.",
+  "tags": [
+    "Hardware",
+    "KVM",
+    "Remote Access",
+    "IT Infrastructure",
+    "HomeLab"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:16:57.575858+00:00",
+  "updated_at": "2026-09-13T13:22:10.615126+00:00",
+  "published_to": []
+}

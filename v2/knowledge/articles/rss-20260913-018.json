@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260913-018",
+  "source": "rss",
+  "source_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+  "title": "Nvidia is the central bank of AI",
+  "summary": "This article analyzes Nvidia's dominant position in the AI chip market, comparing it to a central bank's control over monetary policy. Nvidia controls approximately 80% of the AI accelerator market and has built a powerful ecosystem with CUDA that creates strong customer lock-in, giving it unprecedented leverage over the entire AI supply chain similar to how central banks influence economies.",
+  "tech_stack": [
+    "GPU Hardware",
+    "CUDA Ecosystem",
+    "AI Accelerators",
+    "Data Center Infrastructure"
+  ],
+  "problem_solved": "Explains why Nvidia has become the critical bottleneck and power player in the rapidly growing AI industry.",
+  "why_valuable": "It reveals the economic power dynamics and strategic positioning that make Nvidia indispensable to AI development, offering insights into tech industry power structures.",
+  "tags": [
+    "AI Industry",
+    "Semiconductors",
+    "Market Dominance",
+    "Nvidia",
+    "Tech Strategy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-13T13:19:29.549791+00:00",
+  "updated_at": "2026-09-13T13:22:10.616435+00:00",
+  "published_to": []
+}

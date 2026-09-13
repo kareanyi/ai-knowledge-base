@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260913-009",
+  "source": "rss",
+  "source_url": "https://hyperbo.la/w/aligned-to-whom/",
+  "title": "Aligned to whom?",
+  "summary": "This article explores the fundamental philosophical question of AI alignment, questioning who AI systems should be aligned with and whether current approaches adequately address the complexity of aligning to human values, intentions, and collective interests.",
+  "tech_stack": [
+    "AI Alignment",
+    "Machine Learning",
+    "Ethics",
+    "Philosophy"
+  ],
+  "problem_solved": "Addresses the ambiguous and often overlooked question of whose values and interests AI systems should be optimized to align with.",
+  "why_valuable": "It challenges practitioners to think critically about the foundational assumptions in AI safety rather than assuming alignment is a solved technical problem.",
+  "tags": [
+    "AI Safety",
+    "Alignment",
+    "Ethics",
+    "Philosophy",
+    "AI Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-13T13:17:27.478241+00:00",
+  "updated_at": "2026-09-13T13:22:10.615536+00:00",
+  "published_to": []
+}

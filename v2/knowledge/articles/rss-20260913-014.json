@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260913-014",
+  "source": "rss",
+  "source_url": "https://agentsdock.net/",
+  "title": "AgentsDock: An IDE designed for agentic AI research",
+  "summary": "AgentsDock is a dedicated IDE specifically built for agentic AI research, providing researchers and developers with specialized tools to build, test, and debug autonomous AI agents. The platform addresses the growing need for purpose-built development environments as AI agent systems become more complex.",
+  "tech_stack": [
+    "Python",
+    "TypeScript",
+    "React",
+    "LLM APIs",
+    "Agent Frameworks"
+  ],
+  "problem_solved": "Provides a unified development environment for building and testing AI agent systems, replacing fragmented tooling with an integrated solution",
+  "why_valuable": "As AI agent research grows rapidly, having a purpose-built IDE significantly accelerates development cycles and improves debugging capabilities for complex multi-agent systems",
+  "tags": [
+    "AI Agents",
+    "IDE",
+    "Agentic AI",
+    "Developer Tools",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:18:37.507285+00:00",
+  "updated_at": "2026-09-13T13:22:10.616009+00:00",
+  "published_to": []
+}

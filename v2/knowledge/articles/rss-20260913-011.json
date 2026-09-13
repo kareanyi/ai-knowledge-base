@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260913-011",
+  "source": "rss",
+  "source_url": "https://icm.museum/",
+  "title": "The Interim Computer Museum",
+  "summary": "The Interim Computer Museum is a digital archive preserving and showcasing historical computer hardware, software, and computing artifacts from computing history's formative years, allowing visitors to explore vintage technology and understand the evolution of computing.",
+  "tech_stack": [
+    "Web Technologies",
+    "Digital Archive Platform",
+    "HTML/CSS",
+    "JavaScript",
+    "Museum CMS"
+  ],
+  "problem_solved": "Preserves and provides public access to computing heritage that would otherwise be lost, inaccessible, or forgotten.",
+  "why_valuable": "It serves as an educational resource and cultural archive, keeping computing history alive for developers, researchers, and tech enthusiasts to understand the foundations of modern technology.",
+  "tags": [
+    "Computer History",
+    "Digital Museum",
+    "Heritage Preservation",
+    "Technology Education",
+    "Retro Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:17:51.143227+00:00",
+  "updated_at": "2026-09-13T13:22:10.615731+00:00",
+  "published_to": []
+}

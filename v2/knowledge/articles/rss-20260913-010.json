@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260913-010",
+  "source": "rss",
+  "source_url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+  "title": "After Math",
+  "summary": "This is a post from Fields Medalist Terence Tao's mathematics blog, discussing post-mathematical topics or reflections on the nature and future of mathematics. The 'After Math' title appears to be a play on words, suggesting reflections beyond traditional mathematics.",
+  "tech_stack": [
+    "WordPress",
+    "Mathematics",
+    "Academic Writing",
+    "Blogging Platform"
+  ],
+  "problem_solved": "Provides insights and reflections on mathematical research, education, or the evolving landscape of mathematics from a world-renowned mathematician's perspective.",
+  "why_valuable": "Terry Tao is one of the most influential mathematicians of our time, and his blog serves as a rare window into high-level mathematical thinking accessible to students and professionals alike.",
+  "tags": [
+    "Mathematics",
+    "Academic",
+    "Terence Tao",
+    "Research",
+    "Education"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-13T13:17:38.864338+00:00",
+  "updated_at": "2026-09-13T13:22:10.615634+00:00",
+  "published_to": []
+}

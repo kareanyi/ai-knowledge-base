@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260913-017",
+  "source": "rss",
+  "source_url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+  "title": "Make your first edit to OpenStreetMap",
+  "summary": "A beginner-friendly tutorial guiding users to make their first contribution to OpenStreetMap, the collaborative open-source mapping project. It likely uses the JOSM desktop editor and provides a plugin website wizard tool to help newcomers get started with map editing.",
+  "tech_stack": [
+    "OpenStreetMap",
+    "JOSM",
+    "GitHub Pages",
+    "JavaScript",
+    "Web Wizard"
+  ],
+  "problem_solved": "Lowers the barrier to entry for beginners wanting to contribute to OpenStreetMap, making their first map edit approachable.",
+  "why_valuable": "Encourages community participation in open-source geospatial data by simplifying the onboarding experience for new mappers.",
+  "tags": [
+    "OpenStreetMap",
+    "Mapping",
+    "GIS",
+    "OpenSource",
+    "Tutorial"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:19:17.458329+00:00",
+  "updated_at": "2026-09-13T13:22:10.616286+00:00",
+  "published_to": []
+}

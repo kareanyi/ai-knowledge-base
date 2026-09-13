@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260913-001",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+  "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
+  "summary": "Matt Mullenweg, founder of WordPress and CEO of Automattic, was reportedly removed from his position only to return as CEO just 2 days later, indicating significant internal turmoil at the company that powers WordPress.com and contributes heavily to the open-source WordPress project.",
+  "tech_stack": [
+    "WordPress",
+    "Automattic",
+    "Open Source CMS"
+  ],
+  "problem_solved": "This news item reports on corporate leadership instability at Automattic, not a technical problem being solved.",
+  "why_valuable": "It provides insight into the leadership dynamics of one of the largest contributors to open-source web publishing software, affecting millions of websites.",
+  "tags": [
+    "WordPress",
+    "Corporate News",
+    "Leadership",
+    "Automattic",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-13T13:15:52.937938+00:00",
+  "updated_at": "2026-09-13T13:22:10.608062+00:00",
+  "published_to": []
+}

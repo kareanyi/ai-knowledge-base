@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260913-002",
+  "source": "rss",
+  "source_url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+  "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+  "summary": "Researchers at the Royal Astronomical Society have discovered that certain chemical and structural 'fingerprints' within the Sun's interior could potentially reveal evidence of past planetary engulfment events, where the star may have absorbed planetary material during its evolution.",
+  "tech_stack": [
+    "Helioseismology",
+    "Spectroscopy",
+    "Stellar Modeling",
+    "Computational Astrophysics"
+  ],
+  "problem_solved": "Determining whether the Sun underwent significant accretion events by consuming planetary bodies during its 4.6-billion-year history.",
+  "why_valuable": "Understanding stellar planetary ingestion events could provide crucial insights into solar system formation, chemical mixing processes, and the conditions that led to Earth's formation.",
+  "tags": [
+    "Astronomy",
+    "Solar Physics",
+    "Stellar Evolution",
+    "Planetary Science",
+    "Astrophysics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:16:08.528114+00:00",
+  "updated_at": "2026-09-13T13:22:10.608325+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260913-015",
+  "source": "rss",
+  "source_url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+  "title": "Don't be the out of touch Kung Fu master",
+  "summary": "John Carmack shares a metaphorical insight about the importance of staying connected with current technology and practices, even as one gains experience and seniority in their field. The 'Kung Fu master' analogy warns against becoming outdated or disconnected from the cutting edge of one's domain.",
+  "tech_stack": [
+    "General Programming Concepts"
+  ],
+  "problem_solved": "Addresses the risk of experienced developers losing touch with evolving technology and best practices.",
+  "why_valuable": "Carmack's industry wisdom highlights the importance of continuous learning and staying hands-on to maintain technical credibility.",
+  "tags": [
+    "Career Advice",
+    "Programming",
+    "Experience",
+    "Industry Insights",
+    "Continuous Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:18:47.154223+00:00",
+  "updated_at": "2026-09-13T13:22:10.616102+00:00",
+  "published_to": []
+}

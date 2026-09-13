@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260913-007",
+  "source": "rss",
+  "source_url": "https://phys.org/news/2026-08-black-hole-caught.html",
+  "title": "A wandering black hole caught feeding on the run",
+  "summary": "Astronomers detected a wandering black hole caught in the act of consuming material from a neighboring star as it travels through interstellar space, providing rare observational evidence of how rogue black holes feed during their journeys across galaxies.",
+  "tech_stack": [
+    "Telescope observation",
+    "Astronomical imaging",
+    "Gravitational lensing detection"
+  ],
+  "problem_solved": "Observes how isolated, moving black holes accrete matter from passing stars in intergalactic space.",
+  "why_valuable": "Offers rare direct observation of black hole feeding behavior that was previously only theoretical, advancing our understanding of stellar-mass black hole dynamics.",
+  "tags": [
+    "Astronomy",
+    "BlackHole",
+    "Astrophysics",
+    "SpaceScience",
+    "ObservationalAstronomy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:17:08.108938+00:00",
+  "updated_at": "2026-09-13T13:22:10.615303+00:00",
+  "published_to": []
+}

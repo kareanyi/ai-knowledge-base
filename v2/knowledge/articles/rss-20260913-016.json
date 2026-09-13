@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260913-016",
+  "source": "rss",
+  "source_url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+  "title": "P(doom)",
+  "summary": "Armin Ronacher explores the concept of P(doom) - the probability of catastrophic AI outcomes - examining how we estimate and reason about existential risk from advanced AI systems, likely with his characteristic technical and skeptical analysis.",
+  "tech_stack": [
+    "Python",
+    "AI/LLM",
+    "Statistics"
+  ],
+  "problem_solved": "Addresses the challenge of reasoning about low-probability, high-impact events like AI existential risk in a rational, quantifiable way.",
+  "why_valuable": "Provides a developer's perspective on AI safety discourse, bridging the gap between technical implementation and long-term risk estimation.",
+  "tags": [
+    "AI Safety",
+    "Existential Risk",
+    "Probability",
+    "Philosophy",
+    "AI Ethics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:19:03.756006+00:00",
+  "updated_at": "2026-09-13T13:22:10.616191+00:00",
+  "published_to": []
+}

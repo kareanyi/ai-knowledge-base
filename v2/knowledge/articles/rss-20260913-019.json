@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260913-019",
+  "source": "rss",
+  "source_url": "https://lalitm.com/post/buildprof/",
+  "title": "I made a build visualizer to understand Bun's compile times",
+  "summary": "A developer created a build visualizer tool to analyze and understand Bun's compile times, helping identify performance bottlenecks in build processes through visual representation of timing data.",
+  "tech_stack": [
+    "Bun",
+    "JavaScript",
+    "Web Technologies",
+    "Build Tools",
+    "Data Visualization"
+  ],
+  "problem_solved": "Helps developers debug and understand slow build times in Bun by providing visual insights into compilation performance.",
+  "why_valuable": "Enables developers to identify build bottlenecks and optimize their development workflow through intuitive visual analysis of compile times.",
+  "tags": [
+    "build-tools",
+    "performance",
+    "visualization",
+    "developer-tools",
+    "benchmarking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-13T13:19:43.056450+00:00",
+  "updated_at": "2026-09-13T13:22:10.616525+00:00",
+  "published_to": []
+}

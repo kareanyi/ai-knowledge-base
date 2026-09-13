@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260913-020",
+  "source": "rss",
+  "source_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+  "title": "We must pace the frontier",
+  "summary": "Dario Amodei, CEO of Anthropic, argues that the AI industry must carefully pace the development of frontier AI models rather than racing recklessly forward, emphasizing that safety, alignment, and responsible deployment should take precedence over speed to market.",
+  "tech_stack": [
+    "AI",
+    "Large Language Models",
+    "Safety Research",
+    "Anthropic"
+  ],
+  "problem_solved": "Addresses the critical challenge of balancing rapid AI capability advancement with the need to ensure safety, alignment, and responsible development practices.",
+  "why_valuable": "This perspective from a leading AI company CEO provides crucial guidance for the industry on why measured, safety-conscious AI development is essential for long-term beneficial outcomes.",
+  "tags": [
+    "AI Safety",
+    "AI Policy",
+    "Responsible AI",
+    "Frontier Models",
+    "Anthropic"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-13T13:19:54.376047+00:00",
+  "updated_at": "2026-09-13T13:22:10.616615+00:00",
+  "published_to": []
+}
