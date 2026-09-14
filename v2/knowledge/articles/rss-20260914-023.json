@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260914-023",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+  "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+  "summary": "Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has rebuilt its AI-powered technology called Aura to solve real-time translation for group travel, enabling guides to communicate with mixed-language audiences simultaneously.",
+  "tech_stack": [
+    "AI",
+    "Real-Time Speech Translation",
+    "Natural Language Processing"
+  ],
+  "problem_solved": "Enables a single guide to communicate effectively with tour groups speaking multiple languages simultaneously.",
+  "why_valuable": "Removes language barriers in the $9+ trillion global tourism industry, improving tour experiences for both guides and international travelers.",
+  "tags": [
+    "AI Translation",
+    "Tourism",
+    "Travel Tech",
+    "Real-Time Communication",
+    "Language Processing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:55:48.469154+00:00",
+  "updated_at": "2026-09-14T14:57:16.573930+00:00",
+  "published_to": []
+}

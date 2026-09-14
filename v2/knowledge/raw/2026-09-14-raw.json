@@ -1,0 +1,326 @@
+{
+  "collected_at": "2026-09-14T14:51:23.945284+00:00",
+  "total": 32,
+  "items": [
+    {
+      "id": "rss-125035",
+      "source": "rss",
+      "source_url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "content": "Article URL: https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/\nComments URL: https://news.ycombinator.com/item?id=49697014\nPoints: 4\n# Comments: 0",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 13:59:09 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-942170",
+      "source": "rss",
+      "source_url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "content": "Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete\nComments URL: https://news.ycombinator.com/item?id=49696697\nPoints: 24\n# Comments: 12",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 13:38:58 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-624203",
+      "source": "rss",
+      "source_url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+      "content": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1].Nine months have passed and much stronger models have been released, so I tried the experiment again today. The linked site shows the results.Running ten of the prompts through six models at OpenRouter cost about twenty do",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 13:20:22 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-266667",
+      "source": "rss",
+      "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+      "title": "Temporal raises $550M at a $12.55B valuation",
+      "content": "Article URL: https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai\nComments URL: https://news.ycombinator.com/item?id=49696335\nPoints: 40\n# Comments: 20",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 13:16:31 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-400113",
+      "source": "rss",
+      "source_url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "content": "Article URL: https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public\nComments URL: https://news.ycombinator.com/item?id=49696132\nPoints: 9\n# Comments: 1",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 13:01:04 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-695111",
+      "source": "rss",
+      "source_url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "title": "How to Write an Effective Software Design Document",
+      "content": "Article URL: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\nComments URL: https://news.ycombinator.com/item?id=49696125\nPoints: 40\n# Comments: 2",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 13:00:46 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-903270",
+      "source": "rss",
+      "source_url": "https://triangllabs.ai/otis",
+      "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+      "content": "Hi everyone,Been working on Otis, an open-source ai agent that gives you one minimal experience across local and hosted open-weight models, privacy-focused by design.On setup it recommends a local model based on the hardware Otis is running on, downloads it and runs it through llama.cpp for you. Ollama, LM Studio and Nvidia PAIR are supported too.Excited for everyone to try it and all feedback is welcome!\n\nComments URL: https://news.ycombinator.com/item?id=49696084\nPoints: 6\n# Comments: 0",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:58:32 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-921625",
+      "source": "rss",
+      "source_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+      "content": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\nComments URL: https://news.ycombinator.com/item?id=49695876\nPoints: 90\n# Comments: 116",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:40:57 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-738112",
+      "source": "rss",
+      "source_url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "content": "Article URL: https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/\nComments URL: https://news.ycombinator.com/item?id=49695829\nPoints: 77\n# Comments: 17",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:37:42 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-239606",
+      "source": "rss",
+      "source_url": "https://github.com/Newspicel/sdrminusminus",
+      "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+      "content": "Article URL: https://github.com/Newspicel/sdrminusminus\nComments URL: https://news.ycombinator.com/item?id=49695805\nPoints: 8\n# Comments: 0",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:35:56 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-746147",
+      "source": "rss",
+      "source_url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "title": "PCB is brought to you by Fable 5",
+      "content": "Article URL: https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/\nComments URL: https://news.ycombinator.com/item?id=49695689\nPoints: 7\n# Comments: 4",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:25:24 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-814829",
+      "source": "rss",
+      "source_url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/",
+      "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
+      "content": "Article URL: https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/\nComments URL: https://news.ycombinator.com/item?id=49695663\nPoints: 8\n# Comments: 1",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:23:11 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-850850",
+      "source": "rss",
+      "source_url": "https://xcancel.com/twitter",
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "content": "Article URL: https://xcancel.com/twitter\nComments URL: https://news.ycombinator.com/item?id=49695459\nPoints: 219\n# Comments: 165",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:05:52 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-102530",
+      "source": "rss",
+      "source_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "content": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/\nComments URL: https://news.ycombinator.com/item?id=49695409\nPoints: 137\n# Comments: 58",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:01:32 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-635350",
+      "source": "rss",
+      "source_url": "https://github.com/callbacked/kinesis",
+      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+      "content": "a couple hours ago i had astra take on a 10 month old repo of mine https://github.com/callbacked/neural-band-poc/ that involved finding a way to use the meta neural band independently from the glasses to read the sEMG data off of it. i really think it is a cool piece of technology that largely gets overlooked by the glasses, and always thought it was a shame it couldn't be used outside of its main application.after making quick work of that, i wanted to use it to control my mac using gesture con",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 12:01:31 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-263411",
+      "source": "rss",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+      "title": "Big AI sets out its terms for regulatory capture",
+      "content": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067\nComments URL: https://news.ycombinator.com/item?id=49694596\nPoints: 67\n# Comments: 26",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 10:28:28 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-491937",
+      "source": "rss",
+      "source_url": "https://github.com/rh1tech/frank-386",
+      "title": "A 386 PC for Your RP2350",
+      "content": "Article URL: https://github.com/rh1tech/frank-386\nComments URL: https://news.ycombinator.com/item?id=49693613\nPoints: 140\n# Comments: 35",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 08:25:57 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-435520",
+      "source": "rss",
+      "source_url": "https://www.eurobirdportal.org/ebp/en/",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "content": "Article URL: https://www.eurobirdportal.org/ebp/en/\nComments URL: https://news.ycombinator.com/item?id=49693610\nPoints: 175\n# Comments: 52",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 08:25:47 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-277085",
+      "source": "rss",
+      "source_url": "https://github.com/anuj0456/OpenArch",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "content": "Article URL: https://github.com/anuj0456/OpenArch\nComments URL: https://news.ycombinator.com/item?id=49693384\nPoints: 97\n# Comments: 20",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 07:55:19 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-675897",
+      "source": "rss",
+      "source_url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "title": "The case against JPEG XL",
+      "content": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/\nComments URL: https://news.ycombinator.com/item?id=49690554\nPoints: 226\n# Comments: 292",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-793491",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "content": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model [&#8230;]\nThe post Why Most Enterprise Agent Pilots Never Reach Deployment appeared first on AI News.",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 08:04:35 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-502840",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "content": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces [&#8230;]\nThe post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on AI News.",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 07:56:45 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-578114",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "content": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding its AI-powered technology, Aura, to close that gap, [&#8230;]\nThe post How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel appeared first on AI News.",
+      "author": "",
+      "created_at": "Mon, 14 Sep 2026 07:39:28 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-920422",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "content": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software [&#8230;]\nThe post Palantir Foundry and cuOpt drive NVIDIA supply chain allocation appeared first on AI New",
+      "author": "",
+      "created_at": "Fri, 11 Sep 2026 12:00:18 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-332803",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "content": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification instead, it highlights an operating model that can [&#8230;]\nThe post Supply chains detect fast, act slow: How AI agents fix it appeared first on AI News.",
+      "author": "",
+      "created_at": "Thu, 10 Sep 2026 16:34:43 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-560838",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "content": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. JD Logistics also unveiled its industrial Wolf Robot series, designed [&#8230;]\nThe post JD.com expands physical AI in logistics with 3 million robots appeared first on AI News.",
+      "author": "",
+      "created_at": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-125568",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "content": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the venture capital fund of Lockheed Martin. Founded in 2015, CloudNC operates from [&#8230;]\nThe post CloudNC aims to accelerate AI supply chain machining appeared first on AI News.",
+      "author": "",
+      "created_at": "Wed, 09 Sep 2026 10:34:20 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-480995",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "content": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite – including its flagship Mistral Large model – into internal semiconductor facilities to build customised [&#8230;]\nThe post Samsung taps Mistral AI models for semiconductor manufacturing appeared first o",
+      "author": "",
+      "created_at": "Wed, 09 Sep 2026 08:52:19 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-801378",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "content": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation [&#8230;]\nThe post Arm launches Total Design for Physical AI and robotics framework appeared first on AI Ne",
+      "author": "",
+      "created_at": "Tue, 08 Sep 2026 11:44:10 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-177514",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "content": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing patterns among similar businesses. Coca-Cola said Coke Buddy currently supports about 39,000 retail outlets across [&#8230;]\nThe post Coca-Cola uses AI to improve retailer ordering in Malaysia appeared ",
+      "author": "",
+      "created_at": "Tue, 08 Sep 2026 10:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-135684",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "content": "Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar developers already pay other companies for that [&#8230;]\nThe post AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3 appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-279507",
+      "source": "rss",
+      "source_url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "content": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Searcherries followed 50 searches daily from [&#8230;]\nThe post YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches appeared first on AI News.",
+      "author": "",
+      "created_at": "Tue, 08 Sep 2026 08:50:39 +0000",
+      "metadata": {}
+    }
+  ]
+}

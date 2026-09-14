@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-004",
+  "source": "rss",
+  "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+  "title": "Temporal raises $550M at a $12.55B valuation",
+  "summary": "Temporal, a developer platform for durable execution of code and workflow orchestration, has raised $550 million in Series E funding at a $12.55 billion valuation, positioning itself as a key infrastructure player for AI agent workflows and distributed systems.",
+  "tech_stack": [
+    "Go",
+    "Kubernetes",
+    "PostgreSQL",
+    "gRPC",
+    "Temporal SDK"
+  ],
+  "problem_solved": "Enables developers to build fault-tolerant, long-running workflows and distributed applications that can survive infrastructure failures and scale seamlessly",
+  "why_valuable": "Addresses the critical need for reliable, persistent execution platforms required by AI agents and complex distributed systems in enterprise environments",
+  "tags": [
+    "AI Infrastructure",
+    "Workflow Orchestration",
+    "Developer Platform",
+    "Distributed Systems",
+    "Cloud Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-14T14:52:02.486157+00:00",
+  "updated_at": "2026-09-14T14:57:16.568030+00:00",
+  "published_to": []
+}

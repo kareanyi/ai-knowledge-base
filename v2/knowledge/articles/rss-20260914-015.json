@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-015",
+  "source": "rss",
+  "source_url": "https://github.com/callbacked/kinesis",
+  "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+  "summary": "Kinesis is a project that leverages the Meta Neural Band's sEMG (surface Electromyography) sensors to enable hands-free gesture control of Mac computers. Building on an earlier proof-of-concept, it extracts neural band sensor data independently from the glasses to interpret hand movements and translate them into system controls.",
+  "tech_stack": [
+    "Python",
+    "sEMG sensors",
+    "Meta Neural Band API",
+    "macOS",
+    "Gesture Recognition"
+  ],
+  "problem_solved": "Enables hands-free computer control using Meta Neural Band's underutilized sEMG sensors instead of relying on the glasses' built-in applications.",
+  "why_valuable": "Demonstrates novel applications for consumer sEMG hardware, opening possibilities for accessibility tools, productivity enhancements, and alternative input methods beyond traditional peripherals.",
+  "tags": [
+    "Hardware",
+    "sEMG",
+    "Gesture Control",
+    "Accessibility",
+    "MacOS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:54:15.501172+00:00",
+  "updated_at": "2026-09-14T14:57:16.570164+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260914-003",
+  "source": "rss",
+  "source_url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+  "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+  "summary": "A researcher re-ran Simon Willison's pelican-riding-a-bicycle SVG generation benchmark with newer LLMs released in 2026, comparing results against their previous 2025 experiments to measure AI model improvement. The test uses ten creative prompts across six models via OpenRouter.",
+  "tech_stack": [
+    "LLMs",
+    "SVG",
+    "OpenRouter"
+  ],
+  "problem_solved": "Measuring and comparing how different large language models perform at generating SVG graphics from text prompts.",
+  "why_valuable": "Provides empirical evidence of AI model improvement over 9 months and helps identify which models excel at code generation tasks.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Benchmark",
+    "SVG",
+    "Comparison"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-14T14:51:52.494139+00:00",
+  "updated_at": "2026-09-14T14:57:16.567817+00:00",
+  "published_to": []
+}

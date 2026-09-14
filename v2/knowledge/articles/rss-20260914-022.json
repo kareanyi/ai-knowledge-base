@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+  "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+  "summary": "AI technologies are revolutionizing how we process multimedia content by converting video into structured data through speech transcription, facial recognition, and visual analysis. What appears as simple entertainment becomes a rich source of extractable information when processed by AI systems.",
+  "tech_stack": [
+    "Computer Vision",
+    "Speech Recognition",
+    "Machine Learning",
+    "Deep Learning",
+    "Natural Language Processing"
+  ],
+  "problem_solved": "Converting unstructured video and multimedia content into actionable, searchable, and analyzable structured data.",
+  "why_valuable": "Enables businesses to unlock insights from vast amounts of video content that would otherwise remain untapped, powering applications from content search to analytics.",
+  "tags": [
+    "AI",
+    "Multimedia",
+    "Video Processing",
+    "Computer Vision",
+    "Data Extraction"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-14T14:55:38.610641+00:00",
+  "updated_at": "2026-09-14T14:57:16.573758+00:00",
+  "published_to": []
+}

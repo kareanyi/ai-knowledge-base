@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-017",
+  "source": "rss",
+  "source_url": "https://github.com/rh1tech/frank-386",
+  "title": "A 386 PC for Your RP2350",
+  "summary": "A project that emulates an Intel 386 PC on the Raspberry Pi RP2350 microcontroller, allowing users to run legacy x86 software on modern hardware. It demonstrates the technical challenge of software emulation on resource-constrained embedded platforms.",
+  "tech_stack": [
+    "C",
+    "RP2350",
+    "Assembly",
+    "Emulation",
+    "Embedded Systems"
+  ],
+  "problem_solved": "Enables running vintage 386-era software and experiencing retro computing on affordable modern microcontroller hardware.",
+  "why_valuable": "Bridges the gap between retro computing nostalgia and modern embedded development, serving as both an educational tool and a proof-of-concept for cross-architecture emulation.",
+  "tags": [
+    "Retro Computing",
+    "Emulation",
+    "Embedded",
+    "386",
+    "RP2350"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:54:43.347399+00:00",
+  "updated_at": "2026-09-14T14:57:16.570566+00:00",
+  "published_to": []
+}

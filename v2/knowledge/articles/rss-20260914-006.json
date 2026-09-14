@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260914-006",
+  "source": "rss",
+  "source_url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+  "title": "How to Write an Effective Software Design Document",
+  "summary": "An article providing guidance on writing effective software design documents, offering best practices and frameworks for technical communication in software engineering teams.",
+  "tech_stack": [
+    "Documentation",
+    "Markdown",
+    "Diagramming Tools"
+  ],
+  "problem_solved": "Poor communication and alignment issues caused by unclear or ineffective design documentation in software projects.",
+  "why_valuable": "Clear design documents are essential for team alignment, successful onboarding, knowledge sharing, and maintaining complex software systems over time.",
+  "tags": [
+    "Documentation",
+    "Software Engineering",
+    "Best Practices",
+    "Technical Writing",
+    "Communication"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:52:33.726793+00:00",
+  "updated_at": "2026-09-14T14:57:16.568442+00:00",
+  "published_to": []
+}

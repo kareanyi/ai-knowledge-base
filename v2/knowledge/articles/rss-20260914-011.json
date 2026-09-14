@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-011",
+  "source": "rss",
+  "source_url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+  "title": "PCB is brought to you by Fable 5",
+  "summary": "A personal blog post demonstrating the use of Fable 5, an AI-assisted or generative design tool, for creating custom PCBs (Printed Circuit Boards), showcasing practical hardware design workflow.",
+  "tech_stack": [
+    "PCB Design",
+    "EDA Tools",
+    "Generative AI",
+    "Electronics",
+    "Hardware"
+  ],
+  "problem_solved": "Simplifies and automates the PCB design process using AI-powered generation tools",
+  "why_valuable": "Demonstrates how modern AI tools can accelerate hardware prototyping and make PCB design more accessible to developers",
+  "tags": [
+    "PCB",
+    "Hardware Design",
+    "AI Tools",
+    "Electronics",
+    "DIY"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-14T14:53:38.065471+00:00",
+  "updated_at": "2026-09-14T14:57:16.569432+00:00",
+  "published_to": []
+}

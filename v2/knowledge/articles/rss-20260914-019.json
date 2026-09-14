@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-019",
+  "source": "rss",
+  "source_url": "https://github.com/anuj0456/OpenArch",
+  "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+  "summary": "OpenArch 是一个收集现代大语言模型（LLM）架构 PyTorch 实现的 GitHub 项目，提供了 Transformer、GPT、LLaMA 等流行架构的清晰代码实现，旨在帮助开发者学习和理解 LLM 的内部工作原理。",
+  "tech_stack": [
+    "PyTorch",
+    "Python",
+    "Transformer",
+    "Deep Learning",
+    "LLM"
+  ],
+  "problem_solved": "解决了学习者难以找到清晰、现代的 LLM 架构实现代码的问题。",
+  "why_valuable": "通过提供模块化、易读的 PyTorch 实现，让开发者能够深入理解 GPT、LLaMA 等模型的技术细节，是学习大模型架构的优秀资源。",
+  "tags": [
+    "LLM",
+    "PyTorch",
+    "Transformer",
+    "Deep Learning",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:55:04.971776+00:00",
+  "updated_at": "2026-09-14T14:57:16.573195+00:00",
+  "published_to": []
+}

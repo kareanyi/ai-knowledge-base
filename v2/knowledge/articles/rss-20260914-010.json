@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-010",
+  "source": "rss",
+  "source_url": "https://github.com/Newspicel/sdrminusminus",
+  "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+  "summary": "SDR-- 是一个开源的软件定义无线电(SDR)项目，采用 Rust 实现数字信号处理(DSP)核心，并通过 Web UI 提供可视化的信号流程图编辑功能，用户可以通过图形界面动态调整和补丁信号处理链路。",
+  "tech_stack": [
+    "Rust",
+    "Web UI",
+    "SDR",
+    "DSP",
+    "WebAssembly"
+  ],
+  "problem_solved": "降低了软件定义无线电的门槛，让用户无需编写代码即可通过可视化界面构建和调试信号处理流程。",
+  "why_valuable": "Rust 保证了高性能和内存安全，Web UI 提供了跨平台的友好交互体验，模块化的信号图设计使复杂的 SDR 系统变得直观易懂。",
+  "tags": [
+    "SDR",
+    "Rust",
+    "DSP",
+    "OpenSource",
+    "WebUI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:53:27.407970+00:00",
+  "updated_at": "2026-09-14T14:57:16.569259+00:00",
+  "published_to": []
+}

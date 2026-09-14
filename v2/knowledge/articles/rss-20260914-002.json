@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-002",
+  "source": "rss",
+  "source_url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+  "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+  "summary": "Ubuntu 26.10 正式完成了从 C 语言到 Rust 语言的重写 coreutils（核心工具集，如 ls、cp、mv 等）的过渡，这是 Linux 发行版在系统基础工具层面的重大技术转变。",
+  "tech_stack": [
+    "Rust",
+    "Ubuntu",
+    "GNU Coreutils",
+    "Linux",
+    "C"
+  ],
+  "problem_solved": "解决了 C 语言编写的系统核心工具存在的内存安全问题（如缓冲区溢出和空指针解引用），提升了系统安全性。",
+  "why_valuable": "Rust 的内存安全特性可显著减少系统级安全漏洞，使 Ubuntu 的核心工具更安全稳定，同时保持与原有工具的完全兼容性。",
+  "tags": [
+    "Rust",
+    "Ubuntu",
+    "Systems Programming",
+    "Security",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:51:41.818216+00:00",
+  "updated_at": "2026-09-14T14:57:16.567609+00:00",
+  "published_to": []
+}

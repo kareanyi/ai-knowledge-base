@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-018",
+  "source": "rss",
+  "source_url": "https://www.eurobirdportal.org/ebp/en/",
+  "title": "EuroBirdPortal – Live bird movements across Europe",
+  "summary": "EuroBirdPortal is a web-based platform that provides real-time visualization of bird migration patterns and movements across Europe, aggregating observational data from citizen science networks and ornithological databases.",
+  "tech_stack": [
+    "JavaScript",
+    "Leaflet",
+    "OpenStreetMap",
+    "PostgreSQL",
+    "Python"
+  ],
+  "problem_solved": "It solves the problem of fragmented and inaccessible bird observation data by creating a unified real-time visualization platform for tracking bird migrations across Europe.",
+  "why_valuable": "It democratizes access to bird migration data for researchers, conservationists, and enthusiasts, supporting biodiversity research and citizen science initiatives across the continent.",
+  "tags": [
+    "Biodiversity",
+    "CitizenScience",
+    "DataVisualization",
+    "Birding",
+    "OpenData"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:54:55.703741+00:00",
+  "updated_at": "2026-09-14T14:57:16.573014+00:00",
+  "published_to": []
+}

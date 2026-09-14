@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260914-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+  "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+  "summary": "Research reveals that 89% of enterprise AI agent pilots fail to reach production deployment, despite 78% of enterprises running at least one pilot. Only 14% have scaled agents organization-wide, highlighting a significant gap between pilot adoption and actual deployment.",
+  "tech_stack": [
+    "AI Agents",
+    "Enterprise AI",
+    "Machine Learning Models"
+  ],
+  "problem_solved": "Examines why enterprise AI agent pilots fail to transition from experimentation to full-scale production deployment.",
+  "why_valuable": "Provides critical insights into the practical challenges of scaling AI agents in enterprise environments, helping organizations understand and address barriers to production deployment.",
+  "tags": [
+    "Enterprise AI",
+    "AI Agents",
+    "Deployment Challenges",
+    "Digital Transformation",
+    "AI Adoption"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-14T14:55:24.702868+00:00",
+  "updated_at": "2026-09-14T14:57:16.573572+00:00",
+  "published_to": []
+}

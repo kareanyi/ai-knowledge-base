@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260914-016",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+  "title": "Big AI sets out its terms for regulatory capture",
+  "summary": "This article from The Register discusses how major AI companies are attempting to influence regulatory frameworks, potentially achieving 'regulatory capture' where industry players shape rules to serve their own interests. The piece examines the tension between AI safety regulation and industry-friendly approaches, with companies framing self-serving policies as innovation-friendly. The article sparked discussion on Hacker News (67 points, 26 comments) about the challenges of regulating rapidly advancing AI technology.",
+  "tech_stack": [
+    "N/A - Policy/Regulation Article"
+  ],
+  "problem_solved": "This article examines the challenge of regulating AI development without allowing large tech companies to control the regulatory process for their own benefit.",
+  "why_valuable": "Highlights critical concerns about power dynamics in AI governance and the potential for industry capture of regulatory processes.",
+  "tags": [
+    "AI Regulation",
+    "Policy",
+    "Big Tech",
+    "Ethics",
+    "Tech Governance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:54:33.408526+00:00",
+  "updated_at": "2026-09-14T14:57:16.570344+00:00",
+  "published_to": []
+}

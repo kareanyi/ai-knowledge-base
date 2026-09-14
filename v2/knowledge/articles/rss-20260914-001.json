@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-001",
+  "source": "rss",
+  "source_url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+  "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+  "summary": "Technical notes documenting the challenges and solutions when migrating 35kb of large system prompts from commercial APIs (Anthropic Claude, OpenAI) to self-hosted Ollama, covering practical gotchas encountered during the transition.",
+  "tech_stack": [
+    "Ollama",
+    "Anthropic API",
+    "OpenAI API",
+    "LLM",
+    "Self-hosted AI"
+  ],
+  "problem_solved": "Reduces dependency on expensive commercial LLM APIs by enabling self-hosted alternatives while maintaining compatibility with existing large prompt workflows.",
+  "why_valuable": "Provides real-world migration insights and practical workarounds that can save developers significant time when moving from commercial to self-hosted LLM infrastructure.",
+  "tags": [
+    "LLM",
+    "Ollama",
+    "Self-hosting",
+    "Prompt Engineering",
+    "Migration"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-14T14:51:33.197057+00:00",
+  "updated_at": "2026-09-14T14:57:16.567263+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-014",
+  "source": "rss",
+  "source_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+  "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+  "summary": "Code discovered in iOS 18 reveals that Apple has built-in infrastructure allowing users to swap Siri with other AI assistants like Claude or ChatGPT, suggesting Apple is opening up its AI ecosystem for third-party integration.",
+  "tech_stack": [
+    "iOS 18",
+    "Siri",
+    "ChatGPT",
+    "Claude",
+    "Apple Intelligence"
+  ],
+  "problem_solved": "Addresses user demand for flexibility to use preferred AI assistants instead of being locked into Siri on Apple devices.",
+  "why_valuable": "This represents a significant shift in Apple's traditionally closed ecosystem, giving users choice while enabling competition between AI providers on iOS.",
+  "tags": [
+    "AI",
+    "Apple",
+    "Siri",
+    "Mobile AI",
+    "LLM Integration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:54:04.343600+00:00",
+  "updated_at": "2026-09-14T14:57:16.569989+00:00",
+  "published_to": []
+}

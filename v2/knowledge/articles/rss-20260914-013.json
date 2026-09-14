@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260914-013",
+  "source": "rss",
+  "source_url": "https://xcancel.com/twitter",
+  "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+  "summary": "XCancel, an alternative Twitter/X client, was suspended from its hosting platform due to developments in ongoing legal proceedings, generating significant discussion in the tech community with 219 points and 165 comments on Hacker News.",
+  "tech_stack": [
+    "Web Hosting",
+    "Domain Services"
+  ],
+  "problem_solved": "Provides news coverage and community discussion about platform censorship and legal challenges faced by alternative social media clients.",
+  "why_valuable": "Highlights the ongoing tensions between social media platforms, their alternatives, and the legal frameworks governing them.",
+  "tags": [
+    "Social Media",
+    "Legal",
+    "Censorship",
+    "Twitter",
+    "Platform Governance"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-14T14:53:56.031327+00:00",
+  "updated_at": "2026-09-14T14:57:16.569817+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-007",
+  "source": "rss",
+  "source_url": "https://triangllabs.ai/otis",
+  "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+  "summary": "Otis is an open-source minimal AI agent designed for privacy-focused users, providing an easy setup experience for running local and hosted open-weight AI models. It automatically detects hardware, recommends suitable local models, downloads them, and runs inference through llama.cpp, while also supporting Ollama, LM Studio, and Nvidia PAIR integrations.",
+  "tech_stack": [
+    "llama.cpp",
+    "Ollama",
+    "LM Studio",
+    "Nvidia PAIR",
+    "Open-weight models"
+  ],
+  "problem_solved": "Eliminates the technical complexity of setting up and running local AI models by providing automatic hardware detection and one-click model deployment.",
+  "why_valuable": " democratizes local AI usage by removing configuration barriers while ensuring privacy through entirely local model execution.",
+  "tags": [
+    "AI-Agent",
+    "Local-Models",
+    "Privacy",
+    "Open-Source",
+    "llama.cpp"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-14T14:52:54.615618+00:00",
+  "updated_at": "2026-09-14T14:57:16.568697+00:00",
+  "published_to": []
+}
