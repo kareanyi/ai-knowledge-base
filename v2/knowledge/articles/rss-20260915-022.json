@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260915-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+  "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+  "summary": "Microsoft AI has launched a six-week public consultation on their Humanist AI Code of Conduct, a technical framework that establishes operational constraints, system behavior boundaries, and oversight protocols for their frontier AI models, building on their previously announced humanist superintelligence framework.",
+  "tech_stack": [
+    "Frontier AI Models",
+    "AI Governance Framework",
+    "Model Training Systems",
+    "Oversight Protocols"
+  ],
+  "problem_solved": "Establishes structured operational boundaries and ethical constraints for AI model training and deployment at scale.",
+  "why_valuable": "Provides a proactive governance framework that could set industry standards for responsible AI development and deployment practices.",
+  "tags": [
+    "AI Governance",
+    "Ethics",
+    "Policy",
+    "Responsible AI",
+    "Microsoft AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:25:43.292476+00:00",
+  "updated_at": "2026-09-15T13:27:26.660712+00:00",
+  "published_to": []
+}

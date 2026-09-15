@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260915-005",
+  "source": "rss",
+  "source_url": "https://dossier.reasoner.pl/artykul/",
+  "title": "When Google Cuts Off Access: Poland and the World",
+  "summary": "This article examines the risks and implications of digital dependency on Google, using Poland as a case study to explore what happens when access to major tech platforms is restricted or cut off. It likely addresses themes of digital sovereignty, technological dependency, and geopolitical vulnerabilities in the context of search engine access.",
+  "tech_stack": [
+    "Google Search",
+    "Digital Infrastructure",
+    "Web Analytics"
+  ],
+  "problem_solved": "Addresses the critical vulnerability of nations dependent on a single tech company's services for information access.",
+  "why_valuable": "Highlights the importance of digital sovereignty and the need for alternative information infrastructure in an increasingly connected world.",
+  "tags": [
+    "Digital Sovereignty",
+    "Google",
+    "Poland",
+    "Tech Policy",
+    "Information Access"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-15T13:22:25.298125+00:00",
+  "updated_at": "2026-09-15T13:27:26.650156+00:00",
+  "published_to": []
+}

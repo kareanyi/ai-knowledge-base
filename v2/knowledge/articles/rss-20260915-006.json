@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260915-006",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+  "title": "Suspected sabotage causes major Netherlands rail disruption",
+  "summary": "A major rail disruption in the Netherlands has been attributed to suspected sabotage, highlighting vulnerabilities in critical transportation infrastructure and raising national security concerns across Europe.",
+  "tech_stack": [],
+  "problem_solved": "News reporting on infrastructure security threats and their impact on public transportation systems.",
+  "why_valuable": "Raises awareness about the fragility of critical infrastructure and the importance of protecting transportation networks from malicious attacks.",
+  "tags": [
+    "News",
+    "Infrastructure",
+    "Security",
+    "Transportation",
+    "Netherlands"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:22:36.299146+00:00",
+  "updated_at": "2026-09-15T13:27:26.657345+00:00",
+  "published_to": []
+}

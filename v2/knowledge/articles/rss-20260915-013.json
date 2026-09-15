@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-013",
+  "source": "rss",
+  "source_url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+  "title": "Charts built for Chat",
+  "summary": "This article describes how dbt built a system that allows users to create charts and data visualizations through natural language chat conversations. The system interprets user intent from text inputs and automatically generates appropriate chart configurations and SQL queries to produce the desired visualizations.",
+  "tech_stack": [
+    "dbt",
+    "LLM/AI",
+    "SQL",
+    "JavaScript",
+    "Data Visualization"
+  ],
+  "problem_solved": "Makes data visualization accessible to non-technical users by allowing them to create charts through conversational interfaces instead of complex BI tools or coding.",
+  "why_valuable": "Democratizes data access by enabling anyone to generate meaningful visualizations through simple natural language commands, reducing the barrier to data-driven decision making.",
+  "tags": [
+    "AI",
+    "Data Visualization",
+    "Chat Interface",
+    "LLM",
+    "Natural Language"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:24:13.259790+00:00",
+  "updated_at": "2026-09-15T13:27:26.658768+00:00",
+  "published_to": []
+}

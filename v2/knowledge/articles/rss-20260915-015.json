@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-015",
+  "source": "rss",
+  "source_url": "https://andonlabs.com/blog/why-we-built-pion",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "summary": "Pion is an autonomous AI agent developed by Andon Labs designed to run companies independently, making business decisions and managing operations without human intervention. The project represents a significant step toward fully autonomous business operations using AI agents.",
+  "tech_stack": [
+    "LLM",
+    "Python",
+    "Agent Framework",
+    "API Integrations",
+    "Automation"
+  ],
+  "problem_solved": "Reduces the need for human management and labor in running business operations by creating a fully autonomous AI agent capable of handling company functions.",
+  "why_valuable": "It demonstrates the potential to dramatically reduce operational costs and scale business processes infinitely by replacing human workers with AI agents that can operate 24/7 without fatigue.",
+  "tags": [
+    "AI Agent",
+    "Autonomous Systems",
+    "Business Automation",
+    "Enterprise AI",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:24:34.585760+00:00",
+  "updated_at": "2026-09-15T13:27:26.659187+00:00",
+  "published_to": []
+}

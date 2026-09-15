@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+  "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+  "summary": "Pony.ai has unveiled a fourth-generation autonomous electric truck for logistics fleets, developed in partnership with GAC Commercial Vehicle, at IAA Transportation 2026. The L4 heavy rig builds on GAC's T9 battery-electric truck architecture and is designed for freight supply chains.",
+  "tech_stack": [
+    "Autonomous Driving (L4)",
+    "Electric Vehicle Technology",
+    "Battery-Electric Truck Architecture",
+    "Robotruck Platform",
+    "Freight Logistics Systems"
+  ],
+  "problem_solved": "Addresses the logistics industry's need for autonomous freight transportation to reduce operational costs and improve supply chain efficiency.",
+  "why_valuable": "Represents a significant advancement toward commercializing autonomous trucking, potentially revolutionizing freight logistics with reduced labor costs and 24/7 operational capability.",
+  "tags": [
+    "Autonomous Vehicles",
+    "Electric Trucks",
+    "Logistics",
+    "AI Transportation",
+    "Supply Chain"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:25:26.014818+00:00",
+  "updated_at": "2026-09-15T13:27:26.660277+00:00",
+  "published_to": []
+}

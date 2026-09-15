@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-016",
+  "source": "rss",
+  "source_url": "https://nvartolomei.com/dist-sys-classics/",
+  "title": "Distributed Systems Classics (2017)",
+  "summary": "A curated reading list of classic papers and resources for learning distributed systems fundamentals, covering consensus algorithms, consistency models, and fault tolerance concepts essential for building scalable distributed applications.",
+  "tech_stack": [
+    "Distributed Systems",
+    "Consensus Algorithms",
+    "CAP Theorem",
+    "Raft",
+    "Paxos"
+  ],
+  "problem_solved": "Provides a structured learning path for developers to master distributed systems concepts that are critical for building reliable, scalable modern infrastructure.",
+  "why_valuable": "Distributed systems theory is notoriously difficult to self-learn; this curated list offers a proven roadmap to understand foundational concepts like consensus, replication, and fault tolerance.",
+  "tags": [
+    "Distributed Systems",
+    "Computer Science",
+    "Systems Design",
+    "Education",
+    "Backend"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-15T13:24:44.095214+00:00",
+  "updated_at": "2026-09-15T13:27:26.659394+00:00",
+  "published_to": []
+}

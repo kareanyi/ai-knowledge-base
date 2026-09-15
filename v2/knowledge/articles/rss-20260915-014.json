@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-014",
+  "source": "rss",
+  "source_url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+  "title": "iOS 27, iPadOS 27, and macOS 27",
+  "summary": "Apple released major annual software updates including iOS 27, iPadOS 27, and macOS 27, bringing new features and improvements across their entire device ecosystem including iPhone, iPad, and Mac.",
+  "tech_stack": [
+    "iOS",
+    "iPadOS",
+    "macOS",
+    "Apple Ecosystem",
+    "Swift"
+  ],
+  "problem_solved": "Provides users with updated operating systems featuring new capabilities, improved performance, enhanced privacy features, and better cross-device integration.",
+  "why_valuable": "These platform updates affect billions of devices and shape the daily experience of Apple users worldwide, making them among the most impactful software releases each year.",
+  "tags": [
+    "Apple",
+    "iOS",
+    "macOS",
+    "Software Update",
+    "Operating System"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-15T13:24:24.151954+00:00",
+  "updated_at": "2026-09-15T13:27:26.658988+00:00",
+  "published_to": []
+}

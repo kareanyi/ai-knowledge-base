@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260915-002",
+  "source": "rss",
+  "source_url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+  "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+  "summary": "Cindy Cohn and Bruce Schneier argue that 25 years of mass surveillance practices should come to an end, calling for reform of bulk data collection programs on legal, ethical, and security grounds.",
+  "tech_stack": [
+    "N/A"
+  ],
+  "problem_solved": "Addresses the ongoing issue of government mass surveillance programs that infringe on civil liberties and create security vulnerabilities.",
+  "why_valuable": "Provides expert perspectives from two leading voices in digital rights and security policy, offering both legal and technical arguments for ending mass surveillance.",
+  "tags": [
+    "Privacy",
+    "Surveillance",
+    "Civil Liberties",
+    "Policy",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:21:55.328486+00:00",
+  "updated_at": "2026-09-15T13:27:26.649582+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-007",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2609.15979",
+  "title": "The k-server conjecture is true",
+  "summary": "A groundbreaking theoretical computer science paper claiming to prove the k-server conjecture, one of the most famous unsolved problems in online algorithms for over three decades. The conjecture, proposed in 1990, states that there exists a deterministic online algorithm for the k-server problem with a competitive ratio of k.",
+  "tech_stack": [
+    "Online Algorithms",
+    "Competitive Analysis",
+    "Deterministic Algorithms",
+    "k-Server Problem",
+    "Graph Theory"
+  ],
+  "problem_solved": "Proves the decades-old k-server conjecture by demonstrating that deterministic k-server algorithms can achieve a competitive ratio of exactly k.",
+  "why_valuable": "Represents a monumental theoretical breakthrough, resolving a central open problem in online computation that has driven research in algorithm design for over 30 years.",
+  "tags": [
+    "Theoretical CS",
+    "Algorithms",
+    "Online Computation",
+    "Competitive Analysis",
+    "Mathematical Proof"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-15T13:23:03.146126+00:00",
+  "updated_at": "2026-09-15T13:27:26.657529+00:00",
+  "published_to": []
+}

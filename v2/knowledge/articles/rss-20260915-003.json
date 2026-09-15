@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-003",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+  "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+  "summary": "OpenAI has reportedly acquired Glass Imaging, a smartphone camera technology company, for $300 million, marking another significant strategic acquisition as the AI company expands its hardware and imaging capabilities.",
+  "tech_stack": [
+    "AI/ML Technology",
+    "Computational Photography",
+    "Mobile Imaging",
+    "Smartphone Hardware",
+    "Multimodal AI"
+  ],
+  "problem_solved": "Strategic expansion of AI imaging capabilities through acquisition of specialized camera technology expertise",
+  "why_valuable": "Brings advanced smartphone camera technology and talent to enhance OpenAI's multimodal AI and potential hardware ambitions",
+  "tags": [
+    "OpenAI",
+    "M&A",
+    "AI",
+    "Mobile Imaging",
+    "Smartphone"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-15T13:22:04.504761+00:00",
+  "updated_at": "2026-09-15T13:27:26.649804+00:00",
+  "published_to": []
+}

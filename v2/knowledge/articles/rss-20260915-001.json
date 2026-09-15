@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-001",
+  "source": "rss",
+  "source_url": "https://github.com/arnegiacomo/fugleramme",
+  "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+  "summary": "A creative hardware project that uses an e-ink display frame to detect bird sounds via audio recognition and generates 1800s-style illustrations of the detected birds, creating a unique blend of nature observation and vintage artistic visualization.",
+  "tech_stack": [
+    "Python",
+    "Audio ML Models",
+    "E-ink Display",
+    "Generative AI",
+    "Raspberry Pi"
+  ],
+  "problem_solved": "Transforms ambient bird sounds into beautiful, nostalgic 1800s-style artwork displayed on an e-ink frame.",
+  "why_valuable": "Combines hardware, audio AI, and generative art into a charming home decor piece that bridges nature and technology in a whimsical way.",
+  "tags": [
+    "e-ink",
+    "bird-detection",
+    "generative-art",
+    "hardware",
+    "audio-AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:21:44.840229+00:00",
+  "updated_at": "2026-09-15T13:27:26.649352+00:00",
+  "published_to": []
+}

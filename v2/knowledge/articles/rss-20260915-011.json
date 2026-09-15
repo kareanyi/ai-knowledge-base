@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-011",
+  "source": "rss",
+  "source_url": "https://www.linuxfromscratch.org/",
+  "title": "Linux from Scratch",
+  "summary": "Linux from Scratch (LFS) is a project that guides users through building a complete Linux operating system from source code, teaching deep system-level understanding of how Linux works internally.",
+  "tech_stack": [
+    "Linux Kernel",
+    "GCC",
+    "GNU Toolchain",
+    "Bash",
+    "Systemd"
+  ],
+  "problem_solved": "Teaches deep understanding of Linux internals by having users compile and configure every component from scratch.",
+  "why_valuable": "Provides unparalleled hands-on learning experience for understanding Linux system architecture, compilation process, and dependencies.",
+  "tags": [
+    "Linux",
+    "Open Source",
+    "System Administration",
+    "Education",
+    "Build from Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-15T13:23:43.796844+00:00",
+  "updated_at": "2026-09-15T13:27:26.658339+00:00",
+  "published_to": []
+}

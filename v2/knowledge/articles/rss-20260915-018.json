@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-018",
+  "source": "rss",
+  "source_url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+  "title": "A rough guide for going back to the Moon",
+  "summary": "IBM and NASA collaborated to develop a foundation model specifically for lunar exploration, using AI/ML technology to analyze lunar data and support the Artemis program's goal of returning humans to the Moon.",
+  "tech_stack": [
+    "AI/ML",
+    "Foundation Models",
+    "NASA Data",
+    "Python",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Enables efficient analysis of vast amounts of lunar data to accelerate Moon exploration research and mission planning.",
+  "why_valuable": "Foundation models trained on lunar data can significantly reduce research time and provide AI-powered insights for scientists working on the Artemis missions.",
+  "tags": [
+    "AI",
+    "Space Exploration",
+    "NASA",
+    "Foundation Models",
+    "Moon Mission"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-15T13:25:01.550027+00:00",
+  "updated_at": "2026-09-15T13:27:26.659880+00:00",
+  "published_to": []
+}
