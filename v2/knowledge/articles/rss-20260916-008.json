@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-008",
+  "source": "rss",
+  "source_url": "https://github.com/rapiddweller/datamimic",
+  "title": "Datamimic – don't let your coding agent invent its own test world",
+  "summary": "Datamimic is a test data generation tool designed to prevent AI coding agents from creating arbitrary or inconsistent test scenarios by providing structured, schema-based test data generation capabilities.",
+  "tech_stack": [
+    "Java",
+    "XML",
+    "JSON",
+    "TestNG",
+    "Maven"
+  ],
+  "problem_solved": "Prevents AI coding agents from hallucinating or inventing inconsistent test data by providing a structured framework for generating realistic test datasets.",
+  "why_valuable": "It ensures test reliability and consistency when using AI coding assistants, reducing bugs that slip through due to poorly generated test data.",
+  "tags": [
+    "AI",
+    "Testing",
+    "Test-Data",
+    "Code-Generation",
+    "Software-Quality"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-16T13:20:57.091291+00:00",
+  "updated_at": "2026-09-16T13:24:57.178174+00:00",
+  "published_to": []
+}

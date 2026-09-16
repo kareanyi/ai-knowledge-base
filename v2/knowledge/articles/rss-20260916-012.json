@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-012",
+  "source": "rss",
+  "source_url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+  "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+  "summary": "A maker recreates the iconic Voodoo Graphics 3D accelerator and a complete late-1990s gaming PC entirely on an FPGA, implementing the custom scan-site technology and Glide API in hardware to achieve cycle-accurate retro gaming emulation.",
+  "tech_stack": [
+    "FPGA",
+    "Verilog",
+    "VHDL",
+    "Glide API",
+    "Retro Computing"
+  ],
+  "problem_solved": "Enables running authentic 1990s PC games with original hardware accuracy without relying on software emulators or finding rare vintage hardware.",
+  "why_valuable": "Preserves gaming history by creating a bit-perfect recreation of legendary 3D hardware that can run actual DOS/Windows games with genuine performance characteristics.",
+  "tags": [
+    "FPGA",
+    "Retro Gaming",
+    "Voodoo Graphics",
+    "Hardware Emulation",
+    "3Dfx"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-16T13:21:38.287303+00:00",
+  "updated_at": "2026-09-16T13:24:57.178914+00:00",
+  "published_to": []
+}

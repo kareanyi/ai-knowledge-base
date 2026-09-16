@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-019",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+  "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "summary": "Google发布Gemini 3.8 Live和3.8 Live Extended Thinking版本，带来增强的实时AI交互能力和深度思考推理功能。这是Gemini模型的重大更新，进一步提升了AI在复杂任务中的表现。",
+  "tech_stack": [
+    "Gemini",
+    "Large Language Models",
+    "Google Cloud",
+    "AI/ML",
+    "Deep Learning"
+  ],
+  "problem_solved": "提供更强大的实时AI对话能力和复杂问题的深度推理解决能力",
+  "why_valuable": "Gemini 3.8的更新代表了AI模型的重大进步，特别是在实时交互和复杂推理方面，对开发者和企业用户具有重要价值",
+  "tags": [
+    "AI",
+    "Gemini",
+    "Google",
+    "LLM",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-16T13:22:55.366896+00:00",
+  "updated_at": "2026-09-16T13:24:57.180168+00:00",
+  "published_to": []
+}

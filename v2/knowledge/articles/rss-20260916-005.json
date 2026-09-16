@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260916-005",
+  "source": "rss",
+  "source_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+  "title": "Learning Programming in an Age of LLMs",
+  "summary": "This blog post explores how the emergence of Large Language Models is fundamentally changing how people learn to program, discussing the implications for programming education and skill development in an AI-assisted era.",
+  "tech_stack": [
+    "LLMs",
+    "AI",
+    "Programming Education"
+  ],
+  "problem_solved": "Addresses the challenge of learning programming effectively when AI tools can now generate code snippets and solutions.",
+  "why_valuable": "Provides a thoughtful perspective from an experienced software developer on adapting programming education to the AI era, helping both learners and educators navigate this paradigm shift.",
+  "tags": [
+    "LLMs",
+    "AI",
+    "Programming Education",
+    "Software Development",
+    "Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-16T13:20:28.421648+00:00",
+  "updated_at": "2026-09-16T13:24:57.170504+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+  "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+  "summary": "TypeSafe AI, founded by a ChatGPT co-inventor, emerged from stealth to launch Jev—a specialized System One Model designed for programmatic logic and automated deterministic decisions. Unlike conversational LLMs, Jev uses a parallel sampling architecture to execute structured probabilistic decisions directly within production environments.",
+  "tech_stack": [
+    "AI/ML",
+    "System One Models",
+    "Parallel Sampling Architecture",
+    "Deterministic Logic Systems",
+    "Probabilistic Decision Engines"
+  ],
+  "problem_solved": "Enables software systems requiring automated, deterministic logic to bypass traditional conversational language models for more efficient production-grade decision-making.",
+  "why_valuable": "Provides specialized AI inference for programmatic use cases with better performance and direct production integration compared to general-purpose LLMs.",
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Programmatic AI",
+    "System One",
+    "Enterprise AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-16T13:23:05.576960+00:00",
+  "updated_at": "2026-09-16T13:24:57.180345+00:00",
+  "published_to": []
+}

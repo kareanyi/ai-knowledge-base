@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-014",
+  "source": "rss",
+  "source_url": "https://codyho.dev/blog/gpu-driver/",
+  "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+  "summary": "A developer documented their journey of building a Linux GPU driver for the M4 Mac Mini in one month, involving reverse engineering of Apple's proprietary AGX GPU architecture to enable GPU acceleration on Apple Silicon hardware under Linux.",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "GPU Architecture",
+    "Reverse Engineering",
+    "AGX GPU"
+  ],
+  "problem_solved": "Enables GPU acceleration support for M4 Mac Mini's Apple Silicon GPU under Linux, which currently lacks native driver support.",
+  "why_valuable": "This project advances Linux support for Apple Silicon hardware and provides valuable insights into reverse engineering proprietary GPU architectures for the open-source community.",
+  "tags": [
+    "GPU Driver",
+    "Apple Silicon",
+    "Linux Kernel",
+    "Reverse Engineering",
+    "M4 Mac Mini"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-16T13:21:58.094252+00:00",
+  "updated_at": "2026-09-16T13:24:57.179263+00:00",
+  "published_to": []
+}

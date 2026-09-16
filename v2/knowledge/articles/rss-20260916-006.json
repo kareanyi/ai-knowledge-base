@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-006",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/mistral-x-mozilla/",
+  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+  "summary": "Mistral AI and Mozilla have partnered to develop private, multilingual AI-powered browsing capabilities, combining Mistral's language models with Mozilla's privacy-focused browser infrastructure to provide users with secure, cross-language AI assistance while web browsing.",
+  "tech_stack": [
+    "Mistral AI",
+    "Mozilla Firefox",
+    "Large Language Models",
+    "Privacy Technologies",
+    "Web Extensions"
+  ],
+  "problem_solved": "Addresses the lack of privacy-preserving, multilingual AI assistance in web browsing experiences.",
+  "why_valuable": "Enables users worldwide to leverage AI capabilities for browsing without compromising privacy or being limited by language barriers.",
+  "tags": [
+    "AI",
+    "Privacy",
+    "Multilingual",
+    "Browser",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-16T13:20:37.048957+00:00",
+  "updated_at": "2026-09-16T13:24:57.177780+00:00",
+  "published_to": []
+}

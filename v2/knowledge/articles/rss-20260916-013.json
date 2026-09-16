@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-013",
+  "source": "rss",
+  "source_url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+  "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+  "summary": "German defense contractor Rheinmetall has open-sourced its Battlesuite OnboardAPI protocol documentation, making its connected weapon system communication standard publicly available for developers and integrators. This move represents a significant shift toward open standards in the defense industry, enabling interoperability between different military platforms and components.",
+  "tech_stack": [
+    "API Documentation",
+    "Military Communications Protocols",
+    "Open Source Defense",
+    "Real-time Systems",
+    "C/C++"
+  ],
+  "problem_solved": "Enables standardized communication and interoperability between connected weapon systems, reducing integration complexity and vendor lock-in in defense procurement.",
+  "why_valuable": "Open-sourcing defense communication protocols democratizes military technology development, fosters innovation through community contributions, and establishes Germany as a leader in transparent defense technology standards.",
+  "tags": [
+    "Defense Technology",
+    "Open Source",
+    "Military Systems",
+    "API Standards",
+    "Interoperability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-16T13:21:49.412818+00:00",
+  "updated_at": "2026-09-16T13:24:57.179084+00:00",
+  "published_to": []
+}

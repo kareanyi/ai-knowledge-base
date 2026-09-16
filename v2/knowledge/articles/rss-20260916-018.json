@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-018",
+  "source": "rss",
+  "source_url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+  "title": "An update on Wayback Machine access",
+  "summary": "The Internet Archive published an update on Wayback Machine access, announcing changes to how users can interact with their web archiving service. This follows increased usage and access challenges that have arisen as the platform continues to serve as a critical resource for digital preservation.",
+  "tech_stack": [
+    "Web Archiving",
+    "Python",
+    "CDN Infrastructure",
+    "Web Crawling",
+    "Indexing Systems"
+  ],
+  "problem_solved": "Provides updated access policies and infrastructure improvements for the Wayback Machine to better serve the growing demand for accessing archived web content.",
+  "why_valuable": "The Wayback Machine is essential for digital preservation and accessing historical web content, and this update ensures continued reliable access for researchers, developers, and the public.",
+  "tags": [
+    "web-archiving",
+    "digital-preservation",
+    "internet-archive",
+    "open-access",
+    "infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-16T13:22:44.385465+00:00",
+  "updated_at": "2026-09-16T13:24:57.179989+00:00",
+  "published_to": []
+}

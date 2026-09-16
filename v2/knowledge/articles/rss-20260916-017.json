@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-017",
+  "source": "rss",
+  "source_url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+  "title": "We got admin access to Baseten's production GitHub",
+  "summary": "Security researcher from Strix discovered and responsibly disclosed a critical vulnerability in Baseten's Harbor container registry that allowed unauthorized access to their production GitHub repository through exposed Personal Access Tokens (PATs), potentially compromising their entire production infrastructure.",
+  "tech_stack": [
+    "GitHub",
+    "Harbor",
+    "Container Registry",
+    "Personal Access Tokens (PAT)",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Exposed or improperly secured GitHub Personal Access Tokens in a container registry that led to complete production environment compromise.",
+  "why_valuable": "This responsible disclosure demonstrates a critical supply chain vulnerability pattern where container image credentials can be extracted to gain full production access, helping organizations understand and secure their infrastructure.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "Responsible Disclosure",
+    "GitHub Security",
+    "Supply Chain"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-16T13:22:35.285649+00:00",
+  "updated_at": "2026-09-16T13:24:57.179817+00:00",
+  "published_to": []
+}

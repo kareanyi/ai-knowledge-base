@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-007",
+  "source": "rss",
+  "source_url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+  "title": "A software thing I built: GPS on a 25MHz 486-SX",
+  "summary": "A retro computing hobbyist built a functional GPS navigation application running on a vintage 25MHz 486-SX processor from the early 1990s, demonstrating that legacy hardware can still handle modern tasks with creative software solutions.",
+  "tech_stack": [
+    "x86 Assembly",
+    "C/C++",
+    "DOS",
+    "NMEA Protocol",
+    "Serial Communication"
+  ],
+  "problem_solved": "Shows that 30-year-old computer hardware can be repurposed for practical modern applications like GPS navigation with proper low-level optimization.",
+  "why_valuable": "Preserves retro computing knowledge and demonstrates impressive low-level programming skills while breathing new life into vintage hardware that would otherwise be discarded.",
+  "tags": [
+    "retrocomputing",
+    "vintage hardware",
+    "GPS",
+    "486 processor",
+    "DOS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-16T13:20:47.403123+00:00",
+  "updated_at": "2026-09-16T13:24:57.177979+00:00",
+  "published_to": []
+}

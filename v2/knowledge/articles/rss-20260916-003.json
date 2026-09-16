@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260916-003",
+  "source": "rss",
+  "source_url": "https://gultsch.social/@daniel/117280438824908947",
+  "title": "The Google Play app review process now regularly takes longer than a week",
+  "summary": "This content discusses how Google's app review process for the Play Store has become significantly slower, now regularly taking more than a week to complete. The post highlights developer frustration with these extended review times, which impact release schedules and app deployment workflows.",
+  "tech_stack": [
+    "Android",
+    "Google Play Console",
+    "Mobile Development"
+  ],
+  "problem_solved": "Documents the problem of slow Google Play app review times affecting developer productivity and release cycles.",
+  "why_valuable": "Raises awareness about deteriorating developer experience on the Google Play platform and sparks discussion about platform policies affecting mobile developers.",
+  "tags": [
+    "Android",
+    "Google Play",
+    "Mobile Development",
+    "Developer Experience",
+    "App Store Policy"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-16T13:19:57.145303+00:00",
+  "updated_at": "2026-09-16T13:24:57.170201+00:00",
+  "published_to": []
+}

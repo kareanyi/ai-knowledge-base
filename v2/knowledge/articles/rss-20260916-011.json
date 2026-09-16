@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-011",
+  "source": "rss",
+  "source_url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+  "title": "Saving Jet Fuel",
+  "summary": "This article explores using scikit-decide library combined with OpenAP for optimizing flight planning to minimize jet fuel consumption. It demonstrates how decision optimization and path-finding algorithms can calculate more fuel-efficient flight routes for airlines.",
+  "tech_stack": [
+    "Python",
+    "scikit-decide",
+    "OpenAP",
+    "Mathematical Optimization",
+    "Algorithms"
+  ],
+  "problem_solved": "Reducing aviation fuel costs by finding optimal flight routes through computational optimization",
+  "why_valuable": "Enables airlines to significantly cut operating costs and environmental impact by mathematically optimizing every flight path",
+  "tags": [
+    "Aviation",
+    "Optimization",
+    "Python",
+    "Sustainability",
+    "Operations-Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-16T13:21:30.434882+00:00",
+  "updated_at": "2026-09-16T13:24:57.178739+00:00",
+  "published_to": []
+}

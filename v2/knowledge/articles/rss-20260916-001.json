@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-001",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+  "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+  "summary": "This is a job posting for a Forward Deployed Engineer position at Kyber, a Winter 2023 Y Combinator startup. The posting lacks detailed job description content, but Forward Deployed Engineer roles typically combine software engineering with customer-facing technical implementation work.",
+  "tech_stack": [
+    "Full-stack Development",
+    "Python",
+    "SQL",
+    "Data Engineering",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Bridges the gap between Kyber's product development and customer implementation by deploying solutions directly at client sites.",
+  "why_valuable": "Forward Deployed Engineers enable successful customer adoption by combining technical expertise with practical on-site implementation skills.",
+  "tags": [
+    "Y Combinator",
+    "Startup Jobs",
+    "Forward Deployed Engineer",
+    "Customer Engineering",
+    "Technical Sales"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-09-16T13:19:30.394056+00:00",
+  "updated_at": "2026-09-16T13:24:57.169813+00:00",
+  "published_to": []
+}

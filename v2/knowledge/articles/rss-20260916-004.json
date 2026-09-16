@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260916-004",
+  "source": "rss",
+  "source_url": "https://status.salesforce.com/products/all",
+  "title": "Salesforce Global Outage",
+  "summary": "Salesforce experienced a global outage affecting its cloud-based CRM platform, with users reporting inability to access services. This represents a significant disruption for enterprise customers relying on Salesforce for sales, service, and marketing operations.",
+  "tech_stack": [
+    "Salesforce",
+    "Cloud Infrastructure",
+    "CRM",
+    "SaaS",
+    "Enterprise Software"
+  ],
+  "problem_solved": "This is an incident report rather than a problem-solving content—documenting a service disruption rather than solving a technical challenge.",
+  "why_valuable": "Provides visibility into major enterprise cloud outages and serves as a case study for understanding the impact of SaaS reliability on business operations.",
+  "tags": [
+    "Cloud",
+    "SaaS",
+    "Enterprise",
+    "Outage",
+    "Reliability"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-16T13:20:07.183831+00:00",
+  "updated_at": "2026-09-16T13:24:57.170359+00:00",
+  "published_to": []
+}
