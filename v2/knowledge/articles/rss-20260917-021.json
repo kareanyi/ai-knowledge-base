@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260917-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+  "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+  "summary": "Adecco Group, a major global staffing company, is deploying Salesforce's Agentforce Coworker AI assistant to 27,000 employees across more than 40 countries, following successful pilots in the UK and France. This large-scale rollout represents one of the most significant enterprise-wide implementations of agentic AI for workforce productivity.",
+  "tech_stack": [
+    "Salesforce Agentforce Coworker",
+    "Agentic AI",
+    "Enterprise AI Assistants"
+  ],
+  "problem_solved": "Enables enterprises to deploy AI coworkers that handle daily workflow tasks across thousands of employees in multiple countries simultaneously.",
+  "why_valuable": "This deployment serves as a landmark case study demonstrating that agentic AI is ready for large-scale enterprise adoption, potentially accelerating AI implementation across other Fortune 500 companies.",
+  "tags": [
+    "Enterprise AI",
+    "Agentic AI",
+    "Salesforce",
+    "HR Technology",
+    "Digital Transformation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:19:11.226615+00:00",
+  "updated_at": "2026-09-17T13:21:03.753614+00:00",
+  "published_to": []
+}

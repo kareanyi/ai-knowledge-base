@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260917-003",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49738879",
+  "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+  "summary": "A Hacker News user discovered that Neovim's Bitcoin donation address contains approximately 10 BTC (now worth ~$800,000) from a 2023 donation that remains untouched, while the project hasn't moved Bitcoin since 2019. The post raises questions about whether the Neovim team is aware of this significant unclaimed funding.",
+  "tech_stack": [
+    "Bitcoin/Cryptocurrency",
+    "Neovim (C/Lua)",
+    "Blockchain Explorer Tools"
+  ],
+  "problem_solved": "Highlights the challenge of open source projects managing and tracking cryptocurrency donations effectively.",
+  "why_valuable": "Sheds light on open source sustainability issues and the importance of proper donation management for community-funded projects.",
+  "tags": [
+    "Open Source",
+    "Cryptocurrency",
+    "Funding",
+    "Neovim",
+    "Community"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-17T13:15:54.484462+00:00",
+  "updated_at": "2026-09-17T13:21:03.741399+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-007",
+  "source": "rss",
+  "source_url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+  "title": "CCC invites all model citizens to 40C3",
+  "summary": "Chaos Computer Club (CCC) announces their 40th Chaos Communication Congress (40C3), inviting participants to Europe's premier hacker conference. The congress is a major annual gathering for hackers, privacy advocates, and digital rights activists.",
+  "tech_stack": [
+    "Hacker culture",
+    "Digital rights",
+    "Privacy advocacy",
+    "Open source",
+    "Security research"
+  ],
+  "problem_solved": "Provides a platform for the hacker community to gather, share knowledge, and advocate for digital rights and privacy.",
+  "why_valuable": "The Chaos Communication Congress has been instrumental in shaping hacker culture, exposing surveillance programs, and promoting digital freedom for over three decades.",
+  "tags": [
+    "Hacker",
+    "Privacy",
+    "CCC",
+    "Conference",
+    "Digital rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:16:39.122007+00:00",
+  "updated_at": "2026-09-17T13:21:03.751011+00:00",
+  "published_to": []
+}

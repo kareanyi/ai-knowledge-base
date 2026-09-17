@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-014",
+  "source": "rss",
+  "source_url": "https://mimo.xiaomi.com/rl/",
+  "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+  "summary": "Xiaomi's Mimo 2.6 introduces a live post-training dashboard for monitoring reinforcement learning model performance in real-time, part of their AI/robotics platform that gained significant attention on Hacker News with 474 points.",
+  "tech_stack": [
+    "Reinforcement Learning",
+    "Dashboard/Visualization",
+    "Real-time Monitoring",
+    "Python",
+    "Web Technologies"
+  ],
+  "problem_solved": "Provides real-time visibility into post-training model behavior and performance metrics during reinforcement learning processes.",
+  "why_valuable": "Enables researchers and engineers to quickly identify issues, validate training results, and iterate on AI models more efficiently with live feedback.",
+  "tags": [
+    "Reinforcement Learning",
+    "Dashboard",
+    "Xiaomi",
+    "AI Monitoring",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:17:54.224279+00:00",
+  "updated_at": "2026-09-17T13:21:03.752500+00:00",
+  "published_to": []
+}

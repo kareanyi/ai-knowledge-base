@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-008",
+  "source": "rss",
+  "source_url": "https://github.com/cloudflare/security-audit-skill",
+  "title": "Cloudflare/Security-Audit-Skill",
+  "summary": "Cloudflare's security-audit-skill is an AI-powered tool designed to automatically perform security audits on code and infrastructure, likely integrated with Cloudflare's AI platform or Workers ecosystem to help developers identify vulnerabilities efficiently.",
+  "tech_stack": [
+    "Cloudflare Workers",
+    "TypeScript",
+    "AI/ML",
+    "LangChain",
+    "WAF"
+  ],
+  "problem_solved": "Automates security vulnerability detection and auditing processes for developers and security teams.",
+  "why_valuable": "Enables continuous, automated security review without requiring extensive manual security expertise.",
+  "tags": [
+    "Security",
+    "Automation",
+    "Cloudflare",
+    "AI",
+    "DevSecOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:16:49.675989+00:00",
+  "updated_at": "2026-09-17T13:21:03.751237+00:00",
+  "published_to": []
+}

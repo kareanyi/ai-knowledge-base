@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-013",
+  "source": "rss",
+  "source_url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+  "title": "Backups Aren't Simple",
+  "summary": "A technical blog post discussing the hidden complexities and challenges of implementing reliable backup systems in production environments, likely covering common pitfalls, misconceptions, and practical lessons learned from real-world scenarios.",
+  "tech_stack": [
+    "Infrastructure",
+    "Databases",
+    "Cloud Storage",
+    "Monitoring",
+    "DevOps"
+  ],
+  "problem_solved": "Explains why backup systems are deceptively complex and addresses common implementation mistakes.",
+  "why_valuable": "Backups are critical infrastructure that many assume are simple but often fail when needed most, making this essential knowledge for production systems.",
+  "tags": [
+    "Infrastructure",
+    "DevOps",
+    "Data Protection",
+    "Reliability",
+    "Systems Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:17:42.162292+00:00",
+  "updated_at": "2026-09-17T13:21:03.752336+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-020",
+  "source": "rss",
+  "source_url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+  "title": "The engineering behind the US Strategic Petroleum Reserve",
+  "summary": "This article explores the technical engineering behind the US Strategic Petroleum Reserve, detailing how the government maintains massive underground oil storage facilities in salt caverns across Texas and Louisiana, along with the complex pipeline and distribution infrastructure needed for emergency oil releases.",
+  "tech_stack": [
+    "Underground salt cavern storage",
+    "Pipeline distribution systems",
+    "Subsurface geology engineering",
+    "Industrial pumping infrastructure",
+    "Emergency response logistics"
+  ],
+  "problem_solved": "The US Strategic Petroleum Reserve addresses national energy security by providing a strategic buffer against oil supply disruptions and price shocks during emergencies.",
+  "why_valuable": "Understanding the reserve's engineering reveals how a nation maintains energy independence and economic stability through massive underground storage infrastructure capable of rapid mobilization.",
+  "tags": [
+    "energy-security",
+    "infrastructure",
+    "petroleum",
+    "engineering",
+    "national-defense"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-17T13:19:02.221197+00:00",
+  "updated_at": "2026-09-17T13:21:03.753471+00:00",
+  "published_to": []
+}

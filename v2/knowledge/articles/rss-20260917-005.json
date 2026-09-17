@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-005",
+  "source": "rss",
+  "source_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+  "title": "GLM Built Its Own Inference Infrastructure",
+  "summary": "Zhipu AI (creator of GLM models, often called China's OpenAI equivalent) shares how they built custom inference infrastructure to serve their large language models, discussing optimizations for performance, cost efficiency, and scalability in production environments.",
+  "tech_stack": [
+    "Python",
+    "CUDA",
+    "PyTorch",
+    "Kubernetes",
+    "C++"
+  ],
+  "problem_solved": "Building efficient, cost-effective inference infrastructure to serve large language models at scale without relying on third-party solutions.",
+  "why_valuable": "Self-built inference infrastructure allows for deeper optimization, better cost control, and competitive advantage for AI companies serving millions of users.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Inference",
+    "Infrastructure",
+    "MLOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:16:15.442103+00:00",
+  "updated_at": "2026-09-17T13:21:03.741838+00:00",
+  "published_to": []
+}

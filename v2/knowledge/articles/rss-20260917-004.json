@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-004",
+  "source": "rss",
+  "source_url": "https://manticoresearch.com/blog/auto-chunking/",
+  "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+  "summary": "This article explains how Manticore Search implements automatic chunking to optimize vector search for long documents, splitting large texts into smaller semantically coherent pieces before embedding generation to improve retrieval accuracy and relevance.",
+  "tech_stack": [
+    "Manticore Search",
+    "Vector Search",
+    "Text Chunking",
+    "Embeddings",
+    "NLP"
+  ],
+  "problem_solved": "Long documents exceed embedding token limits and lose semantic context when embedded as a whole, leading to poor vector search results.",
+  "why_valuable": "Automatic chunking enables accurate semantic search on large documents by breaking them into meaningful smaller units, significantly improving retrieval quality without manual preprocessing.",
+  "tags": [
+    "Vector Search",
+    "Text Chunking",
+    "Embeddings",
+    "Search Engines",
+    "Document Retrieval"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:16:03.105112+00:00",
+  "updated_at": "2026-09-17T13:21:03.741607+00:00",
+  "published_to": []
+}

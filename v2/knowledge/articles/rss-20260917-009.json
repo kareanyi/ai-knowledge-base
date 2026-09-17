@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-009",
+  "source": "rss",
+  "source_url": "https://ryan.science/blog/keys-not-included",
+  "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+  "summary": "Security researcher Ryan investigates and recovers the cryptographic signing keys used in US driver's license barcodes following the AAMVA standard. Through reverse engineering and analysis of publicly available data, he demonstrates how these keys can be extracted despite attempts at key management.",
+  "tech_stack": [
+    "Cryptographic Analysis",
+    "Reverse Engineering",
+    "AAMVA Standard",
+    "PDF417 Barcode",
+    "Python"
+  ],
+  "problem_solved": "Examines whether the signing keys for US driver's license 2D barcodes can be recovered, revealing security implications for identity document verification systems.",
+  "why_valuable": "Highlights critical security vulnerabilities in widely-deployed identity document infrastructure used by millions of Americans, raising important questions about key management practices.",
+  "tags": [
+    "Security Research",
+    "Cryptography",
+    "Reverse Engineering",
+    "Identity Documents",
+    "AAMVA"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-17T13:16:58.987103+00:00",
+  "updated_at": "2026-09-17T13:21:03.751464+00:00",
+  "published_to": []
+}

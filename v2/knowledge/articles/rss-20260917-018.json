@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260917-018",
+  "source": "rss",
+  "source_url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+  "title": "A 32-year-old bug walks into a Telnet server",
+  "summary": "Watchtowr Labs researchers discovered a 32-year-old remote code execution vulnerability in GNU inetutils telnetd (CVE-2026-32746), demonstrating that even decades-old legacy software can contain critical security flaws that remain undiscovered for extended periods.",
+  "tech_stack": [
+    "GNU inetutils",
+    "telnetd",
+    "C",
+    "Linux/Unix systems"
+  ],
+  "problem_solved": "Reveals and documents a critical remote code execution vulnerability that has existed in GNU inetutils telnetd since approximately 1992.",
+  "why_valuable": "Highlights the ongoing risks of unexamined legacy code and demonstrates that fundamental vulnerabilities can persist undetected for decades, even in widely-deployed open source software components.",
+  "tags": [
+    "Security",
+    "Vulnerability",
+    "CVE",
+    "RCE",
+    "Legacy Software"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-17T13:18:35.597720+00:00",
+  "updated_at": "2026-09-17T13:21:03.753195+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-010",
+  "source": "rss",
+  "source_url": "https://openspec.dev/",
+  "title": "OpenSpec – A lightweight and configurable AI spec framework",
+  "summary": "OpenSpec is a lightweight and configurable AI specification framework designed to help developers create, manage, and process AI-related specifications with flexibility and ease of use.",
+  "tech_stack": [
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "OpenAI API",
+    "JSON Schema"
+  ],
+  "problem_solved": "Addresses the challenge of managing complex AI specifications and configurations without the overhead of heavyweight frameworks.",
+  "why_valuable": "Provides developers with a minimal, adaptable tool that can be customized for various AI workflows while maintaining simplicity and performance.",
+  "tags": [
+    "AI",
+    "Framework",
+    "Specification",
+    "Developer Tools",
+    "Configuration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:17:07.843464+00:00",
+  "updated_at": "2026-09-17T13:21:03.751702+00:00",
+  "published_to": []
+}

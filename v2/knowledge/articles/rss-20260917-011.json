@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-011",
+  "source": "rss",
+  "source_url": "https://harnesstax.github.io/",
+  "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+  "summary": "HarnessTax is a research study investigating how different software development frameworks and toolings (the 'harness') affect the performance of AI coding agents, revealing the hidden costs different frameworks impose on agent productivity and effectiveness.",
+  "tech_stack": [
+    "Python",
+    "LLM",
+    "GitHub",
+    "Software Frameworks",
+    "Agent Evaluation Tools"
+  ],
+  "problem_solved": "Quantifies how different development frameworks and toolchains impact AI coding agent performance, revealing which frameworks 'tax' agents more than others.",
+  "why_valuable": "Helps developers and researchers make informed decisions about framework choices when working with AI coding agents, potentially saving significant development time and improving agent effectiveness.",
+  "tags": [
+    "AI",
+    "Coding Agents",
+    "Research",
+    "Software Engineering",
+    "LLM Evaluation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-17T13:17:18.142747+00:00",
+  "updated_at": "2026-09-17T13:21:03.751921+00:00",
+  "published_to": []
+}

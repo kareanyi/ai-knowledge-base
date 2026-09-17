@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-017",
+  "source": "rss",
+  "source_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+  "title": "Nvidia announces native GPU programming in Rust",
+  "summary": "NVIDIA announces native CUDA programming support in Rust through their official CUDA Rust project, offering two different approaches for writing GPU kernels while leveraging Rust's memory safety and modern language features.",
+  "tech_stack": [
+    "Rust",
+    "CUDA",
+    "GPU Programming",
+    "NVIDIA GPGPU",
+    "LLVM"
+  ],
+  "problem_solved": "Enables Rust developers to write high-performance GPU-accelerated code natively without relying on C/C++ bindings or unsafe code patterns.",
+  "why_valuable": "Brings Rust's memory safety guarantees and modern developer experience to GPU computing, potentially reducing bugs in GPU kernels while maintaining CUDA's performance characteristics.",
+  "tags": [
+    "Rust",
+    "CUDA",
+    "GPU",
+    "GPGPU",
+    "NVIDIA"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-17T13:18:23.582210+00:00",
+  "updated_at": "2026-09-17T13:21:03.753057+00:00",
+  "published_to": []
+}

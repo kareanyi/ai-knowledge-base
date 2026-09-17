@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260917-006",
+  "source": "rss",
+  "source_url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+  "title": "One Year of Sponsored Servo Development",
+  "summary": "A retrospective blog post celebrating one year of corporate-sponsored development on Servo, the experimental Rust-based web browser engine originally created by Mozilla, highlighting progress made possible through sustained funding.",
+  "tech_stack": [
+    "Rust",
+    "Servo",
+    "Web Rendering",
+    "Open Source"
+  ],
+  "problem_solved": "Addresses the challenge of sustaining complex open-source infrastructure projects like browser engines through corporate sponsorship rather than traditional funding models.",
+  "why_valuable": "Demonstrates a viable model for funding critical open-source browser technology, showing how commercial support can enable long-term development of fundamental web infrastructure.",
+  "tags": [
+    "Open Source",
+    "Browser Engine",
+    "Rust",
+    "Sponsorship",
+    "Mozilla"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:16:26.960871+00:00",
+  "updated_at": "2026-09-17T13:21:03.750719+00:00",
+  "published_to": []
+}

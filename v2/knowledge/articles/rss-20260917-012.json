@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260917-012",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2609.16338",
+  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "summary": "这是一篇关于大型语言模型(LLM)极致量化的学术研究，挑战了三元权重LLM中1.58-bit的理论或实践极限，通过创新方法实现更低位宽的模型压缩，显著降低LLM的存储和计算成本。",
+  "tech_stack": [
+    "Deep Learning",
+    "PyTorch",
+    "Model Quantization",
+    "Transformer",
+    "LLM"
+  ],
+  "problem_solved": "解决大语言模型参数庞大导致的存储成本高、推理速度慢、难以部署到资源受限设备的问题。",
+  "why_valuable": "通过突破三值量化的1.58-bit障碍，可将LLM模型体积压缩至极小，使在手机、IoT设备等边缘端部署大模型成为可能，大幅推动AI民主化。",
+  "tags": [
+    "LLM",
+    "Quantization",
+    "Model Compression",
+    "Neural Networks",
+    "Edge AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-17T13:17:29.819865+00:00",
+  "updated_at": "2026-09-17T13:21:03.752132+00:00",
+  "published_to": []
+}

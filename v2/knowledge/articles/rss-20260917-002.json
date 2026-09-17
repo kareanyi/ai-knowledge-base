@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260917-002",
+  "source": "rss",
+  "source_url": "https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us",
+  "title": "How, Exactly, Could A.I. Kill Us?",
+  "summary": "This New Yorker Q&A article explores the theoretical pathways through which advanced artificial intelligence could pose existential risks to humanity, featuring expert analysis on AI alignment and catastrophic scenarios.",
+  "tech_stack": [
+    "AI/ML",
+    "Neural Networks",
+    "Large Language Models"
+  ],
+  "problem_solved": "Addresses public concern and misunderstanding about how AI systems could potentially cause catastrophic or existential harm to humanity.",
+  "why_valuable": "Provides credible, expert-informed perspective on a critically important but often sensationalized topic, helping readers understand genuine AI risks versus science fiction scenarios.",
+  "tags": [
+    "AI Safety",
+    "Existential Risk",
+    "AI Ethics",
+    "Expert Analysis",
+    "Future Technology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-17T13:15:44.416927+00:00",
+  "updated_at": "2026-09-17T13:21:03.741176+00:00",
+  "published_to": []
+}

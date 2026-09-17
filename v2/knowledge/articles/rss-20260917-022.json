@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260917-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+  "title": "Lidl deploys driverless truck for store deliveries in Germany",
+  "summary": "Lidl has deployed a cab-less autonomous electric truck for daily store deliveries in Germany, operating at SAE Level 4 autonomy between its distribution centre and a nearby store. The truck, supplied by Swedish freight technology company Einride, operates under a permit from Germany's Federal Motor Transport Authority (KBA).",
+  "tech_stack": [
+    "Autonomous Driving (SAE Level 4)",
+    "Electric Vehicle Technology",
+    "Fleet Management Systems",
+    "Freight Automation"
+  ],
+  "problem_solved": "Automates short-haul retail delivery routes to reduce labor costs and carbon emissions.",
+  "why_valuable": "Demonstrates a real-world commercial deployment of Level 4 autonomous trucks, setting a precedent for autonomous logistics in Europe.",
+  "tags": [
+    "Autonomous Vehicles",
+    "Electric Trucks",
+    "Logistics",
+    "Retail",
+    "Smart Mobility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-17T13:19:24.191851+00:00",
+  "updated_at": "2026-09-17T13:21:03.753856+00:00",
+  "published_to": []
+}

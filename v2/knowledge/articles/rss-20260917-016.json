@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260917-016",
+  "source": "rss",
+  "source_url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+  "title": "Small programming tricks",
+  "summary": "一篇探讨编程中看似微小的技巧和实践为何重要的博客文章，作者通过实际案例说明这些小技巧在代码可读性、可维护性和团队协作中的累积价值。",
+  "tech_stack": [
+    "Programming General",
+    "Software Engineering"
+  ],
+  "problem_solved": "解释了为什么开发者不应该忽视代码中的小细节，以及这些微小改进如何在大规模项目中产生显著影响。",
+  "why_valuable": "通过真实的开发经验说明，关注代码质量和编程细节能够显著提升长期项目可维护性和团队效率。",
+  "tags": [
+    "Programming",
+    "Best Practices",
+    "Code Quality",
+    "Software Development",
+    "Developer Experience"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-17T13:18:14.300044+00:00",
+  "updated_at": "2026-09-17T13:21:03.752917+00:00",
+  "published_to": []
+}
