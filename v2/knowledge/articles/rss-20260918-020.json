@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-020",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+  "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+  "summary": "Fulcra Dynamics announces universal multiplayer capabilities for AI agents, enabling agent-to-agent collaboration across different AI models without vendor lock-in. The solution addresses the current limitation where AI agents can only communicate within their own ecosystem, providing a universal context backend for multi-agent interaction.",
+  "tech_stack": [
+    "AI Agents",
+    "Context Backend",
+    "Multi-agent Systems",
+    "Interoperability Layer",
+    "Collaborative AI"
+  ],
+  "problem_solved": "Eliminates AI agent ecosystem silos by enabling seamless communication and collaboration between agents regardless of their underlying AI model or platform.",
+  "why_valuable": "Breaks down the 'Instinct-to-Instinct' barrier that limits current AI agent ecosystems, allowing users to leverage the best agents across different platforms without being locked into a single vendor.",
+  "tags": [
+    "AI Agents",
+    "Multiplayer",
+    "Interoperability",
+    "Agent Collaboration",
+    "Platform-agnostic"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:55:51.824960+00:00",
+  "updated_at": "2026-09-18T12:57:40.625996+00:00",
+  "published_to": []
+}

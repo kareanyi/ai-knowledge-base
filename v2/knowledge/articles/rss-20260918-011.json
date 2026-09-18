@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-011",
+  "source": "rss",
+  "source_url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+  "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+  "summary": "A lightweight quantized version of Qwen 27B model optimized to run in just 13.1 GB VRAM, likely using advanced quantization and compression techniques to make large language models accessible on consumer hardware.",
+  "tech_stack": [
+    "Qwen",
+    "Quantization",
+    "LLM",
+    "PyTorch",
+    "Deep Learning"
+  ],
+  "problem_solved": "Making large 27B parameter language models accessible on consumer GPUs with limited VRAM",
+  "why_valuable": "Enables running 27B parameter models on consumer hardware that would normally require 54GB+ VRAM, democratizing access to large language models",
+  "tags": [
+    "LLM",
+    "Quantization",
+    "Qwen",
+    "Model Compression",
+    "Edge AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:54:18.392937+00:00",
+  "updated_at": "2026-09-18T12:57:40.624756+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-016",
+  "source": "rss",
+  "source_url": "https://prismml.com/news/bonsai-2-27b",
+  "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+  "summary": "Bonsai 2 is a 27B parameter language model that achieves near-lossless quality while compressed to a 9x smaller footprint (roughly 3B equivalent), making it dramatically more efficient for deployment without significant quality degradation.",
+  "tech_stack": [
+    "LLM",
+    "Model Quantization",
+    "Python",
+    "GGUF Format",
+    "Transformers"
+  ],
+  "problem_solved": "Reduces the computational and memory requirements for running large language models by up to 9x while maintaining near-original quality.",
+  "why_valuable": "Makes powerful AI capabilities accessible on consumer hardware and reduces cloud inference costs significantly.",
+  "tags": [
+    "LLM",
+    "Model Compression",
+    "Quantization",
+    "Edge AI",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-18T12:55:08.820186+00:00",
+  "updated_at": "2026-09-18T12:57:40.625506+00:00",
+  "published_to": []
+}

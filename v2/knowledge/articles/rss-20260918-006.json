@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260918-006",
+  "source": "rss",
+  "source_url": "https://openjev.com/",
+  "title": "OpenJev",
+  "summary": "OpenJev is an open-source project shared on Hacker News that garnered significant community interest with 206 points and 117 comments. Based on the project name and HN context, it appears to be a developer-focused tool or platform in the open-source ecosystem, though the specific functionality requires direct site inspection to confirm.",
+  "tech_stack": [
+    "Cannot determine without site access",
+    "JavaScript (implied by naming)",
+    "Web Technologies"
+  ],
+  "problem_solved": "Provides an open-source solution for developers, though the specific problem domain is unclear from available metadata",
+  "why_valuable": "Community validation through HN engagement (206 points, 117 comments) suggests it addresses a genuine developer need",
+  "tags": [
+    "Open Source",
+    "Developer Tools",
+    "Web Platform",
+    "HackerNews",
+    "JavaScript"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-18T12:53:15.573786+00:00",
+  "updated_at": "2026-09-18T12:57:40.624105+00:00",
+  "published_to": []
+}

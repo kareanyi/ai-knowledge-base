@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-018",
+  "source": "rss",
+  "source_url": "https://flet.dev/",
+  "title": "Flet 1.0 – Build cross-platform apps in Python",
+  "summary": "Flet 1.0 is a Python framework that enables developers to build cross-platform applications (web, desktop, and mobile) using only Python, without requiring HTML, CSS, or JavaScript. It leverages Flutter under the hood but abstracts away the complexity, allowing Python developers to create production-ready UIs with minimal boilerplate code.",
+  "tech_stack": [
+    "Python",
+    "Flutter",
+    "Dart",
+    "TypeScript",
+    "Go"
+  ],
+  "problem_solved": "Enables Python developers to build cross-platform applications without learning web technologies or managing multiple codebases.",
+  "why_valuable": "Dramatically reduces the learning curve for building production-ready web, desktop, and mobile apps from a single Python codebase, making cross-platform development accessible to the large Python developer community.",
+  "tags": [
+    "Python",
+    "Cross-platform",
+    "Flutter",
+    "GUI",
+    "Desktop Apps"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-18T12:55:32.339941+00:00",
+  "updated_at": "2026-09-18T12:57:40.625778+00:00",
+  "published_to": []
+}

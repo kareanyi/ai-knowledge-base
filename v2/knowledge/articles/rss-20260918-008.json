@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-008",
+  "source": "rss",
+  "source_url": "https://fex-emu.com/Scourge-of-emulation/",
+  "title": "The scourge of x86 emulation",
+  "summary": "An article from the FEX-Emu project discussing the fundamental challenges and complexities involved in x86 emulation on non-x86 platforms, likely exploring technical obstacles that emulator developers face.",
+  "tech_stack": [
+    "FEX-Emu",
+    "x86/x86-64",
+    "ARM",
+    "C++",
+    "Binary Translation"
+  ],
+  "problem_solved": "Explains the inherent difficulties and performance challenges of emulating x86 instruction sets on ARM architectures.",
+  "why_valuable": "Provides deep technical insights into emulation architecture that help developers understand why x86 emulation remains a complex problem despite modern hardware advancements.",
+  "tags": [
+    "x86",
+    "emulation",
+    "ARM",
+    "binary-translation",
+    "systems-programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:53:35.068621+00:00",
+  "updated_at": "2026-09-18T12:57:40.624370+00:00",
+  "published_to": []
+}

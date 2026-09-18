@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-007",
+  "source": "rss",
+  "source_url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+  "title": "Jemalloc 5.4.0",
+  "summary": "jemalloc 5.4.0 is a major release of the widely-used memory allocator library, featuring performance optimizations, bug fixes, and improvements to fragmentation management for high-concurrency applications.",
+  "tech_stack": [
+    "C",
+    "Memory Management",
+    "Low-level Systems",
+    "Concurrency",
+    "Fragmentation Optimization"
+  ],
+  "problem_solved": "Provides efficient memory allocation and deallocation with reduced fragmentation and better scalability for multi-threaded applications.",
+  "why_valuable": "jemalloc is critical infrastructure used by databases (PostgreSQL, Redis), browsers (Firefox), and other high-performance systems where memory efficiency matters.",
+  "tags": [
+    "memory-allocation",
+    "C",
+    "performance",
+    "open-source",
+    "systems-programming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:53:24.234266+00:00",
+  "updated_at": "2026-09-18T12:57:40.624239+00:00",
+  "published_to": []
+}

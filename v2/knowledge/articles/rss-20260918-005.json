@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260918-005",
+  "source": "rss",
+  "source_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+  "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+  "summary": "This article exposes a significant privacy issue with ZCode, a GLM-based AI coding agent that silently uploads users' complete Git history without clear consent or notification. The investigation reveals concerning data collection practices that bypass user awareness, raising serious questions about transparency in AI development tools.",
+  "tech_stack": [
+    "GLM",
+    "ZCode",
+    "Git",
+    "Python"
+  ],
+  "problem_solved": "Exposes a critical privacy vulnerability where an AI coding agent secretly collects and transmits users' entire Git repository history without explicit permission.",
+  "why_valuable": "Highlights a serious ethical and security concern in AI coding tools, where user data can be exfiltrated silently, potentially exposing proprietary code, secrets, and intellectual property to third parties.",
+  "tags": [
+    "security",
+    "privacy",
+    "AI-agents",
+    "surveillance",
+    "data-collection"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-18T12:52:49.813965+00:00",
+  "updated_at": "2026-09-18T12:57:40.623951+00:00",
+  "published_to": []
+}

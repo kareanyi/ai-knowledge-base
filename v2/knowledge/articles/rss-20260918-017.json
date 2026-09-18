@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260918-017",
+  "source": "rss",
+  "source_url": "https://liamnugent.me/posts/what-you-dont-build/",
+  "title": "The most important product decision is what you don't build",
+  "summary": "This article argues that the most critical product decision is not what to build, but what NOT to build. It emphasizes that strategic restraint and focused product development lead to better outcomes than feature bloat. The author shares insights on prioritizing depth over breadth to create truly valuable products.",
+  "tech_stack": [
+    "Personal Blog",
+    "Static Site"
+  ],
+  "problem_solved": "Helps product teams and founders avoid the trap of building too many features by emphasizing the value of strategic exclusion.",
+  "why_valuable": "It provides a counterintuitive but essential perspective on product development that can prevent wasted engineering resources and create more focused, successful products.",
+  "tags": [
+    "Product Strategy",
+    "Decision Making",
+    "Startups",
+    "Focus",
+    "Product Management"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:55:22.546623+00:00",
+  "updated_at": "2026-09-18T12:57:40.625665+00:00",
+  "published_to": []
+}

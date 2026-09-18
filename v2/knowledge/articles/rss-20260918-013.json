@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-013",
+  "source": "rss",
+  "source_url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+  "title": "Telstra outage: The night a network decided the year was 2006",
+  "summary": "This article analyzes a major Telstra network outage caused by an NTP time synchronization failure where network systems incorrectly believed it was 2006, triggering cascading failures in DNS and other time-dependent services across Australia's telecommunications infrastructure.",
+  "tech_stack": [
+    "NTP",
+    "DNS",
+    "BGP",
+    "Network Infrastructure",
+    "Telecom"
+  ],
+  "problem_solved": "Provides incident analysis and lessons learned from a critical telecommunications outage caused by time synchronization errors.",
+  "why_valuable": "Offers real-world post-mortem insights for network engineers on how seemingly minor time synchronization issues can cascade into massive infrastructure failures.",
+  "tags": [
+    "incident-analysis",
+    "network-outage",
+    "NTP",
+    "telecom",
+    "infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:54:38.468215+00:00",
+  "updated_at": "2026-09-18T12:57:40.625042+00:00",
+  "published_to": []
+}

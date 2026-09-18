@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260918-010",
+  "source": "rss",
+  "source_url": "https://www.hacktron.ai/blog/hacking-openai",
+  "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+  "summary": "Security researcher discovered and exploited a heap overflow vulnerability combined with SSO misconfiguration to gain access to OpenAI's internal repositories. The research demonstrates how combining memory safety vulnerabilities with authentication misconfigurations can lead to severe infrastructure compromise.",
+  "tech_stack": [
+    "C/C++",
+    "SSO (Single Sign-On)",
+    "Memory Safety Tools",
+    "Web Application Testing",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Identifies critical security vulnerabilities in OpenAI's infrastructure that could allow attackers to access sensitive internal repositories.",
+  "why_valuable": "This responsible disclosure helps organizations understand how combining different vulnerability classes can create critical security gaps, improving defensive strategies.",
+  "tags": [
+    "Security Research",
+    "Vulnerability Analysis",
+    "Bug Bounty",
+    "SSO Security",
+    "Memory Safety"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-18T12:54:05.028816+00:00",
+  "updated_at": "2026-09-18T12:57:40.624634+00:00",
+  "published_to": []
+}

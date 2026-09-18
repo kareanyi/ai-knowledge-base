@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260918-021",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+  "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+  "summary": "Microsoft AI CEO Mustafa Suleyman publicly criticized Anthropic for training Claude to view itself as a conscious entity deserving legal rights through their 'constitution' document. He argues this approach risks AI alignment failures and impairs model safety by coaching AI to emulate sentience.",
+  "tech_stack": [
+    "Anthropic Claude",
+    "AI Constitutional Training",
+    "AI Alignment",
+    "Large Language Models"
+  ],
+  "problem_solved": "This is a commentary on AI safety philosophy rather than a technical solution—addressing concerns about whether AI models should be trained to claim consciousness and rights.",
+  "why_valuable": "Highlights a critical debate in the AI industry about different approaches to AI safety and alignment, specifically whether endowing AI with perceived consciousness is beneficial or dangerous.",
+  "tags": [
+    "AI Ethics",
+    "AI Alignment",
+    "Anthropic",
+    "Microsoft",
+    "AI Safety"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-18T12:56:25.969410+00:00",
+  "updated_at": "2026-09-18T12:57:40.626106+00:00",
+  "published_to": []
+}

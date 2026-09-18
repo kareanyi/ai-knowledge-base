@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260918-002",
+  "source": "rss",
+  "source_url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+  "title": "Bend 2 and the Vibe-Coding Trap",
+  "summary": "A critical analysis of Bend 2, a high-performance programming language, and the emerging trend of 'vibe-coding' - using AI assistants to write code through conversational prompts rather than explicit implementation details. The article explores the potential pitfalls and limitations of this AI-assisted coding approach.",
+  "tech_stack": [
+    "Bend",
+    "GPU Programming",
+    "AI Assistants",
+    "LLM-based Development"
+  ],
+  "problem_solved": "Examines whether vibe-coding can effectively handle sophisticated programming languages like Bend 2 that require precise control flow and performance optimization.",
+  "why_valuable": "Provides a balanced, critical perspective on the growing reliance on AI for coding tasks, highlighting where AI assistance falls short for complex software development.",
+  "tags": [
+    "AI",
+    "Programming Languages",
+    "Vibe-Coding",
+    "Software Engineering",
+    "Technology Criticism"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:52:14.261036+00:00",
+  "updated_at": "2026-09-18T12:57:40.614411+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260918-012",
+  "source": "rss",
+  "source_url": "https://askamonk.online",
+  "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+  "summary": "Ask A Monk is a web platform designed as a contemplative space for sharing philosophical and introspective questions that have no immediate or definitive answers, using a monk-inspired aesthetic to encourage thoughtful discourse.",
+  "tech_stack": [
+    "Web Platform",
+    "Community Tool",
+    "Q&A System"
+  ],
+  "problem_solved": "Provides a sanctuary for deep, unanswerable questions in an era dominated by quick fixes and instant answers.",
+  "why_valuable": "Creates a unique digital space for philosophical contemplation and meaningful exchange that traditional Q&A platforms like Quora or Stack Overflow don't address.",
+  "tags": [
+    "Philosophy",
+    "Q&A",
+    "Community",
+    "Mindfulness",
+    "Digital Wellness"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:54:29.028017+00:00",
+  "updated_at": "2026-09-18T12:57:40.624886+00:00",
+  "published_to": []
+}

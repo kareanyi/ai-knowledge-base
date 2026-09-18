@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260918-001",
+  "source": "rss",
+  "source_url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+  "title": "I don't like passkeys",
+  "summary": "A critical opinion piece expressing the author's dissatisfaction with passkeys as a passwordless authentication solution, discussing potential usability, security, or practical concerns with this emerging WebAuthn/FIDO2 technology.",
+  "tech_stack": [
+    "Passkeys",
+    "WebAuthn",
+    "FIDO2",
+    "Web Authentication API"
+  ],
+  "problem_solved": "Provides critical perspective on whether passkeys truly solve user authentication problems or introduce new complications",
+  "why_valuable": "Offers a balanced counter-perspective to mainstream enthusiasm for passkeys, helping developers and security professionals consider potential drawbacks before adoption",
+  "tags": [
+    "Security",
+    "Authentication",
+    "Passkeys",
+    "WebAuthn",
+    "UX-Critique"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-18T12:52:01.772265+00:00",
+  "updated_at": "2026-09-18T12:57:40.614068+00:00",
+  "published_to": []
+}

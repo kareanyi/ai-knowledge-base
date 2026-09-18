@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260918-015",
+  "source": "rss",
+  "source_url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+  "title": "How to Write with an LLM",
+  "summary": "A practical guide on effectively collaborating with Large Language Models for writing tasks, covering techniques for prompt engineering, editing, and maintaining authentic voice while leveraging AI assistance.",
+  "tech_stack": [
+    "LLM",
+    "NLP",
+    "Prompt Engineering"
+  ],
+  "problem_solved": "Helps writers overcome the learning curve of effectively using AI tools to enhance their writing process without losing authenticity.",
+  "why_valuable": "Provides practical, battle-tested approaches for integrating LLMs into the writing workflow while maintaining quality and human voice.",
+  "tags": [
+    "LLM",
+    "Writing",
+    "AI-Assistance",
+    "Prompt-Engineering",
+    "Content-Creation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-18T12:54:57.853880+00:00",
+  "updated_at": "2026-09-18T12:57:40.625349+00:00",
+  "published_to": []
+}
