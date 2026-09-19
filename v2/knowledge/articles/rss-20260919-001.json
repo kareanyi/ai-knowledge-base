@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-001",
+  "source": "rss",
+  "source_url": "https://laya.convaiinnovations.com/",
+  "title": "Laya the open source version of Jev",
+  "summary": "Laya is an open-source implementation that replicates the functionality of Jev, providing developers with a free alternative for building conversational AI applications. Based on the domain convaiinnovations.com, it appears to focus on AI-powered conversational interfaces.",
+  "tech_stack": [
+    "Open Source AI",
+    "Python",
+    "LangChain",
+    "LLM Integration",
+    "Conversational AI"
+  ],
+  "problem_solved": "Provides a free, open-source alternative to the proprietary Jev platform for building conversational AI applications.",
+  "why_valuable": "Enables developers to self-host and customize conversational AI solutions without vendor lock-in or licensing costs.",
+  "tags": [
+    "Open Source",
+    "Conversational AI",
+    "LLM",
+    "Chatbot",
+    "Self-hosted"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-19T12:24:34.929377+00:00",
+  "updated_at": "2026-09-19T12:28:24.205782+00:00",
+  "published_to": []
+}

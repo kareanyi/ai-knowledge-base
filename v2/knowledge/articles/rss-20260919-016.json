@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-016",
+  "source": "rss",
+  "source_url": "https://try.cloudflare.com/",
+  "title": "Cloudflare Quick Tunnels",
+  "summary": "Cloudflare Quick Tunnels is a free service that allows developers to instantly expose local services to the internet without needing an account or complex configuration, using simple commands to generate temporary public URLs with .trycloudflare.com domain.",
+  "tech_stack": [
+    "Cloudflare Tunnel",
+    "cloudflared",
+    "Go",
+    "命令行工具",
+    "无服务器架构"
+  ],
+  "problem_solved": "解决开发者需要快速将本地开发环境暴露到公网进行测试或分享的痛点，无需配置反向代理或注册账户",
+  "why_valuable": "极大简化了开发者工作流，提供即时的临时公网访问能力，特别适合快速原型验证和临时分享场景",
+  "tags": [
+    "Developer Tools",
+    "Cloudflare",
+    "Tunneling",
+    "DevOps",
+    "Networking"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-19T12:27:39.294299+00:00",
+  "updated_at": "2026-09-19T12:28:24.217641+00:00",
+  "published_to": []
+}

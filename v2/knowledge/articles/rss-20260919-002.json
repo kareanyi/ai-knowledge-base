@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-002",
+  "source": "rss",
+  "source_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "title": "AI-generated posters don’t have to be horrible",
+  "summary": "The article explores techniques for creating high-quality AI-generated event posters using modern image generation models, moving beyond the typical low-quality outputs. It demonstrates practical prompting strategies and workflows that produce professional-looking poster designs.",
+  "tech_stack": [
+    "AI Image Generation",
+    "Prompt Engineering",
+    "Midjourney",
+    "Stable Diffusion",
+    "DALL-E"
+  ],
+  "problem_solved": "Solves the common problem of AI-generated posters looking generic, unprofessional, or visually unappealing.",
+  "why_valuable": "Provides actionable techniques and prompting strategies that help designers and marketers create polished AI-generated visual content for real-world use cases.",
+  "tags": [
+    "AI-Art",
+    "Image-Generation",
+    "Design",
+    "Prompt-Engineering",
+    "Creative-Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-19T12:24:45.054976+00:00",
+  "updated_at": "2026-09-19T12:28:24.206143+00:00",
+  "published_to": []
+}

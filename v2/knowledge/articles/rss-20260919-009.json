@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-009",
+  "source": "rss",
+  "source_url": "https://sdcc.sourceforge.net/",
+  "title": "SDCC – Small Device C Compiler",
+  "summary": "SDCC (Small Device C Compiler) is a free, open-source optimizing C compiler specifically designed for embedded systems and microcontrollers, supporting multiple processor architectures including Intel 8051, Zilog Z80, Microchip PIC, and others.",
+  "tech_stack": [
+    "C",
+    "Embedded Systems",
+    "8051",
+    "Z80",
+    "PIC"
+  ],
+  "problem_solved": "Provides free compilation tools for resource-constrained microcontrollers and embedded devices where expensive commercial compilers would otherwise be required.",
+  "why_valuable": "Enables hobbyists, students, and developers to program embedded systems with C language without licensing costs, democratizing embedded development.",
+  "tags": [
+    "compiler",
+    "embedded-systems",
+    "microcontroller",
+    "open-source",
+    "C-language"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-19T12:26:06.190683+00:00",
+  "updated_at": "2026-09-19T12:28:24.216311+00:00",
+  "published_to": []
+}

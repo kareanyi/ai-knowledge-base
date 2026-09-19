@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-003",
+  "source": "rss",
+  "source_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+  "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+  "summary": "An AI system called GPT-6 Astra demonstrates its ability to decrypt a World War I German military radio cipher, showcasing advanced pattern recognition and cryptanalysis capabilities through a historical cryptography challenge.",
+  "tech_stack": [
+    "Large Language Model",
+    "Cryptanalysis",
+    "Pattern Recognition",
+    "Natural Language Processing",
+    "Historical Ciphers"
+  ],
+  "problem_solved": "Demonstrates how modern AI can tackle historical encryption challenges that stumped military intelligence a century ago.",
+  "why_valuable": "Combines AI capabilities with historical education, showing practical applications of LLMs in security research while making WWI cryptography accessible and engaging.",
+  "tags": [
+    "AI",
+    "Cryptography",
+    "History",
+    "WWI",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-19T12:24:54.065936+00:00",
+  "updated_at": "2026-09-19T12:28:24.206376+00:00",
+  "published_to": []
+}

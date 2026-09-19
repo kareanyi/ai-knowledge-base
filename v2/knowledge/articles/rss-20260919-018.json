@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260919-018",
+  "source": "rss",
+  "source_url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+  "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+  "summary": "An academic/cultural analysis exploring the underground warez piracy scene, examining both the technical infrastructure (release groups, distribution networks, cracking methods) and the distinctive aesthetic culture (nfo files, group branding, release art) that defined this secretive digital subculture from the 1980s-2000s.",
+  "tech_stack": [
+    "Internet Archive",
+    "NFO Files",
+    "FTP Networks"
+  ],
+  "problem_solved": "Documents and preserves knowledge about the hidden infrastructure and visual culture of software piracy.",
+  "why_valuable": "Provides rare scholarly insight into a historically significant yet secretive subculture that profoundly shaped software distribution, digital aesthetics, and hacker community norms.",
+  "tags": [
+    "piracy",
+    "digital-culture",
+    "underground",
+    "history",
+    "academia"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-19T12:28:13.819626+00:00",
+  "updated_at": "2026-09-19T12:28:24.218038+00:00",
+  "published_to": []
+}

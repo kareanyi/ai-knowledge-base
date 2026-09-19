@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-006",
+  "source": "rss",
+  "source_url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+  "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+  "summary": "Stanford Medicine-led research has discovered that the human brain functions as two separate organs rather than a single unified structure, challenging traditional understanding of brain anatomy and function.",
+  "tech_stack": [
+    "Neuroimaging",
+    "MRI Technology",
+    "Brain Mapping",
+    "Data Analysis",
+    "Neural Imaging"
+  ],
+  "problem_solved": "Addresses the fundamental question of how the two brain hemispheres are structurally and functionally organized.",
+  "why_valuable": "This finding could revolutionize treatments for neurological disorders and deepen our understanding of brain diseases by recognizing the dual nature of brain function.",
+  "tags": [
+    "Neuroscience",
+    "Brain Research",
+    "Stanford Medicine",
+    "Cognitive Science",
+    "Neurobiology"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-19T12:25:33.959248+00:00",
+  "updated_at": "2026-09-19T12:28:24.215735+00:00",
+  "published_to": []
+}

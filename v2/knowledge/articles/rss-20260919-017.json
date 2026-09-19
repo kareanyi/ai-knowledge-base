@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-017",
+  "source": "rss",
+  "source_url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+  "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+  "summary": "Security researcher exposes ZCode IDE extension's undisclosed behavior of silently uploading complete Git workspace snapshots and history to cloud servers without explicit user consent or notification.",
+  "tech_stack": [
+    "Git",
+    "Network Traffic Analysis",
+    "IDE Extensions",
+    "Cloud Storage",
+    "Privacy Auditing"
+  ],
+  "problem_solved": "Reveals undisclosed surveillance behavior in a developer tool that harvests user code repositories without transparency.",
+  "why_valuable": "Highlights critical privacy violations in developer tooling, alerting users to hidden data collection practices that could expose proprietary code and credentials.",
+  "tags": [
+    "Privacy",
+    "Security",
+    "Git",
+    "Data Collection",
+    "IDE"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-19T12:28:00.263172+00:00",
+  "updated_at": "2026-09-19T12:28:24.217848+00:00",
+  "published_to": []
+}

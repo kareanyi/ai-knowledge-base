@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-011",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "summary": "OpenAI leveraged its own large language models to assist in designing a custom AI inference chip called Jalapeño, demonstrating how LLMs can automate and accelerate complex semiconductor design processes including RTL generation and verification.",
+  "tech_stack": [
+    "LLMs",
+    "Verilog",
+    "HDL",
+    "EDA Tools",
+    "Semiconductor Design"
+  ],
+  "problem_solved": "Accelerating custom chip design by using AI to generate and optimize hardware description code for AI inference accelerators.",
+  "why_valuable": "Demonstrates AI's capability to transform hardware engineering, potentially reducing chip design cycles from years to months while enabling more specialized AI accelerators.",
+  "tags": [
+    "AI",
+    "ChipDesign",
+    "Hardware",
+    "Semiconductor",
+    "OpenAI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-19T12:26:27.882745+00:00",
+  "updated_at": "2026-09-19T12:28:24.216698+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-005",
+  "source": "rss",
+  "source_url": "https://browser.geekbench.com/v7/cpu/389219",
+  "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+  "summary": "Apple's M6 Pro processor has achieved the highest single-core CPU score recorded in Geekbench 7, demonstrating Apple's continued leadership in chip performance. The benchmark result showcases the single-threaded capabilities of the next-generation Apple Silicon processor.",
+  "tech_stack": [
+    "Apple Silicon",
+    "M6 Pro",
+    "Geekbench 7",
+    "ARM Architecture",
+    "CPU"
+  ],
+  "problem_solved": "Provides benchmark comparison data showing the performance ranking of the Apple M6 Pro against other processors in single-core workloads.",
+  "why_valuable": "Offers objective performance metrics for comparing next-generation Apple processors, useful for hardware buyers and developers making technology decisions.",
+  "tags": [
+    "Apple Silicon",
+    "CPU Benchmark",
+    "M6 Pro",
+    "Hardware Performance",
+    "Geekbench"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-19T12:25:25.039461+00:00",
+  "updated_at": "2026-09-19T12:28:24.215552+00:00",
+  "published_to": []
+}

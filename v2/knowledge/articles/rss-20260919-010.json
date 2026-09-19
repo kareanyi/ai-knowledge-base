@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-010",
+  "source": "rss",
+  "source_url": "https://jepedersen.dk/blog/202505_research/",
+  "title": "Science Is Open Software",
+  "summary": "A thoughtful blog post exploring the philosophical and practical parallels between open source software development and scientific research methodology, arguing that science naturally embodies open, collaborative principles similar to the open source movement.",
+  "tech_stack": [
+    "Open Source",
+    "Scientific Research",
+    "Git/GitHub",
+    "Open Science",
+    "Collaboration Tools"
+  ],
+  "problem_solved": "Explores how the open source software movement's principles of transparency, collaboration, and shared knowledge can inform and improve scientific research practices.",
+  "why_valuable": "It bridges two powerful knowledge-sharing communities and argues for greater openness in science by drawing compelling analogies with successful open source development practices.",
+  "tags": [
+    "OpenScience",
+    "OpenSource",
+    "Research",
+    "Collaboration",
+    "KnowledgeSharing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-19T12:26:17.885028+00:00",
+  "updated_at": "2026-09-19T12:28:24.216505+00:00",
+  "published_to": []
+}

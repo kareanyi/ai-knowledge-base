@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-015",
+  "source": "rss",
+  "source_url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+  "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+  "summary": "Ledger's security research team discovered a novel attack technique combining photon emission microscopy with laser fault injection to bypass secure debug protections on Raspberry Pi's RP2350 microcontroller. By using the chip's photon emissions as a trigger signal for precise laser timing, they achieved reliable fault injection during the debug authentication process, potentially enabling extraction of flash contents and debug credentials.",
+  "tech_stack": [
+    "Laser Fault Injection",
+    "Photon Emission Microscopy",
+    "ARM TrustZone",
+    "RP2350 Microcontroller",
+    "Side-Channel Analysis"
+  ],
+  "problem_solved": "Enables bypassing secure debug authentication on RP2350 by using photon emission as a precise timing guide for laser fault injection attacks.",
+  "why_valuable": "Demonstrates a new class of attacks combining side-channel signals with fault injection, providing critical security insights for hardware manufacturers and helping the industry develop more robust countermeasures against physical attacks.",
+  "tags": [
+    "Hardware Security",
+    "Fault Injection",
+    "Embedded Systems",
+    "Side-Channel Attacks",
+    "Microcontroller Security"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-19T12:27:28.420501+00:00",
+  "updated_at": "2026-09-19T12:28:24.217461+00:00",
+  "published_to": []
+}

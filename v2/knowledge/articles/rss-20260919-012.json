@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-012",
+  "source": "rss",
+  "source_url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+  "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+  "summary": "Android 17 is the first version since 3.x to introduce new APIs without releasing them to the Android Open Source Project (AOSP), representing a significant shift in Google's closed-source approach to Android development that impacts custom ROMs and privacy-focused forks like GrapheneOS.",
+  "tech_stack": [
+    "Android OS",
+    "AOSP",
+    "GrapheneOS",
+    "Mobile APIs",
+    "Linux-based systems"
+  ],
+  "problem_solved": "Raises concerns about transparency and open-source accessibility in Android development, affecting third-party developers' ability to understand and build upon new OS features.",
+  "why_valuable": "Highlights the growing trend of proprietary APIs in Android, which undermines the open-source nature of the platform and creates challenges for independent OS maintainers.",
+  "tags": [
+    "Android",
+    "AOSP",
+    "Open Source",
+    "Mobile OS",
+    "GrapheneOS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-19T12:26:48.363639+00:00",
+  "updated_at": "2026-09-19T12:28:24.216913+00:00",
+  "published_to": []
+}

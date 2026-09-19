@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260919-013",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2510.03215",
+  "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+  "summary": "This paper proposes a novel 'Cache-to-Cache' paradigm enabling direct semantic communication between Large Language Models without converting to natural language. The approach aims to eliminate semantic loss inherent in traditional encode-decode communication by sharing cached knowledge representations directly between LLMs.",
+  "tech_stack": [
+    "LLM",
+    "Semantic Communication",
+    "Neural Networks",
+    "Deep Learning",
+    "Edge Computing"
+  ],
+  "problem_solved": "Eliminates the efficiency loss and semantic degradation that occurs when LLMs must encode thoughts into natural language for communication with other models.",
+  "why_valuable": "This work opens a new research direction for native semantic exchange between AI systems, potentially revolutionizing how distributed AI agents collaborate and communicate.",
+  "tags": [
+    "LLM",
+    "Semantic Communication",
+    "Distributed AI",
+    "Edge Computing",
+    "AI Agents"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-19T12:27:04.377751+00:00",
+  "updated_at": "2026-09-19T12:28:24.217103+00:00",
+  "published_to": []
+}
