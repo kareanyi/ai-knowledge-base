@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260920-017",
+  "source": "rss",
+  "source_url": "https://www.cube-motion.dev/",
+  "title": "Cube",
+  "summary": "Cube is a creative web project focused on 3D motion design and interactive visual experiences, likely demonstrating advanced CSS/Canvas/WebGL animations with a cube as the central element.",
+  "tech_stack": [
+    "WebGL",
+    "Canvas API",
+    "CSS Animations",
+    "JavaScript",
+    "Three.js"
+  ],
+  "problem_solved": "Provides an interactive 3D motion demonstration showcasing modern web animation techniques.",
+  "why_valuable": "Demonstrates cutting-edge web animation capabilities and serves as inspiration for creative developers building immersive UI experiences.",
+  "tags": [
+    "3D",
+    "Animation",
+    "Motion Design",
+    "WebGL",
+    "Interactive"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-20T13:03:17.794035+00:00",
+  "updated_at": "2026-09-20T13:05:45.265413+00:00",
+  "published_to": []
+}

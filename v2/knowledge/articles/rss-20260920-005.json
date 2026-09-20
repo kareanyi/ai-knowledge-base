@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260920-005",
+  "source": "rss",
+  "source_url": "https://www.stepfun.com/step-5-preview",
+  "title": "Step 5 Preview: Advancing the Pareto Frontier",
+  "summary": "StepFun (阶跃星辰) announces their Step 5 model preview, introducing advances along the Pareto frontier through multi-objective optimization that balances capabilities like reasoning performance, inference efficiency, and deployment cost in large language models.",
+  "tech_stack": [
+    "LLM",
+    "Pareto Optimization",
+    "Multi-objective Training",
+    "Inference Optimization"
+  ],
+  "problem_solved": "Addresses the challenge of optimizing multiple competing objectives (performance, efficiency, cost) simultaneously in large language model development.",
+  "why_valuable": "Demonstrates a sophisticated approach to LLM development that acknowledges real-world trade-offs rather than pursuing single-metric optimization, potentially offering better practical deployments.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Optimization",
+    "Chinese AI",
+    "Model Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-20T13:00:43.618802+00:00",
+  "updated_at": "2026-09-20T13:05:45.263091+00:00",
+  "published_to": []
+}

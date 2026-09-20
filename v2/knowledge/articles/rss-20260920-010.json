@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260920-010",
+  "source": "rss",
+  "source_url": "https://ooni.org/install",
+  "title": "Measure internet censorship",
+  "summary": "OONI (Open Observatory of Network Interference) is a free software project that measures internet censorship and network interference by running tests to detect blocked websites and traffic manipulation. It provides global, crowdsourced data on internet restrictions worldwide.",
+  "tech_stack": [
+    "Network Probing",
+    "Open Source",
+    "Cross-platform",
+    "Data Collection",
+    "Measurement"
+  ],
+  "problem_solved": "Detecting and documenting internet censorship and network interference in real-time across different countries.",
+  "why_valuable": "Provides transparency and evidence-based data on internet freedom violations, helping researchers, journalists, and activists understand global censorship patterns.",
+  "tags": [
+    "censorship",
+    "network-privacy",
+    "internet-freedom",
+    "measurement",
+    "open-source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-20T13:01:42.752171+00:00",
+  "updated_at": "2026-09-20T13:05:45.264090+00:00",
+  "published_to": []
+}

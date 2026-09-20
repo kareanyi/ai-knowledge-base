@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260920-004",
+  "source": "rss",
+  "source_url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+  "title": "Telling a Computer to Do Things",
+  "summary": "A blog post by Will Keleher exploring fundamental concepts of programming and how humans communicate instructions to computers. The article breaks down the basic principles of telling computers what to do, likely aimed at helping readers understand programming fundamentals.",
+  "tech_stack": [
+    "General Programming",
+    "Command Line",
+    "Scripting"
+  ],
+  "problem_solved": "Helps readers understand the fundamental challenge of communicating instructions to computers effectively.",
+  "why_valuable": "Demystifies programming concepts for newcomers by explaining how to bridge the gap between human intent and computer execution.",
+  "tags": [
+    "Programming",
+    "Beginner",
+    "Tutorial",
+    "Education",
+    "Computer Science"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-20T13:00:29.478154+00:00",
+  "updated_at": "2026-09-20T13:05:45.262801+00:00",
+  "published_to": []
+}
