@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-011",
+  "source": "rss",
+  "source_url": "https://zuckoff.app/",
+  "title": "ZuckOff Know when a camera is in the room",
+  "summary": "ZuckOff is a privacy-focused web application designed to detect hidden cameras in rooms, helping users identify potential surveillance devices in hotels, Airbnb rentals, and other private spaces. The tool gained significant attention on Hacker News with 550 points and 231 comments, indicating strong community interest in privacy protection tools.",
+  "tech_stack": [
+    "JavaScript",
+    "WebRTC",
+    "WebAssembly",
+    "CSS",
+    "HTML5"
+  ],
+  "problem_solved": "Addresses growing privacy concerns about hidden cameras and covert surveillance in private accommodations and spaces.",
+  "why_valuable": "Provides accessible privacy protection for everyday users who may unknowingly be recorded in private spaces like hotel rooms or rentals.",
+  "tags": [
+    "privacy",
+    "surveillance-detection",
+    "security",
+    "privacy-tools",
+    "web-app"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-21T15:02:49.010982+00:00",
+  "updated_at": "2026-09-21T15:04:19.239649+00:00",
+  "published_to": []
+}

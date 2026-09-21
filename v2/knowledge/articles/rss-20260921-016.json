@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-016",
+  "source": "rss",
+  "source_url": "https://github.com/jaredpalmer/kev/tree/main",
+  "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+  "summary": "Kev is a lightweight family of decision-making AI models built on Qwen3.5 by Jared Palmer, designed to be small and efficient like the Jev project. It provides accessible decision-making capabilities that can run with fewer computational resources, making local AI deployment more practical.",
+  "tech_stack": [
+    "Qwen3.5",
+    "Python",
+    "Transformers",
+    "HuggingFace",
+    "LoRA"
+  ],
+  "problem_solved": "Makes decision-making AI models more accessible by creating lightweight alternatives that can run locally with minimal resources",
+  "why_valuable": "Enables developers to deploy efficient decision-making AI without heavy infrastructure costs, democratizing access to local LLM-based decision systems",
+  "tags": [
+    "AI",
+    "LLM",
+    "Decision-Making",
+    "Qwen",
+    "Open-Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-21T15:03:42.664962+00:00",
+  "updated_at": "2026-09-21T15:04:19.240685+00:00",
+  "published_to": []
+}

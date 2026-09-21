@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260921-014",
+  "source": "rss",
+  "source_url": "https://github.com/f/jev-leftpad",
+  "title": "Jev-Leftpad",
+  "summary": "Jev-Leftpad is a satirical or creative implementation of the famous `left-pad` function, referencing the notorious 2016 npm incident where unpublishing the left-pad package broke thousands of projects worldwide. This project appears to be a humorous or alternative implementation that likely comments on the npm ecosystem's dependency issues.",
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "npm"
+  ],
+  "problem_solved": "Provides a tongue-in-cheek solution to the left-pad dependency problem that plagued the JavaScript ecosystem",
+  "why_valuable": "Serves as both a humorous commentary on npm's dependency fragility and a practical reminder about the importance of package management best practices",
+  "tags": [
+    "npm",
+    "JavaScript",
+    "Satire",
+    "OpenSource",
+    "PackageManagement"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-21T15:03:22.631004+00:00",
+  "updated_at": "2026-09-21T15:04:19.240251+00:00",
+  "published_to": []
+}

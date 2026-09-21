@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260921-013",
+  "source": "rss",
+  "source_url": "https://paulbakker.io/writing/no-ai-for-writing/",
+  "title": "Don't Use AI to Write",
+  "summary": "作者阐述为何不应该使用AI来写作，认为写作过程本身就是有价值的思考和学习过程，AI可能会削弱这个过程中带来的深度思考、记忆形成和观点整合等好处。",
+  "tech_stack": [
+    "观点文章",
+    "非技术项目"
+  ],
+  "problem_solved": "这篇文章不是解决技术问题，而是提出关于AI辅助写作的哲学观点和反思",
+  "why_valuable": "它促使读者思考AI工具的适度使用问题，提醒我们保留人类思考和创造力空间的重要性",
+  "tags": [
+    "AI",
+    "Writing",
+    "Productivity",
+    "Opinion",
+    "Technology"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-21T15:03:11.885904+00:00",
+  "updated_at": "2026-09-21T15:04:19.240049+00:00",
+  "published_to": []
+}

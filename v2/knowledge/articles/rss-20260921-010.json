@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-010",
+  "source": "rss",
+  "source_url": "https://github.com/Clickin/SQLBraid",
+  "title": "Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL",
+  "summary": "SQLBraid 是一个 TypeScript 库，允许开发者直接在 TypeScript 代码中编写原生 SQL 语句，而无需使用传统的 ORM 或查询构建器 DSL。它通过模板字符串提供类型安全和 SQL 语法高亮支持。",
+  "tech_stack": [
+    "TypeScript",
+    "SQL",
+    "Node.js",
+    "Template Literals",
+    "Type-safe SQL"
+  ],
+  "problem_solved": "解决了开发者想要直接编写原生 SQL 灵活性的同时又需要 TypeScript 类型安全和 IDE 支持的矛盾需求。",
+  "why_valuable": "它保留了 SQL 的全部表达能力，让复杂查询无需学习新的 DSL API，同时通过 TypeScript 集成提供编译时类型检查和自动补全。",
+  "tags": [
+    "TypeScript",
+    "SQL",
+    "Database",
+    "Developer Tool",
+    "Type Safety"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-21T15:02:36.879524+00:00",
+  "updated_at": "2026-09-21T15:04:19.239410+00:00",
+  "published_to": []
+}

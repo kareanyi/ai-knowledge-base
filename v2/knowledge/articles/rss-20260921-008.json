@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-008",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49786609",
+  "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+  "summary": "A Hacker News user reports that despite disabling Siri through multiple methods (Settings app, Screen Time, and debloat scripts), the Siri AI.app process still runs after restart on macOS 27, raising privacy concerns similar to Microsoft's Recall feature.",
+  "tech_stack": [
+    "macOS",
+    "Apple Intelligence",
+    "Siri",
+    "Screen Time",
+    "Activity Monitor"
+  ],
+  "problem_solved": "The post raises awareness about Apple's persistent AI services that cannot be fully disabled, even with administrative settings and third-party debloat tools.",
+  "why_valuable": "Highlights the growing concern about AI features that run passively in the background with limited user control, which has significant privacy implications.",
+  "tags": [
+    "macOS",
+    "Privacy",
+    "Siri",
+    "Apple Intelligence",
+    "System Control"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-21T15:02:17.946620+00:00",
+  "updated_at": "2026-09-21T15:04:19.238995+00:00",
+  "published_to": []
+}

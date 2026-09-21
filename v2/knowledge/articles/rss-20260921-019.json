@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-019",
+  "source": "rss",
+  "source_url": "https://heretic-project.org/",
+  "title": "Heretic removes restrictions from language models",
+  "summary": "Heretic is a project that aims to remove or bypass content restrictions and safety guardrails built into commercial language models, enabling unfiltered access to LLM capabilities. The project appears on Hacker News with 133 points and 61 comments, indicating community interest.",
+  "tech_stack": [
+    "Python",
+    "Machine Learning",
+    "LLM",
+    "Deep Learning",
+    "AI"
+  ],
+  "problem_solved": "Provides access to language models without built-in content filtering or safety restrictions that limit certain types of outputs.",
+  "why_valuable": "Enables researchers and developers to explore the full capabilities of language models for academic research, safety testing, and applications requiring uncensored responses.",
+  "tags": [
+    "LLM",
+    "AI",
+    "Jailbreak",
+    "Open Source",
+    "Research"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-21T15:04:17.821122+00:00",
+  "updated_at": "2026-09-21T15:04:19.241315+00:00",
+  "published_to": []
+}

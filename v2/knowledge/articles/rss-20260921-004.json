@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-004",
+  "source": "rss",
+  "source_url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+  "title": "What Sun Got Wrong",
+  "summary": "Bryan Cantrill, former Sun Microsystems engineer and creator of DTrace, reflects on the strategic and technical mistakes Sun Microsystems made that led to its eventual decline and acquisition by Oracle. The article draws from his firsthand experience at Sun to analyze where the company went wrong in its technology choices, business strategy and market positioning.",
+  "tech_stack": [
+    "DTrace",
+    "Solaris",
+    "SPARC",
+    "Java",
+    "OpenSPARC"
+  ],
+  "problem_solved": "Provides historical analysis of Sun Microsystems' strategic failures for technology industry learning",
+  "why_valuable": "Offers insider perspective on how technically superior companies can still fail commercially, providing valuable lessons for current tech leaders navigating cloud and open-source transitions",
+  "tags": [
+    "SunMicrosystems",
+    "Oracle",
+    "DTrace",
+    "TechHistory",
+    "CorporateFailure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-21T15:01:39.296603+00:00",
+  "updated_at": "2026-09-21T15:04:19.238089+00:00",
+  "published_to": []
+}

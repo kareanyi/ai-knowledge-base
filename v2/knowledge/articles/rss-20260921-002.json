@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-002",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+  "title": "Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough",
+  "summary": "Ars Technica reviews the new Apple Mac Mini powered by the M6 chip, finding the performance improvements impressive but heavily criticizing the $300 price increase that diminishes the value proposition of this otherwise solid hardware upgrade.",
+  "tech_stack": [
+    "Apple M6",
+    "Mac Mini",
+    "Apple Silicon",
+    "Hardware Review",
+    "ARM Architecture"
+  ],
+  "problem_solved": "Evaluates whether the M6 Mac Mini upgrade is worth the premium pricing for consumers and pros.",
+  "why_valuable": "Provides critical analysis of Apple's pricing strategy and helps readers make informed purchasing decisions about the Mac Mini upgrade.",
+  "tags": [
+    "Apple",
+    "Mac Mini",
+    "M6 Chip",
+    "Hardware Review",
+    "Consumer Tech"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-21T15:01:01.456712+00:00",
+  "updated_at": "2026-09-21T15:04:19.228729+00:00",
+  "published_to": []
+}

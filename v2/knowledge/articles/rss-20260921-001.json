@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260921-001",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+  "title": "Meta bans ads for Virginia Woolf play in Spain",
+  "summary": "Meta's advertising platform incorrectly banned promotional ads for a Barcelona theater production of Virginia Woolf's 'A Room of One's Own,' with the automated moderation system apparently flagging references to 'room' as potentially violating policies against sexual content. The theater company struggled to resolve the issue with Meta's automated systems.",
+  "tech_stack": [
+    "Meta Ads Platform",
+    "Content Moderation Systems",
+    "Automated AI Filters"
+  ],
+  "problem_solved": "This article doesn't solve a problem—it illustrates how automated content moderation systems can incorrectly flag legitimate content, affecting real businesses and cultural institutions.",
+  "why_valuable": "Highlights the unintended consequences of overly broad AI content moderation and the challenges small organizations face when disputing automated decisions by large tech platforms.",
+  "tags": [
+    "Content Moderation",
+    "Meta",
+    "AI Policy",
+    "Advertising",
+    "Tech Giants"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-21T15:00:51.108778+00:00",
+  "updated_at": "2026-09-21T15:04:19.228331+00:00",
+  "published_to": []
+}

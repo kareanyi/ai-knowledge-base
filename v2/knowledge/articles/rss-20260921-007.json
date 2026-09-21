@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-007",
+  "source": "rss",
+  "source_url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+  "title": "Raspberry Pi blocks changing RAM chips",
+  "summary": "A forum discussion revealing that Raspberry Pi's bootloader includes hardware validation that blocks or rejects modified RAM chip configurations, preventing users from upgrading or replacing RAM modules on the board.",
+  "tech_stack": [
+    "Raspberry Pi",
+    "ARM Bootloader",
+    "LPDDR Memory",
+    "EEPROM",
+    "BGA Soldering"
+  ],
+  "problem_solved": "Raspberry Pi prevents hardware tampering by validating RAM chip configurations at boot time.",
+  "why_valuable": "Highlights the trade-off between hardware security/warranty protection and user repairability/upgradability in embedded systems.",
+  "tags": [
+    "hardware",
+    "Raspberry Pi",
+    "firmware",
+    "DIY electronics",
+    "repairability"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-21T15:02:09.092096+00:00",
+  "updated_at": "2026-09-21T15:04:19.238784+00:00",
+  "published_to": []
+}

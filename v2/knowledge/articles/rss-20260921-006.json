@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260921-006",
+  "source": "rss",
+  "source_url": "https://handcraftedcode.org/",
+  "title": "We Write Code by Hand",
+  "summary": "An article advocating for the practice of writing code manually by hand, emphasizing the craft and intentionality of manual coding versus relying on AI code generation tools. The piece discusses how hand-coding fosters deeper understanding and better software architecture decisions.",
+  "tech_stack": [
+    "Programming",
+    "Software Craftsmanship",
+    "AI Tools"
+  ],
+  "problem_solved": "Addresses the over-reliance on AI code generation tools that may lead to developers losing fundamental coding skills and architectural thinking.",
+  "why_valuable": "Reaffirms the importance of manual coding practice as a way to develop deeper programming understanding and maintain software craftsmanship in an AI-assisted development era.",
+  "tags": [
+    "Software Craftsmanship",
+    "Programming",
+    "AI Tools",
+    "Developer Skills",
+    "Best Practices"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-21T15:01:59.192984+00:00",
+  "updated_at": "2026-09-21T15:04:19.238568+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260921-018",
+  "source": "rss",
+  "source_url": "https://github.com/volotat/mini-AGI/",
+  "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+  "summary": "Mini-AGI is a lightweight AGI prototype implementing dynamic continual learning, optimized to run on consumer GPUs with only 8GB VRAM. The project showcases promising scaling law results and aims to democratize access to advanced AI capabilities through efficient resource utilization.",
+  "tech_stack": [
+    "Deep Learning",
+    "PyTorch",
+    "GPU Optimization",
+    "Continual Learning",
+    "Model Fine-tuning"
+  ],
+  "problem_solved": "Enables running AGI-like models on consumer-grade hardware instead of expensive high-end GPU clusters",
+  "why_valuable": "Democratizes access to cutting-edge AI research by reducing hardware requirements from expensive multi-GPU setups to single consumer GPUs",
+  "tags": [
+    "AGI",
+    "Continual Learning",
+    "GPU Optimization",
+    "Deep Learning",
+    "Edge AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-21T15:04:03.383486+00:00",
+  "updated_at": "2026-09-21T15:04:19.241103+00:00",
+  "published_to": []
+}
