@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260923-017",
+  "source": "rss",
+  "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+  "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+  "summary": "A Bloomberg investigation reveals that the Pentagon acknowledged an AI system contributed to an erroneous missile strike on an Iran school, highlighting the dangers of overreliance on artificial intelligence in life-or-death military decisions. The incident underscores critical failures in human oversight and AI decision-making processes in warfare.",
+  "tech_stack": [
+    "AI Systems",
+    "Military Targeting Systems",
+    "Autonomous Weapons"
+  ],
+  "problem_solved": "This article does not describe a problem solved; rather it documents a catastrophic AI failure that led to civilian casualties.",
+  "why_valuable": "It serves as a critical cautionary tale about the dangers of delegating lethal decision-making to AI systems without adequate human oversight, influencing policy discussions on autonomous weapons.",
+  "tags": [
+    "AI",
+    "Military",
+    "Ethics",
+    "Autonomous Weapons",
+    "Safety"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-23T13:35:35.031055+00:00",
+  "updated_at": "2026-09-23T13:38:23.564901+00:00",
+  "published_to": []
+}

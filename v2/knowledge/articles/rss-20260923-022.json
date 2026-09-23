@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260923-022",
+  "source": "rss",
+  "source_url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+  "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+  "summary": "Security researchers documented the FakeGit malware campaign, where attackers created approximately 7,600 fake GitHub repositories and 6,600 fraudulent profiles to impersonate AI skills and MCP servers, distributing SmartLoader malware to over 14 million downloads.",
+  "tech_stack": [
+    "GitHub",
+    "MCP (Model Context Protocol)",
+    "AI Agents",
+    "SmartLoader"
+  ],
+  "problem_solved": "Exposes how cybercriminals are exploiting the growing AI agent ecosystem by creating fake repositories impersonating legitimate AI tools and MCP servers to distribute malware.",
+  "why_valuable": "Raises critical security awareness about emerging attack vectors targeting AI developers and users who trust AI agent marketplaces and code repositories.",
+  "tags": [
+    "Cybersecurity",
+    "Malware",
+    "AI Agents",
+    "GitHub Security",
+    "MCP"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-23T13:36:35.620357+00:00",
+  "updated_at": "2026-09-23T13:38:23.565656+00:00",
+  "published_to": []
+}

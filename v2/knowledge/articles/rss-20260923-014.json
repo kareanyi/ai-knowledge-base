@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-014",
+  "source": "rss",
+  "source_url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+  "title": "Data-only attacks are easier than you think (2024)",
+  "summary": "This USENIX article explores how data-only attacks, which focus on stealing information without modifying systems or executing code, are simpler and more prevalent than security professionals typically realize, challenging common assumptions about what constitutes a serious security threat.",
+  "tech_stack": [
+    "Network Security",
+    "Data Exfiltration",
+    "Access Control",
+    "System Hardening",
+    "Incident Detection"
+  ],
+  "problem_solved": "Addresses the misconception that attacks requiring code execution are the primary threat, revealing that pure data theft can be achieved through simpler methods.",
+  "why_valuable": "Raises awareness about an underestimated attack vector that bypasses traditional defenses focused on preventing code execution, helping security teams prioritize data protection.",
+  "tags": [
+    "Cybersecurity",
+    "Data Breach",
+    "Attack Vectors",
+    "Threat Analysis",
+    "Defense Strategy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-23T13:35:01.304733+00:00",
+  "updated_at": "2026-09-23T13:38:23.564462+00:00",
+  "published_to": []
+}

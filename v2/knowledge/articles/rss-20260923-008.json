@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260923-008",
+  "source": "rss",
+  "source_url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+  "title": "Two Git ignore files nobody told me about",
+  "summary": "A concise blog post revealing two lesser-known Git ignore mechanisms that most developers aren't aware of, helping them better manage which files should not be tracked in their repositories.",
+  "tech_stack": [
+    "Git",
+    "Command Line",
+    "Version Control"
+  ],
+  "problem_solved": "Addresses the lack of awareness about alternative Git ignore methods beyond the standard .gitignore file.",
+  "why_valuable": "Provides practical tips for developers to manage repository exclusions locally without affecting the shared .gitignore configuration.",
+  "tags": [
+    "Git",
+    "Version Control",
+    "Developer Tips",
+    "Configuration",
+    "Best Practices"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-23T13:33:40.573494+00:00",
+  "updated_at": "2026-09-23T13:38:23.563692+00:00",
+  "published_to": []
+}

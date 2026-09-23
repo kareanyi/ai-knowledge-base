@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260923-003",
+  "source": "rss",
+  "source_url": "https://ivesentit.com",
+  "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+  "summary": "I've Sent It is an online file transfer service that provides signed proof of delivery, combining traditional courier documentation with digital file sharing. It offers accountability and legal verification for important document transfers between parties.",
+  "tech_stack": [
+    "Web Platform",
+    "Digital Signatures",
+    "Email Notifications",
+    "Cloud Storage"
+  ],
+  "problem_solved": "Solves the problem of lacking verifiable proof when sending important files via email or standard file sharing services.",
+  "why_valuable": "Provides legal documentation and accountability for file transfers, essential for business contracts, legal documents, and sensitive communications where proof of delivery matters.",
+  "tags": [
+    "File Transfer",
+    "Proof of Delivery",
+    "Legal Tech",
+    "Document Management",
+    "Business Tool"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-23T13:32:41.568852+00:00",
+  "updated_at": "2026-09-23T13:38:23.555162+00:00",
+  "published_to": []
+}

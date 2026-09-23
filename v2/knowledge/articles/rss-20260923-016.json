@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-016",
+  "source": "rss",
+  "source_url": "https://foxscript.org/",
+  "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+  "summary": "微软在2007年停止Visual FoxPro开发后，一位开发者用Rust重写了运行时并编译为WebAssembly，让这款有20年历史的32位语言在现代浏览器中复活，同时保留了原有API并新增了lambda、JSON和HTTP服务器等现代功能。",
+  "tech_stack": [
+    "Rust",
+    "WebAssembly",
+    "Visual FoxPro",
+    "WASM",
+    "SQL"
+  ],
+  "problem_solved": "为企业延续使用了20年的FoxPro遗留业务系统，避免高风险的重写工作。",
+  "why_valuable": "让数百万行遗留业务代码在现代环境中继续运行，同时获得WebAssembly的跨平台能力和新增的现代编程特性。",
+  "tags": [
+    "Legacy-Code",
+    "WebAssembly",
+    "FoxPro",
+    "Rust",
+    "Revival"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-23T13:35:24.993948+00:00",
+  "updated_at": "2026-09-23T13:38:23.564755+00:00",
+  "published_to": []
+}

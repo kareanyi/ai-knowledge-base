@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-006",
+  "source": "rss",
+  "source_url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+  "title": "Claude Code reads AGENTS.md only when telemetry is on",
+  "summary": "This article reveals a technical discovery about Anthropic's Claude Code CLI tool: the AGENTS.md configuration file is only processed when telemetry is enabled. The author investigates this unexpected coupling between telemetry settings and core functionality, raising questions about user privacy versus feature availability.",
+  "tech_stack": [
+    "Claude Code",
+    "Anthropic",
+    "CLI",
+    "AGENTS.md",
+    "Telemetry"
+  ],
+  "problem_solved": "Documents a privacy-functional coupling issue where disabling telemetry unintentionally breaks AGENTS.md configuration processing in Claude Code.",
+  "why_valuable": "Exposes an important trade-off where privacy-conscious users must choose between disabling telemetry and having full Claude Code functionality, revealing unexpected software coupling.",
+  "tags": [
+    "Claude",
+    "Anthropic",
+    "Privacy",
+    "Telemetry",
+    "CLI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-23T13:33:17.754454+00:00",
+  "updated_at": "2026-09-23T13:38:23.563430+00:00",
+  "published_to": []
+}

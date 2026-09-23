@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-001",
+  "source": "rss",
+  "source_url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+  "title": "Samsung accidentally freezes its smart fridges with a software update",
+  "summary": "Samsung released a faulty software update that caused its smart fridges to become unresponsive or 'freeze', affecting users' ability to use their connected refrigerator appliances. The incident highlights the risks of over-the-air software updates for IoT devices without proper staging environment testing.",
+  "tech_stack": [
+    "IoT",
+    "Smart Home",
+    "Over-the-Air Updates",
+    "Connected Appliances",
+    "Firmware"
+  ],
+  "problem_solved": "The article documents a real-world failure case of IoT software deployment rather than solving a problem.",
+  "why_valuable": "Serves as a cautionary example for IoT manufacturers about the importance of staged rollouts and thorough QA testing before releasing updates to consumer devices.",
+  "tags": [
+    "IoT",
+    "Smart Home",
+    "Samsung",
+    "Software Bug",
+    "OTA Updates"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-23T13:32:18.673550+00:00",
+  "updated_at": "2026-09-23T13:38:23.554785+00:00",
+  "published_to": []
+}

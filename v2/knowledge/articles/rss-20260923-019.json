@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-019",
+  "source": "rss",
+  "source_url": "https://unreallabs.ai/blog/unreal-agent/",
+  "title": "Unreal Agent",
+  "summary": "Unreal Agent is an open-source AI agent framework developed by Unreal Labs that enables developers to build autonomous agents capable of performing complex multi-step tasks by integrating with large language models and providing ready-made tools and abstractions.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "OpenAI API",
+    "Docker",
+    "FastAPI"
+  ],
+  "problem_solved": "Simplifies the development of autonomous AI agents by providing a structured framework with built-in tools, memory management, and orchestration capabilities.",
+  "why_valuable": "Reduces the barrier to entry for building AI agents, offering pre-built components and abstractions that developers can customize without building everything from scratch.",
+  "tags": [
+    "AI",
+    "Agent",
+    "LLM",
+    "Python",
+    "Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-23T13:35:58.594986+00:00",
+  "updated_at": "2026-09-23T13:38:23.565249+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260923-005",
+  "source": "rss",
+  "source_url": "https://filmstudio.rxlab.app",
+  "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+  "summary": "RxFilm Studio is an AI-powered video workspace that enables independent developers and small teams to create and edit product marketing videos using AI agents, streamlining the traditionally time-consuming video production process.",
+  "tech_stack": [
+    "AI Agent",
+    "Video Editing",
+    "Web Application"
+  ],
+  "problem_solved": "Reduces the time and effort required to produce professional marketing videos for products without requiring video production expertise.",
+  "why_valuable": "Democratizes video creation by automating editing, visual effects, voiceovers, and subtitles for small teams with limited resources.",
+  "tags": [
+    "AI Agent",
+    "Video Production",
+    "Marketing",
+    "SaaS",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-23T13:33:04.629194+00:00",
+  "updated_at": "2026-09-23T13:38:23.563296+00:00",
+  "published_to": []
+}

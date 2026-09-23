@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-018",
+  "source": "rss",
+  "source_url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+  "title": "SAML: A fractal of bad design",
+  "summary": "Trail of Bits published a critical analysis of SAML (Security Assertion Markup Language), examining why the XML-based authentication standard is fundamentally flawed in its design, with issues spanning complexity, security vulnerabilities, and poor implementation patterns.",
+  "tech_stack": [
+    "SAML",
+    "XML",
+    "OAuth",
+    "OIDC",
+    "Identity Provider"
+  ],
+  "problem_solved": "Explains why SAML has been a source of security vulnerabilities and implementation difficulties despite being widely adopted for enterprise SSO.",
+  "why_valuable": "Helps security engineers and developers understand the inherent flaws in SAML to make informed decisions about authentication architecture and potentially migrate to more secure alternatives like OAuth/OIDC.",
+  "tags": [
+    "Security",
+    "Authentication",
+    "SAML",
+    "Protocol Design",
+    "SSO"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-23T13:35:44.470403+00:00",
+  "updated_at": "2026-09-23T13:38:23.565111+00:00",
+  "published_to": []
+}

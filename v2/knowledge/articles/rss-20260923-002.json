@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-002",
+  "source": "rss",
+  "source_url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+  "title": "What AI-Native Looks Like",
+  "summary": "An article exploring what AI-native development looks like in practice, likely discussing how to build software where AI capabilities are core to the architecture rather than afterthought integrations.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Software Architecture",
+    "LLM",
+    "Prompt Engineering"
+  ],
+  "problem_solved": "Clarifying what truly AI-native applications and infrastructure look like versus AI-as-feature approaches",
+  "why_valuable": "Provides architectural guidance for developers and companies trying to understand how to genuinely build AI-first products rather than just adding AI features to existing systems",
+  "tags": [
+    "AI-Native",
+    "Software Architecture",
+    "Product Design",
+    "AI Strategy",
+    "Development"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-23T13:32:31.966732+00:00",
+  "updated_at": "2026-09-23T13:38:23.555050+00:00",
+  "published_to": []
+}

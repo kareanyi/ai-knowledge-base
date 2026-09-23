@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260923-012",
+  "source": "rss",
+  "source_url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+  "title": "Jev in 25 Lines of Python",
+  "summary": "A minimalist implementation of an AI agent framework called 'Jev' using only 25 lines of Python code, demonstrating that complex LLM-powered applications can be built with simple, readable code rather than relying on heavy abstractions.",
+  "tech_stack": [
+    "Python",
+    "LLM APIs",
+    "Hacker News"
+  ],
+  "problem_solved": "Makes AI agent development more accessible and understandable by stripping away complexity",
+  "why_valuable": "Demonstrates that powerful AI concepts can be implemented simply, helping developers understand underlying mechanisms instead of hiding behind abstractions",
+  "tags": [
+    "AI",
+    "Python",
+    "LLM",
+    "Minimalism",
+    "Agents"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-23T13:34:35.457237+00:00",
+  "updated_at": "2026-09-23T13:38:23.564222+00:00",
+  "published_to": []
+}

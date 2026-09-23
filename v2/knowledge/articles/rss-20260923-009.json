@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260923-009",
+  "source": "rss",
+  "source_url": "https://abagames.github.io/z80-repl/index.html",
+  "title": "Z80 REPL",
+  "summary": "A browser-based interactive REPL environment for Z80 assembly language programming, allowing users to write, execute, and debug Z80 code directly in the web browser without any installation required.",
+  "tech_stack": [
+    "JavaScript",
+    "Z80 Emulator",
+    "HTML/CSS",
+    "WebAssembly",
+    "Browser-based"
+  ],
+  "problem_solved": "Provides an accessible way to learn and experiment with classic 8-bit microprocessor programming without installing development tools.",
+  "why_valuable": "Enables instant hands-on experience with Z80 assembly and retro computing concepts directly in the browser, lowering the barrier for enthusiasts and students.",
+  "tags": [
+    "Z80",
+    "Assembly",
+    "RetroComputing",
+    "Emulator",
+    "REPL"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-23T13:33:55.098571+00:00",
+  "updated_at": "2026-09-23T13:38:23.563816+00:00",
+  "published_to": []
+}
