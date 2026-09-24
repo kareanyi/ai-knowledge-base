@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260924-003",
+  "source": "rss",
+  "source_url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+  "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+  "summary": "The article covers the latest ESP32 variant that has achieved sufficient processing power to run Linux, narrowing the gap with Raspberry Pi while maintaining its signature low cost and power efficiency. This development represents a significant milestone for the ESP32 platform, traditionally limited to bare-metal or lightweight RTOS applications.",
+  "tech_stack": [
+    "ESP32",
+    "Linux",
+    "Embedded Systems",
+    "IoT",
+    "Microcontrollers"
+  ],
+  "problem_solved": "It addresses the limitations of traditional microcontrollers by enabling full Linux support on extremely low-cost, power-efficient hardware.",
+  "why_valuable": "This bridges the gap between simple microcontrollers and single-board computers, offering developers a powerful yet affordable option for edge computing and IoT projects.",
+  "tags": [
+    "ESP32",
+    "Linux",
+    "Embedded Systems",
+    "IoT",
+    "Hardware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-24T13:28:33.296175+00:00",
+  "updated_at": "2026-09-24T13:31:44.643409+00:00",
+  "published_to": []
+}

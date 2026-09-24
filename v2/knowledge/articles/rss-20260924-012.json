@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260924-012",
+  "source": "rss",
+  "source_url": "https://www.meta.com/vr-glasses/",
+  "title": "Meta VR Glasses",
+  "summary": "Meta has launched consumer VR glasses designed to make virtual reality more accessible to mainstream users, featuring spatial computing capabilities and wireless operation for everyday use.",
+  "tech_stack": [
+    "VR",
+    "Spatial Computing",
+    "Meta Quest OS",
+    "XR",
+    "Wireless Display"
+  ],
+  "problem_solved": "Making VR technology practical and comfortable for everyday consumer use outside of gaming.",
+  "why_valuable": "Brings immersive VR experiences to mainstream consumers with a lightweight, wire-free design that integrates computing and entertainment into everyday life.",
+  "tags": [
+    "VR",
+    "XR",
+    "Meta",
+    "Consumer Electronics",
+    "Spatial Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-24T13:30:25.271000+00:00",
+  "updated_at": "2026-09-24T13:31:44.653202+00:00",
+  "published_to": []
+}

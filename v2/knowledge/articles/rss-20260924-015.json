@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260924-015",
+  "source": "rss",
+  "source_url": "https://artificialanalysis.ai/models/mercury-2-5",
+  "title": "Mercury 2.5 LLM hits 770 tokens per second",
+  "summary": "Mercury 2.5 is a high-performance LLM that achieves an impressive 770 tokens per second inference speed, making it one of the fastest language models available. The model was shared on Hacker News and garnered significant community interest with 131 points and 74 comments.",
+  "tech_stack": [
+    "LLM",
+    "Python",
+    "GPU Acceleration",
+    "Inference Optimization",
+    "Machine Learning"
+  ],
+  "problem_solved": "Provides extremely fast inference speeds for real-time AI applications, addressing latency issues in language model deployment.",
+  "why_valuable": "High inference speed directly improves user experience, reduces operational costs, and enables real-time applications that were previously impractical with slower models.",
+  "tags": [
+    "LLM",
+    "Inference Speed",
+    "AI Performance",
+    "Language Model",
+    "Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-24T13:30:58.664009+00:00",
+  "updated_at": "2026-09-24T13:31:44.653725+00:00",
+  "published_to": []
+}

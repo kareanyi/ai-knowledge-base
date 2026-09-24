@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260924-002",
+  "source": "rss",
+  "source_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+  "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+  "summary": "This article exposes how hackers exploit prompt injection techniques to manipulate AI chatbots like ChatGPT and Gemini, tricking them into directing users to scam websites and malicious content. The author documents real-world examples of AI system vulnerabilities being leveraged for social engineering attacks.",
+  "tech_stack": [
+    "ChatGPT",
+    "Gemini",
+    "Prompt Injection",
+    "LLM",
+    "Security Research"
+  ],
+  "problem_solved": "Reveals how adversarial prompt injection attacks can bypass AI safety measures to execute social engineering scams at scale.",
+  "why_valuable": "Highlights critical security vulnerabilities in mainstream AI systems that could be exploited to harm millions of users, raising awareness for necessary defensive measures.",
+  "tags": [
+    "AI Security",
+    "Prompt Injection",
+    "Scams",
+    "LLM Vulnerabilities",
+    "Social Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-24T13:28:06.443173+00:00",
+  "updated_at": "2026-09-24T13:31:44.643210+00:00",
+  "published_to": []
+}

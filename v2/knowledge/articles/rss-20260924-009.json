@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260924-009",
+  "source": "rss",
+  "source_url": "https://contrastive-lm.notion.site/",
+  "title": "Contrastive Language Models",
+  "summary": "A technical article discussing Contrastive Language Models, a machine learning approach that uses contrastive learning techniques to improve language model training and performance.",
+  "tech_stack": [
+    "Deep Learning",
+    "NLP",
+    "PyTorch",
+    "Transformers"
+  ],
+  "problem_solved": "Improving language model training efficiency and quality through contrastive learning objectives.",
+  "why_valuable": "Offers a novel approach to training language models that can potentially improve representation learning and downstream task performance.",
+  "tags": [
+    "Machine Learning",
+    "NLP",
+    "Language Models",
+    "Contrastive Learning",
+    "Deep Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-24T13:29:35.320814+00:00",
+  "updated_at": "2026-09-24T13:31:44.652659+00:00",
+  "published_to": []
+}

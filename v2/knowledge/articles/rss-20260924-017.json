@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260924-017",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+  "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+  "summary": "Anthropic's Claude AI discovered a novel enzyme system with CRISPR-like repeats through autonomous genomic analysis, marking a significant milestone where an LLM made a genuine scientific discovery in molecular biology. This finding demonstrates AI's potential to contribute to actual scientific research beyond text generation.",
+  "tech_stack": [
+    "Claude AI",
+    "Genomic Analysis",
+    "CRISPR Technology",
+    "Bioinformatics",
+    "Molecular Biology"
+  ],
+  "problem_solved": "Demonstrates that AI can autonomously identify novel biological mechanisms, potentially accelerating scientific discovery in genetics and molecular biology research.",
+  "why_valuable": "This breakthrough proves LLMs can make real scientific contributions by analyzing biological data, opening new possibilities for AI-assisted drug discovery and genetic research.",
+  "tags": [
+    "AI_Discovery",
+    "CRISPR",
+    "Genomics",
+    "Scientific_Research",
+    "Molecular_Biology"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-24T13:31:22.561291+00:00",
+  "updated_at": "2026-09-24T13:31:44.654102+00:00",
+  "published_to": []
+}

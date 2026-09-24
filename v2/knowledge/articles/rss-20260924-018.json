@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260924-018",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+  "title": "A brief history of Windows scroll bar shortcuts",
+  "summary": "Raymond Chen's Old New Thing blog explores the historical evolution of Windows scroll bar keyboard shortcuts, documenting how modifiers like Ctrl, Shift, and Alt affected scroll behavior across different Windows versions and explaining the implementation details behind these interactions.",
+  "tech_stack": [
+    "Windows API",
+    "Keyboard Input Handling",
+    "UI/UX Design",
+    "Win32"
+  ],
+  "problem_solved": "Explains the sometimes confusing or counterintuitive behavior of scroll bar keyboard shortcuts in Windows and traces their historical implementation decisions.",
+  "why_valuable": "Provides rare insight into Windows internals and the rationale behind UI design decisions, helping developers and power users understand why certain shortcuts behave as they do.",
+  "tags": [
+    "Windows",
+    "History",
+    "UI/UX",
+    "Shortcuts",
+    "Microsoft"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-24T13:31:34.266724+00:00",
+  "updated_at": "2026-09-24T13:31:44.654279+00:00",
+  "published_to": []
+}

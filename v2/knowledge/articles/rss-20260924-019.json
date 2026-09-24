@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260924-019",
+  "source": "rss",
+  "source_url": "https://tailscale.com/blog/making-tailscale-faster",
+  "title": "Making Tailscale Faster",
+  "summary": "Tailscale published a technical blog post detailing their efforts to optimize the performance of their WireGuard-based VPN product, focusing on reducing latency and improving throughput through various low-level optimizations in their Go codebase and kernel interaction layers.",
+  "tech_stack": [
+    "Go",
+    "WireGuard",
+    "Linux Kernel",
+    "eBPF",
+    "Tailscale"
+  ],
+  "problem_solved": "Reduces network latency and improves data throughput for Tailscale VPN users by optimizing the data path between network packets and the userspace application.",
+  "why_valuable": "Provides real-world insights into high-performance networking optimization techniques while demonstrating how open-source projects can systematically improve user experience through engineering excellence.",
+  "tags": [
+    "VPN",
+    "Performance",
+    "Networking",
+    "WireGuard",
+    "Optimization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-24T13:31:43.500869+00:00",
+  "updated_at": "2026-09-24T13:31:44.654451+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260924-004",
+  "source": "rss",
+  "source_url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+  "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+  "summary": "This article discusses Apple's implementation of different encryption protection levels for identical devices in the UK compared to other regions, likely related to the UK government's demands for backdoor access to encrypted data and Apple's subsequent policy changes regarding Advanced Data Protection in the UK market.",
+  "tech_stack": [
+    "Apple iOS",
+    "End-to-End Encryption",
+    "iCloud",
+    "Advanced Data Protection",
+    "Cryptography"
+  ],
+  "problem_solved": "Explains the security implications of the UK's regulatory pressure on Apple, resulting in weakened encryption protections for UK users compared to global standards.",
+  "why_valuable": "Highlights the real-world impact of government surveillance policies on consumer data security and the trade-offs between law enforcement access and user privacy protection.",
+  "tags": [
+    "Encryption",
+    "Privacy",
+    "Apple",
+    "UK Regulation",
+    "Cybersecurity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-24T13:28:44.707699+00:00",
+  "updated_at": "2026-09-24T13:31:44.651696+00:00",
+  "published_to": []
+}
