@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260925-019",
+  "source": "rss",
+  "source_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+  "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+  "summary": "This article explores how Large Language Models are being used to trace alchemical knowledge and decode cryptic 17th century letters, demonstrating the application of modern AI techniques to historical manuscript analysis. The piece argues that AI labs should increase funding for historical research initiatives that leverage these technologies.",
+  "tech_stack": [
+    "LLMs",
+    "Natural Language Processing",
+    "Historical Document Analysis",
+    "AI Text Decoding"
+  ],
+  "problem_solved": "Helps historians decode and interpret cryptic 17th century alchemical texts and letters that would otherwise require extensive manual scholarly effort to understand.",
+  "why_valuable": "Bridges modern AI capabilities with historical scholarship, enabling new discoveries in historical texts and preserving knowledge that would otherwise remain inaccessible to mainstream understanding.",
+  "tags": [
+    "AI",
+    "History",
+    "Alchemy",
+    "NLP",
+    "Historical Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:32:28.134277+00:00",
+  "updated_at": "2026-09-25T13:32:45.926693+00:00",
+  "published_to": []
+}

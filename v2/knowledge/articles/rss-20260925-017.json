@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-017",
+  "source": "rss",
+  "source_url": "https://jardo.dev/what-about-rails",
+  "title": "What About Rails?",
+  "summary": "A blog post exploring the continued relevance and role of Ruby on Rails in modern web development, questioning whether the mature framework still has its place amid newer JavaScript frameworks and SPA solutions. The article likely addresses Rails' strengths, weaknesses, and current use cases.",
+  "tech_stack": [
+    "Ruby",
+    "Ruby on Rails",
+    "HTML/CSS",
+    "JavaScript",
+    "PostgreSQL"
+  ],
+  "problem_solved": "Addresses the uncertainty developers face when choosing web frameworks in an era dominated by React, Next.js, and other JavaScript-heavy solutions.",
+  "why_valuable": "Provides a balanced perspective on a mature, convention-over-configuration framework that still offers exceptional developer productivity for many use cases.",
+  "tags": [
+    "Ruby",
+    "Rails",
+    "Web Development",
+    "Backend",
+    "Framework"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:32:10.176168+00:00",
+  "updated_at": "2026-09-25T13:32:45.926399+00:00",
+  "published_to": []
+}

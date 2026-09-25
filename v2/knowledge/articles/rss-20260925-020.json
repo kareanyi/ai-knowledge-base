@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-020",
+  "source": "rss",
+  "source_url": "https://github.com/devdotfast/whiteboard",
+  "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+  "summary": "Whiteboard is an open-source desktop IDE designed to enable collaborative software architecture between humans and AI agents, recreating the experience of whiteboard sessions where teams gain deep system understanding together. The app integrates with existing AI coding tools like Claude Code and Codex.",
+  "tech_stack": [
+    "Electron",
+    "TypeScript",
+    "Node.js",
+    "Claude Code",
+    "Codex"
+  ],
+  "problem_solved": "Enables AI-human collaborative software architecture in a shared workspace, solving the lack of tools for designing systems together.",
+  "why_valuable": "Bridges the gap between individual AI-assisted coding and team whiteboard sessions, making complex system design collaborative again.",
+  "tags": [
+    "AI",
+    "Software Design",
+    "Collaboration",
+    "Open Source",
+    "IDE"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:32:44.772966+00:00",
+  "updated_at": "2026-09-25T13:32:45.926838+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-018",
+  "source": "rss",
+  "source_url": "https://launchvideo.io",
+  "title": "Opus 5.5 is good at explainer videos",
+  "summary": "A review/analysis of Opus 5.5 (likely Google's video generation AI model) highlighting its capabilities for creating explainer videos, generating significant interest with 313 points and 168 comments on Hacker News.",
+  "tech_stack": [
+    "AI/ML",
+    "Video Generation",
+    "Generative AI",
+    "DeepMind",
+    "Opus Model"
+  ],
+  "problem_solved": "Enables high-quality AI-generated explainer video creation without traditional video production workflows",
+  "why_valuable": "Demonstrates how advanced AI models are becoming viable for practical commercial video production use cases",
+  "tags": [
+    "AI Video",
+    "Explainer Videos",
+    "Generative AI",
+    "Content Creation",
+    "Video Production"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:32:17.841396+00:00",
+  "updated_at": "2026-09-25T13:32:45.926548+00:00",
+  "published_to": []
+}

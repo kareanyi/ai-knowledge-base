@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-013",
+  "source": "rss",
+  "source_url": "https://www.dawo.community/en/",
+  "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+  "summary": "The Dutch government is developing a custom operating system based on NixOS as an alternative to Microsoft products, aiming to achieve technological sovereignty and reduce dependency on proprietary software vendors.",
+  "tech_stack": [
+    "NixOS",
+    "Linux",
+    "Open Source",
+    "Declarative Configuration",
+    "FOSS"
+  ],
+  "problem_solved": "Reduces Dutch government dependency on proprietary Microsoft software and enables full control over IT infrastructure through reproducible, declarative system configurations.",
+  "why_valuable": "Demonstrates that governments can build viable sovereign IT infrastructure alternatives, setting a precedent for digital independence from major tech corporations.",
+  "tags": [
+    "Government",
+    "NixOS",
+    "Linux",
+    "Digital Sovereignty",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-25T13:31:24.722319+00:00",
+  "updated_at": "2026-09-25T13:32:45.925772+00:00",
+  "published_to": []
+}

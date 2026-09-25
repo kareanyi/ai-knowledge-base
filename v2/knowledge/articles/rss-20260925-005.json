@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-005",
+  "source": "rss",
+  "source_url": "https://github.com/git-bug/git-bug",
+  "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+  "summary": "Git-bug is a distributed, offline-first bug tracker that stores bug reports and tracking data as Git commits, allowing teams to track issues without requiring a central server or internet connection.",
+  "tech_stack": [
+    "Go",
+    "Git",
+    "Markdown",
+    "GitHub",
+    "Terminal/CLI"
+  ],
+  "problem_solved": "Enables offline bug tracking and distributed issue management without relying on centralized services like GitHub Issues or Jira.",
+  "why_valuable": "Developers can manage bugs entirely within their Git workflow, sync through normal Git operations, and work fully offline in any environment.",
+  "tags": [
+    "Git",
+    "BugTracker",
+    "OfflineFirst",
+    "Distributed",
+    "DevTools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:29:58.050907+00:00",
+  "updated_at": "2026-09-25T13:32:45.924463+00:00",
+  "published_to": []
+}

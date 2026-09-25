@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-014",
+  "source": "rss",
+  "source_url": "https://www.datagubbe.se/amscr/",
+  "title": "Amiga Screens: A Primer",
+  "summary": "A technical article exploring the display and screen system of Commodore Amiga computers, likely covering the custom chipset (Denise, Paula, Agnus), video modes like HAM and ECS/AGA, and how the Workbench interface was rendered.",
+  "tech_stack": [
+    "Amiga Custom Chips",
+    "ECS/AGA",
+    "HAM Mode",
+    "680x0 Assembly",
+    "Workbench"
+  ],
+  "problem_solved": "Explains the technical workings of Amiga's innovative graphics system for retro computing enthusiasts",
+  "why_valuable": "Preserves and documents historical computing knowledge about Amiga's advanced (for its time) display architecture",
+  "tags": [
+    "Retro Computing",
+    "Amiga",
+    "Vintage Hardware",
+    "Graphics Systems",
+    "Commodore"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:31:34.974605+00:00",
+  "updated_at": "2026-09-25T13:32:45.925919+00:00",
+  "published_to": []
+}

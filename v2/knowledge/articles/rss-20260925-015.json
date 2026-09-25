@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-015",
+  "source": "rss",
+  "source_url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+  "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+  "summary": "A technical review demonstrating how to emulate a Pentium II 600MHz system with Voodoo 3 graphics using 86Box emulator running on a modern Mac Mini with M6 Apple Silicon chip, showcasing the impressive emulation capabilities of ARM-based hardware for vintage computing.",
+  "tech_stack": [
+    "86Box",
+    "Apple Silicon M6",
+    "Mac Mini",
+    "Pentium II",
+    "Voodoo 3"
+  ],
+  "problem_solved": "Enables running legacy x86 software and classic games from the late 1990s on modern hardware through accurate retro system emulation.",
+  "why_valuable": "Demonstrates that Apple Silicon can efficiently emulate 25+ year old computer systems, making vintage software preservation and retro gaming accessible on contemporary machines.",
+  "tags": [
+    "retrocomputing",
+    "emulation",
+    "vintage",
+    "86Box",
+    "AppleSilicon"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:31:45.722066+00:00",
+  "updated_at": "2026-09-25T13:32:45.926092+00:00",
+  "published_to": []
+}

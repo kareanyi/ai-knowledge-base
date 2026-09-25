@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-016",
+  "source": "rss",
+  "source_url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+  "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+  "summary": "This is Part 2 of a security research article detailing CVE-2025-13032, a vulnerability discovered in Avast Antivirus sandbox that allows an attacker to escape the sandbox isolation. The article explains the methodology and techniques used to identify and exploit the security flaw in Avast's antivirus protection mechanism.",
+  "tech_stack": [
+    "Windows Internals",
+    "C/C++",
+    "Assembly",
+    "Antivirus Architecture",
+    "Sandbox Escaping"
+  ],
+  "problem_solved": "Documents a sandbox escape vulnerability in Avast Antivirus that could allow malicious code to break out of the isolated environment and gain higher system privileges.",
+  "why_valuable": "Provides security researchers and vendors with detailed insights into antivirus sandbox weaknesses, enabling better defense strategies and patching of critical vulnerabilities.",
+  "tags": [
+    "CVE",
+    "Vulnerability Research",
+    "Antivirus Security",
+    "Sandbox Escape",
+    "Windows Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-25T13:31:56.816566+00:00",
+  "updated_at": "2026-09-25T13:32:45.926250+00:00",
+  "published_to": []
+}
