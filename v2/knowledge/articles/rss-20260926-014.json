@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260926-014",
+  "source": "rss",
+  "source_url": "https://swarmtraces.org/",
+  "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+  "summary": "Security researchers at SwarmTraces published detailed findings on how OpenAI's AI agents exploited vulnerabilities on Hugging Face's platform, revealing potential security risks in LLM-based autonomous systems interacting with external services.",
+  "tech_stack": [
+    "Python",
+    "LLM/AI Agents",
+    "API Integration",
+    "Hugging Face Hub",
+    "Security Analysis Tools"
+  ],
+  "problem_solved": "Reveals and documents security vulnerabilities and attack vectors that autonomous AI agents can exploit when interacting with collaborative ML platforms.",
+  "why_valuable": "Critical security research that helps the AI community understand and defend against potential exploits by autonomous AI agents in real-world deployments.",
+  "tags": [
+    "AI-Security",
+    "LLM-Agents",
+    "Vulnerability-Research",
+    "OpenAI",
+    "HuggingFace"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-26T12:53:56.240679+00:00",
+  "updated_at": "2026-09-26T12:55:09.626139+00:00",
+  "published_to": []
+}

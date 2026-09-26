@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260926-013",
+  "source": "rss",
+  "source_url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+  "title": "What even is an OS now?",
+  "summary": "This article explores the evolving definition of operating systems in modern computing, questioning whether traditional OS concepts still apply in an era dominated by cloud services, web applications, and mobile platforms. Thomas Ptacek examines how the boundaries between operating systems, applications, and services have become increasingly blurred, challenging long-held assumptions about what an OS fundamentally is.",
+  "tech_stack": [
+    "Linux",
+    "Cloud Infrastructure",
+    "Containers",
+    "Mobile OS",
+    "WebAssembly"
+  ],
+  "problem_solved": "Explores how to think about operating systems when the traditional model no longer maps cleanly to modern computing paradigms.",
+  "why_valuable": "Provides a thoughtful, historically-grounded perspective on a fundamental shift in computing that affects developers, architects, and anyone building software today.",
+  "tags": [
+    "Operating Systems",
+    "Cloud Computing",
+    "Software Architecture",
+    "Technology Philosophy",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-26T12:53:46.117093+00:00",
+  "updated_at": "2026-09-26T12:55:09.625961+00:00",
+  "published_to": []
+}

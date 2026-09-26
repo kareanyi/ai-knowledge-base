@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260926-008",
+  "source": "rss",
+  "source_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+  "title": "A single function Jev-like wrapper for LLMs, including vision models",
+  "summary": "这是一个为大型语言模型（LLM）设计的轻量级包装库，提供了类似Jev风格的统一接口，支持包括视觉模型在内的多种LLM调用。",
+  "tech_stack": [
+    "Python",
+    "LLM APIs",
+    "Vision Models"
+  ],
+  "problem_solved": "简化多模型集成的复杂性，提供一致的API接口来调用不同的LLM服务",
+  "why_valuable": "降低开发者在切换和使用多个LLM时的学习成本和代码复杂度",
+  "tags": [
+    "LLM",
+    "API Wrapper",
+    "Python",
+    "AI Integration",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-26T12:52:49.510660+00:00",
+  "updated_at": "2026-09-26T12:55:09.624828+00:00",
+  "published_to": []
+}

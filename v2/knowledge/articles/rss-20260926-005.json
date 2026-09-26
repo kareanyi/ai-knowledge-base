@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260926-005",
+  "source": "rss",
+  "source_url": "https://floci.io",
+  "title": "Floci: Locally emulating any cloud service",
+  "summary": "Floci is a development tool that enables developers to locally emulate any cloud service, allowing for faster iteration and testing without relying on actual cloud infrastructure. The tool aims to simplify the development workflow by providing a local environment that mimics cloud services behavior.",
+  "tech_stack": [
+    "Docker",
+    "Go",
+    "API Simulation",
+    "Local Development Tools"
+  ],
+  "problem_solved": "Enables developers to test cloud-dependent applications locally without needing actual cloud service credentials or paying for cloud usage",
+  "why_valuable": "Significantly reduces development cycle time and costs by allowing offline cloud service emulation while maintaining production-like behavior",
+  "tags": [
+    "cloud",
+    "emulation",
+    "developer-tools",
+    "local-dev",
+    "infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-26T12:52:19.127624+00:00",
+  "updated_at": "2026-09-26T12:55:09.624157+00:00",
+  "published_to": []
+}

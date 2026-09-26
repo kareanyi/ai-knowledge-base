@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260926-001",
+  "source": "rss",
+  "source_url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+  "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+  "summary": "Conversations应用开发者Daniel Gultsch宣布从Google Play下架该XMPP客户端，转向完全免费的商业模式，不再依赖Google Play作为分发渠道，体现了开源开发者的独立精神和对商业模式的重新思考。",
+  "tech_stack": [
+    "Android",
+    "XMPP",
+    "Java/Kotlin",
+    "Google Play",
+    "F-Droid"
+  ],
+  "problem_solved": "解决了开源即时通讯应用对Google Play的依赖问题，以及传统付费模式的局限性。",
+  "why_valuable": "展示了开源项目如何在保持独立性的同时实现免费化，为其他开发者提供了商业模式创新的参考案例。",
+  "tags": [
+    "Open Source",
+    "Android",
+    "Privacy",
+    "XMPP",
+    "Business Model"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-26T12:51:36.925205+00:00",
+  "updated_at": "2026-09-26T12:55:09.614509+00:00",
+  "published_to": []
+}
