@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-014",
+  "source": "rss",
+  "source_url": "https://mitxela.com/projects/flipflip",
+  "title": "Flip Fluid on Flip Dots",
+  "summary": "A hardware project demonstrating fluid simulation animations rendered on flip dot displays - those classic mechanical displays with physical pixels that flip between two states. The author creates realistic fluid dynamics effects using the constraints of a physical dot matrix display.",
+  "tech_stack": [
+    "Hardware",
+    "Flip Dot Display",
+    "Embedded Systems",
+    "Animation",
+    "Mechanical Engineering"
+  ],
+  "problem_solved": "Brings digital fluid simulation to life using vintage mechanical flip dot display technology",
+  "why_valuable": "Combines nostalgia of flip dot displays with modern fluid simulation techniques, creating visually captivating real-world physics visualizations",
+  "tags": [
+    "Hardware",
+    "Flip Dots",
+    "Fluid Simulation",
+    "Mechanical Display",
+    "Art Tech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:47:09.763757+00:00",
+  "updated_at": "2026-09-27T13:48:01.688289+00:00",
+  "published_to": []
+}

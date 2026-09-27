@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-012",
+  "source": "rss",
+  "source_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+  "title": "Improving site performance by shipping more CSS",
+  "summary": "GitHub's engineering team shares their approach to improving site performance by strategically shipping more CSS, likely through critical CSS inlining or eliminating JavaScript-driven styling calculations that were slower than pure CSS solutions.",
+  "tech_stack": [
+    "CSS",
+    "JavaScript",
+    "Web Performance",
+    "Core Web Vitals",
+    "Frontend Optimization"
+  ],
+  "problem_solved": "Addresses render-blocking JavaScript and inefficient runtime style calculations that were degrading page load performance.",
+  "why_valuable": "Demonstrates counterintuitive but effective performance optimization by moving expensive JavaScript styling computations to pre-compiled CSS, improving Core Web Vitals and user experience.",
+  "tags": [
+    "Performance",
+    "CSS",
+    "Frontend",
+    "Optimization",
+    "GitHub"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:46:35.652866+00:00",
+  "updated_at": "2026-09-27T13:48:01.687903+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-018",
+  "source": "rss",
+  "source_url": "https://francisbach.com/spectral_log_density_estimation/",
+  "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+  "summary": "Francis Bach discusses the 'exploding variance' problem that occurs when computing means of exponential functions in statistical learning, and presents least-squares spectral methods as a solution for stable log density estimation.",
+  "tech_stack": [
+    "Statistical Learning Theory",
+    "Spectral Methods",
+    "Least-Squares Regression",
+    "Numerical Optimization",
+    "Kernel Methods"
+  ],
+  "problem_solved": "Addresses the numerical instability and variance explosion that occurs when computing expectations of exponential functions in statistical computations.",
+  "why_valuable": "Provides a theoretically grounded solution to a fundamental numerical problem that affects many statistical and machine learning algorithms, improving both stability and accuracy.",
+  "tags": [
+    "Statistics",
+    "Spectral Methods",
+    "Optimization",
+    "Theoretical ML",
+    "Numerical Methods"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:48:00.344576+00:00",
+  "updated_at": "2026-09-27T13:48:01.689062+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-008",
+  "source": "rss",
+  "source_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+  "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+  "summary": "Drawgent is a coding agent that operates on a live Excalidraw canvas, allowing users to interact with an AI coding assistant through a visual whiteboard interface. It combines the collaborative drawing capabilities of Excalidraw with AI-powered code generation and execution.",
+  "tech_stack": [
+    "Excalidraw",
+    "AI Agents",
+    "Web Technologies",
+    "LLM Integration",
+    "JavaScript"
+  ],
+  "problem_solved": "Provides a visual, interactive approach to AI-assisted coding by integrating directly with Excalidraw's collaborative whiteboard canvas.",
+  "why_valuable": "It transforms the coding experience from text-based to visual and interactive, making AI pair programming more intuitive and collaborative.",
+  "tags": [
+    "AI",
+    "Agent",
+    "Excalidraw",
+    "Visual Coding",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:45:43.495892+00:00",
+  "updated_at": "2026-09-27T13:48:01.687084+00:00",
+  "published_to": []
+}

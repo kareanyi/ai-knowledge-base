@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-009",
+  "source": "rss",
+  "source_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+  "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+  "summary": "A technical approach to transform standard LLMs like GLM-5.3-Flash into fast decision-making models by crafting prompts that force single-token first output, enabling one-shot decisions without specialized architectures.",
+  "tech_stack": [
+    "Python",
+    "vLLM",
+    "GLM-5.3-Flash",
+    "LLM",
+    "Prompt Engineering"
+  ],
+  "problem_solved": "Enabling standard LLMs to make rapid, single-token decisions comparable to specialized decision models like Jev",
+  "why_valuable": "Reduces inference cost and complexity by achieving specialized model performance using general-purpose LLMs with optimized prompts",
+  "tags": [
+    "LLM",
+    "Decision-Making",
+    "Prompt-Engineering",
+    "Inference-Optimization",
+    "AI-Agents"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:45:59.949305+00:00",
+  "updated_at": "2026-09-27T13:48:01.687300+00:00",
+  "published_to": []
+}

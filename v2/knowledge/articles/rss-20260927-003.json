@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260927-003",
+  "source": "rss",
+  "source_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+  "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+  "summary": "The Authors Guild lawsuit against OpenAI revealed internal communications showing OpenAI executives were aware that mass book piracy for AI training was illegal, yet proceeded anyway. They also expressed concern about how their practices might be perceived on Hacker News, suggesting public image management influenced their decision-making.",
+  "tech_stack": [
+    "AI/LLM",
+    "Large Language Models",
+    "Neural Networks",
+    "Machine Learning"
+  ],
+  "problem_solved": "This article does not solve a technical problem; rather it exposes the legal and ethical concerns around AI companies training models on copyrighted material without permission.",
+  "why_valuable": "It provides insight into corporate decision-making priorities at AI companies, where public perception (even on Hacker News) influenced actions more than legal compliance concerns.",
+  "tags": [
+    "AI Ethics",
+    "Copyright",
+    "Legal",
+    "OpenAI",
+    "LLM Training"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-27T13:44:42.886451+00:00",
+  "updated_at": "2026-09-27T13:48:01.677903+00:00",
+  "published_to": []
+}

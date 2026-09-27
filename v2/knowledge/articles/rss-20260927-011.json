@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260927-011",
+  "source": "rss",
+  "source_url": "https://fakecloud.dev/",
+  "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+  "summary": "Fakecloud is a local AWS cloud emulator that allows developers to run integration tests without connecting to real AWS infrastructure, enabling offline development and testing workflows.",
+  "tech_stack": [
+    "AWS SDK",
+    "Docker",
+    "Go"
+  ],
+  "problem_solved": "Eliminates AWS costs and internet dependency when developing and testing cloud-native applications locally",
+  "why_valuable": "Enables faster development cycles and reduces cloud bills by providing a fully local AWS-compatible testing environment",
+  "tags": [
+    "AWS",
+    "Emulator",
+    "Testing",
+    "DevOps",
+    "Cloud"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:46:21.748482+00:00",
+  "updated_at": "2026-09-27T13:48:01.687714+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260927-002",
+  "source": "rss",
+  "source_url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+  "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+  "summary": "Meta temporarily blocked Brazilian President Lula's official Facebook page and campaign advertisements approximately two weeks before Brazil's presidential election, sparking controversy over potential political bias and the timing of such actions near elections.",
+  "tech_stack": [
+    "Meta/Facebook"
+  ],
+  "problem_solved": "This incident raises questions about social media platform governance and election integrity rather than solving a technical problem.",
+  "why_valuable": "It highlights critical concerns about big tech's influence on democratic processes and the need for transparent content moderation policies during elections.",
+  "tags": [
+    "Social Media",
+    "Politics",
+    "Censorship",
+    "Elections",
+    "TechPolicy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-27T13:44:30.956317+00:00",
+  "updated_at": "2026-09-27T13:48:01.677691+00:00",
+  "published_to": []
+}

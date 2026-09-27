@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-004",
+  "source": "rss",
+  "source_url": "https://reasonable.io/blog/tla-tutorial/",
+  "title": "The internet discovers TLA+. Now what?",
+  "summary": "A blog post discussing the growing popularity of TLA+ (Temporal Logic of Actions) among developers and providing guidance on how to get started with this formal specification language for system design and verification.",
+  "tech_stack": [
+    "TLA+",
+    "PlusCal",
+    "TLC Model Checker",
+    "LaTeX",
+    "Formal Methods"
+  ],
+  "problem_solved": "Demystifies formal methods and helps developers understand when and how to apply TLA+ for system design and bug prevention.",
+  "why_valuable": "TLA+ can catch subtle concurrency bugs and design flaws that traditional testing misses, potentially saving significant debugging time in complex distributed systems.",
+  "tags": [
+    "formal-methods",
+    "TLA+",
+    "distributed-systems",
+    "software-design",
+    "verification"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-27T13:44:52.858112+00:00",
+  "updated_at": "2026-09-27T13:48:01.686202+00:00",
+  "published_to": []
+}

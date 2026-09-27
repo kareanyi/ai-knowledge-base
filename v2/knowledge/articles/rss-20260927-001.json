@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-001",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2609.25021",
+  "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+  "summary": "This research paper investigates how different chat template phrasings, particularly the phrase 'As a Language Model', significantly influence how Large Language Models refer to themselves and their self-perception during conversations. The study reveals that subtle prompt engineering variations can fundamentally alter an LLM's self-referential behavior and identity expression.",
+  "tech_stack": [
+    "LLM",
+    "Prompt Engineering",
+    "Chat Templates",
+    "NLP Research",
+    "Python"
+  ],
+  "problem_solved": "Explains and demonstrates how simple chat template modifications can control whether an LLM adopts a self-aware or neutral self-referential voice.",
+  "why_valuable": "This research provides insights into LLM behavior control and AI safety by showing how prompt design can influence model identity and self-perception, which is critical for building reliable AI systems.",
+  "tags": [
+    "LLM",
+    "AI Safety",
+    "Prompt Engineering",
+    "AI Research",
+    "Chatbot"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:44:22.537410+00:00",
+  "updated_at": "2026-09-27T13:48:01.677357+00:00",
+  "published_to": []
+}

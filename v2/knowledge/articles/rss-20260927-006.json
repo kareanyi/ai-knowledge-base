@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-006",
+  "source": "rss",
+  "source_url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+  "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+  "summary": "Ken Shirriff reverse-engineers the Intel 8087 floating-point coprocessor's microcode to analyze how it implements the tangent function, discovering that Intel used a sophisticated hybrid approach combining CORDIC with polynomial approximations rather than pure CORDIC, which was previously assumed.",
+  "tech_stack": [
+    "Intel 8087 Microcode",
+    "CORDIC Algorithm",
+    "Reverse Engineering",
+    "Assembly/Firmware Analysis",
+    "Numerical Computing"
+  ],
+  "problem_solved": "Reveals the undocumented implementation details of how Intel optimized the tangent calculation in the 8087's hardware microcode.",
+  "why_valuable": "Provides rare insight into Intel's engineering decisions from 1980, showing how they optimized performance by combining algorithms in ways that weren't documented in official specifications.",
+  "tags": [
+    "Reverse Engineering",
+    "Intel 8087",
+    "CORDIC",
+    "Floating Point",
+    "Historical Computing"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-27T13:45:23.071621+00:00",
+  "updated_at": "2026-09-27T13:48:01.686659+00:00",
+  "published_to": []
+}

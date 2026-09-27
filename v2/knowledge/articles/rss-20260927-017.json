@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-017",
+  "source": "rss",
+  "source_url": "https://ampdot.mesh.host/token-space-fonts.html",
+  "title": "Generate fonts where every LLM token is the same width",
+  "summary": "A creative technical project that generates monospaced fonts where each LLM token occupies exactly the same display width, solving the visual inconsistency problem when tokens of different lengths are rendered with standard monospace fonts.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Web Fonts",
+    "Canvas API"
+  ],
+  "problem_solved": "LLM tokens vary in visual width when displayed, causing misalignment and readability issues in AI output.",
+  "why_valuable": "Enables cleaner, pixel-perfect display of LLM tokens for debugging, token analysis, and building AI-native UIs.",
+  "tags": [
+    "fonts",
+    "LLM",
+    "typography",
+    "tokenization",
+    "monospace"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:47:48.731875+00:00",
+  "updated_at": "2026-09-27T13:48:01.688870+00:00",
+  "published_to": []
+}

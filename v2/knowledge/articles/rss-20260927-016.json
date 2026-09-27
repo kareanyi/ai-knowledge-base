@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260927-016",
+  "source": "rss",
+  "source_url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+  "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+  "summary": "Freie Universität Berlin researchers analyzed Cassini mission data from Saturn's moon Enceladus, finding promising evidence for potential microbial life in the moon's subsurface ocean, particularly through detection of complex organic molecules in plume samples.",
+  "tech_stack": [
+    "Cassini Spacecraft",
+    "Mass Spectrometry",
+    "Space Exploration",
+    "Planetary Science",
+    "Spectroscopy"
+  ],
+  "problem_solved": "Advancing understanding of whether Enceladus harbors conditions suitable for extraterrestrial life.",
+  "why_valuable": "Provides concrete scientific evidence from actual space mission data supporting the possibility of life beyond Earth, which would be one of humanity's most profound discoveries.",
+  "tags": [
+    "Astrobiology",
+    "Space Science",
+    "Enceladus",
+    "Cassini Mission",
+    "Extraterrestrial Life"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-27T13:47:38.063409+00:00",
+  "updated_at": "2026-09-27T13:48:01.688682+00:00",
+  "published_to": []
+}

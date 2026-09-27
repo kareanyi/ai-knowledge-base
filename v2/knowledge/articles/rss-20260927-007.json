@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260927-007",
+  "source": "rss",
+  "source_url": "https://github.com/reladraw/reladraw",
+  "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+  "summary": "Reladraw is a diagram definition language that allows users to write diagram code while maintaining precise control over element placement, unlike auto-layout tools (Mermaid/Graphviz) that sacrifice visual control, and unlike GUI tools (Draw.io) that are time-consuming and hard to automate.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "SVG",
+    "Custom DSL"
+  ],
+  "problem_solved": "Addresses the trade-off between code-based diagram tools that auto-place elements and GUI tools that require manual manipulation but are inefficient to script or automate.",
+  "why_valuable": "It gives developers the best of both worlds: the efficiency and version-control friendliness of code-based diagrams with the visual precision of manual design tools.",
+  "tags": [
+    "diagrams",
+    "DSL",
+    "visualization",
+    "developer-tools",
+    "SVG"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:45:31.898537+00:00",
+  "updated_at": "2026-09-27T13:48:01.686872+00:00",
+  "published_to": []
+}

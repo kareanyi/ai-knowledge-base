@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260927-013",
+  "source": "rss",
+  "source_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+  "title": "How to keep enjoying programming in a world of LLMs",
+  "summary": "A thoughtful community discussion on the Haskell forum exploring how programmers can maintain passion and purpose in their craft as LLM-powered coding tools become increasingly capable. The conversation addresses existential concerns about the future of human programmers and offers perspectives on finding meaning beyond code generation.",
+  "tech_stack": [
+    "Haskell",
+    "Functional Programming",
+    "LLMs",
+    "AI Tools"
+  ],
+  "problem_solved": "Addresses the psychological challenge of staying motivated and finding fulfillment as an LLM-assisted development world emerges",
+  "why_valuable": "Provides valuable mental frameworks and community wisdom for developers grappling with AI's impact on their profession and craft",
+  "tags": [
+    "AI Impact",
+    "Developer Experience",
+    "Programming Philosophy",
+    "Career Development",
+    "Community Discussion"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-27T13:46:45.289032+00:00",
+  "updated_at": "2026-09-27T13:48:01.688095+00:00",
+  "published_to": []
+}
