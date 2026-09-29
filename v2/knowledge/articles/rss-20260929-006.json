@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260929-006",
+  "source": "rss",
+  "source_url": "https://www.withouthotair.com/",
+  "title": "Without the Hot Air",
+  "summary": "A free online book by David MacKay presenting scientifically rigorous, numbers-based analysis of sustainable energy options including wind, solar, nuclear, and fossil fuels, designed to cut through hype and misinformation with physics-based calculations.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "Addresses the lack of objective, quantitative analysis of sustainable energy feasibility and what it actually takes to power civilization.",
+  "why_valuable": "Provides unbiased, physics-grounded education that helps readers understand energy numbers without political bias or hype, making complex energy debates accessible.",
+  "tags": [
+    "Sustainability",
+    "Clean Energy",
+    "Physics",
+    "Education",
+    "Climate"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-29T14:48:37.548398+00:00",
+  "updated_at": "2026-09-29T14:52:29.418325+00:00",
+  "published_to": []
+}

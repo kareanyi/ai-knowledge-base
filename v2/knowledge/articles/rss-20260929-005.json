@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260929-005",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/delhi-electricity-loss",
+  "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+  "summary": "The article from IEEE Spectrum documents how Delhi dramatically reduced electricity transmission and distribution losses from 50% to 5% through a combination of infrastructure modernization, smart metering deployment, and regulatory reforms, transforming one of the world's most inefficient power systems into a model of efficiency.",
+  "tech_stack": [
+    "Smart Meters",
+    "Power Grid Infrastructure",
+    "GIS Mapping Systems",
+    "Energy Management Systems",
+    "Automatic Meter Reading"
+  ],
+  "problem_solved": "Solved the problem of massive electricity loss and wastage in Delhi's power distribution network that was costing billions and causing unreliable service.",
+  "why_valuable": "This case demonstrates how developing regions can achieve dramatic infrastructure improvements through systematic reform and technology deployment, providing a blueprint for other cities facing similar energy efficiency challenges.",
+  "tags": [
+    "Energy Efficiency",
+    "Power Grid",
+    "Infrastructure",
+    "Developing Nations",
+    "Smart Cities"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-29T14:48:26.539270+00:00",
+  "updated_at": "2026-09-29T14:52:29.418224+00:00",
+  "published_to": []
+}

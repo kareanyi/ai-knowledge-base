@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260929-010",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+  "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+  "summary": "The UK police trial of live facial recognition cameras at London train stations scanned 500,000 faces but resulted in zero arrests and only one false positive, raising serious questions about the effectiveness and value of this surveillance technology. The Metropolitan Police deployed the technology despite warnings from privacy campaigners and civil liberties groups about its accuracy and ethical implications. This data provides concrete evidence that the technology may be largely ineffective for its intended purpose of identifying criminals.",
+  "tech_stack": [
+    "Facial Recognition Technology",
+    "CCTV Systems",
+    "Watchlist Database",
+    "Biometric Matching"
+  ],
+  "problem_solved": "Evaluates the effectiveness of live facial recognition technology for police surveillance at public transport hubs",
+  "why_valuable": "Provides real-world data exposing the near-zero effectiveness of mass facial surveillance, informing public debate on government surveillance programs",
+  "tags": [
+    "Facial Recognition",
+    "Privacy",
+    "Surveillance",
+    "Civil Liberties",
+    "UK Police"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-29T14:49:43.222154+00:00",
+  "updated_at": "2026-09-29T14:52:29.418662+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260929-014",
+  "source": "rss",
+  "source_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "title": "AI companies leak data to advertisers [pdf]",
+  "summary": "Investigative research revealing how major AI companies inadvertently expose user data to advertisers through various tracking mechanisms embedded in their platforms.",
+  "tech_stack": [
+    "PDF Analysis",
+    "Web Tracking Detection",
+    "Browser Fingerprinting",
+    "Network Traffic Analysis",
+    "JavaScript Inspection"
+  ],
+  "problem_solved": "Exposes privacy vulnerabilities where AI company platforms leak sensitive user information to third-party advertisers",
+  "why_valuable": "Highlights critical privacy concerns in AI services that millions of users rely on daily, potentially exposing confidential conversations and user data to ad networks",
+  "tags": [
+    "AI Privacy",
+    "Data Security",
+    "Advertising Tracking",
+    "User Privacy",
+    "Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-29T14:50:47.052108+00:00",
+  "updated_at": "2026-09-29T14:52:29.418919+00:00",
+  "published_to": []
+}

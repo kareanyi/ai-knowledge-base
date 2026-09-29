@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260929-013",
+  "source": "rss",
+  "source_url": "https://github.com/EverMind-AI/Raven",
+  "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+  "summary": "Raven is a developer tool designed to reduce repetitive strain injury (RSI) by serving as an automation framework for development workflows, allowing users to automate repetitive coding tasks and keyboard interactions to minimize physical strain.",
+  "tech_stack": [
+    "Python",
+    "GitHub",
+    "CLI",
+    "Automation Framework"
+  ],
+  "problem_solved": "Reduces repetitive strain injury (RSI) for developers by automating repetitive coding tasks and keyboard interactions through a unified harness system.",
+  "why_valuable": "It addresses a real occupational health issue for developers who spend long hours typing, providing automation capabilities that both improve productivity and protect physical health.",
+  "tags": [
+    "RSI Prevention",
+    "Developer Tools",
+    "Automation",
+    "Productivity",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-29T14:50:30.810287+00:00",
+  "updated_at": "2026-09-29T14:52:29.418858+00:00",
+  "published_to": []
+}

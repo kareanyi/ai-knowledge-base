@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260929-001",
+  "source": "rss",
+  "source_url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+  "title": "Claude partial outage",
+  "summary": "Anthropic's Claude AI service experienced a partial outage as reported on their official status page, with a corresponding Hacker News discussion attracting 30 points and 9 comments from users reporting service disruptions.",
+  "tech_stack": [
+    "Claude AI",
+    "Anthropic"
+  ],
+  "problem_solved": "This incident report documents and tracks service availability issues for Claude AI users and affected applications.",
+  "why_valuable": "Provides transparency about AI service reliability and helps users understand when and why AI services may be unavailable.",
+  "tags": [
+    "AI",
+    "Cloud Infrastructure",
+    "Outage",
+    "Service Status",
+    "Claude"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-09-29T14:47:28.720186+00:00",
+  "updated_at": "2026-09-29T14:52:29.410052+00:00",
+  "published_to": []
+}

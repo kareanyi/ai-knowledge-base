@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260929-009",
+  "source": "rss",
+  "source_url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+  "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+  "summary": "The Netherlands government is developing a NixOS-based open-source software ecosystem to replace Microsoft products, triggered by US sanctions that restricted technology access to the International Criminal Court. Trial programs are currently running with the first full release expected by end of 2027, representing a major digital sovereignty initiative.",
+  "tech_stack": [
+    "NixOS",
+    "Linux",
+    "Open Source Software",
+    "Government IT Infrastructure"
+  ],
+  "problem_solved": "Reduces critical dependency on US technology vendors and mitigates geopolitical risks from sanctions that can restrict access to essential software tools.",
+  "why_valuable": "It demonstrates how nations can achieve digital sovereignty by building homegrown open-source alternatives to proprietary software, setting a precedent for other countries facing similar geopolitical technology restrictions.",
+  "tags": [
+    "Digital Sovereignty",
+    "NixOS",
+    "Open Source",
+    "Government Tech",
+    "Geopolitics"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-29T14:49:23.139683+00:00",
+  "updated_at": "2026-09-29T14:52:29.418592+00:00",
+  "published_to": []
+}

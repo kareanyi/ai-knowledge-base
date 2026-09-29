@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260929-015",
+  "source": "rss",
+  "source_url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+  "title": "Using any C++ library in Godot",
+  "summary": "This article demonstrates how to integrate external C++ libraries into Godot game engine projects using Conan for dependency management and CMake for building, providing a streamlined workflow for leveraging existing C++ code in Godot games.",
+  "tech_stack": [
+    "C++",
+    "Godot",
+    "Conan",
+    "CMake",
+    "GDScript"
+  ],
+  "problem_solved": "Solving the complex challenge of integrating third-party C++ libraries into Godot projects without manual configuration and dependency hell.",
+  "why_valuable": "Enables game developers to access the vast C++ ecosystem directly within Godot, combining the productivity of GDScript with the performance of C++ libraries.",
+  "tags": [
+    "C++",
+    "GameDev",
+    "Godot",
+    "Conan",
+    "CMake"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-29T14:50:56.890456+00:00",
+  "updated_at": "2026-09-29T14:52:29.418983+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260929-020",
+  "source": "rss",
+  "source_url": "https://stateofutopia.com/experiments/microllmlab/",
+  "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+  "summary": "MicroLLM Lab is an interactive web experiment that allows users to run 7 different tiny language models directly in their browser without server-side processing. The project demonstrates the feasibility of client-side AI inference using WebAssembly and WebGPU technologies, making LLM experimentation accessible to anyone with a modern browser.",
+  "tech_stack": [
+    "WebAssembly",
+    "WebGPU",
+    "JavaScript",
+    "Transformers.js",
+    "WASM"
+  ],
+  "problem_solved": "Removes the barrier of needing powerful GPU hardware or cloud services to experiment with small language models.",
+  "why_valuable": "Democratizes AI experimentation by enabling anyone to test and compare multiple tiny LLMs instantly in-browser with zero setup required.",
+  "tags": [
+    "WebAssembly",
+    "LLM",
+    "Browser-AI",
+    "Machine-Learning",
+    "Edge-Inference"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-29T14:52:28.487507+00:00",
+  "updated_at": "2026-09-29T14:52:29.419296+00:00",
+  "published_to": []
+}

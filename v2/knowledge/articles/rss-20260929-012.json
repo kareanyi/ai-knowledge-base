@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260929-012",
+  "source": "rss",
+  "source_url": "https://github.com/PostHog/jeeves",
+  "title": "Jeeves. Reasoning improves Jev-like decision models",
+  "summary": "Jeeves is PostHog's open-source project focused on improving LLM-like decision models through enhanced reasoning capabilities, likely aimed at creating better AI coding assistants or agents.",
+  "tech_stack": [
+    "Python",
+    "TypeScript",
+    "LangChain",
+    "LLM",
+    "PostHog"
+  ],
+  "problem_solved": "Improves how AI models reason and make decisions, addressing limitations in current LLM decision-making processes.",
+  "why_valuable": "Better reasoning in AI models leads to more accurate, reliable, and contextually appropriate outputs for complex tasks like code generation and decision-making.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Reasoning",
+    "Open Source",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-29T14:50:21.227705+00:00",
+  "updated_at": "2026-09-29T14:52:29.418794+00:00",
+  "published_to": []
+}

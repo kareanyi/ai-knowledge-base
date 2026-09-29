@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260929-018",
+  "source": "rss",
+  "source_url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+  "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+  "summary": "A distributed computing project that runs a 1.58-bit quantized BitNet language model across a cluster of ESP32S3 microcontrollers, demonstrating how aggressive quantization enables AI inference on extremely resource-constrained hardware typically used for IoT devices.",
+  "tech_stack": [
+    "ESP32S3",
+    "BitNet/1.58-bit Quantization",
+    "C/C++",
+    "Distributed Computing",
+    "TensorFlow Lite Micro"
+  ],
+  "problem_solved": "Enables running large language model inference on cheap, low-power microcontrollers with severe memory and compute limitations.",
+  "why_valuable": "Demonstrates the feasibility of deploying AI models on sub-$10 hardware, potentially democratizing AI access for edge and IoT applications.",
+  "tags": [
+    "Edge AI",
+    "Embedded Systems",
+    "Quantization",
+    "LLM",
+    "IoT"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-29T14:51:50.170451+00:00",
+  "updated_at": "2026-09-29T14:52:29.419170+00:00",
+  "published_to": []
+}
