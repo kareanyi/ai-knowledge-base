@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-014",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+  "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "summary": "OpenAI announces GPT 6.1 Sol, a new large language model that delivers near-top-tier intelligence (comparable to Astra-class models) at approximately 20% of the cost, making advanced AI capabilities significantly more accessible to developers and enterprises.",
+  "tech_stack": [
+    "OpenAI",
+    "GPT-6.1-Sol",
+    "LLM",
+    "API Services",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Reduces the cost barrier for accessing high-quality AI intelligence, making advanced LLM capabilities affordable for a broader range of applications and users.",
+  "why_valuable": "Democratizes access to near-state-of-the-art AI by offering comparable intelligence at a fraction of the price, enabling more cost-effective AI-powered applications and services.",
+  "tags": [
+    "AI",
+    "LLM",
+    "OpenAI",
+    "Cost-Efficiency",
+    "GPT"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-30T14:51:17.919471+00:00",
+  "updated_at": "2026-09-30T14:52:37.325594+00:00",
+  "published_to": []
+}

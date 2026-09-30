@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-001",
+  "source": "rss",
+  "source_url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+  "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+  "summary": "This article compares three GPU-based text rendering techniques: SDF (Signed Distance Fields), MSDF (Multi-channel Signed Distance Fields), and Slug (commercial rendering library), analyzing their trade-offs in quality, performance, and implementation complexity.",
+  "tech_stack": [
+    "SDF",
+    "MSDF",
+    "GPU Shaders",
+    "WebGL",
+    "WebGPU"
+  ],
+  "problem_solved": "Rendering crisp, scalable text on the GPU without the performance overhead of traditional texture-based font rendering.",
+  "why_valuable": "Provides practical guidance for developers choosing between text rendering approaches, helping balance visual quality against implementation complexity and runtime performance.",
+  "tags": [
+    "GPU",
+    "Text Rendering",
+    "SDF",
+    "Graphics",
+    "Fonts"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:49:03.002436+00:00",
+  "updated_at": "2026-09-30T14:52:37.315421+00:00",
+  "published_to": []
+}

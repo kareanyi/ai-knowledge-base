@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-002",
+  "source": "rss",
+  "source_url": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+  "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+  "summary": "Canonical announces the availability of Ubuntu 26.04.1 LTS, a long-term support release providing 5 years of security updates and support for desktop users seeking a stable and reliable operating system.",
+  "tech_stack": [
+    "Ubuntu Linux",
+    "GNOME",
+    "Linux Kernel",
+    "APT Package Manager",
+    "Snap"
+  ],
+  "problem_solved": "Provides users with a stable, long-supported desktop operating system with updated packages and extended security maintenance.",
+  "why_valuable": "LTS releases offer predictability and stability for both individual users and enterprises who need a reliable OS with guaranteed support and security updates for 5 years.",
+  "tags": [
+    "Linux",
+    "Ubuntu",
+    "LTS",
+    "Open Source",
+    "Operating System"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:49:13.361437+00:00",
+  "updated_at": "2026-09-30T14:52:37.315720+00:00",
+  "published_to": []
+}

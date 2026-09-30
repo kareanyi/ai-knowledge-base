@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-009",
+  "source": "rss",
+  "source_url": "https://github.com/ninjahawk/livenerf",
+  "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+  "summary": "Livenerf 是一个实时神经辐射场（NeRF）实现项目，社区用户在讨论是否 Opus 5.5 模型已被削弱。该项目在 Hacker News 上引发热烈讨论，获得了 756 分和 315 条评论，表明开发者社区对实时渲染技术和音频模型性能变化的高度关注。",
+  "tech_stack": [
+    "Python",
+    "NeRF",
+    "Deep Learning",
+    "Computer Vision",
+    "GitHub"
+  ],
+  "problem_solved": "解决实时神经渲染的性能问题以及追踪 Opus 5.5 模型性能变化",
+  "why_valuable": "为开发者提供了实时 NeRF 实现的参考，同时揭示了 AI 模型版本变化对实际应用的影响",
+  "tags": [
+    "NeRF",
+    "Real-time Rendering",
+    "Deep Learning",
+    "Computer Vision",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:50:25.939010+00:00",
+  "updated_at": "2026-09-30T14:52:37.324902+00:00",
+  "published_to": []
+}

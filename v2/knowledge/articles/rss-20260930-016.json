@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260930-016",
+  "source": "rss",
+  "source_url": "https://america.gov/",
+  "title": "America.gov",
+  "summary": "America.gov is the official U.S. government website serving as a centralized portal for international audiences to access information about American foreign policy, visa requirements, cultural programs, and embassy services worldwide. The site garnered significant Hacker News attention with 680 points and 563 comments, indicating strong community interest in discussing government digital presence and international communication strategies.",
+  "tech_stack": [
+    "Web Platform",
+    "Government Infrastructure",
+    "Content Management System"
+  ],
+  "problem_solved": "Provides a trusted, official channel for disseminating U.S. government information to international audiences in one centralized location.",
+  "why_valuable": "Serves as a critical diplomatic communication tool that bridges cultural and governmental information gaps between the U.S. and global citizens.",
+  "tags": [
+    "Government",
+    "Official Portal",
+    "Diplomacy",
+    "International Relations",
+    "Public Information"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-09-30T14:51:39.540294+00:00",
+  "updated_at": "2026-09-30T14:52:37.325875+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260930-003",
+  "source": "rss",
+  "source_url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+  "title": "Most data centers refusing to say how much water, electricity they use",
+  "summary": "A Dutch news investigation revealing that most data centers in the Netherlands are refusing to disclose their water and electricity consumption, raising concerns about transparency and environmental impact of the rapidly growing data center industry.",
+  "tech_stack": [
+    "Data Center Infrastructure",
+    "Cloud Computing",
+    "Digital Infrastructure"
+  ],
+  "problem_solved": "Highlights the lack of transparency and accountability in the data center industry regarding environmental resource consumption.",
+  "why_valuable": "Exposes a critical gap in corporate transparency that enables the tech industry to avoid scrutiny for its significant environmental footprint, empowering citizens and policymakers to demand change.",
+  "tags": [
+    "Data Centers",
+    "Transparency",
+    "Sustainability",
+    "Environment",
+    "Corporate Accountability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:49:24.961715+00:00",
+  "updated_at": "2026-09-30T14:52:37.315878+00:00",
+  "published_to": []
+}

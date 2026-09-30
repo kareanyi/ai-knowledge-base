@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-006",
+  "source": "rss",
+  "source_url": "https://lfm.xiffy.nl/",
+  "title": "RSS Feeds for Last.fm",
+  "summary": "This is a web-based service that generates customizable RSS feeds for Last.fm users, allowing them to track their music listening history, favorite artists, and recent tracks through any RSS reader instead of relying on Last.fm's native interface.",
+  "tech_stack": [
+    "Last.fm API",
+    "RSS/XML",
+    "Python",
+    "HTML/CSS",
+    "Web Scraping"
+  ],
+  "problem_solved": "Enables Last.fm users to follow music activity via RSS readers when the platform doesn't natively support RSS feeds for user content.",
+  "why_valuable": "Provides a decentralized, platform-independent way to monitor music listening habits and artist updates using standard RSS technology preferred by many users.",
+  "tags": [
+    "RSS",
+    "Last.fm",
+    "Music",
+    "Web Tool",
+    "API Integration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:49:57.262936+00:00",
+  "updated_at": "2026-09-30T14:52:37.324445+00:00",
+  "published_to": []
+}

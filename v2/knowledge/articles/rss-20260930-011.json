@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-011",
+  "source": "rss",
+  "source_url": "https://space.bl2.net/",
+  "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+  "summary": "A real-time 3D solar system simulation featuring 526,000 asteroids and all tracked satellites, built as an interactive web visualization using WebGL/Canvas rendering for educational and astronomical exploration purposes.",
+  "tech_stack": [
+    "WebGL",
+    "JavaScript",
+    "Three.js",
+    "Canvas API",
+    "Real-time Rendering"
+  ],
+  "problem_solved": "Visualizes the vast scale of our solar system with realistic asteroid counts and satellite tracking data in an accessible web browser experience.",
+  "why_valuable": "Makes complex astronomical data accessible and visually engaging, helping users understand the true scale of our solar system with hundreds of thousands of objects.",
+  "tags": [
+    "Space",
+    "Visualization",
+    "WebGL",
+    "Simulation",
+    "Astronomy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-30T14:50:44.874233+00:00",
+  "updated_at": "2026-09-30T14:52:37.325181+00:00",
+  "published_to": []
+}

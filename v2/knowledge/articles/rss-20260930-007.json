@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-007",
+  "source": "rss",
+  "source_url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+  "title": "Floppy Emu Hardware Failure Analysis Results",
+  "summary": "The author documents their systematic investigation into hardware failures occurring in the Floppy Emu, a floppy and CD-ROM emulator for vintage Apple computers. Through detailed diagnostic analysis, they identify the root causes of component failures and share their findings with the maker community.",
+  "tech_stack": [
+    "Hardware Debugging",
+    "Oscilloscope Analysis",
+    "Circuit Analysis",
+    "Electronic Components",
+    "Vintage Computing"
+  ],
+  "problem_solved": "Diagnoses and identifies root causes of recurring hardware failures in the Floppy Emu floppy disk emulator device.",
+  "why_valuable": "Provides valuable insights into systematic hardware failure analysis methodology that can be applied to similar DIY electronics projects and vintage computing hardware maintenance.",
+  "tags": [
+    "Hardware",
+    "Debugging",
+    "Electronics",
+    "VintageComputing",
+    "DIY"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:50:07.385736+00:00",
+  "updated_at": "2026-09-30T14:52:37.324594+00:00",
+  "published_to": []
+}

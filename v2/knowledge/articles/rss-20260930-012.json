@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260930-012",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+  "title": "Vermont replacing power plants with home batteries",
+  "summary": "Vermont is implementing a virtual power plant network composed of thousands of home batteries that can collectively replace traditional power plants and keep the lights on during severe storms, demonstrating a scalable model for decentralized clean energy.",
+  "tech_stack": [
+    "Home Battery Systems",
+    "Virtual Power Plant",
+    "Smart Grid Technology",
+    "Energy Storage"
+  ],
+  "problem_solved": "Addresses power grid instability during extreme weather events by decentralizing energy generation through aggregated home battery networks.",
+  "why_valuable": "It demonstrates how residential battery storage can create a resilient, scalable clean energy grid that reduces dependence on centralized fossil fuel power plants while preventing outages.",
+  "tags": [
+    "Energy",
+    "Sustainability",
+    "Smart Grid",
+    "Renewable Energy",
+    "Home Batteries"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:50:54.790727+00:00",
+  "updated_at": "2026-09-30T14:52:37.325331+00:00",
+  "published_to": []
+}

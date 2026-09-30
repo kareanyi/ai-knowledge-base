@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-013",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-dots/",
+  "title": "Dots: Always-on agents",
+  "summary": "OpenAI introduces Dots, an always-on AI agent system that provides continuous proactive assistance rather than waiting for user prompts. Unlike traditional chatbots that require active engagement, Dots monitors and assists users throughout their day as a persistent digital companion.",
+  "tech_stack": [
+    "GPT-4",
+    "OpenAI API",
+    "Agent Framework",
+    "Persistent Memory Systems",
+    "Background Processing"
+  ],
+  "problem_solved": "Eliminates the friction of reactive AI interactions by enabling AI assistants to work continuously and proactively without constant user initiation.",
+  "why_valuable": "Transforms AI from a demand-based tool into a persistent intelligent assistant that can anticipate needs, monitor information, and take autonomous actions on behalf of users.",
+  "tags": [
+    "AI Agents",
+    "OpenAI",
+    "Personal Assistant",
+    "Automation",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-09-30T14:51:05.276570+00:00",
+  "updated_at": "2026-09-30T14:52:37.325464+00:00",
+  "published_to": []
+}

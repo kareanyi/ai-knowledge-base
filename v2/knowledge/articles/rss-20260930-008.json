@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260930-008",
+  "source": "rss",
+  "source_url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+  "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "summary": "The Nuclear Regulatory Commission (NRC) has issued the first U.S. construction permit for a BWRX-300 small modular reactor (SMR) to the Tennessee Valley Authority for the Clinch River site, marking the first new reactor construction permit in over 50 years and a historic milestone for advanced nuclear technology deployment in America.",
+  "tech_stack": [
+    "BWRX-300 SMR",
+    "GE Hitachi Nuclear Energy",
+    "Nuclear Regulatory Framework",
+    "Boiling Water Reactor Technology"
+  ],
+  "problem_solved": "Enables commercial deployment of next-generation small modular reactors that offer smaller upfront costs, enhanced safety features, and flexible deployment compared to traditional large-scale nuclear plants.",
+  "why_valuable": "This landmark regulatory approval removes a critical barrier to SMR commercialization, potentially accelerating the deployment of carbon-free nuclear energy as a key solution for meeting climate goals and grid reliability needs.",
+  "tags": [
+    "Nuclear Energy",
+    "Small Modular Reactor",
+    "Clean Energy",
+    "Nuclear Regulation",
+    "SMR"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-09-30T14:50:18.633702+00:00",
+  "updated_at": "2026-09-30T14:52:37.324757+00:00",
+  "published_to": []
+}

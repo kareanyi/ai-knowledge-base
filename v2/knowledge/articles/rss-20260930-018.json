@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-018",
+  "source": "rss",
+  "source_url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+  "title": "Backblaze drive stats for Q2 2026",
+  "summary": "Backblaze publishes their quarterly hard drive reliability statistics for Q2 2026, analyzing failure rates across their massive data center fleet containing tens of thousands of drives from various manufacturers like Seagate, WD, and Toshiba.",
+  "tech_stack": [
+    "Linux",
+    "Python",
+    "Bash",
+    "Cloud Storage Infrastructure",
+    "Data Analysis"
+  ],
+  "problem_solved": "Provides real-world hard drive failure rate data to help consumers and businesses make informed decisions about which drive brands and models to purchase for reliability and cost-effectiveness.",
+  "why_valuable": "Backblaze operates one of the largest publicly analyzed hard drive fleets in the world, offering statistically significant reliability data that would otherwise be impossible for individual users or businesses to gather.",
+  "tags": [
+    "Hardware",
+    "Storage",
+    "Data Centers",
+    "Reliability Engineering",
+    "Cloud Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-09-30T14:52:08.032572+00:00",
+  "updated_at": "2026-09-30T14:52:37.326130+00:00",
+  "published_to": []
+}
