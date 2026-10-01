@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-020",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/bloomberg-terminal",
+  "title": "A brief history of the Bloomberg terminal",
+  "summary": "This article traces the history and evolution of the Bloomberg terminal, the iconic financial data and trading platform that revolutionized how Wall Street professionals access market information. It explores how Michael Bloomberg's invention transformed the financial services industry by providing real-time data, analytics, and communication tools in an integrated system.",
+  "tech_stack": [
+    "Proprietary Terminal Software",
+    "Financial Data Infrastructure",
+    "Real-time Data Processing",
+    "Network Architecture",
+    "Legacy Systems"
+  ],
+  "problem_solved": "Solved the problem of slow, fragmented financial information distribution by providing instant, unified access to market data, news, and trading capabilities.",
+  "why_valuable": "Understanding Bloomberg's history offers insights into how a single product can dominate an entire industry for decades through continuous innovation and deep customer integration.",
+  "tags": [
+    "Finance",
+    "Bloomberg",
+    "Business History",
+    "Financial Technology",
+    "Innovation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:22:00.863160+00:00",
+  "updated_at": "2026-10-01T15:22:02.335909+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-016",
+  "source": "rss",
+  "source_url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+  "title": "Before pixels: Modular industrial dashboards",
+  "summary": "This article explores the history of modular industrial control panels and dashboards that existed before digital pixel-based displays became prevalent. It examines the design principles, functionality, and evolution of analog industrial control systems used in factories and industrial settings throughout the 20th century.",
+  "tech_stack": [
+    "Analog instrumentation",
+    "Modular control systems",
+    "Industrial design",
+    "Control panel engineering",
+    "Physical interfaces"
+  ],
+  "problem_solved": "Documents the design principles and historical evolution of industrial dashboards before digital displays, preserving knowledge of early human-machine interface design.",
+  "why_valuable": "Provides valuable historical context for understanding the origins of modern dashboard and interface design, showing that modular, functional design principles predate digital technology.",
+  "tags": [
+    "Industrial design",
+    "History",
+    "Dashboard",
+    "Control systems",
+    "Analog"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:21:17.145011+00:00",
+  "updated_at": "2026-10-01T15:22:02.335103+00:00",
+  "published_to": []
+}

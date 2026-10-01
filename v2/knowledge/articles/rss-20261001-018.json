@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-018",
+  "source": "rss",
+  "source_url": "https://www.chompiclub.com/opensource",
+  "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "summary": "CHOMPI is a portable sampler instrument that has been made fully open-source, releasing both hardware designs (PCB schematics, enclosure files) and software code, allowing musicians, makers, and developers to build, modify, and customize their own sampling devices.",
+  "tech_stack": [
+    "Embedded C/C++",
+    "PCB Design",
+    "Arduino",
+    "Audio Processing",
+    "Web Technologies"
+  ],
+  "problem_solved": "Democratizes music production hardware by making portable sampler technology freely available for anyone to build or modify.",
+  "why_valuable": "Enables the maker community and musicians to have full control over their music production tools without proprietary restrictions, fostering innovation in portable audio hardware.",
+  "tags": [
+    "open-source",
+    "hardware",
+    "music",
+    "sampler",
+    "embedded"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:21:35.637560+00:00",
+  "updated_at": "2026-10-01T15:22:02.335504+00:00",
+  "published_to": []
+}

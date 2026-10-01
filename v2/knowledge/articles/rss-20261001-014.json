@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-014",
+  "source": "rss",
+  "source_url": "https://www.mattkeeter.com/projects/halfspace/",
+  "title": "Halfspace experimental IDE for solid modeling with distance fields",
+  "summary": "Matt Keeter 开发的一个实验性 IDE，专注于使用距离场（Distance Fields）技术进行实体建模（SDF 建模），这是一种区别于传统多边形网格的 3D 表示方法。",
+  "tech_stack": [
+    "WebGL",
+    "GLSL",
+    "Python",
+    "C++",
+    "Rust"
+  ],
+  "problem_solved": "解决传统实体建模中布尔运算复杂、精度损失以及复杂几何表达困难的问题。",
+  "why_valuable": "距离场方法可以精确表达复杂几何体，实现无损的布尔运算和光滑混合，适合参数化设计和程序化建模。",
+  "tags": [
+    "3D-Modeling",
+    "Distance-Field",
+    "SDF",
+    "CAD",
+    "IDE"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-01T15:20:48.754107+00:00",
+  "updated_at": "2026-10-01T15:22:02.334640+00:00",
+  "published_to": []
+}

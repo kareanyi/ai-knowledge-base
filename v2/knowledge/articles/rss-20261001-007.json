@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261001-007",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+  "title": "Returning from vacation? The government can search your phone without a warrant",
+  "summary": "An immigration advocate has filed a lawsuit against border agents who demanded access to his cell phone upon returning from international travel, challenging the legal precedent that allows warrantless device searches at US borders. The case highlights growing concerns about digital privacy rights and the Fourth Amendment in an era where smartphones contain vast amounts of personal data.",
+  "tech_stack": [
+    "Smartphones",
+    "Digital devices",
+    "Mobile technology"
+  ],
+  "problem_solved": "Addresses the legal question of whether government agents should be allowed to search travelers' cell phones without a warrant at international borders.",
+  "why_valuable": "Raises critical awareness about digital privacy rights and civil liberties in the context of advancing technology that has made personal devices repositories of comprehensive personal information.",
+  "tags": [
+    "Privacy",
+    "Digital Rights",
+    "Law",
+    "Civil Liberties",
+    "Border Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:19:31.014465+00:00",
+  "updated_at": "2026-10-01T15:22:02.333302+00:00",
+  "published_to": []
+}

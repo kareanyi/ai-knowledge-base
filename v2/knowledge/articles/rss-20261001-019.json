@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-019",
+  "source": "rss",
+  "source_url": "https://github.com/magnitudedev/magnitude",
+  "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+  "summary": "Magnitude is a YC S25-backed self-optimizing inference engine for AI agents that automatically adapts to run optimally on any hardware across Mac, Linux, and Windows, achieving up to 2x speed improvement over llama.cpp. Built by the creators of a popular open-source browser agent with 4k+ GitHub stars, it addresses the gap in inference solutions for local model deployment in agentic workflows.",
+  "tech_stack": [
+    "C++",
+    "Python",
+    "CUDA",
+    "Metal",
+    "Vulkan"
+  ],
+  "problem_solved": "Provides a self-optimizing inference engine that automatically maximizes performance across diverse hardware configurations for running local AI agents, solving the compatibility and optimization challenges faced by existing solutions like llama.cpp.",
+  "why_valuable": "Eliminates the need for manual hardware-specific tuning by automatically optimizing inference performance, enabling developers to efficiently run agent workloads on local models across any hardware setup with up to 2x faster execution than existing alternatives.",
+  "tags": [
+    "inference-engine",
+    "AI-agents",
+    "local-models",
+    "performance-optimization",
+    "YC-S25"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-01T15:21:48.995907+00:00",
+  "updated_at": "2026-10-01T15:22:02.335712+00:00",
+  "published_to": []
+}

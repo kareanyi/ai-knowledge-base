@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-009",
+  "source": "rss",
+  "source_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+  "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+  "summary": "OpenAI and Synopsys announced a collaboration to integrate GPT-based AI capabilities into Synopsys's electronic design automation (EDA) tools, aiming to revolutionize semiconductor chip design through frontier intelligence. This partnership combines OpenAI's large language model technology with Synopsys's dominant position in the EDA market to bring AI-powered automation to chip architects and engineers.",
+  "tech_stack": [
+    "OpenAI GPT",
+    "Synopsys EDA",
+    "AI/ML",
+    "Semiconductor Design Tools",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Accelerates and automates the complex, time-consuming process of semiconductor chip design by leveraging AI to assist engineers with synthesis, verification, and optimization tasks.",
+  "why_valuable": "This integration could dramatically reduce chip design cycles and costs while enabling more sophisticated semiconductor innovations, potentially democratizing access to advanced chip design capabilities.",
+  "tags": [
+    "AI",
+    "Semiconductors",
+    "EDA",
+    "Chip Design",
+    "OpenAI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-01T15:19:53.655906+00:00",
+  "updated_at": "2026-10-01T15:22:02.333689+00:00",
+  "published_to": []
+}

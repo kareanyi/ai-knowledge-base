@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-017",
+  "source": "rss",
+  "source_url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+  "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+  "summary": "Netlify announced a 5x performance improvement in their Edge Functions by migrating from V8 isolates to Firecracker MicroVMs, leveraging AWS's open-source virtualization technology for better isolation and faster cold start times at the edge.",
+  "tech_stack": [
+    "Firecracker MicroVMs",
+    "V8 Isolates",
+    "Edge Functions",
+    "WebAssembly",
+    "Rust"
+  ],
+  "problem_solved": "Addresses slow cold start times and limited isolation in serverless edge function execution environments.",
+  "why_valuable": "Enables developers to run edge functions with near-native performance while maintaining strong security isolation, significantly improving user experience for globally distributed applications.",
+  "tags": [
+    "Edge Computing",
+    "Serverless",
+    "Firecracker",
+    "Performance",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-01T15:21:25.567462+00:00",
+  "updated_at": "2026-10-01T15:22:02.335308+00:00",
+  "published_to": []
+}

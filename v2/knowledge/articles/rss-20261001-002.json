@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261001-002",
+  "source": "rss",
+  "source_url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+  "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+  "summary": "This Financial Times opinion piece critiques the concept of an AI sovereign wealth fund, arguing that instead of being progressive, it represents a form of techno-imperialism where powerful nations or entities could control and monetize AI infrastructure at the expense of developing countries.",
+  "tech_stack": [
+    "AI/ML",
+    "Digital Infrastructure",
+    "Cloud Computing"
+  ],
+  "problem_solved": "The article critiques rather than solves a problem - it raises concerns about power concentration and digital colonialism in AI governance.",
+  "why_valuable": "It provides critical perspective on the geopolitical implications of AI policy proposals, warning against techno-colonialism disguised as progressive policy.",
+  "tags": [
+    "AI Policy",
+    "Techno-imperialism",
+    "Digital Colonialism",
+    "Geopolitics",
+    "Tech Ethics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:18:30.658821+00:00",
+  "updated_at": "2026-10-01T15:22:02.324209+00:00",
+  "published_to": []
+}

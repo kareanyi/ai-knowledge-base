@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-008",
+  "source": "rss",
+  "source_url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+  "title": "StreetComplete on iOS is now in public beta",
+  "summary": "StreetComplete, a popular OpenStreetMap crowdsourcing app, has launched its iOS public beta, allowing iPhone users to contribute to open-source mapping by answering location-based questions about their surroundings, expanding its accessibility beyond Android.",
+  "tech_stack": [
+    "Kotlin",
+    "Swift",
+    "OpenStreetMap API",
+    "Android",
+    "iOS"
+  ],
+  "problem_solved": "Enables iOS users to easily contribute accurate geographic data to OpenStreetMap by answering simple questions about nearby places.",
+  "why_valuable": "Expands the contributor base for OpenStreetMap to iOS users, improving global open-source mapping data quality and coverage.",
+  "tags": [
+    "OpenStreetMap",
+    "iOS",
+    "Mobile App",
+    "Crowdsourcing",
+    "Mapping"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-01T15:19:42.101378+00:00",
+  "updated_at": "2026-10-01T15:22:02.333490+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-011",
+  "source": "rss",
+  "source_url": "https://56k.rip/",
+  "title": "56k.rip – the 1996 dial-up internet experience",
+  "summary": "56k.rip is a nostalgic web project that faithfully recreates the authentic dial-up internet experience from 1996, complete with realistic modem connection sounds, slow loading times, and classic retro web design elements that transport visitors back to the early days of the web.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Web Audio API",
+    "Baud Rate Simulation"
+  ],
+  "problem_solved": "Preserves and shares the authentic feeling of 1990s dial-up internet for those who miss it or want to experience vintage internet culture.",
+  "why_valuable": "It serves as a digital time capsule and educational tool, helping people understand and appreciate how far internet technology has evolved while evoking nostalgia for the early web era.",
+  "tags": [
+    "retro",
+    "nostalgia",
+    "dial-up",
+    "90s-internet",
+    "web-history"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:20:17.690452+00:00",
+  "updated_at": "2026-10-01T15:22:02.334047+00:00",
+  "published_to": []
+}

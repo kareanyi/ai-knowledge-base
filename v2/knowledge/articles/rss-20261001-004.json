@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261001-004",
+  "source": "rss",
+  "source_url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+  "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+  "summary": "Google has broken its promise to provide 10 years of automatic software updates to Chromebooks, a commitment that was a major selling point for these devices. This policy change affects consumers who purchased Chromebooks based on this extended support promise.",
+  "tech_stack": [],
+  "problem_solved": "No problem solved; this is a news article reporting on Google's broken promise regarding Chromebook update policies.",
+  "why_valuable": "Raises awareness about corporate commitments and consumer rights in the tech industry.",
+  "tags": [
+    "News",
+    "Google",
+    "Chromebook",
+    "Tech Policy",
+    "Consumer Rights"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-10-01T15:18:59.712908+00:00",
+  "updated_at": "2026-10-01T15:22:02.332702+00:00",
+  "published_to": []
+}

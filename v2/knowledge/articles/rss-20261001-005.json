@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-005",
+  "source": "rss",
+  "source_url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+  "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+  "summary": "Micron CEO forecasts that memory supply will be significantly tighter in 2027 and 2028 compared to 2026, driven by surging AI demand for HBM memory and limited new manufacturing capacity coming online. This supply constraint outlook has implications for pricing and availability across the semiconductor industry.",
+  "tech_stack": [
+    "HBM Memory",
+    "DRAM",
+    "NAND Flash",
+    "Semiconductor Manufacturing",
+    "AI Hardware"
+  ],
+  "problem_solved": "Provides market intelligence on upcoming memory supply constraints to help businesses plan for procurement and pricing.",
+  "why_valuable": "Enables downstream manufacturers and tech companies to anticipate memory shortages and adjust procurement strategies ahead of time.",
+  "tags": [
+    "Semiconductor",
+    "Memory",
+    "Supply Chain",
+    "AI",
+    "Market Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:19:09.545983+00:00",
+  "updated_at": "2026-10-01T15:22:02.332942+00:00",
+  "published_to": []
+}

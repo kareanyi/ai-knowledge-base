@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261001-001",
+  "source": "rss",
+  "source_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+  "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+  "summary": "This NY Times investigative article reveals how Meta structures its AI data center investments to minimize federal tax obligations, leveraging depreciation rules and tax incentives designed for capital infrastructure. The report examines the broader pattern of large technology companies using strategic capital expenditure timing and accounting methods to reduce their tax burdens significantly.",
+  "tech_stack": [
+    "AI Infrastructure",
+    "Data Centers",
+    "Cloud Computing"
+  ],
+  "problem_solved": "Exposes how major technology companies legally minimize federal tax obligations through strategic infrastructure investments.",
+  "why_valuable": "This investigative piece highlights important questions about corporate tax fairness and whether existing tax frameworks adequately address modern tech company structures in the AI era.",
+  "tags": [
+    "Big Tech",
+    "Tax Policy",
+    "AI Infrastructure",
+    "Corporate Finance",
+    "Regulation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-01T15:18:14.259630+00:00",
+  "updated_at": "2026-10-01T15:22:02.323935+00:00",
+  "published_to": []
+}
