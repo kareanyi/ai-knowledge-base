@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261002-010",
+  "source": "rss",
+  "source_url": "https://www.frogandtoad.ai/",
+  "title": "Frog and Toad and the Increasingly Capable Machines",
+  "summary": "This article draws creative parallels between the beloved children's book series 'Frog and Toad' and the rapidly evolving landscape of AI and machine capabilities, exploring how stories about friendship and growth can illuminate our understanding of increasingly sophisticated AI systems.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Language Models"
+  ],
+  "problem_solved": "Makes abstract AI progress concepts more relatable and accessible through familiar storytelling metaphors.",
+  "why_valuable": "Provides an engaging, accessible framework for understanding AI capability advancement using culturally resonant narratives.",
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Technology",
+    "Storytelling",
+    "Innovation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:40:25.247854+00:00",
+  "updated_at": "2026-10-02T14:42:18.412785+00:00",
+  "published_to": []
+}

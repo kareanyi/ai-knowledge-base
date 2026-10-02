@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-004",
+  "source": "rss",
+  "source_url": "https://github.com/kvoltmer/Audionaut",
+  "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+  "summary": "Audionaut is an open-source, cross-platform multitrack audio editor that provides free audio recording, editing, and mixing capabilities. Built as a modern alternative to expensive commercial DAWs, it aims to make professional audio production accessible to everyone.",
+  "tech_stack": [
+    "Electron",
+    "Web Audio API",
+    "TypeScript",
+    "React",
+    "Node.js"
+  ],
+  "problem_solved": "Provides a free, open-source alternative to expensive proprietary multitrack audio editing software like Pro Tools or Logic Pro.",
+  "why_valuable": "Democratizes audio production by offering cross-platform compatibility and source accessibility without licensing costs, enabling musicians and creators to work with professional-grade tools.",
+  "tags": [
+    "audio-editor",
+    "open-source",
+    "cross-platform",
+    "multitrack",
+    "DAW"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:39:11.996531+00:00",
+  "updated_at": "2026-10-02T14:42:18.411596+00:00",
+  "published_to": []
+}

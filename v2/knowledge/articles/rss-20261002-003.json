@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261002-003",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+  "title": "Memory executives expect RAM shortage to continue through 2028",
+  "summary": "Memory industry executives, led by Micron's CEO, are predicting that RAM and memory shortages will persist through 2028, with supplies continuing to tighten. The article discusses the outlook for DRAM and NAND flash memory availability amid growing demand from AI and data center applications.",
+  "tech_stack": [
+    "Semiconductor Manufacturing",
+    "DRAM",
+    "NAND Flash",
+    "Hardware Supply Chain"
+  ],
+  "problem_solved": "Reports on the anticipated memory supply crunch affecting the technology industry through 2028.",
+  "why_valuable": "Provides crucial market intelligence for businesses and consumers planning hardware purchases or investments in the semiconductor sector.",
+  "tags": [
+    "Hardware",
+    "Semiconductor",
+    "Supply Chain",
+    "Memory",
+    "Industry News"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-02T14:39:00.976317+00:00",
+  "updated_at": "2026-10-02T14:42:18.398793+00:00",
+  "published_to": []
+}

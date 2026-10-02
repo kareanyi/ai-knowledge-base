@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-008",
+  "source": "rss",
+  "source_url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+  "title": "Butterflies use optical illusions to dodge predators",
+  "summary": "University of Essex researchers discovered that butterflies employ optical illusions, specifically motion dazzle camouflage, to confuse predators and improve their survival odds when evading attacks. The study reveals how these insects have evolved sophisticated visual deception strategies as a natural defense mechanism.",
+  "tech_stack": [
+    "Biology",
+    "Computer Vision",
+    "Motion Detection",
+    "Optics",
+    "Research Methodology"
+  ],
+  "problem_solved": "Explains the evolutionary mechanism by which butterflies use visual deception to evade predators through motion-based optical illusions.",
+  "why_valuable": "This research deepens our understanding of natural camouflage strategies and could inspire artificial systems that leverage similar optical illusion principles for applications in robotics, security, or materials science.",
+  "tags": [
+    "Biology",
+    "Nature",
+    "Optics",
+    "Animal Behavior",
+    "Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:40:01.266646+00:00",
+  "updated_at": "2026-10-02T14:42:18.412424+00:00",
+  "published_to": []
+}

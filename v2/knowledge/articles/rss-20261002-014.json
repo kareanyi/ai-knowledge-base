@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-014",
+  "source": "rss",
+  "source_url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+  "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+  "summary": "This is an academic research study from Northeastern University investigating data collection and privacy practices of connected vehicles, examining what personal information modern cars transmit and how that data is handled by manufacturers and third parties.",
+  "tech_stack": [
+    "Research Methodology",
+    "Data Analysis",
+    "Connected Vehicle Technology",
+    "Privacy Analysis",
+    "Academic Research"
+  ],
+  "problem_solved": "Reveals and documents the extent of data collection by modern connected vehicles, addressing the information asymmetry between car manufacturers and consumers regarding privacy.",
+  "why_valuable": "As vehicles become increasingly computerized and connected, understanding the privacy implications helps consumers make informed decisions and pressures the automotive industry toward better data practices.",
+  "tags": [
+    "Connected Vehicles",
+    "Data Privacy",
+    "IoT Security",
+    "Automotive Tech",
+    "Research Study"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-02T14:41:06.400849+00:00",
+  "updated_at": "2026-10-02T14:42:18.413457+00:00",
+  "published_to": []
+}

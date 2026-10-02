@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-015",
+  "source": "rss",
+  "source_url": "https://svelte.dev/blog/sveltekit-3-is-here",
+  "title": "SvelteKit 3",
+  "summary": "SvelteKit 3 is a major release of the popular Svelte web application framework, bringing significant updates aligned with Svelte 5's new runes API and improvements to the full-stack development experience.",
+  "tech_stack": [
+    "Svelte",
+    "SvelteKit",
+    "TypeScript",
+    "Vite",
+    "Node.js"
+  ],
+  "problem_solved": "Provides an updated, more powerful framework for building modern web applications with improved reactivity and developer experience.",
+  "why_valuable": "SvelteKit 3 represents a major step forward for the Svelte ecosystem, offering tighter integration with Svelte 5's runes-based reactivity system.",
+  "tags": [
+    "JavaScript",
+    "Framework",
+    "Web Development",
+    "Svelte",
+    "Full-stack"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-02T14:41:18.480846+00:00",
+  "updated_at": "2026-10-02T14:42:18.413614+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261002-011",
+  "source": "rss",
+  "source_url": "https://www.cssbed.com",
+  "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+  "summary": "CSS Bed is a curated collection of classless CSS themes that provide minimal, ready-to-use styling for semantic HTML. It allows developers to quickly prototype or build websites by selecting from multiple pre-built design themes without adding class names to HTML elements.",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "Semantic HTML"
+  ],
+  "problem_solved": "Eliminates the need to write CSS from scratch by providing multiple classless theme options that work with plain semantic HTML.",
+  "why_valuable": "Accelerates web development workflow by offering instant design starting points while maintaining semantic HTML structure and clean code practices.",
+  "tags": [
+    "CSS",
+    "Web Development",
+    "Frontend",
+    "Classless CSS",
+    "Themes"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:40:35.772959+00:00",
+  "updated_at": "2026-10-02T14:42:18.412954+00:00",
+  "published_to": []
+}

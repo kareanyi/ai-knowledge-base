@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261002-016",
+  "source": "rss",
+  "source_url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+  "title": "ArXiv's Updated Rate Limit Policy",
+  "summary": "ArXiv announced updates to their rate limit policy, likely tightening API access controls to manage server load and ensure fair usage across the research community. The policy change received significant attention from the developer and research community on Hacker News.",
+  "tech_stack": [
+    "API",
+    "Web Infrastructure",
+    "Cloud Services"
+  ],
+  "problem_solved": "Addresses excessive API usage and server resource management to prevent abuse while maintaining service availability for legitimate researchers.",
+  "why_valuable": "Fair rate limiting ensures ArXiv remains accessible to the broader academic community while protecting infrastructure from overload.",
+  "tags": [
+    "Research",
+    "Open Access",
+    "API",
+    "Policy",
+    "Academic"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-02T14:41:28.076696+00:00",
+  "updated_at": "2026-10-02T14:42:18.413769+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-006",
+  "source": "rss",
+  "source_url": "https://www.deepseek.com/en/harness/",
+  "title": "DeepSeek Harness Desktop for macOS and Windows",
+  "summary": "DeepSeek has released native desktop applications for macOS and Windows, bringing their AI assistant to desktop platforms with a dedicated application experience beyond the web interface.",
+  "tech_stack": [
+    "DeepSeek LLM",
+    "Desktop Application",
+    "Cross-platform",
+    "macOS",
+    "Windows"
+  ],
+  "problem_solved": "Provides a native desktop experience for accessing DeepSeek's AI assistant with better performance and system integration compared to web browsers.",
+  "why_valuable": "Desktop applications offer improved stability, faster access, system tray functionality, and potentially better resource management for AI interactions.",
+  "tags": [
+    "AI Assistant",
+    "Desktop App",
+    "DeepSeek",
+    "LLM",
+    "Cross-platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:39:33.713366+00:00",
+  "updated_at": "2026-10-02T14:42:18.412080+00:00",
+  "published_to": []
+}

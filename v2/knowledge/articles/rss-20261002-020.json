@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261002-020",
+  "source": "rss",
+  "source_url": "https://stoppels.ch/goalposts/",
+  "title": "Vote on which of Hacker News' challenges for AI have been met",
+  "summary": "A community-driven voting tool that allows people to evaluate whether specific AI challenges and goals previously proposed on Hacker News have actually been met by current AI systems. The tool provides a way to track AI progress against historical predictions.",
+  "tech_stack": [
+    "Web Application",
+    "Voting System",
+    "Community Platform"
+  ],
+  "problem_solved": "Tracks whether AI has fulfilled the challenges and predictions set by the Hacker News community over time.",
+  "why_valuable": "Provides historical accountability for AI predictions, helping the community understand whether AI hype matches actual progress.",
+  "tags": [
+    "AI",
+    "Community",
+    "Predictions",
+    "Evaluation",
+    "Progress-tracking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:42:17.540835+00:00",
+  "updated_at": "2026-10-02T14:42:18.414380+00:00",
+  "published_to": []
+}

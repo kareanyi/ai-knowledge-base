@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-001",
+  "source": "rss",
+  "source_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+  "title": "Don't be fooled–LLMs don't reason",
+  "summary": "This MIT Technology Review article critically examines whether Large Language Models genuinely 'reason' or merely perform sophisticated pattern matching and statistical prediction. The piece challenges popular narratives about AI capabilities, suggesting that what appears as reasoning is actually complex token prediction based on training data patterns.",
+  "tech_stack": [
+    "LLM",
+    "Deep Learning",
+    "Neural Networks",
+    "Transformer",
+    "NLP"
+  ],
+  "problem_solved": "Addresses the widespread misconception that LLMs possess genuine reasoning capabilities comparable to human cognition.",
+  "why_valuable": "Provides critical analysis that helps prevent overestimation of AI capabilities, which is essential for informed deployment and policy decisions around AI systems.",
+  "tags": [
+    "AI-Criticism",
+    "LLM",
+    "Reasoning",
+    "Machine-Learning",
+    "AI-Capabilities"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:38:26.706823+00:00",
+  "updated_at": "2026-10-02T14:42:18.398211+00:00",
+  "published_to": []
+}

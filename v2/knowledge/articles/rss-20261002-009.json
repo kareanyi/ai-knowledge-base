@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261002-009",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1097401/",
+  "title": "Several vulnerabilities have been discovered in the Linux kernel",
+  "summary": "LWN.net报道了在Linux内核中发现的多个安全漏洞，这些漏洞可能影响系统的安全性和稳定性，需要内核开发者和系统管理员及时关注和修复。",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "GNU/Linux"
+  ],
+  "problem_solved": "披露了Linux内核中的多个安全漏洞，可能导致权限提升、拒绝服务或信息泄露等问题。",
+  "why_valuable": "为Linux系统管理员和安全研究人员提供关键的安全信息，帮助他们及时修补漏洞并保护系统安全。",
+  "tags": [
+    "Security",
+    "Linux Kernel",
+    "Vulnerability",
+    "Patch",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:40:13.171438+00:00",
+  "updated_at": "2026-10-02T14:42:18.412614+00:00",
+  "published_to": []
+}

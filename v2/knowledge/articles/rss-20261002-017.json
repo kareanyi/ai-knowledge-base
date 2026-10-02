@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261002-017",
+  "source": "rss",
+  "source_url": "https://earendil.com/posts/pi-1-0/",
+  "title": "Pi 1.0",
+  "summary": "Pi 1.0 是由独立开发者 earendil 发布的一个项目，发布后在 Hacker News 上获得了 1523 点高分和 498 条评论，引发了技术社区的广泛讨论和关注。",
+  "tech_stack": [
+    "Unknown"
+  ],
+  "problem_solved": "由于内容信息有限，具体解决的问题无法确定，但从高热度推测可能是一个提升开发者效率或解决特定技术痛点的工具。",
+  "why_valuable": "获得超过 1500 点支持和近 500 条讨论说明该项目解决了真实的技术需求或提供了创新价值。",
+  "tags": [
+    "Developer-Tools",
+    "Open-Source",
+    "Release",
+    "Indie-Project"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:41:39.727438+00:00",
+  "updated_at": "2026-10-02T14:42:18.413921+00:00",
+  "published_to": []
+}

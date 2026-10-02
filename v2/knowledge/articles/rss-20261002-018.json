@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-018",
+  "source": "rss",
+  "source_url": "https://earendil.com/posts/pi-durable/",
+  "title": "Pi Durable",
+  "summary": "An article discussing techniques and best practices for making Raspberry Pi deployments more durable and reliable for long-term or permanent installations. The author likely shares practical insights on hardware protection, power management, and software stability for embedded applications.",
+  "tech_stack": [
+    "Raspberry Pi",
+    "Linux",
+    "Bash",
+    "Embedded Systems",
+    "Hardware"
+  ],
+  "problem_solved": "Addresses the challenge of making single-board computer deployments reliable and long-lasting for 24/7 operation in embedded or permanent installations.",
+  "why_valuable": "Raspberry Pis are widely used in DIY projects and IoT applications where durability is critical, and this guide helps prevent common failure points like SD card corruption and power issues.",
+  "tags": [
+    "Raspberry Pi",
+    "Embedded Systems",
+    "Hardware",
+    "DIY",
+    "IoT"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:41:51.819241+00:00",
+  "updated_at": "2026-10-02T14:42:18.414073+00:00",
+  "published_to": []
+}

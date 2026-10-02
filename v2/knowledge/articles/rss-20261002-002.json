@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-002",
+  "source": "rss",
+  "source_url": "https://gwern.net/doc/math/1973-halmos.pdf",
+  "title": "The Legend of von Neumann [pdf]",
+  "summary": "A historical essay by Paul Halmos exploring the legendary reputation and remarkable intellectual capabilities of John von Neumann, one of the most influential mathematicians of the 20th century, examining his contributions across multiple fields and the folklore surrounding his extraordinary mind.",
+  "tech_stack": [
+    "Mathematics",
+    "Computer Science",
+    "Game Theory",
+    "Quantum Mechanics",
+    "Set Theory"
+  ],
+  "problem_solved": "Preserves and discusses the legendary anecdotes and intellectual legacy of von Neumann through the perspective of a fellow mathematician and colleague.",
+  "why_valuable": "Provides firsthand insight into one of history's greatest mathematical minds from someone who knew him personally, capturing both technical achievements and humanizing stories.",
+  "tags": [
+    "Mathematics",
+    "History",
+    "Von Neumann",
+    "Paul Halmos",
+    "Computer Science"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-02T14:38:52.148667+00:00",
+  "updated_at": "2026-10-02T14:42:18.398605+00:00",
+  "published_to": []
+}

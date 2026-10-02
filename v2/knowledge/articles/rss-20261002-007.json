@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261002-007",
+  "source": "rss",
+  "source_url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+  "title": "How Singapore's government-run dating service works",
+  "summary": "This article explores Singapore's government-run dating service called First Date, established to address the nation's critically low birth rate and declining marriage rates. The service uses a questionnaire-based matching system where participants fill out detailed forms about their preferences, values, and lifestyle, then are matched with compatible partners for subsidized first dates organized by the government.",
+  "tech_stack": [
+    "Survey/Questionnaire System",
+    "Government Database",
+    "Matchmaking Algorithm"
+  ],
+  "problem_solved": "Singapore's extremely low fertility rate (0.8) and declining marriage rates threaten the country's demographic sustainability",
+  "why_valuable": "It demonstrates how governments can intervene in personal life to address national demographic crises through structured matchmaking programs",
+  "tags": [
+    "government-policy",
+    "social-program",
+    "demographics",
+    "matchmaking",
+    "singapore"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-02T14:39:48.539722+00:00",
+  "updated_at": "2026-10-02T14:42:18.412249+00:00",
+  "published_to": []
+}
