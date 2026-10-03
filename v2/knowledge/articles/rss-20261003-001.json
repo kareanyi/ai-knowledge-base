@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-001",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+  "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+  "summary": "Great Question, a Y Combinator W21 startup, is hiring a Product Engineer with AI and Full Stack focus for a remote position based in Canada. The company appears to be a product development firm seeking talent to build AI-powered features.",
+  "tech_stack": [
+    "AI",
+    "Python",
+    "TypeScript",
+    "React",
+    "PostgreSQL"
+  ],
+  "problem_solved": "Connects YC-backed startup with skilled Product Engineers in Canada to build AI-enhanced products remotely.",
+  "why_valuable": "Offers an opportunity to work at a YC-backed startup with equity potential, combining AI development and full-stack product engineering in a remote-friendly environment.",
+  "tags": [
+    "Y Combinator",
+    "Remote Work",
+    "Product Engineer",
+    "AI",
+    "Hiring"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-03T13:13:19.253867+00:00",
+  "updated_at": "2026-10-03T13:16:47.322591+00:00",
+  "published_to": []
+}

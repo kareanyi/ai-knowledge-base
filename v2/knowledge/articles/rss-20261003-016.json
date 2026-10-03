@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-016",
+  "source": "rss",
+  "source_url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+  "title": "The Forgetful CPU (Linux on M4)",
+  "summary": "A technical blog post exploring the challenges of running Linux on Apple M4 Silicon, specifically addressing memory management quirks where the CPU exhibits 'forgetful' behavior, likely related to cache coherency or memory handling issues unique to Apple's custom ARM architecture.",
+  "tech_stack": [
+    "Linux",
+    "Apple Silicon",
+    "ARM",
+    "M4",
+    "Low-level Systems"
+  ],
+  "problem_solved": "Documents and troubleshoots the unique challenges of getting Linux to run properly on Apple's M4 chip, particularly around memory handling and CPU behavior.",
+  "why_valuable": "Provides valuable insights for developers and enthusiasts working on Linux/Apple Silicon compatibility, filling a gap in documentation for this niche but growing use case.",
+  "tags": [
+    "Linux",
+    "AppleSilicon",
+    "ARM",
+    "Hardware",
+    "LowLevel"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-03T13:16:01.349414+00:00",
+  "updated_at": "2026-10-03T13:16:47.333697+00:00",
+  "published_to": []
+}

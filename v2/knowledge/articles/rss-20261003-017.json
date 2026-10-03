@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-017",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+  "title": "With most information hidden, the game Stratego had stumped AI until now",
+  "summary": "Researchers developed an AI system using deep reinforcement learning and game-theoretic reasoning that finally mastered the board game Stratego, which has remained challenging for AI due to its heavily hidden information structure where players cannot see each other's pieces. The AI defeated the world's top-ranked Stratego player after previous systems like DeepBlue-style approaches failed due to the game's massive state space and imperfect information.",
+  "tech_stack": [
+    "Deep Reinforcement Learning",
+    "Neural Networks",
+    "Game Theory",
+    "Mont Carlo Tree Search",
+    "Python"
+  ],
+  "problem_solved": "Solving imperfect information games where most game state is hidden, which traditional AI approaches like those used in chess cannot handle effectively.",
+  "why_valuable": "This breakthrough demonstrates that AI can handle real-world decision-making scenarios with hidden information, moving beyond perfect-information games like chess and Go to more complex strategic reasoning.",
+  "tags": [
+    "DeepMind",
+    "Reinforcement Learning",
+    "Game AI",
+    "Imperfect Information",
+    "Stratego"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-03T13:16:11.170642+00:00",
+  "updated_at": "2026-10-03T13:16:47.333899+00:00",
+  "published_to": []
+}

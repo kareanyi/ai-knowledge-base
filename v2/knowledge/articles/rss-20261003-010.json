@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-010",
+  "source": "rss",
+  "source_url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+  "title": "Make Tmux the OS",
+  "summary": "This article explores the concept of using Tmux (a terminal multiplexer) as the primary user interface for a minimalist, keyboard-driven operating system experience, detailing the author's dream OS configuration.",
+  "tech_stack": [
+    "Tmux",
+    "Bash",
+    "Linux",
+    "Terminal",
+    "Zellij"
+  ],
+  "problem_solved": "Provides an alternative to traditional GUI-heavy operating systems for power users seeking a distraction-free, highly efficient terminal-centric workflow.",
+  "why_valuable": "Offers practical insights for developers and sysadmins looking to maximize productivity through a fully customizable, keyboard-driven computing environment.",
+  "tags": [
+    "Tmux",
+    "Terminal",
+    "Productivity",
+    "Linux",
+    "CLI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:14:53.467804+00:00",
+  "updated_at": "2026-10-03T13:16:47.332457+00:00",
+  "published_to": []
+}

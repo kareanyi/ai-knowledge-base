@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-009",
+  "source": "rss",
+  "source_url": "https://developer.apple.com/news/?id=p6zjojqw",
+  "title": "Updates to Full Disk Access in macOS",
+  "summary": "Apple announced updates to Full Disk Access permissions in macOS, requiring apps to explicitly request access to read protected user data files like Safari cookies and browsing history. These changes strengthen macOS privacy protections by tightening TCC (Transparency, Consent, and Control) framework restrictions.",
+  "tech_stack": [
+    "macOS",
+    "TCC Framework",
+    "System Preferences",
+    "Privacy Controls",
+    "Apple Developer"
+  ],
+  "problem_solved": "Addresses privacy and security concerns by controlling which applications can access sensitive system files and user data on macOS.",
+  "why_valuable": "Essential information for macOS developers to ensure their apps remain compliant with Apple's tightened privacy requirements and understand proper permission handling.",
+  "tags": [
+    "macOS",
+    "Security",
+    "Privacy",
+    "Apple Developer",
+    "TCC"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-03T13:14:43.586219+00:00",
+  "updated_at": "2026-10-03T13:16:47.332231+00:00",
+  "published_to": []
+}

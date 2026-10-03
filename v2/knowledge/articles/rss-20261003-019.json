@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261003-019",
+  "source": "rss",
+  "source_url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+  "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+  "summary": "展示了12年间拍摄的望远镜图像序列，记录了一颗恒星及其四颗行星的完整轨道运动过程，提供了行星系统长期观测的珍贵数据。",
+  "tech_stack": [
+    "Telescope Imaging",
+    "Time-lapse Photography",
+    "Astronomical Observation",
+    "Image Processing"
+  ],
+  "problem_solved": "通过长期观测数据展示了行星轨道运动的实际视觉证据，弥补了传统静态天文图像的不足。",
+  "why_valuable": "12年的连续观测数据具有很高的科学和教育价值，让公众能够直观理解行星系统的动态运行。",
+  "tags": [
+    "Astronomy",
+    "Planetary Science",
+    "Telescope Observation",
+    "Orbital Mechanics",
+    "Time-lapse"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-03T13:16:46.584937+00:00",
+  "updated_at": "2026-10-03T13:16:47.334331+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261003-012",
+  "source": "rss",
+  "source_url": "https://developer.apple.com/pass-designer/",
+  "title": "Apple Pass Designer",
+  "summary": "Apple Pass Designer 是 Apple 官方提供的在线工具，允许开发者无需编写代码即可可视化创建和设计 Apple Wallet 通行证（passes），支持登机牌、票券、会员卡等多种类型。",
+  "tech_stack": [
+    "Apple Wallet",
+    "JSON",
+    "CSS",
+    "Web-based Tool"
+  ],
+  "problem_solved": "降低创建 Apple Wallet passes 的技术门槛，让开发者无需手动编写复杂的 JSON 配置文件即可快速生成通行证。",
+  "why_valuable": "提供直观的可视化界面，大幅简化 Apple Wallet 通行证的设计流程，加快开发迭代速度。",
+  "tags": [
+    "Apple",
+    "Wallet",
+    "Passes",
+    "Developer Tools",
+    "Mobile"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:15:16.660570+00:00",
+  "updated_at": "2026-10-03T13:16:47.332872+00:00",
+  "published_to": []
+}

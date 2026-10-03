@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-015",
+  "source": "rss",
+  "source_url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+  "title": "One month coding with GLM 5.3 Flash",
+  "summary": "A Wagtail developer shares their practical experience using GLM 5.3 Flash (Zhipu AI's large language model) for coding tasks over one month, providing real-world feedback on its capabilities and limitations for software development work.",
+  "tech_stack": [
+    "Python",
+    "GLM 5.3 Flash",
+    "Django",
+    "Wagtail",
+    "LLM"
+  ],
+  "problem_solved": "Evaluates whether GLM 5.3 Flash is a viable alternative to other AI coding assistants for real-world development projects.",
+  "why_valuable": "Provides honest, hands-on experience report from an actual developer using a Chinese LLM for production coding work, offering practical insights rather than just benchmarks.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Python",
+    "Developer Experience",
+    "Code Review"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:15:51.164171+00:00",
+  "updated_at": "2026-10-03T13:16:47.333497+00:00",
+  "published_to": []
+}

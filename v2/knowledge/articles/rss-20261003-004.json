@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-004",
+  "source": "rss",
+  "source_url": "https://offrun.dev/",
+  "title": "Show HN: Offrun – manage every coding agent from one workspace",
+  "summary": "Offrun is a unified workspace that allows developers to run and monitor multiple AI coding agents (Claude Code, Codex, AGY, Grok Build) simultaneously from a single interface, providing visibility into agent activity, status, and account usage/credits.",
+  "tech_stack": [
+    "Web Application",
+    "Multi-agent Integration",
+    "Dashboard UI",
+    "API Integration",
+    "SaaS Platform"
+  ],
+  "problem_solved": "Developers managing multiple AI coding agents lack unified visibility and context, forcing them to switch between separate tools and lose track of agent activity and resource usage.",
+  "why_valuable": "It provides a single pane of glass for AI coding workflows, eliminating context switching and offering centralized monitoring of multiple AI coding tools and their account resources.",
+  "tags": [
+    "AI Agents",
+    "Developer Tools",
+    "Productivity",
+    "Coding Assistants",
+    "Multi-agent Management"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:13:50.273125+00:00",
+  "updated_at": "2026-10-03T13:16:47.331122+00:00",
+  "published_to": []
+}

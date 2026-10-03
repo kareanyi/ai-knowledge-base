@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-008",
+  "source": "rss",
+  "source_url": "https://www.newgrounds.com/",
+  "title": "Newgrounds.com – A community of games, music, and art",
+  "summary": "Newgrounds.com 是一个创立于1995年的老牌在线社区平台，专注于用户生成的游戏、音乐和艺术内容，类似于 YouTube 之前时代的独立创作者聚集地，以自由创作和社区互动为核心特色。",
+  "tech_stack": [
+    "Flash",
+    "HTML5",
+    "JavaScript",
+    "Web Audio API",
+    "Canvas API"
+  ],
+  "problem_solved": "为独立游戏开发者、音乐人和艺术家提供一个展示和分享原创作品的社区平台",
+  "why_valuable": "作为互联网早期最具影响力的UGC社区之一，它培育了无数独立创作者，对 Flash 时代和早期独立游戏文化产生了深远影响",
+  "tags": [
+    "Community",
+    "Gaming",
+    "Independent Art",
+    "Creative Platform",
+    "User Generated Content"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:14:32.726935+00:00",
+  "updated_at": "2026-10-03T13:16:47.332019+00:00",
+  "published_to": []
+}

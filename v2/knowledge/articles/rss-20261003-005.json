@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-005",
+  "source": "rss",
+  "source_url": "https://blog.kagi.com/update-orion-linux-windows",
+  "title": "An Update on Orion for Linux and Windows",
+  "summary": "Kagi releases significant updates to their Orion browser for Linux and Windows platforms, expanding beyond the original macOS-exclusive offering. The update brings performance improvements, UI enhancements, and feature parity across desktop operating systems, maintaining Kagi's privacy-focused and ad-free browsing philosophy.",
+  "tech_stack": [
+    "Electron",
+    "Rust",
+    "WebAssembly",
+    "TypeScript",
+    "CSS"
+  ],
+  "problem_solved": "Brings Kagi's privacy-first, ad-free browsing experience to Linux and Windows users who previously only had macOS access.",
+  "why_valuable": " democratizes access to a privacy-focused browser alternative across major desktop platforms, challenging the dominance of mainstream browsers.",
+  "tags": [
+    "Browser",
+    "Privacy",
+    "Cross-platform",
+    "Open Source",
+    "Linux"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:14:02.731503+00:00",
+  "updated_at": "2026-10-03T13:16:47.331365+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-007",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+  "title": "Cloudflare OHTTP gateway",
+  "summary": "Cloudflare announced an OHTTP (Oblivious HTTP) gateway that allows clients to make privacy-preserving HTTP requests by using Cloudflare as a relay to separate client identity from request content, preventing origin servers from seeing client IP addresses.",
+  "tech_stack": [
+    "Rust",
+    "Go",
+    "HTTP/3",
+    "OHTTP Protocol",
+    "Cloudflare Workers"
+  ],
+  "problem_solved": "Prevents origin servers from identifying or tracking clients by their IP addresses and metadata during HTTP communications.",
+  "why_valuable": "Enables widespread deployment of OHTTP privacy technology through Cloudflare's global infrastructure without requiring users to operate their own relay servers.",
+  "tags": [
+    "Privacy",
+    "Networking",
+    "Security",
+    "Protocol",
+    "Cloudflare"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:14:24.186775+00:00",
+  "updated_at": "2026-10-03T13:16:47.331792+00:00",
+  "published_to": []
+}

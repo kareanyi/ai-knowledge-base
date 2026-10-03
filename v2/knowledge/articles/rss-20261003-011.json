@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-011",
+  "source": "rss",
+  "source_url": "https://gadgets.muse.ai",
+  "title": "Muse Gadgets",
+  "summary": "Muse Gadgets is a collection of AI-powered tools and applications from Muse.ai, a company specializing in AI-driven music and audio technology. Based on its Hacker News popularity with 209 points and 92 comments, it appears to offer innovative AI gadgets or utilities for creators.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Audio Processing",
+    "Web Platform",
+    "Python"
+  ],
+  "problem_solved": "Provides accessible AI tools for music creation and audio manipulation without requiring deep technical expertise.",
+  "why_valuable": "Democratizes AI-powered music creation by offering ready-to-use tools that lower the barrier to entry for audio experimentation.",
+  "tags": [
+    "AI",
+    "Music",
+    "Audio",
+    "Tools",
+    "Creative"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:15:03.685944+00:00",
+  "updated_at": "2026-10-03T13:16:47.332660+00:00",
+  "published_to": []
+}

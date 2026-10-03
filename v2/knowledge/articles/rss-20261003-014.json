@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-014",
+  "source": "rss",
+  "source_url": "https://dwarfstar.sh/",
+  "title": "From the creator of Redis; run LLM locally with ds4",
+  "summary": "A local LLM inference tool created by Salvatore Sanfilippo (creator of Redis), enabling users to run large language models privately on their own hardware without relying on cloud services.",
+  "tech_stack": [
+    "Rust",
+    "GGML",
+    "LLM",
+    "CLI",
+    "Local Inference"
+  ],
+  "problem_solved": "Enables privacy-focused and offline LLM usage by allowing users to run language models entirely on local hardware.",
+  "why_valuable": "Provides an alternative to cloud-based AI services with full data privacy, no API costs, and offline capability, backed by the expertise of Redis's creator.",
+  "tags": [
+    "LLM",
+    "Local AI",
+    "Privacy",
+    "Open Source",
+    "CLI Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-03T13:15:36.482106+00:00",
+  "updated_at": "2026-10-03T13:16:47.333295+00:00",
+  "published_to": []
+}

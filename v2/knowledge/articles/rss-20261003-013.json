@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-013",
+  "source": "rss",
+  "source_url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+  "title": "The Nintendo 64 Partner-N64 Development Kit",
+  "summary": "An in-depth exploration of Nintendo's official N64 development kit (Partner-N64) used by third-party developers to create games for the Nintendo 64 console during the 1990s. The article covers the hardware specifications, software tools, and historical significance of this proprietary development system.",
+  "tech_stack": [
+    "C Programming",
+    "Assembly",
+    "Nintendo SDK",
+    "Custom Hardware",
+    "Cross-compilation Tools"
+  ],
+  "problem_solved": "Enabled third-party game studios to develop commercial games for Nintendo's N64 platform without direct Nintendo internal resources.",
+  "why_valuable": "Preserves rare historical knowledge about retro game development workflows and hardware, providing insight into how iconic N64 games like Mario 64 and Ocarina of Time were created.",
+  "tags": [
+    "Retro Gaming",
+    "Nintendo 64",
+    "Game Development",
+    "Hardware History",
+    "Emulation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-03T13:15:26.602583+00:00",
+  "updated_at": "2026-10-03T13:16:47.333074+00:00",
+  "published_to": []
+}
