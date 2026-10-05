@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-020",
+  "source": "rss",
+  "source_url": "https://cedardb.com/blog/sqldoom/",
+  "title": "We ported the original Doom to SQL",
+  "summary": "A technical project that demonstrates the creative potential of SQL by implementing the classic Doom game entirely within a SQL database, using SQL queries to handle game logic, rendering, and game loop execution.",
+  "tech_stack": [
+    "SQL",
+    "PostgreSQL",
+    "Procedural SQL (PL/pgSQL)",
+    "Game Engine Architecture",
+    "BSP Trees"
+  ],
+  "problem_solved": "Pushes the boundaries of SQL beyond traditional database operations by using it as a general-purpose computation engine for real-time game rendering and logic.",
+  "why_valuable": "Demonstrates creative technical boundaries and provides educational insights into both SQL capabilities and game engine internals through a fun, unconventional implementation.",
+  "tags": [
+    "SQL",
+    "Game Porting",
+    "PostgreSQL",
+    "Technical Art",
+    "Doom"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-05T17:04:19.997047+00:00",
+  "updated_at": "2026-10-05T17:04:21.303209+00:00",
+  "published_to": []
+}

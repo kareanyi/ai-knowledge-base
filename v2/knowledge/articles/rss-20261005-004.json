@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-004",
+  "source": "rss",
+  "source_url": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
+  "title": "Picard 3.0",
+  "summary": "Picard 3.0 is a major release of MusicBrainz's open-source music tagging application, introducing significant new features and improvements to the popular free music metadata organizer used by audiophiles and music enthusiasts worldwide.",
+  "tech_stack": [
+    "Python",
+    "Qt/PyQt",
+    "MusicBrainz API",
+    "Mutagen",
+    "Qt6"
+  ],
+  "problem_solved": "Solves the problem of organizing and tagging large music collections with accurate, consistent metadata from the MusicBrainz database.",
+  "why_valuable": "Provides a free, open-source solution for music lovers to properly identify and tag their audio files with comprehensive metadata from one of the largest music databases.",
+  "tags": [
+    "Open Source",
+    "Music",
+    "Tagging",
+    "Python",
+    "Desktop App"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:01:14.633087+00:00",
+  "updated_at": "2026-10-05T17:04:21.301050+00:00",
+  "published_to": []
+}

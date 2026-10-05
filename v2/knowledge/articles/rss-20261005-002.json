@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-002",
+  "source": "rss",
+  "source_url": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+  "title": "Borland Turbo Basic",
+  "summary": "A historical overview of Borland Turbo Basic, a popular BASIC compiler and IDE released by Borland in 1987 for DOS systems, competing directly with Microsoft's QuickBASIC and making programming accessible to hobbyist developers during the DOS era.",
+  "tech_stack": [
+    "BASIC",
+    "DOS",
+    "Borland",
+    "x86 Assembly",
+    "Command-line Compiler"
+  ],
+  "problem_solved": "Provided hobbyist programmers with an affordable, integrated development environment for creating DOS applications in BASIC.",
+  "why_valuable": "Preserves computing history by documenting an influential programming tool that shaped many developers' early coding experiences in the 1980s-90s.",
+  "tags": [
+    "RetroComputing",
+    "DOS",
+    "BASIC",
+    "ProgrammingHistory",
+    "Borland"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:00:51.039571+00:00",
+  "updated_at": "2026-10-05T17:04:21.291886+00:00",
+  "published_to": []
+}

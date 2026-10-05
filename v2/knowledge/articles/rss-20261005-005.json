@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-005",
+  "source": "rss",
+  "source_url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+  "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+  "summary": "GrapheneOS, a privacy and security-focused custom Android ROM, is evaluating whether Google's upcoming Pixel 11 meets their stringent security standards. The discussion indicates that if Pixel 11 fails to meet their criteria, the project may skip supporting this device entirely, which would be significant for privacy-conscious users who rely on GrapheneOS for enhanced mobile security.",
+  "tech_stack": [
+    "Android",
+    "GrapheneOS",
+    "Verified Boot",
+    "SELinux",
+    "Hardware Security Modules"
+  ],
+  "problem_solved": "Addresses the compatibility gap between consumer smartphone hardware and strict open-source security requirements for privacy-focused mobile operating systems.",
+  "why_valuable": "For security-conscious users, this determination directly impacts whether they can use GrapheneOS on the latest Google hardware, influencing device purchasing decisions and highlighting the tension between mainstream hardware availability and rigorous security standards.",
+  "tags": [
+    "Mobile Security",
+    "Privacy",
+    "Android",
+    "GrapheneOS",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:01:27.705640+00:00",
+  "updated_at": "2026-10-05T17:04:21.301289+00:00",
+  "published_to": []
+}

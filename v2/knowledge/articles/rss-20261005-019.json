@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-019",
+  "source": "rss",
+  "source_url": "https://github.com/Niko1221/Strata",
+  "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "summary": "Strata is an open-source project that enables running the Qwen 3.8 Flash Next 125B parameter language model on consumer-grade RTX 4090 GPUs at 100 tokens/second, making large language model inference accessible without expensive data center hardware.",
+  "tech_stack": [
+    "Qwen 3.8 Flash Next",
+    "CUDA",
+    "llama.cpp",
+    "Python",
+    "Quantization"
+  ],
+  "problem_solved": "Makes running 125B parameter large language models feasible on consumer hardware at ~$1,600 instead of requiring $20,000+ server GPUs.",
+  "why_valuable": "Democratizes access to state-of-the-art AI capabilities by enabling high-speed local LLM inference on affordable consumer GPUs, benefiting developers, researchers, and AI enthusiasts.",
+  "tags": [
+    "LLM",
+    "Local Inference",
+    "Consumer Hardware",
+    "AI Optimization",
+    "Quantization"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-05T17:04:04.895420+00:00",
+  "updated_at": "2026-10-05T17:04:21.303094+00:00",
+  "published_to": []
+}

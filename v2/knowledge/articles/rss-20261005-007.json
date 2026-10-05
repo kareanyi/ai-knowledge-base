@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261005-007",
+  "source": "rss",
+  "source_url": "https://github.com/project-minigraf/minigraf",
+  "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+  "summary": "Minigraf is an embedded, self-contained bi-temporal graph database written in Rust that serves as a successor to an earlier temporal graph database project. It removes external database dependencies by providing its own storage, transaction, and query engines as a library crate that embeds directly into applications.",
+  "tech_stack": [
+    "Rust",
+    "Embedded Database",
+    "Graph Database",
+    "Temporal Database"
+  ],
+  "problem_solved": "Provides a lightweight, embeddable graph database solution with full bi-temporal modeling capabilities without requiring external database infrastructure.",
+  "why_valuable": "Enables developers to embed graph database functionality with temporal tracking directly into their applications, reducing system complexity and dependency overhead.",
+  "tags": [
+    "Rust",
+    "GraphDatabase",
+    "BiTemporal",
+    "Embedded",
+    "OpenSource"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:01:48.182035+00:00",
+  "updated_at": "2026-10-05T17:04:21.301559+00:00",
+  "published_to": []
+}

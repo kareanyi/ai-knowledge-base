@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261005-016",
+  "source": "rss",
+  "source_url": "https://github.com/omlahore/RemoveMacAI",
+  "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+  "summary": "A macOS utility that allows users to disable Apple Intelligence features and reclaim the disk space consumed by these AI features on macOS. The tool provides a simple way to remove unwanted AI functionality from the system.",
+  "tech_stack": [
+    "Swift",
+    "Shell",
+    "macOS System APIs"
+  ],
+  "problem_solved": "Apple Intelligence consumes significant disk space on macOS, and users need a way to disable and remove these AI features.",
+  "why_valuable": "Gives users control over their system by freeing up disk space and allowing them to opt out of AI features they don't need or want.",
+  "tags": [
+    "macOS",
+    "Apple Intelligence",
+    "System Utility",
+    "Disk Management",
+    "Privacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:03:29.449192+00:00",
+  "updated_at": "2026-10-05T17:04:21.302726+00:00",
+  "published_to": []
+}

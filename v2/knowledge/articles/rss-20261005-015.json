@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-015",
+  "source": "rss",
+  "source_url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+  "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+  "summary": "Tippett Studios, a renowned CGI animation studio famous for work on Jurassic Park and other films, closed down and a comprehensive digital archive of their animated materials, behind-the-scenes content, and creative work has been uploaded to the Internet Archive for public preservation and access.",
+  "tech_stack": [
+    "Internet Archive",
+    "Digital Preservation",
+    "Animation",
+    "Maya",
+    "CGI"
+  ],
+  "problem_solved": "Preserves the creative legacy and technical artifacts of Tippett Studios after its closure, preventing the loss of valuable animation history and educational materials.",
+  "why_valuable": "This archive serves as an important educational resource and cultural preservation effort, allowing future generations of animators and filmmakers to study the techniques and history of pioneering CGI work.",
+  "tags": [
+    "Animation",
+    "CGI",
+    "Digital Preservation",
+    "Film History",
+    "Legacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:03:20.856820+00:00",
+  "updated_at": "2026-10-05T17:04:21.302583+00:00",
+  "published_to": []
+}

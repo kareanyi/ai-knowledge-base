@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-008",
+  "source": "rss",
+  "source_url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+  "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+  "summary": "Mold 3.0.0 is a major release of the ultra-fast linker, rewritten entirely in Rust from its previous implementation, offering significantly faster linking speeds compared to traditional linkers like GNU ld and LLVM lld.",
+  "tech_stack": [
+    "Rust",
+    "C",
+    "Linker",
+    "Build Toolchain",
+    "Assembly"
+  ],
+  "problem_solved": "Dramatically reduces linking time in large C/C++ projects to improve developer productivity during the build cycle.",
+  "why_valuable": "Since linking occurs on every build, even small improvements compound into massive time savings for developers working on large codebases.",
+  "tags": [
+    "linker",
+    "rust",
+    "build-tools",
+    "performance",
+    "open-source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-05T17:02:00.631185+00:00",
+  "updated_at": "2026-10-05T17:04:21.301707+00:00",
+  "published_to": []
+}

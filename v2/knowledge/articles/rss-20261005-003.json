@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-003",
+  "source": "rss",
+  "source_url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+  "title": "Making a GTK application in Haskell, part 1",
+  "summary": "This is a tutorial article demonstrating how to build GTK GUI applications using Haskell programming language. It's the first part of a series that likely covers the basics of integrating GTK with Haskell's functional programming paradigm. The article addresses the challenge of creating graphical user interfaces in a purely functional language.",
+  "tech_stack": [
+    "Haskell",
+    "GTK",
+    "gtk2hs",
+    "Glade",
+    "Cabal"
+  ],
+  "problem_solved": "Shows how to leverage Haskell's strong type system and functional programming benefits while building cross-platform GUI applications with GTK.",
+  "why_valuable": "Combines the safety and expressiveness of Haskell with GTK's mature GUI framework, offering an alternative for developers who prefer functional programming for desktop application development.",
+  "tags": [
+    "Haskell",
+    "GTK",
+    "GUI",
+    "Functional Programming",
+    "Tutorial"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:01:03.335278+00:00",
+  "updated_at": "2026-10-05T17:04:21.292046+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261005-010",
+  "source": "rss",
+  "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+  "title": "Web Search API",
+  "summary": "Cloudflare推出了Web Search API，为开发者提供基于其全球边缘网络的网页搜索能力，支持快速、隐私保护的搜索功能集成。",
+  "tech_stack": [
+    "Cloudflare Workers",
+    "REST API",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "problem_solved": "让开发者无需自建搜索引擎即可快速在应用中添加网页搜索功能",
+  "why_valuable": "基于Cloudflare全球边缘网络，提供低延迟、高可用的搜索服务，同时注重用户隐私保护",
+  "tags": [
+    "Cloudflare",
+    "Web Search",
+    "API",
+    "Developer Tools",
+    "Edge Computing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:02:16.539679+00:00",
+  "updated_at": "2026-10-05T17:04:21.301970+00:00",
+  "published_to": []
+}

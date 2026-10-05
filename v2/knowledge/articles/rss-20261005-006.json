@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-006",
+  "source": "rss",
+  "source_url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+  "title": "The Era of Software Quality, or the Era of Ostriches?",
+  "summary": "A thought-provoking editorial from the GNOME project examining the current state of software quality in the open-source ecosystem, questioning whether the community is addressing quality issues head-on or burying its head in the sand like ostriches. The article challenges developers and maintainers to reconsider priorities in software development practices.",
+  "tech_stack": [
+    "Linux",
+    "GNOME",
+    "C",
+    "GLib",
+    "Open Source"
+  ],
+  "problem_solved": "Addresses the systemic quality problems plaguing modern software development, particularly in the open-source ecosystem.",
+  "why_valuable": "It sparks important discussions about balancing feature velocity with software reliability and sustainability in open-source projects.",
+  "tags": [
+    "Software Quality",
+    "Open Source",
+    "Linux",
+    "Developer Culture",
+    "Best Practices"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-05T17:01:39.445002+00:00",
+  "updated_at": "2026-10-05T17:04:21.301428+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261005-017",
+  "source": "rss",
+  "source_url": "https://wieslawsoltes.github.io/VB6/",
+  "title": "A browser-native classic Visual Basic VB6 IDE",
+  "summary": "A browser-native implementation of the classic Visual Basic 6 (VB6) IDE that allows users to run and develop VB6 applications directly in a web browser using WebAssembly technology, enabling legacy code maintenance without requiring the original Windows environment.",
+  "tech_stack": [
+    "WebAssembly",
+    "Emscripten",
+    "JavaScript",
+    "HTML5",
+    "GitHub Pages"
+  ],
+  "problem_solved": "Enables developers to run and maintain legacy VB6 applications without needing original Windows hardware or installing deprecated software.",
+  "why_valuable": "Preserves access to millions of lines of existing VB6 business code still running in production environments, democratizing legacy system maintenance through browser accessibility.",
+  "tags": [
+    "VB6",
+    "WebAssembly",
+    "IDE",
+    "Retro-computing",
+    "Legacy-systems"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-05T17:03:39.415988+00:00",
+  "updated_at": "2026-10-05T17:04:21.302849+00:00",
+  "published_to": []
+}
