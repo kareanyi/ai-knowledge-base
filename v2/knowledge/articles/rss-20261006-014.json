@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261006-014",
+  "source": "rss",
+  "source_url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+  "title": "ASOS app users receive push notifications apparently sent by hackers",
+  "summary": "Fashion retailer ASOS's mobile app users received push notifications that were apparently sent by hackers, indicating a security breach in their push notification system. The incident highlights vulnerabilities in third-party notification services used by major apps.",
+  "tech_stack": [
+    "Mobile Applications",
+    "Push Notification Services",
+    "iOS/Android"
+  ],
+  "problem_solved": "This is a news report documenting a security incident, not a solution - it reports on how hackers exploited ASOS's push notification system to send messages to app users.",
+  "why_valuable": "Serves as a cautionary example of mobile app security vulnerabilities and raises awareness about the risks associated with push notification infrastructure compromises.",
+  "tags": [
+    "Cybersecurity",
+    "Mobile Security",
+    "Data Breach",
+    "Push Notifications",
+    "Retail Tech"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-06T15:00:59.876652+00:00",
+  "updated_at": "2026-10-06T15:02:26.768661+00:00",
+  "published_to": []
+}

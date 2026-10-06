@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-020",
+  "source": "rss",
+  "source_url": "https://flattensf.com/",
+  "title": "Find the flattest route between any two points in SF",
+  "summary": "A web application that calculates and displays the flattest walking or biking route between any two points in San Francisco, helping users avoid the city's notoriously steep hills. Users can input start and end locations, and the tool uses elevation data to optimize routes for minimal climbing.",
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "Mapbox/Leaflet",
+    "OpenStreetMap",
+    "Node.js"
+  ],
+  "problem_solved": "Helps cyclists, mobility-impaired individuals, and parents with strollers find walking/biking routes in San Francisco that avoid steep hills.",
+  "why_valuable": "San Francisco's extreme topography makes non-motorized transportation challenging, and this tool improves accessibility and safety for vulnerable road users.",
+  "tags": [
+    "Maps",
+    "Routing",
+    "Urban Mobility",
+    "Accessibility",
+    "San Francisco"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T15:02:26.226129+00:00",
+  "updated_at": "2026-10-06T15:02:26.769847+00:00",
+  "published_to": []
+}

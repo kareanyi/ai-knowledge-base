@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-012",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+  "title": "World's First enhanced geothermal power plant completed in just 23 months",
+  "summary": "The world's first enhanced geothermal power plant was successfully completed in just 23 months, representing a major breakthrough in geothermal energy technology that could significantly expand clean energy production globally.",
+  "tech_stack": [
+    "Enhanced Geothermal Systems (EGS)",
+    "Hydraulic Fracturing",
+    "Closed-loop Heat Exchange",
+    "Deep Drilling Technology",
+    "Renewable Energy Infrastructure"
+  ],
+  "problem_solved": "Enables geothermal electricity generation in areas lacking natural hydrothermal resources, expanding clean energy access beyond traditional geothermal regions.",
+  "why_valuable": "This breakthrough demonstrates that enhanced geothermal can be deployed rapidly and at scale, offering reliable baseload renewable power to complement intermittent solar and wind energy.",
+  "tags": [
+    "Geothermal Energy",
+    "Renewable Energy",
+    "Clean Technology",
+    "Infrastructure",
+    "Climate Tech"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-06T15:00:32.296014+00:00",
+  "updated_at": "2026-10-06T15:02:26.768248+00:00",
+  "published_to": []
+}

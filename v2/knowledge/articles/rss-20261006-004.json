@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-004",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/mistral-large-4/",
+  "title": "Mistral Large 4: \"Le Chonk\"",
+  "summary": "Mistral AI announces Mistral Large 4 (codenamed 'Le Chonk'), the latest iteration of their flagship large language model series, continuing their mission to deliver powerful open-weight AI models.",
+  "tech_stack": [
+    "LLM",
+    "Python",
+    "Transformers",
+    "Mistral AI",
+    "PyTorch"
+  ],
+  "problem_solved": "Provides a more capable and powerful large language model for developers and enterprises seeking high-performance AI solutions.",
+  "why_valuable": "Mistral AI continues to democratize access to state-of-the-art AI with competitive open-weight models that rival proprietary alternatives.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Mistral",
+    "Open Source",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-06T14:58:50.515076+00:00",
+  "updated_at": "2026-10-06T15:02:26.766533+00:00",
+  "published_to": []
+}

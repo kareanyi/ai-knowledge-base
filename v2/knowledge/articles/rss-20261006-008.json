@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-008",
+  "source": "rss",
+  "source_url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+  "title": "Mathematics of Geothermal Energy",
+  "summary": "这是一篇来自EBSCO的教育性研究入门文章，介绍地热能源系统背后的数学原理和应用，包括热力学计算、传热模型和能量转换效率分析。",
+  "tech_stack": [
+    "Thermodynamics",
+    "Heat Transfer",
+    "Mathematical Modeling",
+    "Energy Systems",
+    "Engineering Analysis"
+  ],
+  "problem_solved": "为研究者和学生提供地热能源系统中数学原理的基础知识，帮助理解热能提取和转换的量化分析方法。",
+  "why_valuable": "作为教育性研究-starter资源，它降低了地热能源技术学习的门槛，为进一步的工程研究和应用开发奠定数学基础。",
+  "tags": [
+    "Geothermal Energy",
+    "Thermodynamics",
+    "Renewable Energy",
+    "Mathematics",
+    "Energy Engineering"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-06T14:59:34.290174+00:00",
+  "updated_at": "2026-10-06T15:02:26.767416+00:00",
+  "published_to": []
+}

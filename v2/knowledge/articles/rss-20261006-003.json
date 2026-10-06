@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-003",
+  "source": "rss",
+  "source_url": "https://www.parseable.com",
+  "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+  "summary": "Parseable is an open-source observability datalake platform designed for high-volume log, metric, and trace ingestion. It claims to handle 100 million time-series data points per minute, positioning itself as a scalable, cost-effective alternative to commercial observability solutions.",
+  "tech_stack": [
+    "Rust",
+    "S3-compatible storage",
+    "REST API",
+    "Cloud-native architecture",
+    "OpenTelemetry"
+  ],
+  "problem_solved": "Provides a scalable, open-source solution for managing massive-scale observability data at a fraction of the cost of commercial platforms like Datadog or Splunk.",
+  "why_valuable": "Enables organizations to handle extreme data volumes (100M+ time-series/min) with an open, vendor-neutral observability stack that integrates with existing S3-compatible storage infrastructure.",
+  "tags": [
+    "observability",
+    "datalake",
+    "open-source",
+    "time-series",
+    "metrics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T14:58:40.179009+00:00",
+  "updated_at": "2026-10-06T15:02:26.757856+00:00",
+  "published_to": []
+}

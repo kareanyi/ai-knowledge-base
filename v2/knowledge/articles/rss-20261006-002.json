@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-002",
+  "source": "rss",
+  "source_url": "https://jotbus.com/",
+  "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
+  "summary": "Jotbus is a shared encrypted scratchpad service designed for AI coding agents to securely share temporary data, notes, or code snippets during collaborative tasks, providing an ephemeral and encrypted communication channel between autonomous agents.",
+  "tech_stack": [
+    "Web API",
+    "Encryption",
+    "JavaScript",
+    "Cloud Infrastructure",
+    "JSON"
+  ],
+  "problem_solved": "Enables secure, temporary data sharing and coordination between AI coding agents that need to exchange information without persistent storage concerns.",
+  "why_valuable": "Provides a lightweight, privacy-focused solution for AI agent collaboration, solving the real problem of secure inter-agent communication in multi-agent workflows.",
+  "tags": [
+    "AI-Agents",
+    "Encryption",
+    "Collaboration",
+    "Developer-Tools",
+    "Scratchpad"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-06T14:58:29.549663+00:00",
+  "updated_at": "2026-10-06T15:02:26.757625+00:00",
+  "published_to": []
+}

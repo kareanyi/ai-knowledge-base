@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261006-011",
+  "source": "rss",
+  "source_url": "https://www.helgilibrary.com/companies/jetbrains",
+  "title": "JetBrains reported a net financial loss first time in its tracked history",
+  "summary": "JetBrains, the Czech software company known for IntelliJ IDEA and the Kotlin programming language, has reported a net financial loss for the first time in its tracked history. The company, which had been consistently profitable, faced challenges that led to this unprecedented downturn, despite being a major player in the developer tools market.",
+  "tech_stack": [
+    "Kotlin",
+    "IntelliJ IDEA",
+    "JetBrains IDEs"
+  ],
+  "problem_solved": "This article reports on JetBrains' financial performance rather than solving a technical problem.",
+  "why_valuable": "Provides insight into the financial health of a major open-source and developer tools company, which is relevant for investors, developers, and industry analysts tracking the software development tools market.",
+  "tags": [
+    "Business",
+    "Finance",
+    "JetBrains",
+    "Software Industry",
+    "Developer Tools"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-06T15:00:11.475220+00:00",
+  "updated_at": "2026-10-06T15:02:26.768053+00:00",
+  "published_to": []
+}

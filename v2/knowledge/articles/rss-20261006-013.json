@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-013",
+  "source": "rss",
+  "source_url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+  "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+  "summary": "A new study reveals that ecosystems' ability to recover from species loss has been significantly overestimated by scientists. The research demonstrates that ecosystem resilience is more fragile than previously believed, with biodiversity recovery taking much longer than anticipated or failing entirely. This challenges long-held assumptions in conservation biology about nature's self-repair capabilities.",
+  "tech_stack": [
+    "Long-term ecological monitoring",
+    "Statistical regression analysis",
+    "Biodiversity databases",
+    "Ecosystem modeling",
+    "Meta-analysis"
+  ],
+  "problem_solved": "Challenges the assumption that ecosystems can reliably recover from species extinctions over reasonable timescales",
+  "why_valuable": "Provides critical evidence that could reshape conservation policies, extinction risk assessments, and ecological restoration priorities worldwide",
+  "tags": [
+    "Biodiversity",
+    "Ecology",
+    "Conservation",
+    "Ecosystem Resilience",
+    "Species Extinction"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T15:00:47.518132+00:00",
+  "updated_at": "2026-10-06T15:02:26.768464+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261006-018",
+  "source": "rss",
+  "source_url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+  "title": "Example.com just launched the biggest redesign in decades",
+  "summary": "DebugBear published a case study analyzing Example.com's significant redesign, which generated substantial discussion on Hacker News with 279 points and 187 comments, indicating strong community interest in web design evolution and best practices for large-scale website redesigns.",
+  "tech_stack": [
+    "Web Design",
+    "Frontend Development",
+    "UX/UI",
+    "Web Performance"
+  ],
+  "problem_solved": "Provides insights into modern web redesign strategies and lessons learned from a major website overhaul.",
+  "why_valuable": "Offers practical case study evidence of successful web redesign approaches that the developer community found valuable enough to discuss extensively.",
+  "tags": [
+    "Web Design",
+    "Redesign",
+    "Case Study",
+    "UX",
+    "Frontend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T15:02:01.956336+00:00",
+  "updated_at": "2026-10-06T15:02:26.769454+00:00",
+  "published_to": []
+}

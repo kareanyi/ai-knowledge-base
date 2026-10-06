@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-019",
+  "source": "rss",
+  "source_url": "https://dbushell.com/2026/10/03/deno-to-node/",
+  "title": "Friendship ended with Deno, now Node is my best friend",
+  "summary": "A developer shares their personal journey switching from Deno back to Node.js, discussing practical reasons related to ecosystem maturity, npm compatibility, and development tooling that influenced their decision.",
+  "tech_stack": [
+    "Node.js",
+    "Deno",
+    "JavaScript",
+    "TypeScript",
+    "npm"
+  ],
+  "problem_solved": "Addresses the challenge of choosing the right JavaScript runtime when ecosystem support, tooling availability, and practical daily development considerations are factored in.",
+  "why_valuable": "Provides real-world insights from a developer who experienced both runtimes, offering practical guidance for others evaluating their technology choices.",
+  "tags": [
+    "JavaScript",
+    "Node.js",
+    "Deno",
+    "Runtime",
+    "Developer-Experience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T15:02:11.551556+00:00",
+  "updated_at": "2026-10-06T15:02:26.769649+00:00",
+  "published_to": []
+}

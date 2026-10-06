@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-005",
+  "source": "rss",
+  "source_url": "https://docs.mistral.ai/models/mistral-large-4-0",
+  "title": "Mistral Large 4",
+  "summary": "Mistral Large 4 is the latest flagship large language model from French AI company Mistral AI, representing their most advanced proprietary model for complex reasoning, coding, and multilingual tasks.",
+  "tech_stack": [
+    "Transformer Architecture",
+    "Python",
+    "REST API",
+    "JSON",
+    "Cloud Infrastructure"
+  ],
+  "problem_solved": "Provides enterprise-grade AI capabilities for complex natural language understanding, code generation, and multi-step reasoning tasks.",
+  "why_valuable": "Offers state-of-the-art performance comparable to GPT-4 and Claude while maintaining Mistral's reputation for efficiency and cost-effectiveness.",
+  "tags": [
+    "LLM",
+    "AI",
+    "Mistral",
+    "NLP",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-06T14:59:02.154948+00:00",
+  "updated_at": "2026-10-06T15:02:26.766727+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-007",
+  "source": "rss",
+  "source_url": "https://mastodon.social/@bagder/117392573268225646",
+  "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
+  "summary": "Daniel Stenberg (curl creator) reports two ARM64-specific compiler optimization bugs—one in GCC 15/16 and another in Rust—that caused incorrect code generation affecting curl. These bugs demonstrate how compiler optimizations can introduce subtle but critical failures in production software.",
+  "tech_stack": [
+    "ARM64",
+    "GCC",
+    "Rust",
+    "C",
+    "Curl"
+  ],
+  "problem_solved": "Reports compiler optimization bugs causing incorrect code generation on ARM64 architecture that affected curl functionality",
+  "why_valuable": "Highlights the importance of cross-platform compiler testing and the risks of relying on compiler optimizations in critical software like curl",
+  "tags": [
+    "compiler-bug",
+    "ARM64",
+    "security",
+    "optimization",
+    "debugging"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-06T14:59:26.041276+00:00",
+  "updated_at": "2026-10-06T15:02:26.767164+00:00",
+  "published_to": []
+}

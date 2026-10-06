@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-006",
+  "source": "rss",
+  "source_url": "https://twitter.com/MistralAI/status/2107456586813730854",
+  "title": "Mistral Large 4",
+  "summary": "Mistral AI announces Mistral Large 4, the latest iteration in their flagship large language model series, continuing their mission to provide powerful AI capabilities to developers and enterprises.",
+  "tech_stack": [
+    "LLM",
+    "AI",
+    "Python",
+    "PyTorch",
+    "Transformers"
+  ],
+  "problem_solved": "Provides access to state-of-the-art AI language model capabilities for complex reasoning, coding, and generation tasks",
+  "why_valuable": "Mistral's Large series delivers competitive performance against major AI labs while often offering more accessible deployment options, making advanced AI more widely available",
+  "tags": [
+    "AI",
+    "LLM",
+    "Foundation Model",
+    "Mistral AI",
+    "Generative AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T14:59:16.076148+00:00",
+  "updated_at": "2026-10-06T15:02:26.766938+00:00",
+  "published_to": []
+}

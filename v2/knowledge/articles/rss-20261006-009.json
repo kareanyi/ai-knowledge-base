@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261006-009",
+  "source": "rss",
+  "source_url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+  "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+  "summary": "TechDirt publishes a critical analysis of Meta's Muse product, exposing severe privacy and security vulnerabilities that make the device essentially a data collection tool disguised as an AI assistant, raising serious concerns about user consent and data protection practices.",
+  "tech_stack": [
+    "Meta AI",
+    "Consumer IoT",
+    "Voice Recognition",
+    "Cloud Services"
+  ],
+  "problem_solved": "Highlights how Meta's Muse product fails to protect user privacy and security, instead treating personal data as a resource to harvest.",
+  "why_valuable": "Serves as an important consumer alert that exposes how major tech companies prioritize data collection over user privacy and security in AI-powered consumer devices.",
+  "tags": [
+    "Privacy",
+    "Security",
+    "Meta",
+    "AI Assistant",
+    "Consumer Tech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T14:59:49.313656+00:00",
+  "updated_at": "2026-10-06T15:02:26.767648+00:00",
+  "published_to": []
+}

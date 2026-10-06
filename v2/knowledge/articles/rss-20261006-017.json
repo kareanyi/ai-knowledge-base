@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-017",
+  "source": "rss",
+  "source_url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+  "title": "Resurrecting iChat Audio and Video Conferencing",
+  "summary": "A technical deep-dive into reverse engineering and recreating Apple's discontinued iChat application, specifically focusing on resurrecting its audio and video conferencing capabilities through modern implementation techniques.",
+  "tech_stack": [
+    "Python",
+    "macOS APIs",
+    "SIP/RTP Protocols",
+    "FFmpeg",
+    "WebRTC"
+  ],
+  "problem_solved": "Revives obsolete video conferencing technology from Apple's abandoned iChat for preservation and educational purposes.",
+  "why_valuable": "Preserves important software archaeology while demonstrating how legacy protocols can be reimplemented using modern tools.",
+  "tags": [
+    "macOS",
+    "iChat",
+    "reverse-engineering",
+    "legacy-software",
+    "video-conferencing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T15:01:50.351857+00:00",
+  "updated_at": "2026-10-06T15:02:26.769237+00:00",
+  "published_to": []
+}

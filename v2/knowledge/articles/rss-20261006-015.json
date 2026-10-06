@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-015",
+  "source": "rss",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2026/",
+  "title": "Nobel Prize in Physics goes to Francis Halzen",
+  "summary": "Francis Halzen, a Belgian physicist, is recognized for pioneering neutrino astronomy through his leadership in building the IceCube Neutrino Observatory at the South Pole, which detected cosmic neutrinos and opened a new window for observing the universe.",
+  "tech_stack": [
+    "Particle Physics",
+    "Neutrino Detection",
+    "IceCube Observatory",
+    "Multi-messenger Astronomy",
+    "Cosmic Ray Detection"
+  ],
+  "problem_solved": "Detecting high-energy neutrinos from cosmic sources to understand extreme astrophysical phenomena like supernovae, black holes, and gamma-ray bursts.",
+  "why_valuable": "Establishes neutrino astronomy as a legitimate field of study and validates decades of work detecting 'ghost particles' from the cosmos, enabling us to observe the universe in ways previously impossible.",
+  "tags": [
+    "Nobel Prize",
+    "Neutrino Physics",
+    "Astrophysics",
+    "IceCube",
+    "Cosmic Exploration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-06T15:01:17.897985+00:00",
+  "updated_at": "2026-10-06T15:02:26.768855+00:00",
+  "published_to": []
+}

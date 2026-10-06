@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-001",
+  "source": "rss",
+  "source_url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+  "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+  "summary": "Tapo is a Rust and Python library for controlling TP-Link Tapo smart home devices, now adding support for TP-Link's newer TPAP protocol alongside the existing KLAP protocol. This enables developers to programmatically control Tapo cameras, plugs, and bulbs through their own applications.",
+  "tech_stack": [
+    "Rust",
+    "Python",
+    "TPAP protocol",
+    "KLAP protocol",
+    "IoT"
+  ],
+  "problem_solved": "Enables programmatic control of TP-Link Tapo smart home devices using TP-Link's newer TPAP protocol, replacing proprietary workarounds.",
+  "why_valuable": "Provides open-source, language-agnostic access to Tapo devices for home automation projects and custom integrations.",
+  "tags": [
+    "IoT",
+    "Smart Home",
+    "Rust",
+    "Python",
+    "Protocol"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-06T14:58:18.188774+00:00",
+  "updated_at": "2026-10-06T15:02:26.757324+00:00",
+  "published_to": []
+}
