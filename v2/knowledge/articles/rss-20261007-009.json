@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261007-009",
+  "source": "rss",
+  "source_url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+  "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+  "summary": "An exploration of how modern LLMs adapt to historical communication constraints, specifically testing whether AI models can relearn 'telegraphese' - the ultra-concise writing style from 1866 when telegraph messages were prohibitively expensive. The experiment reveals how cost-driven communication patterns from the Victorian era can be used as a framework for understanding AI language generation behavior.",
+  "tech_stack": [
+    "LLMs",
+    "AI Language Models",
+    "Python"
+  ],
+  "problem_solved": "Tests whether LLMs can adapt to historical communication style constraints that prioritized brevity due to economic factors",
+  "why_valuable": "Demonstrates a creative methodology for understanding AI language generation by imposing historical stylistic constraints, revealing insights about LLM adaptability and communication patterns",
+  "tags": [
+    "AI",
+    "LLMs",
+    "Language",
+    "History",
+    "Communication"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:25:41.125416+00:00",
+  "updated_at": "2026-10-07T15:27:37.367360+00:00",
+  "published_to": []
+}

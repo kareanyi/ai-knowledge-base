@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-015",
+  "source": "rss",
+  "source_url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+  "title": "ESP32-C3 Adblock",
+  "summary": "A DIY network-level ad blocker built on ESP32-C3 microcontroller that runs 24/7 with minimal power consumption, blocking ads and trackers at DNS level similar to Pi-hole but in a tiny, energy-efficient embedded device costing only a few dollars.",
+  "tech_stack": [
+    "ESP32-C3",
+    "C/C++",
+    "DNS",
+    "FreeRTOS",
+    "WiFi"
+  ],
+  "problem_solved": "Provides a low-cost, ultra-low-power alternative to running a dedicated server for network-wide ad blocking.",
+  "why_valuable": "Enables continuous ad blocking with minimal electricity cost (microamps in deep sleep), compact size, and under $5 hardware investment.",
+  "tags": [
+    "IoT",
+    "Embedded",
+    "Ad-blocker",
+    "ESP32",
+    "DIY"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:26:52.179752+00:00",
+  "updated_at": "2026-10-07T15:27:37.368439+00:00",
+  "published_to": []
+}

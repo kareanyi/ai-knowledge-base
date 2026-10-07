@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-003",
+  "source": "rss",
+  "source_url": "https://synthid.com/",
+  "title": "SynthID Detector",
+  "summary": "SynthID Detector is Google's tool for identifying AI-generated content by detecting invisible watermarks embedded by their SynthID technology. It provides a way to verify whether images or audio were created by AI models, helping address the growing challenge of content authenticity in the generative AI era.",
+  "tech_stack": [
+    "Deep Learning",
+    "Neural Networks",
+    "Spectrogram Analysis",
+    "Image Processing",
+    "Watermarking"
+  ],
+  "problem_solved": "It solves the problem of distinguishing AI-generated content from human-created content, addressing misinformation and authenticity verification challenges.",
+  "why_valuable": "As AI-generated content becomes increasingly realistic, SynthID Detector provides essential infrastructure for trust and verification in digital media.",
+  "tags": [
+    "AI-Detection",
+    "Watermarking",
+    "Content-Authenticity",
+    "Google-AI",
+    "Generative-AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-07T15:24:25.444167+00:00",
+  "updated_at": "2026-10-07T15:27:37.357923+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-016",
+  "source": "rss",
+  "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+  "title": "Sharing AI progress in mathematics",
+  "summary": "OpenAI sharing their latest research progress on AI systems for mathematical reasoning, including preprints and tools hosted on their public GitHub repository. The initiative aims to democratize access to their mathematical AI research and foster collaboration in the AI mathematics community.",
+  "tech_stack": [
+    "Python",
+    "Machine Learning",
+    "Large Language Models",
+    "GitHub",
+    "LaTeX/Formal Mathematics"
+  ],
+  "problem_solved": "Addresses the challenge of making advanced AI mathematical research accessible and reproducible for the broader research community.",
+  "why_valuable": "Enables transparency in AI development for mathematics, allows researchers to build upon OpenAI's work, and advances the frontier of AI's mathematical reasoning capabilities.",
+  "tags": [
+    "AI Research",
+    "Mathematics",
+    "OpenAI",
+    "Open Source",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-07T15:27:02.230900+00:00",
+  "updated_at": "2026-10-07T15:27:37.368613+00:00",
+  "published_to": []
+}

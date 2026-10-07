@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-011",
+  "source": "rss",
+  "source_url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+  "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+  "summary": "The Nobel Prize in Chemistry 2026 has been awarded to Henri B. Kagan and Kenso Soai for their groundbreaking work in asymmetric synthesis and chirality. Kagan is recognized for advances in asymmetric hydrogenation, while Soai is celebrated for his work on asymmetric autocatalysis and the Soai reaction.",
+  "tech_stack": [
+    "Chemistry",
+    "Asymmetric Synthesis",
+    "Chirality",
+    "Catalysis",
+    "Organic Chemistry"
+  ],
+  "problem_solved": "This prize recognizes fundamental discoveries in how molecules achieve asymmetry and how chirality can be controlled in chemical reactions.",
+  "why_valuable": "Their work has profound implications for pharmaceutical development, enabling the production of single-enantiomer drugs and advancing understanding of biological molecular processes.",
+  "tags": [
+    "Nobel Prize",
+    "Chemistry",
+    "Asymmetric Synthesis",
+    "Chirality",
+    "Organic Chemistry"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:26:09.452142+00:00",
+  "updated_at": "2026-10-07T15:27:37.367714+00:00",
+  "published_to": []
+}

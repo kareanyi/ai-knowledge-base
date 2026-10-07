@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-014",
+  "source": "rss",
+  "source_url": "https://strandsagents.com/blog/introducing-strands-decider/",
+  "title": "Strands Decider 2B: a small, open-source, decision model",
+  "summary": "Strands Decider 2B is a small, open-source decision model designed for AI agents to efficiently make decisions in task execution workflows. The model is part of the Strands agents ecosystem, providing a lightweight alternative to larger language models for specific decision-making tasks.",
+  "tech_stack": [
+    "Python",
+    "Open Source AI",
+    "Small Language Model",
+    "LLM",
+    "Agent Framework"
+  ],
+  "problem_solved": "Provides a compact, open-source decision-making model that enables AI agents to make quick, efficient decisions without requiring large, resource-intensive language models.",
+  "why_valuable": "By open-sourcing a small decision model, it democratizes access to AI decision capabilities, reducing computational costs and enabling deployment in resource-constrained environments while maintaining practical performance.",
+  "tags": [
+    "AI",
+    "Open Source",
+    "Small Language Model",
+    "Decision Model",
+    "Agent"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:26:39.651717+00:00",
+  "updated_at": "2026-10-07T15:27:37.368267+00:00",
+  "published_to": []
+}

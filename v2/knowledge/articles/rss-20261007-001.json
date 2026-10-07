@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-001",
+  "source": "rss",
+  "source_url": "https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval",
+  "title": "We Built an Alternative to Vector RAG for AI Agent Memory",
+  "summary": "This article presents an alternative approach to traditional Vector RAG specifically designed for AI Agent memory management, introducing the concept of 'agentic retrieval' that better handles dynamic, context-aware memory needs of autonomous agents rather than static document retrieval.",
+  "tech_stack": [
+    "RAG",
+    "Vector Databases",
+    "AI Agents",
+    "LLM",
+    "Python"
+  ],
+  "problem_solved": "Addresses the limitations of traditional vector-based RAG systems which are designed for static document retrieval but fail to meet the dynamic memory requirements of autonomous AI agents.",
+  "why_valuable": "It provides a more suitable memory architecture for AI agents that require contextual, multi-hop reasoning across evolving contexts, unlike conventional RAG which optimizes for document similarity search.",
+  "tags": [
+    "AI",
+    "Agent",
+    "RAG",
+    "Memory",
+    "Retrieval"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:24:05.690477+00:00",
+  "updated_at": "2026-10-07T15:27:37.357436+00:00",
+  "published_to": []
+}

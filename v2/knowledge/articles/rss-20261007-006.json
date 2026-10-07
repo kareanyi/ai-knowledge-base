@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-006",
+  "source": "rss",
+  "source_url": "https://artmuseum.artfrompixels.com/",
+  "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+  "summary": "一个基于维基百科数据构建的可步行3D虚拟艺术博物馆，展示从中国宋代画家李成到当代街头艺术家Banksy横跨千年的艺术作品，用户可以通过网页界面虚拟漫步于这个数字化艺术空间中进行艺术教育。",
+  "tech_stack": [
+    "WebGL",
+    "Three.js",
+    "Wikipedia API",
+    "JavaScript",
+    "HTML5"
+  ],
+  "problem_solved": "让无法亲自访问实体博物馆的人也能通过沉浸式3D体验免费探索跨越不同时代和风格的艺术作品。",
+  "why_valuable": "通过将冰冷的Wikipedia数据转化为可交互的3D空间，降低了艺术教育的门槛，让艺术欣赏变得更加直观和有趣。",
+  "tags": [
+    "3D Museum",
+    "Virtual Reality",
+    "Art History",
+    "Wikipedia",
+    "WebGL"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:25:11.915583+00:00",
+  "updated_at": "2026-10-07T15:27:37.366815+00:00",
+  "published_to": []
+}

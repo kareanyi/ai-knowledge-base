@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-019",
+  "source": "rss",
+  "source_url": "https://cedana.com/resources/tokens-to-gpus/",
+  "title": "How many GPUs is 1M/B/T tokens?",
+  "summary": "A technical resource that helps estimate GPU compute requirements for training large language models based on token counts, ranging from millions to billions and trillions of tokens, providing practical guidance for ML infrastructure planning and cost estimation.",
+  "tech_stack": [
+    "GPU Computing",
+    "CUDA",
+    "PyTorch",
+    "Python",
+    "Distributed Training"
+  ],
+  "problem_solved": "Helps ML engineers and researchers estimate the GPU resources and costs needed to train language models at different scales of token counts.",
+  "why_valuable": "Provides clear, practical benchmarks for infrastructure planning, enabling teams to budget and plan compute resources accurately before starting expensive training runs.",
+  "tags": [
+    "GPU",
+    "LLM Training",
+    "Infrastructure",
+    "Compute",
+    "ML Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:27:36.602152+00:00",
+  "updated_at": "2026-10-07T15:27:37.369147+00:00",
+  "published_to": []
+}

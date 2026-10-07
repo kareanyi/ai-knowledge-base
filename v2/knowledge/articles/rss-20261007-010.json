@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-010",
+  "source": "rss",
+  "source_url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+  "title": "Shipping JPEG XL in Chrome",
+  "summary": "Chrome officially shipped JPEG XL support, a next-generation image format offering superior compression (60% smaller than JPEG), lossless quality, transparency, and animation capabilities. This marks a significant advancement in web image optimization standards.",
+  "tech_stack": [
+    "JPEG XL",
+    "Chrome Browser",
+    "Web Platform",
+    "C++",
+    "WebP"
+  ],
+  "problem_solved": "Provides a modern image format that solves the trade-off between file size and quality while offering features like transparency and animation that existing formats lack.",
+  "why_valuable": "JPEG XL enables significantly faster web page loads and reduced bandwidth costs without compromising image quality, benefiting both users and website operators.",
+  "tags": [
+    "Web Development",
+    "Image Optimization",
+    "Browser",
+    "JPEG XL",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-07T15:25:54.786947+00:00",
+  "updated_at": "2026-10-07T15:27:37.367532+00:00",
+  "published_to": []
+}

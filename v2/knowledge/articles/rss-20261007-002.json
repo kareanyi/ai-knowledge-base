@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261007-002",
+  "source": "rss",
+  "source_url": "https://www.minut.com/features/occupancy-monitoring",
+  "title": "Device detection and occupancy monitoring for Airbnb hosts",
+  "summary": "Minute offers an occupancy monitoring solution for Airbnb hosts that uses device detection sensors to track how many guests are in a property and when spaces are occupied, without requiring invasive cameras.",
+  "tech_stack": [
+    "IoT Sensors",
+    "Device Detection",
+    "Cloud Infrastructure",
+    "Mobile App"
+  ],
+  "problem_solved": "Helps Airbnb hosts monitor guest occupancy and enforce house rules without privacy-invasive camera systems.",
+  "why_valuable": "Enables short-term rental hosts to protect their properties, verify guest counts, and optimize pricing while respecting guest privacy.",
+  "tags": [
+    "IoT",
+    "Smart Home",
+    "Airbnb",
+    "Occupancy Detection",
+    "Property Management"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-07T15:24:15.608772+00:00",
+  "updated_at": "2026-10-07T15:27:37.357707+00:00",
+  "published_to": []
+}

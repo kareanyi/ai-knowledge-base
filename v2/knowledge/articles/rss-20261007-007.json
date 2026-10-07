@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261007-007",
+  "source": "rss",
+  "source_url": "https://github.com/akawashiro/procinsh",
+  "title": "Show HN: Procinsh – A 3D Linux process inspector",
+  "summary": "Procinsh 是一个开源的 3D 可视化 Linux 进程检查工具，通过三维空间呈现系统进程的层级关系和状态信息，提供比传统 top/htop 更直观的交互式进程监控体验。",
+  "tech_stack": [
+    "Go",
+    "Linux",
+    "Proc文件系统",
+    "Git"
+  ],
+  "problem_solved": "解决传统命令行进程检查工具缺乏空间可视化和难以直观理解复杂进程关系的问题",
+  "why_valuable": "通过 3D 交互式可视化，让开发者和系统管理员能够更直观地理解和分析 Linux 系统进程结构和依赖关系。",
+  "tags": [
+    "Linux",
+    "Process",
+    "3D-Visualization",
+    "System-Monitor",
+    "Open-Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:25:21.448169+00:00",
+  "updated_at": "2026-10-07T15:27:37.366990+00:00",
+  "published_to": []
+}

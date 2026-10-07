@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-013",
+  "source": "rss",
+  "source_url": "https://github.com/nano-muse/nanoMuse",
+  "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+  "summary": "NanoMuse is a lightweight, open-source AI agent designed to work across mobile devices and computers, enabling users to access AI assistance on multiple platforms with an emphasis on minimal resource usage and open-source accessibility.",
+  "tech_stack": [
+    "Python",
+    "JavaScript",
+    "React Native",
+    "LLM APIs",
+    "TypeScript"
+  ],
+  "problem_solved": "Provides a lightweight, cross-platform open-source AI agent that users can run on their phones and computers without heavy dependencies.",
+  "why_valuable": "Its open-source nature and cross-platform support democratize access to AI agents while giving users full control over their data and customization options.",
+  "tags": [
+    "AI Agent",
+    "Open Source",
+    "Cross-platform",
+    "Mobile",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:26:29.269582+00:00",
+  "updated_at": "2026-10-07T15:27:37.368095+00:00",
+  "published_to": []
+}

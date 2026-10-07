@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261007-012",
+  "source": "rss",
+  "source_url": "https://github.com/szabadkai/c64-keyboard-font/",
+  "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+  "summary": "A developer photographed actual Commodore 64 keyboard keycaps and meticulously recreated the classic pixel font from those photographs, making it available as an open-source digital font for modern use.",
+  "tech_stack": [
+    "Typography",
+    "Open Source",
+    "GitHub"
+  ],
+  "problem_solved": "Recreating authentic, pixel-perfect replicas of the classic Commodore 64 font that capture the original hardware's distinctive character",
+  "why_valuable": "Preserves computing history by digitizing a beloved retro font with genuine physical origins, perfect for nostalgia-driven projects and retro gaming aesthetics",
+  "tags": [
+    "retrocomputing",
+    "typography",
+    "fonts",
+    "commodore64",
+    "nostalgia"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-07T15:26:18.646435+00:00",
+  "updated_at": "2026-10-07T15:27:37.367922+00:00",
+  "published_to": []
+}

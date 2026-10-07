@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261007-018",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=49982498",
+  "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+  "summary": "A developer of Photopea, a web-based photo editor, reports that GitHub refuses to remove dozens of repositories containing cracked versions of their software with ads removed, despite reporting them over a month ago.",
+  "tech_stack": [
+    "JavaScript",
+    "GitHub",
+    "DMCA"
+  ],
+  "problem_solved": "This is a complaint about GitHub's inadequate response to copyright infringement reports, not a solution to a problem.",
+  "why_valuable": "Highlights the challenges independent developers face when trying to protect their software from piracy on major platforms like GitHub.",
+  "tags": [
+    "GitHub",
+    "Copyright",
+    "DMCA",
+    "Software Piracy",
+    "IP Protection"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-07T15:27:26.423518+00:00",
+  "updated_at": "2026-10-07T15:27:37.368973+00:00",
+  "published_to": []
+}

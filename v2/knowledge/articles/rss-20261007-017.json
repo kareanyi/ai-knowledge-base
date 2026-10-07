@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261007-017",
+  "source": "rss",
+  "source_url": "https://developers.openai.com/api/docs/guides/decisions",
+  "title": "Decisions API is in public beta",
+  "summary": "OpenAI has launched the Decisions API in public beta, enabling developers to build AI agents capable of multi-step reasoning and complex decision-making workflows. This API extends beyond traditional chat completions to support structured decision chains with tool use.",
+  "tech_stack": [
+    "OpenAI API",
+    "GPT Models",
+    "Tool Use",
+    "Agent Framework",
+    "JSON Schema"
+  ],
+  "problem_solved": "Enables developers to create AI applications requiring complex, multi-step decision-making capabilities without building custom orchestration layers from scratch.",
+  "why_valuable": "Simplifies the development of sophisticated AI agents by providing built-in support for structured decision chains, reducing complexity and development time for production AI applications.",
+  "tags": [
+    "OpenAI",
+    "API",
+    "AI Agent",
+    "Beta",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-07T15:27:10.725270+00:00",
+  "updated_at": "2026-10-07T15:27:37.368784+00:00",
+  "published_to": []
+}
