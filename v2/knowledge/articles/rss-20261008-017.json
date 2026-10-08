@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261008-017",
+  "source": "rss",
+  "source_url": "https://bigwords.page/",
+  "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+  "summary": "Bigwords.page is a minimalist web app that transforms any browser screen into a customizable sign or display board. Users simply visit the URL and type their text, which instantly appears in large format. The entire app lives in the URL, requiring no sign-up, download, or installation.",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Web Browser"
+  ],
+  "problem_solved": "Provides an instant, frictionless way to display large text on any screen for presentations, streaming, or communication without specialized software.",
+  "why_valuable": "Eliminates friction entirely by making the URL itself the entire application—anyone can use it in under 3 seconds without any setup or learning curve.",
+  "tags": [
+    "Minimalist",
+    "Web Tool",
+    "Real-time",
+    "Productivity",
+    "Streaming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-08T15:30:00.606314+00:00",
+  "updated_at": "2026-10-08T15:30:27.034105+00:00",
+  "published_to": []
+}

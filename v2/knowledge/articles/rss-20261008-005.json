@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261008-005",
+  "source": "rss",
+  "source_url": "https://www.telnetbbsguide.com/",
+  "title": "Telnet BBS Guide",
+  "summary": "A curated directory listing Telnet-based Bulletin Board Systems (BBS) that remain active online, serving as a comprehensive guide for retro computing enthusiasts to connect with vintage dial-up era communities.",
+  "tech_stack": [
+    "Telnet",
+    "BBS",
+    "Web Development"
+  ],
+  "problem_solved": "Helps users discover and access surviving Telnet BBS systems from the pre-internet era, preserving retro computing culture and communities.",
+  "why_valuable": "Provides a valuable resource for retro computing enthusiasts and those interested in exploring the nostalgic roots of online communities, while preserving digital heritage.",
+  "tags": [
+    "Telnet",
+    "BBS",
+    "Retro Computing",
+    "Nostalgia",
+    "Vintage Technology"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-08T15:27:39.764558+00:00",
+  "updated_at": "2026-10-08T15:30:27.031603+00:00",
+  "published_to": []
+}

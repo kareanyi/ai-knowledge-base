@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261008-012",
+  "source": "rss",
+  "source_url": "https://scottaaronson.blog/?p=10169",
+  "title": "The Mathocalypse",
+  "summary": "Scott Aaronson's thought-provoking blog post exploring the potential future of mathematics in an AI era, likely discussing how advances in AI and automated theorem proving might fundamentally transform or challenge traditional mathematical practice and the role of human mathematicians.",
+  "tech_stack": [
+    "Blog/Writing",
+    "AI/LLM",
+    "Automated Theorem Proving",
+    "Mathematical Software"
+  ],
+  "problem_solved": "Examines how artificial intelligence might disrupt or revolutionize mathematical research and what this means for the future of the field.",
+  "why_valuable": "Provides rigorous philosophical and technical analysis from a renowned theoretical computer scientist on one of the most important questions about AI's impact on human intellectual endeavor.",
+  "tags": [
+    "Mathematics",
+    "AI",
+    "Theoretical CS",
+    "Philosophy",
+    "Future of Work"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-08T15:29:08.996341+00:00",
+  "updated_at": "2026-10-08T15:30:27.033101+00:00",
+  "published_to": []
+}

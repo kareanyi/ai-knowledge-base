@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261008-004",
+  "source": "rss",
+  "source_url": "https://vale.rocks/posts/dvd-menus",
+  "title": "Beauty in DVD Menus",
+  "summary": "A reflective piece exploring the artistic and creative aspects of DVD menus from the late 90s and early 2000s era, examining how these interactive interfaces represented a unique blend of design, animation, and user experience that has been largely lost with digital streaming.",
+  "tech_stack": [
+    "Flash",
+    "ActionScript",
+    "DVD Authoring",
+    "Motion Graphics",
+    "Creative Coding"
+  ],
+  "problem_solved": "Preserves appreciation for a forgotten era of interactive design and reminds developers how much craft went into seemingly mundane UI elements like navigation menus.",
+  "why_valuable": "It offers nostalgic tech enthusiasts and designers a fresh perspective on overlooked digital artifacts, demonstrating that even functional interfaces can be expressions of creativity and artistry.",
+  "tags": [
+    "Nostalgia",
+    "Design",
+    "DVD",
+    "Retro Computing",
+    "UI Art"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-08T15:27:31.559056+00:00",
+  "updated_at": "2026-10-08T15:30:27.031382+00:00",
+  "published_to": []
+}

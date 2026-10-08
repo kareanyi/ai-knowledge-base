@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261008-003",
+  "source": "rss",
+  "source_url": "https://interop-rank.fxdx.dev/",
+  "title": "2027 Web Platform Feature Ranking",
+  "summary": "A web platform feature ranking website that tracks and visualizes browser interoperability scores for various web platform features, helping developers understand cross-browser compatibility status.",
+  "tech_stack": [
+    "Web Platform APIs",
+    "Browser APIs",
+    "JavaScript",
+    "CSS",
+    "HTML"
+  ],
+  "problem_solved": "Helps web developers quickly identify which web platform features have strong cross-browser support and which still have interoperability issues.",
+  "why_valuable": "Provides a centralized, ranked view of browser compatibility data that saves developers hours of research when deciding which web APIs to use.",
+  "tags": [
+    "Web Platform",
+    "Browser Compatibility",
+    "Interoperability",
+    "Developer Tools",
+    "Cross-Browser"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-08T15:27:19.881053+00:00",
+  "updated_at": "2026-10-08T15:30:27.022293+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261008-018",
+  "source": "rss",
+  "source_url": "https://ascii.rest/",
+  "title": "Animated ASCII Art for Web Pages",
+  "summary": "ASCII.rest is a web-based tool and API that enables developers to easily create and embed animated ASCII art into their web pages. The service provides a simple interface for generating animated text effects using ASCII characters, making it accessible for developers of all skill levels to add retro-style visual effects to their projects.",
+  "tech_stack": [
+    "JavaScript",
+    "Web API",
+    "CSS Animations",
+    "REST API",
+    "HTML5 Canvas"
+  ],
+  "problem_solved": "It simplifies the process of creating and displaying animated ASCII art on websites, eliminating the need for complex custom animations.",
+  "why_valuable": "It adds a unique retro aesthetic appeal to web projects with minimal coding effort, appealing to developers who want to create nostalgic or playful visual experiences.",
+  "tags": [
+    "ASCII Art",
+    "Web Animation",
+    "Visual Effects",
+    "Developer Tools",
+    "Retro Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-08T15:30:14.158342+00:00",
+  "updated_at": "2026-10-08T15:30:27.034300+00:00",
+  "published_to": []
+}

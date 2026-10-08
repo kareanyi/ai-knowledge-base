@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261008-008",
+  "source": "rss",
+  "source_url": "https://github.com/openai/math/blob/main/history.md",
+  "title": "OpenAI Withdraws 3 Math Papers",
+  "summary": "OpenAI withdrew 3 mathematical research papers from their public GitHub repository, raising questions about research quality control and transparency practices at leading AI labs. The incident sparked significant discussion in the AI research community about accountability and peer review standards.",
+  "tech_stack": [
+    "AI Research",
+    "GitHub",
+    "Machine Learning"
+  ],
+  "problem_solved": "This event highlights transparency and accountability challenges in AI research rather than solving a problem.",
+  "why_valuable": "The discussion provides insight into how AI companies handle research quality control and the importance of maintaining rigorous academic standards in a competitive industry.",
+  "tags": [
+    "AI Research",
+    "OpenAI",
+    "Transparency",
+    "Academic Integrity",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-08T15:28:08.107143+00:00",
+  "updated_at": "2026-10-08T15:30:27.032277+00:00",
+  "published_to": []
+}

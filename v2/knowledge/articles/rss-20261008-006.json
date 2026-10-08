@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261008-006",
+  "source": "rss",
+  "source_url": "https://quesma.com/blog/invisible-cities-one-shot/",
+  "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+  "summary": "A creative experiment using Claude Opus 5.5 AI model with a single prompt over six hours to automatically generate visualizations of Italo Calvino's literary masterpiece 'Invisible Cities', demonstrating the capabilities of modern AI in artistic interpretation and image generation.",
+  "tech_stack": [
+    "Claude Opus 5.5",
+    "AI Image Generation",
+    "Generative AI",
+    "Large Language Models"
+  ],
+  "problem_solved": "Demonstrates how AI can interpret complex literary descriptions and convert them into visual representations with minimal human intervention.",
+  "why_valuable": "Shows the artistic potential of AI models for creative tasks and bridges literature with visual art through automated interpretation.",
+  "tags": [
+    "AI Art",
+    "Generative AI",
+    "Literature",
+    "Creative Coding",
+    "Image Generation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-08T15:27:48.884767+00:00",
+  "updated_at": "2026-10-08T15:30:27.031840+00:00",
+  "published_to": []
+}

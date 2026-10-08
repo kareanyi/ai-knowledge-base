@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261008-015",
+  "source": "rss",
+  "source_url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+  "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+  "summary": "Scientists in Vienna and Beijing have successfully begun operating the first thorium-based nuclear clocks, representing a major breakthrough in precision timekeeping technology that could surpass current atomic clocks in stability and accuracy.",
+  "tech_stack": [
+    "Nuclear Physics",
+    "Thorium-229",
+    "Laser Spectroscopy",
+    "Precision Metrology",
+    "Atomic Clocks"
+  ],
+  "problem_solved": "Addresses the need for more stable and accurate timekeeping methods that can improve upon current atomic clock technology for fundamental physics research and practical applications.",
+  "why_valuable": "Thorium nuclear clocks offer unprecedented precision that could revolutionize navigation systems, enable more sensitive gravitational wave detection, and advance our understanding of fundamental physical constants.",
+  "tags": [
+    "Nuclear",
+    "Thorium",
+    "Timekeeping",
+    "Physics",
+    "Precision"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-08T15:29:39.242675+00:00",
+  "updated_at": "2026-10-08T15:30:27.033687+00:00",
+  "published_to": []
+}

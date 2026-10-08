@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261008-013",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/claude-haiku-5-5",
+  "title": "Claude Haiku 5.5",
+  "summary": "Anthropic releases Claude Haiku 5.5, their latest lightweight and efficient AI model optimized for speed, cost-effectiveness, and on-device deployment while maintaining strong performance capabilities.",
+  "tech_stack": [
+    "Python",
+    "C++",
+    "Machine Learning",
+    "Transformers",
+    "Quantization"
+  ],
+  "problem_solved": "Provides developers with an ultra-fast, affordable AI model option for applications requiring low latency and resource efficiency",
+  "why_valuable": "Delivers near-frontier AI capabilities at a fraction of the cost and computational requirements, making advanced AI accessible for production applications and edge devices",
+  "tags": [
+    "AI",
+    "LLM",
+    "Claude",
+    "Anthropic",
+    "Edge Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-08T15:29:17.032308+00:00",
+  "updated_at": "2026-10-08T15:30:27.033296+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261008-009",
+  "source": "rss",
+  "source_url": "https://dat-ecosystem.org/",
+  "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+  "summary": "The Dat ecosystem is a collection of decentralized, peer-to-peer applications built on top of the Dat protocol, enabling serverless, version-controlled data sharing across distributed networks without relying on centralized infrastructure.",
+  "tech_stack": [
+    "JavaScript",
+    "Node.js",
+    "P2P Protocol",
+    "Hypercore",
+    "Distributed Systems"
+  ],
+  "problem_solved": "Enables decentralized, censorship-resistant data sharing and synchronization without requiring centralized servers or cloud infrastructure.",
+  "why_valuable": "Provides an alternative to cloud-centric data sharing by enabling users to own and control their data through true P2P networking with built-in versioning and selective sharing capabilities.",
+  "tags": [
+    "P2P",
+    "Decentralized",
+    "Distributed",
+    "Data Sharing",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-08T15:28:18.915015+00:00",
+  "updated_at": "2026-10-08T15:30:27.032492+00:00",
+  "published_to": []
+}

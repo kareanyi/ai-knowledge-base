@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261008-010",
+  "source": "rss",
+  "source_url": "https://mathstodon.xyz/@tao/117395269325940185",
+  "title": "“Math 2.0” will need to value mathematical progress more holistically",
+  "summary": "Terrence Tao proposes a 'Math 2.0' framework that reimagines how mathematical progress should be valued, arguing that traditional metrics like publication counts and citations fail to capture the full spectrum of mathematical contributions including mentorship, collaboration, open-source tools, and expository work.",
+  "tech_stack": [
+    "LaTeX",
+    "arXiv",
+    "MathOverflow",
+    "MathStodon",
+    "Peer Review Systems"
+  ],
+  "problem_solved": "Addresses the inadequacy of current academic metrics in recognizing diverse forms of mathematical contribution beyond traditional publications.",
+  "why_valuable": "Provides a visionary framework from a Fields Medalist for reforming how mathematics evaluates and rewards scholarly work, potentially transforming academic culture.",
+  "tags": [
+    "Mathematics",
+    "Academic Reform",
+    "Peer Review",
+    "Collaboration",
+    "Open Source"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-08T15:28:29.767107+00:00",
+  "updated_at": "2026-10-08T15:30:27.032682+00:00",
+  "published_to": []
+}
