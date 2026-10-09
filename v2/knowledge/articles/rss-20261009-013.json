@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261009-013",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+  "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+  "summary": "OpenAI terminated three safety researchers for allegedly mishandling research information, but the researchers dispute these misconduct claims and warn that the terminations could create a chilling effect on safety research culture within the AI industry. The incident raises concerns about governance and transparency in AI safety research at leading AI companies.",
+  "tech_stack": [
+    "AI Safety Research",
+    "OpenAI",
+    "Machine Learning",
+    "Research Ethics"
+  ],
+  "problem_solved": "The article reports on a corporate governance dispute rather than solving a technical problem, but highlights transparency issues in AI safety research organizations.",
+  "why_valuable": "This news is significant for understanding internal dynamics at leading AI companies and potential impacts on safety research culture, which affects the broader AI development ecosystem.",
+  "tags": [
+    "AI Safety",
+    "OpenAI",
+    "Corporate Governance",
+    "Research Ethics",
+    "Industry News"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-09T15:11:46.311676+00:00",
+  "updated_at": "2026-10-09T15:13:02.176784+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261009-011",
+  "source": "rss",
+  "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+  "summary": "A JavaScript library that enables AI agents to draw visual overlays including arrows, boxes, and text directly on the user's screen to provide visual guidance and direction during interactions.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "Browser APIs",
+    "CSS"
+  ],
+  "problem_solved": "AI agents communicating only through text or voice can be confusing and lack spatial context - this tool adds visual指了指能力让AI代理能够直观地指向屏幕上的具体元素。",
+  "why_valuable": "Creates a more intuitive human-AI interaction by adding visual spatial guidance that makes agent instructions immediately clear and actionable.",
+  "tags": [
+    "AI Agents",
+    "Visual Overlay",
+    "Human-AI Interaction",
+    "UI/UX",
+    "JavaScript"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-09T15:11:15.291567+00:00",
+  "updated_at": "2026-10-09T15:13:02.176393+00:00",
+  "published_to": []
+}

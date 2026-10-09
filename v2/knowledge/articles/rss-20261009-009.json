@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261009-009",
+  "source": "rss",
+  "source_url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+  "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+  "summary": "This Washington Post article reports on an Iranian influence operation that exploited ChatGPT to generate fake articles, which were then successfully published in legitimate U.S. news outlets, highlighting the growing threat of AI-generated disinformation in media.",
+  "tech_stack": [
+    "ChatGPT",
+    "OpenAI",
+    "AI Text Generation"
+  ],
+  "problem_solved": "This article documents a security threat rather than solving a problem—it reveals how AI tools are being weaponized for foreign influence operations against U.S. media.",
+  "why_valuable": "It exposes the vulnerabilities in news publication systems and demonstrates how accessible AI tools can be misused for large-scale disinformation campaigns targeting democratic processes.",
+  "tags": [
+    "AI",
+    "Disinformation",
+    "Cybersecurity",
+    "News Media",
+    "Iran"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-09T15:10:54.000532+00:00",
+  "updated_at": "2026-10-09T15:13:02.175955+00:00",
+  "published_to": []
+}

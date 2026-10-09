@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261009-015",
+  "source": "rss",
+  "source_url": "https://iminafleeting.com/",
+  "title": "I'm in a Meeting",
+  "summary": "A personal blog post reflecting on meeting culture and productivity, sharing the author's experience and perspective on being in meetings throughout the workday.",
+  "tech_stack": [
+    "Web",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "problem_solved": "Expresses frustration or humor about spending too much time in meetings and finding it difficult to focus on actual work.",
+  "why_valuable": "Provides relatable content for professionals who struggle with meeting overload, offering a humorous take on workplace dynamics.",
+  "tags": [
+    "Productivity",
+    "Work-Life",
+    "Meetings",
+    "Humor",
+    "Personal Blog"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-09T15:12:05.928420+00:00",
+  "updated_at": "2026-10-09T15:13:02.177207+00:00",
+  "published_to": []
+}

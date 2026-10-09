@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261009-002",
+  "source": "rss",
+  "source_url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+  "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+  "summary": "A news report from United24 Media covering the targeting of Yandex data centers during the Russia-Ukraine conflict, with this being the second such facility hit within 48 hours, affecting Russia's largest website infrastructure.",
+  "tech_stack": [
+    "Data Centers",
+    "Web Infrastructure",
+    "Cloud Services"
+  ],
+  "problem_solved": "This is news reporting, not a technical solution - it reports on military operations targeting digital infrastructure during armed conflict.",
+  "why_valuable": "Provides real-time coverage of how the Ukraine-Russia conflict is affecting critical digital infrastructure, including Russia's largest internet services.",
+  "tags": [
+    "Ukraine",
+    "Russia",
+    "Data Center",
+    "Infrastructure",
+    "Conflict"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-09T15:09:32.656239+00:00",
+  "updated_at": "2026-10-09T15:13:02.162692+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261009-014",
+  "source": "rss",
+  "source_url": "https://github.com/alex0ptr/once",
+  "title": "Once: Cache CLI Commands",
+  "summary": "A Go-based CLI tool that caches command execution results using content-addressable storage, only re-executing commands when the command itself or its dependency files have changed.",
+  "tech_stack": [
+    "Go",
+    "CLI",
+    "Content-Addressable Storage"
+  ],
+  "problem_solved": "Eliminates redundant CLI command executions by caching outputs and invalidating based on command and file dependency hashes",
+  "why_valuable": "Improves developer productivity by skipping re-execution of expensive computations when inputs remain unchanged, similar to build systems but for arbitrary CLI commands",
+  "tags": [
+    "CLI",
+    "Caching",
+    "Developer Tools",
+    "Go",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-09T15:11:58.025533+00:00",
+  "updated_at": "2026-10-09T15:13:02.176987+00:00",
+  "published_to": []
+}

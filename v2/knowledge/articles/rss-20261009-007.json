@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261009-007",
+  "source": "rss",
+  "source_url": "https://lorezzed.github.io/meadows/",
+  "title": "Meadows – a small language for stock-and-flow diagrams that run",
+  "summary": "Meadows is a lightweight domain-specific programming language designed for creating and executing stock-and-flow diagrams, commonly used in system dynamics modeling and simulation. It provides a simple, focused syntax for defining system variables, flows between them, and running simulations without complex tooling.",
+  "tech_stack": [
+    "Custom DSL",
+    "Interpreter",
+    "Web-based",
+    "JavaScript"
+  ],
+  "problem_solved": "Makes system dynamics modeling and simulation more accessible through a minimal, focused language that can execute diagrams directly.",
+  "why_valuable": "Enables rapid prototyping and visualization of system behavior with a small, easy-to-learn language tailored specifically for stock-and-flow modeling.",
+  "tags": [
+    "DSL",
+    "System Dynamics",
+    "Simulation",
+    "Modeling",
+    "Programming Language"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-09T15:10:33.840547+00:00",
+  "updated_at": "2026-10-09T15:13:02.175546+00:00",
+  "published_to": []
+}

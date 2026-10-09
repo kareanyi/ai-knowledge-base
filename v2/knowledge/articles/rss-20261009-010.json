@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261009-010",
+  "source": "rss",
+  "source_url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+  "title": "The Hetzner Cloud network stack – history and technical overview",
+  "summary": "Hetzner published a technical blog post detailing the history and architecture of their cloud network infrastructure, explaining how they built and evolved their network stack to support cloud services.",
+  "tech_stack": [
+    "Linux",
+    "Networking",
+    "BGP",
+    "Cloud Infrastructure",
+    "Virtualization"
+  ],
+  "problem_solved": "Provides transparency on how Hetzner built their cloud networking infrastructure from scratch and the technical decisions behind it.",
+  "why_valuable": "Offers rare technical transparency from a cloud provider about their network architecture decisions and evolution, valuable for infrastructure engineers and DevOps professionals.",
+  "tags": [
+    "Cloud",
+    "Networking",
+    "Infrastructure",
+    "Hetzner",
+    "Architecture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-09T15:11:05.012480+00:00",
+  "updated_at": "2026-10-09T15:13:02.176191+00:00",
+  "published_to": []
+}

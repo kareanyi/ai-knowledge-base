@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261009-018",
+  "source": "rss",
+  "source_url": "https://karagila.org/2026/openai-pp/",
+  "title": "OpenAI, the Partition Principle, and Mathematics",
+  "summary": "A philosophical blog post exploring the relationship between OpenAI's AI systems and mathematical reasoning, specifically examining the Partition Principle in set theory and whether modern AI can engage with foundational mathematical concepts at a deep level.",
+  "tech_stack": [
+    "Mathematical Logic",
+    "Set Theory",
+    "AI/LLM",
+    "Philosophy of Mathematics"
+  ],
+  "problem_solved": "Examines whether AI systems like those from OpenAI can genuinely reason about complex mathematical principles or merely simulate mathematical discourse without true understanding.",
+  "why_valuable": "Provides critical philosophical analysis of AI's actual mathematical reasoning capabilities versus pattern matching, relevant to understanding AI limitations in formal reasoning tasks.",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Set Theory",
+    "Philosophy",
+    "OpenAI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-09T15:12:38.928515+00:00",
+  "updated_at": "2026-10-09T15:13:02.177741+00:00",
+  "published_to": []
+}

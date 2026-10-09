@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261009-019",
+  "source": "rss",
+  "source_url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+  "title": "AI-ready biological data: $1.8B global commitment",
+  "summary": "A major global initiative has committed $1.8 billion to make biological data AI-ready, expanding the Virtual Biology Initiative to accelerate computational biology research. This represents a significant investment in data infrastructure for training AI models on biological datasets.",
+  "tech_stack": [
+    "AI/ML",
+    "Cloud Computing",
+    "Biological Data Infrastructure",
+    "High-Performance Computing",
+    "Data Pipelines"
+  ],
+  "problem_solved": "Making vast amounts of biological data structured and accessible for AI/ML model training and analysis",
+  "why_valuable": "This $1.8B commitment addresses the critical bottleneck of AI-unready biological data, enabling breakthroughs in drug discovery, genomics, and precision medicine",
+  "tags": [
+    "AI",
+    "Biology",
+    "Genomics",
+    "Biotech",
+    "Data Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-09T15:12:49.343582+00:00",
+  "updated_at": "2026-10-09T15:13:02.177915+00:00",
+  "published_to": []
+}

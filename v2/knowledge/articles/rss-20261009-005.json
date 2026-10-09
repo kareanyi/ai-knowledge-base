@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261009-005",
+  "source": "rss",
+  "source_url": "https://deno.com/blog/cloudflare",
+  "title": "Deno Is Joining Cloudflare",
+  "summary": "Deno, the modern JavaScript/TypeScript runtime developed by Ryan Dahl (creator of Node.js), announces its joining or deep partnership with Cloudflare, a major edge computing and CDN company. This collaboration aims to bring Deno's secure-by-default runtime to Cloudflare's global edge network, enabling developers to run Deno applications on Cloudflare Workers and related infrastructure.",
+  "tech_stack": [
+    "Deno",
+    "TypeScript",
+    "Cloudflare Workers",
+    "JavaScript",
+    "V8"
+  ],
+  "problem_solved": "Provides a path for Deno to gain wider adoption and enterprise reach by leveraging Cloudflare's extensive edge computing infrastructure and global network.",
+  "why_valuable": "This partnership enables developers to run secure, modern TypeScript code at the edge with native Cloudflare integration, combining Deno's developer-friendly design with Cloudflare's global infrastructure.",
+  "tags": [
+    "Deno",
+    "Cloudflare",
+    "Edge Computing",
+    "JavaScript Runtime",
+    "Serverless"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-09T15:10:10.164952+00:00",
+  "updated_at": "2026-10-09T15:13:02.175146+00:00",
+  "published_to": []
+}

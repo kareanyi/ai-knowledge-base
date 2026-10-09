@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261009-004",
+  "source": "rss",
+  "source_url": "https://oxide.computer/blog/our-445m-series-d",
+  "title": "Our $445M Series D",
+  "summary": "Oxide Computer announced a $445M Series D funding round, representing a significant milestone for the company focused on reimagining server hardware through deep hardware-software co-design with an emphasis on security and operational simplicity.",
+  "tech_stack": [
+    "Rust",
+    "FPGA",
+    "BMC",
+    "Cloud Infrastructure",
+    "Hardware Design"
+  ],
+  "problem_solved": "Traditional server infrastructure lacks modern security practices, operational simplicity, and tight hardware-software integration that Oxide addresses through their first-principles approach.",
+  "why_valuable": "The substantial funding validates the market opportunity for next-generation server infrastructure that tackles fundamental architectural limitations in enterprise hardware.",
+  "tags": [
+    "Hardware",
+    "Servers",
+    "Cloud",
+    "Funding",
+    "Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-09T15:09:55.132493+00:00",
+  "updated_at": "2026-10-09T15:13:02.174914+00:00",
+  "published_to": []
+}

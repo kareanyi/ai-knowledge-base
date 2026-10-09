@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261009-006",
+  "source": "rss",
+  "source_url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
+  "title": "Study: Exercise increases cancer survival rates",
+  "summary": "A peer-reviewed study from the New England Journal of Medicine demonstrating that regular physical exercise is associated with improved survival rates among cancer patients, providing clinical evidence for exercise as a supportive intervention in cancer treatment protocols.",
+  "tech_stack": [
+    "Medical Research",
+    "Clinical Trial",
+    "Statistical Analysis"
+  ],
+  "problem_solved": "Addresses the knowledge gap regarding the direct impact of exercise on cancer patient outcomes and survival rates.",
+  "why_valuable": "Provides evidence-based medical guidance that can inform treatment recommendations and potentially improve cancer patient prognosis through non-pharmacological intervention.",
+  "tags": [
+    "Healthcare",
+    "Oncology",
+    "Cancer Research",
+    "Exercise Medicine",
+    "Public Health"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-09T15:10:18.721252+00:00",
+  "updated_at": "2026-10-09T15:13:02.175349+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261009-017",
+  "source": "rss",
+  "source_url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+  "title": "Keyboard differences between Windows and Macs",
+  "summary": "A practical guide explaining the key differences between Windows and Mac keyboards, including modifier key layouts, shortcut conventions, and ergonomic variations that users encounter when switching between platforms.",
+  "tech_stack": [
+    "Cross-platform",
+    "Hardware",
+    "Operating Systems"
+  ],
+  "problem_solved": "Helps users understand keyboard layout and shortcut differences when working across both Windows and Mac systems.",
+  "why_valuable": "Reduces friction and learning curve for users transitioning between Windows and Mac, improving productivity in multi-platform environments.",
+  "tags": [
+    "Keyboard",
+    "Windows",
+    "Mac",
+    "Cross-platform",
+    "User Guide"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-09T15:12:24.603148+00:00",
+  "updated_at": "2026-10-09T15:13:02.177565+00:00",
+  "published_to": []
+}
