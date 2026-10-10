@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261010-007",
+  "source": "rss",
+  "source_url": "https://rea.tools/",
+  "title": "REA Reverse – Engineer Anything",
+  "summary": "REA Reverse is a tool that helps developers reverse engineer code, APIs, and software to understand how they work. The platform gained significant traction on Hacker News with 520 points and 224 comments, indicating strong community interest in code analysis and understanding tools.",
+  "tech_stack": [
+    "AI",
+    "Code Analysis",
+    "API Analysis",
+    "Reverse Engineering"
+  ],
+  "problem_solved": "Helps developers quickly understand and reverse engineer unfamiliar codebases, APIs, and software components without spending hours manually tracing through code.",
+  "why_valuable": "Reduces time spent on code comprehension and reverse engineering tasks, making it easier for developers to work with legacy systems, third-party APIs, and unfamiliar codebases.",
+  "tags": [
+    "Reverse Engineering",
+    "Developer Tools",
+    "Code Analysis",
+    "AI",
+    "API"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-10T14:25:30.201699+00:00",
+  "updated_at": "2026-10-10T14:27:48.167375+00:00",
+  "published_to": []
+}

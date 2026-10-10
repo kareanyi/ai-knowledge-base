@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-014",
+  "source": "rss",
+  "source_url": "https://minesweeper.mikelacher.com/",
+  "title": "Triple-A Minesweeper",
+  "summary": "Triple-A Minesweeper is a premium-quality, web-based recreation of the classic Minesweeper game featuring polished graphics, smooth animations, and modern design aesthetics. The project gained significant traction on Hacker News with over 1100 points and 220 comments, indicating strong community interest in a refined take on the nostalgic puzzle game.",
+  "tech_stack": [
+    "HTML5",
+    "JavaScript",
+    "CSS3",
+    "Canvas API",
+    "Web Audio API"
+  ],
+  "problem_solved": "It addresses the lack of high-quality, visually impressive web implementations of the classic Minesweeper game that feel modern and polished.",
+  "why_valuable": "It delivers an AAA-quality gaming experience directly in the browser, combining nostalgia with modern web development standards to create an engaging and aesthetically pleasing puzzle game.",
+  "tags": [
+    "Game",
+    "Web Development",
+    "Classic Game",
+    "Frontend",
+    "UI/UX"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-10T14:26:49.680889+00:00",
+  "updated_at": "2026-10-10T14:27:48.168737+00:00",
+  "published_to": []
+}

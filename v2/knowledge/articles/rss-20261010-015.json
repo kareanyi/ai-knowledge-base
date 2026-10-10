@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-015",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+  "title": "Can you use autoregressive diffusion to generate market data?",
+  "summary": "Jane Street researchers explore using autoregressive diffusion models to generate realistic synthetic market data, testing whether this cutting-edge generative AI technique can capture the complex temporal dependencies and cross-sectional correlations present in financial time series.",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "Diffusion Models",
+    "Time Series Analysis",
+    "Quantitative Finance"
+  ],
+  "problem_solved": "Generating realistic synthetic market data for backtesting trading strategies and risk simulation without exposing proprietary or sensitive real market information",
+  "why_valuable": "Provides a rigorous empirical evaluation from a top quant firm on whether modern diffusion-based generative models can handle the unique challenges of financial data, offering actionable insights for practitioners in algorithmic trading and financial ML",
+  "tags": [
+    "Diffusion Models",
+    "Market Data",
+    "Generative AI",
+    "Quantitative Finance",
+    "Time Series"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-10T14:26:59.156816+00:00",
+  "updated_at": "2026-10-10T14:27:48.168924+00:00",
+  "published_to": []
+}

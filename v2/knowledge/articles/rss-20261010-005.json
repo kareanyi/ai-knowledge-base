@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261010-005",
+  "source": "rss",
+  "source_url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+  "title": "Computers Cannot Make Decisions",
+  "summary": "This article explores the philosophical question of whether computers can truly 'make decisions' or merely execute pre-programmed logic and algorithms. Based on Hacker News discussion with 140 points and 120 comments, it appears to address fundamental misconceptions about AI and machine intelligence, arguing that computers lack the genuine decision-making capability that humans possess.",
+  "tech_stack": [
+    "Web",
+    "HTML",
+    "Markdown"
+  ],
+  "problem_solved": "Addresses the common misconception that computers and AI systems are capable of genuine decision-making rather than following deterministic rules.",
+  "why_valuable": "Provides philosophical clarity on the true nature of computational processes and helps set realistic expectations for AI capabilities.",
+  "tags": [
+    "AI",
+    "Philosophy",
+    "Computing",
+    "Decision-making",
+    "Technology"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-10T14:25:09.854047+00:00",
+  "updated_at": "2026-10-10T14:27:48.166962+00:00",
+  "published_to": []
+}

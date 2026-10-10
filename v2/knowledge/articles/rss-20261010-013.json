@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-013",
+  "source": "rss",
+  "source_url": "https://typesafe.ai/blog/series-ai",
+  "title": "Typesafe AI raises $870M at $7.5B",
+  "summary": "Typesafe AI, a company specializing in typesafe AI infrastructure and development tools, has raised $870 million in Series AI funding at a $7.5 billion valuation, marking one of the largest AI startup funding rounds. The significant investment demonstrates strong market confidence in their approach to building safe, reliable AI systems.",
+  "tech_stack": [
+    "Scala",
+    "Kotlin",
+    "AI/ML",
+    "LLM Infrastructure",
+    "Typesafe Stack"
+  ],
+  "problem_solved": "Provides enterprise-grade typesafe infrastructure and tooling for building reliable AI applications at scale.",
+  "why_valuable": "The massive funding validates the growing demand for safer, more predictable AI development practices in enterprise environments.",
+  "tags": [
+    "AI Startup",
+    "Funding",
+    "Enterprise AI",
+    "Software Infrastructure",
+    "Valuation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-10T14:26:39.604624+00:00",
+  "updated_at": "2026-10-10T14:27:48.168546+00:00",
+  "published_to": []
+}

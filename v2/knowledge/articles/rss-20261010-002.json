@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-002",
+  "source": "rss",
+  "source_url": "https://www.opengroup.org//openbrand/register/",
+  "title": "Apple/macOS silently removed from official Unix registry",
+  "summary": "Apple silently removed macOS from The Open Group's official UNIX® Certified Products registry, ending its status as a formally Unix-compliant operating system. This marks a significant shift as macOS had maintained Unix certification since OS X 10.5, and the removal went unnoticed for some time.",
+  "tech_stack": [
+    "macOS",
+    "Unix",
+    "The Open Group",
+    "UNIX Certified",
+    "POSIX"
+  ],
+  "problem_solved": "Reports on the removal of macOS from Unix certification, raising questions about future compatibility guarantees for Unix-dependent applications and development workflows.",
+  "why_valuable": "Important for developers relying on Unix compliance for software deployment, as the certified status previously assured POSIX compatibility and system-level consistency across Unix-like environments.",
+  "tags": [
+    "Apple",
+    "macOS",
+    "Unix",
+    "Certification",
+    "Operating System"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-10T14:24:29.496610+00:00",
+  "updated_at": "2026-10-10T14:27:48.157728+00:00",
+  "published_to": []
+}

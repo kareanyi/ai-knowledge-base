@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-008",
+  "source": "rss",
+  "source_url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+  "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+  "summary": "Broad Institute announces the start of enrollment for a clinical trial testing a drug candidate for prion disease, a rare and uniformly fatal neurodegenerative disorder caused by misfolded proteins. This represents a significant milestone in developing the first potential treatment for these currently untreatable conditions.",
+  "tech_stack": [
+    "Drug Development",
+    "Clinical Trials",
+    "Antisense Oligonucleotides",
+    "Neurodegeneration Research",
+    "Biomarker Analysis"
+  ],
+  "problem_solved": "Addresses the complete lack of approved treatments for prion diseases, which are rapidly progressive and universally fatal neurodegenerative conditions.",
+  "why_valuable": "Offers the first potential therapeutic intervention for prion disease patients, who currently have no treatment options and face certain death typically within months to years of symptom onset.",
+  "tags": [
+    "Clinical Trial",
+    "Prion Disease",
+    "Neurodegeneration",
+    "Drug Development",
+    "Rare Disease"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-10T14:25:39.546327+00:00",
+  "updated_at": "2026-10-10T14:27:48.167571+00:00",
+  "published_to": []
+}

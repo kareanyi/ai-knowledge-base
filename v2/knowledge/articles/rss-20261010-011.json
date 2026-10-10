@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-011",
+  "source": "rss",
+  "source_url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+  "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+  "summary": "Terence Tao, a Fields Medal-winning mathematician, provides guidance for the mathematical community on the Lean Theorem Prover, discussing its reliability, the role of AI in formal verification, and practical considerations for mathematicians adopting computational proof assistants.",
+  "tech_stack": [
+    "Lean",
+    "Formal Verification",
+    "Proof Assistants",
+    "AI/ML",
+    "Mathematical Formalization"
+  ],
+  "problem_solved": "Provides authoritative guidance for mathematicians on using formal theorem provers and understanding AI-assisted proof verification systems",
+  "why_valuable": "Bridges traditional mathematical practice with computational proof verification, offering reliability assessment from a world-leading mathematician",
+  "tags": [
+    "Lean",
+    "Formal Verification",
+    "Proof Assistants",
+    "AI in Mathematics",
+    "Mathematical Software"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-10T14:26:16.425457+00:00",
+  "updated_at": "2026-10-10T14:27:48.168142+00:00",
+  "published_to": []
+}

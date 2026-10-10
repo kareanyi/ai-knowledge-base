@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261010-004",
+  "source": "rss",
+  "source_url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+  "title": "`123456' password used in Danish CPR data breach",
+  "summary": "A Danish government agency suffered a massive data breach exposing citizens' CPR (personal identification number) data, with investigators discovering that the compromised system was protected by the notoriously weak password '123456'. The breach highlights critical failures in basic cybersecurity practices for sensitive government databases.",
+  "tech_stack": [
+    "Authentication Systems",
+    "Government Databases",
+    "CPR System"
+  ],
+  "problem_solved": "Exposes the catastrophic consequences of using weak authentication credentials for systems containing sensitive personal identification data.",
+  "why_valuable": "Serves as a cautionary tale demonstrating why government agencies and organizations must implement strong authentication measures, especially when handling citizens' most sensitive personal information.",
+  "tags": [
+    "Cybersecurity",
+    "Data Breach",
+    "Privacy",
+    "Authentication",
+    "Government"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-10T14:24:57.057032+00:00",
+  "updated_at": "2026-10-10T14:27:48.166756+00:00",
+  "published_to": []
+}

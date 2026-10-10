@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-003",
+  "source": "rss",
+  "source_url": "https://github.com/rociiu/talorys",
+  "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+  "summary": "Talorys is a self-hosted personal AI agent built to run entirely on Cloudflare's free tier infrastructure, allowing users to have their own private AI assistant without subscription costs.",
+  "tech_stack": [
+    "Cloudflare Workers",
+    "Cloudflare D1",
+    "Cloudflare KV",
+    "TypeScript",
+    "LLM Integration"
+  ],
+  "problem_solved": "Provides a free, privacy-focused alternative to commercial AI assistants by self-hosting on Cloudflare's infrastructure.",
+  "why_valuable": "It eliminates both cost barriers and privacy concerns by enabling users to deploy a personal AI agent for free while keeping data under their control.",
+  "tags": [
+    "self-hosted",
+    "AI-agent",
+    "Cloudflare",
+    "privacy",
+    "serverless"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-10T14:24:39.910291+00:00",
+  "updated_at": "2026-10-10T14:27:48.157947+00:00",
+  "published_to": []
+}

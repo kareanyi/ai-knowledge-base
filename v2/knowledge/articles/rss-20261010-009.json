@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261010-009",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1055211/",
+  "title": "Compiling Rust to readable C with Eurydice",
+  "summary": "Eurydice is a Rust compiler backend that transpiles Rust code into readable C, enabling Rust programs to run on platforms without native Rust toolchain support while maintaining interoperability with existing C codebases.",
+  "tech_stack": [
+    "Rust",
+    "C",
+    "Eurydice",
+    "Compiler",
+    "LLVM"
+  ],
+  "problem_solved": "Enables running Rust code in C-centric environments and on platforms lacking Rust toolchain support.",
+  "why_valuable": "Provides a bridge between Rust's memory safety guarantees and C's portability, making Rust more accessible for embedded systems and cross-platform development.",
+  "tags": [
+    "Rust",
+    "C",
+    "Compiler",
+    "Transpiler",
+    "Cross-platform"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-10T14:25:50.884554+00:00",
+  "updated_at": "2026-10-10T14:27:48.167767+00:00",
+  "published_to": []
+}
