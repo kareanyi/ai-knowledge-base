@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-018",
+  "source": "rss",
+  "source_url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+  "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+  "summary": "This Economist obituary honors Cyril Hilsum, a British physicist who invented the active matrix LCD technology that powers virtually all modern flat-screen displays, from smartphones to laptops. His breakthrough work at Royal Signals and Radar Establishment in the 1970s replaced bulky cathode-ray tubes with thin, lightweight screens, enabling the mobile computing revolution.",
+  "tech_stack": [
+    "Liquid Crystal Display (LCD)",
+    "Thin-Film Transistors (TFT)",
+    "Active Matrix Technology",
+    "Semiconductor Physics",
+    "Display Engineering"
+  ],
+  "problem_solved": "Enabled flat, lightweight screens to replace bulky CRT monitors, making portable devices like smartphones and laptops possible",
+  "why_valuable": "His invention laid the technological foundation for the entire mobile computing era and the $100+ billion display industry",
+  "tags": [
+    "Hardware",
+    "LCD",
+    "Innovation",
+    "Biography",
+    "Display Technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-11T14:53:01.963331+00:00",
+  "updated_at": "2026-10-11T14:53:17.914806+00:00",
+  "published_to": []
+}

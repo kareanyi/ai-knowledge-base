@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-012",
+  "source": "rss",
+  "source_url": "https://github.com/othermod/PSPi-Version-6",
+  "title": "PSPi 6 – Raspberry Pi in a PSP",
+  "summary": "A hardware modding project that embeds a Raspberry Pi computer inside a modified PSP (PlayStation Portable) case, creating a portable handheld gaming device capable of running retro game emulators or Raspberry Pi OS.",
+  "tech_stack": [
+    "Raspberry Pi",
+    "PSP Hardware",
+    "RetroPie",
+    "Soldering",
+    "3D Printing"
+  ],
+  "problem_solved": "Provides an affordable, customizable handheld gaming device by repurposing the iconic PSP form factor with modern single-board computing hardware.",
+  "why_valuable": "It offers makers and retro gaming enthusiasts a DIY path to a unique handheld device that combines nostalgic PSP aesthetics with the flexibility of Raspberry Pi software ecosystem.",
+  "tags": [
+    "Hardware Modding",
+    "Retro Gaming",
+    "DIY",
+    "Raspberry Pi",
+    "Handheld Console"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-11T14:51:39.461491+00:00",
+  "updated_at": "2026-10-11T14:53:17.913652+00:00",
+  "published_to": []
+}

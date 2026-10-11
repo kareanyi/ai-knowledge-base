@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-016",
+  "source": "rss",
+  "source_url": "https://ghuntley.com/unikernels/",
+  "title": "Unikernels were hard. key word: were",
+  "summary": "This article discusses how unikernels, a lightweight virtualization technology that packages applications with their minimal operating system dependencies, have historically been difficult to develop and deploy but are becoming more accessible with modern tooling. The author Geofrey Huntley explores the evolving landscape of unikernel development and deployment workflows.",
+  "tech_stack": [
+    "Unikernels",
+    "Solo5/ukvm",
+    "MirageOS",
+    "Containers",
+    "Hypervisors"
+  ],
+  "problem_solved": "Simplifies the traditionally complex process of building and deploying unikernels for cloud-native applications by highlighting modern approaches and tools.",
+  "why_valuable": "Demonstrates how unikernels can provide improved security and performance through isolation while addressing the historical barriers to adoption in production environments.",
+  "tags": [
+    "Unikernels",
+    "Virtualization",
+    "Cloud-Native",
+    "Security",
+    "DevOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-11T14:52:27.515624+00:00",
+  "updated_at": "2026-10-11T14:53:17.914430+00:00",
+  "published_to": []
+}

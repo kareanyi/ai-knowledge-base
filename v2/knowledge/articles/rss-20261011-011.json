@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-011",
+  "source": "rss",
+  "source_url": "https://lineageos.org/Changelog-32/",
+  "title": "LineageOS 24.0",
+  "summary": "LineageOS 24.0 是开源 Android 定制 ROM 的重大更新版本，提供增强的隐私控制、改进的系统稳定性和更新的安全补丁，让用户无需等待厂商推送即可获得最新 Android 功能。",
+  "tech_stack": [
+    "Android",
+    "Linux Kernel",
+    "AOSP",
+    "Java",
+    "C++"
+  ],
+  "problem_solved": "解决旧款 Android 设备无法获得官方系统更新和安全补丁的问题，让用户延长设备使用寿命同时保持系统安全。",
+  "why_valuable": "为不想频繁更换手机或使用停维设备的用户提供了持续获得安全更新的途径，同时提供原生 Android 之外的定制化选择。",
+  "tags": [
+    "Android",
+    "Custom ROM",
+    "Open Source",
+    "Mobile OS",
+    "Privacy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-11T14:51:29.126482+00:00",
+  "updated_at": "2026-10-11T14:53:17.913461+00:00",
+  "published_to": []
+}

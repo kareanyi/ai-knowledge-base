@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261011-010",
+  "source": "rss",
+  "source_url": "https://status.yandex.cloud/en/incidents/2136",
+  "title": "3rd Yandex Cloud Data Center Was Hit",
+  "summary": "Yandex Cloud reported a service disruption incident at their third data center, causing potential downtime or degradation for cloud services. The incident was documented on their official status page with 423 Hacker News comments discussing the outage's impact and Yandex's infrastructure reliability.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "Distributed Systems",
+    "Data Center Operations"
+  ],
+  "problem_solved": "Documents a cloud service outage rather than solving a problem; provides transparency about infrastructure incidents for affected customers.",
+  "why_valuable": "Demonstrates cloud provider transparency and incident communication practices, which are critical for enterprise customers evaluating service reliability.",
+  "tags": [
+    "Cloud",
+    "Infrastructure",
+    "Incident",
+    "Outage",
+    "Reliability"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-11T14:51:21.392924+00:00",
+  "updated_at": "2026-10-11T14:53:17.913269+00:00",
+  "published_to": []
+}

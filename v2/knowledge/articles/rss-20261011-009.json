@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-009",
+  "source": "rss",
+  "source_url": "https://ircv3.net/",
+  "title": "IRCv3",
+  "summary": "IRCv3.net 是一个展示 IRC 协议第三版扩展规范的官方网站，提供了 SASL 认证、消息标签、能力协商等现代化功能，同时保持与传统 IRC 的向后兼容性，让这个有着 30 多年历史的协议重新焕发活力。",
+  "tech_stack": [
+    "IRC Protocol",
+    "SASL",
+    "TLS/SSL",
+    "Web",
+    "OpenSSL"
+  ],
+  "problem_solved": "解决了传统 IRC 协议缺乏现代安全认证、消息元数据和可扩展性问题，使 IRC 能够适应现代互联网环境。",
+  "why_valuable": "它为古老的 IRC 协议带来了安全认证、消息标签等现代化特性，同时保持向后兼容，让经典协议得以延续并与当代聊天应用竞争。",
+  "tags": [
+    "IRC",
+    "Protocol",
+    "Chat",
+    "OpenSource",
+    "Networking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-11T14:51:10.209863+00:00",
+  "updated_at": "2026-10-11T14:53:17.913080+00:00",
+  "published_to": []
+}

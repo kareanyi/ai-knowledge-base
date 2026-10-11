@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-008",
+  "source": "rss",
+  "source_url": "https://nitter.net",
+  "title": "Nitter: Update Oct 10th seeking funding and legal help",
+  "summary": "Nitter is an open-source alternative front-end for Twitter/X that is currently seeking funding and legal assistance to sustain operations. The project, which provides a privacy-focused, ad-free interface to Twitter, is facing resource challenges typical of independent open-source initiatives.",
+  "tech_stack": [
+    "Nim",
+    "Redis",
+    "Self-hosted",
+    "RSS",
+    "Docker"
+  ],
+  "problem_solved": "Provides a free, open-source alternative to Twitter/X that respects user privacy and removes ads/tracking.",
+  "why_valuable": "Demonstrates community resilience by creating a decentralized, privacy-respecting alternative to proprietary social media platforms.",
+  "tags": [
+    "Open Source",
+    "Privacy",
+    "Twitter Alternative",
+    "Self-hosted",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-11T14:51:00.293245+00:00",
+  "updated_at": "2026-10-11T14:53:17.912860+00:00",
+  "published_to": []
+}

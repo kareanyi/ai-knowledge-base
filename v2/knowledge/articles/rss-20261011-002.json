@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-002",
+  "source": "rss",
+  "source_url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+  "title": "Terence Tao: Math 2.0 [pdf]",
+  "summary": "Terence Tao presents his vision for 'Math 2.0' at Caltech, exploring how artificial intelligence, formal verification tools, and large language models are fundamentally transforming mathematical research, proof verification, and education. This presentation likely discusses the paradigm shift from traditional pen-and-paper mathematics to a new era where computational tools and AI assistants augment human mathematical reasoning.",
+  "tech_stack": [
+    "Python",
+    "Lean (Proof Assistant)",
+    "Large Language Models",
+    "Formal Verification",
+    "Machine Learning"
+  ],
+  "problem_solved": "Addresses how mathematics should evolve in the age of AI and computational tools to maintain rigor while leveraging new technologies for discovery and verification.",
+  "why_valuable": "Terence Tao's authority as a Fields Medalist provides unique credibility in predicting how the intersection of AI and mathematics will reshape the field's future direction.",
+  "tags": [
+    "Mathematics",
+    "Artificial Intelligence",
+    "Formal Verification",
+    "Academic Research",
+    "Computational Tools"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-11T14:49:47.209533+00:00",
+  "updated_at": "2026-10-11T14:53:17.903513+00:00",
+  "published_to": []
+}

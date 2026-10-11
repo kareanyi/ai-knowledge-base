@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261011-014",
+  "source": "rss",
+  "source_url": "https://housing.over.pizza/",
+  "title": "A city-building game in which the city would prefer you didn't",
+  "summary": "A satirical city-building browser game that mocks NIMBYism by forcing players to fight against existing residents who oppose new housing construction, turning urban planning frustration into gameplay mechanics.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML5 Canvas",
+    "Web Game"
+  ],
+  "problem_solved": "Illustrates the absurdity of housing opposition and NIMBY policies through an interactive, humorous gameplay experience.",
+  "why_valuable": "Transforms a serious housing policy issue into an engaging game that makes complex urban planning problems accessible and entertaining while delivering a pointed social commentary.",
+  "tags": [
+    "Game",
+    "Satire",
+    "Housing",
+    "NIMBY",
+    "Web Game"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-11T14:52:07.119349+00:00",
+  "updated_at": "2026-10-11T14:53:17.914059+00:00",
+  "published_to": []
+}

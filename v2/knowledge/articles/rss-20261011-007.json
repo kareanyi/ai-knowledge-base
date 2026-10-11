@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261011-007",
+  "source": "rss",
+  "source_url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+  "title": "I paid people to try and follow my README",
+  "summary": "The author conducted an experiment paying real users to follow and execute the instructions in their project's README file, revealing how documentation that seems clear to maintainers can be confusing or incomplete for actual users. This human-centered testing approach uncovered practical usability issues that automated testing cannot detect.",
+  "tech_stack": [
+    "Documentation",
+    "Open Source",
+    "Usability Testing"
+  ],
+  "problem_solved": "Tests whether README documentation is actually understandable and followable by real users rather than just the project author.",
+  "why_valuable": "Reveals the gap between developer assumptions and actual user experience, helping open source maintainers create more accessible documentation.",
+  "tags": [
+    "documentation",
+    "open-source",
+    "usability-testing",
+    "developer-experience",
+    "user-research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-11T14:50:49.451273+00:00",
+  "updated_at": "2026-10-11T14:53:17.912659+00:00",
+  "published_to": []
+}

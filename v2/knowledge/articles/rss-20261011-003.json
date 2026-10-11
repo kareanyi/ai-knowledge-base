@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261011-003",
+  "source": "rss",
+  "source_url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+  "title": "The tilde in your PATH may not be your HOME",
+  "summary": "This article explores a subtle Unix/Linux shell behavior where placing a tilde (~) in the PATH environment variable may not expand to the user's HOME directory as expected. The issue occurs because tilde expansion is performed by the shell during command parsing, not by the system when reading PATH, leading to unexpected behavior in certain contexts.",
+  "tech_stack": [
+    "Linux",
+    "Bash",
+    "Shell Scripting",
+    "Unix"
+  ],
+  "problem_solved": "Explains why adding ~ to PATH may fail to resolve to the user's home directory in certain scenarios.",
+  "why_valuable": "Helps developers avoid a common but hard-to-debug pitfall that can break scripts and environment configurations in unexpected ways.",
+  "tags": [
+    "Linux",
+    "Shell",
+    "PATH",
+    "Unix",
+    "Debugging"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-11T14:49:58.320667+00:00",
+  "updated_at": "2026-10-11T14:53:17.903713+00:00",
+  "published_to": []
+}

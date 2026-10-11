@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261011-005",
+  "source": "rss",
+  "source_url": "https://betterwispr.com/",
+  "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+  "summary": "BetterWispr is a free, open-source dictation application for Mac that provides local speech-to-text functionality, likely leveraging the Whisper AI model for accurate voice recognition without cloud dependencies.",
+  "tech_stack": [
+    "Swift",
+    "macOS",
+    "Whisper",
+    "Open Source"
+  ],
+  "problem_solved": "Provides a free, privacy-focused alternative to paid or cloud-based dictation services on Mac.",
+  "why_valuable": "Enables users to transcribe speech to text locally, ensuring data privacy while eliminating subscription costs for dictation tools.",
+  "tags": [
+    "MacOS",
+    "Dictation",
+    "Open Source",
+    "Speech-to-Text",
+    "Privacy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-11T14:50:26.465104+00:00",
+  "updated_at": "2026-10-11T14:53:17.912260+00:00",
+  "published_to": []
+}

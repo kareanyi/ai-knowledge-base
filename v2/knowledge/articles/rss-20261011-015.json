@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261011-015",
+  "source": "rss",
+  "source_url": "https://www.thomas-huehn.com/knuth-reward-check/",
+  "title": "Knuth reward check",
+  "summary": "A blog post discussing Donald Knuth's famous tradition of issuing reward checks (typically $2.00) to readers who find errors in his books, particularly 'The Art of Computer Programming'. The post explores this unique practice that has become a celebrated part of computer science culture.",
+  "tech_stack": [],
+  "problem_solved": "Encourages community participation in error detection and quality assurance for academic technical publications.",
+  "why_valuable": "This tradition embodies the rigorous standards of computer science and creates an engaging connection between authors and readers, while promoting thoroughness in technical writing.",
+  "tags": [
+    "ComputerScience",
+    "Knuth",
+    "TAOCP",
+    "Academic",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-11T14:52:18.785339+00:00",
+  "updated_at": "2026-10-11T14:53:17.914246+00:00",
+  "published_to": []
+}

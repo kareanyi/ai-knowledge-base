@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-019",
+  "source": "rss",
+  "source_url": "https://hexrat.cc/pages/blog/2026_10_07",
+  "title": "Rat's Register Allocator",
+  "summary": "A technical blog post discussing the implementation of a register allocator for a compiler or assembler project, shared by a developer using the nickname 'Rat' on their personal website. The post appears to cover compiler optimization techniques for efficiently managing CPU registers during code generation.",
+  "tech_stack": [
+    "Compiler Design",
+    "Low-level Programming",
+    "Assembly",
+    "Optimization Theory",
+    "Possibly Rust or C"
+  ],
+  "problem_solved": "Efficiently allocating CPU registers to program variables during compilation, a fundamental NP-hard optimization problem in compiler backends.",
+  "why_valuable": "Register allocation is critical for generating performant machine code, and implementing a custom allocator demonstrates deep understanding of compiler internals and low-level system behavior.",
+  "tags": [
+    "compiler",
+    "register-allocation",
+    "low-level",
+    "optimization",
+    "software-engineering"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-11T14:53:16.788971+00:00",
+  "updated_at": "2026-10-11T14:53:17.915006+00:00",
+  "published_to": []
+}

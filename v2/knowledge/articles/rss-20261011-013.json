@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261011-013",
+  "source": "rss",
+  "source_url": "https://nishtahir.com/build-your-own-decision-model/",
+  "title": "Build your own decision model",
+  "summary": "This article explores how to design and implement custom decision models in software, covering patterns and approaches for building maintainable rule-based systems. The author shares practical techniques for representing complex decision logic in code, making it easier to modify and reason about business rules.",
+  "tech_stack": [
+    "Python",
+    "State Machines",
+    "Rule Engine",
+    "DSL",
+    "Data Structures"
+  ],
+  "problem_solved": "Provides a structured approach to building maintainable, testable decision logic that avoids spaghetti if-else code in complex applications.",
+  "why_valuable": "Decision models are ubiquitous in software (auth, business rules, game logic), and this article offers a systematic way to implement them cleanly.",
+  "tags": [
+    "Software Design",
+    "Decision Trees",
+    "Programming",
+    "Architecture",
+    "Patterns"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-11T14:51:49.165822+00:00",
+  "updated_at": "2026-10-11T14:53:17.913839+00:00",
+  "published_to": []
+}
