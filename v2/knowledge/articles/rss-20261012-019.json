@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-019",
+  "source": "rss",
+  "source_url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+  "title": "Fingerprints are the new cookies",
+  "summary": "这篇文章探讨了浏览器指纹识别技术如何成为第三方cookies的替代方案，用于跨网站用户追踪。作者解释了指纹识别的工作原理——通过收集浏览器和设备特征（如屏幕分辨率、字体、时区、Canvas渲染等）来创建唯一用户标识，并分析了这一技术对数字隐私的影响。",
+  "tech_stack": [
+    "Web APIs",
+    "JavaScript",
+    "Browser Fingerprinting",
+    "HTML5 Canvas",
+    "CSS"
+  ],
+  "problem_solved": "解决在第三方cookies逐步被淘汰后，广告商和追踪公司寻找替代方案来进行用户识别和追踪的问题。",
+  "why_valuable": "帮助用户和开发者理解数字隐私的新威胁，了解追踪技术如何演变，以及如何在日益复杂的网络环境中保护个人隐私。",
+  "tags": [
+    "Privacy",
+    "Web Security",
+    "Tracking",
+    "Cookies",
+    "Fingerprinting"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-12T17:41:20.732689+00:00",
+  "updated_at": "2026-10-12T17:41:21.934064+00:00",
+  "published_to": []
+}

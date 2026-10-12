@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-004",
+  "source": "rss",
+  "source_url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+  "title": "A Modern Web App in C",
+  "summary": "An article demonstrating how to build a modern web application using the C programming language, showcasing that C remains viable for contemporary web development beyond traditional systems programming.",
+  "tech_stack": [
+    "C",
+    "HTTP Server",
+    "HTML/CSS",
+    "SQLite",
+    "Make/GCC"
+  ],
+  "problem_solved": "Challenges the misconception that C is only suitable for low-level systems work by demonstrating a full-stack web application implementation.",
+  "why_valuable": "Provides insights into web fundamentals through C's low-level approach, offering performance benefits and deeper understanding of HTTP, sockets, and request handling.",
+  "tags": [
+    "C",
+    "Web Development",
+    "Backend",
+    "Systems Programming",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-12T17:38:10.086291+00:00",
+  "updated_at": "2026-10-12T17:41:21.931047+00:00",
+  "published_to": []
+}

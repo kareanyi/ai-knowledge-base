@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-001",
+  "source": "rss",
+  "source_url": "https://research.meta.ai/blog/muse-wonder",
+  "title": "Muse Wonder",
+  "summary": "Muse Wonder 是 Meta AI Research 开发的多模态生成式 AI 系统，能够根据文本提示创建和编辑图像内容，属于 Muse 系列生成模型的一部分。该项目展示了在高质量图像合成和精确控制方面的技术突破。",
+  "tech_stack": [
+    "PyTorch",
+    "Transformer",
+    "Diffusion Models",
+    "Multi-modal AI",
+    "Computer Vision"
+  ],
+  "problem_solved": "解决了传统图像生成模型在细节控制、生成质量和编辑灵活性方面的局限性。",
+  "why_valuable": "它为创作者和开发者提供了一个强大的开源图像生成工具，推动了 AI 辅助创意内容创作的发展。",
+  "tags": [
+    "Generative AI",
+    "Image Generation",
+    "Computer Vision",
+    "Meta AI",
+    "Deep Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-12T17:37:40.001735+00:00",
+  "updated_at": "2026-10-12T17:41:21.921787+00:00",
+  "published_to": []
+}

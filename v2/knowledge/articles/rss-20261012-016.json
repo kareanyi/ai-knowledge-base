@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-016",
+  "source": "rss",
+  "source_url": "https://github.com/snuri00/ps2-web-recomp",
+  "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+  "summary": "A project that statically recompiles PlayStation 2 game binaries (MIPS architecture) to WebAssembly, enabling PS2 games to run directly in web browsers without plugins or traditional emulation layers.",
+  "tech_stack": [
+    "WebAssembly",
+    "MIPS Assembly",
+    "Static Recompilation",
+    "C/C++",
+    "JavaScript"
+  ],
+  "problem_solved": "Enables legacy PS2 games to run on modern web browsers by translating native MIPS machine code to WebAssembly bytecode.",
+  "why_valuable": "Preserves gaming history by making PS2 games accessible through a universal, browser-based platform without requiring native installation or traditional dynamic emulation.",
+  "tags": [
+    "WebAssembly",
+    "Retro Gaming",
+    "Emulation",
+    "Static Recompilation",
+    "PS2"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-12T17:40:46.469766+00:00",
+  "updated_at": "2026-10-12T17:41:21.933451+00:00",
+  "published_to": []
+}

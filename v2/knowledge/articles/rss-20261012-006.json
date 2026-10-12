@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-006",
+  "source": "rss",
+  "source_url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+  "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+  "summary": "Major French supermarket chains were hit by an unprecedented cyberattack that forced them to shut down refrigeration systems, causing significant disruption to food storage and retail operations across the country.",
+  "tech_stack": [
+    "Ransomware",
+    "IoT Systems",
+    "SCADA",
+    "Refrigeration Control Systems",
+    "Point-of-Sale"
+  ],
+  "problem_solved": "This article reports on a cybersecurity incident rather than solving a problem; it highlights the vulnerability of critical infrastructure to cyberattacks.",
+  "why_valuable": "Demonstrates the real-world consequences of cyberattacks on essential services and serves as a warning about the security risks of connected IoT devices in the food supply chain.",
+  "tags": [
+    "Cybersecurity",
+    "Ransomware",
+    "Critical Infrastructure",
+    "Food Supply",
+    "IoT Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-12T17:38:33.541581+00:00",
+  "updated_at": "2026-10-12T17:41:21.931459+00:00",
+  "published_to": []
+}

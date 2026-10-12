@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-003",
+  "source": "rss",
+  "source_url": "https://github.com/morluto/rea",
+  "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+  "summary": "REA (Reverse Engineering Agent) is an AI-powered tool that uses autonomous agents to automate reverse engineering tasks, capable of analyzing both application behavior and native binaries through an agent-based architecture.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "Ghidra",
+    "LLM",
+    "Docker"
+  ],
+  "problem_solved": "Automates the time-consuming and complex process of reverse engineering software by leveraging AI agents to analyze binaries and app behavior.",
+  "why_valuable": " democratizes reverse engineering by making it more accessible to developers and security researchers who lack deep expertise in binary analysis.",
+  "tags": [
+    "Reverse Engineering",
+    "AI Agents",
+    "Binary Analysis",
+    "Security Research",
+    "LLM"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-12T17:38:00.781790+00:00",
+  "updated_at": "2026-10-12T17:41:21.922259+00:00",
+  "published_to": []
+}

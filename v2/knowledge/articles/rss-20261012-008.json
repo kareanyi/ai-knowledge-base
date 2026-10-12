@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261012-008",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/",
+  "title": "Hackers heat French supermarket fridges, sparking fires and food losses",
+  "summary": "A cyberattack targeting Intermarché, a major French supermarket chain, compromised 150 stores by manipulating connected refrigeration systems, causing them to overheat, resulting in fires and significant food losses. This incident highlights the growing vulnerability of IoT infrastructure in retail operations.",
+  "tech_stack": [
+    "IoT Devices",
+    "Industrial Control Systems",
+    "Connected Refrigeration",
+    "SCADA Systems"
+  ],
+  "problem_solved": "This article reports a cybersecurity incident rather than solving a problem, but raises awareness about the risks of unprotected IoT devices in critical retail infrastructure.",
+  "why_valuable": "Demonstrates the real-world consequences of IoT security vulnerabilities in food supply chain infrastructure, serving as a cautionary case for organizations deploying connected devices.",
+  "tags": [
+    "cybersecurity",
+    "IoT",
+    "retail",
+    "infrastructure",
+    "food-safety"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-12T17:39:09.148564+00:00",
+  "updated_at": "2026-10-12T17:41:21.931879+00:00",
+  "published_to": []
+}

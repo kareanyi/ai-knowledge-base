@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261012-002",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50059096",
+  "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+  "summary": "Agent37 is a Y Combinator F26 startup that provides extremely low-cost sandbox environments for running AI agents, offering services at under 10% of typical market costs with customers averaging just $0.37/month per sandbox. The company started as an OpenClaw wrapper and has evolved to provide more comprehensive sandboxing solutions for AI agent development and testing.",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "Containerization",
+    "Sandbox Technology",
+    "AI Agent Frameworks"
+  ],
+  "problem_solved": "Solves the problem of prohibitively expensive sandbox infrastructure for AI agent development, making it accessible for developers and small teams to test and deploy AI agents at scale.",
+  "why_valuable": "It democratizes AI agent development by reducing infrastructure costs by over 90%, enabling more developers and startups to build and iterate on AI agent applications without financial barriers.",
+  "tags": [
+    "AI Agents",
+    "Cloud Infrastructure",
+    "Developer Tools",
+    "Cost Optimization",
+    "YC Startup"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-12T17:37:50.791448+00:00",
+  "updated_at": "2026-10-12T17:41:21.922096+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-005",
+  "source": "rss",
+  "source_url": "https://z.ai/blog/glm-legal",
+  "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+  "summary": "GLM-Legal is an agentic AI system designed for legal intelligence, leveraging large language models and autonomous AI agents to automate legal research, document analysis, and case reasoning. The system represents a significant advancement in applying agentic AI to the complex domain of legal work, enabling more efficient and accurate legal analysis through multi-step reasoning and tool use.",
+  "tech_stack": [
+    "GLM (General Language Model)",
+    "AI Agents",
+    "RAG (Retrieval Augmented Generation)",
+    "Python",
+    "Legal Document Processing"
+  ],
+  "problem_solved": "Automates complex legal research and document analysis tasks that traditionally require extensive human expertise and time.",
+  "why_valuable": "Enables legal professionals to process large volumes of legal documents and case law more efficiently while maintaining high accuracy in legal reasoning and analysis.",
+  "tags": [
+    "LegalTech",
+    "AI Agents",
+    "Legal Research",
+    "LLM Applications",
+    "Document Intelligence"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-12T17:38:23.996065+00:00",
+  "updated_at": "2026-10-12T17:41:21.931270+00:00",
+  "published_to": []
+}

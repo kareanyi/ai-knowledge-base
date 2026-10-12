@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-018",
+  "source": "rss",
+  "source_url": "https://github.com/shaongitbd/doory",
+  "title": "Doory – Open-Source Canva",
+  "summary": "Doory is an open-source web-based graphic design tool that aims to be a free alternative to Canva, allowing users to create visual designs, presentations, and social media graphics directly in the browser without subscription fees.",
+  "tech_stack": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Canvas API",
+    "WebGL"
+  ],
+  "problem_solved": "Provides a free, self-hostable alternative to Canva for creating professional designs without recurring subscription costs.",
+  "why_valuable": "Empowers designers and developers with full control over their design tools through open-source development, customization options, and privacy-friendly self-hosting capabilities.",
+  "tags": [
+    "Open Source",
+    "Design Tool",
+    "Canva Alternative",
+    "Web Application",
+    "DIY"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-12T17:41:09.231762+00:00",
+  "updated_at": "2026-10-12T17:41:21.933861+00:00",
+  "published_to": []
+}

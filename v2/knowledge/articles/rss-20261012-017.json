@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-017",
+  "source": "rss",
+  "source_url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+  "title": "Type-safe HTML templating in Zig",
+  "summary": "This article explores implementing type-safe HTML templating in Zig by leveraging the language's powerful comptime (compile-time execution) features. It demonstrates how to create HTML templates with compile-time validation, catching errors before runtime and providing better developer experience for web development.",
+  "tech_stack": [
+    "Zig",
+    "HTML",
+    "Comptime",
+    "Web Templating",
+    "Compile-time Validation"
+  ],
+  "problem_solved": "Addresses the lack of type safety in traditional HTML templating systems where template errors only surface at runtime.",
+  "why_valuable": "Brings compile-time guarantees to HTML templating, eliminating entire classes of runtime errors and making web development more reliable in Zig.",
+  "tags": [
+    "Zig",
+    "HTML",
+    "Templating",
+    "Type-Safety",
+    "Web Development"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-12T17:40:58.709723+00:00",
+  "updated_at": "2026-10-12T17:41:21.933661+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261012-013",
+  "source": "rss",
+  "source_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+  "title": "QGIS: No A contributions permitted",
+  "summary": "这是QGIS（开源地理信息系统）项目的一个增强提案pull request，讨论了贡献政策相关的问题，可能是关于限制某些类型代码贡献的规定，引发了社区广泛讨论。",
+  "tech_stack": [
+    "QGIS",
+    "Python",
+    "C++",
+    "Git/GitHub"
+  ],
+  "problem_solved": "解决开源项目贡献管理中的质量控制或政策规范问题。",
+  "why_valuable": "反映了大型开源项目在贡献治理方面的挑战和实践经验，对其他开源社区具有参考价值。",
+  "tags": [
+    "OpenSource",
+    "GIS",
+    "Governance",
+    "Community",
+    "Policy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-12T17:40:04.472716+00:00",
+  "updated_at": "2026-10-12T17:41:21.932879+00:00",
+  "published_to": []
+}

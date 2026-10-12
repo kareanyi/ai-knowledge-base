@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261012-007",
+  "source": "rss",
+  "source_url": "https://taylor.town/kk-ai-2026",
+  "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+  "summary": "A retrospective analysis examining how Kevin Kelly's AI predictions from his 2016 book 'The Inevitable' have held up against the actual state of AI development in 2026, evaluating the accuracy of his forecasts about AI's role in society and technology.",
+  "tech_stack": [
+    "AI",
+    "Machine Learning",
+    "Natural Language Processing"
+  ],
+  "problem_solved": "Evaluates the accuracy of decade-old AI predictions to understand forecasting limitations and AI's true evolution trajectory.",
+  "why_valuable": "Provides critical insight into the reliability of technology predictions and highlights the gap between expert forecasts and actual AI progress.",
+  "tags": [
+    "AI Predictions",
+    "Technology Forecasting",
+    "Kevin Kelly",
+    "Retrospective Analysis",
+    "Wired"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-12T17:38:43.640263+00:00",
+  "updated_at": "2026-10-12T17:41:21.931673+00:00",
+  "published_to": []
+}

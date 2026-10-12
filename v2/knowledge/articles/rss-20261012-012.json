@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-012",
+  "source": "rss",
+  "source_url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+  "title": "Incident with Actions, Pull Requests and Issues",
+  "summary": "GitHub experienced a service disruption affecting Actions, Pull Requests, and Issues features, which was reported on GitHub Status and discussed on Hacker News with significant community engagement (120 points, 107 comments).",
+  "tech_stack": [
+    "GitHub Actions",
+    "GitHub Issues",
+    "Pull Requests",
+    "Azure DevOps",
+    "Git"
+  ],
+  "problem_solved": "This incident report documents a GitHub platform outage affecting core development workflow features rather than solving a problem.",
+  "why_valuable": "Provides transparency on platform reliability and helps developers understand the scope and nature of major SaaS service disruptions affecting millions of developers worldwide.",
+  "tags": [
+    "GitHub",
+    "Incident Report",
+    "Outage",
+    "DevOps",
+    "Platform Reliability"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-12T17:39:54.363064+00:00",
+  "updated_at": "2026-10-12T17:41:21.932680+00:00",
+  "published_to": []
+}

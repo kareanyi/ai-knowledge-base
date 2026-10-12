@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-011",
+  "source": "rss",
+  "source_url": "https://github.com/h0m3us3r/w1700k-sdr",
+  "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+  "summary": "This project demonstrates how to repurpose a WiFi 7 router (based on Qualcomm Networking Pro 920 platform) into a 320Msps Software Defined Radio receiver by exploiting the router's built-in RF hardware and FPGA capabilities for signal processing.",
+  "tech_stack": [
+    "WiFi 7 Router",
+    "Qualcomm Networking Pro 920",
+    "FPGA",
+    "SDR",
+    "C/C++"
+  ],
+  "problem_solved": "Provides a low-cost solution for acquiring a high-performance SDR receiver by repurposing consumer-grade networking hardware instead of purchasing expensive dedicated SDR equipment.",
+  "why_valuable": "Demonstrates creative hardware repurposing that can save users thousands of dollars while achieving professional-grade 320Msps sampling rates for radio experimentation and signal analysis.",
+  "tags": [
+    "SDR",
+    "Hardware Hacking",
+    "WiFi 7",
+    "FPGA",
+    "Radio"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-12T17:39:43.754276+00:00",
+  "updated_at": "2026-10-12T17:41:21.932465+00:00",
+  "published_to": []
+}

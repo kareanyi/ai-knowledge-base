@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261012-015",
+  "source": "rss",
+  "source_url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+  "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+  "summary": "A security researcher discovered a critical Remote Code Execution vulnerability in Google's developer site (devsite) caused by insecure Flask session handling using pickle serialization, earning a $90,000 bug bounty reward.",
+  "tech_stack": [
+    "Flask",
+    "Python",
+    "Pickle",
+    "Google DevSite",
+    "Web Security"
+  ],
+  "problem_solved": "Exploits insecure pickle-based session serialization in Flask applications to achieve arbitrary code execution on Google's infrastructure.",
+  "why_valuable": "Demonstrates a critical vulnerability in a major tech company's platform, provides educational content for security researchers, and highlights the dangers of using pickle for session data.",
+  "tags": [
+    "Security",
+    "Bug Bounty",
+    "Vulnerability Research",
+    "Flask",
+    "RCE"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-12T17:40:36.174172+00:00",
+  "updated_at": "2026-10-12T17:41:21.933262+00:00",
+  "published_to": []
+}
