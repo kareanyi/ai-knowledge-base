@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261013-016",
+  "source": "rss",
+  "source_url": "https://github.com/bherbruck/solidcraft",
+  "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+  "summary": "SolidCraft is an open-source parametric CAD (Computer-Aided Design) application built entirely in Rust, featuring Model Context Protocol (MCP) integration for AI-assisted design workflows. It aims to provide a free, performant, and memory-safe alternative to proprietary CAD software while enabling AI-driven automation and context-aware interactions.",
+  "tech_stack": [
+    "Rust",
+    "MCP (Model Context Protocol)",
+    "Parametric CAD"
+  ],
+  "problem_solved": "Provides an open-source, memory-safe parametric CAD solution with AI integration capabilities, challenging expensive proprietary CAD tools.",
+  "why_valuable": "Combines Rust's performance and safety guarantees with modern AI integration, making professional CAD design accessible while enabling intelligent automation through MCP.",
+  "tags": [
+    "CAD",
+    "Rust",
+    "Open Source",
+    "Parametric Design",
+    "MCP"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-13T15:49:03.475902+00:00",
+  "updated_at": "2026-10-13T15:49:46.558827+00:00",
+  "published_to": []
+}

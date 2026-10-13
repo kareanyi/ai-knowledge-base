@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-020",
+  "source": "rss",
+  "source_url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+  "title": "Who is vfmaddrnd231pd?",
+  "summary": "A blog post investigating the identity or meaning behind the identifier 'vfmaddrnd231pd', which appears to be related to x86 SIMD instructions (likely Vector Fused Multiply-Add with specific rounding modes). The article received significant attention on Hacker News with 239 points.",
+  "tech_stack": [
+    "Assembly",
+    "x86",
+    "SIMD",
+    "Reverse Engineering",
+    "Blog"
+  ],
+  "problem_solved": "Identifying and explaining the origin or meaning of the mysterious identifier 'vfmaddrnd231pd' in what appears to be a technical detective story.",
+  "why_valuable": "Provides insight into low-level computer architecture and x86 instruction sets while demonstrating investigative technical writing that engaged the Hacker News community.",
+  "tags": [
+    "Assembly",
+    "x86",
+    "SIMD",
+    "ReverseEngineering",
+    "HackerNews"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-13T15:49:45.659494+00:00",
+  "updated_at": "2026-10-13T15:49:46.559264+00:00",
+  "published_to": []
+}

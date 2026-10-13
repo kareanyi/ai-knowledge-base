@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-003",
+  "source": "rss",
+  "source_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+  "title": "New Apple TV 4K",
+  "summary": "Apple announced the next-generation Apple TV 4K with enhanced processing power, improved streaming capabilities, and deeper integration with the Apple ecosystem, continuing its position as a premium streaming device for home entertainment.",
+  "tech_stack": [
+    "A15 Bionic chip",
+    "tvOS",
+    "HomeKit",
+    "AirPlay",
+    "HDR10+"
+  ],
+  "problem_solved": "Provides users with a faster, more powerful streaming experience with better video quality and smarter home integration.",
+  "why_valuable": "Delivers superior performance for 4K HDR streaming, gaming via Apple Arcade, and serves as a smart home hub, making it a central entertainment and automation device for Apple users.",
+  "tags": [
+    "Apple",
+    "Smart TV",
+    "Streaming",
+    "Home Entertainment",
+    "4K HDR"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-13T15:46:55.679689+00:00",
+  "updated_at": "2026-10-13T15:49:46.548223+00:00",
+  "published_to": []
+}

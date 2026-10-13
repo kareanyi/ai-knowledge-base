@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-017",
+  "source": "rss",
+  "source_url": "https://github.com/prabanta-dev/janas",
+  "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+  "summary": "Janas 是一个开源项目，通过 SSD 流式传输技术实现比 RAM 更大的 LLM 运行。它采用类似 MoE（混合专家）架构的专家模型策略，按需从 SSD 加载模型层到内存，突破本地硬件内存限制。",
+  "tech_stack": [
+    "LLM",
+    "SSD Streaming",
+    "Python",
+    "MoE Architecture",
+    "Memory Optimization"
+  ],
+  "problem_solved": "解决本地硬件 RAM 容量不足时无法运行大型语言模型的问题",
+  "why_valuable": "大幅降低运行大型 LLM 的硬件门槛，让普通消费级设备也能运行超出物理内存容量的模型",
+  "tags": [
+    "AI",
+    "LLM",
+    "Performance",
+    "Memory-Optimization",
+    "Open-Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-13T15:49:14.214791+00:00",
+  "updated_at": "2026-10-13T15:49:46.558938+00:00",
+  "published_to": []
+}

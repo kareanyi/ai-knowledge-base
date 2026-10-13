@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-009",
+  "source": "rss",
+  "source_url": "https://eg2.haku.sh/",
+  "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+  "summary": "A technical project that repurposes Google's EmbeddingGemma 2 embedding model into a functioning speech-to-text system, demonstrating creative model adaptation across different modalities.",
+  "tech_stack": [
+    "Python",
+    "Gemma 2",
+    "Embedding Models",
+    "Audio Processing",
+    "Machine Learning"
+  ],
+  "problem_solved": "Converts an embedding model designed for text into a speech recognition system, solving the problem of adapting single-modal models to handle different input types.",
+  "why_valuable": "Demonstrates innovative model reuse by transforming an embedding model into a speech-to-text system, potentially reducing the need for specialized audio models and expanding what's possible with existing model architectures.",
+  "tags": [
+    "Speech Recognition",
+    "Model Adaptation",
+    "Gemma",
+    "Embedding Models",
+    "Audio AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-13T15:47:58.069956+00:00",
+  "updated_at": "2026-10-13T15:49:46.557741+00:00",
+  "published_to": []
+}

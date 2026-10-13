@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261013-018",
+  "source": "rss",
+  "source_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+  "title": "AI is a tool and using it well takes skill",
+  "summary": "一篇讨论AI作为工具的博客文章，强调虽然AI技术日益普及，但要有效地使用它需要掌握特定的技能和技巧，而非简单地依赖AI本身能解决问题。",
+  "tech_stack": [
+    "AI/LLM"
+  ],
+  "problem_solved": "解决人们可能过度依赖AI而忽视自身技能培养的问题",
+  "why_valuable": "提醒用户AI只是工具，真正的价值在于使用者的技能和判断力，对AI教育和使用有重要启示意义",
+  "tags": [
+    "AI",
+    "Productivity",
+    "Skill",
+    "Tool",
+    "Best Practices"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-13T15:49:22.457915+00:00",
+  "updated_at": "2026-10-13T15:49:46.559035+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-014",
+  "source": "rss",
+  "source_url": "https://blog.character.ai/an-update-on-character-ai/",
+  "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+  "summary": "Character.ai, a popular AI chatbot platform, has filed for voluntary Chapter 11 bankruptcy protection, marking a significant setback for one of the most downloaded AI apps. The company's user base has reportedly declined since its peak, and it faced challenges competing with larger AI companies despite raising significant funding.",
+  "tech_stack": [
+    "AI/LLM",
+    "Neural Networks",
+    "Chatbot Technology",
+    "Generative AI",
+    "Natural Language Processing"
+  ],
+  "problem_solved": "Provides insight into the financial challenges and sustainability issues facing AI startups in a competitive market",
+  "why_valuable": "This news is significant for understanding the economic realities of the AI industry, showing that even popular consumer AI products struggle with profitability and long-term viability",
+  "tags": [
+    "AI Industry",
+    "Bankruptcy",
+    "Startup News",
+    "CharacterAI",
+    "Business"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-13T15:48:46.569285+00:00",
+  "updated_at": "2026-10-13T15:49:46.558507+00:00",
+  "published_to": []
+}

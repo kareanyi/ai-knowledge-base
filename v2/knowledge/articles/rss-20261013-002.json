@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261013-002",
+  "source": "rss",
+  "source_url": "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/",
+  "title": "A Book That Will Never Be Read",
+  "summary": "A philosophical exploration from forbetterscience.com discussing a conceptual or metaphorical book that will never be read, likely touching on themes of information overload, AI-generated content, or the exponential growth of scientific literature that exceeds human capacity to consume.",
+  "tech_stack": [
+    "Blog/CMS Platform"
+  ],
+  "problem_solved": "Raises awareness about the growing gap between knowledge production and human consumption capacity in the modern age.",
+  "why_valuable": "Provokes thoughtful reflection on the nature of reading, knowledge saturation, and the future of human information consumption in an age of overwhelming content.",
+  "tags": [
+    "Philosophy",
+    "Knowledge",
+    "Reading",
+    "Information",
+    "Science"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-13T15:46:48.994918+00:00",
+  "updated_at": "2026-10-13T15:49:46.548006+00:00",
+  "published_to": []
+}

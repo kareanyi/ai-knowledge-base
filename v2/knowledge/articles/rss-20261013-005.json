@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261013-005",
+  "source": "rss",
+  "source_url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+  "title": "BB(10) > Graham's Number",
+  "summary": "This GitHub repository presents a proof that BB(10) (the Busy Beaver number for 10-state Turing machines) exceeds Graham's Number, one of the largest well-defined numbers in mathematics. It documents a specific Turing machine configuration that demonstrates this remarkable result, pushing the boundaries of computability theory.",
+  "tech_stack": [
+    "Markdown",
+    "Turing Machine",
+    "Mathematics",
+    "Formal Proof"
+  ],
+  "problem_solved": "Demonstrates that a 10-state Turing machine can execute more steps than Graham's Number before halting, establishing a new lower bound for BB(10).",
+  "why_valuable": "This proof significantly extends our understanding of computational limits and establishes a concrete lower bound for BB(10) using a number far larger than Graham's Number, which has implications for understanding the boundaries of provability and computability.",
+  "tags": [
+    "Turing-Machine",
+    "Busy-Beaver",
+    "Computability",
+    "Graham-Number",
+    "Mathematics"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-13T15:47:21.682056+00:00",
+  "updated_at": "2026-10-13T15:49:46.557211+00:00",
+  "published_to": []
+}

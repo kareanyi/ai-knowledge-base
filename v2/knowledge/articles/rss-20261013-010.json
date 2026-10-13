@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-010",
+  "source": "rss",
+  "source_url": "https://github.com/rust-lang/rust/issues/164250",
+  "title": "11 year old unsoundness bugs found in Rust borrow checker",
+  "summary": "Researchers discovered 11-year-old unsoundness bugs in Rust's borrow checker that could bypass memory safety guarantees. These critical vulnerabilities in the compiler's core type system were finally identified and patched, affecting how safe code could be compiled.",
+  "tech_stack": [
+    "Rust",
+    "LLVM",
+    "MIR",
+    " borrow checker",
+    "Compiler Internals"
+  ],
+  "problem_solved": "Addresses critical unsoundness vulnerabilities in Rust's borrow checker that allowed memory-safe-looking code to exhibit undefined behavior.",
+  "why_valuable": "Highlights that even mature compilers in 'memory-safe' languages can harbor subtle type system bugs for over a decade, emphasizing the need for continuous formal verification and testing of compiler internals.",
+  "tags": [
+    "Rust",
+    "Compiler",
+    "Security",
+    "Unsoundness",
+    "BugFix"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-13T15:48:09.106173+00:00",
+  "updated_at": "2026-10-13T15:49:46.557860+00:00",
+  "published_to": []
+}

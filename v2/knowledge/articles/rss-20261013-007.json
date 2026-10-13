@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261013-007",
+  "source": "rss",
+  "source_url": "https://www.firefox.com/en-US/enterprise/",
+  "title": "Mozilla Introduces Firefox Enterprise",
+  "summary": "Mozilla launched Firefox Enterprise, a dedicated business version of their browser with centralized management, extended support cycles, and enterprise security policies for organizations deploying browsers at scale.",
+  "tech_stack": [
+    "Firefox",
+    "Gecko Engine",
+    "Browser Technology"
+  ],
+  "problem_solved": "Provides organizations with a managed, secure, and supported browser solution for enterprise deployment.",
+  "why_valuable": "Enables businesses to deploy and manage Firefox across thousands of endpoints with administrative controls and long-term support.",
+  "tags": [
+    "Firefox",
+    "Enterprise",
+    "Browser",
+    "Mozilla",
+    "Business"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-13T15:47:38.588573+00:00",
+  "updated_at": "2026-10-13T15:49:46.557500+00:00",
+  "published_to": []
+}

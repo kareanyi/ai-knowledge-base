@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-013",
+  "source": "rss",
+  "source_url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+  "title": "Document Review with Unsiloed and TypeSafe Jev",
+  "summary": "Unsiloed AI introduces a type-safe approach to document review using Jev, enabling developers to build more reliable AI-powered document processing applications with strong type guarantees and reduced runtime errors.",
+  "tech_stack": [
+    "TypeScript",
+    "Jev",
+    "AI/ML",
+    "Document Processing",
+    "Type Safety"
+  ],
+  "problem_solved": "Addresses the challenge of building unreliable, error-prone document review AI systems by providing type-safe abstractions for better code quality and predictability.",
+  "why_valuable": "Type-safe document processing reduces bugs and makes AI-powered document review more maintainable and trustworthy for enterprise applications.",
+  "tags": [
+    "TypeScript",
+    "AI",
+    "Document-Processing",
+    "Type-Safety",
+    "Enterprise"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-13T15:48:36.645388+00:00",
+  "updated_at": "2026-10-13T15:49:46.558337+00:00",
+  "published_to": []
+}

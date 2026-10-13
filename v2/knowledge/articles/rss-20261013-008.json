@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261013-008",
+  "source": "rss",
+  "source_url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+  "title": "A Visual Intro to Complex Numbers",
+  "summary": "A Visual Intro to Complex Numbers is an educational Substack article that teaches complex numbers through geometric and visual interpretations, making abstract mathematical concepts more intuitive for learners. The article gained moderate traction on Hacker News with 54 points and 34 comments.",
+  "tech_stack": [
+    "Mathematics",
+    "Data Visualization",
+    "Educational Content",
+    "Substack"
+  ],
+  "problem_solved": "Makes the abstract and often confusing concept of complex numbers accessible through visual explanations instead of purely algebraic approaches.",
+  "why_valuable": "Provides an intuitive geometric understanding of complex numbers that helps bridge the gap between abstract math and real-world applications like electrical engineering and physics.",
+  "tags": [
+    "Mathematics",
+    "Education",
+    "Visualization",
+    "Complex Numbers",
+    "Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-13T15:47:48.962588+00:00",
+  "updated_at": "2026-10-13T15:49:46.557622+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-011",
+  "source": "rss",
+  "source_url": "https://pdftomp3.com/connect-ai/",
+  "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+  "summary": "A web tool that leverages OpenAI's API to convert PDF documents into audiobooks, allowing users to listen to written content rather than reading it. The service enables people to utilize their existing OpenAI subscription for text-to-speech conversion of academic papers, articles, or other documents.",
+  "tech_stack": [
+    "OpenAI API",
+    "PDF Processing",
+    "Text-to-Speech",
+    "Web Application",
+    "Python"
+  ],
+  "problem_solved": "Converts static PDF documents into audio format for easier consumption and accessibility.",
+  "why_valuable": "Makes written content accessible in audio format, enabling multi-tasking, improving accessibility for visual-impaired users, and enhancing learning through audio consumption.",
+  "tags": [
+    "AI",
+    "Audiobooks",
+    "OpenAI",
+    "PDF",
+    "Text-to-Speech"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-13T15:48:20.401722+00:00",
+  "updated_at": "2026-10-13T15:49:46.558005+00:00",
+  "published_to": []
+}
