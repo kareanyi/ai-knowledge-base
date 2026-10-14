@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261014-007",
+  "source": "rss",
+  "source_url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+  "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+  "summary": "QuEra is using AI to automate the laser locking and tuning process for their neutral atom quantum computers, replacing error-prone manual calibration with machine learning models that can continuously monitor and adjust laser frequencies critical for qubit operations.",
+  "tech_stack": [
+    "AI/ML",
+    "Quantum Computing",
+    "Neutral Atom Qubits",
+    "Laser Control Systems",
+    "Automation"
+  ],
+  "problem_solved": "Solves the challenge of maintaining precise, stable laser frequencies for quantum operations in neutral atom quantum computers, which traditionally requires constant manual tuning by experts.",
+  "why_valuable": "Enables scalable and reliable quantum computing by automating one of the most delicate and labor-intensive calibration processes in quantum hardware.",
+  "tags": [
+    "quantum-computing",
+    "AI-automation",
+    "laser-systems",
+    "neutral-atoms",
+    "hardware-calibration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:31:47.119714+00:00",
+  "updated_at": "2026-10-14T13:34:20.985541+00:00",
+  "published_to": []
+}

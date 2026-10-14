@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261014-012",
+  "source": "rss",
+  "source_url": "https://github.com/android/ndk/issues/2260",
+  "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+  "summary": "Android NDK developers face significant challenges because AOSP source code releases are delayed after binary releases, forcing them to reverse engineer and disassemble compiled libraries to understand and report bugs effectively. This workflow inefficiency highlights a gap between binary availability and source code transparency in Android native development.",
+  "tech_stack": [
+    "Android NDK",
+    "AOSP",
+    "C/C++",
+    "NDK Build System",
+    "LLDB"
+  ],
+  "problem_solved": "Addresses the friction developers face when trying to debug native Android libraries without timely access to corresponding source code.",
+  "why_valuable": "Sheds light on a critical open-source governance issue affecting Android native development workflow and community contributions.",
+  "tags": [
+    "Android",
+    "NDK",
+    "AOSP",
+    "Open Source",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:32:44.082804+00:00",
+  "updated_at": "2026-10-14T13:34:20.986164+00:00",
+  "published_to": []
+}

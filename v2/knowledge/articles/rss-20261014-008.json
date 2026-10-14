@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261014-008",
+  "source": "rss",
+  "source_url": "https://museumofages.org/w/vinci",
+  "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+  "summary": "A nonprofit organization called Museum of Ages has launched a free virtual 3D museum dedicated to Leonardo da Vinci, featuring 17 interactive stops including his paintings displayed at near-real size, 15 machines rebuilt in code, 29 anatomy sheets, and 207 manuscript pages that can be read in a viewer.",
+  "tech_stack": [
+    "WebGL",
+    "Three.js",
+    "HTML5",
+    "JavaScript",
+    "3D Rendering"
+  ],
+  "problem_solved": "Makes rare historical artifacts, manuscripts, and artworks accessible to the public for free in an interactive virtual environment.",
+  "why_valuable": "Provides democratized access to cultural heritage by digitizing and presenting Leonardo da Vinci's works in an immersive 3D experience that would otherwise be difficult for most people to view in person.",
+  "tags": [
+    "Virtual Museum",
+    "Digital Art",
+    "History",
+    "3D Experience",
+    "Cultural Heritage"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:31:56.735548+00:00",
+  "updated_at": "2026-10-14T13:34:20.985678+00:00",
+  "published_to": []
+}

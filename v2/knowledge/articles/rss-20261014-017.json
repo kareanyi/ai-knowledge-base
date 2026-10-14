@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261014-017",
+  "source": "rss",
+  "source_url": "https://lab.specr.net/rigged-draw/",
+  "title": "Show HN: How random are you?",
+  "summary": "SPEC/R Lab created an interactive web experiment that tests how 'random' users' choices really are, revealing the psychological biases and patterns in human-generated randomness versus true randomness.",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "Web Technologies"
+  ],
+  "problem_solved": "Demonstrates that humans are poor at generating truly random sequences due to cognitive biases",
+  "why_valuable": "Provides an engaging way to understand human cognitive limitations in probability and randomness through hands-on experimentation",
+  "tags": [
+    "Psychology",
+    "Cognitive Science",
+    "Interactive",
+    "Experiment",
+    "Behavioral"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:33:47.277168+00:00",
+  "updated_at": "2026-10-14T13:34:20.986757+00:00",
+  "published_to": []
+}

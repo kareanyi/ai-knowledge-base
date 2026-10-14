@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261014-014",
+  "source": "rss",
+  "source_url": "https://strafe.chat/",
+  "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+  "summary": "Strafe is a new open-source chat platform designed as a privacy-focused alternative to Discord, featuring end-to-end encryption for secure communications and federated architecture allowing users to host their own servers while maintaining interoperability with other instances.",
+  "tech_stack": [
+    "End-to-End Encryption",
+    "ActivityPub",
+    "WebRTC",
+    "Open Source"
+  ],
+  "problem_solved": "Addresses privacy concerns and centralization issues by providing a decentralized, encrypted chat platform that doesn't require trusting a single corporation with user data.",
+  "why_valuable": "It gives users control over their data through E2E encryption while offering the flexibility of federation, similar to how email works, allowing communities to self-host while staying connected.",
+  "tags": [
+    "privacy",
+    "encryption",
+    "federation",
+    "open-source",
+    "discord-alternative"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:33:10.811443+00:00",
+  "updated_at": "2026-10-14T13:34:20.986410+00:00",
+  "published_to": []
+}

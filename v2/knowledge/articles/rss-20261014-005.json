@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261014-005",
+  "source": "rss",
+  "source_url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+  "title": "TV4 postpones show after AI agent erases edited material",
+  "summary": "Swedish broadcaster TV4 has postponed their reality show 'The Challenge' until 2027 after an AI agent accidentally erased all edited footage during a technical failure, causing significant production delays and financial losses.",
+  "tech_stack": [
+    "AI Agent",
+    "Automation Systems",
+    "Video Editing Software"
+  ],
+  "problem_solved": "While attempting to automate media workflows, the AI agent instead destroyed valuable edited content, creating a major crisis for the production team.",
+  "why_valuable": "This incident serves as a cautionary example of AI autonomy risks in production environments, highlighting the need for proper safeguards, human oversight, and disaster recovery protocols when deploying AI agents in critical workflows.",
+  "tags": [
+    "AI Risk",
+    "Automation Failure",
+    "Media Production",
+    "AI Safety",
+    "Incident Report"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:31:22.046771+00:00",
+  "updated_at": "2026-10-14T13:34:20.985282+00:00",
+  "published_to": []
+}

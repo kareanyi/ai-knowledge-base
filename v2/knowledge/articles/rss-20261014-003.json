@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261014-003",
+  "source": "rss",
+  "source_url": "https://aaronsonoracle.com/",
+  "title": "The Aaronson Oracle",
+  "summary": "The Aaronson Oracle appears to be a website related to Scott Aaronson's work in theoretical computer science and quantum computing. Based on the Hacker News context, it likely provides insights, tools, or resources related to computational complexity, quantum information, or his academic research.",
+  "tech_stack": [
+    "Web Platform",
+    "Theoretical Computer Science",
+    "Quantum Computing"
+  ],
+  "problem_solved": "Provides accessible resources or tools related to complexity theory and quantum computation questions.",
+  "why_valuable": "Scott Aaronson is a leading researcher in computational complexity whose work helps advance understanding of fundamental computing limits.",
+  "tags": [
+    "Quantum Computing",
+    "Complexity Theory",
+    "Theoretical CS",
+    "Academic Research",
+    "Education"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-14T13:31:03.443571+00:00",
+  "updated_at": "2026-10-14T13:34:20.976380+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261014-020",
+  "source": "rss",
+  "source_url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+  "title": "The United Kingdom generates less electricity per person than in the 1970s",
+  "summary": "Our World in Data published an analysis showing that the United Kingdom now generates less electricity per person than it did in the 1970s, with generation falling by a third from its early 2000s peak. This data insight highlights a significant long-term trend in UK energy production and consumption patterns.",
+  "tech_stack": [
+    "Data Visualization",
+    "Python",
+    "D3.js",
+    "Statistical Analysis"
+  ],
+  "problem_solved": "This article provides data-driven insights into the long-term decline of UK electricity generation per capita, helping readers understand energy efficiency improvements, deindustrialization trends, or shifting energy policies.",
+  "why_valuable": "It offers objective data visualization and analysis that challenges assumptions about energy trends and provides context for understanding energy policy decisions and their impacts.",
+  "tags": [
+    "Energy",
+    "Data Journalism",
+    "United Kingdom",
+    "Statistics",
+    "Sustainability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:34:20.182295+00:00",
+  "updated_at": "2026-10-14T13:34:20.987096+00:00",
+  "published_to": []
+}

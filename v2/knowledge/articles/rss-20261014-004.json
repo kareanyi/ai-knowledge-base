@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261014-004",
+  "source": "rss",
+  "source_url": "https://github.com/timescale/pg_vectorsearch",
+  "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+  "summary": "pg_vectorsearch is a PostgreSQL extension by Timescale that provides faster vector similarity search indexes, outperforming pgvector's existing IVFFlat and HNSW indexing methods. It enables efficient nearest neighbor searches for AI applications like RAG and semantic search within relational databases.",
+  "tech_stack": [
+    "PostgreSQL",
+    "pgvector",
+    "Rust",
+    "SQL",
+    "HNSW"
+  ],
+  "problem_solved": "Provides faster approximate nearest neighbor search for high-dimensional vector embeddings directly within PostgreSQL, improving upon the performance limitations of pgvector's built-in indexes.",
+  "why_valuable": "Enables sub-millisecond vector similarity queries at scale within PostgreSQL, making it practical to build AI-powered applications without abandoning traditional relational data infrastructure.",
+  "tags": [
+    "PostgreSQL",
+    "VectorSearch",
+    "Database",
+    "AI",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-14T13:31:12.956463+00:00",
+  "updated_at": "2026-10-14T13:34:20.985088+00:00",
+  "published_to": []
+}

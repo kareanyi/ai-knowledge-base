@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261014-019",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "title": "Redesigning source control at Anthropic",
+  "summary": "Anthropic engineers share their experience redesigning their internal source control system to better support their large-scale AI development workflows, addressing challenges with monorepo management, code review, and developer productivity at scale.",
+  "tech_stack": [
+    "Git",
+    "Monorepo",
+    "Build Systems",
+    "CI/CD",
+    "Internal Tools"
+  ],
+  "problem_solved": "Scaling source control infrastructure to support large AI model development teams with complex dependency management and rapid iteration needs.",
+  "why_valuable": "Provides rare insight into how leading AI companies handle engineering infrastructure challenges that are increasingly relevant as software teams grow in size and complexity.",
+  "tags": [
+    "DevOps",
+    "Source Control",
+    "Infrastructure",
+    "Engineering",
+    "Monorepo"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-14T13:34:10.509343+00:00",
+  "updated_at": "2026-10-14T13:34:20.986982+00:00",
+  "published_to": []
+}

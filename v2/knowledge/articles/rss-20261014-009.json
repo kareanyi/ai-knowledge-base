@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261014-009",
+  "source": "rss",
+  "source_url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+  "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+  "summary": "An investigative security article from Zetter Zero-Day exploring potential backdoors planted in Ledger hardware cryptocurrency wallets, which are used by millions to secure digital assets. The article appears to be a detailed security analysis examining whether the popular hardware wallet manufacturer has introduced vulnerabilities in its devices.",
+  "tech_stack": [
+    "Hardware Security Modules",
+    "Secure Element Chips",
+    "Cryptographic Protocols",
+    "Firmware Analysis",
+    "Embedded Systems"
+  ],
+  "problem_solved": "Investigates and exposes potential security vulnerabilities or intentional backdoors in Ledger's hardware wallet firmware that could compromise users' cryptocurrency holdings.",
+  "why_valuable": "Hardware wallet security is critical infrastructure for the cryptocurrency ecosystem - if backdoors exist, billions of dollars in digital assets could be at risk, making this investigation essential for user safety and trust.",
+  "tags": [
+    "Cybersecurity",
+    "Cryptocurrency",
+    "Hardware Wallets",
+    "Zero-Day",
+    "Privacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:32:09.678971+00:00",
+  "updated_at": "2026-10-14T13:34:20.985807+00:00",
+  "published_to": []
+}

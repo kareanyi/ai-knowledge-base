@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261014-016",
+  "source": "rss",
+  "source_url": "https://guitoro.com/",
+  "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+  "summary": "Guitoro is a free browser-based virtual guitar simulator that uses recordings of real acoustic, classical, electric guitars and bass. Users can play using their keyboard, mouse, or touchscreen, with features including chord fingering visualization, stroke animation, and song practice at reduced speeds down to 20%.",
+  "tech_stack": [
+    "Web Audio API",
+    "JavaScript",
+    "HTML5",
+    "Audio Recording"
+  ],
+  "problem_solved": "Provides accessible guitar practice without requiring a physical instrument, making it easy to practice chords and strumming patterns anywhere with a browser.",
+  "why_valuable": "It democratizes guitar learning by removing barriers like instrument ownership, offering visual feedback and speed control for practice at any skill level.",
+  "tags": [
+    "Music",
+    "WebApp",
+    "Learning",
+    "Audio",
+    "Practice"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-14T13:33:33.960689+00:00",
+  "updated_at": "2026-10-14T13:34:20.986645+00:00",
+  "published_to": []
+}
