@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261015-004",
+  "source": "rss",
+  "source_url": "https://unfenced.land/",
+  "title": "Show HN: Unfenced – Land for sale that borders public land",
+  "summary": "Unfenced.land is a niche real estate marketplace specifically for land parcels that border public lands such as national parks, forests, and BLM areas. It connects sellers of wilderness-adjacent properties with outdoor enthusiasts seeking privacy and direct access to public wilderness.",
+  "tech_stack": [
+    "Web Platform",
+    "Maps/GIS",
+    "Real Estate Listing"
+  ],
+  "problem_solved": "Solves the difficulty of discovering and purchasing rare land properties that border public wilderness areas.",
+  "why_valuable": "Creates a specialized marketplace for a specific niche of land buyers who prioritize proximity to public lands for recreation, privacy, and natural access.",
+  "tags": [
+    "Real Estate",
+    "Marketplace",
+    "Public Land",
+    "Land Sales",
+    "Outdoor Recreation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-15T13:16:01.499670+00:00",
+  "updated_at": "2026-10-15T13:19:18.688137+00:00",
+  "published_to": []
+}

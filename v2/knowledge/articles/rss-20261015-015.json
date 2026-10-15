@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261015-015",
+  "source": "rss",
+  "source_url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+  "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+  "summary": "A New Yorker article exploring how rural Argentina residents have transformed AM radio into a grassroots social network, using it to communicate messages, news, and maintain community connections in areas lacking internet infrastructure.",
+  "tech_stack": [
+    "AM Radio",
+    "Community Networks",
+    "Traditional Media"
+  ],
+  "problem_solved": "Addresses the lack of modern communication infrastructure in rural communities by repurposing existing AM radio technology as a social networking platform.",
+  "why_valuable": "Demonstrates how communities innovate with accessible technology to maintain social bonds and information sharing when digital infrastructure is unavailable.",
+  "tags": [
+    "rural",
+    "community",
+    "AM radio",
+    "social network",
+    "journalism"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-15T13:18:43.008248+00:00",
+  "updated_at": "2026-10-15T13:19:18.690326+00:00",
+  "published_to": []
+}

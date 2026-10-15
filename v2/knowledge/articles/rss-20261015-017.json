@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261015-017",
+  "source": "rss",
+  "source_url": "https://sebsite.pw/w/20261012-notstdc.html",
+  "title": "Your C is not standard C",
+  "summary": "This article explores the misconception that C code is truly 'standard' and portable, revealing how compilers like GCC and Clang implement the ISO C standard differently. The author demonstrates that the C standard intentionally leaves many behaviors undefined or implementation-defined, meaning most 'standard C' code is actually compiler-specific.",
+  "tech_stack": [
+    "C",
+    "GCC",
+    "Clang",
+    "ISO C Standard"
+  ],
+  "problem_solved": "Explains why C code that follows the standard may still behave differently across compilers and platforms due to undefined and implementation-defined behaviors.",
+  "why_valuable": "Helps C developers understand the practical reality of writing portable code by recognizing what the standard actually guarantees versus what compilers decide.",
+  "tags": [
+    "C",
+    "compilers",
+    "programming-languages",
+    "low-level",
+    "portability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-15T13:19:07.912439+00:00",
+  "updated_at": "2026-10-15T13:19:18.690731+00:00",
+  "published_to": []
+}

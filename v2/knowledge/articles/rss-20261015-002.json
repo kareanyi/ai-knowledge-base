@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261015-002",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234",
+  "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
+  "summary": "X (formerly Twitter) has removed approximately 13,000 accounts suspected of coordinated manipulation and interference activities ahead of US midterm elections, representing one of the platform's largest enforcement actions against election-related manipulation.",
+  "tech_stack": [],
+  "problem_solved": "Addresses coordinated inauthentic behavior and foreign interference attempts on social media platforms targeting democratic elections.",
+  "why_valuable": "Demonstrates platform accountability in protecting electoral integrity and provides transparency about the scale of coordinated manipulation efforts.",
+  "tags": [
+    "cybersecurity",
+    "election-security",
+    "social-media",
+    "misinformation",
+    "platform-moderation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-15T13:15:37.451960+00:00",
+  "updated_at": "2026-10-15T13:19:18.679199+00:00",
+  "published_to": []
+}

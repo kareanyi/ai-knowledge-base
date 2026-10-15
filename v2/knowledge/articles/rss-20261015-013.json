@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-013",
+  "source": "rss",
+  "source_url": "https://go.dev/blog/http-connection-reuse",
+  "title": "Better HTTP/1 connection reuse in Go 1.27",
+  "summary": "Go 1.27 introduces improved HTTP/1 connection reuse mechanisms, optimizing how the net/http client manages persistent connections to reduce overhead and improve performance for applications making multiple HTTP requests.",
+  "tech_stack": [
+    "Go",
+    "HTTP/1.1",
+    "net/http",
+    "networking",
+    "TLS"
+  ],
+  "problem_solved": "Reduces connection overhead and improves HTTP client performance by better reusing existing TCP/TLS connections instead of creating new ones for each request.",
+  "why_valuable": "Provides measurable performance improvements for Go applications making frequent HTTP requests, reducing latency and resource consumption.",
+  "tags": [
+    "Go",
+    "HTTP",
+    "Networking",
+    "Performance",
+    "Backend"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-15T13:18:01.327205+00:00",
+  "updated_at": "2026-10-15T13:19:18.689890+00:00",
+  "published_to": []
+}

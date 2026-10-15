@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261015-006",
+  "source": "rss",
+  "source_url": "https://github.com/andunieee/flipflop",
+  "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+  "summary": "Flipflop is a file sharing application built with Iroh and Slint framework that creates persistent tunnels for fast, always-on file transfers between devices and trusted external contacts. It addresses limitations of existing tools like LocalSend by enabling reliable external device communication.",
+  "tech_stack": [
+    "Iroh",
+    "Slint",
+    "Rust"
+  ],
+  "problem_solved": "Enables persistent, fast file sharing with trusted external parties beyond local network boundaries without relying on cloud services.",
+  "why_valuable": "Provides a self-hosted alternative for cross-device and cross-network file sharing with end-to-end encryption through Iroh's hole-punching capabilities.",
+  "tags": [
+    "file-sharing",
+    "p2p",
+    "networking",
+    "open-source",
+    "tunneling"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-15T13:16:22.020839+00:00",
+  "updated_at": "2026-10-15T13:19:18.688541+00:00",
+  "published_to": []
+}

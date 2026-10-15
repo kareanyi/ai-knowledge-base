@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-008",
+  "source": "rss",
+  "source_url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+  "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+  "summary": "Liquid AI released LFM2.5-24B-A2B, a 24-billion parameter language model specifically optimized for fast on-device AI agents. The model is designed to run locally on devices like smartphones and edge devices, enabling low-latency, privacy-preserving agentic applications without cloud dependency.",
+  "tech_stack": [
+    "LLM",
+    "Transformer Architecture",
+    "On-device AI",
+    "Edge Computing",
+    "Liquid Foundation Models"
+  ],
+  "problem_solved": "Enables efficient execution of AI agents directly on local devices with low latency and without internet connectivity, while preserving user privacy.",
+  "why_valuable": "Makes AI agent capabilities accessible on consumer hardware with fast inference speeds, reducing cloud costs and addressing privacy concerns for real-time agentic applications.",
+  "tags": [
+    "On-Device AI",
+    "LLM",
+    "AI Agents",
+    "Edge AI",
+    "Mobile AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-15T13:16:44.010402+00:00",
+  "updated_at": "2026-10-15T13:19:18.688934+00:00",
+  "published_to": []
+}

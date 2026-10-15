@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-012",
+  "source": "rss",
+  "source_url": "https://petal.live/",
+  "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+  "summary": "Petal is a free and open-source pair programming tool created by four former CoScreen team members after Datadog discontinued CoScreen on July 31st. It aims to fill the void left by commercial collaborative screen sharing tools like ScreenHero and CoScreen, offering developers a community-owned solution for real-time remote pair programming.",
+  "tech_stack": [
+    "Open Source",
+    "WebRTC",
+    "TypeScript",
+    "React",
+    "WebSocket"
+  ],
+  "problem_solved": "Provides a free, open-source alternative for collaborative screen sharing and pair programming after CoScreen and ScreenHero were discontinued.",
+  "why_valuable": "It offers developers a community-maintained, cost-free solution for remote pair programming, breaking the pattern of proprietary tools being discontinued and leaving users stranded.",
+  "tags": [
+    "Open Source",
+    "Pair Programming",
+    "Developer Tools",
+    "Collaboration",
+    "Remote Work"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-15T13:17:49.445406+00:00",
+  "updated_at": "2026-10-15T13:19:18.689706+00:00",
+  "published_to": []
+}

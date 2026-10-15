@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261015-011",
+  "source": "rss",
+  "source_url": "https://anoma.ly/notes/opencode-2-0/",
+  "title": "OpenCode 2.0",
+  "summary": "OpenCode 2.0 是开源代码工具的更新版本，在 Hacker News 上获得了 707 分和 298 条评论，表明这是一个备受关注的代码相关开源项目。",
+  "tech_stack": [
+    "Open Source",
+    "Developer Tools",
+    "Code Editor"
+  ],
+  "problem_solved": "为开发者提供开源的代码编辑或编程辅助工具解决方案",
+  "why_valuable": "开源属性使其可被自由使用、修改和分发，降低了开发门槛并促进社区协作",
+  "tags": [
+    "Open Source",
+    "Developer Tools",
+    "Code Editor",
+    "Hacker News",
+    "Software Update"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-15T13:17:25.237068+00:00",
+  "updated_at": "2026-10-15T13:19:18.689525+00:00",
+  "published_to": []
+}

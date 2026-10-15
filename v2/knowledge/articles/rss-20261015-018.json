@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-018",
+  "source": "rss",
+  "source_url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
+  "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
+  "summary": "Hudson River Trading engineers used eBPF (extended Berkeley Packet Filter) to diagnose and trace mysterious network traffic patterns across their global compute cluster, a critical challenge in high-frequency trading environments where understanding every byte of network communication is essential for performance and security.",
+  "tech_stack": [
+    "eBPF",
+    "Linux",
+    "Kubernetes",
+    "Kubernetes",
+    "Kernel Tracing"
+  ],
+  "problem_solved": "Debugging unknown network traffic patterns in a production trading cluster without modifying applications or disrupting low-latency trading operations.",
+  "why_valuable": "eBPF enables kernel-level network observability without application changes, providing zero-downtime debugging capabilities essential for latency-sensitive trading systems.",
+  "tags": [
+    "eBPF",
+    "Linux",
+    "Networking",
+    "Observability",
+    "Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-15T13:19:17.247537+00:00",
+  "updated_at": "2026-10-15T13:19:18.690935+00:00",
+  "published_to": []
+}

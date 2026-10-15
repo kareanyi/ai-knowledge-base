@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-007",
+  "source": "rss",
+  "source_url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+  "title": "The Double Headed Stack Allocator",
+  "summary": "This article explores a memory allocation technique called the 'double headed stack allocator', which manages memory by allocating from both ends of a pre-allocated buffer simultaneously. The technique is particularly useful in game development and real-time systems where memory allocation performance and efficient bulk deallocation are critical.",
+  "tech_stack": [
+    "C++",
+    "Memory Management",
+    "Data Structures",
+    "Game Development",
+    "Stack Allocation"
+  ],
+  "problem_solved": "Solves the problem of inefficient memory allocation and deallocation overhead in performance-critical applications by providing fast, cache-friendly memory management with O(1) allocation and instant bulk deallocation.",
+  "why_valuable": "It provides a practical, high-performance memory allocation pattern that eliminates fragmentation issues and allocation overhead common in traditional malloc/free approaches, making it ideal for game engines and real-time rendering systems.",
+  "tags": [
+    "Memory Management",
+    "Game Dev",
+    "Performance",
+    "C++",
+    "Allocator"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-15T13:16:34.970230+00:00",
+  "updated_at": "2026-10-15T13:19:18.688735+00:00",
+  "published_to": []
+}

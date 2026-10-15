@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-010",
+  "source": "rss",
+  "source_url": "https://tinylittleoffice.com/",
+  "title": "Tiny Little Office",
+  "summary": "Tiny Little Office appears to be a minimalist productivity or office management solution that emphasizes simplicity and lightweight design. The project gained significant traction on Hacker News with 511 points and 105 comments, indicating strong community interest in minimal office tools or small-scale office automation approaches.",
+  "tech_stack": [
+    "Web Technologies",
+    "JavaScript",
+    "HTML/CSS",
+    "Node.js",
+    "Cloud Services"
+  ],
+  "problem_solved": "Provides a streamlined, lightweight alternative to bloated office suites for small teams or individuals who need essential office functionality without complexity.",
+  "why_valuable": "Offers a refreshing approach to office productivity by focusing on minimalism and efficiency, appealing to users frustrated with overly complex enterprise software solutions.",
+  "tags": [
+    "Productivity",
+    "Minimalist",
+    "SaaS",
+    "Office",
+    "Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-15T13:17:11.857175+00:00",
+  "updated_at": "2026-10-15T13:19:18.689339+00:00",
+  "published_to": []
+}

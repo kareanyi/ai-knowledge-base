@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-009",
+  "source": "rss",
+  "source_url": "https://uji.sh/ito/",
+  "title": "Show HN: Ito – Build Terminal UIs in Lua",
+  "summary": "Two Neovim enthusiasts created Ito, a terminal UI framework built in Lua, as an alternative to JavaScript-based solutions like Bubble Tea (Pi). The project aims to provide a minimal, customizable harness for building beautiful terminal interfaces with native Lua support, with potential Rust integration for performance.",
+  "tech_stack": [
+    "Lua",
+    "Rust",
+    "Terminal UI",
+    "Neovim",
+    "Bubble Tea"
+  ],
+  "problem_solved": "Provides a Lua-native solution for building terminal user interfaces, eliminating the need to use JavaScript or other languages that don't integrate well with the Neovim/Lua ecosystem.",
+  "why_valuable": "Enables Lua developers to build customizable terminal UIs using familiar tooling, maintaining consistency with Neovim workflows and configuration patterns.",
+  "tags": [
+    "Terminal UI",
+    "Lua",
+    "Neovim",
+    "TUI Framework",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-15T13:16:59.073810+00:00",
+  "updated_at": "2026-10-15T13:19:18.689143+00:00",
+  "published_to": []
+}

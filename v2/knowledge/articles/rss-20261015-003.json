@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-003",
+  "source": "rss",
+  "source_url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+  "title": "Ubuntu 26.10 (Stonking Stingray) released",
+  "summary": "Ubuntu 26.10 codenamed 'Stonking Stingray' has been officially released, continuing Ubuntu's semi-annual release cycle with updated packages, kernel upgrades, and new features for desktop and server users.",
+  "tech_stack": [
+    "Linux Kernel",
+    "systemd",
+    "APT/Dpkg",
+    "GNOME",
+    "Debian"
+  ],
+  "problem_solved": "Provides users with the latest stable Ubuntu release featuring updated software, security patches, and improved system performance.",
+  "why_valuable": "Ubuntu releases offer regular access to new Linux technologies, security updates, and improved hardware support for millions of users worldwide.",
+  "tags": [
+    "Linux",
+    "Ubuntu",
+    "Open Source",
+    "Operating System",
+    "Distribution"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-15T13:15:48.821651+00:00",
+  "updated_at": "2026-10-15T13:19:18.679396+00:00",
+  "published_to": []
+}
