@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-002",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1094721/",
+  "title": "Comparing Chromium Development at Google and Igalia",
+  "summary": "An LWN article comparing how Google and Igalia approach Chromium browser development, examining their different collaboration models, contribution strategies, and priorities in open source browser engine development.",
+  "tech_stack": [
+    "C++",
+    "Web Standards",
+    "Browser Engines",
+    "Open Source Development",
+    "Blink/V8"
+  ],
+  "problem_solved": "Provides insight into how corporate-backed development (Google) and independent company contributions (Igalia) differ in shaping open source browser technology.",
+  "why_valuable": "Helps developers understand the dynamics of open source sustainability and how different organizations influence web standards and browser capabilities.",
+  "tags": [
+    "Open Source",
+    "Chromium",
+    "Browser Development",
+    "Web Standards",
+    "Google"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-16T13:09:36.976205+00:00",
+  "updated_at": "2026-10-16T13:12:53.213690+00:00",
+  "published_to": []
+}

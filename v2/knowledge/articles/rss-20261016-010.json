@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-010",
+  "source": "rss",
+  "source_url": "https://research.meta.ai/blog/muse-spark-open",
+  "title": "Muse Spark Open",
+  "summary": "Meta AI releases Muse Spark Open, a massive 816 billion parameter open-source generative AI model, making their state-of-the-art generative capabilities available to researchers and developers worldwide through HuggingFace.",
+  "tech_stack": [
+    "PyTorch",
+    "Transformers",
+    "Custom Diffusion Architecture",
+    "HuggingFace Hub",
+    "Mixed Precision Training"
+  ],
+  "problem_solved": "Democratizes access to large-scale generative AI by open-sourcing a 816B parameter model previously only available via closed API.",
+  "why_valuable": "Provides the research community and developers with free access to one of the largest open-source generative models, enabling innovation without API costs or restrictions.",
+  "tags": [
+    "Generative AI",
+    "Open Source",
+    "Meta AI",
+    "Large Models",
+    "Diffusion Models"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-16T13:11:24.847337+00:00",
+  "updated_at": "2026-10-16T13:12:53.223099+00:00",
+  "published_to": []
+}

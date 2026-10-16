@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-015",
+  "source": "rss",
+  "source_url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+  "title": "Celebrating 70 Years of Fortran",
+  "summary": "This article celebrates Fortran's 70th anniversary, highlighting the enduring legacy of the programming language developed by IBM in the 1950s that revolutionized scientific and numerical computing. It showcases Fortran's continued relevance in high-performance computing and the modern Fortran-lang initiative bringing new development tools like the Fortran Package Manager.",
+  "tech_stack": [
+    "Fortran",
+    "Fortran-lang",
+    "fpm",
+    "LFortran",
+    "LLVM"
+  ],
+  "problem_solved": "Celebrates and highlights Fortran's role in scientific computing, HPC, and its modern revival through community-driven development efforts.",
+  "why_valuable": "Fortran remains critical for weather prediction, physics simulations, and scientific research, and this article demonstrates its continued evolution with modern tooling while honoring computing history.",
+  "tags": [
+    "Fortran",
+    "Programming Languages",
+    "Scientific Computing",
+    "HPC",
+    "History"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-16T13:12:22.559750+00:00",
+  "updated_at": "2026-10-16T13:12:53.223668+00:00",
+  "published_to": []
+}

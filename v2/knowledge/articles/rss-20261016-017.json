@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-017",
+  "source": "rss",
+  "source_url": "https://github.com/fyzugx/DEsk",
+  "title": "Wayland desktop for Linux with skeuomorphic design",
+  "summary": "DEsk是一个实验性的Linux桌面环境项目，采用Wayland显示协议，并具有独特的拟物化(skeuomorphic)视觉设计风格，通过模拟真实物体的外观提供与众不同的桌面交互体验。",
+  "tech_stack": [
+    "Wayland",
+    "wlroots",
+    "Rust",
+    "C/C++",
+    "Linux"
+  ],
+  "problem_solved": "为Linux用户提供一个视觉独特、采用拟物化设计风格的现代Wayland桌面环境选择。",
+  "why_valuable": "在主流桌面环境追求扁平化设计的趋势下，DEsk以拟物化美学脱颖而出，为追求个性化桌面体验的用户提供了独特选择，同时展示了Wayland compositor开发的可能性。",
+  "tags": [
+    "Linux",
+    "Wayland",
+    "Desktop",
+    "Skeuomorphic",
+    "UI Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-16T13:12:42.259258+00:00",
+  "updated_at": "2026-10-16T13:12:53.223904+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-005",
+  "source": "rss",
+  "source_url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+  "title": "RPKI now protects 70% of internet routes",
+  "summary": "RPKI (Resource Public Key Infrastructure) has reached a significant milestone by protecting 70% of all internet routes, marking a major advancement in BGP routing security. This cryptographic framework helps prevent route hijacking attacks and misconfigurations that could redirect internet traffic.",
+  "tech_stack": [
+    "BGP",
+    "RPKI",
+    "X.509 Certificates",
+    "DNSSEC",
+    "Cryptographic Routing"
+  ],
+  "problem_solved": "Prevents BGP route hijacking and misconfiguration attacks that could redirect or intercept internet traffic through unauthorized route announcements.",
+  "why_valuable": "Provides cryptographic validation of internet route ownership, making it nearly impossible for attackers to fraudulently announce routes they don't own and improving overall internet infrastructure security.",
+  "tags": [
+    "Internet Security",
+    "BGP",
+    "RPKI",
+    "Network Infrastructure",
+    "Routing Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-16T13:10:15.799149+00:00",
+  "updated_at": "2026-10-16T13:12:53.222540+00:00",
+  "published_to": []
+}

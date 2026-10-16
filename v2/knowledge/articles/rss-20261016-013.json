@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-013",
+  "source": "rss",
+  "source_url": "https://www.krea.ai/krea-3",
+  "title": "Krea 3 – An image model built for editing at scale",
+  "summary": "Krea 3 is an AI image generation model specifically designed for large-scale image editing workflows, enabling creators and designers to efficiently edit multiple images with consistent style and quality. It appears to be optimized for professional use cases requiring batch processing and style consistency across projects.",
+  "tech_stack": [
+    "AI Image Generation",
+    "Diffusion Models",
+    "Neural Networks",
+    "Computer Vision",
+    "Generative AI"
+  ],
+  "problem_solved": "Enables efficient, scalable AI-powered image editing for professionals who need to process and edit multiple images consistently",
+  "why_valuable": "Addresses the need for batch image editing with AI, significantly reducing manual effort while maintaining quality and style consistency across large projects",
+  "tags": [
+    "AI",
+    "Image Editing",
+    "Generative AI",
+    "Design Tools",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-16T13:11:55.972823+00:00",
+  "updated_at": "2026-10-16T13:12:53.223427+00:00",
+  "published_to": []
+}

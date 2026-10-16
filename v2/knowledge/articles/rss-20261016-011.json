@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-011",
+  "source": "rss",
+  "source_url": "https://zachlandes.com/trolley-problem/",
+  "title": "Jev meets the Trolley Problem",
+  "summary": "A philosophical exploration examining how AI systems (referred to as 'Jev') navigate the classic trolley problem dilemma, bridging ethical theory with artificial intelligence decision-making. The article gained significant traction on Hacker News with 523 points and 215 comments, indicating strong community interest in AI ethics discussions.",
+  "tech_stack": [
+    "AI/ML",
+    "Philosophy/Ethics",
+    "Python",
+    "Decision Theory",
+    "LLM"
+  ],
+  "problem_solved": "Explores how AI systems should handle moral dilemmas requiring trade-offs between different values and outcomes.",
+  "why_valuable": "Contributes to the critical ongoing discourse about AI alignment and how machines should make ethical decisions in ambiguous situations.",
+  "tags": [
+    "AI Ethics",
+    "Philosophy",
+    "Trolley Problem",
+    "Machine Morality",
+    "Decision Making"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-16T13:11:38.504542+00:00",
+  "updated_at": "2026-10-16T13:12:53.223210+00:00",
+  "published_to": []
+}

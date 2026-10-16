@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-007",
+  "source": "rss",
+  "source_url": "https://github.com/johnrash/bebox",
+  "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+  "summary": "BeBox is a Haiku OS application that faithfully emulates Be Inc.'s original BeBox, a groundbreaking dual-processor computer from the 1990s. The project preserves computing history by allowing users to experience the vintage BeBox environment on modern hardware.",
+  "tech_stack": [
+    "Haiku OS",
+    "C++",
+    "Emulation",
+    "GitHub",
+    "Open Source"
+  ],
+  "problem_solved": "It preserves and recreates access to the historic BeBox computing experience that would otherwise be lost to hardware obsolescence.",
+  "why_valuable": "This project serves as an important bridge between computing history and modern users, allowing retrocomputing enthusiasts to experience Be Inc.'s innovative dual-processor architecture on contemporary systems.",
+  "tags": [
+    "Emulation",
+    "Retrocomputing",
+    "Haiku",
+    "Vintage Computing",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-16T13:10:37.764842+00:00",
+  "updated_at": "2026-10-16T13:12:53.222762+00:00",
+  "published_to": []
+}

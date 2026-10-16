@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-003",
+  "source": "rss",
+  "source_url": "https://github.com/Saffsanity/sill",
+  "title": "Any window from your Mac, on your iPhone and iPad",
+  "summary": "Sill is an open-source tool that enables users to view and interact with any window from their Mac directly on iPhone and iPad, creating a seamless multi-device viewing experience without requiring complex setup or additional hardware.",
+  "tech_stack": [
+    "Swift",
+    "macOS",
+    "iOS",
+    "SwiftUI",
+    "Core Graphics"
+  ],
+  "problem_solved": "Enables remote viewing of Mac windows on iOS devices for multi-device workflows.",
+  "why_valuable": "Provides a practical, open-source solution for extending Mac display to iOS devices, useful for developers, remote workers, and anyone needing cross-device access to their desktop applications.",
+  "tags": [
+    "macOS",
+    "iOS",
+    "Remote Display",
+    "Swift",
+    "Screen Streaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-16T13:09:48.075511+00:00",
+  "updated_at": "2026-10-16T13:12:53.213812+00:00",
+  "published_to": []
+}

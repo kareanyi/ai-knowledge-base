@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-009",
+  "source": "rss",
+  "source_url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+  "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+  "summary": "Withings has implemented a $99/year subscription requirement for new users to sync their health device data with Apple Health, sparking significant community backlash. This paywall affects new account holders who want to integrate their Withings scales, blood pressure monitors, or other health devices with Apple's health ecosystem.",
+  "tech_stack": [
+    "Apple Health API",
+    "Withings Health API",
+    "Subscription Platform",
+    "iOS Integration",
+    "Health Data Sync"
+  ],
+  "problem_solved": "This represents a restriction rather than a solution - it limits access to health data synchronization functionality for new Withings users.",
+  "why_valuable": "Demonstrates the evolving monetization strategies of health tech companies and raises important questions about data portability and user control in the connected health device ecosystem.",
+  "tags": [
+    "HealthTech",
+    "Wearables",
+    "Subscription",
+    "Data Portability",
+    "User Backlash"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-16T13:10:59.437088+00:00",
+  "updated_at": "2026-10-16T13:12:53.222983+00:00",
+  "published_to": []
+}
