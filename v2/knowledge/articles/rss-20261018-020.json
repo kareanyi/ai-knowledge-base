@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-020",
+  "source": "rss",
+  "source_url": "https://alexwang.ai/posts/associative-memory/",
+  "title": "You could have invented transformers from memory",
+  "summary": "This article explains how the transformer architecture (the foundation of GPT, BERT, and modern LLMs) can be intuitively understood through the lens of associative memory, showing how self-attention mechanisms naturally emerge from memory recall patterns.",
+  "tech_stack": [
+    "Transformers",
+    "Self-Attention",
+    "Deep Learning",
+    "Neural Networks",
+    "Python"
+  ],
+  "problem_solved": "Makes the transformer architecture intuitive and accessible by deriving it from associative memory concepts.",
+  "why_valuable": "Provides a novel intuitive framework for understanding one of the most important architectures in modern AI, bridging the gap between theoretical foundations and practical implementation.",
+  "tags": [
+    "Transformers",
+    "Deep Learning",
+    "AI",
+    "Neural Networks",
+    "Self-Attention"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-18T12:37:04.806743+00:00",
+  "updated_at": "2026-10-18T12:37:06.169256+00:00",
+  "published_to": []
+}

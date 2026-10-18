@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261018-010",
+  "source": "rss",
+  "source_url": "https://github.com/openai/codex/issues/25921",
+  "title": "Codex Desktop continuously generates Crashpad pending dumps",
+  "summary": "OpenAI Codex Desktop application has a bug causing it to continuously generate Crashpad pending dump files, indicating repeated crashes or stability issues with the desktop client. The issue has garnered significant community attention with 141 points and 64 comments on Hacker News.",
+  "tech_stack": [
+    "Codex Desktop",
+    "Crashpad",
+    "Python",
+    "Electron"
+  ],
+  "problem_solved": "Identifies a stability bug in OpenAI's Codex Desktop application where crash dump files are being continuously generated, suggesting underlying crashes or errors in the software.",
+  "why_valuable": "Highlights real-world stability issues with AI-powered code generation tools, helping the development team prioritize fixes and improve user experience for developers relying on these tools.",
+  "tags": [
+    "AI",
+    "Bug Report",
+    "Code Generation",
+    "Desktop App",
+    "Stability"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-18T12:35:21.828345+00:00",
+  "updated_at": "2026-10-18T12:37:06.167173+00:00",
+  "published_to": []
+}

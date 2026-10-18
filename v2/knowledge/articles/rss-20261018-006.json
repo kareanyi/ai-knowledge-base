@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261018-006",
+  "source": "rss",
+  "source_url": "https://api-docs.deepseek.com/guides/search/",
+  "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+  "summary": "DeepSeek has launched a search and fetch API that enables developers to retrieve real-time web information for AI applications, priced at an extremely competitive $0.75 per 1000 successful requests, significantly undercutting mainstream search APIs.",
+  "tech_stack": [
+    "DeepSeek API",
+    "REST API",
+    "Python SDK",
+    "JavaScript SDK"
+  ],
+  "problem_solved": "Provides affordable real-time web search capabilities for AI and LLM applications that require up-to-date information beyond their training data.",
+  "why_valuable": "At $0.75 per 1000 requests, it democratizes access to search functionality for developers and startups building AI products, making real-time data integration economically viable.",
+  "tags": [
+    "Search API",
+    "AI",
+    "LLM",
+    "Developer Tools",
+    "Cost-effective"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-18T12:34:38.542187+00:00",
+  "updated_at": "2026-10-18T12:37:06.166294+00:00",
+  "published_to": []
+}

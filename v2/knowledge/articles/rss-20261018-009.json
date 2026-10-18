@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261018-009",
+  "source": "rss",
+  "source_url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+  "title": "NY announces game ownership bill requiring ownership rather than licensing",
+  "summary": "A New York representative has proposed legislation requiring video game publishers to provide actual consumer ownership rather than licensing for digital games, and mandate that games remain functional after official support ends, addressing the growing concern of consumers losing access to paid digital content.",
+  "tech_stack": [
+    "Digital Distribution",
+    "Gaming Platforms",
+    "Cloud Services"
+  ],
+  "problem_solved": "Consumer rights protection for digital game purchases by ensuring true ownership instead of revocable licenses.",
+  "why_valuable": "This bill would prevent consumers from losing access to games they've paid for when publishers shut down servers or revoke licenses, establishing fundamental digital ownership rights.",
+  "tags": [
+    "Legislation",
+    "Consumer Rights",
+    "Gaming Industry",
+    "Digital Ownership",
+    "Policy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-18T12:35:12.368972+00:00",
+  "updated_at": "2026-10-18T12:37:06.166972+00:00",
+  "published_to": []
+}

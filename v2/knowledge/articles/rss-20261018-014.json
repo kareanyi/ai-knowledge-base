@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261018-014",
+  "source": "rss",
+  "source_url": "https://celphase.github.io/duck-pond/",
+  "title": "Show HN: High-quality duck audio synthesizer",
+  "summary": "A web-based duck sound synthesizer that generates realistic quacking sounds using audio synthesis techniques, demonstrated through an interactive interface where users can control various parameters of the duck vocalizations.",
+  "tech_stack": [
+    "JavaScript",
+    "Web Audio API",
+    "HTML/CSS",
+    "GitHub Pages"
+  ],
+  "problem_solved": "Provides an accessible way to generate high-quality duck sounds for creative projects without needing recordings or sound libraries.",
+  "why_valuable": "Demonstrates creative audio synthesis capabilities in the browser while offering a practical tool for developers and content creators needing duck sounds.",
+  "tags": [
+    "audio",
+    "synthesizer",
+    "web-audio",
+    "creative-coding",
+    "open-source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-18T12:36:04.878365+00:00",
+  "updated_at": "2026-10-18T12:37:06.167991+00:00",
+  "published_to": []
+}

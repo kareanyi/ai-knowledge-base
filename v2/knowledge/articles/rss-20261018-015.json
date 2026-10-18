@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-015",
+  "source": "rss",
+  "source_url": "https://lpviz.net/",
+  "title": "Interactive Linear Programming in the Browser",
+  "summary": "An interactive web-based tool that allows users to solve and visualize Linear Programming problems directly in the browser without any installation required.",
+  "tech_stack": [
+    "JavaScript",
+    "WebAssembly",
+    "HTML/CSS",
+    "Simplex Algorithm",
+    "Visualization"
+  ],
+  "problem_solved": "Makes linear programming accessible for learning and experimentation without local software installation.",
+  "why_valuable": "Provides an interactive, zero-setup environment for understanding LP concepts through hands-on practice and real-time visualization.",
+  "tags": [
+    "Optimization",
+    "Mathematics",
+    "Education",
+    "Interactive",
+    "Simplex"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-18T12:36:14.130154+00:00",
+  "updated_at": "2026-10-18T12:37:06.168184+00:00",
+  "published_to": []
+}

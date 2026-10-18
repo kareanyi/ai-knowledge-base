@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-005",
+  "source": "rss",
+  "source_url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+  "title": "Parser Combinators",
+  "summary": "A technical blog post explaining parser combinators, a functional programming technique for building parsers by composing smaller parsing functions together in a modular and reusable way.",
+  "tech_stack": [
+    "Functional Programming",
+    "Parsing Theory",
+    "Haskell",
+    "Scala",
+    "TypeScript"
+  ],
+  "problem_solved": "How to build complex parsers in a declarative, composable manner without external grammar files or code generation",
+  "why_valuable": "Enables developers to create readable, maintainable, and testable parsers by combining simple building blocks",
+  "tags": [
+    "Parser Combinators",
+    "Parsing",
+    "Functional Programming",
+    "Domain Specific Language",
+    "Compilers"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-18T12:34:30.048205+00:00",
+  "updated_at": "2026-10-18T12:37:06.166080+00:00",
+  "published_to": []
+}

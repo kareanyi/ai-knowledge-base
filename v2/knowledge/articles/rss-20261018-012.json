@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-012",
+  "source": "rss",
+  "source_url": "https://pele.run/",
+  "title": "Pele – Mermaid diagrams as themeable SVG",
+  "summary": "Pele is a tool that converts Mermaid diagram syntax into beautifully themed SVG outputs, allowing developers and designers to customize the visual appearance of their diagrams beyond Mermaid's default styling.",
+  "tech_stack": [
+    "Mermaid",
+    "SVG",
+    "JavaScript",
+    "CSS",
+    "Web-based Tool"
+  ],
+  "problem_solved": "Solves the limitation of Mermaid diagrams having limited theming options by providing a way to export fully themeable SVG graphics.",
+  "why_valuable": "Enables consistent, branded diagram styling across documentation and presentations without manual SVG editing.",
+  "tags": [
+    "diagrams",
+    "SVG",
+    "theming",
+    "visualization",
+    "documentation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-18T12:35:45.723087+00:00",
+  "updated_at": "2026-10-18T12:37:06.167589+00:00",
+  "published_to": []
+}

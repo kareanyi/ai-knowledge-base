@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-004",
+  "source": "rss",
+  "source_url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+  "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+  "summary": "Legal experts have analyzed Meta's revised terms of service and concluded that despite apparent language changes, the company still retains broad permissions to scrape user data for purposes including AI training. The article examines the gap between the company's public messaging about privacy and the actual legal authority granted in their updated policies.",
+  "tech_stack": [
+    "Terms of Service Analysis",
+    "AI Training Data",
+    "Web Scraping",
+    "Legal Analysis",
+    "Social Media Policy"
+  ],
+  "problem_solved": "Highlights the ongoing tension between platform data practices and user privacy rights in the context of AI development.",
+  "why_valuable": "Provides critical legal analysis that helps users, regulators, and policymakers understand the practical implications of social media platform policy changes on data privacy.",
+  "tags": [
+    "Privacy",
+    "AI",
+    "Legal",
+    "Data Rights",
+    "Meta"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-18T12:34:17.410320+00:00",
+  "updated_at": "2026-10-18T12:37:06.165849+00:00",
+  "published_to": []
+}

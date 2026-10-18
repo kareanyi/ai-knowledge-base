@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-019",
+  "source": "rss",
+  "source_url": "https://teal-language.org/",
+  "title": "Teal – A statically-typed dialect of Lua",
+  "summary": "Teal is a statically-typed programming language that compiles to Lua, bringing compile-time type checking and type annotations to Lua development while maintaining full compatibility with standard Lua code and runtime.",
+  "tech_stack": [
+    "Lua",
+    "Teal",
+    "Static Typing",
+    "Compiler",
+    "TypeScript-like Type System"
+  ],
+  "problem_solved": "Adds compile-time type checking to dynamically-typed Lua, catching type-related bugs before runtime without sacrificing Lua's simplicity and performance.",
+  "why_valuable": "Enables Lua developers to write safer, more maintainable code with IDE support for autocompletion and error detection while remaining fully interoperable with existing Lua ecosystems.",
+  "tags": [
+    "Programming Language",
+    "Static Typing",
+    "Lua",
+    "Compiler",
+    "Type Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-18T12:36:53.576016+00:00",
+  "updated_at": "2026-10-18T12:37:06.169058+00:00",
+  "published_to": []
+}

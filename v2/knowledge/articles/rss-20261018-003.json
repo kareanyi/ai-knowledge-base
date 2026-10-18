@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261018-003",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/employment-at-anthropic",
+  "title": "How employment is changing at Anthropic",
+  "summary": "Anthropic published a research article discussing how employment and job structures are evolving at their company, likely addressing the intersection of AI development and workforce dynamics. This represents Anthropic's transparent approach to sharing their organizational philosophy and employment practices.",
+  "tech_stack": [
+    "AI",
+    "Claude",
+    "Anthropic Platform"
+  ],
+  "problem_solved": "Provides transparency about how AI companies are restructuring work and employment models as AI capabilities advance.",
+  "why_valuable": "Offers insight into how leading AI companies like Anthropic are approaching workforce changes, which may set precedents for the broader tech industry.",
+  "tags": [
+    "AI",
+    "Employment",
+    "Anthropic",
+    "Workforce",
+    "Future of Work"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-18T12:34:07.989589+00:00",
+  "updated_at": "2026-10-18T12:37:06.156815+00:00",
+  "published_to": []
+}
