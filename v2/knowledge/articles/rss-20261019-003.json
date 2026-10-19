@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261019-003",
+  "source": "rss",
+  "source_url": "https://github.com/kividbio/kividb",
+  "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+  "summary": "KiviDB is a Redis-compatible in-memory database and vector cache written in Rust, designed to eliminate GC pauses and memory blow-up issues that the author experienced with Dragonfly. The project aims to combine the best aspects of Rust, Garnet, and Dragonfly into a high-performance database solution.",
+  "tech_stack": [
+    "Rust",
+    "Redis Protocol",
+    "Tokio (implied)",
+    "Memory-mapped storage"
+  ],
+  "problem_solved": "Addresses GC pauses and memory management issues in high-performance in-memory databases during snapshots and heavy workloads",
+  "why_valuable": "Provides a production-ready alternative to Redis and Dragonfly with predictable latency and no GC interruptions for demanding caching and vector operations",
+  "tags": [
+    "database",
+    "redis-compatible",
+    "rust",
+    "in-memory",
+    "vector-cache"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:26:28.752417+00:00",
+  "updated_at": "2026-10-19T15:29:31.735504+00:00",
+  "published_to": []
+}

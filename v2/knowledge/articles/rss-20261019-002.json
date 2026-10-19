@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261019-002",
+  "source": "rss",
+  "source_url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+  "title": "Beyond These Stars",
+  "summary": "Beyond These Stars is a space-themed game available on Steam with limited community engagement, indicating it may be an indie title in early stages of visibility. The game appears to explore cosmic themes based on its name, though specific gameplay mechanics and features are not readily apparent from the available information.",
+  "tech_stack": [
+    "Steam",
+    "Game Engine (unspecified)"
+  ],
+  "problem_solved": "Provides entertainment through space exploration gameplay",
+  "why_valuable": "Offers an indie perspective on space-themed gaming experience",
+  "tags": [
+    "gaming",
+    "indie",
+    "space",
+    "sci-fi",
+    "steam"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-19T15:26:18.094038+00:00",
+  "updated_at": "2026-10-19T15:29:31.735380+00:00",
+  "published_to": []
+}

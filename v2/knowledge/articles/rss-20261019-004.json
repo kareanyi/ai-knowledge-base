@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-004",
+  "source": "rss",
+  "source_url": "https://marc.info/?l=openbsd-ports&amp;m=179236125692175",
+  "title": "Wine Ported to OpenBSD",
+  "summary": "Wine 兼容层被成功移植到 OpenBSD 操作系统，允许用户在 OpenBSD 上运行部分 Windows 应用程序，这是开源社区的一个重要移植工作进展。",
+  "tech_stack": [
+    "Wine",
+    "OpenBSD",
+    "C/C++",
+    "Unix",
+    "POSIX"
+  ],
+  "problem_solved": "解决 OpenBSD 用户无法运行 Windows 应用程序的问题",
+  "why_valuable": "扩展了 OpenBSD 的软件生态系统，让这个以安全著称的操作系统也能兼容部分 Windows 程序",
+  "tags": [
+    "OpenBSD",
+    "Wine",
+    "Porting",
+    "Cross-Platform",
+    "Compatibility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:26:42.965923+00:00",
+  "updated_at": "2026-10-19T15:29:31.744144+00:00",
+  "published_to": []
+}

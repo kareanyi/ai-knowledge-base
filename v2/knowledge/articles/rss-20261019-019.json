@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-019",
+  "source": "rss",
+  "source_url": "https://www.getlazarus.org/dynamic/",
+  "title": "Free Pascal compiler now supports dynamic packages",
+  "summary": "Free Pascal compiler has introduced support for dynamic packages, enabling modular development where code modules can be loaded and unloaded at runtime without requiring full application recompilation.",
+  "tech_stack": [
+    "Free Pascal",
+    "Pascal",
+    "Lazarus",
+    "Dynamic Packages",
+    "Modular Development"
+  ],
+  "problem_solved": "Enables runtime loading of code modules in Pascal applications for better memory management and modularity.",
+  "why_valuable": "Allows developers to build more flexible and maintainable applications with plugin architectures and reduced memory footprint.",
+  "tags": [
+    "Pascal",
+    "FreePascal",
+    "Lazarus",
+    "DynamicPackages",
+    "Compiler"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:29:19.234501+00:00",
+  "updated_at": "2026-10-19T15:29:31.746260+00:00",
+  "published_to": []
+}

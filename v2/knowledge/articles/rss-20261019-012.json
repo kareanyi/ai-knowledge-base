@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-012",
+  "source": "rss",
+  "source_url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+  "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+  "summary": "A technical guide explaining how to integrate Tmux terminal multiplexer with Claude Code AI agent, covering session management, send-keys commands, and practical workflows for AI-assisted development using terminal sessions.",
+  "tech_stack": [
+    "Tmux",
+    "Claude Code",
+    "Terminal/CLI",
+    "Bash",
+    "Anthropic AI"
+  ],
+  "problem_solved": "How to effectively combine Tmux's session management capabilities with Claude Code for automated and persistent AI-assisted development workflows.",
+  "why_valuable": "Enables developers to leverage AI agents more effectively by providing session persistence, multi-pane control, and programmatic command execution through Tmux integration.",
+  "tags": [
+    "Tmux",
+    "Claude Code",
+    "AI Agent",
+    "Terminal",
+    "Developer Tools"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-19T15:28:06.328603+00:00",
+  "updated_at": "2026-10-19T15:29:31.745357+00:00",
+  "published_to": []
+}

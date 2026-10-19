@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-016",
+  "source": "rss",
+  "source_url": "https://github.com/finereli/whatsapp-mcp",
+  "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+  "summary": "A free, serverless WhatsApp MCP server that runs on Cloudflare Workers, enabling AI assistants like Claude to access personal WhatsApp messages without requiring WhatsApp Business API or self-hosted infrastructure. It integrates with Google Contacts to resolve phone numbers to readable contact names.",
+  "tech_stack": [
+    "Cloudflare Workers",
+    "WhatsApp (Baileys)",
+    "Google Contacts API",
+    "MCP (Model Context Protocol)",
+    "TypeScript"
+  ],
+  "problem_solved": "Enables personal WhatsApp access for AI assistants without paid Business API or maintaining a dedicated server.",
+  "why_valuable": "Provides a completely free, serverless solution for integrating WhatsApp with AI agents, making mobile AI assistance practical for individual users.",
+  "tags": [
+    "WhatsApp",
+    "MCP",
+    "Cloudflare",
+    "AI Integration",
+    "Serverless"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:28:47.563351+00:00",
+  "updated_at": "2026-10-19T15:29:31.745889+00:00",
+  "published_to": []
+}

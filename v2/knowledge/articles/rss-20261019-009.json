@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-009",
+  "source": "rss",
+  "source_url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+  "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+  "summary": "Let's Encrypt is strengthening their SSL/TLS certificate issuance process by adding two additional remote perspectives (geographically distributed validation servers) to verify domain ownership before issuing certificates. This multi-location validation approach enhances security against attackers who might compromise a single network vantage point.",
+  "tech_stack": [
+    "TLS/SSL",
+    "ACME Protocol",
+    "PKI",
+    "DNS Validation",
+    "Certificate Authority"
+  ],
+  "problem_solved": "Prevents domain validation attacks where an attacker could compromise a single validation server to fraudulently obtain certificates for domains they don't own.",
+  "why_valuable": "By validating domain ownership from multiple independent network locations, Let's Encrypt makes it significantly harder for attackers to trick the certificate issuance process, improving the overall trust model of the web PKI ecosystem.",
+  "tags": [
+    "Certificate Authority",
+    "TLS/SSL",
+    "Security",
+    "PKI",
+    "Domain Validation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-19T15:27:37.052913+00:00",
+  "updated_at": "2026-10-19T15:29:31.744945+00:00",
+  "published_to": []
+}

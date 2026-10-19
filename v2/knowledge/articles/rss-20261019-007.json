@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-007",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+  "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+  "summary": "ESA's Hera spacecraft will rendezvous with asteroid Dimorphos to document the impact scars left by NASA's DART mission, which deliberately crashed into the asteroid to test planetary defense techniques. The mission aims to assess the effectiveness of kinetic impact as a method for deflecting potentially hazardous asteroids.",
+  "tech_stack": [
+    "Spacecraft Navigation",
+    "Planetary Defense",
+    "Deep Space Communication",
+    "Autonomous Rendezvous",
+    "Remote Sensing"
+  ],
+  "problem_solved": "Provides critical post-impact data to validate whether kinetic impact deflection can reliably protect Earth from asteroid threats.",
+  "why_valuable": "Advances planetary defense science by gathering direct evidence of asteroid modification effects, essential for developing reliable Earth protection strategies.",
+  "tags": [
+    "Space Exploration",
+    "Planetary Defense",
+    "Asteroids",
+    "ESA",
+    "NASA"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:27:16.633325+00:00",
+  "updated_at": "2026-10-19T15:29:31.744674+00:00",
+  "published_to": []
+}

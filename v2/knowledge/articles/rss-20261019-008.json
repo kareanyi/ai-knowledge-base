@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-008",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+  "title": "Alternatives to Animal Testing Are Finally Taking Off",
+  "summary": "IEEE Spectrum reports on the emerging technologies and methodologies that are beginning to replace traditional animal testing in biomedical research and drug development, including organ-on-a-chip systems, computational modeling, and AI-driven prediction tools.",
+  "tech_stack": [
+    "Organ-on-a-Chip",
+    "AI/ML Modeling",
+    "In Vitro Testing",
+    "Computational Simulation",
+    "3D Cell Culture"
+  ],
+  "problem_solved": "Addresses the ethical concerns, high costs, and limited predictive accuracy of animal models for human drug testing and medical research.",
+  "why_valuable": "These alternatives offer more human-relevant data, reduce ethical concerns around animal welfare, and could accelerate drug development timelines while improving translational accuracy.",
+  "tags": [
+    "Biotechnology",
+    "Animal Testing",
+    "Drug Development",
+    "Medical Research",
+    "Ethics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:27:26.875998+00:00",
+  "updated_at": "2026-10-19T15:29:31.744804+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261019-020",
+  "source": "rss",
+  "source_url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+  "title": "Someone behind the software",
+  "summary": "An article exploring the human element behind software development, discussing the importance of recognizing developers as people rather than just producers of code, and how this awareness shapes better software and user relationships.",
+  "tech_stack": [
+    "Web Technologies",
+    "Personal Blog"
+  ],
+  "problem_solved": "Addresses the disconnect between software users and the human developers who create the tools they use.",
+  "why_valuable": "The high engagement (509 points, 184 comments on Hacker News) demonstrates that it resonates with developers reflecting on the human side of their craft.",
+  "tags": [
+    "Software Development",
+    "Developer Experience",
+    "Human-Centered Design",
+    "Philosophy",
+    "Community"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-19T15:29:30.425913+00:00",
+  "updated_at": "2026-10-19T15:29:31.746380+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-013",
+  "source": "rss",
+  "source_url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+  "title": "Superlite: A Faster Alternatie to Superpowers",
+  "summary": "Superlite is presented as a faster alternative to Superpowers framework, specifically designed as an agent specification tool for building AI-powered applications. The article discusses architectural improvements and performance optimizations compared to the original Superpowers project.",
+  "tech_stack": [
+    "JavaScript",
+    "TypeScript",
+    "AI Agents",
+    "WebAssembly",
+    "Node.js"
+  ],
+  "problem_solved": "Provides a lightweight, faster-performing alternative to the Superpowers framework for building AI agent specifications.",
+  "why_valuable": "Addresses performance bottlenecks in existing agent frameworks while maintaining compatibility and developer ergonomics for building AI-powered applications.",
+  "tags": [
+    "AI",
+    "Agents",
+    "Performance",
+    "Framework",
+    "JavaScript"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:28:15.421015+00:00",
+  "updated_at": "2026-10-19T15:29:31.745486+00:00",
+  "published_to": []
+}

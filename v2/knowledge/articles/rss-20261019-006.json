@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-006",
+  "source": "rss",
+  "source_url": "https://github.com/google-research/harness2",
+  "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+  "summary": "Harness2 is a research framework from Google Research for building, evaluating, and orchestrating recursive AI agents that can leverage other agents as tools. It provides infrastructure for creating multi-agent systems where agents can delegate tasks to specialized sub-agents, enabling complex hierarchical task decomposition.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "Google Cloud",
+    "Vertex AI",
+    "OpenAI"
+  ],
+  "problem_solved": "Enables researchers to build and benchmark recursive agent systems where AI agents can harness and coordinate other AI agents as tools to solve complex hierarchical tasks.",
+  "why_valuable": "It provides standardized infrastructure for advancing multi-agent AI research, allowing systematic exploration of agent hierarchies and tool-use patterns at scale.",
+  "tags": [
+    "AI Agents",
+    "Multi-Agent Systems",
+    "LangChain",
+    "Research Framework",
+    "Recursive AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-19T15:27:06.814925+00:00",
+  "updated_at": "2026-10-19T15:29:31.744516+00:00",
+  "published_to": []
+}

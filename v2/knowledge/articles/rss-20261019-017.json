@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-017",
+  "source": "rss",
+  "source_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "summary": "This article discusses the importance of running your own LLM proxy layer for observability and control when integrating LLMs into applications. Without a proxy, developers lack visibility into API calls, responses, latency, errors, and costs. The author argues that a self-hosted proxy is essential for debugging, monitoring, and understanding what's happening with your AI integrations.",
+  "tech_stack": [
+    "LLM",
+    "Proxy",
+    "API Monitoring",
+    "Self-hosted Infrastructure",
+    "Observability Tools"
+  ],
+  "problem_solved": "Lack of visibility and control over LLM API interactions, making debugging and monitoring AI applications difficult.",
+  "why_valuable": "A proxy layer enables observability, cost tracking, request logging, and better control over LLM behavior in production environments.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Proxy",
+    "Observability",
+    "Monitoring"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-19T15:28:58.981752+00:00",
+  "updated_at": "2026-10-19T15:29:31.746011+00:00",
+  "published_to": []
+}

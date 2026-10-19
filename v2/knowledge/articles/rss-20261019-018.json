@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-018",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.18861",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "summary": "HybridAgent is a novel framework that enables Large Language Models to perform reasoning in a latent (compressed) space before generating external text outputs, combining the benefits of chain-of-thought reasoning with improved efficiency. The approach reduces token costs and inference time while maintaining reasoning quality by separating internal 'thinking' from public text actions.",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "Together AI",
+    "HuggingFace",
+    "LLMs"
+  ],
+  "problem_solved": "Enables efficient multi-step reasoning and planning for LLM agents by keeping internal thoughts compressed in latent space rather than generating verbose intermediate text outputs.",
+  "why_valuable": "Dramatically reduces inference costs and token usage while maintaining sophisticated reasoning capabilities, making complex agent systems more practical and deployable.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agents",
+    "Reasoning",
+    "Latent Space"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-10-19T15:29:09.599904+00:00",
+  "updated_at": "2026-10-19T15:29:31.746136+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-010",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/timestral/",
+  "title": "Timestral: Mistral release time-series foundation models",
+  "summary": "Mistral AI released Timestral, a suite of foundation models specifically designed for time-series forecasting and analysis tasks. These models aim to provide a unified approach to handling various time-series problems across different domains without requiring task-specific training.",
+  "tech_stack": [
+    "Transformer Architecture",
+    "Time-Series Analysis",
+    "Foundation Models",
+    "Deep Learning",
+    "Multi-task Learning"
+  ],
+  "problem_solved": "Addresses the lack of general-purpose AI models for time-series data, enabling zero-shot and few-shot predictions across different time-series domains.",
+  "why_valuable": "Provides a single model capable of handling diverse time-series tasks, reducing the need for domain-specific models and labeled data while maintaining high accuracy.",
+  "tags": [
+    "Time-Series",
+    "Foundation Models",
+    "Forecasting",
+    "Mistral AI",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-19T15:27:48.079427+00:00",
+  "updated_at": "2026-10-19T15:29:31.745097+00:00",
+  "published_to": []
+}

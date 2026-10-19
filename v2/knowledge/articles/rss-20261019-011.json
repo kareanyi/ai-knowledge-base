@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261019-011",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1101143/",
+  "title": "Linux 7.3 Released",
+  "summary": "Linux 7.3 内核版本正式发布，这是 Linux 内核的常规更新版本，包含了新功能、bug修复和安全补丁，对全球开源生态系统具有重要意义。",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "Git",
+    "GNU Toolchain"
+  ],
+  "problem_solved": "提供操作系统核心功能的更新、安全修复和新硬件支持",
+  "why_valuable": "Linux 内核是绝大多数服务器、移动设备和嵌入式系统的核心，其每次更新都对全球计算基础设施的安全性和性能产生直接影响",
+  "tags": [
+    "Linux",
+    "Kernel",
+    "OpenSource",
+    "Systems",
+    "DevOps"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:27:56.188655+00:00",
+  "updated_at": "2026-10-19T15:29:31.745225+00:00",
+  "published_to": []
+}

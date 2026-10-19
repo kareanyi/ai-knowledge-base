@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261019-005",
+  "source": "rss",
+  "source_url": "https://100toolkit.com/blog/deslop-model/",
+  "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+  "summary": "一个基于Qwen3-4B的开源模型，专门用于去除AI生成文本中的机械特征（如重复短语、过度正式的语气等），使AI写作更加自然流畅。该项目在Hacker News上获得81个赞成票和59条评论。",
+  "tech_stack": [
+    "Qwen3-4B",
+    "Python",
+    "LLM",
+    "NLP"
+  ],
+  "problem_solved": "解决AI生成文本过于机械、容易被检测出是AI撰写的问题",
+  "why_valuable": "能够帮助内容创作者将AI辅助写作的成果变得更加自然，提高可读性和可信度",
+  "tags": [
+    "OpenSource",
+    "LLM",
+    "TextGeneration",
+    "AI-Writing",
+    "NLP"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-19T15:26:57.574327+00:00",
+  "updated_at": "2026-10-19T15:29:31.744377+00:00",
+  "published_to": []
+}
