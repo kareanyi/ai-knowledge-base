@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-019",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50151036",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "summary": "A Hacker News discussion sparked by a Meta engineer's concerns about shipping AI-generated code that developers don't fully understand, expressing discomfort with the 'black box' nature of AI-assisted development and the tension between speed and code comprehension.",
+  "tech_stack": [
+    "AI Code Assistants",
+    "LLM-based Development",
+    "GitHub Copilot",
+    "ChatGPT",
+    "CI/CD"
+  ],
+  "problem_solved": "Raises awareness about the professional responsibility and quality assurance challenges developers face when increasingly relying on AI-generated code.",
+  "why_valuable": "Highlights a critical emerging concern in software engineering about maintaining code quality, security, and developer accountability in the age of AI-assisted development.",
+  "tags": [
+    "AI-Code-Review",
+    "Software-Engineering",
+    "Developer-Productivity",
+    "Code-Quality",
+    "Tech-Industry-Trends"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-20T13:32:33.360042+00:00",
+  "updated_at": "2026-10-20T13:32:34.235550+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261020-015",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+  "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+  "summary": "美国国土安全部(DHS)发布新命令，禁止联邦民用机构在其IT系统中使用中国人工智能公司DeepSeek的产品和服务，这是美国政府为应对国家安全风险而采取的最新监管措施。",
+  "tech_stack": [
+    "AI/LLM",
+    "Cloud Infrastructure",
+    "Federal IT Systems"
+  ],
+  "problem_solved": "解决美国联邦机构使用可能存在国家安全风险的中国AI技术的问题",
+  "why_valuable": "该政策反映了美国政府对AI供应链安全和数据主权的重视，对全球AI治理格局具有重要示范意义",
+  "tags": [
+    "AI Policy",
+    "National Security",
+    "DeepSeek",
+    "DHS",
+    "Federal Regulations"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-20T13:31:37.876583+00:00",
+  "updated_at": "2026-10-20T13:32:34.234826+00:00",
+  "published_to": []
+}

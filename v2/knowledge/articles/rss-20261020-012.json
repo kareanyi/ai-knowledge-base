@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-012",
+  "source": "rss",
+  "source_url": "https://calabro.io/ohbf",
+  "title": "One Hash Bloom Filters",
+  "summary": "An article presenting an optimized variant of Bloom filters that uses only a single hash function instead of traditional multiple hash functions, reducing computational overhead while maintaining space efficiency and probabilistic membership testing capabilities.",
+  "tech_stack": [
+    "Algorithms",
+    "Hash Functions",
+    "C/C++",
+    "Data Structures",
+    "Memory Optimization"
+  ],
+  "problem_solved": "Reduces the computational overhead of traditional Bloom filters that require multiple hash functions, simplifying implementation and potentially improving cache performance.",
+  "why_valuable": "Provides a more efficient Bloom filter implementation that maintains constant-time lookups with reduced hash computations, making it valuable for memory-efficient set membership testing in high-performance applications.",
+  "tags": [
+    "bloom-filter",
+    "data-structures",
+    "algorithms",
+    "optimization",
+    "probabilistic"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-20T13:31:06.796572+00:00",
+  "updated_at": "2026-10-20T13:32:34.234286+00:00",
+  "published_to": []
+}

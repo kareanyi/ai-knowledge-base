@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-018",
+  "source": "rss",
+  "source_url": "https://heymaxwell.ai/",
+  "title": "Maxwell: A new kind of model that sits between code and hardware",
+  "summary": "Maxwell is a revolutionary 'Code Execution Model' that sits between code and hardware, automatically optimizing program execution in real-time without changing any code. It analyzes traces, profiling data, and runtime information to dynamically adapt to the hardware environment and input characteristics.",
+  "tech_stack": [
+    "Code Execution Model",
+    "Machine Learning",
+    "Dynamic Optimization",
+    "Runtime Profiling",
+    "Adaptive Execution"
+  ],
+  "problem_solved": "Automatically optimizes code performance at runtime without requiring developers to modify their code or manually tune performance.",
+  "why_valuable": "Enables transparent, continuous performance optimization that adapts to hardware and runtime conditions without any developer intervention or code changes.",
+  "tags": [
+    "AI",
+    "Code Optimization",
+    "Runtime Performance",
+    "Developer Tools",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-20T13:32:08.576472+00:00",
+  "updated_at": "2026-10-20T13:32:34.235374+00:00",
+  "published_to": []
+}

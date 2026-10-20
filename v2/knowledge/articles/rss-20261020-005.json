@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-005",
+  "source": "rss",
+  "source_url": "https://github.com/microg/GmsCore/wiki",
+  "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+  "summary": "MicroG is a free-libre open-source re-implementation of Google's proprietary Android user space components, primarily Google Play Services, allowing Android devices to function without Google's closed-source framework.",
+  "tech_stack": [
+    "Java",
+    "Kotlin",
+    "C/C++",
+    "Gradle",
+    "Android SDK"
+  ],
+  "problem_solved": "Enables Android users to avoid Google's proprietary services while still using apps that depend on Google Play Services, addressing privacy and freedom concerns.",
+  "why_valuable": "It empowers users with privacy, digital freedom, and the ability to de-google their Android experience without losing functionality in apps requiring Google services.",
+  "tags": [
+    "Open Source",
+    "Android",
+    "Privacy",
+    "Freedom Software",
+    "Google Play Services"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-20T13:29:54.659786+00:00",
+  "updated_at": "2026-10-20T13:32:34.232792+00:00",
+  "published_to": []
+}

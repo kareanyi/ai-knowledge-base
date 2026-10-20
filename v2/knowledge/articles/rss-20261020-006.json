@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-006",
+  "source": "rss",
+  "source_url": "https://www.openbsd.org/80.html",
+  "title": "OpenBSD 8.0",
+  "summary": "OpenBSD 8.0 was a major release of the renowned open-source BSD operating system, continuing its tradition of security-first design, code correctness, and comprehensive documentation. This release included updates to the kernel, system utilities, and various security enhancements typical of OpenBSD's conservative development approach.",
+  "tech_stack": [
+    "C",
+    "BSD",
+    "GCC",
+    "OpenSSH",
+    "Unix"
+  ],
+  "problem_solved": "Provides a free, open-source operating system with industry-leading security defaults and code correctness, suitable for servers, workstations, and security-focused deployments.",
+  "why_valuable": "OpenBSD consistently contributes security innovations (like OpenSSH, pledge, and unveil) back to the open-source community while maintaining a strict open documentation policy, making it invaluable for security-critical applications.",
+  "tags": [
+    "Operating System",
+    "Open Source",
+    "Security",
+    "BSD",
+    "Unix"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-20T13:30:05.770450+00:00",
+  "updated_at": "2026-10-20T13:32:34.233016+00:00",
+  "published_to": []
+}

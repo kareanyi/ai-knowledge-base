@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-007",
+  "source": "rss",
+  "source_url": "https://ipinfo.io/blog/france-fridges-hack",
+  "title": "France's supermarket fridges were vulnerable online for months",
+  "summary": "French supermarket refrigeration systems were found to be exposed online for months, allowing potential attackers to remotely control defrosting cycles across supermarket chains in Europe. The vulnerability in smart fridge management systems highlights critical IoT/OT security risks in retail infrastructure.",
+  "tech_stack": [
+    "IoT",
+    "Smart Appliances",
+    "OT/ICS Systems",
+    "Network Security",
+    "Refrigeration Control Systems"
+  ],
+  "problem_solved": "This article exposes a critical IoT security vulnerability rather than solving a problem, demonstrating the risks of exposed connected refrigeration systems in retail environments.",
+  "why_valuable": "Highlights the often-overlooked security risks in IoT devices and smart appliances within critical retail infrastructure, raising awareness about the need for better OT security practices.",
+  "tags": [
+    "IoT Security",
+    "Vulnerability",
+    "Smart Retail",
+    "OT Security",
+    "Supply Chain"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-20T13:30:17.180340+00:00",
+  "updated_at": "2026-10-20T13:32:34.233219+00:00",
+  "published_to": []
+}

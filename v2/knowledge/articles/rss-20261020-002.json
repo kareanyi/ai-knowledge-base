@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261020-002",
+  "source": "rss",
+  "source_url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+  "title": "Hazel (YC W24) Is Hiring",
+  "summary": "Hazel is a Y Combinator Winter 2024 batch startup that is actively recruiting a full-stack engineer with TypeScript expertise. The job posting indicates a technical role at an early-stage startup, though detailed job description content is limited in the provided source.",
+  "tech_stack": [
+    "TypeScript",
+    "Full-Stack Development"
+  ],
+  "problem_solved": "This is a YC-backed startup job posting, indicating a company seeking to build their engineering team to scale their product or service.",
+  "why_valuable": "Joining a Y Combinator-backed company offers exposure to startup growth, equity potential, and the ability to work on early-stage products with significant impact.",
+  "tags": [
+    "Hiring",
+    "YC W24",
+    "Full-Stack",
+    "TypeScript",
+    "Startup"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-20T13:29:23.168372+00:00",
+  "updated_at": "2026-10-20T13:32:34.224002+00:00",
+  "published_to": []
+}

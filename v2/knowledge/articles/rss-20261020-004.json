@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-004",
+  "source": "rss",
+  "source_url": "https://github.com/deepseek-ai/DeepInfer",
+  "title": "DeepSeek just open-sourced its inference engine",
+  "summary": "DeepSeek released DeepInfer, an open-source inference engine for running large language model inference efficiently. The project gained significant attention on Hacker News with 905 points and 309 comments, demonstrating strong community interest in open-source AI infrastructure alternatives.",
+  "tech_stack": [
+    "Python",
+    "CUDA",
+    "C++",
+    "Machine Learning Infrastructure",
+    "GPU Optimization"
+  ],
+  "problem_solved": "Provides an efficient, freely available inference solution for deploying large language models without relying on proprietary commercial services.",
+  "why_valuable": "Gives developers and organizations a transparent, optimized inference engine backed by DeepSeek's expertise, reducing dependency on costly cloud-based inference APIs.",
+  "tags": [
+    "Open Source",
+    "AI Inference",
+    "DeepSeek",
+    "LLM Optimization",
+    "GPU Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-20T13:29:43.961123+00:00",
+  "updated_at": "2026-10-20T13:32:34.232571+00:00",
+  "published_to": []
+}

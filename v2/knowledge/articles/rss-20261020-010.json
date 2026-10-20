@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-010",
+  "source": "rss",
+  "source_url": "https://cretezy.com/2026/ad-free-android-tv",
+  "title": "An ad-free Android TV",
+  "summary": "This article presents a solution for achieving an ad-free experience on Android TV devices, likely using network-level ad blocking techniques such as custom DNS or modified hosts files to filter out advertisements across all apps and services on the TV.",
+  "tech_stack": [
+    "Android TV",
+    "DNS filtering",
+    "Hosts file modification",
+    "Network configuration",
+    "Linux/Shell scripting"
+  ],
+  "problem_solved": "Eliminates intrusive advertisements and trackers on Android TV devices for a cleaner viewing experience.",
+  "why_valuable": "It provides a free, open-source method to remove ads system-wide on Android TV, improving user experience and privacy without requiring expensive hardware or subscriptions.",
+  "tags": [
+    "Android TV",
+    "Ad-blocking",
+    "Privacy",
+    "Open Source",
+    "Network"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-20T13:30:46.795967+00:00",
+  "updated_at": "2026-10-20T13:32:34.233859+00:00",
+  "published_to": []
+}

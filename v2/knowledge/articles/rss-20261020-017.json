@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-017",
+  "source": "rss",
+  "source_url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+  "title": "Why Is Speculative Decoding Fast?",
+  "summary": "The article explains the technical mechanics behind speculative decoding, a technique that speeds up large language model inference by using a smaller draft model to predict multiple tokens ahead, which are then verified in parallel by the larger target model.",
+  "tech_stack": [
+    "LLM",
+    "Transformer",
+    "PyTorch",
+    "Speculative Decoding",
+    "Autoregressive Models"
+  ],
+  "problem_solved": "Addresses the inefficiency of slow autoregressive token-by-token generation in large language models during inference.",
+  "why_valuable": "It enables significant inference speedups (often 2-3x faster) without any loss in output quality, making LLM deployment more cost-effective and responsive.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Inference Optimization",
+    "Machine Learning",
+    "Transformers"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-20T13:31:59.494461+00:00",
+  "updated_at": "2026-10-20T13:32:34.235201+00:00",
+  "published_to": []
+}

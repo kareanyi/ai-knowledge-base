@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261020-016",
+  "source": "rss",
+  "source_url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+  "title": "Ukraine claims first drone evacuation of wounded soldier",
+  "summary": "Ukraine has developed an innovative medical evacuation system using hexacopter drones to transport wounded soldiers from the frontlines, marking what they claim as the first successful drone-based casualty evacuation in modern warfare. This technology enables rapid extraction of injured personnel from dangerous combat zones where traditional vehicles cannot operate safely.",
+  "tech_stack": [
+    "Hexacopter Drones",
+    "UAV Technology",
+    "Medical Equipment"
+  ],
+  "problem_solved": "Evacuating wounded soldiers from dangerous frontline positions where traditional ambulance vehicles are vulnerable to enemy fire.",
+  "why_valuable": "It saves lives by providing faster, safer medical evacuation under combat conditions while reducing risk to medical personnel and other soldiers.",
+  "tags": [
+    "Ukraine",
+    "Military",
+    "Drones",
+    "Medical Evacuation",
+    "Warfare"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-20T13:31:48.479237+00:00",
+  "updated_at": "2026-10-20T13:32:34.235028+00:00",
+  "published_to": []
+}

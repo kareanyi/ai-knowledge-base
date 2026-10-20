@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261020-013",
+  "source": "rss",
+  "source_url": "https://www.minimax.io/blog/minimax-m31f",
+  "title": "MiniMax M3.1 Flash",
+  "summary": "MiniMax M3.1 Flash is a new AI model release from Chinese AI company MiniMax, generating significant interest in the developer community with 488 points on Hacker News and 207 comments, indicating it offers notable improvements in AI capabilities or efficiency.",
+  "tech_stack": [
+    "Large Language Models",
+    "AI/ML Infrastructure",
+    "Transformer Architecture"
+  ],
+  "problem_solved": "Provides an upgraded AI language model with potentially better performance, speed, or cost efficiency for developers and businesses building AI applications.",
+  "why_valuable": "As an emerging AI provider gaining traction in the global market, MiniMax's new model release offers developers an alternative AI solution with competitive capabilities, driving innovation and healthy competition in the AI space.",
+  "tags": [
+    "AI",
+    "LLM",
+    "Machine Learning",
+    "NLP",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-20T13:31:17.664124+00:00",
+  "updated_at": "2026-10-20T13:32:34.234464+00:00",
+  "published_to": []
+}
