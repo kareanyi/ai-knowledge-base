@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261021-012",
+  "source": "rss",
+  "source_url": "https://www.joshwcomeau.com/css/interop-2027/",
+  "title": "The Future of CSS",
+  "summary": "文章探讨 CSS 未来发展的关键方向，重点关注到 2027 年浏览器之间进一步实现功能互操作与标准一致性的可能性。随着 Web 平台特性逐渐成熟，前端开发者将能更稳定地使用现代 CSS，从而减少兼容性处理并简化响应式设计。",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "Web Platform",
+    "Browser Compatibility"
+  ],
+  "problem_solved": "分析浏览器兼容性差异如何阻碍现代 CSS 普及，并展望 Web 平台实现更高程度标准化与互操作化的路径。",
+  "why_valuable": "它帮助前端开发者理解现代 CSS 的发展方向、浏览器支持趋势以及未来构建网页时可依赖的平台能力。",
+  "tags": [
+    "CSS",
+    "Web Development",
+    "Standards",
+    "Browser Compatibility",
+    "Future Web"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-21T13:40:12.980999+00:00",
+  "updated_at": "2026-10-21T13:41:17.236390+00:00",
+  "published_to": []
+}

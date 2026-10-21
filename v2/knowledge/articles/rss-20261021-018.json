@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261021-018",
+  "source": "rss",
+  "source_url": "https://permit.petercai.com/",
+  "title": "Show HN: SimCity, but with Permits",
+  "summary": "Permit 是一款受《模拟城市》启发的网页城市建设游戏，将规划、开发和行政审批机制结合起来，玩家需要通过申请许可推动城市发展。项目以浏览器为交互入口，并通过具有话题性的玩法在 Show HN 社区获得较高关注。",
+  "tech_stack": [
+    "JavaScript",
+    "HTML5",
+    "Web"
+  ],
+  "problem_solved": "它为城市建设玩法加入了许可审批流程，使项目开发过程不仅涉及规划模拟，还需要处理规则、沟通与决策约束。",
+  "why_valuable": "它把熟悉的模拟城市建设与审批博弈相结合，提供了兼具策略性和叙事性的新型网页游戏体验。",
+  "tags": [
+    "Simulation",
+    "City Building",
+    "Permitting",
+    "Browser Game",
+    "Show HN"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-21T13:41:06.693923+00:00",
+  "updated_at": "2026-10-21T13:41:17.237566+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-007",
+  "source": "rss",
+  "source_url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+  "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+  "summary": "文章报道 eMudhra 的证书颁发机构（CA）私钥被攻破，破解过程仅需数毫秒，意味着攻击者可能伪造受信任的数字证书并实施中间人攻击。该事件暴露了 PKI 信任链中密钥保护或底层密码实现的严重缺陷，并引发对现有证书体系与供应链安全措施的重新审视。",
+  "tech_stack": [
+    "PKI",
+    "X.509",
+    "RSA",
+    "TLS",
+    "HSM"
+  ],
+  "problem_solved": "揭示 eMudhra CA 密钥保护失效所导致的证书伪造和信任链破坏风险。",
+  "why_valuable": "该事件警示组织不能仅依赖 CA 的品牌与合规认证，必须独立验证密钥安全、硬件实现和证书透明度。",
+  "tags": [
+    "PKI",
+    "CA",
+    "Security",
+    "Cryptography",
+    "Certificates"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-21T13:39:20.245979+00:00",
+  "updated_at": "2026-10-21T13:41:17.235447+00:00",
+  "published_to": []
+}

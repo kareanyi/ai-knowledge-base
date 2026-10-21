@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261021-010",
+  "source": "rss",
+  "source_url": "https://github.com/zion-sati/NetWasm",
+  "title": "C# now beats Rust on WASM size",
+  "summary": "NetWasm 探讨并展示了 C#/.NET 在 WebAssembly（WASM）体积优化方面取得的新进展，主张其生成的二进制文件已能小于 Rust 对应实现。项目可作为不同编译工具链与运行时在 WASM 代码体积、部署成本和性能之间权衡的参考。",
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "WebAssembly",
+    "Rust"
+  ],
+  "problem_solved": "解决 C#/.NET 与 Rust 应用部署到 WebAssembly 时二进制体积较大、下载和启动成本偏高的问题。",
+  "why_valuable": "更小的 WASM 产物可降低网络传输、缓存占用和浏览器端启动开销，为跨语言 WASM 工具链选型提供依据。",
+  "tags": [
+    "WebAssembly",
+    ".NET",
+    "CSharp",
+    "Rust",
+    "Binary Size"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-21T13:39:51.646850+00:00",
+  "updated_at": "2026-10-21T13:41:17.236031+00:00",
+  "published_to": []
+}

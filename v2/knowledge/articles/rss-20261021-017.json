@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261021-017",
+  "source": "rss",
+  "source_url": "https://news-web.php.net/php.announce/509",
+  "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+  "summary": "该内容关注 PHP 即将发布的关键安全更新，涉及 CVE-2026-109618 和 CVE-2026-109619。信息包含 PHP 官方公告、欧盟认证机构安全通告及 Hacker News 社区讨论，主要面向需要评估风险并及时升级 PHP 的开发者和运维人员。",
+  "tech_stack": [
+    "PHP",
+    "Security Patching",
+    "CVE",
+    "Vulnerability Management"
+  ],
+  "problem_solved": "通知 PHP 用户即将到来的关键漏洞修复，以降低应用程序被利用和遭受攻击的风险。",
+  "why_valuable": "及时掌握关键安全发布有助于相关组织快速评估暴露范围、安排升级并缓解潜在漏洞威胁。",
+  "tags": [
+    "PHP",
+    "Security",
+    "CVE",
+    "Patch",
+    "Vulnerability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-21T13:40:54.126352+00:00",
+  "updated_at": "2026-10-21T13:41:17.237316+00:00",
+  "published_to": []
+}

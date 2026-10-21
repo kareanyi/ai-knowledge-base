@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261021-008",
+  "source": "rss",
+  "source_url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+  "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+  "summary": "文章基于联合国环境规划署《2026年排放差距报告》，指出《巴黎协定》提出的将全球升温控制在1.5°C以内的目标已难以实现。按照当前政策与排放趋势，全球气候目标可能出现明显超调，因此需要重新评估减排承诺、适应措施与政策执行力度。",
+  "tech_stack": [
+    "UNEP Emissions Gap Report",
+    "Climate Modeling",
+    "Emissions Accounting",
+    "Paris Agreement"
+  ],
+  "problem_solved": "揭示当前全球减排承诺与1.5°C温控目标之间日益扩大的差距，并提示气候治理措施亟须调整。",
+  "why_valuable": "它为国际气候谈判、政府决策者和社会公众评估全球变暖风险及强化气候行动提供了重要依据。",
+  "tags": [
+    "Climate Change",
+    "Carbon Emissions",
+    "Paris Agreement",
+    "Climate Policy",
+    "UNEP"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-21T13:39:34.146537+00:00",
+  "updated_at": "2026-10-21T13:41:17.235662+00:00",
+  "published_to": []
+}

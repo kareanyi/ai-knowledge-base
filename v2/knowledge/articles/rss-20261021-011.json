@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261021-011",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+  "title": "In Hilbert space, all things are quantumly possible",
+  "summary": "文章围绕希尔伯特空间中量子态的叠加与可能性展开，探索线性代数如何为描述量子世界提供统一框架。其核心观点是，希尔伯特空间所允许的状态组合，使许多看似不同的量子现象能够被数学地表达与研究。",
+  "tech_stack": [
+    "Quantum Mechanics",
+    "Hilbert Space",
+    "Linear Algebra",
+    "Superposition"
+  ],
+  "problem_solved": "解释如何利用希尔伯特空间及量子叠加描述并统一理解各种量子现象。",
+  "why_valuable": "它把抽象的数学空间与真实量子系统的行为联系起来，有助于建立更直观、更严格的量子力学基础。",
+  "tags": [
+    "Quantum Computing",
+    "Quantum Mechanics",
+    "Hilbert Space",
+    "Linear Algebra",
+    "Superposition"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-21T13:40:01.499487+00:00",
+  "updated_at": "2026-10-21T13:41:17.236212+00:00",
+  "published_to": []
+}

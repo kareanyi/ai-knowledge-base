@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261021-013",
+  "source": "rss",
+  "source_url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+  "title": "Good type against all odds",
+  "summary": "文章探讨在浏览器、屏幕与字体环境差异较大的情况下，如何在网页中实现稳定且美观的排版效果。内容重点关注字体加载、渲染兼容性与设计质量等常见挑战。",
+  "tech_stack": [
+    "Web",
+    "CSS",
+    "Web Fonts",
+    "Variable Fonts"
+  ],
+  "problem_solved": "解决网页排版受字体可用性、加载时机、浏览器渲染和设备差异影响而出现质量不稳定的问题。",
+  "why_valuable": "为开发者提供提升跨设备文字可读性、一致性和视觉设计质量的实用思路。",
+  "tags": [
+    "Typography",
+    "Web Development",
+    "CSS",
+    "Web Fonts",
+    "Frontend"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-21T13:40:20.871906+00:00",
+  "updated_at": "2026-10-21T13:41:17.236569+00:00",
+  "published_to": []
+}

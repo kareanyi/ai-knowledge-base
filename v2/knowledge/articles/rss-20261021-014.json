@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261021-014",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+  "title": "Muse exposes users' personal and business secrets when they share conversations",
+  "summary": "文章讨论 Meta 的 AI 助手 Muse 在用户分享对话时可能暴露个人及商业敏感信息的问题。风险可能源于对话分享机制、提示词注入或对上下文和访问权限处理不当，使私密内容被他人意外获取。",
+  "tech_stack": [
+    "Meta Muse",
+    "生成式 AI",
+    "对话分享功能",
+    "自然语言处理"
+  ],
+  "problem_solved": "揭示 AI 对话分享场景中的隐私泄露与数据隔离风险，促使用户在公开对话前警惕敏感信息暴露。",
+  "why_valuable": "该问题提醒用户不要在 AI 对话中输入机密，同时促使开发者加强分享权限、内容过滤和安全提示机制。",
+  "tags": [
+    "AI",
+    "Privacy",
+    "Security",
+    "Conversational AI",
+    "Data Leakage"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-21T13:40:29.773751+00:00",
+  "updated_at": "2026-10-21T13:41:17.236765+00:00",
+  "published_to": []
+}

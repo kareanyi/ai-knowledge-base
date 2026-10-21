@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-016",
+  "source": "rss",
+  "source_url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+  "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+  "summary": "文章报道美国联邦调查人员怀疑，一名以赎金谈判为职业的个人可能同时运营或协助运营臭名昭著的勒索软件团伙 ShinyHunters 的敲诈网站。该事件凸显了勒索软件谈判、代号泄露网站运营者与执法机构之间的灰色地带，并可能推动对相关基础设施和参与者的进一步调查。",
+  "tech_stack": [
+    "Ransomware",
+    "Threat Intelligence",
+    "Digital Forensics",
+    "OSINT",
+    "Law Enforcement"
+  ],
+  "problem_solved": "揭示赎金谈判者与勒索软件敲诈基础设施之间潜在的利益关联，帮助识别、调查并瓦解网络犯罪组织。",
+  "why_valuable": "这一线索可能连接 ShinyHunters 的幕后运营者、赎金谈判行为及受害组织数据泄露事件，从而提升勒索软件团伙归因和执法追责能力。",
+  "tags": [
+    "Ransomware",
+    "Cybercrime",
+    "Threat Intelligence",
+    "Digital Forensics",
+    "Law Enforcement"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-21T13:40:47.095425+00:00",
+  "updated_at": "2026-10-21T13:41:17.237126+00:00",
+  "published_to": []
+}

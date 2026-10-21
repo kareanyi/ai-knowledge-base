@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-009",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/attack-surface-reduction",
+  "title": "Using Claude to reduce the attack surface of code",
+  "summary": "Anthropic 探讨如何利用 Claude 分析并改进代码库的安全设计，从而减少可被攻击者利用的代码路径与系统攻击面。文章将 AI 辅助代码审查、漏洞修复和安全重构结合起来，重点衡量模型在发现及降低攻击面方面的实际效果。",
+  "tech_stack": [
+    "Claude",
+    "Claude Code",
+    "Static Analysis",
+    "LLM",
+    "Application Security"
+  ],
+  "problem_solved": "通过使用 Claude 自动识别并处理不安全或不必要的代码，降低软件系统的攻击面和漏洞被利用的风险。",
+  "why_valuable": "它展示了 AI 不仅能辅助发现漏洞，还能参与系统性安全加固，为规模化代码安全维护提供新思路。",
+  "tags": [
+    "AI Security",
+    "Attack Surface",
+    "Claude",
+    "Code Security",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-21T13:39:44.346364+00:00",
+  "updated_at": "2026-10-21T13:41:17.235850+00:00",
+  "published_to": []
+}

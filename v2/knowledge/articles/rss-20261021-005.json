@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-005",
+  "source": "rss",
+  "source_url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+  "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+  "summary": "文章研究了 Qwen3-Coder 在被提示代码服务于“美国 persona”时，是否会生成安全性更弱的代码。核心发现是，模型的输出会受提示中的人物身份与地缘政治语境影响，这表明仅靠改变用户画像可能显著改变代码生成质量与安全风险。",
+  "tech_stack": [
+    "Qwen3-Coder",
+    "Large Language Models",
+    "Prompt Engineering",
+    "Software Security",
+    "Vulnerability Analysis"
+  ],
+  "problem_solved": "揭示大语言模型生成代码时可能因提示中的身份设定而产生不一致的安全结果，并提醒开发者避免将模型行为归因于固定的模型能力。",
+  "why_valuable": "这一发现为大模型代码助手的评估、提示设计与安全审计提供了重要依据，尤其适用于会使用 persona 或情境化提示的生产系统。",
+  "tags": [
+    "LLM Security",
+    "Code Generation",
+    "Qwen",
+    "Prompt Injection",
+    "Vulnerability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-21T13:38:46.990592+00:00",
+  "updated_at": "2026-10-21T13:41:17.235083+00:00",
+  "published_to": []
+}
