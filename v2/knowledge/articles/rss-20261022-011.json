@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261022-011",
+  "source": "rss",
+  "source_url": "https://claude.com/product/claude-duet",
+  "title": "Claude Duet",
+  "summary": "Claude Duet 是 Anthropic 推出的 Claude 系列产品或协作功能，旨在让用户与 AI 在同一任务中更紧密地协同工作。现有内容仅包含产品页链接和 Hacker News 讨论数据，未提供具体功能、技术实现或应用场景的详细说明。",
+  "tech_stack": [
+    "Claude",
+    "Generative AI",
+    "Anthropic",
+    "Web Interface"
+  ],
+  "problem_solved": "它可能通过增强人与 AI 之间的实时协作，降低复杂任务的规划、执行与反馈成本。",
+  "why_valuable": "如果产品强调共同工作流，它能让 AI 从单纯的问答工具转变为更可控、更具互动性的任务协作者。",
+  "tags": [
+    "Claude",
+    "Anthropic",
+    "AI Assistant",
+    "Human-AI Collaboration",
+    "Productivity"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-22T13:42:17.647539+00:00",
+  "updated_at": "2026-10-22T13:43:24.647159+00:00",
+  "published_to": []
+}

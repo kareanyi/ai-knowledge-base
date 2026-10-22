@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261022-010",
+  "source": "rss",
+  "source_url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+  "title": "Security Disclosure",
+  "summary": "该内容是 Railway 官方博客发布的一则安全事件披露公告，聚焦 2025 年 10 月 21 日的相关安全信息。现有文本仅包含文章链接及 Hacker News 讨论数据，未提供漏洞类型、影响范围、修复措施等具体细节。",
+  "tech_stack": [],
+  "problem_solved": "通过公开安全事件并说明潜在风险与应对措施，帮助 Railway 用户了解影响并降低遭受攻击的可能性。",
+  "why_valuable": "及时的安全披露有助于用户采取必要防护措施，同时推动云平台改进安全实践并提高社区透明度。",
+  "tags": [
+    "Security",
+    "Disclosure",
+    "Railway",
+    "Cloud",
+    "Incident"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-22T13:42:06.610120+00:00",
+  "updated_at": "2026-10-22T13:43:24.647105+00:00",
+  "published_to": []
+}

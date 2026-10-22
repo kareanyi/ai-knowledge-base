@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261022-018",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-models-google-cloud/",
+  "title": "OpenAI models are coming to Google Cloud",
+  "summary": "OpenAI 宣布其模型将登陆 Google Cloud，可能通过 Vertex AI 向开发者和企业提供统一的模型访问、部署与安全管理能力。这扩大了 OpenAI 模型在云平台生态中的可用性，并让 Google Cloud 客户能够结合现有数据、工具及企业基础设施使用这些模型。",
+  "tech_stack": [
+    "OpenAI Models",
+    "Google Cloud",
+    "Vertex AI",
+    "Cloud AI Platform"
+  ],
+  "problem_solved": "解决开发者和企业对在 Google Cloud 环境中便捷、安全地调用和部署 OpenAI 模型的需求。",
+  "why_valuable": "它拓宽了模型分发渠道，并将 OpenAI 的模型能力与 Google Cloud 的企业级基础设施及生态结合，降低集成和采购门槛。",
+  "tags": [
+    "OpenAI",
+    "Google Cloud",
+    "Vertex AI",
+    "Enterprise AI",
+    "Cloud AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-22T13:43:14.424741+00:00",
+  "updated_at": "2026-10-22T13:43:24.647624+00:00",
+  "published_to": []
+}

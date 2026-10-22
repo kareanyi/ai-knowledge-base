@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261022-014",
+  "source": "rss",
+  "source_url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+  "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+  "summary": "Meta 因 Cambridge Analytica 案被新墨西哥州要求支付 250 亿美元罚款，涉及用户数据被不当收集与用于政治信息定向。事件凸显了大型科技平台在数据隐私、用户同意和第三方数据管理方面的法律责任。",
+  "tech_stack": [
+    "Meta",
+    "Facebook",
+    "Cambridge Analytica",
+    "Data Analytics"
+  ],
+  "problem_solved": "该事件针对社交平台在未经充分授权的情况下收集、共享和利用用户数据来影响政治行为的问题，强调了数据治理与法律责任。",
+  "why_valuable": "巨额罚款和法律判决可能提高科技行业的数据合规成本，并推动平台加强隐私保护与第三方数据审核。",
+  "tags": [
+    "Data Privacy",
+    "Regulation",
+    "Social Media",
+    "Cambridge Analytica",
+    "Legal"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-22T13:42:42.148469+00:00",
+  "updated_at": "2026-10-22T13:43:24.647333+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261022-016",
+  "source": "rss",
+  "source_url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+  "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+  "summary": "DuckDB 2.0.0 LTS“ Cinnamon Teal”宣布了一个新的长期支持版本，旨在为嵌入式分析工作负载提供稳定、可持续维护的版本基础。现有材料仅包含公告标题与链接，未披露具体功能、性能改进或兼容性变化，完整信息需参考官方公告。",
+  "tech_stack": [
+    "DuckDB",
+    "SQL",
+    "C++",
+    "OLAP"
+  ],
+  "problem_solved": "为需要本地嵌入式分析、稳定的 SQL 查询能力以及长期维护保障的数据应用提供统一的分析型数据库运行时。",
+  "why_valuable": "LTS 版本能够降低升级与兼容性风险，使生产环境中的 DuckDB 部署更加稳定可靠。",
+  "tags": [
+    "DuckDB",
+    "Database",
+    "OLAP",
+    "SQL",
+    "LTS"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-22T13:42:58.293537+00:00",
+  "updated_at": "2026-10-22T13:43:24.647479+00:00",
+  "published_to": []
+}

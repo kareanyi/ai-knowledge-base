@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261022-003",
+  "source": "rss",
+  "source_url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+  "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+  "summary": "文章报道多起 Linux 内核漏洞因开发者误将其发布到公开邮件列表而提前曝光，主要涉及 Linux 内核邮件列表 LKML 上的安全讨论。事件凸显了漏洞披露流程中权限管理、邮件归档与敏感信息保护的重要性。",
+  "tech_stack": [
+    "Linux Kernel",
+    "LKML",
+    "Email Security",
+    "Vulnerability Management"
+  ],
+  "problem_solved": "该报道聚焦公开邮件列表误发导致的 Linux 内核漏洞提前泄露风险，并提醒维护者加强安全补丁的发布与访问控制。",
+  "why_valuable": "提前公开尚未修复的内核漏洞可能帮助攻击者利用风险，同时也能推动开发者和社区更快完成补丁与协调披露。",
+  "tags": [
+    "Linux",
+    "Security",
+    "Vulnerability",
+    "Kernel",
+    "LKML"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-22T13:40:12.814536+00:00",
+  "updated_at": "2026-10-22T13:43:24.638482+00:00",
+  "published_to": []
+}

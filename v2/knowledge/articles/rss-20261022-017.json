@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261022-017",
+  "source": "rss",
+  "source_url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+  "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+  "summary": "LiteLLM 1.107.0 的 PyPI 软件包遭到供应链入侵，恶意版本被植入凭证窃取器和后门。该事件突出了开源 AI 基础设施在发布、依赖安装和密钥管理环节面临的安全风险，并需要开发者与平台运营方立即核查受影响环境。",
+  "tech_stack": [
+    "Python",
+    "PyPI",
+    "LiteLLM",
+    "Supply Chain Security"
+  ],
+  "problem_solved": "揭示并预警 LiteLLM PyPI 包遭投毒导致凭证窃取与远程后门入侵的风险事件。",
+  "why_valuable": "该分析可帮助开发者和安全团队识别恶意包版本、清理已泄露的凭证，并加强软件供应链防护。",
+  "tags": [
+    "Supply Chain",
+    "Credential Theft",
+    "Backdoor",
+    "PyPI",
+    "LiteLLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-22T13:43:07.181544+00:00",
+  "updated_at": "2026-10-22T13:43:24.647554+00:00",
+  "published_to": []
+}

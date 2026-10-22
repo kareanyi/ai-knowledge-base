@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261022-012",
+  "source": "rss",
+  "source_url": "https://google.github.io/styleguide/rustguide.html",
+  "title": "Rust Style Guide",
+  "summary": "Google 的 Rust Style Guide 旨在为 Rust 代码提供统一、可读且符合团队实践的编写规范，覆盖命名、格式、错误处理、API 设计等内容。该指南适合作为个人项目和团队代码评审的参考基线。",
+  "tech_stack": [
+    "Rust",
+    "rustfmt",
+    "Clippy",
+    "Markdown",
+    "GitHub Pages"
+  ],
+  "problem_solved": "解决 Rust 项目中代码风格不统一、可读性下降以及团队协作缺少统一规范的问题。",
+  "why_valuable": "标准化编码约定能够减少代码审查中的风格争议，提高代码可维护性，并帮助开发者编写更惯用、更可靠的 Rust 程序。",
+  "tags": [
+    "Rust",
+    "Style Guide",
+    "Code Quality",
+    "Best Practices",
+    "Team Collaboration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-22T13:42:24.384961+00:00",
+  "updated_at": "2026-10-22T13:43:24.647214+00:00",
+  "published_to": []
+}

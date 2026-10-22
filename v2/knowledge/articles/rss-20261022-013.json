@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261022-013",
+  "source": "rss",
+  "source_url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+  "title": "GitLab critical patch release",
+  "summary": "GitLab 发布了 19.5.1 关键补丁版本，用于修复版本 19.5 中发现的重要问题，并建议相关用户尽快升级。公告还提供了补丁发布信息及社区讨论链接，但当前输入未包含具体缺陷、影响范围或修复细节。",
+  "tech_stack": [
+    "GitLab"
+  ],
+  "problem_solved": "通过发布关键补丁修复 GitLab 19.5 中可能影响稳定性或安全性的已知问题。",
+  "why_valuable": "及时安装补丁可以帮助 GitLab 用户降低安全风险、减少服务中断并保持平台正常运行。",
+  "tags": [
+    "GitLab",
+    "Patch",
+    "Security",
+    "DevOps"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-22T13:42:34.668839+00:00",
+  "updated_at": "2026-10-22T13:43:24.647270+00:00",
+  "published_to": []
+}

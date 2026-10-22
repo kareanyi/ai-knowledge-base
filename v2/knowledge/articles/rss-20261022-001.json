@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261022-001",
+  "source": "rss",
+  "source_url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+  "title": "Woman faces six years in prison over Cash App account she never opened",
+  "summary": "一名女子因被指控使用自己从未开设的 Cash App 账户，已在监狱度过三晚，并面临最高六年监禁。事件凸显了支付账户盗用、身份冒用以及自动化风控可能给无辜用户带来的严重法律与生活后果。",
+  "tech_stack": [
+    "Cash App"
+  ],
+  "problem_solved": "该事件揭示了支付平台欺诈与错误风控识别可能让无辜账户持有人遭受严重法律后果的问题。",
+  "why_valuable": "它提醒用户核查账户安全、保留身份与交易证据，并了解在遭遇支付平台盗用或错误指控时如何维权。",
+  "tags": [
+    "Cash App",
+    "Account Fraud",
+    "Digital Payments",
+    "Identity Theft",
+    "Legal Risk"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-22T13:39:56.172092+00:00",
+  "updated_at": "2026-10-22T13:43:24.638141+00:00",
+  "published_to": []
+}

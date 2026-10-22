@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261022-009",
+  "source": "rss",
+  "source_url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+  "title": "mitmproxy adds --emudhra option",
+  "summary": "该提交为 mitmproxy 新增了命令行选项 `--emudhra`，用于启用其新增的协议或流量模拟能力。此改动扩展了 mitmproxy 在网络调试和通信兼容性测试中的可配置性。",
+  "tech_stack": [
+    "Python",
+    "Rust",
+    "mitmproxy",
+    "CLI"
+  ],
+  "problem_solved": "通过可配置的模拟模式，让 mitmproxy 更好地复现或处理特定网络客户端的通信行为。",
+  "why_valuable": "它为开发者和安全研究人员提供了更灵活的流量控制与协议测试手段，便于复现复杂网络场景。",
+  "tags": [
+    "mitmproxy",
+    "NetworkProxy",
+    "TrafficAnalysis",
+    "SecurityTesting",
+    "CLI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-22T13:41:56.975631+00:00",
+  "updated_at": "2026-10-22T13:43:24.647048+00:00",
+  "published_to": []
+}
