@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261023-010",
+  "source": "rss",
+  "source_url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+  "title": "Docker is weird",
+  "summary": "这篇题为《Docker is weird》的文章从开发者视角讨论 Docker 及其容器技术体系中令人反直觉或难以理解的设计。由于提供的正文只有标题和链接元数据，无法确认文章是否涵盖镜像分层、隔离机制、缓存或编排等具体主题。",
+  "tech_stack": [
+    "Docker",
+    "Linux Containers",
+    "OCI",
+    "Container Images"
+  ],
+  "problem_solved": "文章旨在解释 Docker 在镜像、容器、构建流程和隔离模型等方面的非直观设计，帮助开发者更好地理解其运行机制。",
+  "why_valuable": "深入理解 Docker 的设计取舍和异常行为，可以减少容器构建、部署与故障排查中的困惑，并提升对云原生基础设施的掌控力。",
+  "tags": [
+    "Docker",
+    "Containers",
+    "DevOps",
+    "Linux",
+    "Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-23T13:15:55.876319+00:00",
+  "updated_at": "2026-10-23T13:17:16.429677+00:00",
+  "published_to": []
+}

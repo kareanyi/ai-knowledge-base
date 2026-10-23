@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261023-019",
+  "source": "rss",
+  "source_url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+  "title": "Every AI model has the same \"controversial\" take on humans",
+  "summary": "文章比较多个主流 AI 模型对人类的看法，并探讨它们为何会得出相似且可能引发争议的结论。通过跨模型对比，文章试图揭示大模型在训练数据、提示设计和安全对齐方面形成的共同倾向。",
+  "tech_stack": [
+    "Large Language Models",
+    "Model Comparison",
+    "Prompt Engineering",
+    "AI Alignment"
+  ],
+  "problem_solved": "帮助读者了解不同 AI 模型在人类认知、价值观和风险判断上的一致性及其可能来源。",
+  "why_valuable": "跨模型比较能够暴露生成式 AI 的系统性共识与盲点，为评估模型输出、提示词设计和 AI 对齐提供参考。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Model Comparison",
+    "Humanity",
+    "AI Alignment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-23T13:17:09.944782+00:00",
+  "updated_at": "2026-10-23T13:17:16.431228+00:00",
+  "published_to": []
+}

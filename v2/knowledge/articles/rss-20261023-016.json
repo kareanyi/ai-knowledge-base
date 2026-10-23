@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261023-016",
+  "source": "rss",
+  "source_url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+  "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+  "summary": "Hedra 是一款由开发者 Max Levi 在高中时期从零编写的 3D 开放世界游戏，代码托管在 GitHub 的 pre-ai 分支。该项目展示了独立开发者如何自行实现游戏世界构建、角色交互、探索机制与实时渲染，并以开源方式分享开发成果。",
+  "tech_stack": [
+    "TypeScript",
+    "Three.js",
+    "WebGL",
+    "JavaScript"
+  ],
+  "problem_solved": "它通过独立实现核心 3D 游戏系统，展示了无需依赖成熟商业游戏引擎也能构建开放世界交互体验的可行路径。",
+  "why_valuable": "项目不仅具有学习与参考价值，也证明个人开发者能够借助现代 Web 技术完成具有完整玩法的 3D 游戏。",
+  "tags": [
+    "3D",
+    "GameDevelopment",
+    "OpenWorld",
+    "Three.js",
+    "IndieGame"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-23T13:16:52.485231+00:00",
+  "updated_at": "2026-10-23T13:17:16.430722+00:00",
+  "published_to": []
+}

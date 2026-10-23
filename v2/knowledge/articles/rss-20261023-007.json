@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261023-007",
+  "source": "rss",
+  "source_url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+  "title": "The foolishness of \"natural language programming\" (1978)",
+  "summary": "这篇1978年的文章批评了“自然语言编程”设想，认为日常语言充满歧义，无法为可靠软件开发提供严格、明确的计算规范。作者主张专业编程必须依赖精确的形式化语言、逻辑与数学方法，以确保程序的正确性和可验证性。",
+  "tech_stack": [
+    "Formal Methods",
+    "Natural Language Processing",
+    "Programming Language Theory",
+    "Logic",
+    "Software Verification"
+  ],
+  "problem_solved": "澄清自然语言与形式化编程之间的根本差异，警示开发者不能以自然语言的模糊表达替代严格的程序语义和数学规范。",
+  "why_valuable": "它提前指出了大语言模型辅助编程中最重要的可靠性风险：语言流畅并不等于语义无歧义或程序必然正确。",
+  "tags": [
+    "Natural Language",
+    "Formal Methods",
+    "Software Engineering",
+    "Program Correctness",
+    "Programming Languages"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-23T13:15:33.405213+00:00",
+  "updated_at": "2026-10-23T13:17:16.429125+00:00",
+  "published_to": []
+}

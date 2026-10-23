@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261023-020",
+  "source": "rss",
+  "source_url": "https://github.com/oosexgang/hackios-xnu-kernel",
+  "title": "Run full iOS 16.5 firmware on Android Devices",
+  "summary": "该项目尝试在 Android 设备上运行完整的 iOS 16.5 固件，核心工作是移植并适配苹果的 XNU 内核，使其能够与 Android 系统及移动硬件协同工作。它为在非苹果设备上体验 iOS 完整用户环境提供了一种底层技术方案，但实际可用性仍可能受驱动兼容性和性能限制。",
+  "tech_stack": [
+    "XNU Kernel",
+    "iOS 16.5",
+    "Android",
+    "Linux",
+    "C/C++"
+  ],
+  "problem_solved": "通过移植 iOS 内核，让 Android 设备能够运行完整的 iOS 16.5 固件及其应用生态。",
+  "why_valuable": "它探索了跨操作系统复用苹果内核与 iOS 软件栈的可能性，为移动系统研究、兼容性测试和特殊设备改造提供了高价值参考。",
+  "tags": [
+    "iOS",
+    "Android",
+    "Kernel",
+    "Porting",
+    "Reverse Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-23T13:17:15.505667+00:00",
+  "updated_at": "2026-10-23T13:17:16.431392+00:00",
+  "published_to": []
+}

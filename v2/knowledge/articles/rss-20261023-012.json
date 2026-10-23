@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261023-012",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/formal-verification",
+  "title": "LLMs are making formal software verification feasible at a much larger scale",
+  "summary": "文章探讨了大型语言模型如何显著降低形式化软件验证的成本与门槛，使对更复杂、更大规模的软件系统进行数学化证明逐渐成为现实。其核心思路是将大语言模型与定理证明器结合，让模型辅助或自动生成、检查证明，同时由形式化方法提供可靠的正确性保证。",
+  "tech_stack": [
+    "Large Language Models",
+    "Formal Verification",
+    "Theorem Provers",
+    "Proof Assistants"
+  ],
+  "problem_solved": "解决传统形式化验证高度依赖专业人力、证明成本高昂且难以扩展到大型软件系统的问题。",
+  "why_valuable": "它有望提高关键软件的可靠性与安全性，并推动形式化方法从小型研究项目走向更广泛的工业应用。",
+  "tags": [
+    "LLM",
+    "Formal Verification",
+    "Theorem Proving",
+    "Software Correctness"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-23T13:16:18.170839+00:00",
+  "updated_at": "2026-10-23T13:17:16.430029+00:00",
+  "published_to": []
+}

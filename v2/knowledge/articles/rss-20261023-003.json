@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261023-003",
+  "source": "rss",
+  "source_url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+  "title": "Dutch government had hacked into Jared Kushner's phone",
+  "summary": "内容围绕“荷兰政府曾入侵贾里德·库什纳手机”这一安全事件展开，主要信息来源是社交媒体帖子及其 Hacker News 讨论。由于提供的内容仅包含标题、链接和互动数据，未包含入侵方式、技术过程或官方证据细节，因此无法对其真实性与技术细节作进一步判断。",
+  "tech_stack": [],
+  "problem_solved": "该内容旨在披露或讨论针对政府高级官员手机的潜在国家级网络监控与入侵事件。",
+  "why_valuable": "这一事件突显移动设备安全、情报监控及数字取证的重要性，同时提醒用户关注未经独立验证的网络安全指控。",
+  "tags": [
+    "Cybersecurity",
+    "Mobile Security",
+    "Government Surveillance",
+    "Phone Hacking",
+    "Digital Forensics"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-10-23T13:14:55.421340+00:00",
+  "updated_at": "2026-10-23T13:17:16.420604+00:00",
+  "published_to": []
+}

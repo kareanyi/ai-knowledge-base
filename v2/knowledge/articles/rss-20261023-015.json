@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261023-015",
+  "source": "rss",
+  "source_url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+  "title": "The HTML-in-Canvas API origin trial",
+  "summary": "Chrome 推出 HTML-in-Canvas API 的来源试用（Origin Trial），探索将 HTML 内容渲染到 Canvas 元素中的浏览器原生能力。该能力可减少 Canvas 中复杂文本与布局的绘制成本，并拓展 Canvas 在富内容渲染和交互场景中的应用。",
+  "tech_stack": [
+    "HTML Canvas API",
+    "HTML",
+    "JavaScript",
+    "Chrome",
+    "Origin Trial"
+  ],
+  "problem_solved": "解决开发者需要在 Canvas 中高效绘制包含复杂排版和富 HTML 内容的难题。",
+  "why_valuable": "它将 Canvas 的像素级绘制能力与 HTML 的布局及富内容渲染能力结合，可简化复杂界面的实现并扩展网页渲染方式。",
+  "tags": [
+    "Canvas",
+    "HTML",
+    "Chrome",
+    "Web API",
+    "Origin Trial"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-23T13:16:36.356331+00:00",
+  "updated_at": "2026-10-23T13:17:16.430559+00:00",
+  "published_to": []
+}

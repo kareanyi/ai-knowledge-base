@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261023-011",
+  "source": "rss",
+  "source_url": "https://edjefferson.com/localwiki/",
+  "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+  "summary": "Local Wikipedia 是一个以用户位置为中心的地方信息探索项目，尝试像浏览 Wikipedia 一样查看自己步行半小时范围内的事物和地点。它将百科式的知识阅读与本地化发现结合，为用户提供更具上下文和地域相关性的信息入口。",
+  "tech_stack": [
+    "Wikipedia API",
+    "地理位置服务",
+    "地图与步行距离计算",
+    "Web 应用"
+  ],
+  "problem_solved": "解决传统 Wikipedia 内容与用户现实生活环境脱节、难以发现附近值得了解地点的问题。",
+  "why_valuable": "它把广博的百科知识转换为基于用户所在位置的个性化内容，让本地探索更直观，并同时兼具信息查询与出行灵感。",
+  "tags": [
+    "Local Search",
+    "Wikipedia",
+    "Geolocation",
+    "Walking Radius",
+    "Discovery"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-23T13:16:11.738630+00:00",
+  "updated_at": "2026-10-23T13:17:16.429856+00:00",
+  "published_to": []
+}

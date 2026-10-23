@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261023-013",
+  "source": "rss",
+  "source_url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+  "title": "How does Fable 5.1 hide messages in images?",
+  "summary": "文章分析了 Fable 5.1 如何在图像中隐藏人眼难以察觉的隐秘信息，并探讨其可能采用的编码与嵌入机制。重点涉及隐写信息的可见性、鲁棒性以及提取方式，揭示了生成式图像与隐写技术结合的实现思路。",
+  "tech_stack": [
+    "Fable 5.1",
+    "Steganography",
+    "Image Processing",
+    "Machine Learning"
+  ],
+  "problem_solved": "它研究如何将隐藏消息安全地嵌入图像并使其在视觉上不易察觉，从而实现隐蔽的信息传递。",
+  "why_valuable": "理解这一机制有助于评估新型图像模型的隐写能力、检测潜在异常，并更安全地处理可能携带隐藏指令或信息的生成内容。",
+  "tags": [
+    "Steganography",
+    "Image Analysis",
+    "Fable",
+    "Security",
+    "Machine Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-23T13:16:25.945198+00:00",
+  "updated_at": "2026-10-23T13:17:16.430200+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261023-005",
+  "source": "rss",
+  "source_url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+  "title": "Remove pgrust: the entry is cheating",
+  "summary": "该 ClickHouse ClickBench 拉取请求主张移除 pgrust 条目，因为其实现可能通过不符合公平基准规则的方式获得成绩。文章讨论了数据库性能测试中结果可比性、查询正确性及防止“作弊”的重要性。",
+  "tech_stack": [
+    "ClickHouse",
+    "ClickBench",
+    "PostgreSQL",
+    "Rust",
+    "pgrust"
+  ],
+  "problem_solved": "识别并排除可能采用不公平或非标准实现的数据库基准测试结果，避免 ClickBench 排名失真。",
+  "why_valuable": "维护基准测试的公平性和可信度，使不同数据库系统的性能数据具备实际比较价值。",
+  "tags": [
+    "Benchmark",
+    "ClickHouse",
+    "Database",
+    "Fairness",
+    "ClickBench"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-23T13:15:07.119029+00:00",
+  "updated_at": "2026-10-23T13:17:16.428786+00:00",
+  "published_to": []
+}

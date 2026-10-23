@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261023-014",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50200997",
+  "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+  "summary": "文章探讨了一个关于人工智能商业模式的假设：既然前沿模型能力已经很强，OpenAI 或 Anthropic 是否应该直接利用模型创办多家公司、开发垂直产品，而不是主要依靠销售模型 API 或 token 赚钱。随着模型能力商品化及调用价格下降，应用层可能拥有更大的利润空间和价值捕获潜力。",
+  "tech_stack": [
+    "OpenAI API",
+    "Anthropic API",
+    "大语言模型",
+    "AI 应用开发"
+  ],
+  "problem_solved": "分析基础模型厂商在模型能力日益增强、价格持续下降的背景下，应如何在 API 服务与自建应用产品之间选择商业化策略。",
+  "why_valuable": "该讨论有助于理解 AI 产业的利润池迁移方向，以及模型提供商如何通过垂直化产品和实际应用获得比单纯销售 token 更高的价值。",
+  "tags": [
+    "AI",
+    "Business Strategy",
+    "LLM",
+    "Startups",
+    "API"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-23T13:16:31.493192+00:00",
+  "updated_at": "2026-10-23T13:17:16.430372+00:00",
+  "published_to": []
+}

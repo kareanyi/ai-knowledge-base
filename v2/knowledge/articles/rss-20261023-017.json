@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261023-017",
+  "source": "rss",
+  "source_url": "https://github.com/NVIDIA/OpenShell",
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "summary": "OpenShell 是 NVIDIA 推出的开源运行时，用于安全、私密地部署和管理大规模自主 AI Agent。它重点解决 Agent 执行环境中的隔离、权限控制与数据隐私问题，使多个 Agent 能够在受控环境中协同运行。",
+  "tech_stack": [
+    "AI Agents",
+    "Runtime Isolation",
+    "Sandboxing",
+    "Policy-based Security",
+    "Private Deployment"
+  ],
+  "problem_solved": "为自主 AI Agent 提供安全隔离、权限治理和隐私保护可控的运行时环境。",
+  "why_valuable": "它降低了企业在部署大规模 Agent 时面临的安全、隐私与运维风险，同时支持构建可管理、可扩展的 Agent 基础设施。",
+  "tags": [
+    "AI Agents",
+    "Sandboxing",
+    "Security",
+    "Runtime",
+    "Infrastructure"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-23T13:16:59.964431+00:00",
+  "updated_at": "2026-10-23T13:17:16.430889+00:00",
+  "published_to": []
+}

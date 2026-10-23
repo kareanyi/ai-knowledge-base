@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261023-018",
+  "source": "rss",
+  "source_url": "https://www.taler.net/en/news/2026-13.html",
+  "title": "Getting ready to operate GNU Taler in Germany",
+  "summary": "该文章介绍了在德国运营 GNU Taler 支付系统所需进行的准备工作。GNU Taler 是一种强调隐私、抗审查和密码学安全性的数字货币支付方案，德国落地工作涉及支付生态建设、钱包支持、商户接入及合规协调等方面。",
+  "tech_stack": [
+    "GNU Taler",
+    "Cryptographic Protocols",
+    "Digital Wallets",
+    "Payment Gateway",
+    "Cryptocurrency"
+  ],
+  "problem_solved": "它为德国用户提供一种无需依赖传统银行或大型支付平台、同时兼顾隐私保护与交易可验证性的数字支付基础设施。",
+  "why_valuable": "推动 GNU Taler 在德国落地有助于拓展隐私保护型电子支付生态，并为现有支付系统提供去中心化、可审计且抗审查的替代方案。",
+  "tags": [
+    "Digital Currency",
+    "Privacy",
+    "Cryptography",
+    "Payments",
+    "GNU Taler"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-23T13:17:05.124223+00:00",
+  "updated_at": "2026-10-23T13:17:16.431061+00:00",
+  "published_to": []
+}

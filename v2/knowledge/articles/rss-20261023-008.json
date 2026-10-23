@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261023-008",
+  "source": "rss",
+  "source_url": "https://github.com/anubhavmalhotra/r2d2-tv",
+  "title": "Show HN: Making a smart TV dumb and then smart",
+  "summary": "该项目针对 webOS 电视遭遇非预期更新这一出发点，开发了一套新的电视交互软件，使电视先回归传统“笨电视”模式，再通过语音控制重新获得智能体验。作者借助多个大语言模型完成代码编写，并由人类主导关键架构决策，其中使用 WebRTC 降低语音交互延迟，同时复用厂商逻辑提升设备兼容性。",
+  "tech_stack": [
+    "webOS",
+    "WebRTC",
+    "Large Language Models",
+    "GitHub",
+    "Voice Control"
+  ],
+  "problem_solved": "通过为 webOS 电视提供可控的语音导航和自定义软件，绕开非预期系统更新带来的干扰并改善电视交互体验。",
+  "why_valuable": "它展示了如何结合 AI 辅助编程、实时通信和设备逆向思路，为受限的智能电视构建更自然、低延迟且可自定义的用户界面。",
+  "tags": [
+    "Smart TV",
+    "AI-Assisted Development",
+    "WebRTC",
+    "Voice Interface",
+    "webOS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-23T13:15:44.620297+00:00",
+  "updated_at": "2026-10-23T13:17:16.429302+00:00",
+  "published_to": []
+}
