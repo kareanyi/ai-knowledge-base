@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261024-006",
+  "source": "rss",
+  "source_url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+  "title": "OBS Studio 33",
+  "summary": "该内容介绍 OBS Studio 33 的版本发布信息，主要入口为 GitHub Release 页面，并附带 Hacker News 社区讨论。它面向使用 OBS 进行直播、录像和视频流处理的用户，可用于了解新版本特性、修复内容及社区反馈。",
+  "tech_stack": [
+    "OBS Studio",
+    "C++",
+    "Qt",
+    "FFmpeg"
+  ],
+  "problem_solved": "为直播、录屏和视频内容创作者提供功能完善且支持广泛输出与流媒体平台的实时视频处理工具。",
+  "why_valuable": "OBS Studio 是成熟且开源的实时音视频工具，其新版本更新能帮助用户改进直播与录制工作流。",
+  "tags": [
+    "OBS",
+    "Live Streaming",
+    "Video Recording",
+    "Open Source",
+    "Media Production"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-24T12:33:23.748026+00:00",
+  "updated_at": "2026-10-24T12:35:39.312158+00:00",
+  "published_to": []
+}

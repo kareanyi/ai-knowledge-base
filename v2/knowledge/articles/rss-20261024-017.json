@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261024-017",
+  "source": "rss",
+  "source_url": "https://blog.calif.io/p/iphone",
+  "title": "Today, we hacked what we'd set out to hack: the iPhone",
+  "summary": "文章记录了一个以破解 iPhone 为目标的长期技术研究项目，并公布了团队最终实现目标的过程与结果。该内容聚焦移动设备安全、系统逆向和漏洞利用，展示了对 iPhone 安全机制的实质性突破。",
+  "tech_stack": [
+    "iOS",
+    "iPhone",
+    "Hardware Security",
+    "Reverse Engineering",
+    "Exploit Development"
+  ],
+  "problem_solved": "项目探索并演示了如何突破 iPhone 的安全防护与访问限制，从而验证此前设定的设备攻击目标是否能够真正实现。",
+  "why_valuable": "对 iPhone 的成功破解能够揭示主流消费电子设备安全机制的薄弱环节，并为漏洞修复、硬件加固和后续独立研究提供重要依据。",
+  "tags": [
+    "iPhone",
+    "Security Research",
+    "Hardware Hacking",
+    "Reverse Engineering",
+    "Exploit"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-24T12:35:15.788657+00:00",
+  "updated_at": "2026-10-24T12:35:39.313692+00:00",
+  "published_to": []
+}

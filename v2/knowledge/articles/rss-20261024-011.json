@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261024-011",
+  "source": "rss",
+  "source_url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+  "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+  "summary": "约 dozen 个银行应用开始明确允许在 GrapheneOS 上运行，表明这一注重隐私与安全的主流 Android 发行版正获得更多金融服务的兼容支持。该变化可能降低用户使用银行应用的障碍，同时反映银行应用对设备完整性、安全认证和系统环境检测策略的调整。",
+  "tech_stack": [
+    "GrapheneOS",
+    "Android",
+    "Mobile Banking",
+    "Play Integrity API"
+  ],
+  "problem_solved": "解决 GrapheneOS 用户因设备环境或安全认证不满足要求而无法正常使用部分银行应用的问题。",
+  "why_valuable": "银行应用的广泛兼容提升了 GrapheneOS 的日常可用性，并让用户无需放弃隐私保护型操作系统来满足基本金融服务需求。",
+  "tags": [
+    "GrapheneOS",
+    "Android",
+    "Banking",
+    "Privacy",
+    "Compatibility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-24T12:34:02.825776+00:00",
+  "updated_at": "2026-10-24T12:35:39.312884+00:00",
+  "published_to": []
+}

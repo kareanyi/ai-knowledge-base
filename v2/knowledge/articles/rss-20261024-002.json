@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261024-002",
+  "source": "rss",
+  "source_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+  "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+  "summary": "该项目探索利用 CVE-2022-22706 漏洞，在运行 Tcl 的 Android TV 设备上实现自主权限提升并获取 root。其核心思路是通过 Mali 驱动的 page cache 机制触发漏洞，从而突破应用沙箱并获得系统级访问。",
+  "tech_stack": [
+    "Tcl",
+    "Android",
+    "Linux",
+    "Mali GPU",
+    "CVE Exploit"
+  ],
+  "problem_solved": "为受 Tcl 应用沙箱限制的 Android TV 设备提供一种无需人工交互的 root 权限获取方法。",
+  "why_valuable": "它可用于研究 Android TV 图形驱动与内核安全边界，并帮助厂商验证和修复相关漏洞。",
+  "tags": [
+    "AndroidTV",
+    "Root",
+    "Exploit",
+    "CVE",
+    "Security"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-24T12:33:00.008605+00:00",
+  "updated_at": "2026-10-24T12:35:39.303218+00:00",
+  "published_to": []
+}

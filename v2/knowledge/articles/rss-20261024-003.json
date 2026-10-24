@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261024-003",
+  "source": "rss",
+  "source_url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+  "title": "I Don't Understand Quantum Physics (2018)",
+  "summary": "这是一篇面向非专业读者的量子物理入门文章，尝试用通俗方式解释量子力学中的核心概念与基本原理。内容旨在降低量子物理的学习门槛，帮助没有相关背景的读者建立对该主题的初步理解。",
+  "tech_stack": [],
+  "problem_solved": "解决量子物理概念抽象、基础读者难以入门和理解其核心思想的问题。",
+  "why_valuable": "通过通俗化讲解连接日常认知与现代物理知识，为学习量子力学提供清晰且友好的起点。",
+  "tags": [
+    "Quantum Physics",
+    "Physics",
+    "Science Education",
+    "Beginner Guide"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-24T12:33:05.536747+00:00",
+  "updated_at": "2026-10-24T12:35:39.303388+00:00",
+  "published_to": []
+}

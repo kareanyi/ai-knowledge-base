@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261024-005",
+  "source": "rss",
+  "source_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+  "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+  "summary": "文章讲述一名黑客逆向分析三星电视系统，并发现设备中存在一个已被停用的 OpenAI 账号，该账号可能与电视内置 AI 的语音监听或相关服务有关。内容还汇集了 Reddit 与 Hacker News 社区对该隐私和安全风险的讨论。",
+  "tech_stack": [
+    "Samsung TV",
+    "Reverse Engineering",
+    "OpenAI",
+    "On-device AI",
+    "Voice Assistant"
+  ],
+  "problem_solved": "揭示消费级智能电视内置 AI 服务可能长期保留或使用云端 OpenAI 账号，从而引发用户对监听、隐私和数据外传的担忧。",
+  "why_valuable": "该案例提醒用户关注智能设备的环境音频采集、第三方 AI 服务接入和供应链隐私风险，也推动厂商加强透明度与账号安全控制。",
+  "tags": [
+    "AI",
+    "Privacy",
+    "Reverse Engineering",
+    "Smart TV",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-24T12:33:17.404906+00:00",
+  "updated_at": "2026-10-24T12:35:39.312004+00:00",
+  "published_to": []
+}

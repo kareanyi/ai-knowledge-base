@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261024-001",
+  "source": "rss",
+  "source_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+  "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+  "summary": "文章讨论一篇借助 AI 撰写的关于 Z-Library 的论文，其中引用了一篇实际上不存在的 TorrentFreak 文章。这一案例表明，AI 辅助写作可能产生难以察觉的虚假引用和事实性错误，并对学术出版与引用审核构成挑战。",
+  "tech_stack": [
+    "Generative AI"
+  ],
+  "problem_solved": "揭示 AI 辅助学术写作中虚假引用难以被发现的问题，并提示研究者和出版方需要加强来源核验。",
+  "why_valuable": "该事件展示了生成式 AI 在学术应用中可能制造可信度风险，对维护研究质量和出版诚信具有警示意义。",
+  "tags": [
+    "AI",
+    "Academic Writing",
+    "Hallucination",
+    "Citation Verification",
+    "Research Integrity"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-24T12:32:54.097903+00:00",
+  "updated_at": "2026-10-24T12:35:39.302941+00:00",
+  "published_to": []
+}

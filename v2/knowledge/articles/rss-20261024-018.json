@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261024-018",
+  "source": "rss",
+  "source_url": "https://music.apple.com/this-url-doesnt-exist",
+  "title": "Apple Music 404 Not Found",
+  "summary": "该内容讨论 Apple Music 中一个尚未公开或被隐藏的功能，并引用 MacRumors 报道及 Hacker News 社区讨论。原始材料仅包含截断链接和讨论数据，具体功能与实现细节无法从现有内容中确认。",
+  "tech_stack": [
+    "Apple Music",
+    "HTTP 404",
+    "Web"
+  ],
+  "problem_solved": "揭示或分析 Apple Music 中隐藏功能对用户体验和产品生态的影响。",
+  "why_valuable": "该信息有助于 Apple Music 用户了解尚未正式公开的产品变化，并判断其潜在影响。",
+  "tags": [
+    "Apple Music",
+    "Streaming",
+    "Product Update",
+    "Hidden Feature",
+    "Tech News"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-10-24T12:35:20.903179+00:00",
+  "updated_at": "2026-10-24T12:35:39.313820+00:00",
+  "published_to": []
+}

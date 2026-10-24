@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261024-004",
+  "source": "rss",
+  "source_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+  "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+  "summary": "文章讨论 Node2Shell 漏洞向 HTTP2Shell 的演进，并分析其对多种 HTTP 库及应用的广泛影响。内容聚焦 Python 包中与 Brotli 相关的漏洞及 CVE-2026-111497，旨在揭示该问题的更大攻击范围和潜在风险。",
+  "tech_stack": [
+    "Node.js",
+    "Python",
+    "HTTP/2",
+    "Brotli",
+    "PyPI"
+  ],
+  "problem_solved": "揭示并评估 HTTP2Shell 漏洞对 Python 包、HTTP 库和下游应用造成的供应链与远程代码执行风险。",
+  "why_valuable": "帮助开发者和安全团队识别受影响依赖、理解攻击面并及时采取升级或缓解措施。",
+  "tags": [
+    "Security",
+    "CVE",
+    "HTTP2Shell",
+    "Supply Chain",
+    "Python"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-24T12:33:12.953277+00:00",
+  "updated_at": "2026-10-24T12:35:39.311809+00:00",
+  "published_to": []
+}

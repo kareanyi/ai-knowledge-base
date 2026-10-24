@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261024-007",
+  "source": "rss",
+  "source_url": "https://rtfeldman.com/fp-vs-c",
+  "title": "How close can pure functional programming get to C?",
+  "summary": "This article explores how closely pure functional programming can approach the performance, control flow, and low-level characteristics of C. It examines the practical trade-offs between functional abstractions and C's efficiency and expressiveness, aiming to clarify how much of C-like programming is achievable without sacrificing functional purity.",
+  "tech_stack": [
+    "Pure Functional Programming",
+    "C"
+  ],
+  "problem_solved": "It evaluates the technical and performance trade-offs involved in writing low-level systems-style code using pure functional programming rather than C.",
+  "why_valuable": "It helps developers understand whether functional programming can provide C-level capabilities while retaining benefits such as referential transparency, safer abstractions, and easier reasoning.",
+  "tags": [
+    "Functional Programming",
+    "C",
+    "Performance",
+    "Systems Programming",
+    "Programming Paradigms"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-24T12:33:33.033495+00:00",
+  "updated_at": "2026-10-24T12:35:39.312322+00:00",
+  "published_to": []
+}

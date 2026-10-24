@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261024-010",
+  "source": "rss",
+  "source_url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+  "title": "Twelve years of distributed SQLite",
+  "summary": "文章回顾了作者十二年来将 SQLite 扩展为分布式数据库的技术实践与演进历程，重点涉及共识、节点协调、故障处理和系统设计等核心问题。它不仅总结了 rqlite 等项目的经验，也展示了在保留 SQLite 简单性和嵌入式优势的同时实现高可用与水平扩展的方法。",
+  "tech_stack": [
+    "SQLite",
+    "Go",
+    "Raft",
+    "HTTP API",
+    "JSON"
+  ],
+  "problem_solved": "解决单机 SQLite 在多节点数据同步、强一致性和高可用方面的局限，同时保留其轻量级与易嵌入特性。",
+  "why_valuable": "为构建可靠、可扩展的分布式 SQLite 系统提供了长期实践经验和架构设计参考。",
+  "tags": [
+    "Distributed Systems",
+    "SQLite",
+    "Raft",
+    "Database",
+    "High Availability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-24T12:33:54.955219+00:00",
+  "updated_at": "2026-10-24T12:35:39.312753+00:00",
+  "published_to": []
+}

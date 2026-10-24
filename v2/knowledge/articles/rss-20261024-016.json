@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261024-016",
+  "source": "rss",
+  "source_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+  "summary": "该内容介绍了 Kimi K3.1 Pro 与 K3.1 Pro Highspeed 两款模型，并汇总了官方博客、Kimi Code 模型文档、Artificial Analysis、Model Compare 及 Hacker News 社区讨论等参考资料。现有材料侧重模型发布、性能对比和开发者使用信息，但未提供足够正文以确认具体基准成绩、架构细节及许可证条款。",
+  "tech_stack": [
+    "Kimi K3.1 Pro",
+    "Kimi Code",
+    "Moonshot AI"
+  ],
+  "problem_solved": "为需要高质量代码生成与开发辅助的开发者提供不同速度档位的大语言模型选择。",
+  "why_valuable": "通过提供标准版与高速版模型及第三方评测入口，帮助开发者根据效果、响应速度和使用成本选择合适的编码模型。",
+  "tags": [
+    "Kimi",
+    "LLM",
+    "Code Generation",
+    "Model Benchmarking",
+    "Open Source AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-24T12:34:45.979668+00:00",
+  "updated_at": "2026-10-24T12:35:39.313565+00:00",
+  "published_to": []
+}

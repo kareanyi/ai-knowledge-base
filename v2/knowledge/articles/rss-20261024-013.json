@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261024-013",
+  "source": "rss",
+  "source_url": "https://cve.0xosprey.com/",
+  "title": "CVE Tracker",
+  "summary": "CVE Tracker 是一个用于查询和跟踪 CVE 漏洞信息的在线工具，目标是帮助用户集中了解公开漏洞及其披露状态。当前内容仅包含项目链接和 Hacker News 讨论信息，未提供具体功能、实现方式或使用示例。",
+  "tech_stack": [],
+  "problem_solved": "简化 CVE 漏洞信息的检索与持续跟踪，减少安全研究人员手动汇总和核对漏洞数据的成本。",
+  "why_valuable": "集中化、可追踪的 CVE 信息有助于安全团队更高效地进行漏洞评估、风险排查和响应。",
+  "tags": [
+    "CVE",
+    "Cybersecurity",
+    "Vulnerability Tracking",
+    "Security"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-24T12:34:16.339277+00:00",
+  "updated_at": "2026-10-24T12:35:39.313141+00:00",
+  "published_to": []
+}

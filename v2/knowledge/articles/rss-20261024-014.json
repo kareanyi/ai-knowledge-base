@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261024-014",
+  "source": "rss",
+  "source_url": "https://block.xyz/dessa",
+  "title": "Dessa: Conversation Model trained only on speech",
+  "summary": "Dessa 专注于构建仅使用语音数据训练的自然对话模型，使系统能够理解口语表达并以对话方式生成回应。项目展示了将语音识别、语言建模与对话式 AI 结合的技术路径，为更自然的语音交互应用提供了基础。",
+  "tech_stack": [
+    "Speech-to-Text",
+    "Conversational AI",
+    "Large Language Models",
+    "Natural Language Processing",
+    "Deep Learning"
+  ],
+  "problem_solved": "解决传统对话模型依赖大量文本数据、难以准确理解和回应自然口语交互的问题。",
+  "why_valuable": "直接从语音中学习人类表达方式，有望提升语音助手的理解力、自然度和真实场景适应性。",
+  "tags": [
+    "Speech AI",
+    "Conversational AI",
+    "Language Models",
+    "Voice Interface",
+    "Deep Learning"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-24T12:34:23.522614+00:00",
+  "updated_at": "2026-10-24T12:35:39.313280+00:00",
+  "published_to": []
+}

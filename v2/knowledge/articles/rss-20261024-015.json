@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261024-015",
+  "source": "rss",
+  "source_url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+  "title": "Air Purifiers as White Noise Machines",
+  "summary": "文章探讨将空气净化器作为白噪音发生器使用，利用其持续的风扇运转声来替代专用白噪音设备。相关内容在 Hacker News 获得了 144 分和 132 条评论，表明这一低成本、实用型替代方案引起了广泛关注。",
+  "tech_stack": [
+    "Air Purifier",
+    "White Noise Generation",
+    "Noise Masking"
+  ],
+  "problem_solved": "通过利用空气净化器的风扇噪声提供持续的背景声，减少购买或运行专用白噪音设备的需要。",
+  "why_valuable": "它提供了一种成本低、部署简单的白噪音来源，可用于改善睡眠、降低环境干扰或掩盖背景噪音。",
+  "tags": [
+    "Air Purifier",
+    "White Noise",
+    "Sleep",
+    "Noise Masking",
+    "Hacker News"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-24T12:34:36.931279+00:00",
+  "updated_at": "2026-10-24T12:35:39.313430+00:00",
+  "published_to": []
+}
