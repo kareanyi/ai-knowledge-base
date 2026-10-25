@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261025-005",
+  "source": "rss",
+  "source_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "title": "Cerebras Deploys Trillion-Parameter AI Models",
+  "summary": "Cerebras 介绍其如何利用专有的大规模计算基础设施，在云端部署规模达到万亿参数级别的前沿 AI 模型。文章重点涉及超大模型的推理、内存容量与并行计算，以突破传统 GPU 集群在部署此类模型时面临的资源瓶颈。",
+  "tech_stack": [
+    "Cerebras WSE",
+    "Large Language Models",
+    "Distributed Computing",
+    "AI Inference",
+    "Cloud Deployment"
+  ],
+  "problem_solved": "解决万亿参数级 AI 模型在部署过程中面临的显存容量、计算并行性和推理吞吐量瓶颈。",
+  "why_valuable": "它展示了专用 AI 基础设施如何支撑超大模型实际运行，为高容量、低延迟的模型服务提供了新的技术路径。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Model Deployment",
+    "Wafer-Scale Computing",
+    "Inference"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:05:57.756484+00:00",
+  "updated_at": "2026-10-25T13:08:28.888046+00:00",
+  "published_to": []
+}

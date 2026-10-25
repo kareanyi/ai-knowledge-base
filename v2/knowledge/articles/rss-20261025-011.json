@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261025-011",
+  "source": "rss",
+  "source_url": "https://www.speedcrunch.org/",
+  "title": "SpeedCrunch 1.1",
+  "summary": "SpeedCrunch 1.1 是一款开源、跨平台的桌面科学计算器，支持高精度数值计算、函数绘图、统计分析等常用功能。该版本的项目介绍获得了 Hacker News 171 分和 35 条评论，显示其在开发者群体中具有一定关注度。",
+  "tech_stack": [
+    "C++",
+    "Qt",
+    "QCustomPlot"
+  ],
+  "problem_solved": "为需要在桌面环境中进行高精度科学计算、数据分析和函数绘图的用户提供快速、开源且跨平台的计算工具。",
+  "why_valuable": "它将多种专业计算能力集中在轻量级桌面应用中，并通过开源和跨平台支持降低使用与部署成本。",
+  "tags": [
+    "Scientific Calculator",
+    "Numerical Computing",
+    "Open Source",
+    "Cross-platform",
+    "Data Visualization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:06:47.690997+00:00",
+  "updated_at": "2026-10-25T13:08:28.888625+00:00",
+  "published_to": []
+}

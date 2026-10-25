@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261025-016",
+  "source": "rss",
+  "source_url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+  "title": "Neural chip decodes interactions between brain regions",
+  "summary": "EPFL 研究介绍了一种能够解码大脑不同区域之间交互作用的神经芯片，可用于观察神经活动及其跨脑区通信。该项目展示了新型神经记录与信号处理硬件在脑科学研究和神经技术中的应用潜力。",
+  "tech_stack": [
+    "神经形态芯片",
+    "神经信号处理",
+    "脑机接口",
+    "电生理记录"
+  ],
+  "problem_solved": "通过直接采集并分析神经活动，解码不同脑区之间的动态交互关系。",
+  "why_valuable": "它为研究复杂脑机制、推进脑机接口以及开发新型神经疾病诊断技术提供了硬件基础。",
+  "tags": [
+    "Neurotechnology",
+    "Neural Chip",
+    "Brain-Computer Interface",
+    "Neural Decoding",
+    "Neuroscience"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:08:00.481086+00:00",
+  "updated_at": "2026-10-25T13:08:28.889028+00:00",
+  "published_to": []
+}

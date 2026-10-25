@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261025-008",
+  "source": "rss",
+  "source_url": "https://danluu.com/ambitious/",
+  "title": "We should be more ambitious with the software we build",
+  "summary": "这篇文章主张开发软件时不应满足于小范围、低风险的功能，而应主动尝试解决更宏大且具有社会价值的问题。通过对软件雄心、技术野心与实际价值之间关系的讨论，文章鼓励开发者思考软件可以带来的更大影响。",
+  "tech_stack": [],
+  "problem_solved": "它试图纠正软件开发者只关注渐进式小功能、缺乏远大目标和实际影响力的工程文化。",
+  "why_valuable": "它促使开发者和团队重新评估项目的目标与规模，推动构建能够产生更广泛、长期社会价值的产品。",
+  "tags": [
+    "Software Engineering",
+    "Product Development",
+    "Ambitious Projects",
+    "Technology Strategy",
+    "Innovation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:06:18.719768+00:00",
+  "updated_at": "2026-10-25T13:08:28.888348+00:00",
+  "published_to": []
+}

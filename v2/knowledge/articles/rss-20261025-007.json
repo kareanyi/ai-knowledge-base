@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261025-007",
+  "source": "rss",
+  "source_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+  "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+  "summary": "文章探讨美国媒体、电影与艺术行业已累计失去约20万个岗位，并评估生成式AI在创意行业就业收缩中所占的比重。内容重点在于区分AI冲击与更广泛的经济、产业结构因素，并分析自动化对“创意阶层”的长期影响。",
+  "tech_stack": [
+    "Generative AI",
+    "Artificial Intelligence"
+  ],
+  "problem_solved": "文章试图厘清创意行业大规模失业中有多少应归因于AI，而非单纯归结为经济周期、行业转型或企业重组。",
+  "why_valuable": "对AI与就业影响进行定量拆分，有助于政策制定者、创意从业者和企业管理者理解技术扩散的真实社会经济后果。",
+  "tags": [
+    "AI",
+    "Employment",
+    "Creative Industries",
+    "Automation",
+    "Labor Market"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:06:10.973793+00:00",
+  "updated_at": "2026-10-25T13:08:28.888257+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261025-017",
+  "source": "rss",
+  "source_url": "https://freedns.afraid.org/",
+  "title": "FreeDNS",
+  "summary": "FreeDNS 是一个免费的动态域名服务，可将域名自动指向经常变化的主机 IP 地址。它适合需要远程访问、动态网络环境或频繁更换服务器的个体用户，内容侧重于免费 DNS 托管与自动化更新。",
+  "tech_stack": [
+    "DNS",
+    "Dynamic DNS",
+    "Web Interface"
+  ],
+  "problem_solved": "解决动态公网 IP 经常变化导致固定域名无法持续访问的问题。",
+  "why_valuable": "无需固定 IP 或昂贵的主机服务，也能通过稳定域名远程访问个人设备和动态服务器。",
+  "tags": [
+    "DNS",
+    "Dynamic DNS",
+    "Free Service",
+    "Networking",
+    "Self Hosting"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:08:10.047447+00:00",
+  "updated_at": "2026-10-25T13:08:28.889085+00:00",
+  "published_to": []
+}

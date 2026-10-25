@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261025-003",
+  "source": "rss",
+  "source_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+  "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+  "summary": "尼康摄影比赛的一名获胜者被科学家发现照片中存在人工智能生成或篡改的迹象，因此失去冠军头衔。文章探讨了利用科学与技术手段识别 AI 生成图像的必要性，以及摄影比赛在评审和验证机制上可能存在的漏洞。",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Image Forensics",
+    "Scientific Analysis",
+    "Digital Photography"
+  ],
+  "problem_solved": "通过分析图像中的异常特征，识别摄影比赛作品是否由 AI 生成或经过操纵，从而维护评选结果的真实性与公平性。",
+  "why_valuable": "它展示了 AI 图像检测在新闻、摄影和竞赛诚信维护中的应用价值，同时也提醒人们建立更可靠的原创性与真实性验证流程。",
+  "tags": [
+    "AI",
+    "Image Detection",
+    "Photography",
+    "Digital Forensics",
+    "Contest Integrity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:05:42.652219+00:00",
+  "updated_at": "2026-10-25T13:08:28.879625+00:00",
+  "published_to": []
+}

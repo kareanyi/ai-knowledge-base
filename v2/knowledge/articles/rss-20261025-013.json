@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261025-013",
+  "source": "rss",
+  "source_url": "https://bbtree.xiangpeng.systems/post/",
+  "title": "Bbtree: Fastest Ordered Map",
+  "summary": "文章介绍名为 Bbtree 的高性能有序映射实现，重点围绕 B-tree 数据结构、存储布局和访问路径优化，目标是提升有序键值数据的查询与更新性能。项目还通过基准测试对实现进行评估，并提供文章评论作为补充参考。",
+  "tech_stack": [
+    "B-tree",
+    "Ordered Map",
+    "Performance Optimization",
+    "Benchmarking"
+  ],
+  "problem_solved": "解决传统有序映射在查询、插入和删除操作中性能不足的问题。",
+  "why_valuable": "为需要高性能键排序、范围查询或频繁更新的系统提供可复用的高效数据结构实现与性能基准。",
+  "tags": [
+    "B-tree",
+    "Data-Structure",
+    "Ordered-Map",
+    "Performance",
+    "Benchmarking"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-25T13:07:43.149846+00:00",
+  "updated_at": "2026-10-25T13:08:28.888855+00:00",
+  "published_to": []
+}

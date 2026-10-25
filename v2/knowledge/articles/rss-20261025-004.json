@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261025-004",
+  "source": "rss",
+  "source_url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+  "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+  "summary": "该报道关注巴西法院要求停止向博索纳罗倾斜的内容推荐或政治偏向，而 Meta 据称未予执行。此事件涉及平台治理、算法推荐、公平选举及司法合规之间的冲突，并引发了大量公众讨论。",
+  "tech_stack": [],
+  "problem_solved": "文章探讨大型科技平台是否应以及如何遵守司法命令，纠正可能影响巴西政治和选举的算法偏见。",
+  "why_valuable": "该事件揭示了商业化推荐系统、言论自由与公共选举监管之间可能发生冲突，对数字平台治理具有重要参考价值。",
+  "tags": [
+    "Meta",
+    "Algorithm Bias",
+    "Platform Governance",
+    "Brazil",
+    "Political Moderation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-25T13:05:51.079742+00:00",
+  "updated_at": "2026-10-25T13:08:28.887853+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261025-015",
+  "source": "rss",
+  "source_url": "https://blog.roku.com/developer/gitlab-move",
+  "title": "Roku developer repositories moved from GitHub to GitLab",
+  "summary": "Roku 将其开发者相关代码仓库从 GitHub 迁移至 GitLab，以调整代码托管和协作基础设施。文章说明此次迁移的背景与影响，并讨论开发者可能需要更新的仓库地址、访问方式或工作流。",
+  "tech_stack": [
+    "GitLab",
+    "GitHub",
+    "Roku Developer Platform"
+  ],
+  "problem_solved": "通过将 Roku 开发者仓库统一迁移至 GitLab，改善代码托管、版本控制与开发协作流程。",
+  "why_valuable": "开发者可及时获知托管平台变更并调整本地配置、CI/CD 流程及外部集成，避免迁移后访问或自动化任务中断。",
+  "tags": [
+    "GitLab",
+    "GitHub",
+    "Migration",
+    "DevOps",
+    "Roku"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:07:53.755041+00:00",
+  "updated_at": "2026-10-25T13:08:28.888971+00:00",
+  "published_to": []
+}

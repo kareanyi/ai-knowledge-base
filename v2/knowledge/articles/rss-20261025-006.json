@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261025-006",
+  "source": "rss",
+  "source_url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+  "title": "Why Gopher in 2026?",
+  "summary": "文章《Why Gopher in 2026?》探讨在现代互联网环境中重新采用 Gopher 协议的理由，可能涉及轻量、低依赖、层级式内容访问以及复古网络文化的价值。现有输入仅包含标题、链接和讨论热度，缺少正文，因此无法确认作者提出的具体论据与实现方案。",
+  "tech_stack": [
+    "Gopher Protocol",
+    "Plain Text",
+    "SDF Hosting"
+  ],
+  "problem_solved": "它试图回答在现代 Web 主导的背景下，为什么仍有必要采用或重新推广 Gopher 协议。",
+  "why_valuable": "文章可帮助读者理解 Gopher 在资源占用、文本友好性、协议简洁和去中心化发布方面的潜在优势。",
+  "tags": [
+    "Gopher",
+    "Internet Protocol",
+    "Retro Computing",
+    "Plain Text",
+    "Alternative Web"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-25T13:06:04.343164+00:00",
+  "updated_at": "2026-10-25T13:08:28.888164+00:00",
+  "published_to": []
+}

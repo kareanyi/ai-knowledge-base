@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261025-009",
+  "source": "rss",
+  "source_url": "https://ratfactor.com/cards/pl-small",
+  "title": "Small Programs and Languages",
+  "summary": "文章“Small Programs and Languages”讨论小型程序与编程语言之间的关系，重点可能涉及以较少代码表达清晰、专注任务的语言设计理念。现有内容仅提供文章链接及 Hacker News 的讨论数据，未包含正文，因此无法确认具体语言、案例或技术实现。",
+  "tech_stack": [
+    "Programming Languages",
+    "Language Design",
+    "Compilers",
+    "Interpreters"
+  ],
+  "problem_solved": "探索如何通过小型、专用且易理解的程序与编程语言，降低软件复杂性并提高代码表达的清晰度。",
+  "why_valuable": "小型程序和语言能够帮助开发者聚焦核心问题，减少不必要的抽象与依赖，从而提升系统的可读性和可维护性。",
+  "tags": [
+    "Programming Languages",
+    "Language Design",
+    "Simplicity",
+    "Software Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-25T13:06:26.459711+00:00",
+  "updated_at": "2026-10-25T13:08:28.888442+00:00",
+  "published_to": []
+}

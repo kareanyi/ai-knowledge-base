@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261025-001",
+  "source": "rss",
+  "source_url": "https://github.com/ihhub/fheroes2",
+  "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+  "summary": "fheroes2 是对经典策略游戏《Heroes of Might and Magic II》游戏引擎的开源复刻，目标是尽可能还原原版玩法、界面与视觉效果，同时提供现代操作系统上的可维护实现。项目采用模块化架构并持续扩展跨平台支持，使研究者、玩家和游戏开发者能够研究、改进并直接体验这一经典游戏引擎。",
+  "tech_stack": [
+    "C++",
+    "CMake",
+    "SDL2",
+    "OpenGL",
+    "GitHub Actions"
+  ],
+  "problem_solved": "它通过开源方式重建并现代化 Heroes of Might and Magic II 的游戏引擎，解决经典游戏依赖旧平台、源代码难以获取及维护升级困难的问题。",
+  "why_valuable": "该项目既为经典游戏爱好者提供了跨平台运行和扩展方案，也为学习大型回合制策略游戏引擎架构、资源管理与 AI 实现提供了可实践的代码库。",
+  "tags": [
+    "GameEngine",
+    "StrategyGame",
+    "OpenSource",
+    "C++",
+    "RetroGaming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-25T13:05:21.792762+00:00",
+  "updated_at": "2026-10-25T13:08:28.879174+00:00",
+  "published_to": []
+}

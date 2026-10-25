@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261025-012",
+  "source": "rss",
+  "source_url": "https://aardappel.github.io/goose/",
+  "title": "The Goose Programming Language",
+  "summary": "该内容介绍了由 Aardappel（John Carmack）主导开发的 Goose 编程语言，并附有项目主页、作者在 Twitter 上的发布链接及 Hacker News 社区讨论。其目标是探索一种更适合现代软件工程的编程语言方案，但当前输入仅包含链接与讨论数据，未提供具体语言特性、实现细节或示例。",
+  "tech_stack": [
+    "Goose"
+  ],
+  "problem_solved": "通过引入新的编程语言设计与工具链，尝试改善系统级软件开发中的表达效率、可靠性和使用体验。",
+  "why_valuable": "它汇集了知名开发者的语言设计实践，并在 Hacker News 获得了较高关注度，为讨论现代编程语言的发展方向提供了有价值的新案例。",
+  "tags": [
+    "Programming Language",
+    "Systems Programming",
+    "Language Design",
+    "Developer Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-25T13:07:36.595038+00:00",
+  "updated_at": "2026-10-25T13:08:28.888769+00:00",
+  "published_to": []
+}
