@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261026-016",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2512.19428",
+  "title": "Attention Is Not What You Need (2025)",
+  "summary": "该论文以“Attention Is Not What You Need”为题，核心观点可能聚焦于重新审视注意力机制在现代模型架构中的必要性，并探索更高效的替代方案。现有内容仅包含 arXiv 链接及 Hacker News 讨论数据，未提供论文摘要、方法细节或实验结果，因此无法可靠判断其具体实现与结论。",
+  "tech_stack": [
+    "Deep Learning",
+    "Transformer",
+    "Attention Mechanism"
+  ],
+  "problem_solved": "针对注意力机制可能带来的计算开销、序列建模效率或架构依赖问题，探索更具成本效益的建模方案。",
+  "why_valuable": "如果论文能以严谨实验证明替代架构优于或可替代注意力机制，将为高效序列建模和大模型架构设计提供新的研究方向。",
+  "tags": [
+    "Deep Learning",
+    "Transformer",
+    "Attention",
+    "Sequence Modeling",
+    "Efficient AI"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-26T15:02:16.584293+00:00",
+  "updated_at": "2026-10-26T15:02:43.467721+00:00",
+  "published_to": []
+}

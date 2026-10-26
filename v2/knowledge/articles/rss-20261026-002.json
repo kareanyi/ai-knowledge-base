@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261026-002",
+  "source": "rss",
+  "source_url": "https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl",
+  "title": "Vegemite is not a human right",
+  "summary": "文章讨论澳大利亚一名囚犯因不获准食用 Vegemite 而将“获得该食品”主张为一项人权，并由法官作出裁决。其核心在于界定基本人权保障是否涵盖特定饮食偏好或待遇。",
+  "tech_stack": [],
+  "problem_solved": "分析囚犯能否依据人权法主张获得 Vegemite 的权利，以及法院应如何界定基本人权的适用边界。",
+  "why_valuable": "该案件有助于理解澳大利亚司法中人权条款、囚犯基本待遇与个人自由偏好之间的边界。",
+  "tags": [
+    "Human Rights",
+    "Prisoners",
+    "Australian Law",
+    "Vegemite",
+    "Judiciary"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-26T15:00:48.832034+00:00",
+  "updated_at": "2026-10-26T15:02:43.456123+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261026-015",
+  "source": "rss",
+  "source_url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+  "title": "Steal My Bitcoin CTF PoC",
+  "summary": "该项目是一个用于 CTF 挑战的概念验证（PoC），围绕比特币安全攻防与密钥/交易机制展开，旨在展示攻击者如何通过特定漏洞或不当实现获取数字资产。仓库提供了可复现的利用思路与相关代码，可用于网络安全竞赛、漏洞研究和比特币安全教学。",
+  "tech_stack": [
+    "Bitcoin",
+    "Python",
+    "Cryptography",
+    "Blockchain"
+  ],
+  "problem_solved": "它通过可复现的 PoC 演示比特币应用或交易流程中的安全弱点，帮助参赛者学习数字资产攻击面与防护方法。",
+  "why_valuable": "该 PoC 将抽象的比特币安全风险转化为可操作的实验环境，对 CTF 备战、钱包安全审计和常见攻击原理教学具有参考价值。",
+  "tags": [
+    "Bitcoin",
+    "CTF",
+    "Security",
+    "Cryptography",
+    "Blockchain"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-26T15:02:10.508178+00:00",
+  "updated_at": "2026-10-26T15:02:43.467550+00:00",
+  "published_to": []
+}

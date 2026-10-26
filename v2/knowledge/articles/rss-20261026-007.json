@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261026-007",
+  "source": "rss",
+  "source_url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+  "title": "Brown student maps the hidden global labor powering AI",
+  "summary": "这篇报道聚焦人工智能背后常被忽视的全球数据劳动，包括数据标注、内容审核等支持模型训练与运营的工作。文章以布朗大学学生的调查项目为主线，尝试绘制这些劳动者的分布、规模及其与 AI 产业链之间的关系。",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Data Labeling",
+    "Data Annotation",
+    "Data Visualization"
+  ],
+  "problem_solved": "揭示并可视化支撑 AI 系统运行的全球隐性数据劳动，使人们更全面地理解技术供应链中的劳动者及其社会影响。",
+  "why_valuable": "它将 AI 背后的社会与劳动成本纳入技术讨论，有助于提升开发者、企业和公众对数据供应链可见性与责任问题的关注。",
+  "tags": [
+    "AI",
+    "Data Labor",
+    "Data Annotation",
+    "Labor",
+    "Data Visualization"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-26T15:01:24.603162+00:00",
+  "updated_at": "2026-10-26T15:02:43.466062+00:00",
+  "published_to": []
+}

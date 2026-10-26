@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261026-006",
+  "source": "rss",
+  "source_url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+  "title": "Fixing Tool-Call Accuracy in vLLM",
+  "summary": "文章探讨了如何在 vLLM 推理框架中提高大语言模型工具调用的准确性，重点可能涉及参数生成、结构化输出与调用解析。该主题面向需要在生产环境中可靠集成函数调用或智能体工作流开发者。",
+  "tech_stack": [
+    "vLLM",
+    "LLM",
+    "Tool Calling",
+    "JSON Schema"
+  ],
+  "problem_solved": "解决 vLLM 中模型生成工具调用时格式错误、参数不准确或无法被应用程序正确解析的问题。",
+  "why_valuable": "更准确的工具调用可减少智能体执行失败，提升企业 AI 应用与外部系统集成的可靠性。",
+  "tags": [
+    "vLLM",
+    "Tool Calling",
+    "LLM",
+    "Structured Output",
+    "AI Agents"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-26T15:01:19.334673+00:00",
+  "updated_at": "2026-10-26T15:02:43.465840+00:00",
+  "published_to": []
+}

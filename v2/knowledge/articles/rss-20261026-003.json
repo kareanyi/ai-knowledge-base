@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261026-003",
+  "source": "rss",
+  "source_url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+  "title": "OLED iPad Mini",
+  "summary": "该内容指向 Apple 官方的 OLED iPad mini 购买页面，并附带 Hacker News 社区讨论。核心信息是这款产品采用 OLED 显示屏，定位为兼顾便携性、显示效果与日常生产力的小尺寸 iPad。",
+  "tech_stack": [
+    "OLED",
+    "iPadOS",
+    "Apple A-series chip"
+  ],
+  "problem_solved": "为用户提供一款机身紧凑、显示清晰且具备完整 iPad 生态体验的便携移动设备。",
+  "why_valuable": "OLED 显示屏与便携尺寸相结合，可提升影音娱乐、阅读、创作和移动办公体验。",
+  "tags": [
+    "iPad",
+    "OLED",
+    "Apple",
+    "Tablet",
+    "Consumer Electronics"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-26T15:00:59.003974+00:00",
+  "updated_at": "2026-10-26T15:02:43.456310+00:00",
+  "published_to": []
+}

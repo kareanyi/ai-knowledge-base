@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261026-009",
+  "source": "rss",
+  "source_url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+  "title": "Pharo 14",
+  "summary": "该内容介绍了 Pharo 14 的发布信息，Pharo 是一款基于 Smalltalk 的面向对象开发环境。当前提供的信息仅包含发布公告链接和讨论链接，未包含版本更新内容、具体特性或实施细节，因此无法对该版本的技术变化进行深入判断。",
+  "tech_stack": [
+    "Pharo",
+    "Smalltalk"
+  ],
+  "problem_solved": "为开发者提供基于 Smalltalk 语法的现代面向对象编程环境及持续演进的语言与工具链。",
+  "why_valuable": "Pharo 14 的更新有助于开发者使用改进后的语言特性、工具和运行环境构建面向对象软件。",
+  "tags": [
+    "Pharo",
+    "Smalltalk",
+    "Programming Language",
+    "Release",
+    "Object-Oriented Programming"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-10-26T15:01:35.456635+00:00",
+  "updated_at": "2026-10-26T15:02:43.466450+00:00",
+  "published_to": []
+}

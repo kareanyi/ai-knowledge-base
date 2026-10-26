@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261026-011",
+  "source": "rss",
+  "source_url": "https://blocks.manifold3d.ch/",
+  "title": "Switzerland. Block by block. At 1:1 scale",
+  "summary": "该作品以 1:1 比例将瑞士地形切割并组织成可交互浏览的立体方块地图，展示了 Manifold3D 在精细地形建模和制造方面的能力。网站允许用户逐块探索瑞士不同区域，并可能为实体 3D 打印或地理模型设计提供基础。",
+  "tech_stack": [
+    "Manifold3D",
+    "JavaScript",
+    "WebGL",
+    "GIS",
+    "3D Modeling"
+  ],
+  "problem_solved": "它将复杂的高精度地理数据转换为可逐块探索、导出及制造的 1:1 比例实体地形模型。",
+  "why_valuable": "这种数字到实体的转换兼具教育、艺术和数据可视化价值，并为地理模型制作提供了一套可复用的工作流。",
+  "tags": [
+    "3D Printing",
+    "Geospatial",
+    "Manifold3D",
+    "Switzerland",
+    "Digital Twin"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-26T15:01:46.925082+00:00",
+  "updated_at": "2026-10-26T15:02:43.466819+00:00",
+  "published_to": []
+}

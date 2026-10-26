@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261026-017",
+  "source": "rss",
+  "source_url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+  "title": "The State of Context Engineering",
+  "summary": "文章探讨了“上下文工程”的现状，强调如何通过提示词设计、检索增强生成、记忆机制和工具调用，为大语言模型组织高质量且任务相关的上下文。随着 AI 应用的复杂度提升，上下文管理正逐渐成为决定 Agent 性能与可靠性的核心工程问题。",
+  "tech_stack": [
+    "LLM",
+    "Prompt Engineering",
+    "RAG",
+    "Agent Memory",
+    "Tool Calling"
+  ],
+  "problem_solved": "解决大语言模型在长对话、复杂任务和有限上下文窗口中因信息缺失、噪声过多或组织不当而导致的性能下降问题。",
+  "why_valuable": "它将注意力从单纯编写提示词转向系统化设计上下文供给机制，为构建更可靠、更高效的大语言模型与 Agent 应用提供实用框架。",
+  "tags": [
+    "Context Engineering",
+    "LLM",
+    "RAG",
+    "AI Agents",
+    "Prompt Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-26T15:02:22.442526+00:00",
+  "updated_at": "2026-10-26T15:02:43.467922+00:00",
+  "published_to": []
+}

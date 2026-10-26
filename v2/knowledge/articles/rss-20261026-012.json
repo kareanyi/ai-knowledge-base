@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261026-012",
+  "source": "rss",
+  "source_url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry",
+  "title": "Behind the scenes at the NeXT Computer office",
+  "summary": "该内容汇集斯坦福大学 Menuez 数字档案中的 NeXT Computer 幕后资料，通过办公室相关记录还原这家创新计算机公司的历史与工作场景。页面还关联了 Hacker News 社区讨论，显示其具有较高的历史与科技传播价值。",
+  "tech_stack": [
+    "NeXT Computer",
+    "NeXTSTEP",
+    "Unix",
+    "图形用户界面"
+  ],
+  "problem_solved": "通过保存和展示 NeXT Computer 的幕后档案，帮助读者了解其团队、产品文化及早期图形计算环境的发展历程。",
+  "why_valuable": "该档案为研究 NeXT 对现代操作系统、图形界面和个人计算产生的影响提供了直观的一手历史资料。",
+  "tags": [
+    "NeXT",
+    "Computer History",
+    "Archival Photos",
+    "NeXTSTEP",
+    "GUI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-26T15:01:51.667097+00:00",
+  "updated_at": "2026-10-26T15:02:43.467007+00:00",
+  "published_to": []
+}

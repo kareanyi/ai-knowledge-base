@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261026-008",
+  "source": "rss",
+  "source_url": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+  "title": "Writing Is Closer to Thought Than Code",
+  "summary": "文章主张写作比编程更接近于人类思考，因为它允许以更自然、流动的方式组织和表达想法，而无需受制于严格的语法与执行规则。核心观点是将写作视为连接想法与成果的重要媒介，并反思代码与思考之间的差异。",
+  "tech_stack": [],
+  "problem_solved": "探讨编程式思维与自然写作式思维之间的差异，帮助读者理解为什么写作可能更适合表达和梳理复杂想法。",
+  "why_valuable": "它鼓励人们摆脱过度工程化的思维惯性，通过写作更直接地探索、澄清并传达思想。",
+  "tags": [
+    "Writing",
+    "Thinking",
+    "Programming",
+    "Creativity"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-26T15:01:30.967994+00:00",
+  "updated_at": "2026-10-26T15:02:43.466271+00:00",
+  "published_to": []
+}

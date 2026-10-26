@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261026-005",
+  "source": "rss",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "title": "Anthropic S-1",
+  "summary": "Anthropic 通过美国证券交易委员会（SEC）提交 S-1 申请文件，披露其首次公开募股相关的信息。文件采用 Public Benefit Corporation（PBC）结构，反映公司希望在商业增长与公共利益使命之间建立制度化的治理安排。",
+  "tech_stack": [
+    "Anthropic",
+    "Claude",
+    "Claude API",
+    "SEC EDGAR"
+  ],
+  "problem_solved": "该文件为投资者和监管机构提供 Anthropic 的上市、财务、公司治理及公共利益承诺信息，以支持其首次公开募股进程。",
+  "why_valuable": "S-1 是评估 Anthropic 商业模式、治理结构、财务状况及 IPO 风险的重要一手公开资料，也具有显著的行业与政策参考价值。",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "S-1",
+    "SEC",
+    "Public Benefit Corporation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-26T15:01:13.155051+00:00",
+  "updated_at": "2026-10-26T15:02:43.456676+00:00",
+  "published_to": []
+}

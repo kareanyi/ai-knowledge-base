@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261026-001",
+  "source": "rss",
+  "source_url": "https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/",
+  "title": "AmiJa, a cycle-exact Amiga emulator written in Java",
+  "summary": "AmiJa 是一款使用 Java 实现的 Amiga 模拟器，核心特点是追求周期精确（cycle-exact）的硬件行为模拟。现有内容仅包含 Reddit 发布链接和基础元数据，未提供具体架构、实现细节或项目进展。",
+  "tech_stack": [
+    "Java"
+  ],
+  "problem_solved": "通过在 Java 中模拟 Amiga 的周期级硬件行为，为开发者提供更接近真实 Amiga 系统的软件运行与研究环境。",
+  "why_valuable": "周期精确模拟有助于深入研究 Amiga 架构、兼容性、性能时序以及软硬件交互。",
+  "tags": [
+    "Emulator",
+    "Java",
+    "Amiga",
+    "Cycle-Exact",
+    "Retro Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-26T15:00:36.968171+00:00",
+  "updated_at": "2026-10-26T15:02:43.455832+00:00",
+  "published_to": []
+}
