@@ -1,0 +1,446 @@
+{
+  "collected_at": "2026-10-27T14:10:52.566476+00:00",
+  "total": 30,
+  "items": [
+    {
+      "id": "github-250510075",
+      "source": "github",
+      "source_url": "https://github.com/huggingface/trl",
+      "title": "huggingface/trl",
+      "content": "Train transformer language models with reinforcement learning.",
+      "author": "huggingface",
+      "created_at": "2020-03-27T10:54:55Z",
+      "metadata": {
+        "stars": 19611,
+        "forks": 3103,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-967738751",
+      "source": "github",
+      "source_url": "https://github.com/mengxi-ream/read-frog",
+      "title": "mengxi-ream/read-frog",
+      "content": "🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代",
+      "author": "mengxi-ream",
+      "created_at": "2025-04-16T23:32:59Z",
+      "metadata": {
+        "stars": 10197,
+        "forks": 768,
+        "language": "TypeScript",
+        "topics": [
+          "browser-extension",
+          "chinese",
+          "chrome-extension",
+          "deepseek",
+          "english",
+          "english-learning",
+          "gpt",
+          "immersive-translate",
+          "japanese",
+          "language-learning",
+          "llm",
+          "openai",
+          "react",
+          "translate",
+          "wxt"
+        ]
+      }
+    },
+    {
+      "id": "github-919456166",
+      "source": "github",
+      "source_url": "https://github.com/baturyilmaz/wordpecker-app",
+      "title": "baturyilmaz/wordpecker-app",
+      "content": " A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons. ",
+      "author": "baturyilmaz",
+      "created_at": "2025-01-20T12:26:43Z",
+      "metadata": {
+        "stars": 2286,
+        "forks": 231,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-202980654",
+      "source": "github",
+      "source_url": "https://github.com/agavrel/42_CheatSheet",
+      "title": "agavrel/42_CheatSheet",
+      "content": "A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language",
+      "author": "agavrel",
+      "created_at": "2019-08-18T08:52:46Z",
+      "metadata": {
+        "stars": 2023,
+        "forks": 168,
+        "language": "C",
+        "topics": [
+          "42",
+          "42born2code",
+          "42fremont",
+          "42madrid",
+          "42paris",
+          "42school",
+          "42seoul",
+          "42tokyo",
+          "bitwise",
+          "learning",
+          "school",
+          "sdl2",
+          "simd"
+        ]
+      }
+    },
+    {
+      "id": "github-1197491237",
+      "source": "github",
+      "source_url": "https://github.com/LiuMengxuan04/MiniCode",
+      "title": "LiuMengxuan04/MiniCode",
+      "content": "A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation. Multi-language support: TypeScript , Python and Rust implementations available now.",
+      "author": "LiuMengxuan04",
+      "created_at": "2026-03-31T16:13:54Z",
+      "metadata": {
+        "stars": 1158,
+        "forks": 124,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "cli",
+          "coding-agent",
+          "developer-tools",
+          "nodejs",
+          "terminal",
+          "tool-calling",
+          "tui",
+          "typescript"
+        ]
+      }
+    },
+    {
+      "id": "github-18378040",
+      "source": "github",
+      "source_url": "https://github.com/mimno/Mallet",
+      "title": "mimno/Mallet",
+      "content": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+      "author": "mimno",
+      "created_at": "2014-04-02T19:10:38Z",
+      "metadata": {
+        "stars": 1033,
+        "forks": 352,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    {
+      "id": "github-119929488",
+      "source": "github",
+      "source_url": "https://github.com/26hzhang/DL-NLP-Readings",
+      "title": "26hzhang/DL-NLP-Readings",
+      "content": "My Reading Lists of Deep Learning and Natural Language Processing",
+      "author": "26hzhang",
+      "created_at": "2018-02-02T03:57:35Z",
+      "metadata": {
+        "stars": 854,
+        "forks": 263,
+        "language": "TeX",
+        "topics": [
+          "bibtex-references",
+          "commonsense",
+          "deep-learning",
+          "language-model",
+          "machine-learning",
+          "natural-language-processing",
+          "paper",
+          "reinforcement-learning",
+          "robotics",
+          "source-code-link",
+          "vision-and-language"
+        ]
+      }
+    },
+    {
+      "id": "github-766467462",
+      "source": "github",
+      "source_url": "https://github.com/ad-si/Coding-Flashcards",
+      "title": "ad-si/Coding-Flashcards",
+      "content": "Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.",
+      "author": "ad-si",
+      "created_at": "2024-03-03T10:58:05Z",
+      "metadata": {
+        "stars": 764,
+        "forks": 24,
+        "language": "Rust",
+        "topics": [
+          "anki",
+          "anki-cards",
+          "anki-deck",
+          "anki-flashcards",
+          "c",
+          "deck",
+          "education",
+          "flashcard",
+          "godot",
+          "learn",
+          "learning",
+          "lua",
+          "mathematica",
+          "rust",
+          "sqlite",
+          "wolfram-language"
+        ]
+      }
+    },
+    {
+      "id": "github-304958084",
+      "source": "github",
+      "source_url": "https://github.com/mikeroyal/Machine-Learning-Guide",
+      "title": "mikeroyal/Machine-Learning-Guide",
+      "content": "Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and Training Models.",
+      "author": "mikeroyal",
+      "created_at": "2020-10-17T19:53:49Z",
+      "metadata": {
+        "stars": 711,
+        "forks": 67,
+        "language": "Python",
+        "topics": [
+          "artificial-neural-networks",
+          "aws-sagemaker",
+          "deep-learning",
+          "generative-ai",
+          "gpt-3",
+          "gpt-4",
+          "gpt4all",
+          "image-classification",
+          "image-processing",
+          "jax",
+          "llms",
+          "machine-learning-library",
+          "machine-learning-models",
+          "machinelearning",
+          "machinelearning-python",
+          "python",
+          "pytorch",
+          "scikit-learn",
+          "scikitlearn-machine-learning",
+          "support-vector-machines"
+        ]
+      }
+    },
+    {
+      "id": "github-1210451137",
+      "source": "github",
+      "source_url": "https://github.com/hajisensai/Fushi",
+      "title": "hajisensai/Fushi",
+      "content": "Immersion language-learning suite: EPUB reader, video subtitle lookup, audiobook sync, and one-tap Anki mining. Android / Windows / macOS / iOS.",
+      "author": "hajisensai",
+      "created_at": "2026-04-14T12:35:23Z",
+      "metadata": {
+        "stars": 659,
+        "forks": 37,
+        "language": "Dart",
+        "topics": []
+      }
+    },
+    {
+      "id": "rss-659713",
+      "source": "rss",
+      "source_url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
+      "content": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far\nComments URL: https://news.ycombinator.com/item?id=50259343\nPoints: 6\n# Comments: 0",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 13:52:12 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-373016",
+      "source": "rss",
+      "source_url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "content": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\nComments URL: https://news.ycombinator.com/item?id=50258868\nPoints: 5\n# Comments: 0",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 13:23:22 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-252559",
+      "source": "rss",
+      "source_url": "https://www.apple.com/imac/",
+      "title": "New iMac with M6",
+      "content": "Article URL: https://www.apple.com/imac/\nComments URL: https://news.ycombinator.com/item?id=50258538\nPoints: 4\n# Comments: 0",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 13:02:02 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-328642",
+      "source": "rss",
+      "source_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "content": "Article URL: https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\nComments URL: https://news.ycombinator.com/item?id=50258521\nPoints: 73\n# Comments: 64",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 13:01:07 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-204330",
+      "source": "rss",
+      "source_url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "title": "Software may be getting worse, but it used to be horrible",
+      "content": "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/\nComments URL: https://news.ycombinator.com/item?id=50257548\nPoints: 136\n# Comments: 105",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 11:30:35 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-828374",
+      "source": "rss",
+      "source_url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "title": "Python's experimental JIT to be removed",
+      "content": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/\nComments URL: https://news.ycombinator.com/item?id=50257419\nPoints: 128\n# Comments: 60",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 11:17:57 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-520196",
+      "source": "rss",
+      "source_url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "content": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup\nComments URL: https://news.ycombinator.com/item?id=50257326\nPoints: 120\n# Comments: 56",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 11:08:15 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-476275",
+      "source": "rss",
+      "source_url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "title": "AI promised less work. I've never worked more",
+      "content": "Article URL: https://oioannou.com/blog/ai-promised-less-work/\nComments URL: https://news.ycombinator.com/item?id=50257325\nPoints: 222\n# Comments: 201",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 11:08:14 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-262637",
+      "source": "rss",
+      "source_url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "content": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/\nComments URL: https://news.ycombinator.com/item?id=50256985\nPoints: 301\n# Comments: 189",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 10:27:50 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-6437",
+      "source": "rss",
+      "source_url": "https://gforth.org/manual/1.0/NEWS.html",
+      "title": "Gforth 1.0",
+      "content": "Article URL: https://gforth.org/manual/1.0/NEWS.html\nComments URL: https://news.ycombinator.com/item?id=50256952\nPoints: 64\n# Comments: 4",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 10:23:21 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-2424",
+      "source": "rss",
+      "source_url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+      "title": "I will no longer upload to NEW",
+      "content": "Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html\nComments URL: https://news.ycombinator.com/item?id=50256738\nPoints: 181\n# Comments: 88",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 09:59:05 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-933746",
+      "source": "rss",
+      "source_url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "content": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50255298\nPoints: 274\n# Comments: 185",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 06:25:37 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-395308",
+      "source": "rss",
+      "source_url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "title": "Writing about pratt parsing so I remember it",
+      "content": "Article URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html\nComments URL: https://news.ycombinator.com/item?id=50255177\nPoints: 59\n# Comments: 6",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 06:02:23 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-101407",
+      "source": "rss",
+      "source_url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "title": "I still teach OpenGL ES 3.0",
+      "content": "Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html\nComments URL: https://news.ycombinator.com/item?id=50253939\nPoints: 96\n# Comments: 61",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 02:15:10 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-606706",
+      "source": "rss",
+      "source_url": "https://github.com/otya128/winevdm",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "content": "Article URL: https://github.com/otya128/winevdm\nComments URL: https://news.ycombinator.com/item?id=50253529\nPoints: 109\n# Comments: 28",
+      "author": "",
+      "created_at": "Tue, 27 Oct 2026 01:15:04 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-284263",
+      "source": "rss",
+      "source_url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "content": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 155\n# Comments: 53",
+      "author": "",
+      "created_at": "Mon, 26 Oct 2026 22:41:48 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-337898",
+      "source": "rss",
+      "source_url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "content": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344\n\nComments URL: https://news.ycombinator.com/item?id=50251661\nPoints: 691\n# Comments: 256",
+      "author": "",
+      "created_at": "Mon, 26 Oct 2026 21:59:15 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-840792",
+      "source": "rss",
+      "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "content": "Related:The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661\n\nComments URL: https://news.ycombinator.com/item?id=50251344\nPoints: 1011\n# Comments: 555",
+      "author": "",
+      "created_at": "Mon, 26 Oct 2026 21:35:28 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-87720",
+      "source": "rss",
+      "source_url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "title": "Type Server Protocol",
+      "content": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\nComments URL: https://news.ycombinator.com/item?id=50248371\nPoints: 254\n# Comments: 172",
+      "author": "",
+      "created_at": "Mon, 26 Oct 2026 18:14:49 +0000",
+      "metadata": {}
+    },
+    {
+      "id": "rss-979111",
+      "source": "rss",
+      "source_url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "content": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/\nComments URL: https://news.ycombinator.com/item?id=50248055\nPoints: 479\n# Comments: 282",
+      "author": "",
+      "created_at": "Mon, 26 Oct 2026 17:56:55 +0000",
+      "metadata": {}
+    }
+  ]
+}

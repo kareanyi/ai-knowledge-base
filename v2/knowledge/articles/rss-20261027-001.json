@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261027-001",
+  "source": "rss",
+  "source_url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+  "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
+  "summary": "Wiz 报告称，PHP2Shell 漏洞目前尚未发现成功利用案例，受影响服务器的暴露面已下降 67%。这一变化表明相关漏洞的真实攻击风险可能低于早期预期，但暴露资产仍需持续监控和修复。",
+  "tech_stack": [
+    "PHP",
+    "CGI",
+    "Windows",
+    "Cloud Security",
+    "Threat Intelligence"
+  ],
+  "problem_solved": "评估 PHP2Shell 漏洞的实际利用状况，并通过暴露面下降数据帮助组织调整漏洞修复与安全防护优先级。",
+  "why_valuable": "为安全团队判断 PHP2Shell 的现实威胁和修复紧迫性提供基于真实暴露与利用数据的依据。",
+  "tags": [
+    "PHP",
+    "Vulnerability",
+    "Exploit",
+    "Exposure Management",
+    "Cybersecurity"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:52.862579+00:00",
+  "updated_at": "2026-10-27T14:14:01.216584+00:00",
+  "published_to": []
+}

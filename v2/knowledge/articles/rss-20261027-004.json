@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261027-004",
+  "source": "rss",
+  "source_url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+  "title": "Software may be getting worse, but it used to be horrible",
+  "summary": "文章探讨当代软件质量可能正在下降的现象，包括复杂度膨胀、可靠性降低、维护成本上升以及用户体验退化。作者同时将今天的软件与早期软件相比，强调“变差”是一种相对概念，早期软件的基础设施和开发体验曾经更加糟糕。",
+  "tech_stack": [],
+  "problem_solved": "通过比较历史与当代软件，解释软件质量下降为何容易被过去更糟糕的条件所掩盖，并为评估技术债务和复杂度问题提供历史视角。",
+  "why_valuable": "它促使开发者和决策者重新审视软件可靠性、复杂性与维护成本，避免因长期适应低质量工具链而忽视改进机会。",
+  "tags": [
+    "Software Quality",
+    "Technical Debt",
+    "Complexity",
+    "Software History"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:19.442877+00:00",
+  "updated_at": "2026-10-27T14:14:01.217166+00:00",
+  "published_to": []
+}

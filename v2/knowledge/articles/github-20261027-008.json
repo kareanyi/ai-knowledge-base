@@ -1,0 +1,27 @@
+{
+  "id": "github-20261027-008",
+  "source": "github",
+  "source_url": "https://github.com/hajisensai/Fushi",
+  "title": "hajisensai/Fushi",
+  "summary": "Fushi 是一款沉浸式语言学习套件，将 EPUB 阅读、视频字幕查询、有声书同步与一键生成 Anki 卡片整合在同一工作流中。项目支持 Android、Windows、macOS 和 iOS，旨在让用户围绕真实语言材料完成阅读、观看、听力与词汇复习。",
+  "tech_stack": [
+    "Dart",
+    "Flutter",
+    "EPUB",
+    "Anki"
+  ],
+  "problem_solved": "解决语言学习者需要跨多个工具阅读内容、查询字幕、同步有声书并制作生词卡片的流程割裂问题。",
+  "why_valuable": "通过将多模态语言输入与间隔重复记忆工具连接起来，Fushi 能降低查词和制卡成本，并提升真实语境中的学习效率。",
+  "tags": [
+    "Language Learning",
+    "EPUB",
+    "Anki",
+    "Immersive Learning",
+    "Cross-platform"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:47.227094+00:00",
+  "updated_at": "2026-10-27T14:14:01.216394+00:00",
+  "published_to": []
+}

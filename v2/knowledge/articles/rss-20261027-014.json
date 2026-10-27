@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261027-014",
+  "source": "rss",
+  "source_url": "https://github.com/otya128/winevdm",
+  "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+  "summary": "WineVDM 旨在让现代 64 位 Windows 系统能够运行依赖 16 位 Windows 环境的旧版应用。它通过整合 WoW64 支持、虚拟 DOS 机器与兼容层，扩展了 Wine 对 16 位程序的支持，为软件考古、遗留系统迁移和经典应用复现提供方案。",
+  "tech_stack": [
+    "Wine",
+    "WineVDM",
+    "WoW64",
+    "x86 Emulation",
+    "Windows API"
+  ],
+  "problem_solved": "解决 64 位 Windows 已移除原生 16 位执行环境后，旧版 DOS 与 Windows 16 位应用难以运行的问题。",
+  "why_valuable": "它使开发者和怀旧用户能够继续运行或维护无法迁移到现代操作系统的经典软件，同时降低虚拟化和兼容性研究成本。",
+  "tags": [
+    "Windows",
+    "Wine",
+    "Compatibility",
+    "Emulation",
+    "Retro Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-27T14:13:25.466404+00:00",
+  "updated_at": "2026-10-27T14:14:01.219170+00:00",
+  "published_to": []
+}

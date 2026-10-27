@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261027-006",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "title": "Wikipedia's Cleanup of AI-Generated Content",
+  "summary": "文章讨论维基百科如何识别、清理由人工智能生成的低质量或误导性内容，并介绍相关 WikiProject 在维护流程和社区协作中的作用。该议题凸显了开放知识平台在规模化 AI 写作普及后面临的内容质量、真实性与治理挑战。",
+  "tech_stack": [
+    "Wikipedia",
+    "MediaWiki",
+    "WikiProject",
+    "AI Writing Detection"
+  ],
+  "problem_solved": "通过建立分类、审查和清理机制，应对 AI 生成内容对维基百科准确性、原创性及可信度造成的影响。",
+  "why_valuable": "它为大型协作知识库应对自动化内容泛滥、验证来源并维护编辑规范提供了可借鉴的治理方案。",
+  "tags": [
+    "Wikipedia",
+    "AI Content",
+    "Content Cleanup",
+    "Knowledge Quality",
+    "Governance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:30.161872+00:00",
+  "updated_at": "2026-10-27T14:14:01.217542+00:00",
+  "published_to": []
+}

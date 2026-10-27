@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261027-013",
+  "source": "rss",
+  "source_url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+  "title": "I still teach OpenGL ES 3.0",
+  "summary": "文章探讨了作者在图形编程课程中继续教授 OpenGL ES 3.0 的原因。其核心观点很可能是强调掌握底层图形 API、渲染原理与现代图形工具之间的关系，并以教学实践说明经典技术的长期价值。",
+  "tech_stack": [
+    "OpenGL ES 3.0",
+    "C++",
+    "OpenGL",
+    "Graphics API"
+  ],
+  "problem_solved": "帮助学习者理解底层图形渲染原理，避免只会调用高层引擎或框架而缺乏对图形管线的基础掌握。",
+  "why_valuable": "OpenGL ES 3.0 的基础知识能够迁移到多种图形 API，并提升开发者排查渲染问题、理解 GPU 执行机制和优化图形应用的能力。",
+  "tags": [
+    "OpenGL",
+    "Graphics",
+    "C++",
+    "Game Development",
+    "Computer Graphics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-27T14:13:20.830524+00:00",
+  "updated_at": "2026-10-27T14:14:01.218884+00:00",
+  "published_to": []
+}

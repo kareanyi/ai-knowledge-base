@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261027-008",
+  "source": "rss",
+  "source_url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+  "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+  "summary": "文章称 Roblox 在未经许可的情况下，从 Open3D Lab 旗下网站批量下载了约 145GB 的模型，其中还包含成人内容。事件引发了关于训练数据抓取、版权授权、内容审核以及平台责任边界的讨论。",
+  "tech_stack": [
+    "Web Crawling",
+    "3D Models",
+    "Content Moderation"
+  ],
+  "problem_solved": "揭示 AI 与在线平台在未经授权抓取大规模内容时面临的版权、隐私和不当内容治理问题。",
+  "why_valuable": "该事件为数据授权、内容过滤和平台开发者的责任提供了具有警示意义的真实案例。",
+  "tags": [
+    "Roblox",
+    "Data Scraping",
+    "Copyright",
+    "Content Moderation",
+    "3D Models"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:41.430389+00:00",
+  "updated_at": "2026-10-27T14:14:01.217920+00:00",
+  "published_to": []
+}

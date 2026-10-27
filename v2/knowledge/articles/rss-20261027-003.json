@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261027-003",
+  "source": "rss",
+  "source_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+  "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+  "summary": "Apple 发布了搭载 M6 芯片的全新 14 英寸 MacBook Pro，面向需要兼顾便携性与专业计算性能的用户。由于提供的正文仅包含标题和链接，文章中关于芯片性能、系统功能及具体升级细节尚不明确。",
+  "tech_stack": [
+    "Apple M6",
+    "MacBook Pro",
+    "macOS"
+  ],
+  "problem_solved": "为需要高性能移动计算能力的用户解决专业工作负载与日常便携性之间的平衡问题。",
+  "why_valuable": "新一代 Apple 芯片与 14 英寸专业机型的结合有望提升移动设备的计算效率和使用体验。",
+  "tags": [
+    "Apple",
+    "MacBook Pro",
+    "M6",
+    "Laptop",
+    "Hardware"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:11.283103+00:00",
+  "updated_at": "2026-10-27T14:14:01.216975+00:00",
+  "published_to": []
+}

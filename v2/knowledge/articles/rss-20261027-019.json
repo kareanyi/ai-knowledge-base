@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261027-019",
+  "source": "rss",
+  "source_url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+  "title": "Oldest GUI application that still runs on Windows 11",
+  "summary": "文章探讨了目前仍能在 Windows 11 上运行的最早图形界面应用程序，重点展示其历史背景、兼容机制以及长期向后兼容的价值。现有输入仅包含标题、链接和讨论数据，未提供文章正文，因此具体应用与实现细节无法进一步确认。",
+  "tech_stack": [
+    "Windows 11",
+    "Win32 API",
+    "Legacy GUI",
+    "Backward Compatibility"
+  ],
+  "problem_solved": "验证并说明现代 Windows 系统仍能兼容运行数十年前创建的图形界面应用程序。",
+  "why_valuable": "它体现了 Windows 长期向后兼容的能力，也对软件遗产保护和技术演进研究具有参考价值。",
+  "tags": [
+    "Windows",
+    "Legacy Software",
+    "Backward Compatibility",
+    "GUI",
+    "Computing History"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-27T14:14:00.355938+00:00",
+  "updated_at": "2026-10-27T14:14:01.220189+00:00",
+  "published_to": []
+}

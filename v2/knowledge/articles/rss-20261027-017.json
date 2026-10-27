@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261027-017",
+  "source": "rss",
+  "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+  "title": "Three new discoveries in mathematics, computer science, and physics",
+  "summary": "文章介绍了数学、计算机科学与物理领域的三项新研究进展，体现了跨学科研究与学术社群协作对推动科学理解的重要性。内容还关联了关于“指数时间假设为假”的研究讨论，但所提供材料未包含三项发现的完整技术细节。",
+  "tech_stack": [
+    "OpenAI",
+    "Scientific Computing",
+    "Academic Research",
+    "Computational Complexity Theory"
+  ],
+  "problem_solved": "它通过汇集并解释学术领域的前沿发现，展示跨学科研究如何拓展数学、计算机科学和物理学中的既有认知边界。",
+  "why_valuable": "这些成果能够为复杂计算问题、科学理论演进及学术研究协作提供新的知识基础和方法启示。",
+  "tags": [
+    "Scientific Discovery",
+    "Mathematics",
+    "Computer Science",
+    "Physics",
+    "Academic Communities"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-27T14:13:45.206031+00:00",
+  "updated_at": "2026-10-27T14:14:01.219778+00:00",
+  "published_to": []
+}

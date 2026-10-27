@@ -1,0 +1,27 @@
+{
+  "id": "github-20261027-005",
+  "source": "github",
+  "source_url": "https://github.com/26hzhang/DL-NLP-Readings",
+  "title": "26hzhang/DL-NLP-Readings",
+  "summary": "这是一个汇集深度学习与自然语言处理领域论文的精选阅读清单，涵盖语言模型、常识推理、强化学习、机器人及视觉语言等研究方向。仓库以 TeX 和 BibTeX 为主，旨在帮助研究者和学习者系统追踪该领域的重要文献与代码资源。",
+  "tech_stack": [
+    "TeX",
+    "BibTeX",
+    "GitHub",
+    "LaTeX"
+  ],
+  "problem_solved": "解决深度学习与自然语言处理论文分散、检索和分类困难的问题，为相关学习与研究提供结构化文献索引。",
+  "why_valuable": "它整理了多个重要研究方向的高质量论文及配套资源，能够显著降低初学者和研究人员建立技术脉络与寻找文献的成本。",
+  "tags": [
+    "Deep Learning",
+    "NLP",
+    "Paper Collection",
+    "Language Models",
+    "Reinforcement Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:31.127444+00:00",
+  "updated_at": "2026-10-27T14:14:01.215789+00:00",
+  "published_to": []
+}

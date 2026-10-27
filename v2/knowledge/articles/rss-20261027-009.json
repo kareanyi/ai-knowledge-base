@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261027-009",
+  "source": "rss",
+  "source_url": "https://gforth.org/manual/1.0/NEWS.html",
+  "title": "Gforth 1.0",
+  "summary": "Gforth 1.0 是一份关于 GNU Forth 实现正式发布或达到 1.0 版本的发布说明。该页面用于记录此次版本更新的主要变化与项目里程碑，具体技术细节需参考原文。",
+  "tech_stack": [
+    "Forth",
+    "GNU",
+    "C"
+  ],
+  "problem_solved": "提供一个稳定、成熟的 GNU Forth 实现，方便开发者进行 Forth 语言编程、实验和系统扩展。",
+  "why_valuable": "1.0 版本通常意味着项目已达到稳定可用的重要里程碑，为生产环境和长期维护提供更可靠的软件基础。",
+  "tags": [
+    "Forth",
+    "Programming Language",
+    "Release Notes",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:52.390137+00:00",
+  "updated_at": "2026-10-27T14:14:01.218128+00:00",
+  "published_to": []
+}

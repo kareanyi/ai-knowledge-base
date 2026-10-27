@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261027-011",
+  "source": "rss",
+  "source_url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "title": "The Mythical Man-Month in the Age of AI",
+  "summary": "文章探讨《人月神话》的经典软件项目管理理论在生成式 AI 时代的适用性与局限性，重点关注 AI 如何改变开发效率、团队协作和项目进度预估。由于提供的内容仅包含标题、链接及社区讨论信息，具体技术方案与论证细节无法从现有材料中确认。",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Project Management",
+    "Developer Tools"
+  ],
+  "problem_solved": "重新评估传统人月理论在 AI 辅助开发环境中对团队效率、项目周期和人员规模的预测是否仍然成立。",
+  "why_valuable": "帮助技术管理者避免将 AI 简单等同于无限生产力，并据新工具特性重新设计团队与项目计划。",
+  "tags": [
+    "AI",
+    "Software Engineering",
+    "Project Management",
+    "Developer Productivity",
+    "Man-Month Myth"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-27T14:13:06.598055+00:00",
+  "updated_at": "2026-10-27T14:14:01.218509+00:00",
+  "published_to": []
+}

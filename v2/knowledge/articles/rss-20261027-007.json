@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261027-007",
+  "source": "rss",
+  "source_url": "https://oioannou.com/blog/ai-promised-less-work/",
+  "title": "AI promised less work. I've never worked more",
+  "summary": "文章围绕“AI 承诺减少工作，却让人们工作得更多”这一生产力悖论展开，探讨 AI 工具在自动化任务的同时可能如何增加协调、验证与监督成本。现有内容仅包含标题、链接及 Hacker News 的互动数据，因此无法确认文章提出的具体案例与结论。",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Generative AI",
+    "Productivity Automation"
+  ],
+  "problem_solved": "分析 AI 在实际工作场景中未能兑现减负预期、甚至制造额外工作负担的原因。",
+  "why_valuable": "它提醒团队不要仅以采用 AI 的数量衡量效率，而应关注工具引入后的净工作负荷、产出质量与流程成本。",
+  "tags": [
+    "AI",
+    "Productivity",
+    "Automation",
+    "Work",
+    "Future of Work"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:35.280277+00:00",
+  "updated_at": "2026-10-27T14:14:01.217726+00:00",
+  "published_to": []
+}

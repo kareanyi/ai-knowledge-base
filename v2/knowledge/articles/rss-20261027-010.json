@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261027-010",
+  "source": "rss",
+  "source_url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+  "title": "I will no longer upload to NEW",
+  "summary": "该文章宣布作者将停止向 Debian 的 NEW 队列上传软件包，表明其与 Debian 的软件提交流程或相关维护工作产生了分歧。由于提供的正文仅包含标题和讨论链接，具体原因未在内容中展开，但从 Debian 社区讨论的性质看，重点应围绕包上传、审核流程以及维护者与发行版团队之间的协作。",
+  "tech_stack": [
+    "Debian",
+    "APT",
+    "Debian Packaging",
+    "Debhelper",
+    "dpkg"
+  ],
+  "problem_solved": "讨论 Debian NEW 软件包上传流程中的维护责任、审核机制及社区协作问题。",
+  "why_valuable": "它反映了开放源代码发行版在维护者参与、流程治理和软件审核方面面临的真实挑战，对 Debian 打包者和社区决策者具有参考价值。",
+  "tags": [
+    "Debian",
+    "Packaging",
+    "NEW Queue",
+    "Open Source",
+    "Governance"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:59.827057+00:00",
+  "updated_at": "2026-10-27T14:14:01.218318+00:00",
+  "published_to": []
+}

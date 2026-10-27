@@ -1,0 +1,27 @@
+{
+  "id": "github-20261027-002",
+  "source": "github",
+  "source_url": "https://github.com/agavrel/42_CheatSheet",
+  "title": "agavrel/42_CheatSheet",
+  "summary": "这是一个面向 42 编程学校课程的综合学习指南，梳理严格 C 编程语言及其约 50 年的发展历程。内容以 Dennis Ritchie 的语言理念为核心，涵盖位运算、SDL2 和 SIMD 等主题，并通过多个 42 校区的学习资源帮助学生系统掌握 C。",
+  "tech_stack": [
+    "C",
+    "SDL2",
+    "SIMD",
+    "Bitwise Programming"
+  ],
+  "problem_solved": "为 42 编程学校学生提供结构化的 C 语言学习资料，连接基础知识、严格编程规范、底层优化与现代图形编程实践。",
+  "why_valuable": "它把语言历史、编程规范和实战主题集中整理在一起，能够帮助学习者建立扎实的 C 编程基础并理解底层计算原理。",
+  "tags": [
+    "C",
+    "Programming",
+    "42School",
+    "Bitwise",
+    "Computer Science"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:15.628917+00:00",
+  "updated_at": "2026-10-27T14:14:01.215195+00:00",
+  "published_to": []
+}

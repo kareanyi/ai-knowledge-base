@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261027-012",
+  "source": "rss",
+  "source_url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+  "title": "Writing about pratt parsing so I remember it",
+  "summary": "文章围绕 Pratt Parsing（优先级解析）展开，旨在通过写作梳理其设计与实现原理。现有内容仅提供标题、来源链接及讨论信息，未展示具体实现细节或示例。",
+  "tech_stack": [
+    "Pratt Parsing",
+    "Parsing",
+    "Programming Languages"
+  ],
+  "problem_solved": "帮助读者理解并记忆 Pratt Parsing 的工作方式，以更清晰地设计和实现支持运算符优先级与结合性的解析器。",
+  "why_valuable": "Pratt Parsing 能以较少的代码灵活处理复杂表达式语法，是构建编译器、解释器和 DSL 解析器的实用方法。",
+  "tags": [
+    "Parser",
+    "Pratt Parsing",
+    "Compiler",
+    "Parsing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-27T14:13:15.320722+00:00",
+  "updated_at": "2026-10-27T14:14:01.218694+00:00",
+  "published_to": []
+}

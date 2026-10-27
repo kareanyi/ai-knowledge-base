@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261027-005",
+  "source": "rss",
+  "source_url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+  "title": "Python's experimental JIT to be removed",
+  "summary": "文章讨论 Python 官方实现中实验性 JIT（Just-In-Time，即时编译）将被移除的决定。该机制曾用于探索提升 Python 执行性能的新路径，但实验结果表明其收益和维护成本不足以支持继续保留在 CPython 主线中。移除该功能意味着 CPython 将减少相关代码与维护负担，同时进一步巩固以解释器为核心的执行模式。",
+  "tech_stack": [
+    "Python",
+    "CPython",
+    "JIT",
+    "LLVM"
+  ],
+  "problem_solved": "通过移除收益有限且维护成本较高的实验性 JIT，简化 CPython 的代码库并降低长期维护复杂度。",
+  "why_valuable": "该决定帮助 CPython 聚焦于经过验证的优化方向，避免为尚未成熟且实际收益不确定的技术持续投入资源。",
+  "tags": [
+    "Python",
+    "CPython",
+    "JIT",
+    "Performance",
+    "Compiler"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-27T14:12:24.583597+00:00",
+  "updated_at": "2026-10-27T14:14:01.217351+00:00",
+  "published_to": []
+}

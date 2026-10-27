@@ -1,0 +1,27 @@
+{
+  "id": "github-20261027-006",
+  "source": "github",
+  "source_url": "https://github.com/ad-si/Coding-Flashcards",
+  "title": "ad-si/Coding-Flashcards",
+  "summary": "Coding-Flashcards is an open-source collection of more than 1,000 Markdown flashcards covering Rust, SQLite, Lua, C, Godot, and Wolfram Language from fundamental concepts. It includes conversion scripts for generating Anki decks or PDF files, making it suitable for systematic study and offline review.",
+  "tech_stack": [
+    "Rust",
+    "Markdown",
+    "Anki",
+    "PDF"
+  ],
+  "problem_solved": "It provides a structured, reusable set of programming flashcards to help learners build foundational knowledge across several technical languages and platforms.",
+  "why_valuable": "The repository combines broad, first-principles learning material with flexible export options for spaced-repetition study and printable reference.",
+  "tags": [
+    "Flashcards",
+    "Programming Education",
+    "Anki",
+    "Markdown",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:36.576506+00:00",
+  "updated_at": "2026-10-27T14:14:01.216002+00:00",
+  "published_to": []
+}

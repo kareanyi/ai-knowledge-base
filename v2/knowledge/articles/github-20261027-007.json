@@ -1,0 +1,28 @@
+{
+  "id": "github-20261027-007",
+  "source": "github",
+  "source_url": "https://github.com/mikeroyal/Machine-Learning-Guide",
+  "title": "mikeroyal/Machine-Learning-Guide",
+  "summary": "该 GitHub 项目是一份机器学习学习指南，汇集机器学习工具、库、框架、模型训练以及大语言模型相关资源。项目内容涵盖深度学习、生成式 AI、图像分类与处理等方向，并列举了 scikit-learn、PyTorch、JAX、AWS SageMaker 等技术。它适合希望系统了解机器学习生态并通过示例或工具入门的学习者。",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "scikit-learn",
+    "JAX",
+    "AWS SageMaker"
+  ],
+  "problem_solved": "为学习者提供机器学习与生成式 AI 相关的工具、框架和实践资源导航，降低系统入门与选择技术的成本。",
+  "why_valuable": "它以结构化方式汇总主流机器学习技术和模型资源，有助于快速建立知识框架并找到适合具体任务的学习路径。",
+  "tags": [
+    "Machine Learning",
+    "LLM",
+    "Deep Learning",
+    "Generative AI",
+    "Python"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:41.500900+00:00",
+  "updated_at": "2026-10-27T14:14:01.216198+00:00",
+  "published_to": []
+}

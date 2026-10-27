@@ -1,0 +1,27 @@
+{
+  "id": "github-20261027-004",
+  "source": "github",
+  "source_url": "https://github.com/mimno/Mallet",
+  "title": "mimno/Mallet",
+  "summary": "MALLET 是一个基于 Java 的统计自然语言处理工具包，涵盖文档分类、聚类、主题建模、信息抽取等文本机器学习任务。它为研究者和开发者提供了一套可直接用于文本分析与建模的 Java API 和算法实现。",
+  "tech_stack": [
+    "Java",
+    "MALLET",
+    "NLP",
+    "Machine Learning"
+  ],
+  "problem_solved": "简化文本分类、聚类、主题建模和信息抽取等统计 NLP 应用的开发与实验流程。",
+  "why_valuable": "它将多种成熟的文本机器学习算法整合在统一的 Java 框架中，便于快速构建和评估 NLP 系统。",
+  "tags": [
+    "NLP",
+    "Java",
+    "Topic Modeling",
+    "Text Classification",
+    "Machine Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:25.650566+00:00",
+  "updated_at": "2026-10-27T14:14:01.215596+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "github-20261027-001",
+  "source": "github",
+  "source_url": "https://github.com/baturyilmaz/wordpecker-app",
+  "title": "baturyilmaz/wordpecker-app",
+  "summary": "Wordpecker 是一款个性化语言学习应用，将类似 Duolingo 的互动课程与用户自建词汇表结合。用户可以从书籍、文章或视频中收集单词，并通过测验及大语言模型生成的课程进行复习，从而提升真实语境下的词汇学习效率。",
+  "tech_stack": [
+    "TypeScript",
+    "LLM",
+    "Interactive Quiz",
+    "Duolingo-style Lessons"
+  ],
+  "problem_solved": "解决传统语言学习应用内容通用、与用户实际阅读和兴趣词汇脱节的问题。",
+  "why_valuable": "通过将用户自选词汇与大语言模型生成的内容结合，让学习材料更贴合个人需求，并提高词汇记忆与长期保留效果。",
+  "tags": [
+    "Language Learning",
+    "Vocabulary",
+    "LLM",
+    "Personalization",
+    "Education"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-27T14:11:10.740585+00:00",
+  "updated_at": "2026-10-27T14:14:01.214869+00:00",
+  "published_to": []
+}
