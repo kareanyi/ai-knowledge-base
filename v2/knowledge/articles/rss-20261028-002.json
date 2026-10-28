@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261028-002",
+  "source": "rss",
+  "source_url": "https://cursor.com/blog/agent-sdk",
+  "title": "The Agent SDK",
+  "summary": "Cursor 介绍了其 Agent SDK，使开发者能够以编程方式调用与 Cursor 编程代理类似的能力，构建能够理解代码库、修改文件和执行开发任务的自动化代理。该 SDK 旨在降低复杂编码代理应用的集成门槛，并支持将其能力嵌入自定义工具和工作流。",
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "MCP",
+    "AI Agent"
+  ],
+  "problem_solved": "简化开发者构建、编排和集成自动化编程代理的流程。",
+  "why_valuable": "它允许团队将成熟的代理式编程能力直接嵌入内部工具、自动化流程和 AI 驱动的开发环境。",
+  "tags": [
+    "AI",
+    "Agent",
+    "SDK",
+    "Developer Tools",
+    "Automation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T14:59:25.697291+00:00",
+  "updated_at": "2026-10-28T15:01:52.556390+00:00",
+  "published_to": []
+}

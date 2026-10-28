@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261028-019",
+  "source": "rss",
+  "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "title": "Genie 4",
+  "summary": "Google DeepMind 介绍了 Genie 4，一种新一代生成式世界模型，可从现实世界数据学习并模拟可交互、动态发展的虚拟环境。其目标是为 AI 智能体训练、机器人仿真和具身智能研究提供可控且逼真的模拟基础。",
+  "tech_stack": [
+    "Generative AI",
+    "World Models",
+    "Video Generation",
+    "Reinforcement Learning",
+    "DeepMind"
+  ],
+  "problem_solved": "Genie 4 通过生成可交互的真实感世界环境，减少 AI 智能体训练对真实数据、昂贵物理实验和传统仿真器的依赖。",
+  "why_valuable": "高质量、动态且可交互的世界模拟有望显著提升智能体在复杂环境中学习、评估和泛化的能力，并加速具身智能研发。",
+  "tags": [
+    "World Model",
+    "Generative AI",
+    "Embodied AI",
+    "Simulation",
+    "Reinforcement Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-28T15:01:51.274599+00:00",
+  "updated_at": "2026-10-28T15:01:52.569932+00:00",
+  "published_to": []
+}

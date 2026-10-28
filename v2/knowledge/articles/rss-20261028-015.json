@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261028-015",
+  "source": "rss",
+  "source_url": "https://tailscale.com/ssh-investigation-update",
+  "title": "Tailscale SSH: Investigation and remediation update",
+  "summary": "文章对 Tailscale SSH 相关的安全问题或异常事件进行了调查说明，并介绍影响范围、修复措施及后续改进方案。现提供的内容仅包含标题、来源链接和 Hacker News 讨论信息，未展示具体事件细节与技术结论。",
+  "tech_stack": [
+    "Tailscale SSH",
+    "SSH",
+    "WireGuard",
+    "Go"
+  ],
+  "problem_solved": "针对 Tailscale SSH 中可能影响安全性的事件或缺陷，说明调查过程、风险范围与修复和缓解方案。",
+  "why_valuable": "公开调查与修复进展可帮助使用方评估风险、采取缓解措施，并提升零信任远程访问环境的安全可信度。",
+  "tags": [
+    "Security",
+    "SSH",
+    "Tailscale",
+    "Incident Response",
+    "Zero Trust"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:54.034450+00:00",
+  "updated_at": "2026-10-28T15:01:52.569231+00:00",
+  "published_to": []
+}

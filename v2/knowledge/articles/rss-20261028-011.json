@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261028-011",
+  "source": "rss",
+  "source_url": "https://emudhra.we-have-a-problem.com/apple.html",
+  "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+  "summary": "文章讨论 eMudhra 相关数字证书遭入侵或滥用后，macOS 系统中的 Git 在事发十天后仍继续信任受影响的证书。该问题暴露了操作系统证书信任状态更新延迟，以及依赖系统信任链的软件面临的供应链安全风险。",
+  "tech_stack": [
+    "macOS",
+    "Git",
+    "TLS/SSL",
+    "X.509",
+    "Apple Certificate Trust Store"
+  ],
+  "problem_solved": "分析并揭示受污染的 eMudhra 证书未被及时从 macOS 信任链中吊销，导致 Git 等开发工具仍可能接受不可信或恶意签名的内容。",
+  "why_valuable": "它提醒开发者和安全团队及时检查系统证书状态、吊销受污染证书并验证代码或内容签名，从而降低供应链攻击风险。",
+  "tags": [
+    "macOS",
+    "Git",
+    "Certificate Compromise",
+    "Supply Chain Security",
+    "PKI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:23.409223+00:00",
+  "updated_at": "2026-10-28T15:01:52.568429+00:00",
+  "published_to": []
+}

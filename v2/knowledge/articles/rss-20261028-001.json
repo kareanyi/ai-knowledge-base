@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261028-001",
+  "source": "rss",
+  "source_url": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
+  "title": "An architectural comparison of Obsidian Canvas and Heptabase",
+  "summary": "文章从架构角度比较 Obsidian Canvas 与 Heptabase，重点考察两款工具在可视化组织、知识建模和双向链接方面的设计差异。文章链接及少量社区讨论信息表明，它属于面向个人知识管理用户的工具选型与架构分析。",
+  "tech_stack": [
+    "Obsidian Canvas",
+    "Heptabase",
+    "Markdown",
+    "JSON Canvas",
+    "Personal Knowledge Management"
+  ],
+  "problem_solved": "帮助用户理解 Obsidian Canvas 与 Heptabase 的架构差异，并选择更适合可视化知识组织与卡片式思考的工作流。",
+  "why_valuable": "通过比较不同可视化笔记工具的数据模型与交互范式，为构建个人知识库和提升信息组织效率提供参考。",
+  "tags": [
+    "Obsidian",
+    "Heptabase",
+    "Canvas",
+    "PKM",
+    "Knowledge Management"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T14:59:19.983690+00:00",
+  "updated_at": "2026-10-28T15:01:52.556012+00:00",
+  "published_to": []
+}

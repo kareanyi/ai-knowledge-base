@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261028-003",
+  "source": "rss",
+  "source_url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+  "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+  "summary": "文章报道美国肯塔基州一名男性因人文主义宗教信仰获得免于使用人工智能的宗教豁免，成为首位获得此类豁免的人文主义者。该案例将AI使用、宗教自由与人文主义权利的交叉置于公共讨论之中，并附带一定的网络社区讨论热度。",
+  "tech_stack": [
+    "Artificial Intelligence"
+  ],
+  "problem_solved": "探讨如何在强制或间接要求使用AI的场景中保护个人基于宗教与哲学信仰拒绝使用AI的权利。",
+  "why_valuable": "这一先例为AI伦理、宗教自由和就业或公共服务中的技术使用边界提供了重要案例。",
+  "tags": [
+    "AI",
+    "Religion",
+    "Humanism",
+    "Exemption",
+    "AI Ethics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T14:59:32.725759+00:00",
+  "updated_at": "2026-10-28T15:01:52.556586+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261028-016",
+  "source": "rss",
+  "source_url": "https://www.brangus.io/survival-llm",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "summary": "Survival LLM 是一款可在个人计算机上运行的本地 AI 助手，同时充当离线应急知识库。它旨在通过自托管和离线访问，在网络不稳定或紧急情况下仍能提供可靠的信息支持。",
+  "tech_stack": [
+    "Local LLM",
+    "RAG",
+    "Offline-first",
+    "Self-hosted"
+  ],
+  "problem_solved": "解决紧急或断网场景下无法依赖云端 AI 服务获取关键信息的问题。",
+  "why_valuable": "本地运行可提升隐私、可用性和抗网络故障能力，使应急知识在灾难环境中仍可访问。",
+  "tags": [
+    "Local AI",
+    "Offline",
+    "Emergency",
+    "Self-hosted",
+    "RAG"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T15:01:04.212172+00:00",
+  "updated_at": "2026-10-28T15:01:52.569423+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261028-009",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+  "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+  "summary": "亚马逊拟以115.7亿美元收购卫星通信运营商Globalstar，以增强其卫星互联网能力并应对Starlink的竞争。此次交易反映大型科技公司正在加速整合轨道通信基础设施，以拓展全球宽带连接与卫星服务市场；但现有材料未提供交易条款及具体战略细节。",
+  "tech_stack": [
+    "Satellite Communications",
+    "Broadband Internet",
+    "Space Network",
+    "Globalstar",
+    "Starlink"
+  ],
+  "problem_solved": "通过收购成熟的卫星通信网络，亚马逊能够扩大全球连接覆盖并提升其卫星互联网业务的竞争力。",
+  "why_valuable": "卫星通信资产具有较高的进入壁垒，能够为亚马逊构建低轨宽带网络、拓展企业及偏远地区连接服务提供关键基础。",
+  "tags": [
+    "Amazon",
+    "Globalstar",
+    "Satellite Internet",
+    "Space",
+    "M&A"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:11.563019+00:00",
+  "updated_at": "2026-10-28T15:01:52.568020+00:00",
+  "published_to": []
+}

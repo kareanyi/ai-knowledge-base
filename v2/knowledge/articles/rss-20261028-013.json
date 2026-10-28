@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261028-013",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/early-progress-drug-development",
+  "title": "Early progress on accelerating drug development with Claude",
+  "summary": "Anthropic 介绍了使用 Claude 加速药物研发流程的早期研究成果，重点探索大语言模型在药物发现相关科研任务中的应用。该项目旨在缩短从生物学研究到候选药物设计所需的时间，并提升研究工作的效率与可扩展性。",
+  "tech_stack": [
+    "Claude",
+    "Anthropic",
+    "Large Language Models",
+    "Bioinformatics",
+    "Drug Discovery"
+  ],
+  "problem_solved": "通过将 Claude 应用于药物研发中的信息处理与研究任务，减少人工检索、分析和实验设计所需的时间。",
+  "why_valuable": "AI 辅助药物研发有望显著提高研发效率、缩短候选药物筛选周期，并支持更复杂任务的规模化探索。",
+  "tags": [
+    "AI",
+    "Drug Discovery",
+    "LLM",
+    "Biomedicine",
+    "Research Automation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:41.382955+00:00",
+  "updated_at": "2026-10-28T15:01:52.568802+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261028-010",
+  "source": "rss",
+  "source_url": "https://support.apple.com/en-us/149555",
+  "title": "About the compromised eMudhra intermediate CAs",
+  "summary": "该内容介绍 Apple 针对被入侵的 eMudhra 中间证书颁发机构（CA）所采取的安全措施，重点涉及受影响的证书信任与撤销处理。讨论还链接至 Hacker News 评论，以收集社区对证书体系 compromised 事件及影响范围的分析。",
+  "tech_stack": [
+    "Public Key Infrastructure",
+    "X.509",
+    "Certificate Revocation",
+    "eMudhra",
+    "Apple Security"
+  ],
+  "problem_solved": "说明中间 CA 被攻陷后如何识别、撤销并降低恶意或泄露证书对 Apple 生态系统及用户信任造成的风险。",
+  "why_valuable": "帮助用户和组织理解证书基础设施入侵的影响，并采取证书更新、信任检查和系统更新等缓解措施。",
+  "tags": [
+    "PKI",
+    "Certificate Authority",
+    "Cybersecurity",
+    "Incident Response",
+    "Apple"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:17.896359+00:00",
+  "updated_at": "2026-10-28T15:01:52.568224+00:00",
+  "published_to": []
+}

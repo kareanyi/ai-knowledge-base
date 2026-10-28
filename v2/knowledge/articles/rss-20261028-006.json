@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261028-006",
+  "source": "rss",
+  "source_url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+  "title": "Emacs Turns 50",
+  "summary": "文章回顾 Emacs 诞生 50 年来的发展历程，探讨这一经典文本编辑器在技术生态、程序员文化与计算机工具史中的持续影响。由于输入仅包含标题和讨论链接，文章的具体观点与案例无法进一步确认。",
+  "tech_stack": [
+    "Emacs",
+    "Emacs Lisp",
+    "GNU Emacs"
+  ],
+  "problem_solved": "Emacs 通过高度可扩展的编辑环境、强大的自动化能力和可定制工作流，解决了传统文本编辑器功能固定且难以适应不同开发需求的问题。",
+  "why_valuable": "Emacs 不仅是一款编辑器，其长期演进而形成的扩展文化和设计理念，对现代集成开发环境及开发者工具产生了深远影响。",
+  "tags": [
+    "Emacs",
+    "Editor",
+    "Developer Tools",
+    "Software History",
+    "Lisp"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T14:59:51.319598+00:00",
+  "updated_at": "2026-10-28T15:01:52.567280+00:00",
+  "published_to": []
+}

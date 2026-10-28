@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261028-008",
+  "source": "rss",
+  "source_url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+  "title": "Two high-speed trains collide near Toledo, Spain",
+  "summary": "报道西班牙托莱多附近两列高速列车相撞的突发新闻，并发布事故现场的首批影像资料。视频旨在呈现列车碰撞后的损毁情况及灾难性高铁事故的救援与调查背景。",
+  "tech_stack": [
+    "High-speed rail",
+    "Video journalism",
+    "News media"
+  ],
+  "problem_solved": "通过现场视频和即时报道向公众提供高速列车相撞事故的直观信息及事件进展。",
+  "why_valuable": "有助于公众快速了解重大交通事故的现场状况，并引发对高铁安全、应急响应和事故调查的关注。",
+  "tags": [
+    "High-Speed Rail",
+    "Train Crash",
+    "Spain",
+    "Toledo",
+    "Breaking News"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:04.156064+00:00",
+  "updated_at": "2026-10-28T15:01:52.567759+00:00",
+  "published_to": []
+}

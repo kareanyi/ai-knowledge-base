@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261028-014",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+  "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+  "summary": "该文章报道了一个存在于 UEFI 固件中的代码执行漏洞，可能影响全球大量服务器。由于 UEFI 属于系统启动早期且权限较高的底层组件，漏洞可能带来严重的安全风险，但所提供的内容未包含具体漏洞编号、攻击条件或受影响厂商。",
+  "tech_stack": [
+    "UEFI",
+    "Firmware Security",
+    "Server Hardware",
+    "Code Execution"
+  ],
+  "problem_solved": "揭示 UEFI 固件层面的代码执行风险，帮助组织评估并应对服务器底层固件攻击威胁。",
+  "why_valuable": "服务器固件漏洞往往影响范围广、利用权限高且常规软件防护难以覆盖，因此及时识别和修复对基础设施安全至关重要。",
+  "tags": [
+    "UEFI",
+    "Firmware",
+    "Server Security",
+    "Code Execution",
+    "Vulnerability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:47.623499+00:00",
+  "updated_at": "2026-10-28T15:01:52.569043+00:00",
+  "published_to": []
+}

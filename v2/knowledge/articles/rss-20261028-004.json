@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261028-004",
+  "source": "rss",
+  "source_url": "https://www.nasscad.com/NASSCAD_V4_7_0.htm",
+  "title": "Show HN: Nasscad – local-first 3D CAD for browser and Windows",
+  "summary": "Nasscad 是一款强调本地优先理念的 3D CAD 工具，主打浏览器端与 Windows 桌面端使用。其核心方向是让用户直接在本地创建和管理三维模型，同时兼顾网页平台的便捷性与原生应用的兼容性。",
+  "tech_stack": [
+    "Browser",
+    "Windows",
+    "JavaScript",
+    "WebAssembly"
+  ],
+  "problem_solved": "解决传统 3D CAD 软件依赖云端、跨平台访问不便以及本地数据控制不足的问题。",
+  "why_valuable": "通过浏览器与 Windows 双端支持和本地优先工作流，降低了三维建模的部署与协作门槛，并提升数据隐私和离线可用性。",
+  "tags": [
+    "3D CAD",
+    "Local-First",
+    "Browser",
+    "Windows",
+    "WebAssembly"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-28T14:59:39.824789+00:00",
+  "updated_at": "2026-10-28T15:01:52.556768+00:00",
+  "published_to": []
+}

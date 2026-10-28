@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261028-012",
+  "source": "rss",
+  "source_url": "https://lexifina.com/blog/git-for-the-us-code",
+  "title": "Git for the US Code",
+  "summary": "该文章介绍了将美国法典（US Code）置于 Git 版本控制之下的实践，使法律文本的修订历史可以像软件代码一样被追踪、比较和协作管理。通过版本化与结构化数据处理，项目能够提升法律研究的可审计性和透明度。",
+  "tech_stack": [
+    "Git",
+    "Python",
+    "XML",
+    "GitHub",
+    "Data Pipelines"
+  ],
+  "problem_solved": "解决美国法典长期缺乏清晰版本历史、导致法律文本变更难以追踪和比较的问题。",
+  "why_valuable": "为法律研究者、律师和政策分析人员提供可审计的立法演变记录，降低检索历史文本和识别条款修订的成本。",
+  "tags": [
+    "Legal Tech",
+    "Version Control",
+    "Git",
+    "US Code",
+    "Open Data"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-28T15:00:31.911017+00:00",
+  "updated_at": "2026-10-28T15:01:52.568616+00:00",
+  "published_to": []
+}
