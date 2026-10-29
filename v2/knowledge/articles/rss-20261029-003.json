@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261029-003",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+  "summary": "Mistral 宣布以“Le Chonk”为昵称的 Mistral Large 4 开放模型权重，使开发者可以自行下载、部署和评估该模型。此举降低了访问大型语言模型的门槛，并为私有化部署、模型定制及本地推理提供了更多选择。",
+  "tech_stack": [
+    "Mistral Large 4",
+    "Open Weight",
+    "LLM",
+    "Self-hosting"
+  ],
+  "problem_solved": "解决开发者和企业无法自由获取、部署及定制 Mistral 旗舰模型权重的问题。",
+  "why_valuable": "开放模型权重能够提升透明度与可控性，并支持离线部署、数据隐私保障及针对具体业务场景的微调。",
+  "tags": [
+    "LLM",
+    "Open Weight",
+    "Mistral",
+    "Self-hosting",
+    "Model Deployment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-29T15:04:25.341743+00:00",
+  "updated_at": "2026-10-29T15:06:30.579111+00:00",
+  "published_to": []
+}

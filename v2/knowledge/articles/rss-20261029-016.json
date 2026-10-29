@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261029-016",
+  "source": "rss",
+  "source_url": "https://divagr.com/blog/qwenputer",
+  "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+  "summary": "Qwenputer 展示了如何在 Qwen3.5 模型内部实现一个可运行且确定性的 RISC-V CPU，尝试将大语言模型与计算机架构、指令执行和硬件仿真结合起来。该项目为研究模型能否生成一致、可验证的计算系统提供了一个具体实验案例。",
+  "tech_stack": [
+    "Qwen3.5",
+    "RISC-V",
+    "CPU Architecture",
+    "Deterministic Simulation"
+  ],
+  "problem_solved": "它探索了大语言模型如何承载并执行一套确定性的指令集架构，从而连接自然语言模型与可验证的计算系统实现。",
+  "why_valuable": "这种方案有助于评估大模型在底层系统设计、指令执行和可复现计算方面的能力，并为模型驱动的架构探索与教育提供原型。",
+  "tags": [
+    "AI",
+    "RISC-V",
+    "CPU",
+    "Architecture",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-29T15:06:01.519473+00:00",
+  "updated_at": "2026-10-29T15:06:30.587960+00:00",
+  "published_to": []
+}

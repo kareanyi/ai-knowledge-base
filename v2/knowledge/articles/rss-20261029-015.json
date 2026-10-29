@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261029-015",
+  "source": "rss",
+  "source_url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+  "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+  "summary": "文章聚焦于利用纯逻辑漏洞，为 Microsoft Edge 构建一条完整的浏览器攻击链。由于当前仅提供标题、链接及社区讨论元数据，文章采用的具体漏洞、攻击步骤与影响范围尚无法确认。",
+  "tech_stack": [
+    "Microsoft Edge"
+  ],
+  "problem_solved": "探索如何仅依靠浏览器逻辑缺陷串联利用，从而实现对 Microsoft Edge 的完整攻击链。",
+  "why_valuable": "它为复杂浏览器漏洞的组合利用与防御分析提供了高级实战案例，但具体技术细节仍需阅读原文确认。",
+  "tags": [
+    "Browser Security",
+    "Microsoft Edge",
+    "Exploit Chain",
+    "Logic Bugs",
+    "Cybersecurity"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:55.263503+00:00",
+  "updated_at": "2026-10-29T15:06:30.587870+00:00",
+  "published_to": []
+}

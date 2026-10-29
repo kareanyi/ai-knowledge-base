@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261029-014",
+  "source": "rss",
+  "source_url": "https://smsofdeath.com/",
+  "title": "Zero click, silent, remote Android DoS",
+  "summary": "文章介绍了一种针对 Android 的零点击远程拒绝服务攻击：攻击者发送特制移动消息即可触发系统电话处理链路中的缺陷，使设备进入不可用状态。该类攻击无需受害者交互，且可能缺少明显的视觉提示，因此对高可靠性和安全敏感场景构成风险。",
+  "tech_stack": [
+    "Android",
+    "AOSP",
+    "RIL",
+    "SMS",
+    "Telephony"
+  ],
+  "problem_solved": "揭示并复现了特制移动消息能够绕过用户交互、远程触发 Android 设备拒绝服务的安全问题。",
+  "why_valuable": "它证明了移动消息解析层仍是可被远程利用的攻击面，有助于厂商修复漏洞并改进异常检测、输入校验和系统加固机制。",
+  "tags": [
+    "Android",
+    "Security",
+    "DoS",
+    "Zero-Click",
+    "SMS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:50.118996+00:00",
+  "updated_at": "2026-10-29T15:06:30.587782+00:00",
+  "published_to": []
+}

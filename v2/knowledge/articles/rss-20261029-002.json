@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261029-002",
+  "source": "rss",
+  "source_url": "https://github.com/owls-on-wires/keplearn",
+  "title": "Keplearn: Extract Equations from Data in Seconds",
+  "summary": "Keplearn 是一个旨在从数据中自动提取数学方程式的工具，主打快速建模与关系发现。现有内容仅提供 GitHub 仓库及 Hacker News 链接，未展示具体算法、实现语言、使用示例或性能指标。",
+  "tech_stack": [
+    "Python",
+    "Symbolic Regression",
+    "Equation Discovery",
+    "Machine Learning"
+  ],
+  "problem_solved": "它通过从观测数据中自动发现可解释的数学关系，减少人工拟合方程和选择模型形式的工作量。",
+  "why_valuable": "自动提取简洁、可解释的方程有助于提升科学分析、模型发现和复杂系统关系建模的效率。",
+  "tags": [
+    "Symbolic Regression",
+    "Equation Discovery",
+    "Machine Learning",
+    "Data Analysis",
+    "Open Source"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-29T15:04:20.048905+00:00",
+  "updated_at": "2026-10-29T15:06:30.578993+00:00",
+  "published_to": []
+}

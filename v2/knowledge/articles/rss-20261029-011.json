@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261029-011",
+  "source": "rss",
+  "source_url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+  "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+  "summary": "该报道称，美国在仅三个月内新增了创纪录的20.2 GWh电池储能容量，反映出储能市场正以空前速度扩张。内容重点聚焦美国电池储能装机增长及其对能源基础设施转型的意义。",
+  "tech_stack": [
+    "Battery Energy Storage",
+    "Lithium-ion Batteries",
+    "Power Grid",
+    "Renewable Energy"
+  ],
+  "problem_solved": "通过部署大规模电池储能系统，缓解可再生能源并网波动并提升电网供电灵活性与稳定性。",
+  "why_valuable": "创纪录的储能增长表明美国正加速建设支撑新能源电网和电气化需求的关键基础设施。",
+  "tags": [
+    "Energy Storage",
+    "Battery",
+    "Power Grid",
+    "Clean Energy",
+    "Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:20.419632+00:00",
+  "updated_at": "2026-10-29T15:06:30.587514+00:00",
+  "published_to": []
+}

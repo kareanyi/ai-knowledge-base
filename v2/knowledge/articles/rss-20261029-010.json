@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261029-010",
+  "source": "rss",
+  "source_url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+  "title": "Google determines the names for bodies of water in Google Earth (2008)",
+  "summary": "文章介绍 Google Earth 中水域名称的确定方式，说明地理名称来自哪些权威数据源，以及 Google 如何处理拼写、翻译、别名和本地化显示。通过结合地理数据、名称规则与地图展示，为用户提供更准确且符合当地习惯的地图标注。",
+  "tech_stack": [
+    "Google Earth",
+    "GIS",
+    "Google Maps",
+    "GeoNames",
+    "Geospatial Data"
+  ],
+  "problem_solved": "解决地图中水体名称来源不一致、拼写错误及缺少本地化名称的问题。",
+  "why_valuable": "统一的命名和校验机制能够提升 Google Earth 地图标注的可信度、可用性与国际化体验。",
+  "tags": [
+    "Google Earth",
+    "Geospatial",
+    "GIS",
+    "Map Labels",
+    "Geographic Names"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:15.448339+00:00",
+  "updated_at": "2026-10-29T15:06:30.587424+00:00",
+  "published_to": []
+}

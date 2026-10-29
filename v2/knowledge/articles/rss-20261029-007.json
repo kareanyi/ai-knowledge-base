@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261029-007",
+  "source": "rss",
+  "source_url": "https://text.npr.org/nx-s1-6021497",
+  "title": "Hackers expose the identities of more than 40k DHS employees",
+  "summary": "报道称，黑客泄露了美国国土安全部（DHS）超过4万名员工的身份信息，凸显了政府机构面临的网络安全与个人数据保护风险。现有内容仅提供报道链接和讨论数据，未包含泄露方式、数据类型或事件细节。",
+  "tech_stack": [],
+  "problem_solved": "该事件本身并非技术解决方案，而是揭示并引发对大规模政府员工数据泄露及隐私保护问题的关注。",
+  "why_valuable": "大规模身份信息泄露可能助长网络钓鱼、身份冒用和针对性攻击，并促使机构加强数据安全与事件响应措施。",
+  "tags": [
+    "Cybersecurity",
+    "Data Breach",
+    "Privacy",
+    "DHS",
+    "Hacking"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-29T15:04:54.891645+00:00",
+  "updated_at": "2026-10-29T15:06:30.587123+00:00",
+  "published_to": []
+}

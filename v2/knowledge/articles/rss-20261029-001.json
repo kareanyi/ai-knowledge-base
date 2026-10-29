@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261029-001",
+  "source": "rss",
+  "source_url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+  "title": "DoorDash is acquiring Instacart for $17B",
+  "summary": "DoorDash 宣布以 170 亿美元收购 Instacart，进一步扩展其业务至 groceries and grocery delivery 领域。此次交易反映 DoorDash 正通过大型并购整合本地配送网络、商家资源与消费者需求。原文未披露具体技术架构、整合方案或交易完成时间表。",
+  "tech_stack": [],
+  "problem_solved": "通过收购 Instacart，DoorDash 旨在补足超市配送能力并拓展其本地生活服务版图。",
+  "why_valuable": "这项大型交易可能强化 DoorDash 在杂货配送市场的竞争力，并为其用户提供更完整的零售和配送服务。",
+  "tags": [
+    "DoorDash",
+    "Instacart",
+    "Acquisition",
+    "Grocery Delivery",
+    "E-commerce"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-29T15:04:13.507068+00:00",
+  "updated_at": "2026-10-29T15:06:30.578684+00:00",
+  "published_to": []
+}

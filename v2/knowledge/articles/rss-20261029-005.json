@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261029-005",
+  "source": "rss",
+  "source_url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+  "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+  "summary": "文章称 Gemini 4 Carbon 已在 Artificial Analysis Intelligence Index v5 中升至第一名，成为该基准榜单上排名最高的模型。文章通过 Artificial Analysis 的模型评测数据展示其智能水平表现，并附带 Hacker News 社区讨论链接。",
+  "tech_stack": [
+    "Gemini 4 Carbon",
+    "Artificial Analysis Intelligence Index v5",
+    "LLM Benchmarking",
+    "Hacker News"
+  ],
+  "problem_solved": "通过统一基准测试和排行榜帮助用户比较主流大语言模型的智能能力与相对排名。",
+  "why_valuable": "为模型选型、性能评估和行业趋势判断提供简洁且可参考的量化依据。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Benchmark",
+    "Gemini",
+    "Model Ranking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-29T15:04:42.441700+00:00",
+  "updated_at": "2026-10-29T15:06:30.586916+00:00",
+  "published_to": []
+}

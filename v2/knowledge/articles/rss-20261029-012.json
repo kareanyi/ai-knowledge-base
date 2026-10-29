@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261029-012",
+  "source": "rss",
+  "source_url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+  "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+  "summary": "该文章披露了一条名为 PHP2Shell 的链式漏洞利用攻击，已成功入侵并获取 25 台服务器的高权限账户。受影响范围包括美国政府服务器，事件凸显了 PHP CGI 参数注入漏洞在真实攻击中的可利用性及关键基础设施面临的风险。",
+  "tech_stack": [
+    "PHP",
+    "PHP CGI",
+    "Windows",
+    "Command Shell"
+  ],
+  "problem_solved": "文章通过披露并分析 PHP2Shell 链式漏洞利用及其真实入侵影响，帮助安全团队识别暴露的 PHP CGI 服务、修补漏洞并排查服务器失陷迹象。",
+  "why_valuable": "该事件提供了涉及政府资产的实际攻击证据，有助于组织评估暴露面、验证入侵检测能力并优先处置可被远程利用的 PHP 服务器。",
+  "tags": [
+    "PHP",
+    "Exploit",
+    "Cybersecurity",
+    "Server Compromise",
+    "CVE"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:27.952627+00:00",
+  "updated_at": "2026-10-29T15:06:30.587606+00:00",
+  "published_to": []
+}

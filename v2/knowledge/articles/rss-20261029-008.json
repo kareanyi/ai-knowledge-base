@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261029-008",
+  "source": "rss",
+  "source_url": "https://iptrust.co/blog/if-ipv4-were-land",
+  "title": "If IPv4 Were Land",
+  "summary": "文章以“如果 IPv4 是土地”为隐喻，讨论 IPv4 地址空间有限、分配逐渐耗尽，以及向 IPv6 过渡的必要性。内容结合 Hacker News 的讨论热度，聚焦互联网协议升级和全球地址资源分配的可持续性。",
+  "tech_stack": [
+    "IPv4",
+    "IPv6",
+    "TCP/IP",
+    "BGP",
+    "DNS"
+  ],
+  "problem_solved": "解释 IPv4 地址空间耗尽带来的网络扩展瓶颈，并说明升级到 IPv6 的紧迫性。",
+  "why_valuable": "通过清晰的类比帮助读者理解互联网基础设施面临的长期地址稀缺问题及其对网络部署的影响。",
+  "tags": [
+    "IPv4",
+    "IPv6",
+    "Networking",
+    "Internet Infrastructure",
+    "IP Address"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:00.628935+00:00",
+  "updated_at": "2026-10-29T15:06:30.587217+00:00",
+  "published_to": []
+}

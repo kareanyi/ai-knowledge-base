@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261029-019",
+  "source": "rss",
+  "source_url": "https://nullpt.rs/fingerprinting-bioweapons",
+  "title": "Why is this fingerprinting script creating bioweapons?",
+  "summary": "文章探讨一个指纹识别脚本为何会被认为是在创建生物武器，重点可能涉及对自动化检测行为、误报或安全工具分类的质疑。当前提供的信息仅包含标题、链接及社区讨论数据，未包含脚本实现和具体技术细节，因此无法确认其实际功能与结论。",
+  "tech_stack": [
+    "Scripting",
+    "Fingerprinting",
+    "Security Research"
+  ],
+  "problem_solved": "分析指纹识别脚本与高风险自动化行为之间的误判或归类问题，帮助读者理解其为何可能引发类似“生物武器”的安全警报。",
+  "why_valuable": "该主题揭示了安全检测、行为指纹与潜在滥用风险之间的边界，对理解自动化系统中的误报和安全分类具有参考价值。",
+  "tags": [
+    "Fingerprinting",
+    "Security",
+    "Automation",
+    "False Positives"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-29T15:06:29.364747+00:00",
+  "updated_at": "2026-10-29T15:06:30.588226+00:00",
+  "published_to": []
+}

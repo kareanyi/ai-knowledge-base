@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261029-017",
+  "source": "rss",
+  "source_url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+  "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+  "summary": "该文章披露了 GitLab 遭受一次利用 CVE-2026-97229 的攻击尝试，并分析了事件经过、漏洞影响及可能的安全后果。内容还涉及 Alpine Linux 对该安全事件的公开说明，以及社区在 Hacker News 上的讨论反馈。",
+  "tech_stack": [
+    "GitLab",
+    "CVE",
+    "Alpine Linux",
+    "Security Monitoring"
+  ],
+  "problem_solved": "通报并分析 GitLab 针对 CVE-2026-97229 漏洞的攻击尝试，帮助相关组织评估风险并采取缓解措施。",
+  "why_valuable": "公开漏洞利用活动有助于安全团队及时识别暴露面、排查入侵迹象并加强 GitLab 部署防护。",
+  "tags": [
+    "Security",
+    "GitLab",
+    "CVE",
+    "Incident Response",
+    "Vulnerability"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-29T15:06:05.626106+00:00",
+  "updated_at": "2026-10-29T15:06:30.588050+00:00",
+  "published_to": []
+}

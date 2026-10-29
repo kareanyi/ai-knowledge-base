@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261029-009",
+  "source": "rss",
+  "source_url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+  "title": "NetBSD adds a new beginner-friendly text editor called atto",
+  "summary": "NetBSD 新增了一款名为 atto 的文本编辑器，重点面向初学者，目标是提供简单易用的命令行文本编辑体验。文章发布于 NetBSD 官方 Mastodon 账号，并引发了一定的社区讨论。",
+  "tech_stack": [
+    "NetBSD",
+    "atto",
+    "Unix"
+  ],
+  "problem_solved": "为 NetBSD 用户提供一款更易上手的轻量级命令行文本编辑器，降低初学者使用终端编辑文本的门槛。",
+  "why_valuable": "友好的编辑器能够降低新用户学习 Unix 命令行环境的成本，同时丰富 NetBSD 的基础工具生态。",
+  "tags": [
+    "NetBSD",
+    "Text Editor",
+    "Beginner Friendly",
+    "Unix",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:05.946836+00:00",
+  "updated_at": "2026-10-29T15:06:30.587327+00:00",
+  "published_to": []
+}

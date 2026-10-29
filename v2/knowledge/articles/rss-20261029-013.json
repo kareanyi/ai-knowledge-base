@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261029-013",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+  "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+  "summary": "文章记录了一次利用生成式 AI 撰写虚构科学论文的实验，旨在观察这种内容能否通过学术出版与同行评审流程。结果揭示了 AI 辅助内容在科研写作和论文审核中的实际表现，以及现有审查机制可能存在的漏洞。",
+  "tech_stack": [
+    "Generative AI",
+    "Large Language Models",
+    "Natural Language Processing",
+    "Academic Publishing",
+    "Peer Review"
+  ],
+  "problem_solved": "通过真实投稿实验评估 AI 生成的虚假科学论文能否被编辑和同行评审识别。",
+  "why_valuable": "该实验有助于科研机构、期刊和审稿人了解生成式 AI 对学术诚信、出版流程及同行评审可靠性的潜在影响。",
+  "tags": [
+    "AI",
+    "Academic Integrity",
+    "Scientific Writing",
+    "Peer Review",
+    "Fake Papers"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-29T15:05:39.356739+00:00",
+  "updated_at": "2026-10-29T15:06:30.587693+00:00",
+  "published_to": []
+}
