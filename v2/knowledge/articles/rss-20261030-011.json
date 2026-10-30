@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261030-011",
+  "source": "rss",
+  "source_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "summary": "文章关注发布在 Cursor Marketplace 上的 Claude Code for VS Code 扩展被植入后门的安全事件，并分析该官方扩展遭供应链污染的影响。由于提供的正文仅包含标题、来源链接及社区讨论信息，无法确认具体恶意代码、攻击入口和受影响范围。",
+  "tech_stack": [
+    "Claude Code",
+    "Visual Studio Code",
+    "Cursor",
+    "VS Code Extensions"
+  ],
+  "problem_solved": "揭示并评估 Claude Code 的 VS Code 扩展因供应链安全问题而包含后门所带来的风险。",
+  "why_valuable": "该事件提醒开发者审查第三方扩展和发布渠道，并通过最小权限、版本核验及恶意代码检测降低开发环境被入侵的风险。",
+  "tags": [
+    "Supply Chain Security",
+    "Backdoor",
+    "VS Code",
+    "Claude Code",
+    "Cursor"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-30T14:58:16.784970+00:00",
+  "updated_at": "2026-10-30T14:59:13.642660+00:00",
+  "published_to": []
+}

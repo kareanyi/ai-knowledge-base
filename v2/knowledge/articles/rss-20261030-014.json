@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261030-014",
+  "source": "rss",
+  "source_url": "https://cormacmccarthy.lib.utk.edu/",
+  "title": "Cormac McCarthy's Library",
+  "summary": "这是田纳西大学诺克斯维尔分校建设的科马克·麦卡锡数字资料库，集中展示与这位美国作家相关的档案、手稿、通信、照片及研究资源。项目为文学研究者、编辑和爱好者提供了一站式的一手材料入口，有助于深入研究麦卡锡的创作过程与文学成就。",
+  "tech_stack": [
+    "HTML",
+    "JavaScript",
+    "Static Web"
+  ],
+  "problem_solved": "解决科马克·麦卡锡相关珍贵文献分散保存、检索困难以及研究者获取一手资料不便的问题。",
+  "why_valuable": "它把具有较高文学和历史价值的一手档案集中数字化并开放访问，能够支持学术研究、文本考证和公众阅读。",
+  "tags": [
+    "Digital Archive",
+    "Cormac McCarthy",
+    "Literary Research",
+    "University Library",
+    "Digital Humanities"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-30T14:58:33.307778+00:00",
+  "updated_at": "2026-10-30T14:59:13.642943+00:00",
+  "published_to": []
+}

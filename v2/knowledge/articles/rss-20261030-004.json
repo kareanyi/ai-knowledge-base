@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261030-004",
+  "source": "rss",
+  "source_url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+  "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+  "summary": "文章聚焦一次据称规模达63亿美元、仅用20分钟即可实施的币安（Binance）攻击，揭示攻击者如何在极短时间内完成利用并造成巨额资金风险。内容重点应涉及攻击流程、加密交易平台安全机制、链上资金追踪以及事件暴露出的系统性漏洞。",
+  "tech_stack": [
+    "Binance",
+    "Blockchain",
+    "Cryptocurrency",
+    "Smart Contracts",
+    "Cybersecurity"
+  ],
+  "problem_solved": "分析币安相关攻击的实施路径与漏洞机制，以帮助加密平台识别并防御类似的大规模资产盗取风险。",
+  "why_valuable": "该事件凸显了加密资产平台攻击的高速度与高损失风险，对交易所安全审计、实时监控和链上应急响应具有重要参考价值。",
+  "tags": [
+    "Binance",
+    "Crypto Hack",
+    "Blockchain Security",
+    "Smart Contracts",
+    "Incident Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-30T14:57:27.236703+00:00",
+  "updated_at": "2026-10-30T14:59:13.641913+00:00",
+  "published_to": []
+}

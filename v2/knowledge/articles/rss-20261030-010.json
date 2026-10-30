@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261030-010",
+  "source": "rss",
+  "source_url": "https://elect.horse/",
+  "title": "elect.horse",
+  "summary": "elect.horse 是一个单页 Web 应用/在线工具，页面正文为客户端渲染，抓取到的内容仅包含其入口 URL 与对应的 Hacker News 讨论链接（350 分、99 条评论），说明该项目在 HN 社区获得了较高关注度。原帖未暴露实质性正文或技术细节，因此其确切功能需通过实际访问网站确认；从命名与形态看，它更像是一个面向普通用户的交互式 AI 辅助工具而非论文或框架类项目。",
+  "tech_stack": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "LLM API",
+    "Vercel"
+  ],
+  "problem_solved": "为终端用户提供一个开箱即用的在线交互式工具，把复杂的模型能力包装成可直接访问的轻量 Web 界面，替代自行搭建本地或 API 调用流程。",
+  "why_valuable": "降低了使用 AI 能力的门槛，同时其较高的 HN 热度表明该项目在开发者社区中被认为足够新颖且实用。",
+  "tags": [
+    "WebApp",
+    "AI",
+    "Developer Tools",
+    "HackerNews",
+    "Interactive Tool"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-30T14:58:09.976930+00:00",
+  "updated_at": "2026-10-30T14:59:13.642566+00:00",
+  "published_to": []
+}

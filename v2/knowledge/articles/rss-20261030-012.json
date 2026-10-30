@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261030-012",
+  "source": "rss",
+  "source_url": "https://www.workatastartup.com/jobs/98722",
+  "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+  "summary": "Wasmer, a Y Combinator S19 startup, is hiring operating system and hypervisor experts in Europe. The posting appears to focus on building low-level systems expertise, likely connected to Wasmer's WebAssembly runtime technology, but the provided content contains limited job details.",
+  "tech_stack": [
+    "WebAssembly",
+    "Operating Systems",
+    "Hypervisors",
+    "Systems Programming"
+  ],
+  "problem_solved": "Wasmer is seeking specialized OS and hypervisor expertise to advance its systems and runtime infrastructure.",
+  "why_valuable": "OS and hypervisor specialists are crucial for improving runtime performance, isolation, compatibility, and deployment across complex computing environments.",
+  "tags": [
+    "WebAssembly",
+    "Hypervisor",
+    "Operating Systems",
+    "Hiring",
+    "Systems Programming"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-30T14:58:21.151165+00:00",
+  "updated_at": "2026-10-30T14:59:13.642748+00:00",
+  "published_to": []
+}

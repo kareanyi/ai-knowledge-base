@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261030-007",
+  "source": "rss",
+  "source_url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+  "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+  "summary": "文章声称，Anthropic 的 Claude Code VS Code 扩展遭到入侵，并通过 Cursor 市场分发了可远程访问开发者电脑的木马。该事件聚焦软件供应链攻击、恶意扩展伪装以及开发环境中的凭据与代码泄露风险。",
+  "tech_stack": [
+    "Claude Code",
+    "VS Code",
+    "Cursor Marketplace",
+    "Remote Access Trojan"
+  ],
+  "problem_solved": "揭示并分析恶意 VS Code 扩展利用软件供应链渠道对开发者设备实施远程入侵的安全风险。",
+  "why_valuable": "该事件提醒开发者和平台运营者审查扩展来源、验证发布流程，并加强开发环境与扩展市场的安全防护。",
+  "tags": [
+    "Supply Chain Attack",
+    "VS Code",
+    "Backdoor",
+    "Cybersecurity",
+    "RAT"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-30T14:57:48.643038+00:00",
+  "updated_at": "2026-10-30T14:59:13.642280+00:00",
+  "published_to": []
+}

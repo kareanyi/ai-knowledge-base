@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261030-015",
+  "source": "rss",
+  "source_url": "https://github.com/mottopanikeiku/doomformer",
+  "title": "Show HN: I Turned DOOM into a Transformer",
+  "summary": "DOOMFORMER 将 DOOM 游戏引擎及其中的巫毒娃娃机制作为张量运算环境，利用游戏逻辑实现 Transformer 所需的核心数学操作。它还能对 MNIST 手写数字进行分类，展示了用图灵完备游戏系统替代传统数值计算库的实验性可能。",
+  "tech_stack": [
+    "DOOM",
+    "Transformer",
+    "NumPy",
+    "MNIST"
+  ],
+  "problem_solved": "探索使用 DOOM 游戏机制实现神经网络张量运算与模型训练，替代传统 NumPy 式数值计算流程。",
+  "why_valuable": "该项目以极具创意的方式验证了游戏引擎的可编程性与图灵完备性，并为交互式神经网络实验和游戏驱动的 AI 工具提供了新思路。",
+  "tags": [
+    "Transformer",
+    "DOOM",
+    "Neural Network",
+    "MNIST",
+    "Creative Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-30T14:58:40.082113+00:00",
+  "updated_at": "2026-10-30T14:59:13.643031+00:00",
+  "published_to": []
+}

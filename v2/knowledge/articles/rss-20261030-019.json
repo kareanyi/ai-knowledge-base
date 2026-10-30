@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261030-019",
+  "source": "rss",
+  "source_url": "https://github.com/SheepSeb/tinyworldformer",
+  "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+  "summary": "该项目 tinyworldformer 将一个微型世界模型部署到 Raspberry Pi Pico 2 W，使设备能够直接在本地运行游戏环境并进行状态预测或决策。仓库与讨论聚焦于在资源极其受限的嵌入式硬件上实现轻量级世界模型，展示了边缘 AI 与具身智能实验的可行性。",
+  "tech_stack": [
+    "Raspberry Pi Pico 2 W",
+    "RP2350",
+    "C/C++",
+    "TinyML",
+    "World Models"
+  ],
+  "problem_solved": "它探索了如何在算力、内存和功耗受限的微型嵌入式设备上运行用于游戏环境预测与决策的世界模型。",
+  "why_valuable": "该实现降低了运行神经网络世界模型的硬件门槛，并为机器人、边缘设备和低功耗自主系统提供了轻量化的技术参考。",
+  "tags": [
+    "World Models",
+    "Edge AI",
+    "TinyML",
+    "Raspberry Pi",
+    "Reinforcement Learning"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-30T14:59:08.208178+00:00",
+  "updated_at": "2026-10-30T14:59:13.643375+00:00",
+  "published_to": []
+}

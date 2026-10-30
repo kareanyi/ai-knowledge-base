@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261030-009",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+  "title": "How Do You Take a Picture of a Black Hole?",
+  "summary": "文章探讨科学家如何突破单台望远镜的观测极限，利用全球望远镜网络对黑洞进行“摄影”。其重点在于射电望远镜干涉技术、计算机成像以及从海量观测数据中重建黑洞阴影的过程。",
+  "tech_stack": [
+    "Radio Astronomy",
+    "Event Horizon Telescope",
+    "Very Long Baseline Interferometry",
+    "Aperture Synthesis Imaging"
+  ],
+  "problem_solved": "通过联合全球射电望远镜并处理高分辨率观测数据，使科学家能够生成黑洞及其周围吸积环的影像。",
+  "why_valuable": "这种成像方法让人类首次能够以直接观测证据验证广义相对论对黑洞外观的预测。",
+  "tags": [
+    "Black Hole",
+    "Astrophysics",
+    "Radio Telescope",
+    "Interferometry",
+    "Astronomy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-30T14:58:04.034600+00:00",
+  "updated_at": "2026-10-30T14:59:13.642473+00:00",
+  "published_to": []
+}

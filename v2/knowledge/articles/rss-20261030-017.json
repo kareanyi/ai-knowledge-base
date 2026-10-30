@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261030-017",
+  "source": "rss",
+  "source_url": "https://labs.ycombinator.com/projects/games/index.html",
+  "title": "We ran AI agent swarms in Minecraft and Mindustry",
+  "summary": "该项目探索了由多个 AI 智能体组成的群体在《Minecraft》和《Mindustry》等沙盒与策略游戏中协作运行。文章展示了智能体集群在开放环境中的行为、竞争或资源管理能力，并引发了对多智能体系统实际表现的讨论。",
+  "tech_stack": [
+    "AI Agents",
+    "Multi-Agent Systems",
+    "Swarm Intelligence",
+    "Minecraft",
+    "Mindustry"
+  ],
+  "problem_solved": "它通过游戏化实验验证多个 AI 智能体能否在复杂的开放环境中自主感知、决策、协作并完成目标。",
+  "why_valuable": "游戏环境提供了可控且可观测的测试场景，有助于研究多智能体系统的协调、涌现行为和实际应用潜力。",
+  "tags": [
+    "AI",
+    "Multi-Agent",
+    "Swarms",
+    "Minecraft",
+    "Gaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-30T14:58:52.019284+00:00",
+  "updated_at": "2026-10-30T14:59:13.643203+00:00",
+  "published_to": []
+}
