@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261031-020",
+  "source": "rss",
+  "source_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+  "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+  "summary": "文章报道 Cisco 向工程师提供不限量的 AI 令牌，用于借助人工智能重写遗留代码，并讨论这一举措对初级工程师岗位和 Gen-Z 人才发展的影响。内容聚焦 AI 编程工具在企业级遗留系统现代化中的应用，以及其可能带来的组织与就业变化。",
+  "tech_stack": [
+    "AI",
+    "Large Language Models",
+    "Code Generation",
+    "Legacy Code Modernization",
+    "Cisco"
+  ],
+  "problem_solved": "利用 AI 辅助大规模重写和现代化遗留代码，降低传统软件维护与升级的成本和时间投入。",
+  "why_valuable": "它展示了大型企业将生成式 AI 纳入日常开发流程的实践，并引发对工程师技能结构、初级岗位和人才培养方式的深入讨论。",
+  "tags": [
+    "AI",
+    "Legacy Code",
+    "Software Modernization",
+    "Developer Tools",
+    "Future of Work"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-31T14:26:27.601582+00:00",
+  "updated_at": "2026-10-31T14:26:28.377178+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261031-009",
+  "source": "rss",
+  "source_url": "https://xoranth.net/gcc-switch/",
+  "title": "Switch Lowering in GCC",
+  "summary": "文章深入探讨 GCC 编译器如何对 C/C++ 的 switch 语句进行底层 lowering，即将高层控制流转换为更基础的比较、跳转和条件执行结构。内容很可能涉及 GCC 内部阶段、RTL 表示、分支优化以及不同 case 分布下生成代码的取舍。",
+  "tech_stack": [
+    "GCC",
+    "C",
+    "C++",
+    "RTL",
+    "Compiler Optimizations"
+  ],
+  "problem_solved": "解释 switch 语句从源代码控制流到 GCC 底层跳转逻辑的转换过程，以及编译器如何据此选择和优化代码生成方案。",
+  "why_valuable": "理解 switch lowering 有助于开发者分析编译器生成代码、性能异常及复杂分支场景，也适合深入研究 GCC 的优化机制。",
+  "tags": [
+    "GCC",
+    "Compiler",
+    "Switch",
+    "Code Generation",
+    "Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-10-31T14:25:15.232537+00:00",
+  "updated_at": "2026-10-31T14:26:28.376067+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261031-016",
+  "source": "rss",
+  "source_url": "https://github.com/dbreunig/nesformer",
+  "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+  "summary": "NESFormer 是一个利用约 1GB 的 Qwen 模型权重实现可运行 Nintendo Entertainment System 的实验项目。它探索了将语言模型改造成游戏环境仿真器或神经模拟器的方法，使模型能够生成与 NES 游戏运行相关的状态与行为。",
+  "tech_stack": [
+    "Qwen",
+    "Transformer",
+    "PyTorch",
+    "Quantization",
+    "NES Emulation"
+  ],
+  "problem_solved": "通过神经网络模型模拟 NES 的游戏环境与运行逻辑，以较小的模型权重实现可交互的游戏系统复现。",
+  "why_valuable": "它展示了语言模型架构在通用神经仿真和游戏智能体方向上的潜力，并为研究低成本世界模型与强化学习环境提供了开源实验。",
+  "tags": [
+    "Qwen",
+    "NES",
+    "World Model",
+    "Neural Emulation",
+    "LLM"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-31T14:26:00.870436+00:00",
+  "updated_at": "2026-10-31T14:26:28.376836+00:00",
+  "published_to": []
+}

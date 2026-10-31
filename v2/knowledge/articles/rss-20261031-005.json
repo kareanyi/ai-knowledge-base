@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261031-005",
+  "source": "rss",
+  "source_url": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+  "title": "Shiny Object Syndrome",
+  "summary": "“Shiny Object Syndrome” 指个人因新工具、新框架或新技术带来的新鲜感而频繁转移注意力，进而影响项目推进和长期目标达成的现象。提供的材料仅包含维基百科词条与 Hacker News 讨论链接，未包含文章正文，因此具体定义和案例主要依据该概念的一般含义。",
+  "tech_stack": [],
+  "problem_solved": "帮助团队和个人识别因追逐新技术而分散精力、阻碍长期项目交付的行为模式。",
+  "why_valuable": "理解这一现象有助于避免盲目追逐技术热点，将注意力重新集中到核心需求、既有目标和实际业务价值上。",
+  "tags": [
+    "Productivity",
+    "Technology",
+    "Developer Culture",
+    "Focus"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-31T14:24:45.211497+00:00",
+  "updated_at": "2026-10-31T14:26:28.375511+00:00",
+  "published_to": []
+}

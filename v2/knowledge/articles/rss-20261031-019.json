@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261031-019",
+  "source": "rss",
+  "source_url": "https://status.northflank.com",
+  "title": "Northflank Breached",
+  "summary": "Northflank 官方状态页面报告了一次安全事件，意味着其托管或云平台环境可能发生了未经授权的访问或数据暴露。文章及其 Hacker News 讨论获得了较高关注，但现有内容未提供入侵范围、受影响数据或修复时间等关键细节。",
+  "tech_stack": [
+    "Cloud Infrastructure",
+    "DevOps",
+    "Incident Management"
+  ],
+  "problem_solved": "通报 Northflank 平台安全事件并帮助用户评估自身账户、数据和基础设施可能面临的风险。",
+  "why_valuable": "及时披露托管平台安全事件可帮助受影响客户采取轮换凭据、检查访问记录和加固资源等应急措施。",
+  "tags": [
+    "Security Breach",
+    "Cloud Platform",
+    "Incident Response",
+    "DevOps",
+    "Northflank"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-31T14:26:20.983322+00:00",
+  "updated_at": "2026-10-31T14:26:28.377096+00:00",
+  "published_to": []
+}

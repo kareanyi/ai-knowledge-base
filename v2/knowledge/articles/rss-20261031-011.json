@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261031-011",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50312756",
+  "title": "Tell HN: Scribd Breached",
+  "summary": "Scribd 于 2026 年 10 月 26 日向用户发出安全事件通知，称未授权第三方可能访问了部分用户数据。此次事件可能同时影响 Scribd、Slideshare、Everand 和 Fable 等旗下服务，但所提供内容尚未披露具体泄露数据类型、攻击途径及受影响范围。",
+  "tech_stack": [
+    "Epiq 事件通知服务",
+    "电子邮件通知"
+  ],
+  "problem_solved": "向潜在受影响用户通报数据安全事件、提醒其评估账户与个人信息风险，并明确事件响应流程。",
+  "why_valuable": "安全事件披露可帮助用户及时采取防护措施，同时推动相关平台加强数据访问控制、事件监测与透明沟通。",
+  "tags": [
+    "Data Breach",
+    "Cybersecurity",
+    "Incident Response",
+    "User Data",
+    "Scribd"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-10-31T14:25:26.606248+00:00",
+  "updated_at": "2026-10-31T14:26:28.376282+00:00",
+  "published_to": []
+}

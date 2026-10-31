@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261031-001",
+  "source": "rss",
+  "source_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+  "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+  "summary": "报道称，某 AI 初创公司通过网络攻击，在约 12 小时内获得 Anthropic 员工资料及内部消息的访问权限。事件凸显了 AI 企业在人员信息、内部通信和敏感数据保护方面面临的安全风险。",
+  "tech_stack": [
+    "AI",
+    "Cybersecurity"
+  ],
+  "problem_solved": "文章揭示了 AI 初创公司通过入侵大型科技企业获取敏感员工数据和内部通信的安全事件。",
+  "why_valuable": "该事件提醒企业加强访问控制、身份验证、漏洞修复及内部敏感信息的安全防护。",
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "Data Breach",
+    "Anthropic",
+    "Security"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-31T14:24:19.976994+00:00",
+  "updated_at": "2026-10-31T14:26:28.374898+00:00",
+  "published_to": []
+}

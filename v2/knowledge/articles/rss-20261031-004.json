@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261031-004",
+  "source": "rss",
+  "source_url": "https://nullprogram.com/blog/2026/10/31/",
+  "title": "Prospero: A new coding harness for a more civilized age",
+  "summary": "文章介绍了名为 Prospero 的新型 coding harness，目标是重新组织代码生成与开发协作流程，并让 AI 辅助编程变得更文明、更可控。现有输入仅包含标题、链接及社区讨论元数据，因此无法确认其具体架构、功能和使用方式。",
+  "tech_stack": [],
+  "problem_solved": "Prospero 旨在改善传统 AI 编程工具在执行任务、交互协作和工程控制方面的不足。",
+  "why_valuable": "通过提供专门的编程执行框架，它可能提升 AI 辅助开发的可靠性、可控性与用户体验。",
+  "tags": [
+    "AI",
+    "Coding",
+    "Harness",
+    "Developer Tools",
+    "Automation"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-10-31T14:24:40.055060+00:00",
+  "updated_at": "2026-10-31T14:26:28.375417+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261031-017",
+  "source": "rss",
+  "source_url": "https://github.com/kevinraymond/florilegium",
+  "title": "Florilegium: Procedural Flowers in LaTeX",
+  "summary": "Florilegium 是一个用 LaTeX 生成程序化花卉图形的项目，探索以代码描述花瓣、茎叶等自然形态的方法。它将排版系统与程序化绘图结合，可用于创建可复现且具有艺术效果的插图。",
+  "tech_stack": [
+    "LaTeX",
+    "TikZ",
+    "LuaLaTeX",
+    "PGF"
+  ],
+  "problem_solved": "解决在 LaTeX 文档中手工绘制复杂花卉图形困难、效率低且难以复现的问题。",
+  "why_valuable": "它把精确、可参数化的程序生成能力引入 LaTeX，使技术文档、论文和艺术排版都能快速获得一致且可复现的植物插图。",
+  "tags": [
+    "LaTeX",
+    "Procedural Art",
+    "Generative Graphics",
+    "TikZ",
+    "Typography"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-10-31T14:26:07.753792+00:00",
+  "updated_at": "2026-10-31T14:26:28.376926+00:00",
+  "published_to": []
+}

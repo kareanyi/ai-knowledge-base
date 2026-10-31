@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261031-007",
+  "source": "rss",
+  "source_url": "https://piefed.world/post/1503394",
+  "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+  "summary": "文章指出 Molly（Signal 的一个分支版本）已有约三个月未更新，并可能因此存在安全漏洞或已修复漏洞未被同步的问题。讨论聚焦于停止维护的隐私通信客户端所带来的补丁缺失与用户安全风险，但正文未提供具体漏洞细节、影响范围或修复措施。",
+  "tech_stack": [
+    "Molly",
+    "Signal",
+    "Mobile Messaging",
+    "Security"
+  ],
+  "problem_solved": "揭示长期停止维护的 Signal 分支客户端可能导致安全补丁缺失，使用户继续暴露于已知或未知漏洞之下。",
+  "why_valuable": "提醒用户及时检查并迁移到仍在维护的安全通信工具，避免因使用过时客户端而降低账户与通信安全。",
+  "tags": [
+    "Security",
+    "Signal",
+    "Molly",
+    "Maintenance",
+    "Privacy"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-10-31T14:25:00.680422+00:00",
+  "updated_at": "2026-10-31T14:26:28.375800+00:00",
+  "published_to": []
+}
