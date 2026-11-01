@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261101-015",
+  "source": "rss",
+  "source_url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+  "title": "It's the memory latency, stupid",
+  "summary": "文章围绕“内存延迟，而非其他因素，才是系统性能的关键瓶颈”这一核心观点展开。作者借由 Hacker News 上的讨论与较高关注度，强调延迟问题在现代计算系统中的重要性；由于提供的内容仅包含标题、链接和互动数据，具体技术方案无法从现有材料中确认。",
+  "tech_stack": [
+    "Memory Systems",
+    "Latency Optimization",
+    "Computer Architecture"
+  ],
+  "problem_solved": "识别并解释内存访问延迟对系统整体性能的影响，帮助读者将性能优化重点放在关键的数据路径上。",
+  "why_valuable": "揭示容易被吞吐量或带宽指标掩盖的性能瓶颈，为系统设计、数据库优化和基准测试提供更准确的关注方向。",
+  "tags": [
+    "Memory Latency",
+    "Performance",
+    "Computer Architecture",
+    "Systems Engineering"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-01T14:54:35.419821+00:00",
+  "updated_at": "2026-11-01T14:55:07.860672+00:00",
+  "published_to": []
+}

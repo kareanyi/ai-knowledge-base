@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261101-013",
+  "source": "rss",
+  "source_url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+  "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+  "summary": "该文章分析 Linux 内核 IPv4/TCP 协议实现中的释放后使用漏洞 CVE-2026-98432。该漏洞严重程度为 CVSS 9.8，可能导致拒绝服务、内存破坏或远程代码执行，具体影响取决于触发条件和利用条件。",
+  "tech_stack": [
+    "Linux Kernel",
+    "C",
+    "IPv4",
+    "TCP",
+    "Memory Safety"
+  ],
+  "problem_solved": "文章旨在披露并分析 Linux IPv4/TCP 栈中的释放后使用漏洞及其潜在安全影响。",
+  "why_valuable": "对高危内核漏洞的成因与利用风险进行技术分析，有助于安全研究人员评估系统暴露面并推动补丁修复。",
+  "tags": [
+    "CVE",
+    "Linux",
+    "Use-After-Free",
+    "TCP",
+    "Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-01T14:54:25.633488+00:00",
+  "updated_at": "2026-11-01T14:55:07.860335+00:00",
+  "published_to": []
+}

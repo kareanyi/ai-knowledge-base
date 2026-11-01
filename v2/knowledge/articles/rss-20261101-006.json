@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261101-006",
+  "source": "rss",
+  "source_url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+  "title": "Domain hacks with unusual Unicode characters (2018)",
+  "summary": "文章探讨如何利用不常见的 Unicode 字符设计具有特殊视觉效果的域名，并结合 2018 年的 Punycode/IDNA 域名案例展示其实现方式。给出的 Punycode 地址及其 Unicode 等价形式体现了国际化域名在 DNS 和 URL 兼容性方面的技术机制。",
+  "tech_stack": [
+    "Unicode",
+    "Punycode",
+    "IDNA",
+    "DNS"
+  ],
+  "problem_solved": "说明非 ASCII 字符如何通过 Punycode 转换为兼容 DNS 系统的国际化域名，同时保留类似表情符号或组合字符的视觉效果。",
+  "why_valuable": "它揭示了浏览器地址栏中看似特殊的 Unicode 域名背后的编码原理，对理解国际化域名、网络安全与域名仿冒风险具有参考价值。",
+  "tags": [
+    "Unicode",
+    "IDN",
+    "Punycode",
+    "DNS",
+    "Domain"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-01T14:53:22.244696+00:00",
+  "updated_at": "2026-11-01T14:55:07.859099+00:00",
+  "published_to": []
+}

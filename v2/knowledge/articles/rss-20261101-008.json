@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261101-008",
+  "source": "rss",
+  "source_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+  "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+  "summary": "巴西法院对在诉讼文件中利用提示注入（prompt injection）的律师作出制裁，揭示了当事人可能通过操纵 AI 系统影响司法处理流程的风险。该案例表明，生成式 AI 在法律场景中的应用不仅需要技术防护，也必须建立明确的执业规范与责任边界。",
+  "tech_stack": [
+    "Generative AI",
+    "Large Language Models",
+    "Prompt Injection"
+  ],
+  "problem_solved": "针对利用恶意提示操纵法律 AI 工具、干扰诉讼流程并规避司法规则的问题提供警示与治理案例。",
+  "why_valuable": "该事件为法律行业部署 AI 时的安全控制、律师执业责任和司法程序完整性提供了重要参考。",
+  "tags": [
+    "AI Security",
+    "Prompt Injection",
+    "Legal Tech",
+    "AI Governance",
+    "Court Filing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-01T14:53:49.483321+00:00",
+  "updated_at": "2026-11-01T14:55:07.859453+00:00",
+  "published_to": []
+}

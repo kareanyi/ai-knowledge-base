@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261101-001",
+  "source": "rss",
+  "source_url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+  "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+  "summary": "文章指出联想发布的带指纹识别功能的“加密”USB 指纹盘实际上只是将未加密的 SD 卡装在一个带有指纹验证外壳的设备中。该设计可能通过指纹控制设备访问，但无法为存储介质本身提供真正的数据加密，安全宣传容易误导消费者。",
+  "tech_stack": [
+    "USB",
+    "SD Card",
+    "Fingerprint Authentication",
+    "Hardware Encryption"
+  ],
+  "problem_solved": "为便携式存储设备增加生物识别访问控制，并借此宣传数据安全与隐私保护。",
+  "why_valuable": "揭示指纹验证与存储加密之间的关键区别，提醒用户避免因厂商的安全宣传而误判数据保护能力。",
+  "tags": [
+    "USB",
+    "Security",
+    "Fingerprint",
+    "Encryption",
+    "Hardware"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-01T14:52:38.169604+00:00",
+  "updated_at": "2026-11-01T14:55:07.849949+00:00",
+  "published_to": []
+}

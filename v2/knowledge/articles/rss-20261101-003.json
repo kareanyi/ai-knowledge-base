@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261101-003",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.39302",
+  "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+  "summary": "文章研究“柏拉图式表征假设”，试图从理论与实证角度论证并改进不同联合嵌入预测架构（JEPAs）的表征学习效果。其核心方向是分析模型是否能够形成跨任务、跨模态或跨实例的一致表征，并通过 JEPA 机制提升这种能力。",
+  "tech_stack": [
+    "Joint Embedding Predictive Architecture (JEPA)",
+    "Representation Learning",
+    "Joint Embedding",
+    "Predictive Modeling"
+  ],
+  "problem_solved": "针对联合嵌入模型中不同输入是否能够收敛到共享且具有泛化能力的理想表征空间这一问题，给出理论分析并提出改进方向。",
+  "why_valuable": "理解并验证柏拉图式表征假设，有助于提升自监督表征学习、跨模态对齐以及模型跨任务迁移的可靠性。",
+  "tags": [
+    "JEPAs",
+    "Representation Learning",
+    "Self-Supervised Learning",
+    "Multimodal Learning",
+    "Theory"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-01T14:53:02.570589+00:00",
+  "updated_at": "2026-11-01T14:55:07.850481+00:00",
+  "published_to": []
+}

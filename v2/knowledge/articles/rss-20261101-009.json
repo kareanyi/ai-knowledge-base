@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261101-009",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2409.02292",
+  "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+  "summary": "该研究探讨如何利用计算机 RAM 活动产生的无线电辐射作为隐蔽信道，从物理隔离的计算机中窃取信息。其核心方法是通过控制内存访问模式，将数据编码为可辨识的无线电信号，从而绕开传统网络隔离与软件监控。",
+  "tech_stack": [
+    "RAM",
+    "电磁辐射侧信道",
+    "无线信号调制",
+    "软件控制",
+    "SDR/射频分析"
+  ],
+  "problem_solved": "它为评估和防御气隙隔离环境中的无线电隐蔽泄密风险提供了一种攻击方法。",
+  "why_valuable": "该研究揭示了仅靠物理网络隔离无法阻止数据通过电磁辐射外泄，有助于安全人员设计针对气隙系统的检测与防护措施。",
+  "tags": [
+    "Air-Gap Security",
+    "Side Channel",
+    "Electromagnetic Emanations",
+    "RAM Exfiltration",
+    "Cybersecurity"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-01T14:53:54.777461+00:00",
+  "updated_at": "2026-11-01T14:55:07.859626+00:00",
+  "published_to": []
+}

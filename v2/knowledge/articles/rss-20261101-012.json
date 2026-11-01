@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261101-012",
+  "source": "rss",
+  "source_url": "https://karpathy.bearblog.dev/hacker-tube/",
+  "title": "HackerTube: YouTube built from videos recommended by HN",
+  "summary": "HackerTube 是一个以 Hacker News 评论中推荐的视频为基础，构建的 YouTube 风格视频平台。它汇集了自 2007 年以来从 39,834 条 HN 评论中发现的 6,454 个视频，为用户提供类似 YouTube 的浏览与观看体验。",
+  "tech_stack": [
+    "Hacker News API",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "problem_solved": "它将分散在 Hacker News 评论中的视频推荐整合为可搜索、可浏览的视频网站，解决优质社区推荐视频难以集中发现的问题。",
+  "why_valuable": "该项目利用 HN 社区的高质量讨论和链接发现机制，提供了一个具有社交策展特色的视频目录与观看入口。",
+  "tags": [
+    "Video",
+    "Hacker News",
+    "Web App",
+    "Content Curation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-01T14:54:20.723138+00:00",
+  "updated_at": "2026-11-01T14:55:07.860167+00:00",
+  "published_to": []
+}

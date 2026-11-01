@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261101-018",
+  "source": "rss",
+  "source_url": "https://www.nature.com/articles/s41560-026-02144-0",
+  "title": "One-minute frequency disturbances from synchronization in power systems",
+  "summary": "该研究探讨电力系统同步机制如何在一分钟内引发频率扰动，重点分析同步发电机之间通过电网耦合传播的动态变化及其对系统稳定性的影响。研究揭示了秒级至分钟级频率异常与系统同步行为之间的联系，为识别和控制大范围频率波动提供新的理论依据。",
+  "tech_stack": [
+    "Power System Dynamics",
+    "Synchronization Analysis",
+    "Time-Frequency Analysis",
+    "Dynamical Systems Modeling",
+    "Numerical Simulation"
+  ],
+  "problem_solved": "解释电力系统中短时频率扰动的产生及跨区域传播机制，为预防由同步失稳引起的大范围频率异常提供依据。",
+  "why_valuable": "理解一分钟尺度频率扰动有助于提升电网频率控制能力，并降低同步异常进一步导致稳定性事故的风险。",
+  "tags": [
+    "Power Systems",
+    "Frequency Stability",
+    "Synchronization",
+    "Grid Dynamics",
+    "Renewable Energy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-01T14:55:07.249760+00:00",
+  "updated_at": "2026-11-01T14:55:07.861192+00:00",
+  "published_to": []
+}

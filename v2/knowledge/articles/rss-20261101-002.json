@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261101-002",
+  "source": "rss",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+  "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+  "summary": "文章介绍了一组由 50 个 AI 智能体组成的群体在《Minecraft》中尝试共同建设繁荣文明的实验。结果显示，智能体群体因任务协调不足、决策流程过度僵化以及陷入官僚式循环而未能实现预期目标，揭示了多智能体系统在复杂长期协作中的现实局限。",
+  "tech_stack": [
+    "Minecraft",
+    "Large Language Models",
+    "Multi-Agent Systems",
+    "Agent Simulation",
+    "Python"
+  ],
+  "problem_solved": "该实验旨在检验 AI 智能体群体能否通过自主分工与协作，在开放世界环境中建立并维持一个繁荣的虚拟文明。",
+  "why_valuable": "研究结果为设计更高效的多智能体协作机制、任务调度方式和权限治理策略提供了宝贵的实践依据。",
+  "tags": [
+    "AI Agents",
+    "Multi-Agent Systems",
+    "Minecraft",
+    "Simulation",
+    "Agent Coordination"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-01T14:52:55.958355+00:00",
+  "updated_at": "2026-11-01T14:55:07.850295+00:00",
+  "published_to": []
+}

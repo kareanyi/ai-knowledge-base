@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261101-004",
+  "source": "rss",
+  "source_url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html",
+  "title": "The \"Moon Trees\"",
+  "summary": "该页面介绍了 NASA NSSDC 收录的“Moon Trees（月球树）”内容，用于以树状结构呈现阿波罗月球样品及其相关地质或来源信息。当前输入仅包含标题、链接及少量社区元数据，缺少正文细节，因此无法确认该图表的具体数据模型与制作流程。",
+  "tech_stack": [
+    "HTML",
+    "NASA NSSDC",
+    "Lunar Sample Database",
+    "Apollo Program Data"
+  ],
+  "problem_solved": "通过结构化、可视化的方式组织并展示月球样品之间的来源与地质关联，帮助研究者直观理解样品信息。",
+  "why_valuable": "树状图能够把分散的月球样品记录转化为清晰的层次关系，降低研究人员梳理样品谱系和背景数据的成本。",
+  "tags": [
+    "NASA",
+    "Moon",
+    "Lunar Samples",
+    "Apollo",
+    "Data Visualization"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-01T14:53:10.410204+00:00",
+  "updated_at": "2026-11-01T14:55:07.858625+00:00",
+  "published_to": []
+}
