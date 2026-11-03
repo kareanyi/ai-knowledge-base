@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261103-009",
+  "source": "rss",
+  "source_url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+  "title": "Just a little AI resistance, as a treat",
+  "summary": "该内容讨论了在 AI 系统中引入少量“抵抗能力”，将其作为一种可控且可接受的保护机制。现有信息仅包含标题、来源链接及讨论数据，未提供文章正文，因此无法确认具体实现方式、适用场景或技术细节。",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "AI Security"
+  ],
+  "problem_solved": "探索如何以较低成本提高 AI 系统对不可信指令或潜在攻击的抵抗能力。",
+  "why_valuable": "在不过度限制 AI 正常行为的前提下提升系统安全性和可控性。",
+  "tags": [
+    "AI",
+    "AI Security",
+    "Resistance",
+    "Prompt Injection"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-03T16:03:28.358012+00:00",
+  "updated_at": "2026-11-03T16:04:26.859700+00:00",
+  "published_to": []
+}

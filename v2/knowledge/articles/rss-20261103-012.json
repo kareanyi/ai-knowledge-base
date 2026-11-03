@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261103-012",
+  "source": "rss",
+  "source_url": "https://honnibal.dev/blog/astra-read-write-misleading",
+  "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+  "summary": "文章指出，有关“Astra 读取并写入 Qwen 权重以提升模型能力”的技术解读具有误导性。它试图厘清权重读写操作的真实含义、作用边界，以及相关说法为何会夸大实验结果。",
+  "tech_stack": [
+    "Qwen",
+    "Astra",
+    "LLM Fine-tuning",
+    "Model Weights"
+  ],
+  "problem_solved": "纠正公众对 Astra 操作 Qwen 模型权重及改进模型效果这一技术主张的过度简化理解。",
+  "why_valuable": "它帮助读者区分模型权重操作、训练方法与能力提升之间的实际关系，避免依据夸张叙事形成错误判断。",
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Model Weights",
+    "Qwen",
+    "Technical Critique"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-03T16:03:49.090559+00:00",
+  "updated_at": "2026-11-03T16:04:26.860047+00:00",
+  "published_to": []
+}

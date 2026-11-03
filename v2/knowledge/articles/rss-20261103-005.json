@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261103-005",
+  "source": "rss",
+  "source_url": "https://github.com/Muvon/octomind",
+  "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+  "summary": "Octomind 是一个开源 AI harness，定位是通过更高效的上下文与工具调用管理来减少 AI 编程助手的 Token 消耗。项目采用 Rust 构建，强调高性能、静态类型和面向开发者的可扩展性，但当前提供的内容仅包含仓库链接及有限的社区讨论信息。",
+  "tech_stack": [
+    "Rust",
+    "AI Agent",
+    "CLI",
+    "LLM",
+    "Open Source"
+  ],
+  "problem_solved": "通过优化 AI 代理的上下文构建和交互流程，降低代码任务执行过程中的 Token 使用量与运行成本。",
+  "why_valuable": "它为频繁使用 AI 编程工具的开发者提供了一条减少上下文开销、降低费用并提升执行效率的开放方案。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Rust",
+    "Token Optimization",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-03T16:02:45.316678+00:00",
+  "updated_at": "2026-11-03T16:04:26.859079+00:00",
+  "published_to": []
+}

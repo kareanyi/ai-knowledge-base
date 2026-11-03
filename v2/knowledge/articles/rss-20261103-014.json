@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261103-014",
+  "source": "rss",
+  "source_url": "https://github.com/NVIDIA/auto-ontology",
+  "title": "Nvidia – open-source auto-ontology",
+  "summary": "NVIDIA 开源的 Auto-Ontology 项目旨在利用自动化流程从非结构化数据或领域资料中构建、维护和扩展本体知识。它可为大语言模型应用提供更结构化、可查询的知识表示，从而增强知识图谱、检索增强生成和企业知识管理能力。",
+  "tech_stack": [
+    "Python",
+    "Large Language Models",
+    "Knowledge Graphs",
+    "RDF/OWL",
+    "NLP"
+  ],
+  "problem_solved": "自动将分散的非结构化领域信息转换为结构化本体，减少人工定义和维护知识模型的工作量。",
+  "why_valuable": "它能显著降低企业构建领域知识图谱的门槛，并提升 AI 系统在复杂领域中的知识一致性、可解释性和检索效果。",
+  "tags": [
+    "Ontology",
+    "Knowledge Graph",
+    "LLM",
+    "NLP",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-03T16:04:10.965109+00:00",
+  "updated_at": "2026-11-03T16:04:26.860329+00:00",
+  "published_to": []
+}

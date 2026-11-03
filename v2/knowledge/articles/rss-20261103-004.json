@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261103-004",
+  "source": "rss",
+  "source_url": "https://dilshan.github.io/tiny-basic/",
+  "title": "Tiny Basic for Arduino",
+  "summary": "Tiny Basic for Arduino 是一个轻量级 BASIC 解释器项目，允许用户通过串口终端输入 BASIC 代码并在 Arduino 板上直接执行。它面向硬件资源极其受限的 AVR 芯片设计，刻意只保留核心语言特性以控制内存与代码体积，让不具备完整开发环境的用户也能快速为设备编写控制程序。",
+  "tech_stack": [
+    "Arduino",
+    "C/C++ (AVR)",
+    "BASIC",
+    "Serial/UART",
+    "AVR Libc"
+  ],
+  "problem_solved": "让用户无需烧录复杂固件或搭建完整 IDE，即可通过串口向 Arduino 实时输入并执行 BASIC 脚本，控制 GPIO、传感器等硬件。",
+  "why_valuable": "它把 Arduino 的编程门槛降到接近解释器玩具 BASIC 的水平，同时兼顾嵌入式设备的内存与 Flash 限制，适合教学、原型验证和现场快速调试。",
+  "tags": [
+    "Arduino",
+    "BASIC",
+    "Embedded",
+    "Interpreter",
+    "Retro Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-03T16:02:37.821365+00:00",
+  "updated_at": "2026-11-03T16:04:26.858771+00:00",
+  "published_to": []
+}

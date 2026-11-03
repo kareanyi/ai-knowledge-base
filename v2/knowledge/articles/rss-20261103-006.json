@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261103-006",
+  "source": "rss",
+  "source_url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
+  "title": "Handles are the better pointers (2018)",
+  "summary": "文章讨论在系统编程中，相比直接暴露地址的指针，使用句柄（Handle）作为资源或对象的间接引用通常更安全、更易维护。核心观点是：句柄能够封装访问权限、生命周期和实现细节，从而减少悬空指针、非法内存访问及底层实现泄漏等问题。",
+  "tech_stack": [
+    "C",
+    "C++",
+    "Systems Programming",
+    "Memory Management",
+    "Handle Abstraction"
+  ],
+  "problem_solved": "通过使用句柄间接管理对象和资源，降低指针带来的悬空引用、非法访问、权限失控及实现细节耦合风险。",
+  "why_valuable": "它为设计更安全、封装性更好的底层 API 提供了实用原则，有助于减少内存管理错误并提高系统代码的可靠性。",
+  "tags": [
+    "Handles",
+    "Pointers",
+    "Memory Safety",
+    "Systems Programming",
+    "API Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-03T16:02:54.825768+00:00",
+  "updated_at": "2026-11-03T16:04:26.859274+00:00",
+  "published_to": []
+}

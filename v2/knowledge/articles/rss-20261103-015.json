@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261103-015",
+  "source": "rss",
+  "source_url": "https://hackertimes.ca/",
+  "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+  "summary": "Hacker Times 是一个 Show HN 项目，将 Hacker News 的内容以《纽约时报》报纸风格的界面重新呈现，让读者像阅读报纸一样浏览技术新闻。站点每小时自动更新一次聚合内容，源码与讨论在 Hacker News 社区获得 406 分和 128 条评论的积极反馈。",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "React",
+    "Next.js"
+  ],
+  "problem_solved": "为 Hacker News 读者提供更具阅读感、报纸化的内容浏览体验，解决传统信息流界面阅读压力大、缺乏版式引导的问题。",
+  "why_valuable": "它以低成本的方式重新设计了技术资讯的呈现方式，展示了前端设计与内容聚合结合带来的体验提升，同时为 HN 社区提供了有价值的界面实验样本。",
+  "tags": [
+    "HackerNews",
+    "WebDesign",
+    "Frontend",
+    "NewsAggregator",
+    "ShowHN"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-03T16:04:16.993185+00:00",
+  "updated_at": "2026-11-03T16:04:26.860440+00:00",
+  "published_to": []
+}

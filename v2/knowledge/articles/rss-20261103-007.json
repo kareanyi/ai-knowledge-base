@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261103-007",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50352757",
+  "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+  "summary": "文章称 OpenAI 可能在用户未明确同意的情况下，重新启用了 Codex 对话数据用于模型改进的选项。该设置可通过 ChatGPT 的“Improve the model for everyone”数据控制选项检查，引发了企业用户对知识产权、代码和敏感提示泄露的担忧。",
+  "tech_stack": [
+    "OpenAI Codex",
+    "ChatGPT",
+    "Claude Code",
+    "OpenAI API"
+  ],
+  "problem_solved": "揭示并提醒企业及开发者关注 AI 编程助手中对话数据共享设置可能被静默更改的隐私与知识产权风险。",
+  "why_valuable": "及时指出潜在的默认设置变化可帮助团队核查数据策略、重新关闭共享功能，并降低专有代码或商业信息被用于模型训练的风险。",
+  "tags": [
+    "AI",
+    "Privacy",
+    "Codex",
+    "Data Controls",
+    "IP Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-03T16:03:07.742009+00:00",
+  "updated_at": "2026-11-03T16:04:26.859417+00:00",
+  "published_to": []
+}

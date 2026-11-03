@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261103-008",
+  "source": "rss",
+  "source_url": "https://cepr.net/publications/ai-bubble-monitor/",
+  "title": "The AI Bubble Monitor",
+  "summary": "该内容介绍了 CEPR 发布的“The AI Bubble Monitor”，用于持续观察和评估人工智能领域的投资热度、市场估值及潜在泡沫风险。提供的材料仅包含文章链接和社区讨论信息，未展示具体的监测方法或数据分析细节。",
+  "tech_stack": [],
+  "problem_solved": "通过持续追踪 AI 市场的投资与估值指标，帮助投资者和政策研究者识别人工智能热潮中可能存在的泡沫风险。",
+  "why_valuable": "该监测工具可为理解 AI 产业热度、评估金融可持续性以及辅助投资决策提供数据支持。",
+  "tags": [
+    "AI",
+    "Bubble",
+    "Investment",
+    "Market Analysis",
+    "Economic Monitoring"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-03T16:03:21.371664+00:00",
+  "updated_at": "2026-11-03T16:04:26.859572+00:00",
+  "published_to": []
+}

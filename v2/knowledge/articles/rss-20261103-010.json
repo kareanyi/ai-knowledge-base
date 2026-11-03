@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261103-010",
+  "source": "rss",
+  "source_url": "https://getbema.app/",
+  "title": "Show HN: Bema: Work messaging built for humans",
+  "summary": "Bema 是一款面向团队的工作消息平台，主张通过异步沟通减少频道过多、信息丢失和工作分心的问题。平台默认鼓励非实时协作，同时提供紧急情况下打破常规、直接沟通的选项，但具体功能和实现细节尚未披露。",
+  "tech_stack": [],
+  "problem_solved": "解决传统工作消息工具中频道泛滥、信息难检索以及实时通知容易干扰实际工作的沟通效率问题。",
+  "why_valuable": "它通过异步优先、紧急沟通例外和更聚焦的信息流设计，帮助团队降低沟通成本并保持生产力。",
+  "tags": [
+    "Messaging",
+    "Async Communication",
+    "Collaboration",
+    "Productivity"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-03T16:03:34.421917+00:00",
+  "updated_at": "2026-11-03T16:04:26.859820+00:00",
+  "published_to": []
+}

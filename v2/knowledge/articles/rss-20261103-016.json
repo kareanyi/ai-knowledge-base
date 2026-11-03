@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261103-016",
+  "source": "rss",
+  "source_url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+  "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+  "summary": "DiscImageStudio 是一个开源项目，用于将可见图像或艺术图案刻录到 CD、DVD 和蓝光光盘表面。它专注于为传统光盘提供可视化的盘面制作能力，兼具项目源码托管与社区讨论属性。",
+  "tech_stack": [
+    "Optical Disc Authoring",
+    "Image Processing",
+    "CD/DVD",
+    "Blu-ray"
+  ],
+  "problem_solved": "解决传统光盘盘面缺少可视艺术图案、需要依赖专用打印设备或外部设计流程的问题。",
+  "why_valuable": "它让用户能够直接制作具有个性化可视图案的光盘，并降低光盘盘面设计与制作的技术门槛。",
+  "tags": [
+    "Optical Disc",
+    "CD/DVD",
+    "Blu-ray",
+    "Image Burning",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-03T16:04:26.103843+00:00",
+  "updated_at": "2026-11-03T16:04:26.860568+00:00",
+  "published_to": []
+}

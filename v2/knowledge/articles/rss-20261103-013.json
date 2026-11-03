@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261103-013",
+  "source": "rss",
+  "source_url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+  "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+  "summary": "文章探讨将现代国际象棋引擎部署到 1996 年的 Pentium 处理器上，是否足以击败当时世界冠军加里·卡斯帕罗夫。其核心关注点可能是现代引擎在搜索算法、评估函数和硬件效率方面的进步，以及这些改进能否弥补计算平台上的代际差距。",
+  "tech_stack": [
+    "Chess Engine",
+    "Algorithmic Optimization",
+    "x86",
+    "Pentium"
+  ],
+  "problem_solved": "评估现代国际象棋引擎的算法进步能否让同年代的有限硬件获得对抗顶尖人类棋手的能力。",
+  "why_valuable": "这一对比有助于量化算法创新相对于算力提升在人工智能与博弈决策中的实际价值。",
+  "tags": [
+    "Chess",
+    "Game AI",
+    "Algorithm",
+    "Retrocomputing",
+    "Search"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-03T16:04:00.869483+00:00",
+  "updated_at": "2026-11-03T16:04:26.860182+00:00",
+  "published_to": []
+}

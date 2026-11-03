@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261103-002",
+  "source": "rss",
+  "source_url": "https://arethefridgesok.org/",
+  "title": "Are the Fridges Ok?",
+  "summary": "“Are the Fridges Ok?” 是一个用于检查冰箱当前状态是否正常的轻量级网站或社区项目。现有内容仅提供了项目链接及 Hacker News 讨论信息，未展示其具体功能、实现方式或数据来源。",
+  "tech_stack": [],
+  "problem_solved": "通过集中查询冰箱状态，帮助用户快速确认相关设备是否正常运行。",
+  "why_valuable": "它将分散的设备状态信息集中展示，减少人工检查成本并提高异常发现的便利性。",
+  "tags": [
+    "Fridge",
+    "Status Monitoring",
+    "Web",
+    "Community"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-03T16:02:13.169307+00:00",
+  "updated_at": "2026-11-03T16:04:26.851602+00:00",
+  "published_to": []
+}
