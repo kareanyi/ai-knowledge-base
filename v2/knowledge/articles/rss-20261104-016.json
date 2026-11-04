@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-016",
+  "source": "rss",
+  "source_url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+  "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+  "summary": "文章报道称，芯片厂商 Synaptics 似乎通过法律威胁，试图阻止开源项目 Vino 继续提供或分发适用于 DisplayLink 图形适配器的 Linux 驱动。该事件体现了专有厂商与开源社区在驱动代码、知识产权及设备兼容性方面的潜在冲突，并可能影响 Linux 用户对显示设备的支持。",
+  "tech_stack": [
+    "Linux",
+    "DisplayLink",
+    "Vino",
+    "Synaptics",
+    "Open-Source Driver"
+  ],
+  "problem_solved": "分析 Synaptics 利用法律手段阻断开源显示驱动可能造成的兼容性、代码可用性和 Linux 生态维护风险。",
+  "why_valuable": "该事件揭示了开源驱动项目面临的知识产权与供应商控制风险，为开发者、用户和项目维护者评估类似争议提供参考。",
+  "tags": [
+    "Open Source",
+    "Linux",
+    "Display Driver",
+    "Legal",
+    "Synaptics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-04T16:06:38.567053+00:00",
+  "updated_at": "2026-11-04T16:07:13.331838+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-001",
+  "source": "rss",
+  "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+  "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+  "summary": "文章称 AMD 预计将在第四季度首次实现对 Intel 的整体销售超越。AMD 约 170 亿美元的业绩指引据称也将高于市场对 Intel 的预期，反映其处理器业务竞争力和市场份额正在提升。",
+  "tech_stack": [
+    "AMD Ryzen",
+    "Intel Core",
+    "x86",
+    "Chiplet",
+    "Semiconductor"
+  ],
+  "problem_solved": "分析 AMD 与 Intel 的竞争格局，并评估 AMD 最新业绩指引对 CPU 市场份额和行业竞争态势的影响。",
+  "why_valuable": "该消息为半导体行业竞争、AMD 商业表现及未来 CPU 市场格局提供了重要参考。",
+  "tags": [
+    "AMD",
+    "Intel",
+    "CPU",
+    "Semiconductors",
+    "Market Share"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-04T16:05:14.118375+00:00",
+  "updated_at": "2026-11-04T16:07:13.322393+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261104-018",
+  "source": "rss",
+  "source_url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+  "title": "Incident with Pull Requests, Git Operations and Issues",
+  "summary": "GitHub 状态页记录了一次影响 Pull Request、Git 操作与 Issues 功能的线上事件，并提供了事件详情及社区讨论链接。内容主要反映该平台核心协作功能在故障期间可能出现的异常与恢复情况。",
+  "tech_stack": [
+    "GitHub",
+    "Git",
+    "Pull Requests",
+    "Issue Tracking"
+  ],
+  "problem_solved": "公开说明 GitHub 核心开发协作功能发生故障的时间、影响范围和恢复进展。",
+  "why_valuable": "透明披露服务中断有助于开发者排查问题、调整工作流程，并评估对软件协作与交付周期的影响。",
+  "tags": [
+    "GitHub",
+    "Incident",
+    "Git",
+    "DevOps",
+    "Service Reliability"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-04T16:07:01.678553+00:00",
+  "updated_at": "2026-11-04T16:07:13.332131+00:00",
+  "published_to": []
+}

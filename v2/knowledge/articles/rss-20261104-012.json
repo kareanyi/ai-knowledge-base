@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261104-012",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+  "title": "Jaron Lanier on parallels between AI and social media",
+  "summary": "这是一段由 Jaron Lanier（《You Are Not an App》等书作者、虚拟现实先驱）参与的 YouTube 访谈，核心讨论是 AI 崛起与社交媒体时代在商业模式、激励机制和信息操纵上的深层相似性。视频借助 Hacker News 社区进行讨论（31 分、2 条评论），反映了技术圈对 AI 议程与社交媒体历史教训之间类比的关注。",
+  "tech_stack": [
+    "YouTube",
+    "Hacker News",
+    "Artificial Intelligence",
+    "Social Media"
+  ],
+  "problem_solved": "通过历史类比揭示 AI 产业可能重蹈社交媒体在注意力变现、信息极化与权力集中上的覆辙，为理解 AI 的商业与社会影响提供参照框架。",
+  "why_valuable": "为当下狂热的 AI 叙事提供一个来自资深技术先驱的批判性视角，帮助决策者和开发者思考激励结构与长期社会后果，而不止于技术能力本身。",
+  "tags": [
+    "AI",
+    "Social Media",
+    "Tech Ethics",
+    "Interviews",
+    "Criticism"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-04T16:06:15.752887+00:00",
+  "updated_at": "2026-11-04T16:07:13.331350+00:00",
+  "published_to": []
+}

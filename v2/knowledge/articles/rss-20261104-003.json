@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-003",
+  "source": "rss",
+  "source_url": "https://evergreenlang.net",
+  "title": "Evergreen: A Provably Safe Systems Language",
+  "summary": "Evergreen 是一门研究型系统编程语言，目标是让系统软件在编译期获得可证明的安全性保证（类似 Verus/seL4 的思路），通过类型与效果系统、证明义务以及 proof-carrying code 等机制，将资源管理、内存安全等正确性证明纳入语言与工具链。其定位是面向需要长期运行、可自愈的持久化系统，在保证安全的同时兼顾现代系统编程的可用性。当前 HN 讨论热度较低（11 分、2 条评论），社区关注度有限。",
+  "tech_stack": [
+    "Evergreen",
+    "Formal Verification",
+    "Type & Effect Systems",
+    "Proof-Carrying Code",
+    "Systems Programming"
+  ],
+  "problem_solved": "为系统级软件提供语言级、机器可检查的形式化安全保证，避免因内存/资源管理错误导致的崩溃与漏洞。",
+  "why_valuable": "把'可证明安全'从大型一次性验证项目推进到日常可用的编程语言层面，可显著降低关键基础设施软件的验证成本与缺陷率。",
+  "tags": [
+    "Formal Verification",
+    "Systems Programming",
+    "Type Systems",
+    "Safety",
+    "Language Design"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-04T16:05:27.272812+00:00",
+  "updated_at": "2026-11-04T16:07:13.322845+00:00",
+  "published_to": []
+}

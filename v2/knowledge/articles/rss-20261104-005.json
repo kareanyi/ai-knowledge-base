@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-005",
+  "source": "rss",
+  "source_url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+  "title": "Adding Window Functions to a Spreadsheet",
+  "summary": "文章介绍如何为 Grist 电子表格添加窗口函数支持，使用户能够便捷地计算累计值、移动平均等需要跨行处理的分析结果，而不必手动追踪或拼接数据。该功能扩展了电子表格在复杂数据分析场景中的 SQL 能力。",
+  "tech_stack": [
+    "Grist",
+    "SQL",
+    "Window Functions",
+    "Python",
+    "PostgreSQL"
+  ],
+  "problem_solved": "解决电子表格中难以高效执行累计汇总、分组排名和跨行计算等分析任务的问题。",
+  "why_valuable": "窗口函数可以显著简化运行总计及其他复杂报表的计算过程，同时保留电子表格式的可视化与交互体验。",
+  "tags": [
+    "Spreadsheet",
+    "Window Functions",
+    "SQL",
+    "Data Analysis",
+    "Grist"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-04T16:05:36.902108+00:00",
+  "updated_at": "2026-11-04T16:07:13.330462+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261104-002",
+  "source": "rss",
+  "source_url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+  "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+  "summary": "文章探讨如何在允许用户信任自有 MCP 客户端的同时，避免通过不受信任的重定向 URI 引入钓鱼攻击。核心思路是为 MCP 客户端引入可信重定向机制，在 OAuth 或授权流程中区分可信客户端与潜在恶意端点，从而兼顾可用性与安全性。",
+  "tech_stack": [
+    "MCP",
+    "OAuth",
+    "Redirect URI",
+    "Security"
+  ],
+  "problem_solved": "解决 MCP 客户端授权流程中因不可信重定向 URI 导致用户凭据泄露或遭受钓鱼攻击的问题。",
+  "why_valuable": "该机制能够降低第三方 MCP 客户端接入时的安全风险，使用户无需完全放弃自有客户端，同时保持授权流程的可验证性。",
+  "tags": [
+    "MCP",
+    "OAuth",
+    "Phishing",
+    "Redirect URI",
+    "Security"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-04T16:05:19.371105+00:00",
+  "updated_at": "2026-11-04T16:07:13.322696+00:00",
+  "published_to": []
+}

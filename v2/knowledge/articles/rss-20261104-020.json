@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261104-020",
+  "source": "rss",
+  "source_url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+  "title": "Kitty 0.50",
+  "summary": "Kitty 0.50 是 Kovid Goyal 开发的跨平台 GPU 加速终端模拟器的版本更新记录。该版本主要面向高级用户和终端工具开发者，用于跟踪新功能、兼容性改进与问题修复。",
+  "tech_stack": [
+    "C",
+    "Python",
+    "Linux",
+    "macOS"
+  ],
+  "problem_solved": "为开发者提供高性能、GPU 加速且可深度定制的现代终端模拟体验。",
+  "why_valuable": "Kitty 通过硬件加速、丰富的配置能力和脚本化支持，提升了命令行环境的性能与可扩展性。",
+  "tags": [
+    "Terminal",
+    "GPU Acceleration",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-04T16:07:12.309541+00:00",
+  "updated_at": "2026-11-04T16:07:13.332421+00:00",
+  "published_to": []
+}

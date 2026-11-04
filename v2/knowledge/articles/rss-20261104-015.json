@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-015",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+  "title": "AI is forcing us to pay off 40 years of technical debt",
+  "summary": "文章讨论 AI 在网络安全领域的双重作用：它能够更高效地发现和利用长期积累的技术债务所形成的漏洞，但也迫使组织立即修补旧系统。PHP2Shell 漏洞成为这一问题的典型案例，凸显传统软件维护、补丁管理和遗留架构在 AI 辅助攻击面前的紧迫性。",
+  "tech_stack": [
+    "PHP",
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Vulnerability Management",
+    "Software Maintenance"
+  ],
+  "problem_solved": "文章旨在揭示 AI 加速漏洞发现与利用后，遗留软件、薄弱补丁流程和长期技术债务所带来的安全风险。",
+  "why_valuable": "它促使安全团队正视延迟修补和架构老化的问题，并在 AI 全面参与攻防前优先完成技术债务治理。",
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "Technical Debt",
+    "PHP",
+    "Vulnerability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-04T16:06:32.932083+00:00",
+  "updated_at": "2026-11-04T16:07:13.331717+00:00",
+  "published_to": []
+}

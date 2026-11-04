@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-010",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50366117",
+  "title": "Ask HN: What's your current AI agentic setup?",
+  "summary": "这是一则 Hacker News 社区讨论帖，旨在调查开发者如何在日常工作中配置和使用 AI agent。作者围绕 AI 订阅、套餐选择、同一服务商的多个账号，以及订阅之外所使用的模型等主题征求回复，希望了解社区的真实实践与使用趋势。",
+  "tech_stack": [
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "AI Agents"
+  ],
+  "problem_solved": "通过收集 AI 用户的工作流、订阅偏好和工具组合，揭示开发者日常采用 AI agent 的现状与实践差异。",
+  "why_valuable": "社区成员的亲身经验可为 AI 工具选型、成本控制和个人生产力工作流设计提供实用参考。",
+  "tags": [
+    "AI Agents",
+    "Developer Tools",
+    "Subscriptions",
+    "Productivity",
+    "Community Survey"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-04T16:06:07.449966+00:00",
+  "updated_at": "2026-11-04T16:07:13.331113+00:00",
+  "published_to": []
+}

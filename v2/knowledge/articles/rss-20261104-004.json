@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261104-004",
+  "source": "rss",
+  "source_url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+  "title": "Pierre Computer is being acquired by OpenAI",
+  "summary": "Pierre Computer 宣布其公司被 OpenAI 收购，具体交易条款尚未披露。这条推文本身信息量极少，主要是一个被收购公告，并附带了 Hacker News 的讨论链接（16 分、6 条评论），反映社区对 AI 智能体初创公司被巨头整合的关注。",
+  "tech_stack": [
+    "AI Agents",
+    "LLM",
+    "Python",
+    "OpenAI API"
+  ],
+  "problem_solved": "通过打造可自主执行长周期任务的 AI 智能体（Pierre），解决个人计算机操作与工作流自动化的问题，此次收购将这些能力并入 OpenAI 的产品生态。",
+  "why_valuable": "该收购表明 OpenAI 正将通用 AI 智能体作为战略方向，把独立团队的智能体技术与自有模型和平台整合，可能加速端到端任务自动化的落地。",
+  "tags": [
+    "AI",
+    "Acquisition",
+    "Agents",
+    "OpenAI",
+    "Startup"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-04T16:05:32.625880+00:00",
+  "updated_at": "2026-11-04T16:07:13.330295+00:00",
+  "published_to": []
+}

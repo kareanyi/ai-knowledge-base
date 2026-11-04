@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-014",
+  "source": "rss",
+  "source_url": "https://github.com/Vapmuz/Mocktastic",
+  "title": "Mocktastic: A Meshtastic Node on Arduino",
+  "summary": "Mocktastic 是一个运行在 Arduino 平台上的 Meshtastic 节点项目，用于构建低成本、基于 LoRa 的去中心化通信设备。文章主要介绍该 GitHub 项目及其实现，目前提供的讨论和社区反馈较少。",
+  "tech_stack": [
+    "Arduino",
+    "Meshtastic",
+    "C/C++",
+    "LoRa",
+    "PlatformIO"
+  ],
+  "problem_solved": "它让开发者能够利用 Arduino 和 LoRa 硬件搭建低成本、可离线或弱网络环境下使用的 Meshtastic 网格通信节点。",
+  "why_valuable": "该项目降低了部署低成本网格通信设备的门槛，可用于应急通信、户外协作和偏远地区的消息传输。",
+  "tags": [
+    "Arduino",
+    "Meshtastic",
+    "LoRa",
+    "Mesh Networking",
+    "Hardware"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-04T16:06:26.610089+00:00",
+  "updated_at": "2026-11-04T16:07:13.331594+00:00",
+  "published_to": []
+}

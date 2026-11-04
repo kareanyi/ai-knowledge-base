@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261104-013",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+  "title": "North Korean fake job interview led to $6.3B Binance heist",
+  "summary": "文章讲述朝鲜黑客通过虚假招聘面试，诱骗受害者安装恶意软件并窃取加密资产，最终从 Binance 相关系统中盗走价值约 63 亿美元的数字货币。这一事件突显了高级持续性威胁组织将社交工程、恶意软件与加密资产变现相结合的攻击链。",
+  "tech_stack": [
+    "Binance",
+    "Cryptocurrency",
+    "Malware",
+    "Social Engineering",
+    "Blockchain"
+  ],
+  "problem_solved": "揭示并分析朝鲜黑客如何利用虚假招聘流程渗透受害者设备，最终实施大规模加密货币盗窃。",
+  "why_valuable": "该案例为加密交易所和求职者应对社会工程攻击、恶意软件入侵及巨额数字资产风险提供了重要警示。",
+  "tags": [
+    "Cybersecurity",
+    "Cryptocurrency Theft",
+    "North Korea",
+    "Social Engineering",
+    "Malware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-04T16:06:22.289077+00:00",
+  "updated_at": "2026-11-04T16:07:13.331477+00:00",
+  "published_to": []
+}
