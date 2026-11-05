@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261105-004",
+  "source": "rss",
+  "source_url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+  "title": "September in Servo: <progress>, rounded rectangles, and more",
+  "summary": "文章介绍了 Servo 浏览器引擎在九月期间的开发进展，重点提到渲染能力改进以及圆角矩形等图形特性的支持。现有内容仅包含标题、链接和社区讨论信息，未提供具体技术实现、性能数据或功能细节。",
+  "tech_stack": [
+    "Servo",
+    "Rust",
+    "CSS Rendering",
+    "Web APIs"
+  ],
+  "problem_solved": "通过持续完善现代 Web 标准支持和浏览器渲染能力，缩小 Servo 与主流浏览器在网页兼容性和视觉表现上的差距。",
+  "why_valuable": "这些改进有助于提升 Servo 的网页兼容性、渲染质量及作为独立浏览器引擎的实用性。",
+  "tags": [
+    "Servo",
+    "Browser Engine",
+    "Web Standards",
+    "Rendering"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-05T16:19:13.716885+00:00",
+  "updated_at": "2026-11-05T16:20:55.522861+00:00",
+  "published_to": []
+}

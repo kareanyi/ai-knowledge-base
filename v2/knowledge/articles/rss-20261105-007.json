@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261105-007",
+  "source": "rss",
+  "source_url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+  "title": "Obscure audio codec is a perfect fit for the N64",
+  "summary": "文章探讨一种较少被关注、但与 Nintendo 64 系统特性高度契合的 ULC 音频编解码技术。其核心价值在于说明编解码器设计如何适应复古游戏机的硬件限制，并改善音频数据的存储与处理方式。",
+  "tech_stack": [
+    "Nintendo 64",
+    "ULC Audio Codec",
+    "Audio Compression",
+    "Game Development"
+  ],
+  "problem_solved": "解决 Nintendo 64 游戏音频在有限存储空间、计算能力和硬件兼容性约束下的编码、解码与资源占用问题。",
+  "why_valuable": "为复古游戏开发、音频逆向工程以及编解码器研究提供一个适合受限硬件平台的实用技术案例。",
+  "tags": [
+    "Audio Codec",
+    "Nintendo 64",
+    "Reverse Engineering",
+    "Compression",
+    "Retro Gaming"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-05T16:19:37.629636+00:00",
+  "updated_at": "2026-11-05T16:20:55.523573+00:00",
+  "published_to": []
+}

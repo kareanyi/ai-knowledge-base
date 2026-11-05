@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261105-005",
+  "source": "rss",
+  "source_url": "https://mcp-explained.com/",
+  "title": "MCP Explained",
+  "summary": "《MCP Explained》旨在解释 Model Context Protocol（MCP）的概念、作用和使用方式，帮助读者理解它如何连接 AI 应用与外部工具、数据源和服务。内容通过通俗介绍 MCP 的核心机制，降低理解这一新兴协议门槛。",
+  "tech_stack": [
+    "MCP",
+    "Large Language Models",
+    "AI Applications",
+    "APIs"
+  ],
+  "problem_solved": "解决开发者对 MCP 的概念、架构及其如何扩展 AI 模型工具调用能力缺乏系统理解的问题。",
+  "why_valuable": "提供清晰、集中的协议入门路径，有助于开发者快速掌握构建可调用外部资源和工具的 AI 应用所需的基础知识。",
+  "tags": [
+    "MCP",
+    "AI",
+    "LLM",
+    "Tools",
+    "Protocol"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-05T16:19:18.248615+00:00",
+  "updated_at": "2026-11-05T16:20:55.523140+00:00",
+  "published_to": []
+}

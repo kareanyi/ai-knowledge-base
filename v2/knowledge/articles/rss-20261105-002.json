@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261105-002",
+  "source": "rss",
+  "source_url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+  "title": "Image of Our Satellite-Choked Night Skies",
+  "summary": "文章展示了一幅展现夜晚天空被大量人造卫星占据的图像，直观呈现卫星数量快速增长对天文观测和夜空环境造成的视觉影响。内容结合高热度评论，引导读者关注太空交通、光污染及卫星扩散所带来的问题。",
+  "tech_stack": [
+    "Satellite Imagery",
+    "Astronomy",
+    "Earth Observation"
+  ],
+  "problem_solved": "通过直观图像提高公众对卫星密度激增及其天文观测影响的认识。",
+  "why_valuable": "它以可视化方式揭示了不断增长的卫星群可能带来的光污染、观测干扰和轨道安全问题。",
+  "tags": [
+    "Satellites",
+    "Astronomy",
+    "Space Debris",
+    "Light Pollution",
+    "Space Policy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-05T16:19:03.634646+00:00",
+  "updated_at": "2026-11-05T16:20:55.515174+00:00",
+  "published_to": []
+}

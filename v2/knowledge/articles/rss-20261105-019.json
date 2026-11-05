@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261105-019",
+  "source": "rss",
+  "source_url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+  "title": "Residential proxies detected on White House network",
+  "summary": "文章报道称，白宫网络环境检测到了住宅代理（residential proxies）活动，这类服务通过普通用户设备中转网络流量，可能被用于隐藏攻击来源或绕过基于 IP 的安全限制。内容重点在于网络监测、代理基础设施识别，以及此类威胁对政府和关键网络基础设施的潜在影响。",
+  "tech_stack": [
+    "Network Traffic Analysis",
+    "Proxy Detection",
+    "Threat Intelligence",
+    "Security Monitoring"
+  ],
+  "problem_solved": "识别并评估白宫网络中的住宅代理活动，以发现可能被用于规避检测、匿名化或隐藏真实攻击来源的威胁。",
+  "why_valuable": "揭示高敏感网络环境中的隐蔽代理基础设施，有助于强化归因分析、事件响应和网络安全防护。",
+  "tags": [
+    "Cybersecurity",
+    "Residential Proxy",
+    "Threat Intelligence",
+    "Network Security",
+    "White House"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-05T16:20:48.633490+00:00",
+  "updated_at": "2026-11-05T16:20:55.526112+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261105-008",
+  "source": "rss",
+  "source_url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+  "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+  "summary": "Vivaldi 8.3 桌面版浏览器引入更强的广告拦截能力，目标是减少网页中的侵扰式和低质量广告。此次更新还包含浏览器体验与隐私保护方面的改进，旨在为用户提供更干净、安静的网页浏览环境。",
+  "tech_stack": [
+    "Vivaldi Browser",
+    "Chromium",
+    "Ad Blocking",
+    "JavaScript"
+  ],
+  "problem_solved": "解决网页广告过度侵扰、影响浏览体验且可能带来隐私与安全风险的问题。",
+  "why_valuable": "内置广告拦截可减少页面干扰并降低用户接触恶意广告追踪与攻击的风险，同时提升浏览舒适度。",
+  "tags": [
+    "Vivaldi",
+    "Browser",
+    "Ad Blocking",
+    "Privacy",
+    "Web Browsing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-05T16:19:43.028335+00:00",
+  "updated_at": "2026-11-05T16:20:55.523786+00:00",
+  "published_to": []
+}

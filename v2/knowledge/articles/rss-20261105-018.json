@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261105-018",
+  "source": "rss",
+  "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+  "title": "A thousand fewer paths to root",
+  "summary": "文章围绕如何减少模型在推理或问题求解过程中到达目标解所需探索的路径数量展开，核心方向是通过更高效的搜索与推理策略降低冗余计算。文章强调减少无效探索对提升系统效率、准确性和可扩展性的意义，体现了以推理时计算换取模型能力的方法。",
+  "tech_stack": [
+    "Large Language Models",
+    "Reinforcement Learning",
+    "Tree Search",
+    "Inference-Time Scaling",
+    "Python"
+  ],
+  "problem_solved": "减少大语言模型在复杂任务求解时产生的冗余推理分支和无效搜索路径，从而降低计算成本并提高结果质量。",
+  "why_valuable": "更高效的推理路径能够以更低的延迟和资源消耗获得更可靠的答案，使复杂推理模型更易于实际部署。",
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Tree Search",
+    "Reinforcement Learning",
+    "Inference Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-05T16:20:43.112795+00:00",
+  "updated_at": "2026-11-05T16:20:55.525889+00:00",
+  "published_to": []
+}

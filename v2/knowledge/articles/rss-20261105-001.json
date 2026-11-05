@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261105-001",
+  "source": "rss",
+  "source_url": "https://nordstjernen.org/",
+  "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+  "summary": "文章介绍了 Nordstjernen、Northstar 和 Southstar 这三个以极简主义为特色的网页浏览器项目，分别采用 C 和 Rust 等系统级编程语言开发。内容聚焦于轻量级浏览器实现、不同语言的技术取舍以及极简浏览体验，但现有信息未提供具体的架构细节或功能对比。",
+  "tech_stack": [
+    "C",
+    "Rust",
+    "Web Browser",
+    "Systems Programming"
+  ],
+  "problem_solved": "这些项目试图通过精简浏览器架构与功能，解决现代网页浏览器资源占用较高、依赖复杂和使用体验臃肿的问题。",
+  "why_valuable": "它们展示了使用 C 和 Rust 构建轻量、可控且可能更高效网页浏览器的不同实践路径，为系统级软件和浏览器技术研究提供了参考。",
+  "tags": [
+    "Web Browser",
+    "Rust",
+    "C",
+    "Minimalism",
+    "Systems Programming"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-05T16:18:59.346576+00:00",
+  "updated_at": "2026-11-05T16:20:55.514768+00:00",
+  "published_to": []
+}

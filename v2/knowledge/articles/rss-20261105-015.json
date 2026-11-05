@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261105-015",
+  "source": "rss",
+  "source_url": "https://markblah.github.io/lemmings/",
+  "title": "Lemmings CSS Animation",
+  "summary": "该项目以 CSS 动画重现经典游戏《Lemmings》的视觉与运动效果，通过 HTML 元素和关键帧实现小人的移动、转向及场景互动。内容更偏向技术演示，展示了纯 CSS 在复杂角色动画和游戏化界面中的表达能力。",
+  "tech_stack": [
+    "CSS",
+    "HTML",
+    "CSS Animations",
+    "CSS Transforms"
+  ],
+  "problem_solved": "利用浏览器原生 CSS 动画实现无需复杂 JavaScript 逻辑的 Lemmings 风格互动演示。",
+  "why_valuable": "它为学习复杂 CSS 关键帧、变换控制以及浏览器原生动画在互动体验中的应用提供了直观案例。",
+  "tags": [
+    "CSS",
+    "Animation",
+    "Game",
+    "Web Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-05T16:20:22.193883+00:00",
+  "updated_at": "2026-11-05T16:20:55.525298+00:00",
+  "published_to": []
+}

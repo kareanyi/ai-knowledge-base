@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261105-020",
+  "source": "rss",
+  "source_url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+  "title": "Insects don't swarm at LED lights",
+  "summary": "文章探讨了昆虫通常不会像聚集在传统灯泡周围那样，围绕 LED 灯形成大规模群聚现象。其核心原因是 LED 发光效率更高、产生的紫外辐射较少，因而对具有趋光性的昆虫吸引力更弱，同时也有助于降低光污染和能源消耗。",
+  "tech_stack": [
+    "LED 照明",
+    "趋光性",
+    "光谱学",
+    "昆虫行为学"
+  ],
+  "problem_solved": "解释了 LED 灯相较传统人工照明不易吸引和聚集昆虫的物理与行为学原因，并帮助人们评估户外照明对夜间昆虫活动的影响。",
+  "why_valuable": "这一发现有助于设计更友好的城市照明方案，减少昆虫扰动、能量浪费以及由夜间照明引发的生态问题。",
+  "tags": [
+    "LED",
+    "Insects",
+    "Light Pollution",
+    "Entomology",
+    "Energy Efficiency"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-05T16:20:54.076176+00:00",
+  "updated_at": "2026-11-05T16:20:55.526305+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261105-012",
+  "source": "rss",
+  "source_url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+  "title": "Baidu released ERNIE 5.5 Flash Base",
+  "summary": "百度发布了 ERNIE 5.5 Flash Base，这是其新一代 ERNIE 大语言模型系列中的轻量级基础模型。页面提供了官方发布信息，并关联了 Hacker News 社区讨论，但现有内容未包含详细的技术架构或基准测试结果。",
+  "tech_stack": [
+    "ERNIE 5.5",
+    "Large Language Model",
+    "Baidu AI"
+  ],
+  "problem_solved": "该模型旨在为语言理解、文本生成及相关 AI 应用提供高效的基础模型能力。",
+  "why_valuable": "Flash Base 的轻量化定位可能有助于开发者以较低资源成本构建和部署大模型应用。",
+  "tags": [
+    "LLM",
+    "AI",
+    "Model Release",
+    "Baidu",
+    "ERNIE"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-05T16:20:05.350957+00:00",
+  "updated_at": "2026-11-05T16:20:55.524653+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261105-009",
+  "source": "rss",
+  "source_url": "https://sshhole.com",
+  "title": "Sshole",
+  "summary": "Sshole 是一个通过 SSH 服务器建立隧道和代理连接的工具，可用于远程访问内网资源或借助自有服务器转发网络流量。文章获得了较高的 Hacker News 社区关注，说明其免配置 SSH 隧道方案具有一定实用性，但当前输入仅包含链接和讨论元数据，缺少具体功能与技术实现细节。",
+  "tech_stack": [
+    "SSH",
+    "SOCKS5",
+    "HTTP Proxy",
+    "Linux"
+  ],
+  "problem_solved": "利用 SSH 隧道将设备连接到远程服务器，解决远程内网访问、网络转发以及部分场景下的访问限制问题。",
+  "why_valuable": "SSH 是部署广泛且协议成熟的远程访问方式，Sshole 将其封装为简单代理工具，可减少自行配置端口转发和代理环境的成本。",
+  "tags": [
+    "SSH",
+    "Proxy",
+    "Tunneling",
+    "Networking",
+    "Self-Hosted"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-05T16:19:49.250681+00:00",
+  "updated_at": "2026-11-05T16:20:55.524006+00:00",
+  "published_to": []
+}

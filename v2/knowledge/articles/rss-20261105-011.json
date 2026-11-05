@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261105-011",
+  "source": "rss",
+  "source_url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+  "title": "Awesome repositories are no longer awesome",
+  "summary": "文章探讨了“Awesome”类精选资源仓库为何逐渐失去原有的价值与影响力。结合文章在 Hacker News 获得的 173 分和 91 条评论，讨论重点可能涉及仓库质量下降、内容同质化、链接失效以及维护机制对资源发现体验的影响。现有材料仅包含标题、链接和讨论数据，未提供文章正文，因此具体结论无法确认。",
+  "tech_stack": [
+    "GitHub",
+    "Markdown"
+  ],
+  "problem_solved": "分析并解释精选型资源仓库在内容质量、可维护性和信息发现效率方面的退化问题。",
+  "why_valuable": "它帮助开发者和维护者重新评估 Awesome 列表的价值，并思考如何构建更可靠、更易维护的知识索引体系。",
+  "tags": [
+    "Open Source",
+    "Developer Resources",
+    "GitHub",
+    "Curation",
+    "Knowledge Management"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-05T16:20:01.098929+00:00",
+  "updated_at": "2026-11-05T16:20:55.524448+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261105-010",
+  "source": "rss",
+  "source_url": "https://www.openssh.org/releasenotes.html#10.6p2",
+  "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+  "summary": "文章介绍 OpenSSH 10.6p2 中一个影响 Alpine Linux 且未启用 PAM 环境的严重问题，并提供相应的临时规避方案。该内容主要面向需要在无 PAM 配置的系统上安全使用或升级 OpenSSH 的运维人员。",
+  "tech_stack": [
+    "OpenSSH",
+    "Alpine Linux",
+    "Linux",
+    "PAM",
+    "SSH"
+  ],
+  "problem_solved": "解决 OpenSSH 10.6p2 在 Alpine Linux 无 PAM 环境中可能触发的严重兼容性与安全问题，避免服务异常或安全风险。",
+  "why_valuable": "提供针对关键系统环境的安全升级与部署指导，可帮助运维人员降低 OpenSSH 故障和潜在攻击风险。",
+  "tags": [
+    "OpenSSH",
+    "Security",
+    "Alpine Linux",
+    "Workaround",
+    "PAM"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-05T16:19:53.867165+00:00",
+  "updated_at": "2026-11-05T16:20:55.524238+00:00",
+  "published_to": []
+}
