@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261106-016",
+  "source": "rss",
+  "source_url": "https://github.com/ppmpreetham/BUI",
+  "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+  "summary": "BUI 探索了 Blender 风格的 UI 与运行时架构，并通过性能对比展示其运行速度显著优于 Rust GUI 框架 GPUI。项目聚焦原生桌面界面的响应效率、渲染性能和运行时开销。",
+  "tech_stack": [
+    "Blender",
+    "C/C++",
+    "Rust",
+    "GPUI"
+  ],
+  "problem_solved": "它试图解决高性能原生桌面 GUI 中渲染延迟较高、事件处理与运行时开销较大的问题。",
+  "why_valuable": "更快的 UI 和运行时可改善复杂创作工具的交互响应速度，并为高性能 GUI 架构设计提供参考。",
+  "tags": [
+    "GUI",
+    "Performance",
+    "Runtime",
+    "Blender",
+    "Rust"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-06T15:50:18.163728+00:00",
+  "updated_at": "2026-11-06T15:50:38.688354+00:00",
+  "published_to": []
+}

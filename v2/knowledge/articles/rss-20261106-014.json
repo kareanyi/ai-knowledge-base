@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261106-014",
+  "source": "rss",
+  "source_url": "https://worldstrike.fun/",
+  "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+  "summary": "World Strike 是一款多人坦克对战游戏，玩家可以驾驶坦克摧毁由 OpenStreetMap 真实地理数据生成的建筑。项目将真实世界地图数据与游戏化破坏机制结合，创造了更具地域特色的多人射击体验。",
+  "tech_stack": [
+    "OpenStreetMap",
+    "3D Rendering",
+    "Multiplayer Networking",
+    "Web Technologies"
+  ],
+  "problem_solved": "将真实地理空间数据转化为可交互、可破坏的多人游戏场景，让玩家在熟悉的现实地点中进行游戏。",
+  "why_valuable": "它把地图数据、实时多人互动和第三人称坦克战斗结合起来，提供了区别于普通虚构地图游戏的创新体验。",
+  "tags": [
+    "Game",
+    "Multiplayer",
+    "OpenStreetMap",
+    "3D",
+    "WebGame"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-06T15:50:05.308476+00:00",
+  "updated_at": "2026-11-06T15:50:38.688147+00:00",
+  "published_to": []
+}

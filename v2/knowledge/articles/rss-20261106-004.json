@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261106-004",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50393105",
+  "title": "Ask HN: What in the world is taking Ubuntu so long?",
+  "summary": "该 Hacker News 讨论聚焦 Ubuntu 对高危漏洞 CVE-2026-98432 修复缓慢的问题：漏洞被标记为 9.8，但近一周仍处于处理中且仅提供了缓解措施。作者质疑 Ubuntu 是否因维护过多内核版本、构建与发布流程复杂或自动化不足而导致安全更新延迟，并表达了对项目安全响应能力的担忧。",
+  "tech_stack": [
+    "Ubuntu",
+    "Linux Kernel",
+    "CVE",
+    "Security Patching",
+    "Build Automation"
+  ],
+  "problem_solved": "文章试图分析 Ubuntu 高危漏洞补丁迟迟未发布的原因，并暴露其在漏洞响应、内核维护和安全更新流程上的潜在问题。",
+  "why_valuable": "它提醒开发者和系统管理员关注严重漏洞修复延迟所带来的供应链与运行时安全风险，同时揭示了复杂发行版维护流程中的协调成本。",
+  "tags": [
+    "Ubuntu",
+    "Security",
+    "CVE",
+    "Linux",
+    "Patch Management"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-06T15:49:12.893478+00:00",
+  "updated_at": "2026-11-06T15:50:38.687083+00:00",
+  "published_to": []
+}

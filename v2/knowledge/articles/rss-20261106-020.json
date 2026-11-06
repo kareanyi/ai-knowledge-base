@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261106-020",
+  "source": "rss",
+  "source_url": "https://pwn.college/",
+  "title": "Pwn.college",
+  "summary": "Pwn.college 是一个面向网络安全学习者的免费在线教育平台，提供漏洞利用、逆向工程、系统安全等实践课程与挑战。其核心理念是通过互动式实验和逐步引导的 CTF 训练，将抽象的安全知识转化为可动手验证的技能。",
+  "tech_stack": [
+    "Linux",
+    "Docker",
+    "C/C++",
+    "Python",
+    "x86 Assembly"
+  ],
+  "problem_solved": "它解决了网络安全知识缺乏安全、系统的动手实践环境，以及初学者难以系统学习漏洞利用和渗透测试技术的问题。",
+  "why_valuable": "平台将结构化课程、真实漏洞环境和即时反馈结合起来，能够有效提升学习者的实战能力与安全职业准备度。",
+  "tags": [
+    "Cybersecurity",
+    "CTF",
+    "Exploit Development",
+    "Education",
+    "Reverse Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-06T15:50:37.406718+00:00",
+  "updated_at": "2026-11-06T15:50:38.688704+00:00",
+  "published_to": []
+}

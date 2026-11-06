@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261106-015",
+  "source": "rss",
+  "source_url": "https://apps.metaebene.me/en/kugelblitz",
+  "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+  "summary": "Kugelblitz 是一款面向 macOS 的原生 Google Earth 替代应用，旨在提供三维地球浏览与地理空间探索体验。项目强调 Mac 原生实现和独立的桌面端交互，文章及 Hacker News 讨论页面显示其获得了较高的社区关注度。",
+  "tech_stack": [
+    "macOS",
+    "Swift",
+    "Apple Native APIs",
+    "3D Graphics",
+    "Mapping"
+  ],
+  "problem_solved": "为 macOS 用户提供区别于网页版 Google Earth 的原生桌面端地球浏览与地理探索工具。",
+  "why_valuable": "原生 Mac 体验能够更好地整合系统交互、性能和桌面工作流，为地理学习、探索及可视化提供更流畅的使用方式。",
+  "tags": [
+    "macOS",
+    "Google Earth",
+    "3D",
+    "Mapping",
+    "Native App"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-06T15:50:13.166351+00:00",
+  "updated_at": "2026-11-06T15:50:38.688258+00:00",
+  "published_to": []
+}

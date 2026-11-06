@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261106-009",
+  "source": "rss",
+  "source_url": "https://github.com/Unleash/unleash",
+  "title": "We've built an open-source feature flag server for 11 years",
+  "summary": "Unleash 是一个持续维护了 11 年的开源功能开关服务器，用于帮助团队在不影响用户的情况下控制功能发布。核心场景包括渐进式发布、A/B 测试、紧急关闭功能，以及将功能部署与功能启用解耦。",
+  "tech_stack": [
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "OpenAPI"
+  ],
+  "problem_solved": "它通过集中管理功能开关，解决功能发布流程耦合、灰度控制困难以及生产环境中快速回滚和紧急停用功能的问题。",
+  "why_valuable": "成熟且经过多年生产验证的开源方案能够降低功能交付风险，并提升团队发布、实验和功能生命周期管理的效率与可控性。",
+  "tags": [
+    "Feature Flags",
+    "Open Source",
+    "DevOps",
+    "Release Management",
+    "A/B Testing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-06T15:49:39.544094+00:00",
+  "updated_at": "2026-11-06T15:50:38.687619+00:00",
+  "published_to": []
+}

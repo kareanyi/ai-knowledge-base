@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261106-011",
+  "source": "rss",
+  "source_url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+  "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+  "summary": "荷兰银行 ASN 因安全政策阻止在非 Google Android 设备上运行其银行应用，其中也包括强调隐私与去 Google 化的 GrapheneOS。该问题反映了银行应用的设备完整性检测与 Android 隐私替代方案之间的冲突，并在 banking-apps-compat-report 项目中记录了相关兼容性情况。",
+  "tech_stack": [
+    "Android",
+    "Google Play Services",
+    "GrapheneOS",
+    "ASN Banking App",
+    "Device Attestation"
+  ],
+  "problem_solved": "记录并追踪银行应用对非 Google Android 设备及替代操作系统的兼容性限制，为用户和技术人员评估移动银行访问提供参考。",
+  "why_valuable": "它揭示了大型银行应用如何限制设备安全认证，可能影响注重隐私、免 Google 服务用户以及 Android 生态的多样性。",
+  "tags": [
+    "Android",
+    "GrapheneOS",
+    "Banking Apps",
+    "Device Security",
+    "Privacy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-06T15:49:49.349751+00:00",
+  "updated_at": "2026-11-06T15:50:38.687803+00:00",
+  "published_to": []
+}

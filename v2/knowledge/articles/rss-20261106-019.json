@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261106-019",
+  "source": "rss",
+  "source_url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+  "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+  "summary": "文章探讨了志愿者如何通过参与 Linux、Wikipedia 等开放协作项目，建设和维护支撑互联网的基础设施。其核心强调了群体协作、开放治理和共享资源对互联网技术生态的重要作用。",
+  "tech_stack": [
+    "Linux",
+    "Wikipedia",
+    "Internet",
+    "Open Source",
+    "Community Collaboration"
+  ],
+  "problem_solved": "展示分散的个体能够通过开放协作，持续开发、改进并维护互联网所依赖的软件与知识基础设施。",
+  "why_valuable": "它让读者了解互联网并非只由大型科技公司构建，同时揭示了开放社区对技术持续创新和公共知识共享的关键贡献。",
+  "tags": [
+    "Open Source",
+    "Volunteering",
+    "Internet",
+    "Linux",
+    "Collaboration"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-06T15:50:31.547275+00:00",
+  "updated_at": "2026-11-06T15:50:38.688616+00:00",
+  "published_to": []
+}

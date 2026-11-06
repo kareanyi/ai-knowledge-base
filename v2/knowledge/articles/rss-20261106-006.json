@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261106-006",
+  "source": "rss",
+  "source_url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+  "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+  "summary": "文章探讨 AI 数据抓取机器人正在大量访问大学图书馆的数字资源，可能违反访问规则并挤占公共用户的使用容量。随着生成式 AI 训练数据需求增长，图书馆的开放访问与平台可持续性之间出现新的冲突。",
+  "tech_stack": [
+    "AI",
+    "Web Scraping",
+    "Generative AI",
+    "Digital Libraries"
+  ],
+  "problem_solved": "揭示 AI 爬虫大规模抓取大学图书馆资源所引发的访问拥堵、带宽压力及公共资源可用性风险。",
+  "why_valuable": "它提醒图书馆和 AI 企业关注数据抓取的伦理、版权与基础设施成本，避免数字公共资源被自动化采集活动过度消耗。",
+  "tags": [
+    "AI",
+    "Web Scraping",
+    "University Libraries",
+    "Data Ethics",
+    "Digital Access"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-06T15:49:25.894139+00:00",
+  "updated_at": "2026-11-06T15:50:38.687329+00:00",
+  "published_to": []
+}

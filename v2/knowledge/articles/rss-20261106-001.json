@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261106-001",
+  "source": "rss",
+  "source_url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+  "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+  "summary": "美国联邦航空管理局（FAA）开始淘汰空中交通控制系统中使用了数十年的软盘，推动老旧基础设施现代化。此次升级旨在减少过时存储介质带来的可靠性、维护与网络安全风险。",
+  "tech_stack": [
+    "Floppy Disk Storage",
+    "Legacy ATC Systems",
+    "Modernized Aviation Infrastructure"
+  ],
+  "problem_solved": "解决空中交通控制系统依赖老旧软盘所导致的维护困难、可靠性下降和安全风险问题。",
+  "why_valuable": "淘汰过时技术并更新关键航空基础设施，有助于提升空管系统的稳定性、运行效率和网络安全性。",
+  "tags": [
+    "FAA",
+    "Air Traffic Control",
+    "Legacy Modernization",
+    "Aviation",
+    "Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-06T15:48:57.977182+00:00",
+  "updated_at": "2026-11-06T15:50:38.680368+00:00",
+  "published_to": []
+}

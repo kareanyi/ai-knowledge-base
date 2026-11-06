@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261106-012",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/how-researchers-use-claude",
+  "title": "AI for scientific discovery: How researchers use Claude",
+  "summary": "文章探讨 Claude 在科学研究中的实际应用，展示研究人员如何借助该 AI 模型辅助研究工作。提供的材料仅包含标题、链接及社区讨论信息，未包含具体应用案例或技术细节。",
+  "tech_stack": [
+    "Claude",
+    "Anthropic",
+    "Generative AI"
+  ],
+  "problem_solved": "利用生成式 AI 提升科学研究中的信息处理、分析与知识探索效率。",
+  "why_valuable": "AI 助手可以减少研究人员的重复性工作，并支持从文献理解到假设探索等高价值科研活动。",
+  "tags": [
+    "AI",
+    "Claude",
+    "Scientific Discovery",
+    "Research",
+    "LLM"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-06T15:49:53.728257+00:00",
+  "updated_at": "2026-11-06T15:50:38.687894+00:00",
+  "published_to": []
+}

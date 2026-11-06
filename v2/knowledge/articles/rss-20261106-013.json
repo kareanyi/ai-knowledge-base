@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261106-013",
+  "source": "rss",
+  "source_url": "https://www.norvig.com/chomsky.html",
+  "title": "Chomsky and the Two Cultures of Statistical Learning",
+  "summary": "文章讨论乔姆斯基所代表的语言学传统与现代统计学习之间的“两套文化”，并重新审视语言模型在自然语言处理领域的成就及其理论局限。内容重点在于比较形式语言学与数据驱动方法如何理解语言、智能与学习。",
+  "tech_stack": [
+    "Statistical Learning",
+    "Natural Language Processing",
+    "Language Models",
+    "Computational Linguistics"
+  ],
+  "problem_solved": "梳理乔姆斯基式理论研究与统计机器学习之间的分歧，帮助读者理解现代语言模型的理论依据、实际成效及争议。",
+  "why_valuable": "它将语言学经典争论置于现代人工智能和统计学习背景下，为评估语言模型的智能水平与研究范式提供更全面的视角。",
+  "tags": [
+    "AI",
+    "NLP",
+    "Chomsky",
+    "Statistical Learning",
+    "Language Models"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-06T15:50:00.270070+00:00",
+  "updated_at": "2026-11-06T15:50:38.688043+00:00",
+  "published_to": []
+}
