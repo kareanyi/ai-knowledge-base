@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261107-005",
+  "source": "rss",
+  "source_url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+  "title": "Port 0: The Port That Does Not Exist",
+  "summary": "文章围绕网络中的“端口 0”展开，讨论这一特殊端口的含义及其在连接、服务监听和系统实现中的行为。现有内容仅包含标题、链接与讨论热度信息，未提供正文，因此无法确认作者对不同操作系统或协议的具体结论。",
+  "tech_stack": [
+    "TCP/IP",
+    "Networking",
+    "HTTP"
+  ],
+  "problem_solved": "解释端口 0 的特殊语义及其对网络连接配置和服务发现过程的影响。",
+  "why_valuable": "厘清端口 0 的边界行为有助于开发者避免将保留或无效端口误用于服务监听与客户端连接。",
+  "tags": [
+    "Networking",
+    "TCP",
+    "Port",
+    "System Programming"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:02.867718+00:00",
+  "updated_at": "2026-11-07T14:50:32.214441+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261107-008",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+  "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+  "summary": "该报道利用古DNA分析检验一个古代蛮族部族的神话起源传说，并将遗传证据与历史、考古资料进行交叉验证。研究表明，相关群体的迁徙与祖源关系在某种程度上符合古代文献中的起源叙事，为理解该部族的历史提供了独立的科学证据。",
+  "tech_stack": [
+    "古DNA分析",
+    "全基因组测序",
+    "群体遗传学",
+    "生物信息学",
+    "考古学"
+  ],
+  "problem_solved": "通过遗传学证据检验古代民族神话及早期历史记载中的起源与迁徙说法是否具有事实基础。",
+  "why_valuable": "它将古DNA、考古学和历史文献结合起来，为难以仅靠文字资料还原的古代人口迁徙与族源问题提供客观证据。",
+  "tags": [
+    "Ancient-DNA",
+    "Population-Genetics",
+    "Archaeology",
+    "Migration",
+    "History"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:20.484084+00:00",
+  "updated_at": "2026-11-07T14:50:32.214863+00:00",
+  "published_to": []
+}

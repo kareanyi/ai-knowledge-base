@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261107-009",
+  "source": "rss",
+  "source_url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+  "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+  "summary": "RealPage 租金定价诉讼以向租户支付近 3.6 亿美元告终，案件聚焦其租金定价软件及算法是否促成房东协同抬价。事件凸显出租住房市场中算法定价、反垄断合规与消费者权益保护之间的重要争议。",
+  "tech_stack": [
+    "RealPage Rental Pricing Software",
+    "Algorithmic Pricing",
+    "Data Analytics"
+  ],
+  "problem_solved": "通过诉讼和和解追究大型租金定价软件在多户住宅市场中的潜在价格协调责任，并为主要受影响租户提供经济补偿。",
+  "why_valuable": "案件表明高度集中且自动化的商业定价工具可能产生反垄断风险，对租户、房东、软件供应商和政策制定者都具有重要参考价值。",
+  "tags": [
+    "RealPage",
+    "Rent Pricing",
+    "Algorithmic Pricing",
+    "Antitrust",
+    "Renter Rights"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:24.988003+00:00",
+  "updated_at": "2026-11-07T14:50:32.215018+00:00",
+  "published_to": []
+}

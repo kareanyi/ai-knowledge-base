@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261107-010",
+  "source": "rss",
+  "source_url": "https://mitchellh.com/writing/libghostty-1-0",
+  "title": "Libghostty 1.0",
+  "summary": "Libghostty 1.0 宣布以稳定版本形式开放 Ghostty 终端模拟器的核心能力，使开发者能够在自己的应用中嵌入原生终端功能。借助 Ghostty 基于 Zig 构建的高性能与原生图形架构，该库旨在提供更现代、可维护的终端实现，而不再局限于传统终端模拟器用户界面。",
+  "tech_stack": [
+    "Zig",
+    "Ghostty",
+    "Libghostty",
+    "Terminal Emulation"
+  ],
+  "problem_solved": "它为需要在桌面或移动应用中嵌入终端功能的开发者提供了 Ghostty 的高性能终端核心库，填补了现代、原生且可复用终端组件的空白。",
+  "why_valuable": "开发者可以复用经过生产环境验证的终端模拟与渲染能力，降低自行实现复杂终端行为、Unicode 渲染和平台适配的成本。",
+  "tags": [
+    "Terminal",
+    "Library",
+    "Zig",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:29.807531+00:00",
+  "updated_at": "2026-11-07T14:50:32.215151+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261107-003",
+  "source": "rss",
+  "source_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+  "title": "Every Mac comes with an (undocumented) family member classifier",
+  "summary": "文章探讨了 macOS 与 Apple Intelligence 中一个未公开的“家庭成员分类器”，该模型可能用于识别照片或个人资料中的家庭成员。结合个人知识图谱，这项能力暗示 Apple 正尝试让设备理解用户的人际关系与个人背景。",
+  "tech_stack": [
+    "Apple Intelligence",
+    "macOS",
+    "On-device Machine Learning",
+    "Personal Knowledge Graph"
+  ],
+  "problem_solved": "自动识别照片及其他个人数据中的家庭成员，从而为设备上的个人化搜索、照片整理和上下文智能提供基础。",
+  "why_valuable": "理解家庭关系能让 Apple Intelligence 更准确地关联人物、回忆和上下文，显著提升个人化体验，同时也有助于减少用户手工标记照片的成本。",
+  "tags": [
+    "Apple Intelligence",
+    "Machine Learning",
+    "Personalization",
+    "Knowledge Graph",
+    "macOS"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:48:49.811850+00:00",
+  "updated_at": "2026-11-07T14:50:32.207655+00:00",
+  "published_to": []
+}

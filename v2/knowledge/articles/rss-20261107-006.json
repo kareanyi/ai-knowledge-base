@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261107-006",
+  "source": "rss",
+  "source_url": "https://nfsu2.xyz/",
+  "title": "Need for Speed Underground 2 online in the browser",
+  "summary": "该项目将经典赛车游戏《Need for Speed Underground 2》移植到浏览器中，玩家无需安装原生游戏客户端即可在线游玩。页面还聚合了相关技术社区讨论，显示出较高的用户关注度与怀旧游戏社区兴趣。",
+  "tech_stack": [
+    "HTML5",
+    "JavaScript",
+    "WebAssembly",
+    "游戏模拟技术"
+  ],
+  "problem_solved": "让玩家可以直接在浏览器中体验《Need for Speed Underground 2》，降低安装、配置和跨平台运行游戏的门槛。",
+  "why_valuable": "它为经典游戏提供了便捷且易于访问的网页游玩方式，同时保留了原作的赛车竞速体验并具有怀旧收藏价值。",
+  "tags": [
+    "Browser Gaming",
+    "WebAssembly",
+    "Racing Game",
+    "Game Porting",
+    "Nostalgia"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:07.558707+00:00",
+  "updated_at": "2026-11-07T14:50:32.214585+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261107-011",
+  "source": "rss",
+  "source_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+  "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+  "summary": "Google 收购了 Crusoe 位于美国怀俄明州东南部的一处数据中心园区，标志着双方在 AI 基础设施领域的进一步合作。该项目原本由 Crusoe 推动建设，重点面向大规模计算需求，并为 Google 扩展云计算和 AI 数据中心布局提供关键资产。",
+  "tech_stack": [
+    "Google Cloud",
+    "AI Infrastructure",
+    "Cloud Computing",
+    "Data Centers"
+  ],
+  "problem_solved": "通过收购现成的大型数据中心园区，Google 能够更快扩充云计算与 AI 算力基础设施，而无需从零开始建设。",
+  "why_valuable": "该交易有助于应对生成式 AI 带来的算力需求增长，并强化 Google 在高性能计算和云服务领域的竞争力。",
+  "tags": [
+    "Data Centers",
+    "AI Infrastructure",
+    "Cloud Computing",
+    "Acquisition",
+    "Google"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:35.351599+00:00",
+  "updated_at": "2026-11-07T14:50:32.215284+00:00",
+  "published_to": []
+}

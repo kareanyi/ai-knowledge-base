@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261107-018",
+  "source": "rss",
+  "source_url": "https://kevinboone.me/efitest_index.html",
+  "title": "First steps in bare-metal programming using UEFI",
+  "summary": "文章介绍了使用 UEFI 进行裸机编程的初步步骤，帮助开发者理解如何在不依赖传统操作系统引导流程的情况下编写和运行底层固件程序。内容重点聚焦于 UEFI 开发环境、基本启动机制以及最小化测试程序的实现。",
+  "tech_stack": [
+    "UEFI",
+    "C",
+    "x86-64",
+    "GCC"
+  ],
+  "problem_solved": "它为开发者提供了进入 UEFI 裸机编程世界的实践路径，解答了如何搭建环境、编写固件代码并通过 UEFI 启动测试程序等基础问题。",
+  "why_valuable": "该教程降低了学习现代固件开发和底层系统编程的门槛，并展示了 UEFI 作为可编程启动环境的重要价值。",
+  "tags": [
+    "UEFI",
+    "Bare-Metal",
+    "Firmware",
+    "System Programming",
+    "Low-Level"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:50:20.574017+00:00",
+  "updated_at": "2026-11-07T14:50:32.216329+00:00",
+  "published_to": []
+}

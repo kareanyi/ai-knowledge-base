@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261107-014",
+  "source": "rss",
+  "source_url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+  "title": "GitHub's new Git storage architecture",
+  "summary": "文章介绍了 GitHub 新一代 Git 存储架构的设计与优化，重点分析其在大规模代码托管场景下提升存储效率、可扩展性和可靠性的方法。该内容属于 GitHub 工程团队对底层基础设施架构的技术分享。",
+  "tech_stack": [
+    "Git",
+    "GitHub",
+    "Distributed Systems",
+    "Cloud Storage",
+    "Scalable Infrastructure"
+  ],
+  "problem_solved": "解决 GitHub 在海量仓库和高并发访问下传统 Git 存储方案面临的扩展性、性能与可靠性瓶颈。",
+  "why_valuable": "深入了解超大规模代码托管平台的存储架构，有助于开发者学习高可用分布式系统的设计与优化实践。",
+  "tags": [
+    "Git",
+    "GitHub",
+    "Storage Architecture",
+    "Scalability",
+    "Distributed Systems"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:49.998955+00:00",
+  "updated_at": "2026-11-07T14:50:32.215694+00:00",
+  "published_to": []
+}

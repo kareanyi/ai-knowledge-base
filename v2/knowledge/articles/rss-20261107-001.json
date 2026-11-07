@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261107-001",
+  "source": "rss",
+  "source_url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+  "title": "The $8 Linux Computer (2022)",
+  "summary": "文章围绕一款售价约 8 美元的 Linux 计算机展开，尝试展示低成本硬件在 2022 年仍可具备实用的计算能力。现有内容仅包含标题、链接及社区互动数据，未提供设备方案、配置细节或项目步骤，因此具体实现方式无法确认。",
+  "tech_stack": [
+    "Linux",
+    "Single-board Computer",
+    "Embedded Systems"
+  ],
+  "problem_solved": "探索以极低硬件成本提供可用的 Linux 编程、学习与计算环境。",
+  "why_valuable": "低成本 Linux 设备能够降低硬件入门门槛，并为物联网、编程教育和嵌入式开发提供经济实用的实验平台。",
+  "tags": [
+    "Linux",
+    "Low-Cost Hardware",
+    "Single-Board Computer",
+    "Embedded Systems",
+    "Retro Computing"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-07T14:48:38.996687+00:00",
+  "updated_at": "2026-11-07T14:50:32.207212+00:00",
+  "published_to": []
+}

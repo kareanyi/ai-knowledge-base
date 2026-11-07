@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261107-004",
+  "source": "rss",
+  "source_url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+  "title": "Running a law firm on Free software",
+  "summary": "文章探讨如何使用免费软件支持律师事务所的日常运营与业务管理，重点面向希望降低技术成本、减少商业软件许可费用的法律从业者。由于提供的正文只有标题和链接，当前信息不足以确认其推荐的具体工具或实施方案。",
+  "tech_stack": [
+    "Free Software",
+    "Open Source Software"
+  ],
+  "problem_solved": "帮助律师事务所利用免费或开源工具满足办公与业务管理需求，从而降低软件采购、维护和许可成本。",
+  "why_valuable": "为预算有限或注重技术自主权的事务所提供可扩展、低成本的数字化运营路径。",
+  "tags": [
+    "LegalTech",
+    "OpenSource",
+    "FOSS",
+    "LawFirm",
+    "CostReduction"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-07T14:48:57.065966+00:00",
+  "updated_at": "2026-11-07T14:50:32.214273+00:00",
+  "published_to": []
+}

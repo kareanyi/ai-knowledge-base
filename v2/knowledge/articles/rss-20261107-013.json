@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261107-013",
+  "source": "rss",
+  "source_url": "https://pwn.ai/blog/firecracker-escape",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "summary": "文章《Firecracker VM Escape: PwnEscape Part 2》聚焦于 Firecracker 轻量级虚拟机监控器的逃逸安全问题，并延续 PwnEscape 系列的研究。现有输入仅包含标题、链接及社区讨论元数据，未提供具体漏洞、触发链路或利用实现细节，因此只能判断其属于高级虚拟化安全研究。",
+  "tech_stack": [
+    "Firecracker",
+    "Rust",
+    "KVM",
+    "Linux",
+    "Binary Exploitation"
+  ],
+  "problem_solved": "研究并展示如何突破 Firecracker 虚拟机的隔离边界，使攻击者有可能从客户机内影响宿主机。",
+  "why_valuable": "对 Firecracker 逃逸的研究能够揭示轻量级虚拟机监控器中的隔离缺陷，并为云原生及 serverless 环境的安全加固提供依据。",
+  "tags": [
+    "Virtualization",
+    "VM Escape",
+    "Exploit",
+    "Firecracker",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:44.966606+00:00",
+  "updated_at": "2026-11-07T14:50:32.215565+00:00",
+  "published_to": []
+}

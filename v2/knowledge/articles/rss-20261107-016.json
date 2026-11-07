@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261107-016",
+  "source": "rss",
+  "source_url": "https://devvm.dev/",
+  "title": "Devvm.dev: One VM for every project",
+  "summary": "DevVM.dev 的核心概念是为每个项目提供独立虚拟机，从而隔离不同项目的运行环境与依赖。其目标包括减少开发环境冲突、简化环境配置，并提升开发工作流的一致性与可复现性。现有内容仅包含项目主页、链接及社区讨论数据，未提供具体实现细节。",
+  "tech_stack": [
+    "Virtual Machines",
+    "Linux",
+    "Nix"
+  ],
+  "problem_solved": "通过为每个项目分配独立虚拟机，解决开发环境中依赖冲突、配置不一致及环境难以复现的问题。",
+  "why_valuable": "它能让开发者快速获得隔离且标准化的项目环境，降低环境维护成本并减少由依赖或配置差异导致的故障。",
+  "tags": [
+    "DevOps",
+    "Virtualization",
+    "Development Environment",
+    "Isolation",
+    "Reproducibility"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-07T14:50:11.439634+00:00",
+  "updated_at": "2026-11-07T14:50:32.216041+00:00",
+  "published_to": []
+}

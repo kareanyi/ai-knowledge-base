@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261107-012",
+  "source": "rss",
+  "source_url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+  "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+  "summary": "文章介绍了一种分层式 LLM 评审架构：名为 Jev 的模型先处理样本，并在不确定时请求更强的 Claude Opus 协助，从而提升实体身份解析的准确率。该方法通过让较弱且更便宜的模型承担大部分判断工作，在保持接近 Opus 效果的同时将成本降低约 4 倍。",
+  "tech_stack": [
+    "Claude Opus",
+    "LLM-as-a-Judge",
+    "Identity Resolution",
+    "Model Routing",
+    "Prompt Engineering"
+  ],
+  "problem_solved": "解决 LLM 实体身份解析中仅使用小模型准确率不足、而直接依赖 Opus 又成本过高的问题。",
+  "why_valuable": "它展示了利用级联式模型协作，以显著更低成本获得接近顶级模型判断质量的可复用工程模式。",
+  "tags": [
+    "LLM",
+    "Identity Resolution",
+    "Model Routing",
+    "Cost Optimization",
+    "AI Evaluation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-07T14:49:39.904802+00:00",
+  "updated_at": "2026-11-07T14:50:32.215430+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261107-015",
+  "source": "rss",
+  "source_url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+  "title": "Restaurant Delivery Payment-Skimming Campaign",
+  "summary": "该内容报道了一场针对餐厅外卖支付流程的“支付劫持”（payment-skimming）攻击活动，标题中的“Scamwich”暗示攻击者可能伪装成正常的外卖或支付环节。当前提供的信息仅包含文章链接、讨论帖链接及社区互动数据，未展示具体攻击方法、恶意软件实现或受影响范围。",
+  "tech_stack": [
+    "Payment Systems",
+    "Web Security",
+    "Threat Intelligence"
+  ],
+  "problem_solved": "揭示并分析攻击者如何篡改或劫持餐厅外卖支付流程，从而使用户资金面临被恶意转移的风险。",
+  "why_valuable": "对消费者、外卖平台和商户了解支付劫持威胁并加强支付链路防护具有参考价值。",
+  "tags": [
+    "Cybersecurity",
+    "Payment Fraud",
+    "Threat Intelligence",
+    "Restaurant Tech",
+    "Scam Alert"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-07T14:50:00.861693+00:00",
+  "updated_at": "2026-11-07T14:50:32.215824+00:00",
+  "published_to": []
+}

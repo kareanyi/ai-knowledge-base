@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261107-002",
+  "source": "rss",
+  "source_url": "https://uploadyourram.org",
+  "title": "Upload Your RAM",
+  "summary": "Upload Your RAM 是一个临时文件上传与分享服务，其核心理念是将文件短暂保存在内存中，而非写入持久化磁盘存储，从而减少数据残留。现有内容仅提供网站及 Hacker News 讨论链接，未展示具体架构、性能指标或实现细节。",
+  "tech_stack": [
+    "Server-side RAM",
+    "Web API",
+    "JavaScript"
+  ],
+  "problem_solved": "为用户提供快速、临时且注重隐私的文件上传与分享方式。",
+  "why_valuable": "借助易失性内存避免文件长期落盘，可简化临时传输流程并降低数据泄露风险。",
+  "tags": [
+    "File Sharing",
+    "Ephemeral Storage",
+    "Privacy",
+    "RAM"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-07T14:48:45.649309+00:00",
+  "updated_at": "2026-11-07T14:50:32.207508+00:00",
+  "published_to": []
+}
