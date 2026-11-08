@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261108-006",
+  "source": "rss",
+  "source_url": "https://github.com/graealex/WaveDudeNext",
+  "title": "WaveDudeNext 2D Wave Simulator",
+  "summary": "WaveDudeNext 是一个用于模拟二维波传播现象的开源项目，目标是帮助用户可视化和研究波动行为。提供的材料仅包含 GitHub 仓库、讨论页面及少量社区互动信息，未展示具体实现细节。",
+  "tech_stack": [
+    "2D Wave Simulation",
+    "Numerical Simulation"
+  ],
+  "problem_solved": "通过数值模拟和可视化二维波动过程，降低理解波传播、反射、干涉等现象的难度。",
+  "why_valuable": "它为教学、科研和算法实验提供了一个可交互的二维波动模拟工具。",
+  "tags": [
+    "Wave Simulation",
+    "Physics",
+    "Numerical Modeling",
+    "Visualization",
+    "Open Source"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-08T14:56:02.686408+00:00",
+  "updated_at": "2026-11-08T14:57:45.547229+00:00",
+  "published_to": []
+}

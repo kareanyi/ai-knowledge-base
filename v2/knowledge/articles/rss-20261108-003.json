@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261108-003",
+  "source": "rss",
+  "source_url": "https://linebender.org/blog/jit-bitmap-text/",
+  "title": "JIT bitmap text rendering for microcontrollers",
+  "summary": "文章探讨面向微控制器的即时生成（JIT）位图文字渲染方案，在资源受限设备上按需生成并使用适合显示尺寸的字形位图。其核心目标是在有限内存与存储空间下提升字体渲染效率，同时保持可接受的文本显示效果。",
+  "tech_stack": [
+    "Rust",
+    "Embedded Rust",
+    "Bitmap Fonts",
+    "TrueType",
+    "Microcontrollers"
+  ],
+  "problem_solved": "解决微控制器缺少图形硬件且闪存与内存有限时，如何高效、低资源地渲染清晰文字的问题。",
+  "why_valuable": "该方案可减少预生成字体资源占用，降低嵌入式系统的内存与存储成本，并简化按目标分辨率适配字体的流程。",
+  "tags": [
+    "Embedded",
+    "Bitmap Rendering",
+    "Microcontrollers",
+    "Fonts",
+    "Rust"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:55:40.819869+00:00",
+  "updated_at": "2026-11-08T14:57:45.538751+00:00",
+  "published_to": []
+}

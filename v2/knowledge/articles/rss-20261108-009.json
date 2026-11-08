@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261108-009",
+  "source": "rss",
+  "source_url": "https://caleb.software/posts/claude-to-pi.html",
+  "title": "Goodbye Claude, Hello Pi",
+  "summary": "文章记录了作者从 Claude 转向 Pi 的过程与思考，可能涉及 AI 编程工具的迁移、工作流调整及使用体验对比。内容获得了 Hacker News 较高关注，但当前仅提供标题、链接和讨论数据，缺少正文细节，无法确认具体技术方案。",
+  "tech_stack": [
+    "Claude",
+    "Pi",
+    "AI-assisted development"
+  ],
+  "problem_solved": "探讨开发者如何评估并迁移 AI 编程工具，以改善代码辅助和日常开发工作流。",
+  "why_valuable": "为正在选择或更换 AI 开发工具的工程师提供第一手实践参考，并反映社区对 AI 编程助手的关注。",
+  "tags": [
+    "AI",
+    "Developer Tools",
+    "Claude",
+    "Workflow",
+    "Coding Assistant"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-08T14:56:24.532509+00:00",
+  "updated_at": "2026-11-08T14:57:45.547837+00:00",
+  "published_to": []
+}

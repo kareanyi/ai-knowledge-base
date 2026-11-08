@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261108-017",
+  "source": "rss",
+  "source_url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+  "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+  "summary": "MaxxBench 是一篇针对 DeepSWE 评测结果可信度的研究文章，重点质疑该系统在基准测试中的高分是否真实反映了软件工程能力。文章通过更严格地审视 DeepSWE 的评测表现，揭示仅依赖公开基准分数可能不足以证明模型或智能体的实际开发水平。",
+  "tech_stack": [
+    "DeepSWE",
+    "MaxxBench",
+    "SWE-bench",
+    "LLM Evaluation",
+    "Software Engineering Agents"
+  ],
+  "problem_solved": "评估并质疑 SWE 智能体基准测试分数与真实软件工程能力之间可能存在的偏差。",
+  "why_valuable": "它提醒开发者和研究者不要盲目依赖排行榜分数，并推动更可信、可复现的 AI 编程能力评测。",
+  "tags": [
+    "AI",
+    "Benchmark",
+    "SWE",
+    "Evaluation",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:57:34.019116+00:00",
+  "updated_at": "2026-11-08T14:57:45.549367+00:00",
+  "published_to": []
+}

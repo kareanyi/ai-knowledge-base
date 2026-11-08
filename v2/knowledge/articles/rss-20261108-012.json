@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261108-012",
+  "source": "rss",
+  "source_url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+  "title": "Making any integer with four 2s (2025)",
+  "summary": "文章探讨了一个数学构造问题：如何仅使用四个数字 2，并通过特定运算符、函数或数学变换表示任意整数。文章还结合读者在 Hacker News 上的讨论，展示了这类问题的思考过程与不同解法。",
+  "tech_stack": [
+    "Mathematics",
+    "Number Theory",
+    "Symbolic Computation"
+  ],
+  "problem_solved": "研究如何用四个固定数字 2 构造任意整数，并寻找统一且可验证的表示方法。",
+  "why_valuable": "它把数字游戏与算法构造、函数运算和数学推理结合起来，展示了有限符号生成无限结果的巧妙方法。",
+  "tags": [
+    "Mathematics",
+    "Puzzle",
+    "Number Theory",
+    "Algorithm",
+    "Symbolic Computation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:56:56.147877+00:00",
+  "updated_at": "2026-11-08T14:57:45.548420+00:00",
+  "published_to": []
+}

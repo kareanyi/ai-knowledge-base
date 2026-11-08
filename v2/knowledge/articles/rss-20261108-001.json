@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261108-001",
+  "source": "rss",
+  "source_url": "https://krthr.co/person-of-interest/",
+  "title": "Person of Interest",
+  "summary": "该内容指向 Kevin Roose 网站上的文章《Person of Interest》，并附有对应的 Hacker News 讨论页面。现有输入仅包含标题、链接及社区热度数据（169 分、106 条评论），未提供文章正文，因此无法可靠判断其核心观点、所用技术或具体应用场景。",
+  "tech_stack": [],
+  "problem_solved": "现有信息无法确定文章所针对的具体问题；内容主要提供专题文章及其社区讨论入口。",
+  "why_valuable": "Hacker News 上较高的得分和评论量表明该文章引发了明显关注，但正文缺失限制了对其实质价值的判断。",
+  "tags": [
+    "Article",
+    "Hacker News",
+    "Community Discussion",
+    "Person of Interest"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-08T14:55:27.672420+00:00",
+  "updated_at": "2026-11-08T14:57:45.538283+00:00",
+  "published_to": []
+}

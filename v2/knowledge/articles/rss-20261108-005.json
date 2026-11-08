@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261108-005",
+  "source": "rss",
+  "source_url": "https://www.lorekit.io/blog/open-agent-memory-format",
+  "title": "Agent memory needs its OpenTelemetry moment",
+  "summary": "文章主张 AI Agent 的记忆系统需要类似 OpenTelemetry 的开放标准，以统一记忆数据的记录、交换与观测方式。通过推动开放且可互操作的 Agent memory format，文章试图解决不同代理框架之间记忆能力难以复用和标准化的问题。",
+  "tech_stack": [
+    "OpenTelemetry",
+    "LLM",
+    "Agent Memory",
+    "Observability"
+  ],
+  "problem_solved": "解决 AI Agent 记忆格式不统一、缺乏互操作性和可观测性的问题。",
+  "why_valuable": "开放标准能够降低框架集成成本，并让 Agent 记忆的调试、评估和跨平台共享更加可靠。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Memory",
+    "OpenTelemetry",
+    "Observability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:55:55.909242+00:00",
+  "updated_at": "2026-11-08T14:57:45.547004+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261108-004",
+  "source": "rss",
+  "source_url": "https://github.com/synchopate/llama-modchip",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "summary": "该项目探索在仅配备 64GB 内存、没有 GPU 的条件下运行规模高达 284B 参数的 DeepSeek 大语言模型。其核心方向是通过模型分块与内存优化技术降低超大模型对显存和高端硬件的依赖。",
+  "tech_stack": [
+    "Llama",
+    "DeepSeek",
+    "CPU",
+    "Model Quantization",
+    "Memory Optimization"
+  ],
+  "problem_solved": "解决超大参数量语言模型在缺乏 GPU 或显存资源时难以在普通设备上运行的问题。",
+  "why_valuable": "它有望降低本地部署超大模型的硬件门槛，使研究人员能够在高容量内存设备上进行推理和实验。",
+  "tags": [
+    "LLM",
+    "DeepSeek",
+    "CPU Inference",
+    "Quantization",
+    "Edge AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:55:50.965705+00:00",
+  "updated_at": "2026-11-08T14:57:45.546732+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261108-011",
+  "source": "rss",
+  "source_url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+  "title": "GitHub New pull request overview page in public preview",
+  "summary": "GitHub 推出新版 Pull Request 概览页面，目前处于公开预览阶段。该页面旨在以更清晰集中的方式呈现拉取请求的关键信息与相关状态，但现有内容未提供具体功能细节。",
+  "tech_stack": [
+    "GitHub",
+    "Pull Requests",
+    "Web UI"
+  ],
+  "problem_solved": "简化开发者查看和理解拉取请求概览信息的过程。",
+  "why_valuable": "更集中、直观的请求概览可降低代码评审与协作中的信息获取成本。",
+  "tags": [
+    "GitHub",
+    "Pull Request",
+    "Code Review",
+    "Developer Tools",
+    "Product Update"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-08T14:56:36.670676+00:00",
+  "updated_at": "2026-11-08T14:57:45.548235+00:00",
+  "published_to": []
+}

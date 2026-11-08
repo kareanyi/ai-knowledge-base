@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261108-008",
+  "source": "rss",
+  "source_url": "https://github.com/dmunozv04/isponsorblocktv",
+  "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+  "summary": "ISponsorBlockTV 是一个面向多种 YouTube TV 客户端的 SponsorBlock 集成项目，目标是复用 SponsorBlock 的广告片段标记能力，在电视端观看时跳过赞助内容。仓库提供了一个可扩展到不同 YouTube TV 客户端的实现，但当前提供的信息未包含具体架构和使用方式。",
+  "tech_stack": [
+    "YouTube TV",
+    "SponsorBlock API",
+    "Web API"
+  ],
+  "problem_solved": "解决 YouTube TV 客户端缺少 SponsorBlock 广告跳过支持、观看电视端视频时仍需手动跳过赞助片段的问题。",
+  "why_valuable": "它将社区维护的 SponsorBlock 数据引入电视端播放体验，减少赞助内容对观看流程的干扰，并提高不同 YouTube TV 客户端的可用性。",
+  "tags": [
+    "YouTubeTV",
+    "SponsorBlock",
+    "AdSkipping",
+    "MediaPlayer",
+    "OpenSource"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:56:16.364525+00:00",
+  "updated_at": "2026-11-08T14:57:45.547606+00:00",
+  "published_to": []
+}

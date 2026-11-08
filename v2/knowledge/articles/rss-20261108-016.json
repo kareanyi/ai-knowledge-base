@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261108-016",
+  "source": "rss",
+  "source_url": "https://github.com/hedgerow-dev/coldframe",
+  "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+  "summary": "Coldframe 是一个伪装成超市制冷控制器的蜜罐，模拟 Danfoss AK-SM 800A 和 Dixell XWEB 工业接口，并能够被 Shodan 识别为真实设备。项目旨在观察攻击者面对逼真的工控设备时会进行哪些探测和攻击，从而收集真实场景中的恶意行为。实现采用单文件 Python，仅依赖标准库并构建于 epps 之上。",
+  "tech_stack": [
+    "Python",
+    "epps",
+    "HTTP",
+    "Shodan"
+  ],
+  "problem_solved": "通过高仿真度的工业制冷控制器蜜罐，捕获针对超市及工业制冷系统的扫描、探测和攻击行为。",
+  "why_valuable": "它能在不接触真实生产设备的情况下，以较低成本了解攻击者针对工控设备采用的攻击战术与技术。",
+  "tags": [
+    "Honeypot",
+    "ICS",
+    "SCADA",
+    "Cybersecurity",
+    "IoT"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-08T14:57:28.278628+00:00",
+  "updated_at": "2026-11-08T14:57:45.549167+00:00",
+  "published_to": []
+}

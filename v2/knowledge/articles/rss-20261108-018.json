@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261108-018",
+  "source": "rss",
+  "source_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+  "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+  "summary": "文章以 Discord 为案例，质疑 Windows 11 应用广泛采用 Electron 的必要性，并对比原生桌面应用在启动体验与内存占用方面的优势。核心观点是，即使同时登录两个 Discord 账号，采用原生实现的版本也能显著减少 RAM 使用并避免启动画面，从而改善性能与资源效率。",
+  "tech_stack": [
+    "Windows 11",
+    "Electron",
+    "Discord",
+    "Native Apps"
+  ],
+  "problem_solved": "解决 Electron 桌面应用启动慢、内存占用高以及多实例运行资源开销大的问题。",
+  "why_valuable": "它推动 Windows 应用采用更轻量的原生技术栈，从而提升启动速度、系统响应能力和多任务场景下的资源利用率。",
+  "tags": [
+    "Electron",
+    "Windows",
+    "Performance",
+    "Memory Optimization",
+    "Native Apps"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-08T14:57:38.271695+00:00",
+  "updated_at": "2026-11-08T14:57:45.549562+00:00",
+  "published_to": []
+}

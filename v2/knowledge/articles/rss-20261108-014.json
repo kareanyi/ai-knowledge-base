@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261108-014",
+  "source": "rss",
+  "source_url": "https://blog.bosscher.ch/posts/openstick/",
+  "title": "What I run on my $10 USD OpenStick homelab",
+  "summary": "这是一篇个人homelab实践分享，作者展示自己在一台仅售 10 美元的 OpenStick（廉价 USB-C 形态的 ARM Linux 小主机）上搭建并运行的完整服务栈。文章核心是「低成本自托管」思路：用极低成本的硬件替代树莓派等常见方案，跑通家庭网络过滤、监控、自动化等实际可用的服务。文章在 Hacker News 获得 656 分与 121 条评论，引发了社区对廉价边缘计算设备可行性与性价比的广泛讨论。",
+  "tech_stack": [
+    "Linux",
+    "ARM (Allwinner/RISC-V 架构)",
+    "Docker",
+    "OpenStick",
+    "自托管服务 (Pi-hole/Home Assistant 等)"
+  ],
+  "problem_solved": "让用户以约 10 美元的极低成本获得一台可常驻运行家庭服务器的自托管主机，替代昂贵的树莓派或 NAS 设备。",
+  "why_valuable": "展示了超低成本硬件在真实家庭服务场景中的可行性，为预算有限的爱好者和自托管新手提供了可复现的轻量化 homelab 方案与设备选型参考。",
+  "tags": [
+    "Homelab",
+    "SelfHosting",
+    "EdgeComputing",
+    "Linux",
+    "LowCost"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-08T14:57:18.439548+00:00",
+  "updated_at": "2026-11-08T14:57:45.548770+00:00",
+  "published_to": []
+}

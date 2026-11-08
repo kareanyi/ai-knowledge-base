@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261108-010",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+  "title": "Consumer brain wave headsets threaten privacy",
+  "summary": "文章探讨消费级脑电波头戴设备制造商在用户缺乏充分知情的情况下收集脑部数据，并将其用于人工智能训练的风险。内容聚焦于神经数据隐私、用户知情同意以及企业数据采集实践可能带来的监管与伦理挑战。",
+  "tech_stack": [
+    "EEG/脑电信号采集",
+    "可穿戴设备",
+    "人工智能与机器学习",
+    "神经数据隐私",
+    "物联网"
+  ],
+  "problem_solved": "揭示消费级脑波设备在数据采集、用途披露和用户授权方面存在的隐私保护缺口，并提示用户及监管者关注神经数据被商业化利用的风险。",
+  "why_valuable": "该内容有助于提高用户对脑数据采集与AI训练实践的警觉，并为可穿戴设备的数据治理、透明度标准和知情同意机制提供讨论基础。",
+  "tags": [
+    "Privacy",
+    "Brain-Computer Interface",
+    "Wearable Tech",
+    "EEG",
+    "AI Ethics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:56:29.898881+00:00",
+  "updated_at": "2026-11-08T14:57:45.548027+00:00",
+  "published_to": []
+}

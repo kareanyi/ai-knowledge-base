@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261108-013",
+  "source": "rss",
+  "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+  "summary": "文章调查 Claude Code 的 “Don't Ask Again” 权限机制可能导致敏感信息被写入公开 GitHub 仓库的问题，并揭示至少 1,122 个公开文件受到影响。重点在于分析编码代理在获得持续操作许可后，如何因缺少有效的秘密检测与拦截机制而扩大凭证泄露风险。",
+  "tech_stack": [
+    "Claude Code",
+    "GitHub",
+    "AI Coding Agents",
+    "Secret Scanning"
+  ],
+  "problem_solved": "识别并说明 AI 编码代理的持久授权模式可能绕过人工确认，从而导致密码、令牌等机密数据被意外提交到公开代码仓库。",
+  "why_valuable": "该发现提醒开发者和平台维护者必须加强秘密扫描、默认拒绝高风险操作及审计代理权限，以降低供应链和代码托管平台上的凭证泄露风险。",
+  "tags": [
+    "AI",
+    "Security",
+    "GitHub",
+    "Secrets",
+    "Coding Agents"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-08T14:57:06.858783+00:00",
+  "updated_at": "2026-11-08T14:57:45.548594+00:00",
+  "published_to": []
+}

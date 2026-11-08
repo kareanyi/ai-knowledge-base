@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261108-007",
+  "source": "rss",
+  "source_url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+  "title": "Kirlian Photography: Building Your Own Equipment",
+  "summary": "本文介绍如何自制克里里安摄影（Kirlian Photography）实验设备，重点可能涉及高压电源、电极装置和摄影记录系统。该内容面向希望亲自搭建实验装置、观察高压电场放电与生物样本周围 corona discharge 现象的摄影爱好者。",
+  "tech_stack": [
+    "High-Voltage Electronics",
+    "Photography",
+    "Corona Discharge",
+    "DIY Equipment"
+  ],
+  "problem_solved": "它解决了克里里安摄影实验设备通常难以直接获得的问题，指导读者自行搭建用于捕捉高压放电现象的基本系统。",
+  "why_valuable": "自制设备能够让学习者更深入理解高压电场、气体放电和视觉化摄影实验之间的关系，并获得更具探索性的实践体验。",
+  "tags": [
+    "Kirlian Photography",
+    "High Voltage",
+    "Electronics",
+    "DIY",
+    "Experimental Photography"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-08T14:56:06.929040+00:00",
+  "updated_at": "2026-11-08T14:57:45.547418+00:00",
+  "published_to": []
+}
