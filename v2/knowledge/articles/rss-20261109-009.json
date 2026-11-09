@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261109-009",
+  "source": "rss",
+  "source_url": "https://github.com/ikey4u/zebkit",
+  "title": "Zebkit – Chromium as an embeddable library",
+  "summary": "Zebkit 尝试将 Chromium 改造成可嵌入其他应用的 Web 渲染库，使开发者能够复用其浏览引擎能力来构建原生桌面界面和复杂 UI。该项目面向希望摆脱传统原生控件限制、同时保留 Chromium Web 技术生态的开发者。",
+  "tech_stack": [
+    "Chromium",
+    "C++",
+    "Skia",
+    "HTML5",
+    "CSS"
+  ],
+  "problem_solved": "它解决的是无法直接将 Chromium 的网页渲染与交互能力作为通用组件嵌入桌面应用的问题。",
+  "why_valuable": "它能让开发者利用成熟的 Web 前端技术和 Chromium 渲染引擎快速构建高度可定制的跨平台原生应用界面。",
+  "tags": [
+    "Chromium",
+    "Embedded Browser",
+    "GUI",
+    "Rendering Engine",
+    "C++"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:58.981638+00:00",
+  "updated_at": "2026-11-09T18:33:52.873392+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261109-018",
+  "source": "rss",
+  "source_url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+  "title": "The Qlobe: Rotating Quine (2010)",
+  "summary": "文章介绍了一种名为“Qlobe”的旋转式 Quine，通过特定方式旋转或变换自身源代码，使程序能够输出与自身相关的内容。当前提供的信息仅包含标题、链接及少量社区元数据，未展示具体实现细节。",
+  "tech_stack": [
+    "Quine",
+    "Self-replicating code"
+  ],
+  "problem_solved": "探索如何构造能够通过文本旋转或变换输出自身内容的自引用程序。",
+  "why_valuable": "这类项目展示了自引用编程、字符串处理与程序输出控制等趣味编程技巧。",
+  "tags": [
+    "Quine",
+    "Programming Puzzle",
+    "Self-reference",
+    "Rotating Code"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:45.368065+00:00",
+  "updated_at": "2026-11-09T18:33:52.875006+00:00",
+  "published_to": []
+}

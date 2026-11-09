@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261109-019",
+  "source": "rss",
+  "source_url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+  "title": "Unlocking any car from X brand in most of the world",
+  "summary": "文章探讨一种能够解锁特定汽车品牌车辆的方法，相关研究被指向 Sam Curry 的 ForgeRock 项目。该主题聚焦汽车安全与访问控制机制，标题暗示漏洞可能影响全球大部分使用该品牌相关技术或协议的汽车，但现有内容未提供具体实现细节。",
+  "tech_stack": [
+    "Automotive Security",
+    "IoT",
+    "Radio Frequency",
+    "Penetration Testing"
+  ],
+  "problem_solved": "揭示特定汽车品牌可能存在的车辆解锁与访问控制缺陷，并评估其全球范围内的安全影响。",
+  "why_valuable": "这类研究有助于制造商修补车辆安全漏洞，同时提醒车主和研究人员关注智能汽车系统的授权与认证风险。",
+  "tags": [
+    "Automotive Security",
+    "Car Hacking",
+    "Vulnerability",
+    "Access Control",
+    "IoT"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:51.392194+00:00",
+  "updated_at": "2026-11-09T18:33:52.875182+00:00",
+  "published_to": []
+}

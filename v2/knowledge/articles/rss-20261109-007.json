@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261109-007",
+  "source": "rss",
+  "source_url": "http://pigshell.com/v/0.6.4/",
+  "title": "Pigshell: Unix the Web",
+  "summary": "Pigshell 是一个以 Unix 理念为灵感的 Web Shell 项目，尝试将传统命令行的交互方式引入网页环境。文中提供了 0.6.4 版本的发布页面及对应的 Hacker News 讨论，但未包含具体功能或技术实现细节。",
+  "tech_stack": [
+    "Unix shell",
+    "Command-line interface",
+    "Web"
+  ],
+  "problem_solved": "通过命令行式界面简化网页操作，并为熟悉 Unix 的用户提供更高效、可扩展的 Web 交互方式。",
+  "why_valuable": "它将成熟的 Unix 交互模型应用到 Web 环境中，有助于提升复杂网络操作的效率与可定制性。",
+  "tags": [
+    "Pigshell",
+    "Unix",
+    "Web Shell",
+    "CLI",
+    "Hacker News"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:48.595394+00:00",
+  "updated_at": "2026-11-09T18:33:52.873030+00:00",
+  "published_to": []
+}

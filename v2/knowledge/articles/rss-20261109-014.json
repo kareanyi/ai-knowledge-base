@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261109-014",
+  "source": "rss",
+  "source_url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+  "title": "What is malloc doing, anyway?",
+  "summary": "文章深入解释 malloc 在程序运行期间如何管理动态内存，包括分配、释放、内存布局与底层系统调用之间的关系。它帮助开发者理解常见内存分配器背后的实现机制及性能问题。",
+  "tech_stack": [
+    "C",
+    "glibc",
+    "Linux",
+    "mmap",
+    "Virtual Memory"
+  ],
+  "problem_solved": "解释 malloc 如何在进程虚拟内存中完成动态内存分配，并揭示其性能与内存管理行为背后的原理。",
+  "why_valuable": "理解 malloc 的内部机制有助于开发者定位内存泄漏、碎片化及分配性能问题，并写出更高效的内存管理代码。",
+  "tags": [
+    "Memory Allocation",
+    "Systems Programming",
+    "C",
+    "Operating Systems",
+    "Performance"
+  ],
+  "score": 9,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:24.636402+00:00",
+  "updated_at": "2026-11-09T18:33:52.874310+00:00",
+  "published_to": []
+}

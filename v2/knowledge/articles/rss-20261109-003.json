@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261109-003",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50427934",
+  "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+  "summary": "DBDelve 是一款使用 Rust 和 GPUI 开发的开源数据库客户端，重点优化性能、资源占用和交互体验。项目受到 Zed、Ghostty 等注重速度和易用性的桌面工具启发，旨在解决传统数据库客户端如 DBeaver 在低配置或过时设备上容易卡顿、崩溃的问题。内容还提到其支持 PostGIS 等数据库场景，但具体功能范围因原文片段有限而未完整呈现。",
+  "tech_stack": [
+    "Rust",
+    "GPUI",
+    "PostgreSQL",
+    "PostGIS"
+  ],
+  "problem_solved": "为希望获得高性能、低资源占用且交互体验良好的开发者提供一款开源数据库客户端。",
+  "why_valuable": "它通过原生 Rust 实现和 GPUI 桌面界面改善数据库操作体验，尤其适合使用老旧设备或处理地理空间数据的技术人员。",
+  "tags": [
+    "Database",
+    "DB-Client",
+    "Rust",
+    "GPUI",
+    "Open-Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:25.242030+00:00",
+  "updated_at": "2026-11-09T18:33:52.864560+00:00",
+  "published_to": []
+}

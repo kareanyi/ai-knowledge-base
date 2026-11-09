@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261109-006",
+  "source": "rss",
+  "source_url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+  "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+  "summary": "文章聚焦一宗涉及以太坊基金会的加密货币诉讼，并提到基金会方面被要求签署被称为“自杀承诺”的法律文件。现有内容仅包含标题、链接及 Hacker News 讨论数据，未提供案件细节、指控内容或法院裁定，因此无法进一步确认该主张的法律依据与真实性。",
+  "tech_stack": [
+    "Ethereum",
+    "Blockchain",
+    "Smart Contracts",
+    "Solidity"
+  ],
+  "problem_solved": "报道并分析以太坊基金会相关的诉讼争议及潜在法律责任。",
+  "why_valuable": "该事件可能揭示去中心化项目治理、法律合规与组织责任之间的重要冲突。",
+  "tags": [
+    "Ethereum",
+    "Cryptocurrency",
+    "Blockchain",
+    "Lawsuit",
+    "Regulation"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:42.092392+00:00",
+  "updated_at": "2026-11-09T18:33:52.872833+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261109-004",
+  "source": "rss",
+  "source_url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+  "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+  "summary": "Payments Canada 宣布启动加拿大实时支付轨道（Real-Time Rail），旨在连接全国 247 个支付基础设施。该系统有望打通不同支付平台，实现更快速、可靠且低成本的实时资金转账。",
+  "tech_stack": [
+    "Real-Time Payments",
+    "APIs",
+    "Payment Infrastructure",
+    "Banking Systems"
+  ],
+  "problem_solved": "解决加拿大不同支付基础设施之间缺乏互操作性、导致资金转账速度和结算效率受限的问题。",
+  "why_valuable": "统一连接全国支付网络能够提升支付速度、降低交易成本，并为电子商务和即时支付服务提供更稳定的基础设施。",
+  "tags": [
+    "Payments",
+    "Real-Time Rail",
+    "Financial Infrastructure",
+    "Interoperability",
+    "Canada"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:30.002100+00:00",
+  "updated_at": "2026-11-09T18:33:52.872396+00:00",
+  "published_to": []
+}

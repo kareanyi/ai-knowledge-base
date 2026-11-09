@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261109-008",
+  "source": "rss",
+  "source_url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+  "title": "I saw your HN comment",
+  "summary": "文章介绍了一个与 Hacker News 评论相关的项目，名称“I saw your HN comment”暗示它会识别或提醒用户关注自己发布的 HN 评论。现有内容仅包含文章与讨论链接、热度及评论数量，未提供具体功能实现或技术细节。",
+  "tech_stack": [
+    "Hacker News API"
+  ],
+  "problem_solved": "帮助用户发现、追踪或响应自己在 Hacker News 上发表的评论与讨论。",
+  "why_valuable": "它可能减少用户手动搜索 HN 评论的麻烦，并提高个人技术观点传播后的互动跟进效率。",
+  "tags": [
+    "Hacker News",
+    "Comments",
+    "Social Monitoring",
+    "Notifications"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:54.023760+00:00",
+  "updated_at": "2026-11-09T18:33:52.873217+00:00",
+  "published_to": []
+}

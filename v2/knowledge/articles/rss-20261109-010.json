@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261109-010",
+  "source": "rss",
+  "source_url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+  "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+  "summary": "文章探讨将品红色太阳能电池板引入农光互补系统的潜力，利用特定光谱促进植物生长，同时兼顾农业生产与太阳能发电。由于提供的内容仅包含标题和讨论数据，无法确认其具体技术路线及实验结论。",
+  "tech_stack": [
+    "光伏技术",
+    "农业光伏",
+    "光谱工程"
+  ],
+  "problem_solved": "尝试协调农光互补系统中作物生长与光伏发电之间的光谱竞争，以提升土地利用率和整体产出。",
+  "why_valuable": "如果品红色光谱确能在发电的同时优化植物生长，它可能为农光互补系统提供兼顾能源收益与农业产出的新方案。",
+  "tags": [
+    "Agrivoltaics",
+    "Solar Energy",
+    "Spectral Engineering",
+    "Agriculture",
+    "Renewable Energy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:03.984343+00:00",
+  "updated_at": "2026-11-09T18:33:52.873567+00:00",
+  "published_to": []
+}

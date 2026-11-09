@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261109-016",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.14162",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "summary": "该论文提出「Next-Concept Modeling」范式，取代逐 token 自回归解码：模型先在粗粒度上并行预测一系列语义概念（concept），再逐层细化并落地为具体文本，从而在保持生成质量的同时显著加速推理。整体思路是一种并行化的 coarse-to-fine 生成架构，目标是在不依赖传统 KV-cache 串行展开的情况下实现更快的文本生成。提供的材料仅为标题与 HN 讨论链接（166 分、39 条评论），缺乏摘要与实验细节，因此技术细节需以原文为准。",
+  "tech_stack": [
+    "PyTorch",
+    "Transformer",
+    "Next-Concept Prediction",
+    "Parallel Decoding",
+    "KV-Cache Optimization"
+  ],
+  "problem_solved": "解决大语言模型自回归逐 token 解码导致的生成延迟高、无法并行的问题。",
+  "why_valuable": "若能以接近自回归的质量把解码并行化，可大幅降低推理成本与响应延迟，对长文本生成与实时交互场景意义重大。",
+  "tags": [
+    "LLM",
+    "Inference Optimization",
+    "Text Generation",
+    "Parallel Decoding",
+    "Architecture"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:34.678257+00:00",
+  "updated_at": "2026-11-09T18:33:52.874652+00:00",
+  "published_to": []
+}

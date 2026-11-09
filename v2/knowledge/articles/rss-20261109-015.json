@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261109-015",
+  "source": "rss",
+  "source_url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+  "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+  "summary": "文章介绍如何利用 VM/370 CE（Community Edition）体验传统 IBM 大型机环境，并分享可开展的复古计算实践。内容面向希望在现代系统上运行 VM/370、探索 CP/CMS、TSO 及早期企业计算技术的爱好者。",
+  "tech_stack": [
+    "IBM VM/370",
+    "CP/CMS",
+    "Linux",
+    "Hercules"
+  ],
+  "problem_solved": "让用户无需实体 IBM 大型机，也能在现代平台上运行和体验 VM/370 及其历史软件生态。",
+  "why_valuable": "它降低了复古主机计算的学习和实验门槛，有助于理解大型机、虚拟化、终端操作和早期企业系统的历史与工作方式。",
+  "tags": [
+    "Mainframe",
+    "Retro Computing",
+    "Virtualization",
+    "IBM",
+    "Emulation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:29.764849+00:00",
+  "updated_at": "2026-11-09T18:33:52.874486+00:00",
+  "published_to": []
+}

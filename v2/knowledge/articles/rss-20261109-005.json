@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261109-005",
+  "source": "rss",
+  "source_url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+  "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+  "summary": "该项目对比了不同供应商租用 NVIDIA H100 GPU 的价格，揭示同一硬件的时薪可能从 2.69 美元到 12.29 美元不等。文章与相关数据收录于 GitHub，并通过 Hacker News 社区进行讨论，可帮助用户理解 GPU 租赁市场的定价差异。",
+  "tech_stack": [
+    "NVIDIA H100",
+    "GPU Cloud",
+    "GitHub",
+    "Data Analysis"
+  ],
+  "problem_solved": "解决用户难以比较不同云服务商和 GPU 租赁平台中 H100 实际租用成本的问题。",
+  "why_valuable": "清晰展示同一高端 GPU 在不同供应渠道之间的价格差异，为训练和推理任务的云资源选型与成本优化提供参考。",
+  "tags": [
+    "GPU",
+    "H100",
+    "Cloud Pricing",
+    "Cost Optimization",
+    "Benchmark"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:34.992047+00:00",
+  "updated_at": "2026-11-09T18:33:52.872648+00:00",
+  "published_to": []
+}

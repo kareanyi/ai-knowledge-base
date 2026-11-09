@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261109-017",
+  "source": "rss",
+  "source_url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+  "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+  "summary": "该文章讨论 Anthropic 的 Opus 5.5 模型是否在 11 月 3 日后遭到能力削弱，主要依据模型思考模式和输出行为的变化。该讨论同时链接至 Twitter 原帖与 Hacker News 评论区，收集了社区对模型性能变化及其可能原因的反馈。",
+  "tech_stack": [
+    "Claude Opus 5.5",
+    "Large Language Models",
+    "AI Evaluation",
+    "Twitter/X",
+    "Hacker News"
+  ],
+  "problem_solved": "帮助开发者判断模型版本更新或策略调整是否导致推理能力、输出风格和实际使用效果发生变化。",
+  "why_valuable": "模型行为的隐性变化可能影响应用质量、成本和可靠性，及时识别这些问题对模型选型与生产部署具有重要意义。",
+  "tags": [
+    "LLM",
+    "Claude",
+    "Model Evaluation",
+    "AI Safety",
+    "Benchmarking"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:39.194886+00:00",
+  "updated_at": "2026-11-09T18:33:52.874825+00:00",
+  "published_to": []
+}

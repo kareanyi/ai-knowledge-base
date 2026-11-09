@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261109-013",
+  "source": "rss",
+  "source_url": "https://nchagnet.eu/blog/you-should-try-gleam",
+  "title": "Try Gleam",
+  "summary": "文章推荐开发者尝试 Gleam，这是一门面向 BEAM 生态的现代函数式编程语言。当前提供的内容仅包含文章链接、讨论链接及社区互动数据，未包含正文，因此无法确认作者对语言特性、工具链或应用场景的具体评价。",
+  "tech_stack": [
+    "Gleam",
+    "BEAM",
+    "Erlang"
+  ],
+  "problem_solved": "为希望采用静态类型函数式语言并接入 BEAM 生态的开发者提供一种值得尝试的新编程语言选择。",
+  "why_valuable": "Gleam 将现代语言设计、类型系统和 BEAM 的成熟并发能力结合起来，可用于构建可靠且易于维护的并发应用。",
+  "tags": [
+    "Gleam",
+    "Functional Programming",
+    "BEAM",
+    "Programming Languages"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-09T18:33:19.456212+00:00",
+  "updated_at": "2026-11-09T18:33:52.874098+00:00",
+  "published_to": []
+}

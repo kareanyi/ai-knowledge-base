@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261109-002",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/front?day=2024-11-08",
+  "title": "Going back two years on Hacker News is like entering another, better universe",
+  "summary": "该内容回顾了 Hacker News 在 2024 年 11 月 8 日的历史首页，并附带对应讨论帖的链接、积分与评论数量。文章借“从两年前回看就像进入另一个更好的宇宙”的视角，呈现社区内容与关注方向随时间发生的变化。",
+  "tech_stack": [
+    "Hacker News",
+    "HTML",
+    "HTTP"
+  ],
+  "problem_solved": "提供 Hacker News 历史首页快照，方便读者回顾特定日期的热门科技资讯和社区讨论。",
+  "why_valuable": "它为观察科技社区热点、技术趋势及舆论变迁提供了可追溯的时间切片。",
+  "tags": [
+    "HackerNews",
+    "TechNews",
+    "WebArchive",
+    "Community",
+    "Archive"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:15.456429+00:00",
+  "updated_at": "2026-11-09T18:33:52.864366+00:00",
+  "published_to": []
+}

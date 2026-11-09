@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261109-001",
+  "source": "rss",
+  "source_url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+  "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+  "summary": "文章聚焦 Raspberry Pi 5 16GB 单板计算机价格升至 385 美元的现象，并以“这种涨势何时会停止”表达对持续涨价和市场供给的担忧。内容还关联了 Hacker News 讨论，反映开发者社区对 SBC 可负担性及未来定价趋势的高度关注。",
+  "tech_stack": [
+    "Raspberry Pi 5",
+    "16GB RAM",
+    "Single-Board Computer",
+    "Linux"
+  ],
+  "problem_solved": "揭示并分析 Raspberry Pi 5 16GB 产品价格大幅上涨及其对消费者和开发者采购成本的影响。",
+  "why_valuable": "帮助开发者和硬件采购者了解 SBC 市场定价与供应变化，并重新评估基于 Raspberry Pi 的项目预算。",
+  "tags": [
+    "Raspberry Pi",
+    "SBC",
+    "Hardware",
+    "Pricing",
+    "Developer Hardware"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-09T18:32:10.707868+00:00",
+  "updated_at": "2026-11-09T18:33:52.864068+00:00",
+  "published_to": []
+}
