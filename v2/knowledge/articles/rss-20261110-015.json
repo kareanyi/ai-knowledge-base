@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261110-015",
+  "source": "rss",
+  "source_url": "https://hannahilea.com/blog/daylight-clock/",
+  "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+  "summary": "该项目设计了一个环境光日光钟，通过模拟太阳光照与空间场景来直观呈现时间流逝。用户可以调节时间和空间视角，使时钟兼具功能性与交互式视觉体验。",
+  "tech_stack": [
+    "JavaScript",
+    "WebGL",
+    "Three.js",
+    "HTML/CSS"
+  ],
+  "problem_solved": "将抽象的时间与日照变化转化为可交互、可感知的三维环境展示。",
+  "why_valuable": "它以沉浸式视觉交互强化了对时间、空间和自然光关系的理解，同时提供了兼具装饰性与实用性的时钟体验。",
+  "tags": [
+    "WebGL",
+    "Clock",
+    "Daylight",
+    "Interactive",
+    "Creative Coding"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-10T16:18:54.741010+00:00",
+  "updated_at": "2026-11-10T16:19:14.456837+00:00",
+  "published_to": []
+}

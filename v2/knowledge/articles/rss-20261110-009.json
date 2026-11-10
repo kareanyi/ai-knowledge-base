@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261110-009",
+  "source": "rss",
+  "source_url": "https://connect.queenslibrary.org/",
+  "title": "Queens Public library under ransomware attack e-borrowing suspended",
+  "summary": "皇后区公共图书馆遭遇勒索软件攻击，导致其电子借阅服务暂时中止。文章主要报道此次安全事件及其对用户访问数字馆藏的影响，具体攻击细节和恢复进展尚未提供。",
+  "tech_stack": [
+    "Cybersecurity",
+    "Ransomware",
+    "Library Management Systems",
+    "E-Borrowing Platform"
+  ],
+  "problem_solved": "该内容用于披露公共图书馆因勒索软件攻击而中断电子借阅服务的安全事件与运营影响。",
+  "why_valuable": "它提醒图书馆及类似公共机构加强网络安全防护和业务连续性准备，同时帮助读者了解服务中断情况。",
+  "tags": [
+    "Ransomware",
+    "Cybersecurity",
+    "Public Library",
+    "Incident Response",
+    "Digital Services"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-10T16:18:04.923484+00:00",
+  "updated_at": "2026-11-10T16:19:14.456064+00:00",
+  "published_to": []
+}

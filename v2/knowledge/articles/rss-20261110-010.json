@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261110-010",
+  "source": "rss",
+  "source_url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+  "title": "Fireworks AI security breach impacts Notion and their customers",
+  "summary": "Notion 披露了一起涉及第三方 AI 供应商 Fireworks AI 的安全事件，该事件可能影响 Notion 及其部分客户的数据安全。文章旨在说明事件影响范围，并向用户提供相关风险评估与应对信息。",
+  "tech_stack": [
+    "Fireworks AI",
+    "Notion",
+    "Generative AI",
+    "Third-party cloud services"
+  ],
+  "problem_solved": "通过披露第三方 AI 供应商安全事件及潜在影响，帮助 Notion 客户理解数据暴露风险并采取必要的防护措施。",
+  "why_valuable": "该事件突出了企业在使用外部 AI 服务时面临的供应链和数据安全风险，可供客户与 AI 平台用户参考。",
+  "tags": [
+    "AI Security",
+    "Data Breach",
+    "Third-party Risk",
+    "Notion",
+    "Cloud Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-10T16:18:10.595852+00:00",
+  "updated_at": "2026-11-10T16:19:14.456212+00:00",
+  "published_to": []
+}

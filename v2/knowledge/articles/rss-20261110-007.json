@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261110-007",
+  "source": "rss",
+  "source_url": "https://github.com/HolyArrs/HolyArrs",
+  "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+  "summary": "HolyArrs 是一个轻量级、自托管的媒体服务器项目，整体仅约 15 MB，可通过类似 Netflix 和 Spotify 的界面访问个人媒体库。它旨在为家庭媒体库提供统一、友好的流媒体浏览与播放体验。",
+  "tech_stack": [
+    "Go",
+    "React",
+    "Docker",
+    "FFmpeg"
+  ],
+  "problem_solved": "解决个人媒体文件分散、传统目录浏览体验不佳以及跨设备访问和播放不统一的问题。",
+  "why_valuable": "以较小的部署成本将自托管媒体库转化为类似商业流媒体平台的易用体验，同时保留对媒体数据和基础设施的自主控制。",
+  "tags": [
+    "Self-Hosting",
+    "Media Server",
+    "Streaming",
+    "Go",
+    "Open Source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-10T16:17:54.309271+00:00",
+  "updated_at": "2026-11-10T16:19:14.455781+00:00",
+  "published_to": []
+}

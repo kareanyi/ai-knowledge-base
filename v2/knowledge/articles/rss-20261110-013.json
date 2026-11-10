@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261110-013",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+  "title": "Locating the source of a mysterious beep",
+  "summary": "文章记录了定位一个来历不明的蜂鸣声来源的过程，核心主题是通过技术分析而非猜测找出声音的制造者或设备。现有内容仅包含标题、链接及社区互动数据，未提供文章正文，因此无法可靠确认具体分析方法、工具或技术栈。",
+  "tech_stack": [],
+  "problem_solved": "解决未知蜂鸣声来源难以定位、无法仅凭听感判断其产生位置的问题。",
+  "why_valuable": "它展示了如何将日常故障转化为可验证的技术排查问题，并为类似的音频设备故障定位提供思路。",
+  "tags": [
+    "Audio",
+    "Debugging",
+    "Acoustic Analysis",
+    "Troubleshooting"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-10T16:18:32.882776+00:00",
+  "updated_at": "2026-11-10T16:19:14.456582+00:00",
+  "published_to": []
+}

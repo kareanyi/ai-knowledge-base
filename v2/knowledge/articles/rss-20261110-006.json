@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261110-006",
+  "source": "rss",
+  "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "title": "AlphaProof Code",
+  "summary": "AlphaProof Code 是 Google DeepMind 推出的形式化定理证明系统，旨在通过生成并改进可被计算机检查的数学证明代码，自动解决竞赛数学及研究级证明问题。该系统结合大语言模型、强化学习与 Lean 等形式化证明环境，使生成的证明能够被严格验证，从而提升数学推理的可靠性与可扩展性。",
+  "tech_stack": [
+    "Python",
+    "Lean",
+    "AlphaProof",
+    "Gemini",
+    "Reinforcement Learning"
+  ],
+  "problem_solved": "自动生成并验证复杂数学问题的形式化证明，减少人工形式化和证明验证所需的时间与专业成本。",
+  "why_valuable": "它将自然语言层面的数学推理转化为机器可检查的证明，有望显著加速数学研究，并降低形式化证明工具的使用门槛。",
+  "tags": [
+    "Formal Proof",
+    "Theorem Proving",
+    "AI",
+    "Mathematics",
+    "Lean"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-10T16:17:41.825673+00:00",
+  "updated_at": "2026-11-10T16:19:14.455637+00:00",
+  "published_to": []
+}

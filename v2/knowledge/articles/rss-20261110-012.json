@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261110-012",
+  "source": "rss",
+  "source_url": "https://maurycyz.com/projects/fading/",
+  "title": "Your TV can see through walls (2025)",
+  "summary": "该项目探讨如何利用电视信号或无线传播的多径与遮挡变化，实现对墙壁后方环境或人员活动的感知。标题以拟人化方式概括了无线电感知在室内监测和隐私感知中的潜力。",
+  "tech_stack": [
+    "RF Sensing",
+    "TV Signals",
+    "Software-Defined Radio",
+    "Signal Processing"
+  ],
+  "problem_solved": "在无法直接观察墙壁另一侧的情况下，通过分析无线信号的变化推断墙后是否有人及其活动。",
+  "why_valuable": "它可能为无需摄像头或可穿戴设备的室内存在检测、安防监控和智能家居感知提供一种更隐蔽的实现路径。",
+  "tags": [
+    "RF Sensing",
+    "Wireless Sensing",
+    "Computer Vision",
+    "Privacy",
+    "Smart Home"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-10T16:18:24.282671+00:00",
+  "updated_at": "2026-11-10T16:19:14.456463+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261110-002",
+  "source": "rss",
+  "source_url": "https://docodethatmatters.com/home-automation-overnight-success/",
+  "title": "Smart home devices should work without the internet",
+  "summary": "文章讨论智能家居设备在断网或互联网服务不可用时仍应具备基本功能，强调本地化控制与离线可用性的重要性。内容还涉及一款通过互联网销售后取得商业成功的智能家居产品，但现有信息未包含具体实现细节。",
+  "tech_stack": [
+    "IoT",
+    "Home Automation",
+    "Edge Computing",
+    "Local Control"
+  ],
+  "problem_solved": "解决智能家居设备过度依赖云端连接，导致断网后无法控制或自动化功能失效的问题。",
+  "why_valuable": "离线可靠运行能提升智能家居系统的稳定性、响应速度和隐私保障，减少对第三方云服务的单点依赖。",
+  "tags": [
+    "IoT",
+    "Smart Home",
+    "Offline First",
+    "Local Control",
+    "Edge Computing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-10T16:17:09.792308+00:00",
+  "updated_at": "2026-11-10T16:19:14.447618+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261110-003",
+  "source": "rss",
+  "source_url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+  "title": "The Death Knell of Digital Search",
+  "summary": "文章围绕数字搜索的衰退与可能面临的终结展开，讨论生成式 AI、对话式交互和直接答案模式对传统搜索引擎信息获取方式的冲击。文章还结合 Hacker News 的讨论，折射出用户对搜索体验变化及互联网信息入口重塑的关注。",
+  "tech_stack": [
+    "Generative AI",
+    "Large Language Models",
+    "Search Engines",
+    "Natural Language Processing"
+  ],
+  "problem_solved": "分析生成式 AI 改变数字搜索方式并削弱传统搜索结果页生态的潜在趋势。",
+  "why_valuable": "它帮助读者理解搜索、出版商和互联网平台正如何从链接分发模式转向直接生成答案的交互模式。",
+  "tags": [
+    "AI",
+    "Search",
+    "Generative AI",
+    "Digital Media",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-10T16:17:21.971809+00:00",
+  "updated_at": "2026-11-10T16:19:14.447716+00:00",
+  "published_to": []
+}

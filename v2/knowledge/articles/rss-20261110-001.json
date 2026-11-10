@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261110-001",
+  "source": "rss",
+  "source_url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+  "title": ".NET 11",
+  "summary": "内容介绍了微软 .NET 11 的发布，是一则面向 .NET 开发者的官方版本公告。文章聚焦新版本带来的平台改进与开发者能力更新，但当前提供的正文信息较少，评论热度也较低。",
+  "tech_stack": [
+    ".NET",
+    "C#",
+    "Microsoft Azure"
+  ],
+  "problem_solved": "为开发者提供 .NET 平台的最新版本信息，帮助现有应用利用新版性能、功能与生态改进。",
+  "why_valuable": "官方发布信息能够为技术选型、版本升级和项目维护提供可靠依据。",
+  "tags": [
+    ".NET",
+    "Microsoft",
+    "Release",
+    "Developer Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-10T16:17:05.669867+00:00",
+  "updated_at": "2026-11-10T16:19:14.447365+00:00",
+  "published_to": []
+}

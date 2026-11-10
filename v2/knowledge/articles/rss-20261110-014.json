@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261110-014",
+  "source": "rss",
+  "source_url": "https://maurycyz.com/projects/badcert/",
+  "title": "Horible public key tricks",
+  "summary": "该项目探索在 X.509 证书中植入异常或特殊公钥表示的方法，重点分析不同加密库、证书验证器与 TLS 实现对恶意构造公钥的处理差异。文章还提供示例证书和相关工具，帮助安全研究者研究证书解析、兼容性及潜在的验证绕过问题。",
+  "tech_stack": [
+    "X.509",
+    "TLS",
+    "ASN.1",
+    "RSA",
+    "OpenSSL"
+  ],
+  "problem_solved": "揭示非标准或畸形公钥在证书签发、解析和验证流程中可能引发的兼容性故障与安全风险。",
+  "why_valuable": "它为证书处理器的对抗性测试提供了实用材料，有助于开发者加固 TLS 栈并避免被异常证书绕过或破坏。",
+  "tags": [
+    "PKI",
+    "X.509",
+    "Public-Key-Cryptography",
+    "TLS-Security",
+    "Fuzzing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-10T16:18:42.014704+00:00",
+  "updated_at": "2026-11-10T16:19:14.456696+00:00",
+  "published_to": []
+}

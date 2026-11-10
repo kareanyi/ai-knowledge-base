@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261110-004",
+  "source": "rss",
+  "source_url": "https://www.ableton.com/en/live/",
+  "title": "Ableton Live 13",
+  "summary": "该内容指向 Ableton Live 13 的官方产品页面，主要介绍这一面向音乐创作与现场表演的数字音频工作站。页面本身未提供具体功能细节，但结合 Hacker News 较高的话题热度，可见该版本发布受到音乐制作与科技社区关注。",
+  "tech_stack": [
+    "Ableton Live",
+    "Digital Audio Workstation",
+    "MIDI Sequencing",
+    "Audio Synthesis",
+    "Music Production Software"
+  ],
+  "problem_solved": "Ableton Live 13 为音乐人提供了一套集音频编曲、合成控制、采样处理和现场演出于一体的数字音乐制作环境。",
+  "why_valuable": "它通过统一的软件工作流连接录音、编曲、声音设计和现场表演，有助于提升音乐创作与演出的效率。",
+  "tags": [
+    "DAW",
+    "Music Production",
+    "Audio Engineering",
+    "MIDI",
+    "Live Performance"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-10T16:17:27.319117+00:00",
+  "updated_at": "2026-11-10T16:19:14.455141+00:00",
+  "published_to": []
+}
