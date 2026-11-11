@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-005",
+  "source": "rss",
+  "source_url": "https://av.github.io/safe-sand/",
+  "title": "Hyper-Realistic Sand with WebGL2",
+  "summary": "该项目使用 WebGL2 构建高度逼真的实时沙粒渲染效果，探索了浏览器端复杂图形与物理模拟的可行性。页面包含技术演示及讨论链接，重点展示 GPU 加速沙粒效果在网页环境中的应用。",
+  "tech_stack": [
+    "WebGL2",
+    "JavaScript",
+    "GLSL",
+    "HTML",
+    "GPU Shaders"
+  ],
+  "problem_solved": "解决如何在浏览器中以流畅方式实现视觉高度逼真的大规模沙粒渲染与交互模拟问题。",
+  "why_valuable": "它展示了 WebGL2 在高质量实时图形和 GPU 驱动物理效果方面的能力，为浏览器中的创意可视化与交互体验提供了可复用的技术方案。",
+  "tags": [
+    "WebGL",
+    "Shader",
+    "Graphics",
+    "Simulation",
+    "Visualization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:01:09.339893+00:00",
+  "updated_at": "2026-11-11T16:03:29.948254+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261111-016",
+  "source": "rss",
+  "source_url": "https://github.com/gmkurtzer/ginux",
+  "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+  "summary": "Ginux 是一个以 Greg Kurtzer 为主导的实验性项目，目标是将 Linux 内核以用户空间进程的形式运行，而不是直接作为操作系统内核加载。项目探索了内核开发、用户态执行和系统编程的新方式，为学习操作系统实现和内核架构提供了可实践的代码与工具。",
+  "tech_stack": [
+    "C",
+    "Linux",
+    "User Mode Linux",
+    "Make"
+  ],
+  "problem_solved": "它解决了如何在不安装或启动传统内核的情况下，以用户空间进程方式运行和实验 Linux 内核的问题。",
+  "why_valuable": "它降低了操作系统内核实验的门槛，并展示了用户态内核在开发、测试和教学中的可行性。",
+  "tags": [
+    "Linux",
+    "Kernel",
+    "Userspace",
+    "Operating Systems",
+    "Systems Programming"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-11T16:03:17.035874+00:00",
+  "updated_at": "2026-11-11T16:03:29.949935+00:00",
+  "published_to": []
+}

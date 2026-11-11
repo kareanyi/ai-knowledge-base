@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-014",
+  "source": "rss",
+  "source_url": "https://yaksoy.github.io/PhysicalRelighting/",
+  "title": "Physically Controllable Relighting of Photographs",
+  "summary": "该项目提出一种照片的物理可控重光照方法，使用户能够通过调整场景中的光源位置、方向等参数，对具有复杂材质与反射效果的摄影图像进行逼真的重新照明。研究结合了计算机视觉、深度学习与基于物理的光照建模，旨在提高照片编辑时的交互性和结果可信度。",
+  "tech_stack": [
+    "Deep Learning",
+    "Computer Vision",
+    "Physically Based Rendering",
+    "Image Processing",
+    "Neural Networks"
+  ],
+  "problem_solved": "解决传统照片重光照方法难以同时保证光照效果真实、物理可控以及保留复杂场景细节的问题。",
+  "why_valuable": "它为照片编辑和视觉特效制作提供了更符合真实光照规律、交互更直观的重光照方案。",
+  "tags": [
+    "Relighting",
+    "Computer Vision",
+    "Deep Learning",
+    "Image Editing",
+    "Physically Based Rendering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:02:41.447735+00:00",
+  "updated_at": "2026-11-11T16:03:29.949655+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-012",
+  "source": "rss",
+  "source_url": "https://pietromiotti.com/latest/maya-site/?maya",
+  "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+  "summary": "文章介绍了一个由多个 AI 智能体并行分析 NASA 激光雷达数据的项目，在约 72 小时内发现此前未被记录的玛雅金字塔。该案例展示了自动化智能体协作、地理空间数据处理与考古遗址识别在加速未知遗迹发现中的潜力。",
+  "tech_stack": [
+    "Google SWE",
+    "AI Agents",
+    "NASA Lidar",
+    "Geospatial Analysis",
+    "Python"
+  ],
+  "problem_solved": "通过自动化处理大规模激光雷达数据并并行执行考古分析，缩短未映射遗址的发现与验证周期。",
+  "why_valuable": "它证明多智能体系统能够高效筛选复杂地理空间数据，并为考古勘探提供新的候选遗址线索。",
+  "tags": [
+    "AI Agents",
+    "Lidar",
+    "Archaeology",
+    "Maya",
+    "Geospatial"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:02:15.272997+00:00",
+  "updated_at": "2026-11-11T16:03:29.949399+00:00",
+  "published_to": []
+}

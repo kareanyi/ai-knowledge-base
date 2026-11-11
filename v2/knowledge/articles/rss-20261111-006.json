@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-006",
+  "source": "rss",
+  "source_url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+  "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+  "summary": "AssemblyForNeovim 是一个面向 Neovim 的插件，可在浮动窗口中展示本地编译器生成的汇编结果，交互方式类似 Compiler Explorer/Godbolt。项目支持 C、C++ 和 Rust，并完全离线运行，不依赖互联网连接或远程编译服务。",
+  "tech_stack": [
+    "Neovim",
+    "C",
+    "C++",
+    "Rust",
+    "LLVM"
+  ],
+  "problem_solved": "让开发者无需切换到在线 Compiler Explorer，即可直接在 Neovim 中查看和分析本地编译生成的汇编代码。",
+  "why_valuable": "离线、集成式的汇编查看流程可减少上下文切换，并方便开发者在编码过程中快速理解编译器输出。",
+  "tags": [
+    "Neovim",
+    "Assembly",
+    "Compiler",
+    "Developer Tools",
+    "Offline"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-11T16:01:13.684833+00:00",
+  "updated_at": "2026-11-11T16:03:29.948447+00:00",
+  "published_to": []
+}

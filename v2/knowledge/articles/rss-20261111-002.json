@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261111-002",
+  "source": "rss",
+  "source_url": "https://blog.atuin.sh/threads-agent-sessions/",
+  "title": "Atuin Threads: All your agent sessions on every machine",
+  "summary": "Atuin Threads 用于集中管理和同步运行在不同机器上的 AI Agent 会话，使会话记录能够跨设备访问和延续。文章介绍了该功能的目标、使用方式及其在多设备开发环境中的价值。",
+  "tech_stack": [
+    "Atuin",
+    "AI Agents",
+    "Session Sync",
+    "CLI"
+  ],
+  "problem_solved": "解决 AI Agent 会话分散在不同机器上、难以统一检索和跨设备延续的问题。",
+  "why_valuable": "它能让开发者在切换设备时保留并恢复 Agent 上下文，提升多设备 AI 编程工作流的连续性。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Session Sync",
+    "Developer Tools",
+    "Cross-device"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:00:33.903795+00:00",
+  "updated_at": "2026-11-11T16:03:29.940962+00:00",
+  "published_to": []
+}

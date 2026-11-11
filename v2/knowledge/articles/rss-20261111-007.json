@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261111-007",
+  "source": "rss",
+  "source_url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+  "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+  "summary": "Apple 研究团队探讨了如何将注意力模型中的能力迁移到 Mamba 架构，通过跨架构蒸馏让 Mamba 模型继承 Attention 机制的优势。现有输入未提供具体方法、实验指标或实现细节，因此实际效果仍需结合原文判断。",
+  "tech_stack": [
+    "PyTorch",
+    "Mamba",
+    "Attention",
+    "Knowledge Distillation"
+  ],
+  "problem_solved": "解决 Mamba 架构难以直接利用注意力模型中高质量知识与能力的问题。",
+  "why_valuable": "跨架构蒸馏有望提升 Mamba 在序列建模任务中的表现，同时降低其与注意力机制结合的探索成本。",
+  "tags": [
+    "Mamba",
+    "Distillation",
+    "Attention",
+    "Architecture",
+    "Transfer Learning"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-11T16:01:19.389346+00:00",
+  "updated_at": "2026-11-11T16:03:29.948638+00:00",
+  "published_to": []
+}

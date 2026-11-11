@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261111-004",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+  "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+  "summary": "文章向各大电视制造商提出 17 个问题，调查智能电视如何收集和使用用户观看、搜索及语音等数据，重点关注自动内容识别（ACR）及相关广告追踪机制。它旨在揭示不同厂商在隐私保护、数据共享和用户控制方面的政策差异。",
+  "tech_stack": [
+    "Smart TV",
+    "Automatic Content Recognition (ACR)",
+    "Online Tracking",
+    "Targeted Advertising"
+  ],
+  "problem_solved": "通过统一问卷公开电视厂商的数据收集与追踪 practices，帮助用户了解智能电视隐私风险并作出更informed的消费选择。",
+  "why_valuable": "智能电视能够感知观看内容和周围环境，其隐私影响常不直观，厂商政策的横向对比为消费者和监管者提供了重要参考。",
+  "tags": [
+    "Privacy",
+    "Smart TV",
+    "Data Tracking",
+    "Surveillance",
+    "Consumer Technology"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:01:04.499166+00:00",
+  "updated_at": "2026-11-11T16:03:29.947993+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-018",
+  "source": "rss",
+  "source_url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+  "title": "Protecting SSH Keys with macOS Secure Enclave",
+  "summary": "文章介绍如何利用 macOS Secure Enclave 生成、保存并使用 SSH 私钥，使密钥材料无法被直接导出，从而降低私钥泄露和被窃取的风险。其核心思路是借助硬件安全模块完成加密签名操作，并让 SSH 客户端通过安全代理调用这些密钥。",
+  "tech_stack": [
+    "macOS",
+    "Secure Enclave",
+    "OpenSSH",
+    "SSH",
+    "Cryptography"
+  ],
+  "problem_solved": "解决 SSH 私钥以明文文件形式存储在磁盘上、容易被复制或窃取的安全问题。",
+  "why_valuable": "将 SSH 密钥操作绑定到硬件安全环境，可以显著增强密钥机密性，并减少密钥备份、迁移和泄露带来的风险。",
+  "tags": [
+    "SSH",
+    "Security",
+    "macOS",
+    "Secure Enclave",
+    "Key Management"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-11T16:03:29.373669+00:00",
+  "updated_at": "2026-11-11T16:03:29.950234+00:00",
+  "published_to": []
+}

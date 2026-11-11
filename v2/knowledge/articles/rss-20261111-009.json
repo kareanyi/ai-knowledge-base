@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-009",
+  "source": "rss",
+  "source_url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+  "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+  "summary": "Mozilla 介绍了一项旨在提升 Firefox 隐私保护能力、让网站更难识别和追踪用户设备指纹的开放研究。重点可能包括浏览器指纹识别技术现状、现有防御机制的局限性，以及如何通过更鲁棒的用户代理随机化或抗指纹浏览能力降低追踪风险。",
+  "tech_stack": [
+    "Firefox",
+    "浏览器指纹识别",
+    "隐私增强技术",
+    "用户代理随机化",
+    "Web API"
+  ],
+  "problem_solved": "通过降低浏览器暴露的设备与用户特征的一致性，防止网站利用指纹识别技术对 Firefox 用户进行跨站追踪。",
+  "why_valuable": "更强的抗指纹能力能够减少用户在浏览器中的可识别性，在不牺牲基本网页兼容性的前提下提升日常上网隐私。",
+  "tags": [
+    "Privacy",
+    "Fingerprinting",
+    "Firefox",
+    "Mozilla",
+    "Browser Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:01:31.595444+00:00",
+  "updated_at": "2026-11-11T16:03:29.948954+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261111-010",
+  "source": "rss",
+  "source_url": "https://nathan.rs/posts/weight-space-lp/",
+  "title": "Can a Linear Program Do Weight-Space Programming?",
+  "summary": "文章探讨了将线性规划（Linear Programming）应用于神经网络权重空间编程的可能性，核心问题是 LP 是否能够有效表达或优化模型参数。内容关注从传统凸优化方法到权重空间操作的建模视角，但所给文本仅包含标题和讨论链接，具体技术细节有限。",
+  "tech_stack": [
+    "Linear Programming",
+    "Neural Networks",
+    "Weight Optimization",
+    "Convex Optimization"
+  ],
+  "problem_solved": "探索如何利用线性规划对神经网络权重空间中的参数进行建模、计算或优化。",
+  "why_valuable": "如果线性规划能够有效处理权重空间问题，可能为神经网络的训练、解释或优化提供一种更清晰、可扩展的数学框架。",
+  "tags": [
+    "Linear Programming",
+    "Weight Space",
+    "Neural Networks",
+    "Optimization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:01:44.033300+00:00",
+  "updated_at": "2026-11-11T16:03:29.949102+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261111-003",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+  "title": "Apple is killing its Support Community forum next week",
+  "summary": "文章报道 Apple 将于下周关闭其 Support Community 官方支持论坛。此举意味着用户将失去由 Apple 主持的社区交流与技术 troubleshooting 渠道，相关讨论可能转向其他平台。",
+  "tech_stack": [
+    "Apple Support Community",
+    "Web Forum",
+    "Community Moderation"
+  ],
+  "problem_solved": "解决 Apple 用户获取官方技术支持、问题排查和社区经验分享的需求。",
+  "why_valuable": "该消息有助于用户及时迁移支持渠道，并评估 Apple 官方社区服务收缩带来的影响。",
+  "tags": [
+    "Apple",
+    "Support",
+    "Community",
+    "Forum",
+    "Shutdown"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:00:39.984459+00:00",
+  "updated_at": "2026-11-11T16:03:29.941109+00:00",
+  "published_to": []
+}

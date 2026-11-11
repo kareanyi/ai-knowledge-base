@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-001",
+  "source": "rss",
+  "source_url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+  "title": "Pharo in the Browser with WebAssembly",
+  "summary": "该项目探索将 Pharo Smalltalk 环境及其虚拟机编译为 WebAssembly，使其能够直接运行在现代浏览器中。通过复用成熟的 Pharo VM，开发者可在无需额外原生插件的情况下，于 Web 平台使用 Smalltalk 编程、交互和调试体验。",
+  "tech_stack": [
+    "Pharo",
+    "Smalltalk",
+    "WebAssembly",
+    "JavaScript",
+    "Emscripten"
+  ],
+  "problem_solved": "解决 Pharo/Smalltalk 运行环境依赖原生插件、难以在浏览器中使用和部署的问题。",
+  "why_valuable": "它能将完整的小型开发环境带到浏览器，降低跨平台使用、演示和部署门槛，并推动 Smalltalk 与现代 Web 技术融合。",
+  "tags": [
+    "Pharo",
+    "Smalltalk",
+    "WebAssembly",
+    "Browser",
+    "Virtualization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-11T16:00:26.864255+00:00",
+  "updated_at": "2026-11-11T16:03:29.940705+00:00",
+  "published_to": []
+}

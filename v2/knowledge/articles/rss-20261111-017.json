@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-017",
+  "source": "rss",
+  "source_url": "https://github.com/adrbn/bo2-mac",
+  "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+  "summary": "该项目将《使命召唤：黑色行动 II》静态重编译为原生 ARM64 macOS 应用，使游戏可在 Apple Silicon Mac 上无需模拟器或 Rosetta 直接运行。作者借助 Claude Opus 5.5 开发了自动化转换工具，目标是让整个战役以接近 60 FPS 运行，但仍需解决部分发热问题。",
+  "tech_stack": [
+    "ARM64",
+    "macOS",
+    "Static Recompilation",
+    "AOT",
+    "Claude Opus 5.5"
+  ],
+  "problem_solved": "解决《黑色行动 II》无法原生运行在 Apple Silicon Mac 上、传统模拟器兼容性和性能不足的问题。",
+  "why_valuable": "它展示了利用静态重编译和 AI 辅助开发将旧版 Windows 游戏迁移到现代 ARM64 macOS 的可行路径，并提供接近原生的高帧率体验。",
+  "tags": [
+    "Reverse Engineering",
+    "Static Recompilation",
+    "ARM64",
+    "macOS",
+    "Game Porting"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-11T16:03:22.165781+00:00",
+  "updated_at": "2026-11-11T16:03:29.950075+00:00",
+  "published_to": []
+}

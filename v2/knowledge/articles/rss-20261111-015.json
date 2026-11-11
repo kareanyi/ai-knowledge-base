@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261111-015",
+  "source": "rss",
+  "source_url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+  "title": "Using voltage glitching to unleash the A100 in my mining card",
+  "summary": "文章介绍如何对搭载 NVIDIA A100 的矿卡进行电压毛刺（voltage glitching）与硬件故障注入，以解除固件或驱动层面的算力限制，使其恢复通用计算和 AI 加速能力。内容属于高级硬件逆向与 GPU 定制化实践，具有较强的实验性和技术挑战性。",
+  "tech_stack": [
+    "Voltage Glitching",
+    "NVIDIA A100",
+    "GPU Mining",
+    "Hardware Hacking",
+    "Fault Injection"
+  ],
+  "problem_solved": "解决 NVIDIA A100 矿卡因固件、驱动或算力锁定而无法充分释放通用 GPU 性能的问题。",
+  "why_valuable": "它展示了通过底层硬件操控解锁昂贵 GPU 算力的可行路径，可为低成本 AI 算力改造、硬件研究和固件逆向提供参考。",
+  "tags": [
+    "GPU",
+    "Hardware Hacking",
+    "Voltage Glitching",
+    "AI Hardware",
+    "Reverse Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-11T16:02:48.157266+00:00",
+  "updated_at": "2026-11-11T16:03:29.949803+00:00",
+  "published_to": []
+}
