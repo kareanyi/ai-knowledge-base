@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261112-016",
+  "source": "rss",
+  "source_url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+  "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+  "summary": "柯廷大学研究人员发现了一个罕见的多星系统，其会以约每 8 分钟一次的规律向太空发射射电信号。该发现展示了自然恒星系统可产生高度周期性的射电脉冲，为天体物理研究和相关信号识别提供了新线索。",
+  "tech_stack": [
+    "Radio Astronomy",
+    "Observational Astronomy",
+    "Signal Analysis",
+    "Astrophysics"
+  ],
+  "problem_solved": "该研究通过识别罕见的周期性射电辐射，帮助天文学家理解特殊双星或多星系统中的脉冲机制及其物理性质。",
+  "why_valuable": "规律性射电脉冲可能为研究强磁场、致密天体和恒星系统动力学提供独特观测窗口。",
+  "tags": [
+    "Astronomy",
+    "Radio Signals",
+    "Star System",
+    "Astrophysics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-12T16:45:11.230760+00:00",
+  "updated_at": "2026-11-12T16:45:35.090807+00:00",
+  "published_to": []
+}

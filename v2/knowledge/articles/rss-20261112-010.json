@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261112-010",
+  "source": "rss",
+  "source_url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+  "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+  "summary": "本文是一篇对 AMD Zen 6 架构相关内容的深度访谈，重点围绕 AMD 处理器架构师 Mike Clark 展开。文章旨在探讨 Zen 6 的设计理念、微架构改进及技术取舍，但当前提供的信息未包含具体技术细节。",
+  "tech_stack": [
+    "AMD Zen 6",
+    "x86-64",
+    "CPU Microarchitecture",
+    "AMD Ryzen"
+  ],
+  "problem_solved": "帮助技术读者了解 AMD Zen 6 处理器的架构设计方向及其背后的工程决策。",
+  "why_valuable": "来自 AMD 核心架构师的深度解读能够为处理器性能分析、架构比较和未来硬件趋势判断提供权威参考。",
+  "tags": [
+    "AMD",
+    "Zen 6",
+    "CPU Architecture",
+    "Microarchitecture",
+    "Hardware"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-12T16:44:28.312279+00:00",
+  "updated_at": "2026-11-12T16:45:35.089787+00:00",
+  "published_to": []
+}

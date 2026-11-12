@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261112-020",
+  "source": "rss",
+  "source_url": "https://www.mcmillen.dev/sigbovik/",
+  "title": "93% of paint splatters are valid Perl programs (2019)",
+  "summary": "本文探讨了一个有趣的编程语言现象：随机生成的油漆飞溅图案在语法规则下，有高达 93% 的可能性是合法的 Perl 程序。文章通过将油漆斑点直接作为 Perl 源代码执行，展示了 Perl 灵活语法与“任意文本接近程序”这一语言设计特性之间的关系。",
+  "tech_stack": [
+    "Perl",
+    "Source Code Interpretation",
+    "Procedural Programming"
+  ],
+  "problem_solved": "通过实验验证随机油漆飞溅图案在 Perl 语法下成为有效程序的比例，并借此展示 Perl 语法的高度包容性与趣味性。",
+  "why_valuable": "它以新颖且直观的方式解释了 Perl 的语法设计特色，同时展示了编程语言理论、随机性测试与创意编程之间的有趣联系。",
+  "tags": [
+    "Perl",
+    "Programming Languages",
+    "Code Golf",
+    "Creative Coding",
+    "Syntax"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-12T16:45:34.057634+00:00",
+  "updated_at": "2026-11-12T16:45:35.091495+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261112-012",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/electric-ship-batteries",
+  "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+  "summary": "IEEE Spectrum 介绍了新型电动船舶电池技术，重点强调其在提升能量密度、减小设备体积和降低工作温度方面的潜力。文章有望推动船舶动力系统从传统燃油方案向更紧凑、高效且低碳的电动化方向转型。",
+  "tech_stack": [
+    "Electric Propulsion",
+    "Marine Battery Systems",
+    "Battery Thermal Management",
+    "High-Density Battery Technology"
+  ],
+  "problem_solved": "传统船用动力电池存在体积庞大、能量密度有限和散热困难等问题，限制了电动船舶的续航能力与部署空间。",
+  "why_valuable": "更紧凑且温度更低的电池系统可显著提升船舶续航、降低热管理复杂度，并加速海事运输行业的电气化。",
+  "tags": [
+    "Electric Ships",
+    "Batteries",
+    "Marine Engineering",
+    "Energy Storage",
+    "Electrification"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-12T16:44:41.251336+00:00",
+  "updated_at": "2026-11-12T16:45:35.090141+00:00",
+  "published_to": []
+}

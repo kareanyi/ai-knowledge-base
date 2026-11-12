@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261112-003",
+  "source": "rss",
+  "source_url": "https://github.com/chocoford/ExcalidrawZ",
+  "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+  "summary": "ExcalidrawZ 是一个面向 macOS 和 iOS 的本地原生 Excalidraw 实现，目标是在 Apple 设备上提供无需依赖网页服务的绘图体验。项目基于 GitHub 开源代码开发，并可通过 App Store 或 GitHub 仓库获取，其核心价值在于提升 Excalidraw 在 Apple 平台上的本地化、集成能力和使用便利性。",
+  "tech_stack": [
+    "Swift",
+    "SwiftUI",
+    "WKWebView",
+    "Excalidraw",
+    "macOS/iOS"
+  ],
+  "problem_solved": "解决 Excalidraw 在 macOS 和 iOS 上缺乏原生、本地且集成良好的客户端体验问题。",
+  "why_valuable": "它让 Apple 平台用户能够更方便地在原生应用中使用 Excalidraw 的白板、绘图和协作功能。",
+  "tags": [
+    "Excalidraw",
+    "iOS",
+    "macOS",
+    "Native App",
+    "Whiteboard"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-12T16:43:18.197353+00:00",
+  "updated_at": "2026-11-12T16:45:35.081366+00:00",
+  "published_to": []
+}

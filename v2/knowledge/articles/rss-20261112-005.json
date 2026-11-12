@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261112-005",
+  "source": "rss",
+  "source_url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+  "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+  "summary": "文章探讨了在 Linux 环境下，将四块配备 32 GB 显存的 GPU 放置在单个 PCIe 交换机后方时的 Resizable BAR 配置与限制。重点可能涉及硬件拓扑、地址空间映射以及操作系统侧的兼容性或调试问题，为多 GPU 服务器部署提供实践参考。",
+  "tech_stack": [
+    "Linux",
+    "PCIe",
+    "Resizable BAR",
+    "GPU",
+    "Kernel Driver"
+  ],
+  "problem_solved": "分析并解决多块大显存 GPU 经 PCIe 交换机连接时，Resizable BAR 映射可能无法正常工作或无法同时启用的问题。",
+  "why_valuable": "它为需要在大显存 GPU 集群中启用或排查 Resizable BAR 的 Linux 用户和系统管理员提供了底层硬件与内核层面的实践依据。",
+  "tags": [
+    "Linux",
+    "PCIe",
+    "Resizable BAR",
+    "GPU",
+    "Hardware"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-12T16:43:28.974352+00:00",
+  "updated_at": "2026-11-12T16:45:35.088732+00:00",
+  "published_to": []
+}

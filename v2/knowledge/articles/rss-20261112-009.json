@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261112-009",
+  "source": "rss",
+  "source_url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+  "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+  "summary": "文章介绍了 mod 开发者接手并完成被搁置的《Quake 4》资料片 OpenQ4，使其重新达到可游玩状态。页面提供适用于 Windows 64 位系统的 OpenQ4 0.14.1 下载版本，并附有相关新闻及社区讨论链接。",
+  "tech_stack": [
+    "OpenQ4",
+    "id Tech 4",
+    "C/C++",
+    "Windows x64"
+  ],
+  "problem_solved": "通过社区接手开发和维护，解决官方《Quake 4》资料片长期停滞、无法正式完成和体验的问题。",
+  "why_valuable": "它延续了经典游戏项目的内容与社区生命周期的价值，使玩家能够游玩并体验原本被搁置的扩展内容。",
+  "tags": [
+    "GameModding",
+    "Quake4",
+    "OpenSource",
+    "Gaming",
+    "Community"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-12T16:44:14.961525+00:00",
+  "updated_at": "2026-11-12T16:45:35.089609+00:00",
+  "published_to": []
+}

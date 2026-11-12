@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261112-007",
+  "source": "rss",
+  "source_url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+  "title": "Running web sites makes me not want to",
+  "summary": "这是一篇围绕“运营网站为何让人失去动力”的个人随笔或评论文章，讨论维护网站带来的技术负担、内容更新压力与精力消耗。现有材料仅包含标题、链接和讨论数据，未提供文章正文，因此无法确认其具体技术方案或核心论点。",
+  "tech_stack": [
+    "Web Development"
+  ],
+  "problem_solved": "文章试图反思网站运营与持续维护带来的复杂性和动力衰减问题。",
+  "why_valuable": "它可能帮助开发者和独立站长重新评估网站维护成本、技术负担与个人精力之间的平衡。",
+  "tags": [
+    "Web Development",
+    "Site Operations",
+    "Digital Burnout",
+    "Personal Essay"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-12T16:43:39.102350+00:00",
+  "updated_at": "2026-11-12T16:45:35.089206+00:00",
+  "published_to": []
+}

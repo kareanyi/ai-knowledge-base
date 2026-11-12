@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261112-001",
+  "source": "rss",
+  "source_url": "https://getvale.org",
+  "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+  "summary": "Vale 是一个开源、自托管的 PHP 内容平台，旨在替代需要持续维护的 WordPress，将 CMS、电子商务等常用功能整合到同一系统中。项目经过两年内部开发后开放源码，并提供在线演示、源代码和完整文档供开发者体验与评估。",
+  "tech_stack": [
+    "PHP",
+    "Self-hosted",
+    "Open Source",
+    "CMS",
+    "E-commerce"
+  ],
+  "problem_solved": "通过整合 CMS、电子商务及平台功能，降低传统 WordPress 站点在持续维护、功能扩展和系统复杂度方面的运维成本。",
+  "why_valuable": "它为希望掌控数据、减少第三方依赖并拥有一体化内容与交易管理能力的团队提供了一个可自行部署和定制的开源替代方案。",
+  "tags": [
+    "CMS",
+    "E-commerce",
+    "Self-hosted",
+    "Open Source",
+    "WordPress Alternative"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-12T16:42:47.942902+00:00",
+  "updated_at": "2026-11-12T16:45:35.080907+00:00",
+  "published_to": []
+}

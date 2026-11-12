@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261112-013",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+  "title": "Our software engineering interviews are changing (a little)",
+  "summary": "Jane Street 介绍其软件工程面试流程正在发生有限调整，表明技术招聘评估方式正在演进。当前输入仅包含文章标题、链接及社区讨论元数据，未提供调整方式、面试流程或具体实践的详细说明。",
+  "tech_stack": [],
+  "problem_solved": "文章探讨如何改进传统软件工程面试，以更好地评估候选人的实际工程能力并适应不断变化的招聘需求。",
+  "why_valuable": "了解招聘流程的演进有助于工程师准备面试，也有助于招聘团队优化候选人评估机制。",
+  "tags": [
+    "Software Engineering",
+    "Interviewing",
+    "Recruiting",
+    "Hiring"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-12T16:44:47.168919+00:00",
+  "updated_at": "2026-11-12T16:45:35.090326+00:00",
+  "published_to": []
+}

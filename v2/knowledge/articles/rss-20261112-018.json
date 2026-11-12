@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261112-018",
+  "source": "rss",
+  "source_url": "https://www.getlazarus.org/forums/topic/17/",
+  "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+  "summary": "该项目旨在开发一款遵循自由开源软件理念、面向 Linux 的弹球模拟引擎，核心工作是实现物理仿真、桌面游戏环境及可扩展的交互体验。内容来自 Lazarus 社区论坛，主要用于展示项目进展、讨论技术方案并收集社区反馈，但提供的具体实现细节有限。",
+  "tech_stack": [
+    "Lazarus",
+    "Free Pascal",
+    "Linux",
+    "OpenGL"
+  ],
+  "problem_solved": "为 Linux 平台提供一个可自由使用、修改和扩展的开源弹球游戏模拟引擎。",
+  "why_valuable": "它填补了 Linux 上高质量、完全开源且可定制的弹球模拟项目相对有限的空白，并促进社区协作。",
+  "tags": [
+    "FOSS",
+    "Linux",
+    "Pinball",
+    "Game Engine",
+    "Physics Simulation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-12T16:45:23.119591+00:00",
+  "updated_at": "2026-11-12T16:45:35.091149+00:00",
+  "published_to": []
+}

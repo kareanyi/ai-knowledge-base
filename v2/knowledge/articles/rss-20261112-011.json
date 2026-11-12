@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261112-011",
+  "source": "rss",
+  "source_url": "https://libreagi.com/",
+  "title": "Libreagi – Save OSS Models",
+  "summary": "Libreagi 是一个用于保存和整理开源 AI 模型的在线服务，目标是帮助用户集中发现、收藏和管理 OSS 模型。该项目通过 Hacker News 分享，并获得 49 个点赞和 14 条评论。",
+  "tech_stack": [
+    "Open-source AI Models",
+    "Web"
+  ],
+  "problem_solved": "解决开源 AI 模型分散、难以统一检索和长期管理的问题。",
+  "why_valuable": "集中化保存与管理模型资源，可降低开发者查找、比较和复用开源模型的成本。",
+  "tags": [
+    "AI",
+    "OSS",
+    "Model Hub",
+    "Model Management",
+    "Developer Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-12T16:44:34.775487+00:00",
+  "updated_at": "2026-11-12T16:45:35.089956+00:00",
+  "published_to": []
+}

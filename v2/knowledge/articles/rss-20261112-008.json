@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261112-008",
+  "source": "rss",
+  "source_url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+  "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+  "summary": "PostgreSQL 官方发布了 18.7、17.12、16.16、15.20 和 14.25 维护版本，同时推出 PostgreSQL 19 的第 2 个候选发布版。该公告通常包含对多个受支持稳定分支的缺陷修复、安全更新及兼容性改进。",
+  "tech_stack": [
+    "PostgreSQL",
+    "SQL",
+    "Database"
+  ],
+  "problem_solved": "通过持续发布维护版本修复已知问题并提升数据库安全性、稳定性和可靠性。",
+  "why_valuable": "为生产环境中的 PostgreSQL 用户提供经过测试的升级路径，降低漏洞与缺陷带来的业务风险，并让用户提前评估 PostgreSQL 19。",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Release",
+    "Security",
+    "Maintenance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-12T16:43:43.936083+00:00",
+  "updated_at": "2026-11-12T16:45:35.089414+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261112-002",
+  "source": "rss",
+  "source_url": "https://fable52.games",
+  "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+  "summary": "Fable52.games 是一个可直接在浏览器中游玩并查看源码的单文件 HTML 游戏集合，重点展示了 Fable 5.2 生成的交互式网页游戏作品。项目将游戏体验与代码检查结合起来，方便用户试玩、学习和参考实现。",
+  "tech_stack": [
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Web APIs"
+  ],
+  "problem_solved": "它解决了单文件 HTML 游戏缺少统一试玩与源码检查入口的问题，让用户可以立即体验并分析游戏实现。",
+  "why_valuable": "通过把可玩作品与可阅读源码放在同一平台，它为前端开发者学习交互设计、游戏实现和轻量级网页发布方式提供了便利。",
+  "tags": [
+    "HTML5",
+    "Browser Games",
+    "Single-file Apps",
+    "Game Development",
+    "Interactive Demos"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-12T16:42:54.949185+00:00",
+  "updated_at": "2026-11-12T16:45:35.081202+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261112-015",
+  "source": "rss",
+  "source_url": "https://ipo.anthropic.com/us/",
+  "title": "Anthropic IPO",
+  "summary": "该内容指向 Anthropic 的美国 IPO 官方页面，并在 Hacker News 提供了对应讨论链接。现有信息仅包含页面地址、446 分和 463 条评论，未提供 IPO 条款、财务数据或具体业务细节。",
+  "tech_stack": [
+    "Anthropic",
+    "Claude",
+    "Artificial Intelligence"
+  ],
+  "problem_solved": "该页面用于发布和查询 Anthropic IPO 的相关信息，并汇集社区对此次上市事件的讨论。",
+  "why_valuable": "它为关注 Anthropic 上市进程、估值及 AI 行业商业化的投资者和技术从业者提供了一手信息入口与讨论社区。",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "AI",
+    "Hacker News",
+    "Fintech"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-12T16:45:01.662347+00:00",
+  "updated_at": "2026-11-12T16:45:35.090646+00:00",
+  "published_to": []
+}

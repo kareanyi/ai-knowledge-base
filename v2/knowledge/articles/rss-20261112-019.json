@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261112-019",
+  "source": "rss",
+  "source_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+  "title": "Critical RCE Vulnerability in Apache HTTP Server",
+  "summary": "文章分析了 Apache HTTP Server 中的严重远程代码执行漏洞 CVE-2026-119618，并讨论其潜在影响与安全响应。该漏洞可能导致未授权攻击者远程执行代码，具体成因与利用细节需参考原文及官方公告。",
+  "tech_stack": [
+    "Apache HTTP Server",
+    "CVE-2026-119618"
+  ],
+  "problem_solved": "揭示并分析 Apache HTTP Server 严重远程代码执行漏洞，帮助安全团队理解风险并采取补丁或缓解措施。",
+  "why_valuable": "及时披露该漏洞可提高运维与安全团队的警觉，降低互联网暴露的 Apache HTTP Server 遭利用和系统失陷的风险。",
+  "tags": [
+    "Apache",
+    "RCE",
+    "Vulnerability",
+    "Cybersecurity",
+    "CVE"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-12T16:45:27.730404+00:00",
+  "updated_at": "2026-11-12T16:45:35.091316+00:00",
+  "published_to": []
+}
