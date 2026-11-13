@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261113-009",
+  "source": "rss",
+  "source_url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+  "title": "Why Zig over C for Systems Programming",
+  "summary": "文章讨论了在系统编程领域选择 Zig 而非 C 的理由，重点可能涵盖 Zig 的语言特性、内存安全、编译性能及工程体验。内容通过与 C 进行对比，评估 Zig 在底层开发中的优势与适用场景。",
+  "tech_stack": [
+    "Zig",
+    "C"
+  ],
+  "problem_solved": "帮助系统开发者理解 Zig 相比 C 能提供的改进，并判断是否值得用 Zig 替代或补充 C 进行底层软件开发。",
+  "why_valuable": "该对比为系统编程语言选型提供了实践依据，有助于开发者提升软件安全性、可维护性和开发效率。",
+  "tags": [
+    "Zig",
+    "C",
+    "Systems Programming",
+    "Memory Safety",
+    "Programming Languages"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-13T16:01:25.985659+00:00",
+  "updated_at": "2026-11-13T16:03:02.531793+00:00",
+  "published_to": []
+}

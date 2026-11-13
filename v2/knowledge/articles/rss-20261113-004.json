@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261113-004",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50484421",
+  "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+  "summary": "美国10月生产者价格指数（PPI）同比增长6.5%，创近四年来新高，但略低于市场预期。环比上涨0.3%，同时9月数据被上修，显示上游价格压力仍然较强。",
+  "tech_stack": [],
+  "problem_solved": "通过公布美国生产者价格的同比与环比变化，衡量企业生产端成本上涨和潜在通胀压力。",
+  "why_valuable": "PPI数据有助于判断通胀趋势、货币政策环境及企业利润空间，是宏观经济与金融市场分析的重要依据。",
+  "tags": [
+    "Economics",
+    "Inflation",
+    "PPI",
+    "MonetaryPolicy",
+    "USMarket"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-13T16:01:00.821862+00:00",
+  "updated_at": "2026-11-13T16:03:02.531308+00:00",
+  "published_to": []
+}

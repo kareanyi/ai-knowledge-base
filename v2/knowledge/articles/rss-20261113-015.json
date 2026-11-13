@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261113-015",
+  "source": "rss",
+  "source_url": "https://ice-wm.org/",
+  "title": "IceWM",
+  "summary": "IceWM 是一个面向 Unix/Linux 桌面环境的轻量级窗口管理器，专注于以较低资源占用提供传统桌面窗口管理功能。项目官网及其 Hacker News 讨论表明，它受到注重简洁、效率和可定制性的桌面用户关注。",
+  "tech_stack": [
+    "C/C++",
+    "X11",
+    "Linux",
+    "Unix"
+  ],
+  "problem_solved": "为 Unix/Linux 用户提供轻量、低资源占用且高度可配置的图形桌面窗口管理方案。",
+  "why_valuable": "它适合需要高性能窗口管理、远程桌面或资源受限系统，同时又希望保留传统桌面交互体验的用户。",
+  "tags": [
+    "WindowManager",
+    "Linux",
+    "X11",
+    "Desktop",
+    "OpenSource"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-13T16:02:08.995220+00:00",
+  "updated_at": "2026-11-13T16:03:02.532453+00:00",
+  "published_to": []
+}

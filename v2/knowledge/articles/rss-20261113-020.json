@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261113-020",
+  "source": "rss",
+  "source_url": "https://developer.apple.com/foundation-models-framework/",
+  "title": "Foundation Models framework",
+  "summary": "Apple Foundation Models framework 为开发者提供了一套用于访问设备端基础模型的统一 API，使应用能够在不依赖外部云端服务的情况下集成生成式 AI 能力。该框架面向 Apple 平台原生开发，重点强调隐私、离线可用性以及与系统模型的直接协作。",
+  "tech_stack": [
+    "Swift",
+    "Apple Foundation Models Framework",
+    "Apple Intelligence",
+    "On-device AI",
+    "Xcode"
+  ],
+  "problem_solved": "它简化了 iOS、iPadOS、macOS 等 Apple 平台应用集成设备端基础模型的流程，并减少自建或调用云端大模型所带来的复杂度与隐私风险。",
+  "why_valuable": "原生设备端模型 API 可降低 AI 功能接入门槛，并在响应速度、离线能力和数据隐私方面为应用提供明显优势。",
+  "tags": [
+    "Apple",
+    "Foundation Models",
+    "On-device AI",
+    "Generative AI",
+    "Developer Tools"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-13T16:03:01.410454+00:00",
+  "updated_at": "2026-11-13T16:03:02.532922+00:00",
+  "published_to": []
+}

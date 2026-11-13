@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261113-007",
+  "source": "rss",
+  "source_url": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+  "title": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
+  "summary": "文章讲述《神经漫游者》改编成银幕作品长达42年的历程，并围绕苹果 TV+ 项目及创作者访谈展开。文章重点关注经典赛博朋克小说影视化过程中长期搁置、反复重启以及最终实现屏幕化的挑战。",
+  "tech_stack": [
+    "Apple TV+",
+    "Filmmaking",
+    "Practical Effects",
+    "Visual Effects"
+  ],
+  "problem_solved": "梳理并解释《神经漫游者》如何经过数十年的筹备最终完成从文学作品到影视作品的转化。",
+  "why_valuable": "它通过长期改编历程揭示了经典科幻作品在技术、创意与商业条件之间持续协调的难度。",
+  "tags": [
+    "Neuromancer",
+    "AppleTV",
+    "Cybersecurity",
+    "ScreenAdaptation",
+    "Filmmaking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-13T16:01:16.539932+00:00",
+  "updated_at": "2026-11-13T16:03:02.531616+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261113-019",
+  "source": "rss",
+  "source_url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+  "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+  "summary": "文章记录了作者逆向分析 Coway 空气净化器通信与控制机制的过程，目标是摆脱对厂商云端服务的依赖。通过理解并复现设备功能，作者有望实现本地化控制，从而提升隐私、可靠性和长期可维护性。",
+  "tech_stack": [
+    "Reverse Engineering",
+    "Embedded Systems",
+    "Networking",
+    "IoT"
+  ],
+  "problem_solved": "解决智能空气净化器必须依赖云端连接才能控制、导致隐私风险和服务停用后功能失效的问题。",
+  "why_valuable": "它展示了如何通过协议与硬件逆向实现 IoT 设备本地化控制，增强用户对个人数据和设备可用性的掌控。",
+  "tags": [
+    "Reverse Engineering",
+    "IoT",
+    "Cloud Independence",
+    "Privacy",
+    "Embedded Systems"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-13T16:02:56.754952+00:00",
+  "updated_at": "2026-11-13T16:03:02.532835+00:00",
+  "published_to": []
+}

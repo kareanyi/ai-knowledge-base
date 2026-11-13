@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261113-012",
+  "source": "rss",
+  "source_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+  "title": "AI Is Destroying the Trust Between Writers and Readers",
+  "summary": "文章探讨 AI 生成内容及文学诈骗对作家与读者之间信任关系的破坏，尤其关注亚马逊平台上的相关现象。随着 AI 批量制造低成本、低质量作品并冒充人工创作，读者更难判断图书质量与作者身份，出版生态和平台信任机制面临挑战。",
+  "tech_stack": [
+    "Generative AI",
+    "Amazon",
+    "Publishing",
+    "Content Detection"
+  ],
+  "problem_solved": "分析 AI 文学诈骗与低质量内容泛滥如何侵蚀读者对作家、图书和平台真实性的信任。",
+  "why_valuable": "揭示 AI 对出版行业的结构性影响，为平台治理、作者权益保护及读者辨别内容提供重要警示。",
+  "tags": [
+    "AI",
+    "Publishing",
+    "Literary Scams",
+    "Trust",
+    "Amazon"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-13T16:01:49.963682+00:00",
+  "updated_at": "2026-11-13T16:03:02.532112+00:00",
+  "published_to": []
+}

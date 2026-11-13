@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261113-006",
+  "source": "rss",
+  "source_url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+  "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+  "summary": "Lonewolf 0.3 是一个使用 Rust 开发的独立 XMPP 服务器版本，目标是提供无需依赖外部数据库或完整即时通讯套件的可部署消息服务。此次更新主要围绕 v0.3.0 版本发布，但输入内容未提供具体的功能变更、部署方式或性能改进细节。",
+  "tech_stack": [
+    "Rust",
+    "XMPP"
+  ],
+  "problem_solved": "它为需要轻量、自托管即时通讯基础设施的用户提供了一个以 Rust 编写的独立 XMPP 服务端实现。",
+  "why_valuable": "独立且基于 Rust 的实现可降低 XMPP 服务的部署与维护成本，并具备更好的资源效率、内存安全和控制权。",
+  "tags": [
+    "Rust",
+    "XMPP",
+    "Messaging",
+    "Open Source",
+    "Self-hosted"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-13T16:01:11.566263+00:00",
+  "updated_at": "2026-11-13T16:03:02.531535+00:00",
+  "published_to": []
+}

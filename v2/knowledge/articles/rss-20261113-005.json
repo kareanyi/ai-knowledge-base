@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261113-005",
+  "source": "rss",
+  "source_url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+  "title": "A technical vision for the Haskell ecosystem",
+  "summary": "文章提出 Haskell 技术生态的长期技术愿景，讨论语言、编译器、工具链、库与社区基础设施的发展方向。其核心目标是推动 Haskell 在现代软件开发中保持技术相关性，并提升生态的稳定性、可用性与可持续性。",
+  "tech_stack": [
+    "Haskell",
+    "GHC",
+    "Cabal",
+    "Hackage",
+    "Haskell Tooling"
+  ],
+  "problem_solved": "针对 Haskell 生态可能面临的技术碎片化、工具链维护困难及发展方向不统一等问题，提出面向长期演进的技术规划。",
+  "why_valuable": "为 Haskell 编译器、语言工具和社区维护者提供系统性的发展路线，有助于协调生态投入并推动可持续创新。",
+  "tags": [
+    "Haskell",
+    "Ecosystem",
+    "Compilers",
+    "Developer Tools",
+    "Technical Strategy"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-13T16:01:05.782446+00:00",
+  "updated_at": "2026-11-13T16:03:02.531441+00:00",
+  "published_to": []
+}
