@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261114-005",
+  "source": "rss",
+  "source_url": "https://gitlab.com/snipedbywifi/terminactory",
+  "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+  "summary": "terminactory 是一款运行在终端中的挂机类工厂模拟游戏（idle factory game），使用 Rust 和 ratatui（TUI 框架）编写。作者分享其动机：在等待长时间的 AI agent 任务执行时想要一个可在终端里玩的“解压”游戏，项目最初由作者与 Claude 3.5/4.5 系列模型共同搭建基础，之后由作者继续大量扩展完善。",
+  "tech_stack": [
+    "Rust",
+    "ratatui",
+    "Terminal UI",
+    "Claude",
+    "LLM-assisted development"
+  ],
+  "problem_solved": "为开发者提供一款可在终端中直接运行、无需图形界面且能在等待长任务时提供轻松体验的挂机工厂模拟游戏，同时展示了人机协作（Rust + Claude）开发新项目的实践路径。",
+  "why_valuable": "它把一个长期被图形客户端占据的游戏品类带到终端环境中，既填补了终端休闲游戏的空白，也作为 AI 辅助编程（由 Claude 生成初始代码骨架再人工迭代）的真实案例具有参考价值。",
+  "tags": [
+    "Rust",
+    "TUI",
+    "Idle Game",
+    "Terminal",
+    "AI-assisted Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-14T14:54:44.933562+00:00",
+  "updated_at": "2026-11-14T14:56:26.207222+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261114-001",
+  "source": "rss",
+  "source_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+  "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+  "summary": "文章介绍了如何利用 vLLM，将 GLM-5.3 大模型部署在两台 NVIDIA DGX 工作站上，实现跨节点协同推理，并在两台设备间达到 607.8 token/s 的吞吐量。核心内容聚焦于多 GPU、多节点环境下的大模型服务扩展、负载分配与推理性能优化。",
+  "tech_stack": [
+    "vLLM",
+    "GLM-5.3",
+    "NVIDIA DGX",
+    "Multi-node inference",
+    "PyTorch"
+  ],
+  "problem_solved": "解决单台 NVIDIA DGX 算力不足、需要跨多个节点高效部署和运行超大语言模型的问题。",
+  "why_valuable": "它为需要高吞吐大模型推理服务的团队提供了跨 DGX 节点的部署与扩展实践，同时展示了优化多节点推理性能的可行路径。",
+  "tags": [
+    "LLM",
+    "vLLM",
+    "Multi-GPU",
+    "Inference",
+    "NVIDIA"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-14T14:54:14.522072+00:00",
+  "updated_at": "2026-11-14T14:56:26.200102+00:00",
+  "published_to": []
+}

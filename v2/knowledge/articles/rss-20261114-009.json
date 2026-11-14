@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261114-009",
+  "source": "rss",
+  "source_url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+  "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+  "summary": "文章探讨科技公司再次尝试重新定义“隐私”，可能涉及企业如何在数据利用、用户保护与商业创新之间重新划定边界。当前输入仅包含标题、链接和讨论元数据，未提供正文，因此无法确认文章提出的具体案例或技术方案。",
+  "tech_stack": [
+    "Data Governance",
+    "Privacy-enhancing technologies",
+    "Artificial Intelligence"
+  ],
+  "problem_solved": "分析科技公司如何通过重新包装和重构隐私概念，影响用户对数据收集、用途限制与个人控制权的理解。",
+  "why_valuable": "揭示隐私概念的商业化重塑，有助于用户、监管者和开发者识别数据保护承诺与实际企业实践之间的差异。",
+  "tags": [
+    "Privacy",
+    "Data Governance",
+    "Big Tech",
+    "Surveillance",
+    "Policy"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:08.328684+00:00",
+  "updated_at": "2026-11-14T14:56:26.207643+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261114-008",
+  "source": "rss",
+  "source_url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+  "title": "Advancing science and engineering with Antigravity's /teamwork",
+  "summary": "文章介绍了 Google Antigravity 的 /teamwork 功能，探索如何通过多个 AI 智能体协作来推进科学与工程研发。内容重点在于利用并行代理分工解决复杂研发任务，并展示该功能在科学研究和技术工程中的潜在应用。",
+  "tech_stack": [
+    "Google Antigravity",
+    "Multi-Agent Systems",
+    "Generative AI",
+    "Agentic AI"
+  ],
+  "problem_solved": "通过让多个 AI 智能体协同分工，简化复杂科学与工程任务中的研究、规划、执行和验证流程。",
+  "why_valuable": "多智能体协作能够提高复杂研发任务的并行效率、覆盖范围与问题解决能力。",
+  "tags": [
+    "AI Agents",
+    "Multi-Agent Collaboration",
+    "Scientific Computing",
+    "Engineering",
+    "Antigravity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:01.442910+00:00",
+  "updated_at": "2026-11-14T14:56:26.207525+00:00",
+  "published_to": []
+}

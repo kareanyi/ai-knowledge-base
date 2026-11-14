@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261114-007",
+  "source": "rss",
+  "source_url": "https://www.netmeister.org/blog/claude-delusion.html",
+  "title": "The Claude Delusion",
+  "summary": "文章以“The Claude Delusion”为切入点，探讨人们可能如何将 Claude 的语言表现误认为意识、意图或类人认知。现有内容仅提供文章链接及 Hacker News 讨论信息，因而无法确认作者的具体论证与结论。",
+  "tech_stack": [
+    "Claude",
+    "Large Language Models"
+  ],
+  "problem_solved": "分析用户对 Claude 行为产生拟人化解读的认知偏差，并帮助区分模型的语言模拟与真正的意识或自主意图。",
+  "why_valuable": "识别这种拟人化偏差有助于更准确地评估大模型能力、使用 AI 工具，并避免对其行为产生不恰当的情感或智能期待。",
+  "tags": [
+    "AI",
+    "Claude",
+    "LLM",
+    "Anthropomorphism",
+    "AI Consciousness"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-14T14:54:56.995342+00:00",
+  "updated_at": "2026-11-14T14:56:26.207422+00:00",
+  "published_to": []
+}

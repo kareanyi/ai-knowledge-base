@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261114-011",
+  "source": "rss",
+  "source_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "summary": "文章援引相关指控称，英伟达可能通过投资 AI 初创企业并促使其采购英伟达 GPU，人为制造高端算力供应紧张，以进一步巩固其市场地位。该报道引发了大量讨论，焦点集中在这种资本与供应链协同是否属于推动 GPU 需求及定价能力的商业策略。",
+  "tech_stack": [
+    "NVIDIA GPUs",
+    "AI Infrastructure",
+    "Generative AI",
+    "CUDA Ecosystem"
+  ],
+  "problem_solved": "分析英伟达如何借助投资 AI 初创企业扩大 GPU 需求，并可能通过供给策略强化其硬件市场控制力。",
+  "why_valuable": "揭示 AI 芯片竞争不仅依赖产品性能，还涉及资本投入、需求培育和供应链策略，对理解英伟达的市场优势具有参考价值。",
+  "tags": [
+    "AI",
+    "NVIDIA",
+    "GPU",
+    "Venture Capital",
+    "Market Strategy"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:18.812999+00:00",
+  "updated_at": "2026-11-14T14:56:26.207882+00:00",
+  "published_to": []
+}

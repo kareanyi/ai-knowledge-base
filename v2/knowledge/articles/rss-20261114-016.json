@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261114-016",
+  "source": "rss",
+  "source_url": "https://www.joshka.net/cell-borders/",
+  "title": "Terminal borders that don't cost a cell",
+  "summary": "文章探讨如何在终端界面中绘制边框，同时不占用额外的单元格，从而保留完整的文本显示区域。该方案可能通过重绘或覆盖字符的方式实现类似面板分隔线的视觉效果，并兼顾终端字符网格的可用性。",
+  "tech_stack": [
+    "Terminal",
+    "TUI",
+    "Unicode"
+  ],
+  "problem_solved": "解决终端程序绘制边框时会损失一个或多个字符单元格、导致可用显示区域缩小的问题。",
+  "why_valuable": "它能让终端界面在保持清晰视觉分隔的同时最大化有限空间，尤其适合宽度受限的终端环境。",
+  "tags": [
+    "Terminal",
+    "TUI",
+    "Unicode",
+    "Layout",
+    "Borders"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:47.717052+00:00",
+  "updated_at": "2026-11-14T14:56:26.208441+00:00",
+  "published_to": []
+}

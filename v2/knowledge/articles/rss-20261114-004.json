@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261114-004",
+  "source": "rss",
+  "source_url": "https://github.com/FURSOY/fursoy-cpu",
+  "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+  "summary": "Fursoy 是一个使用 SystemVerilog 实现的乱序执行 RV64IMAFDV CPU 核心，支持 RISC-V 64 位整数、乘除、原子指令和向量扩展。该项目面向 Linux 6.6，展示了一个可运行于现代 Linux 软件栈的高性能开源处理器设计。",
+  "tech_stack": [
+    "SystemVerilog",
+    "RISC-V",
+    "RV64IMAFDV",
+    "Linux",
+    "Open-source Hardware"
+  ],
+  "problem_solved": "它提供了一种可综合、可运行 Linux 的乱序 RISC-V 64 位处理器核心实现，用于学习和探索现代 CPU 架构设计。",
+  "why_valuable": "项目将乱序流水线、乱序执行以及 RVV 向量扩展整合为可运行的开源实现，对 CPU 研究、验证和教学具有较高参考价值。",
+  "tags": [
+    "RISC-V",
+    "CPU",
+    "SystemVerilog",
+    "Out-of-order",
+    "Open-source"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-14T14:54:32.382235+00:00",
+  "updated_at": "2026-11-14T14:56:26.207075+00:00",
+  "published_to": []
+}

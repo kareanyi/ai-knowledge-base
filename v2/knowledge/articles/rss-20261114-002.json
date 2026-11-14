@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261114-002",
+  "source": "rss",
+  "source_url": "https://github.com/paul-nameless/agweb",
+  "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+  "summary": "Agweb 是一个面向 AI 智能体的浏览器项目，目标是在支持代理执行网页任务的同时，尽量减少对用户正常浏览流程的干扰。该项目已在 GitHub 和 Hacker News 发布，但目前讨论热度较低，仅获得 4 个赞和 1 条评论，实际采用度与成熟度尚难判断。",
+  "tech_stack": [
+    "Browser Automation",
+    "Web Platform",
+    "AI Agents"
+  ],
+  "problem_solved": "它为 AI 智能体提供独立、受控的网页操作环境，使代理能够完成浏览与网页任务，而不会持续干扰用户自己的浏览器操作。",
+  "why_valuable": "浏览器是智能体调用大量外部信息和服务的重要入口，专门的代理浏览器有望改善任务执行的隔离性、自动化效率与可控性。",
+  "tags": [
+    "AI Agent",
+    "Browser Automation",
+    "Web Browser",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-14T14:54:22.476289+00:00",
+  "updated_at": "2026-11-14T14:56:26.200393+00:00",
+  "published_to": []
+}

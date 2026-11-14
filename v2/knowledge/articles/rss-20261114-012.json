@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261114-012",
+  "source": "rss",
+  "source_url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "title": "Ggml v1.0.0",
+  "summary": "Ggml v1.0.0 是 ggml-org/ggml 的首个正式稳定版本，标志着这一轻量级机器学习张量计算库进入成熟阶段。该项目专注于高效执行张量运算、模型推理和量化计算，并通过可扩展的后端架构支持多种 CPU、GPU 及加速器。其核心价值在于为本地大语言模型推理和边缘部署提供高性能、低依赖的底层基础设施。",
+  "tech_stack": [
+    "C/C++",
+    "ggml",
+    "CPU/GPU Backend",
+    "BLAS",
+    "Quantization"
+  ],
+  "problem_solved": "提供轻量、高效且硬件可扩展的底层张量计算能力，用于机器学习模型推理和本地部署。",
+  "why_valuable": "它降低了高性能模型推理的实现门槛，并便于在消费级硬件、嵌入式设备和异构加速器上优化部署。",
+  "tags": [
+    "Machine Learning",
+    "Tensor Computing",
+    "LLM Inference",
+    "Quantization",
+    "Local AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:25.627451+00:00",
+  "updated_at": "2026-11-14T14:56:26.208017+00:00",
+  "published_to": []
+}

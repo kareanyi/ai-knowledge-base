@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261114-010",
+  "source": "rss",
+  "source_url": "https://monkeyisland.pages.dev/",
+  "title": "Monkey Island: all 13 versions side by side",
+  "summary": "Monkey Island: all 13 versions side by side 是一个并排对比工具，集中展示并比较《猴岛小英雄》系列 13 个版本的画面、场景与体验差异。该项目通过直观的多版本同步浏览，帮助玩家和爱好者快速了解各版本之间的变化。",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Cloudflare Pages"
+  ],
+  "problem_solved": "解决《猴岛小英雄》各版本缺乏统一、同屏对比方式的问题。",
+  "why_valuable": "它以直观且易于交互的方式呈现游戏系列的技术与视觉演进，为玩家、怀旧爱好者及游戏开发者提供有价值的参考。",
+  "tags": [
+    "Gaming",
+    "Comparison",
+    "Interactive",
+    "Monkey Island",
+    "Web"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:12.574403+00:00",
+  "updated_at": "2026-11-14T14:56:26.207762+00:00",
+  "published_to": []
+}

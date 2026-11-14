@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261114-013",
+  "source": "rss",
+  "source_url": "https://unsloth.ai/docs/models/qwen3.8",
+  "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+  "summary": "该文章介绍了 Unsloth 对 Qwen3.8-27B 模型提供的多种量化版本，并说明动态 v3.1 更新。内容重点聚焦于在有限显存与本地部署环境中运行该大语言模型，但现有输入仅包含标题、链接及社区讨论元数据，具体量化格式和性能数据未完整提供。",
+  "tech_stack": [
+    "Qwen3.8-27B",
+    "Unsloth",
+    "Model Quantization",
+    "LLM",
+    "Local Inference"
+  ],
+  "problem_solved": "通过提供针对 Qwen3.8-27B 的量化模型版本，降低部署该模型的显存和存储需求，并提升本地运行的可行性。",
+  "why_valuable": "量化版本让开发者能够在消费级硬件上以更低成本部署和测试大型语言模型。",
+  "tags": [
+    "LLM",
+    "Quantization",
+    "Qwen",
+    "Unsloth",
+    "Local Deployment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:30.496849+00:00",
+  "updated_at": "2026-11-14T14:56:26.208141+00:00",
+  "published_to": []
+}

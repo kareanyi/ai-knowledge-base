@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261114-003",
+  "source": "rss",
+  "source_url": "https://lampka.app/",
+  "title": "Show HN: Lampka – a Windows PDF reader whose dark mode keeps figures in colour",
+  "summary": "Lampka 是一款面向 Windows 的 PDF 阅读器，核心亮点是在启用深色模式时仍能保留图表和插图中的颜色。其目标是在降低夜间阅读亮度的同时，避免彩色视觉信息因反色处理而失真。",
+  "tech_stack": [
+    "Windows",
+    "PDF Rendering",
+    "Dark Mode"
+  ],
+  "problem_solved": "解决传统 PDF 深色模式常导致图表、插图颜色失真或阅读体验不佳的问题。",
+  "why_valuable": "它兼顾了夜间阅读的舒适度与专业 PDF 图表的色彩表达，适合经常阅读论文、报告和技术文档的用户。",
+  "tags": [
+    "PDF",
+    "Windows",
+    "Dark Mode",
+    "Reader",
+    "Document Viewer"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-14T14:54:27.846688+00:00",
+  "updated_at": "2026-11-14T14:56:26.200533+00:00",
+  "published_to": []
+}

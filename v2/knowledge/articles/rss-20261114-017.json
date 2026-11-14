@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261114-017",
+  "source": "rss",
+  "source_url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+  "title": "How Not to Build a Music Player",
+  "summary": "文章以反模式为切入点，讨论构建音乐播放器时可能采用的错误设计思路与常见工程陷阱。当前输入仅包含标题、链接和社区讨论数据，未提供正文，因此无法可靠提取其具体技术方案或实现细节。",
+  "tech_stack": [],
+  "problem_solved": "帮助开发者识别音乐播放器项目中容易出现的架构与实现误区，避免重复踩坑。",
+  "why_valuable": "通过失败案例反思播放器设计，可提升开发者在状态管理、媒体控制及用户体验等方面的决策质量。",
+  "tags": [
+    "Music Player",
+    "Software Architecture",
+    "Anti-Patterns",
+    "Engineering"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:53.294864+00:00",
+  "updated_at": "2026-11-14T14:56:26.208539+00:00",
+  "published_to": []
+}

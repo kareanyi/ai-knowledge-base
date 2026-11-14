@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261114-019",
+  "source": "rss",
+  "source_url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+  "title": "FAA issues national ground stop – lifted 4.5 hours later",
+  "summary": "该新闻报道了美国联邦航空管理局（FAA）因安全问题发布全国范围的地面停飞指令，导致所有计划出发的航班暂时停止。此次措施持续约 4.5 小时后被解除，但提供的正文仅包含 FAA 通告及媒体报道链接，缺少停飞原因、影响航班数量等细节。",
+  "tech_stack": [
+    "航空交通管制",
+    "NOTAM",
+    "新闻聚合平台"
+  ],
+  "problem_solved": "FAA 通过全国性地面停飞指令，在潜在航空安全风险尚未明确时暂时冻结航班出港，以控制风险并保护旅客与机组安全。",
+  "why_valuable": "事件体现了航空监管机构在面对不确定安全问题时采取预防性措施的能力，同时揭示了此类决策对美国航空运输和旅客出行可能造成的广泛影响。",
+  "tags": [
+    "FAA",
+    "Ground Stop",
+    "Aviation Safety",
+    "Air Traffic Control",
+    "News"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-14T14:56:16.785411+00:00",
+  "updated_at": "2026-11-14T14:56:26.208717+00:00",
+  "published_to": []
+}

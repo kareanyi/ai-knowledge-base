@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261114-018",
+  "source": "rss",
+  "source_url": "https://orcasairband.com/",
+  "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+  "summary": "该项目提供从美国华盛顿州 KORS 航空通信监听站捕获的实时航空无线电，并开放多个频率供在线收听。网站还报告了加拿大维多利亚地面监听站暂时停止服务，使用户能够了解航空通信的实时状态。",
+  "tech_stack": [
+    "Radio Streaming",
+    "Web Audio",
+    "Software-Defined Radio",
+    "JavaScript"
+  ],
+  "problem_solved": "为远程用户提供多频率航空无线电的实时在线收听，并公布监听站是否正常运行。",
+  "why_valuable": "它让航空爱好者、飞行员和无线电爱好者无需身处现场即可监听空域通信，同时提供监听站可用性信息。",
+  "tags": [
+    "Airband",
+    "Radio",
+    "Aviation",
+    "Live Streaming",
+    "Receiver"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-14T14:56:00.559991+00:00",
+  "updated_at": "2026-11-14T14:56:26.208625+00:00",
+  "published_to": []
+}

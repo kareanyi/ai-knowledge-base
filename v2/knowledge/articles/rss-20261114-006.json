@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261114-006",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+  "title": "Italy fines Meta $887M over Android users' data access",
+  "summary": "意大利因 Meta 未经充分同意便获取 Android 用户数据，对该公司处以 8.87 亿美元罚款。该事件体现了移动应用数据收集实践在隐私保护与监管合规方面面临的高风险。仅提供标题和链接，缺少案件细节及技术实现信息，因此分析侧重于事件影响。",
+  "tech_stack": [
+    "Android",
+    "Mobile OS",
+    "Data Privacy"
+  ],
+  "problem_solved": "通过强化移动平台数据访问监管，遏制未经用户充分授权的信息收集行为并保护个人隐私。",
+  "why_valuable": "该罚款可能促使科技平台改进用户授权、数据访问审计和隐私合规机制，并对移动应用商业模式产生显著影响。",
+  "tags": [
+    "Privacy",
+    "Regulation",
+    "Android",
+    "Meta",
+    "Compliance"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-14T14:54:51.330329+00:00",
+  "updated_at": "2026-11-14T14:56:26.207325+00:00",
+  "published_to": []
+}

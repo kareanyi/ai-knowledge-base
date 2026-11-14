@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261114-015",
+  "source": "rss",
+  "source_url": "https://grounds.top/",
+  "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+  "summary": "grounds.top 提供美国航班实时地图，用于呈现 FAA 全国性地面停飞事件期间各航班的运行与受影响情况。该项目将航班状态与地理位置可视化，帮助公众直观了解停飞范围和航空运输中断程度。",
+  "tech_stack": [
+    "JavaScript",
+    "Real-time Data Visualization",
+    "Interactive Web Maps",
+    "Flight Tracking APIs"
+  ],
+  "problem_solved": "通过实时地图直观展示 FAA 全国性地面停飞期间美国航班的运行状态和地理分布。",
+  "why_valuable": "它将分散的航班状态信息转化为易于理解的实时可视化，有助于旅客、公众和航空观察者快速掌握停飞事件的影响。",
+  "tags": [
+    "Flight Tracking",
+    "Real-time Map",
+    "FAA",
+    "Aviation",
+    "Data Visualization"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-14T14:55:42.733071+00:00",
+  "updated_at": "2026-11-14T14:56:26.208337+00:00",
+  "published_to": []
+}
