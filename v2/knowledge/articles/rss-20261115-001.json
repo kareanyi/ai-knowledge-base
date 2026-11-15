@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261115-001",
+  "source": "rss",
+  "source_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+  "title": "All AI-generated code should be Open Source",
+  "summary": "文章主张所有由 AI 生成的代码都应开源，以促进技术知识共享、降低使用门槛，并让 AI 编程成果接受社区审查与改进。当前输入仅包含文章标题、链接及 Hacker News 讨论元数据，未提供正文细节。",
+  "tech_stack": [
+    "AI-generated code",
+    "Open Source"
+  ],
+  "problem_solved": "回应 AI 生成代码的知识产权、透明度、可审查性及公共知识共享问题。",
+  "why_valuable": "推动 AI 编程成果以开放方式积累和复用，可能加快开源生态与技术普及。",
+  "tags": [
+    "AI",
+    "Open Source",
+    "Code Generation",
+    "Intellectual Property",
+    "Knowledge Sharing"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-15T15:30:26.938002+00:00",
+  "updated_at": "2026-11-15T15:32:33.182775+00:00",
+  "published_to": []
+}

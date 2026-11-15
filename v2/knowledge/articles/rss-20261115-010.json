@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-010",
+  "source": "rss",
+  "source_url": "https://netbsd.org/~nia/disk-encrypt/",
+  "title": "Disk encryption on NetBSD – achieving secrecy",
+  "summary": "文章介绍如何在 NetBSD 上配置磁盘加密，以保护存储介质中的数据机密性。内容涵盖 NetBSD 的 CGD 加密机制、加密卷管理以及实际部署中的安全考量。",
+  "tech_stack": [
+    "NetBSD",
+    "CGD",
+    "AES",
+    "FFS",
+    "Kernel Cryptography"
+  ],
+  "problem_solved": "解决 NetBSD 系统上磁盘数据静态存储时可能因设备丢失、盗窃或取证而泄露机密的问题。",
+  "why_valuable": "它为需要在 NetBSD 上实施全盘或分区加密的用户和系统管理员提供了实用指导，并帮助评估加密带来的安全收益与管理成本。",
+  "tags": [
+    "Disk Encryption",
+    "NetBSD",
+    "Security",
+    "CGD",
+    "Cryptography"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-15T15:31:32.870128+00:00",
+  "updated_at": "2026-11-15T15:32:33.189833+00:00",
+  "published_to": []
+}

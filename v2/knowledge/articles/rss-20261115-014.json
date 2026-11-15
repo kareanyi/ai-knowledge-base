@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-014",
+  "source": "rss",
+  "source_url": "https://retrocomputing.stackexchange.com/questions/17957",
+  "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+  "summary": "文章讨论 Steve Wozniak 在 Apple 1 硬件完成前编写 BASIC 解释器的开发过程，重点涉及早期个人计算机的软件与硬件如何协同演进。内容还通过 Stack Exchange 与 Hacker News 的讨论补充了该项目在个人计算史上的背景。",
+  "tech_stack": [
+    "Apple 1",
+    "BASIC",
+    "MOS 6502",
+    "Woz Monitor",
+    "Retrocomputing"
+  ],
+  "problem_solved": "还原了 Woz 在 Apple 1 尚未完成时预先设计 BASIC 软件栈的思路与历史过程。",
+  "why_valuable": "它展示了软硬件同步设计与极限个人开发对个人计算机革命的重要影响。",
+  "tags": [
+    "Apple I",
+    "BASIC",
+    "Retrocomputing",
+    "Steve Wozniak",
+    "Computer History"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-15T15:31:52.870565+00:00",
+  "updated_at": "2026-11-15T15:32:33.190133+00:00",
+  "published_to": []
+}

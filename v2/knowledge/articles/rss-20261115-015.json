@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-015",
+  "source": "rss",
+  "source_url": "https://www.spacex.com/launches/starship-flight-15",
+  "title": "SpaceX catches the Starship to end Flight 15",
+  "summary": "SpaceX 展示了 Starship 第 15 次飞行测试，并通过捕获助推器完成本次任务收尾，进一步验证其可重复使用重型运载系统的回收能力。相关材料主要包含官方社交媒体动态、任务视频及 Hacker News 社区讨论，重点在于 Starship 发射与回收技术的进展。",
+  "tech_stack": [
+    "Starship",
+    "Super Heavy",
+    "Raptor",
+    "Reusable Launch System",
+    "Rocket Boostback Capture"
+  ],
+  "problem_solved": "通过回收并重复使用超重型助推器，降低火箭发射成本并提升高频航天运输能力。",
+  "why_valuable": "可重复使用的 Starship 运载系统有望显著降低进入太空的成本，并为大型载荷部署、月球及火星任务提供更高效的运输能力。",
+  "tags": [
+    "SpaceX",
+    "Starship",
+    "Rocket Reuse",
+    "Spaceflight",
+    "Launch Test"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-15T15:32:00.140536+00:00",
+  "updated_at": "2026-11-15T15:32:33.190213+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-002",
+  "source": "rss",
+  "source_url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+  "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+  "summary": "该文档是一项 IETF Internet-Draft，拟为 HTTP 定义状态码 483，并使用幽默的原因短语“I'm Not a Freezer”。它旨在为特定请求无法继续处理或相关服务能力不匹配的情况提供标准化、可供客户端和中间件识别的状态码；目前该内容仍处于草案阶段，并非正式 RFC。",
+  "tech_stack": [
+    "HTTP",
+    "HTTP Semantics",
+    "IETF",
+    "Internet-Draft",
+    "HTTP Status Codes"
+  ],
+  "problem_solved": "通过定义专用的 HTTP 483 状态码，让客户端能够明确区分该非冻结类错误与其他通用或未标准化的服务器错误。",
+  "why_valuable": "标准化状态码可减少不同 HTTP 实现之间的语义歧义，使错误处理、监控和自动化逻辑更加一致。",
+  "tags": [
+    "HTTP",
+    "Status Code",
+    "Web Protocols",
+    "IETF",
+    "Standards"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-15T15:30:37.322445+00:00",
+  "updated_at": "2026-11-15T15:32:33.183044+00:00",
+  "published_to": []
+}

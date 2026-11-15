@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261115-009",
+  "source": "rss",
+  "source_url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+  "title": "Book list for streetfighting computer scientists",
+  "summary": "这是一份面向“街头实战型计算机科学家”的计算机科学书单，旨在帮助从业者快速补充解决实际工程问题所需的知识。文章汇总了相关书籍，并附带 Hacker News 讨论入口，但当前内容未展示具体书目或技术主题。",
+  "tech_stack": [],
+  "problem_solved": "为希望快速补齐实用计算机科学知识、提升工程问题解决能力的开发者提供精选阅读路线。",
+  "why_valuable": "结构化书单可减少学习资料筛选成本，并帮助读者建立应对实际开发任务的理论基础。",
+  "tags": [
+    "Computer Science",
+    "Book List",
+    "Self Learning",
+    "Software Engineering"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-15T15:31:27.049633+00:00",
+  "updated_at": "2026-11-15T15:32:33.189744+00:00",
+  "published_to": []
+}

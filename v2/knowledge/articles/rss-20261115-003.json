@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261115-003",
+  "source": "rss",
+  "source_url": "https://prog21.dadgum.com/116.html",
+  "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+  "summary": "文章《Things That Turbo Pascal Is Smaller Than》回顾了 Turbo Pascal 在体积方面的特点，并将其与当时更新的编程语言、编译器或相关软件进行比较。内容重点展示了 Turbo Pascal 在代码规模、工具链体积和部署轻量化方面的优势，同时提供了对技术演进和老式开发工具的有趣观察。",
+  "tech_stack": [
+    "Turbo Pascal",
+    "Pascal",
+    "C",
+    "C++"
+  ],
+  "problem_solved": "通过比较不同编程语言及工具的体积，揭示 Turbo Pascal 在轻量化和高效率方面相对于现代技术依然具有的特色。",
+  "why_valuable": "它不仅让读者了解复古编程工具的历史优势，也能帮助开发者从资源占用角度重新审视语言和编译器的设计取舍。",
+  "tags": [
+    "Turbo Pascal",
+    "Retro Computing",
+    "Programming Languages",
+    "Code Size",
+    "Compiler"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-15T15:30:41.925098+00:00",
+  "updated_at": "2026-11-15T15:32:33.183143+00:00",
+  "published_to": []
+}

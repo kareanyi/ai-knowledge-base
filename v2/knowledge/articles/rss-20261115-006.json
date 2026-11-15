@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-006",
+  "source": "rss",
+  "source_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+  "title": "Understanding Positional Embeddings in Modern LLMs",
+  "summary": "文章系统讲解现代大语言模型如何编码文本中 token 的位置信息，重点分析绝对位置嵌入、相对位置嵌入及 RoPE、ALiBi 等主流方案的工作原理与差异。文章还讨论了位置编码在上下文长度扩展和长文本建模中的作用，帮助读者理解 Transformer 架构中这一基础但关键组件。",
+  "tech_stack": [
+    "Transformer",
+    "Positional Embedding",
+    "RoPE",
+    "ALiBi",
+    "LLM"
+  ],
+  "problem_solved": "解释大语言模型如何在自注意力计算中感知 token 的顺序与距离，从而实现上下文理解、训练稳定性和长序列建模。",
+  "why_valuable": "掌握不同位置编码机制有助于评估模型的外推能力、上下文窗口限制，并有效改进和扩展长上下文 LLM。",
+  "tags": [
+    "LLM",
+    "Positional Encoding",
+    "RoPE",
+    "Transformer",
+    "Long Context"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-15T15:30:57.395399+00:00",
+  "updated_at": "2026-11-15T15:32:33.189503+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-017",
+  "source": "rss",
+  "source_url": "https://www.crissyfield.de/research/lovable-en/",
+  "title": "Lovable apps expose passport details and more than 200K private messages",
+  "summary": "文章调查了由 Lovable 平台生成的应用所暴露的安全与隐私问题，指出部分应用可泄露护照资料以及超过 20 万条私人消息。该案例揭示了 AI 应用快速开发与部署过程中可能存在的访问控制、敏感数据存储及安全配置缺陷。",
+  "tech_stack": [
+    "Lovable",
+    "AI App Generation",
+    "Cloud Storage",
+    "Access Control",
+    "Data Security"
+  ],
+  "problem_solved": "文章揭示了 Lovable 生成式应用在处理和公开敏感个人信息时缺少充分安全防护的问题，并推动开发者与平台加强访问控制和数据隔离。",
+  "why_valuable": "该研究提醒团队在快速交付 AI 应用时不能忽视隐私与安全风险，并展示了敏感身份资料和私人通信泄露可能造成的严重后果。",
+  "tags": [
+    "Security",
+    "Privacy",
+    "AI Apps",
+    "Data Exposure",
+    "Access Control"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-15T15:32:17.291248+00:00",
+  "updated_at": "2026-11-15T15:32:33.190358+00:00",
+  "published_to": []
+}

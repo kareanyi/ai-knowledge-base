@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261115-016",
+  "source": "rss",
+  "source_url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+  "title": "A family tree of software job titles",
+  "summary": "文章以“家族树”的形式梳理软件行业中的职位名称，展示不同岗位之间的层级、关联与演变关系。其目标可能是帮助读者理解技术职业路径，并减少职位称谓之间的混淆。",
+  "tech_stack": [],
+  "problem_solved": "通过可视化软件岗位之间的关联，帮助读者厘清常见职位名称、职责边界与职业发展路径。",
+  "why_valuable": "清晰的职位关系图可以降低行业认知门槛，为求职者、招聘者和从业者进行职业规划与角色定位提供参考。",
+  "tags": [
+    "Software Industry",
+    "Job Titles",
+    "Career Map",
+    "Professional Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-15T15:32:04.941324+00:00",
+  "updated_at": "2026-11-15T15:32:33.190287+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-004",
+  "source": "rss",
+  "source_url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+  "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+  "summary": "文章探讨新款 MacBook Pro 所采用的 OLED 屏幕在显示效果提升的同时，因 PWM 调光可能带来的实际使用问题。文章重点分析了高刷新率、低亮度显示与 PWM 脉宽调制之间的关系，以及其对部分用户舒适度和可读性的影响。",
+  "tech_stack": [
+    "OLED",
+    "PWM Dimming",
+    "macOS",
+    "Apple Silicon",
+    "High Refresh Rate Display"
+  ],
+  "problem_solved": "揭示并评估高端 OLED 显示器在 PWM 调光下可能产生频闪、视觉不适或眼部疲劳等使用问题。",
+  "why_valuable": "它提醒消费者在追求更高画质和刷新率的同时，也应关注屏幕调光方式及其对视力和使用舒适度的实际影响。",
+  "tags": [
+    "OLED",
+    "PWM",
+    "MacBook Pro",
+    "Display Technology",
+    "Eye Strain"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-15T15:30:47.413163+00:00",
+  "updated_at": "2026-11-15T15:32:33.189286+00:00",
+  "published_to": []
+}

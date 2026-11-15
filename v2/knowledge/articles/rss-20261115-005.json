@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261115-005",
+  "source": "rss",
+  "source_url": "https://lucypero.com/lucynes.html",
+  "title": "A NES emulator written in Odin",
+  "summary": "该文章介绍了一个使用 Odin 语言编写的 NES 模拟器，目标是复现任天堂娱乐系统的基础硬件与游戏运行能力。现有内容仅提供项目标题、链接和讨论信息，未包含具体架构、实现细节或性能数据。",
+  "tech_stack": [
+    "Odin",
+    "NES Emulation",
+    "Retro Computing"
+  ],
+  "problem_solved": "通过软件模拟 NES 的硬件与游戏运行机制，使经典游戏能够在现代平台上被运行和研究。",
+  "why_valuable": "该项目为学习模拟器设计、低级编程和复古计算原理提供了具有实践价值的开源案例。",
+  "tags": [
+    "Emulator",
+    "NES",
+    "Odin",
+    "Retro Gaming"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-15T15:30:51.609093+00:00",
+  "updated_at": "2026-11-15T15:32:33.189418+00:00",
+  "published_to": []
+}

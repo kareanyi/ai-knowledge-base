@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261115-008",
+  "source": "rss",
+  "source_url": "https://space.stackexchange.com/questions/37775",
+  "title": "Why did some Apollo missions carry a grenade launcher?",
+  "summary": "文章解释了部分阿波罗任务为何在登月舱上携带类似榴弹发射器的装置：该装置并非用于作战，而是被改造成受控的“迫击炮”式设备，用于把科学测量设备投送到月面。相关任务借此布设月震仪等实验装置，以研究月球的内部结构和地质活动。",
+  "tech_stack": [
+    "NASA Apollo Program",
+    "Apollo Lunar Module",
+    "M79 Grenade Launcher",
+    "Lunar Seismic Experiment",
+    "Lunar Surface Deployment"
+  ],
+  "problem_solved": "解决了宇航员需要在不破坏或手动接触敏感设备的情况下，将实验载荷准确部署到距离登月舱较远的月面区域的问题。",
+  "why_valuable": "这种创新且低成本的部署方式扩展了月面实验的覆盖范围，并帮助获取了月球内部结构与地震活动的重要数据。",
+  "tags": [
+    "Apollo",
+    "Spaceflight",
+    "Lunar Exploration",
+    "Scientific Instruments",
+    "Grenade Launcher"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-15T15:31:21.931320+00:00",
+  "updated_at": "2026-11-15T15:32:33.189661+00:00",
+  "published_to": []
+}

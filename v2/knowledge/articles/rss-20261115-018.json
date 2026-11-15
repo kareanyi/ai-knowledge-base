@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261115-018",
+  "source": "rss",
+  "source_url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+  "title": "PyPI's redesigned project pages with clearer security signals are now live",
+  "summary": "PyPI 完成了项目页面的重新设计，并正式上线了更清晰的安全信号展示。新版界面旨在帮助用户更直观地识别包的安全状态及相关风险，从而提升 Python 包生态中的供应链安全透明度。",
+  "tech_stack": [
+    "PyPI",
+    "Python",
+    "Web UI",
+    "Supply Chain Security"
+  ],
+  "problem_solved": "解决 PyPI 项目页面中安全信息不够清晰、用户难以判断软件包安全风险的问题。",
+  "why_valuable": "清晰的安全信号可帮助开发者在安装和选用依赖包时做出更 informed 的决策，并降低恶意包或供应链攻击带来的风险。",
+  "tags": [
+    "PyPI",
+    "Python",
+    "Security",
+    "Package Management",
+    "Supply Chain"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-15T15:32:22.731670+00:00",
+  "updated_at": "2026-11-15T15:32:33.190432+00:00",
+  "published_to": []
+}

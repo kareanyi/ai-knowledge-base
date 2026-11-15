@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261115-019",
+  "source": "rss",
+  "source_url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+  "title": "KDE: The documentary [video]",
+  "summary": "这是一部介绍 KDE 桌面环境的纪录片视频，旨在展示其发展历程、设计理念与社区生态。该内容在 Hacker News 获得了 534 分和 121 条评论，反映出开源桌面技术爱好者对 KDE 项目的较高关注度。",
+  "tech_stack": [
+    "KDE",
+    "Linux",
+    "Qt",
+    "开源软件"
+  ],
+  "problem_solved": "通过纪录片形式系统呈现 KDE 的发展、理念和社区，让观众更好地理解这一开源桌面环境。",
+  "why_valuable": "它为希望了解 KDE 历史与技术的开发者、Linux 用户及开源社区参与者提供了集中且直观的学习资料。",
+  "tags": [
+    "KDE",
+    "Linux",
+    "Desktop",
+    "Open Source",
+    "Documentary"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-15T15:32:28.094151+00:00",
+  "updated_at": "2026-11-15T15:32:33.190503+00:00",
+  "published_to": []
+}

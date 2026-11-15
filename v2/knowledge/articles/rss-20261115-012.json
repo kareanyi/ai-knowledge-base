@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261115-012",
+  "source": "rss",
+  "source_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+  "title": "Court denies motion to dismiss DRAM price fixing case",
+  "summary": "法院驳回了被告要求驳回DRAM价格垄断诉讼的动议，使针对三星、SK海力士和美光等主要存储芯片厂商的合谋指控得以继续审理。该案件聚焦DRAM市场定价行为及其反垄断责任，并引发了法律界与科技行业的广泛关注。",
+  "tech_stack": [
+    "DRAM",
+    "反垄断法",
+    "集体诉讼"
+  ],
+  "problem_solved": "通过司法程序审查主要DRAM厂商是否涉嫌协同定价及限制竞争，从而维护存储芯片市场的公平竞争秩序。",
+  "why_valuable": "案件可能影响全球DRAM行业的定价模式、厂商合规策略以及半导体供应链的竞争格局。",
+  "tags": [
+    "DRAM",
+    "Antitrust",
+    "Price-Fixing",
+    "Semiconductors",
+    "Litigation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-15T15:31:42.928985+00:00",
+  "updated_at": "2026-11-15T15:32:33.189992+00:00",
+  "published_to": []
+}

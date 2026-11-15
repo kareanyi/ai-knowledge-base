@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261115-020",
+  "source": "rss",
+  "source_url": "https://rorz.io/writing/semicircle-packing",
+  "title": "Semicircle Packing",
+  "summary": "这是一篇关于半圆图形装填问题的技术文章，重点探讨如何将多个半圆高效、无重叠地安排到给定空间内。由于当前输入仅包含标题、链接和讨论数据，缺少正文，文章采用的具体算法与实现方式尚无法确认。",
+  "tech_stack": [
+    "Computational Geometry",
+    "Geometric Optimization",
+    "Packing Algorithms"
+  ],
+  "problem_solved": "解决在有限区域或容器内优化排列多个半圆、同时避免重叠并尽可能提高空间利用率的问题。",
+  "why_valuable": "半圆装填是几何优化中的代表性问题，其方法可应用于图形排布、布局规划与组合优化等场景。",
+  "tags": [
+    "Geometry",
+    "Optimization",
+    "Packing",
+    "Algorithms"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-15T15:32:32.215737+00:00",
+  "updated_at": "2026-11-15T15:32:33.190578+00:00",
+  "published_to": []
+}
