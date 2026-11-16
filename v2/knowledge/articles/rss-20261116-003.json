@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261116-003",
+  "source": "rss",
+  "source_url": "https://klauria.tech/psychic/",
+  "title": "Psychic: Like fzf but learns from your actions",
+  "summary": "Psychic 是一款受 fzf 启发的新型模糊查找工具，主要区别在于它会根据用户的操作行为持续学习并调整匹配结果。现有材料仅包含项目标题、链接和少量社区讨论数据，未提供具体实现细节或功能文档。",
+  "tech_stack": [
+    "fzf",
+    "Fuzzy Search",
+    "Command-line Interface"
+  ],
+  "problem_solved": "通过学习用户的交互习惯来改进模糊搜索和候选结果排序。",
+  "why_valuable": "自适应搜索可以减少用户在大量候选项中的反复操作，使日常命令行查找更高效且更符合个人习惯。",
+  "tags": [
+    "CLI",
+    "Fuzzy Search",
+    "Personalization",
+    "Developer Tools"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-16T18:09:41.934888+00:00",
+  "updated_at": "2026-11-16T18:12:09.502447+00:00",
+  "published_to": []
+}

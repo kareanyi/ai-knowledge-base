@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261116-006",
+  "source": "rss",
+  "source_url": "https://infisical.com/blog/active-directory-machine-identity",
+  "title": "The Active Directory Era Is Finally Over",
+  "summary": "文章探讨 Active Directory 所代表的传统集中式目录与身份管理模式正在走向终结，并聚焦机器身份在现代基础设施中的演变。文章很可能主张以更现代的身份验证、凭据治理和 secrets management 方案，应对传统 Active Directory 架构的复杂度与安全挑战。",
+  "tech_stack": [
+    "Active Directory",
+    "Machine Identity",
+    "Passwordless Authentication",
+    "Secrets Management",
+    "Identity Security"
+  ],
+  "problem_solved": "解决传统 Active Directory 身份体系在机器身份、凭据管理和安全运维方面日益暴露的复杂度与攻击风险问题。",
+  "why_valuable": "它为组织规划身份架构转型和加强机器身份安全提供了新的技术视角与决策依据。",
+  "tags": [
+    "Identity",
+    "Machine Identity",
+    "Active Directory",
+    "Passwordless",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-16T18:10:04.681862+00:00",
+  "updated_at": "2026-11-16T18:12:09.509471+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-009",
+  "source": "rss",
+  "source_url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+  "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+  "summary": "文章介绍了一款在 2007 年流传的 ThinkPad“电源键代码”，用于尝试恢复无法正常开机或处于死机状态的笔记本。该方法通常涉及特定的按键组合或固件操作，可绕过部分启动和电源管理故障。",
+  "tech_stack": [
+    "ThinkPad Hardware",
+    "BIOS/UEFI",
+    "Embedded Firmware",
+    "Power Management"
+  ],
+  "problem_solved": "解决部分 ThinkPad 笔记本因电源初始化异常、固件状态卡死或无法正常开机而无法启动的问题。",
+  "why_valuable": "它提供了一个无需重装系统或立即更换硬件的低成本故障恢复方案，对维护老旧 ThinkPad 设备的用户尤其有用。",
+  "tags": [
+    "ThinkPad",
+    "Hardware",
+    "BIOS",
+    "Troubleshooting",
+    "Laptop"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-16T18:10:22.071259+00:00",
+  "updated_at": "2026-11-16T18:12:09.509848+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-012",
+  "source": "rss",
+  "source_url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+  "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+  "summary": "文章讨论如何正确理解“某个定理的证明已通过 Lean 检查”这一声明，重点区分形式化证明得到验证与原命题本身绝对正确之间的差异。内容很可能涉及 Lean 内核的可靠性、形式化证明所依赖的假设，以及机器验证结论的解释边界。",
+  "tech_stack": [
+    "Lean",
+    "Lean 4",
+    "Theorem Prover",
+    "Formal Methods"
+  ],
+  "problem_solved": "澄清形式化证明通过 Lean 检查所能保证的范围，避免将“证明符合形式系统”误解为“命题在所有现实假设下都绝对正确”。",
+  "why_valuable": "这种辨析能帮助读者更严谨地评估 Lean 验证结果的可信度，并减少对自动化形式验证的过度解读。",
+  "tags": [
+    "Lean",
+    "FormalVerification",
+    "TheoremProving",
+    "ProofAssistant",
+    "Reliability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-16T18:11:06.023611+00:00",
+  "updated_at": "2026-11-16T18:12:09.510163+00:00",
+  "published_to": []
+}

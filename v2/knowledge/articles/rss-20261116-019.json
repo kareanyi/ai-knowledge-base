@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261116-019",
+  "source": "rss",
+  "source_url": "https://ductus.sorenblank.com",
+  "title": "Handwriting, as a Font",
+  "summary": "“Handwriting, as a Font” 探索将个人手写风格转化为可复用的数字字体，使手写表达能够以排版字体的形式应用于数字界面。该项目把字体设计、笔迹识别与交互式创意工具结合起来，展示了从个人书写习惯生成个性化字体的可能性。",
+  "tech_stack": [
+    "JavaScript",
+    "Web Fonts",
+    "Variable Fonts"
+  ],
+  "problem_solved": "解决个性化手写字体难以制作、无法直接用于数字排版的问题。",
+  "why_valuable": "它降低了数字字体个性化和书法风格迁移的技术门槛，同时为交互式字体设计提供了新的创作方式。",
+  "tags": [
+    "Typography",
+    "Handwriting",
+    "Font Design",
+    "Web",
+    "Creative Coding"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-16T18:12:08.728938+00:00",
+  "updated_at": "2026-11-16T18:12:09.510903+00:00",
+  "published_to": []
+}

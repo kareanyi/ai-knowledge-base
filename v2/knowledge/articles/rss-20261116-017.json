@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-017",
+  "source": "rss",
+  "source_url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+  "title": "Preserving 30 years of Salon journalism",
+  "summary": "该文章介绍了互联网档案馆对《Salon》创刊以来约30年新闻作品的长期保存工作，旨在避免历史报道因网站改版、链接失效或内容删除而消失。通过网络档案与网页归档技术，这些新闻记录得以持续访问并为研究、引用和历史保存提供可靠来源。",
+  "tech_stack": [
+    "Internet Archive",
+    "Wayback Machine",
+    "Web Archiving",
+    "Digital Preservation"
+  ],
+  "problem_solved": "解决历史新闻网站内容容易丢失、链接失效以及数字档案长期可访问性不足的问题。",
+  "why_valuable": "保存并恢复三十年新闻记录，有助于新闻史研究、事实核查、媒体史研究以及公共知识传播。",
+  "tags": [
+    "Digital Preservation",
+    "Web Archive",
+    "Journalism",
+    "Internet Archive",
+    "Media History"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-16T18:11:49.110735+00:00",
+  "updated_at": "2026-11-16T18:12:09.510684+00:00",
+  "published_to": []
+}

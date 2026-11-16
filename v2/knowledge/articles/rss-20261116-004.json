@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-004",
+  "source": "rss",
+  "source_url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+  "title": "Nvidia was in trouble before the Jensen Huang mess",
+  "summary": "这篇 WIRED 文章探讨了英伟达在 Jensen Huang 近期相关风波爆发之前就已经面临的问题，包括公司治理、战略决策或业务竞争方面的潜在风险。文章在 Hacker News 引发了较多讨论，但当前提供的内容仅包含标题、链接和社区互动数据，缺少正文细节。",
+  "tech_stack": [
+    "NVIDIA GPUs",
+    "CUDA",
+    "AI Infrastructure",
+    "Semiconductors"
+  ],
+  "problem_solved": "分析英伟达近期声誉与管理风波背后的既有经营和公司治理问题，而非仅归因于单一事件。",
+  "why_valuable": "揭示头部人工智能芯片企业的长期隐患，有助于投资者、开发者和行业观察者更全面地评估英伟达的战略与治理风险。",
+  "tags": [
+    "NVIDIA",
+    "AI",
+    "Semiconductors",
+    "Leadership",
+    "Business"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-16T18:09:47.539177+00:00",
+  "updated_at": "2026-11-16T18:12:09.509110+00:00",
+  "published_to": []
+}

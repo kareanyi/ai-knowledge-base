@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-014",
+  "source": "rss",
+  "source_url": "https://qwen.ai/blog?id=qwen4-max",
+  "title": "Qwen4-Max",
+  "summary": "Qwen4-Max 是通义千问团队在其官方博客发布的新一代旗舰模型项目。现有内容仅提供官方文章链接及 Hacker News 讨论数据，显示该发布获得了较高社区关注，但未包含模型架构、基准测试或定价等具体技术细节。",
+  "tech_stack": [
+    "Qwen4-Max",
+    "Large Language Model",
+    "Transformer",
+    "Artificial Intelligence"
+  ],
+  "problem_solved": "旨在通过更强的大语言模型能力提升复杂推理、编程、内容生成和多场景应用任务的处理效果。",
+  "why_valuable": "旗舰模型升级可为开发者和企业 AI 应用提供更高质量、更具通用性的模型能力，并推动开源与商业大模型生态竞争。",
+  "tags": [
+    "LLM",
+    "Qwen",
+    "AI",
+    "Model Release",
+    "Generative AI"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-16T18:11:16.609062+00:00",
+  "updated_at": "2026-11-16T18:12:09.510362+00:00",
+  "published_to": []
+}

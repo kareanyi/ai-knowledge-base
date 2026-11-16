@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-016",
+  "source": "rss",
+  "source_url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+  "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+  "summary": "Tor Project 发布了 Tor 0.4.9.17 安全更新，以快速修复在持续 DDoS 攻击期间发现的拒绝服务风险。该更新旨在提高 Tor 网络中继和客户端的可用性与抗攻击能力。",
+  "tech_stack": [
+    "Tor",
+    "C",
+    "Rust",
+    "Cryptography"
+  ],
+  "problem_solved": "缓解持续 DDoS 攻击对 Tor 网络可用性造成的拒绝服务影响。",
+  "why_valuable": "快速安全补丁有助于保护 Tor 中继免受攻击干扰，并维持匿名网络的稳定访问。",
+  "tags": [
+    "Tor",
+    "DDoS",
+    "Security",
+    "DoS",
+    "Networking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-16T18:11:29.645784+00:00",
+  "updated_at": "2026-11-16T18:12:09.510572+00:00",
+  "published_to": []
+}

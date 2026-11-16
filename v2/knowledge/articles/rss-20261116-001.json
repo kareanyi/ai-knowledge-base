@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-001",
+  "source": "rss",
+  "source_url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+  "title": "Grazing sheep in fields with solar arrays",
+  "summary": "文章探讨在太阳能光伏阵列下方放牧羊群的新型农光互补模式，希望通过同时利用土地发电和开展畜牧生产，为农场主带来经济收益。文章还关注这种模式可能提供的生态效益，但所提供的内容主要是标题、链接和讨论数据摘要。",
+  "tech_stack": [
+    "Solar Energy",
+    "Agrivoltaics",
+    "Photovoltaic Arrays",
+    "Livestock Grazing"
+  ],
+  "problem_solved": "农光互补模式通过在同一土地上叠加光伏发电与羊群放牧，提高土地利用率，并增加农场收入。",
+  "why_valuable": "该模式可能帮助农场主降低对单一能源或农业收入来源的依赖，同时改善土地管理并推动可再生能源发展。",
+  "tags": [
+    "Agrivoltaics",
+    "Solar Energy",
+    "Sheep",
+    "Sustainable Agriculture",
+    "Renewable Energy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-16T18:09:24.906768+00:00",
+  "updated_at": "2026-11-16T18:12:09.502050+00:00",
+  "published_to": []
+}

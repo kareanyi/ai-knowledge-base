@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-015",
+  "source": "rss",
+  "source_url": "https://iter.ca/post/ubo-uxss/",
+  "title": "Universal XSS in uBlock Origin from website-driven element picker",
+  "summary": "文章披露了 uBlock Origin 元素拾取器中可由网站触发的通用跨站脚本（UXSS）漏洞，攻击者可能借此绕过扩展的隔离边界并在用户浏览器中执行恶意代码。内容聚焦网站驱动元素选择流程与扩展安全机制之间的交互风险。",
+  "tech_stack": [
+    "uBlock Origin",
+    "JavaScript",
+    "Browser Extensions",
+    "Web APIs"
+  ],
+  "problem_solved": "揭示并分析网站可操纵 uBlock Origin 元素拾取器而触发的通用 XSS 安全风险。",
+  "why_valuable": "该漏洞研究表明即便是以拦截恶意内容为目标的安全扩展也可能成为网站攻击链的一部分，对扩展开发者和浏览器安全研究具有重要参考价值。",
+  "tags": [
+    "Security",
+    "XSS",
+    "uBlock Origin",
+    "Browser Extension",
+    "Vulnerability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-16T18:11:24.614889+00:00",
+  "updated_at": "2026-11-16T18:12:09.510474+00:00",
+  "published_to": []
+}

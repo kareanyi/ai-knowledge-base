@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261116-013",
+  "source": "rss",
+  "source_url": "https://pub.cba.mit.edu/863.26/site/",
+  "title": "How to make almost anything",
+  "summary": "本文介绍 MIT 计算与建筑实验室（MIT CBA）关于“如何制造几乎任何东西”的数字化制造课程与项目，强调利用计算设计、数字化工具和模块化方法实现个性化制造。内容将设计、制造与创新实践相结合，目标是降低复杂物品的开发和生产门槛。",
+  "tech_stack": [
+    "CAD",
+    "数字制造",
+    "CNC加工",
+    "3D打印",
+    "模块化制造"
+  ],
+  "problem_solved": "它通过计算设计与数字化生产流程，降低了设计和制造复杂定制物品所需的技术、成本及时间门槛。",
+  "why_valuable": "该资源将制造知识系统化并与开源教学结合，有助于创客、学生和工程师快速探索从概念设计到实体制造的完整流程。",
+  "tags": [
+    "Digital Fabrication",
+    "Maker",
+    "CAD",
+    "3D Printing",
+    "Manufacturing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-16T18:11:11.701776+00:00",
+  "updated_at": "2026-11-16T18:12:09.510255+00:00",
+  "published_to": []
+}

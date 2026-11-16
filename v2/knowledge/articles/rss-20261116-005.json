@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-005",
+  "source": "rss",
+  "source_url": "https://artemlegotin.com/golden-board/",
+  "title": "A 512 KiB binary message teaching chess without a shared language",
+  "summary": "Golden Board 探索通过一个仅 512 KiB 的自包含二进制文件，在通信双方没有共同语言或预先约定协议的情况下传递并教授国际象棋知识。该项目强调低带宽、轻量化和跨语言交互，将棋类规则与教学内容封装为可独立执行的二进制消息。",
+  "tech_stack": [
+    "Binary Encoding",
+    "Chess",
+    "Self-contained Executable",
+    "Low-bandwidth Communication"
+  ],
+  "problem_solved": "它解决了通信双方缺少共同语言或共享协议时，如何利用极小的二进制载荷完成知识或棋类教学的问题。",
+  "why_valuable": "这种方案可显著降低部署、存储和跨平台传输成本，并为无需自然语言或专用协议的教育与自动化通信提供新思路。",
+  "tags": [
+    "Binary",
+    "Chess",
+    "Protocol",
+    "Education",
+    "Interoperability"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-16T18:09:59.075894+00:00",
+  "updated_at": "2026-11-16T18:12:09.509346+00:00",
+  "published_to": []
+}

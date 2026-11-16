@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261116-007",
+  "source": "rss",
+  "source_url": "https://jack.cab/blog/siterate",
+  "title": "What is w2rt6byl5nf1opmc-a.com?",
+  "summary": "文章针对可疑域名“w2rt6byl5nf1opmc-a.com”进行分析，主要目的应是判断该域名的用途、信誉与潜在安全风险。文章结合相关 Hacker News 讨论获得较高关注，但提供的正文信息有限，无法仅凭摘要确认其具体结论。",
+  "tech_stack": [
+    "DNS",
+    "WHOIS",
+    "Web Security",
+    "Domain Reputation"
+  ],
+  "problem_solved": "帮助用户识别陌生或可疑域名的来源、性质及潜在安全风险。",
+  "why_valuable": "域名安全分析能够帮助访问者避免钓鱼、恶意软件、诈骗或隐私威胁。",
+  "tags": [
+    "Domain",
+    "Security",
+    "Cybersecurity",
+    "DNS",
+    "Reputation"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-16T18:10:09.307049+00:00",
+  "updated_at": "2026-11-16T18:12:09.509587+00:00",
+  "published_to": []
+}
