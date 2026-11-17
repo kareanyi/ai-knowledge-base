@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261117-002",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50534429",
+  "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+  "summary": "Y Combinator 开发了一套用于运营其实习招聘会（Internship Expo）的软件，并通过一个 8-bit 风格的软件模拟器展示其功能。当前提供的材料仅包含标题和链接，缺少项目实现细节与讨论内容。",
+  "tech_stack": [
+    "Custom Software",
+    "8-bit Simulator"
+  ],
+  "problem_solved": "解决实习招聘会线上展示、活动运营及互动演示工具不足的问题。",
+  "why_valuable": "将招聘活动与复古 8-bit 模拟体验结合，能够以更有趣且易传播的方式向求职者和企业展示招聘流程。",
+  "tags": [
+    "YC",
+    "Internship",
+    "Event Software",
+    "8-bit",
+    "Simulator"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-17T17:30:13.201943+00:00",
+  "updated_at": "2026-11-17T17:32:19.220403+00:00",
+  "published_to": []
+}

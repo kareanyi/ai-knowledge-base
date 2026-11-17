@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261117-010",
+  "source": "rss",
+  "source_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+  "title": "How the Claude Code team thinks about verification",
+  "summary": "文章介绍 Claude Code 团队对软件验证工作的思考，重点可能包括如何利用 AI 辅助检查代码正确性、测试行为并建立可靠的反馈闭环。内容强调验证在 AI 编程中的重要性，以及模型、工具调用和开发者审查之间的关系。由于当前仅提供标题、链接及社区讨论信息，具体技术细节需以原文为准。",
+  "tech_stack": [
+    "Claude Code",
+    "Large Language Models",
+    "Automated Testing",
+    "Software Verification",
+    "Developer Tools"
+  ],
+  "problem_solved": "解决 AI 生成代码可能缺乏正确性验证、测试覆盖不足以及开发者难以高效确认代码行为的问题。",
+  "why_valuable": "它探讨了如何将验证机制融入 AI 编程流程，从而提升代码生成质量、可信度和交付效率。",
+  "tags": [
+    "AI",
+    "Verification",
+    "Testing",
+    "Developer Tools",
+    "Code Quality"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-17T17:31:24.400379+00:00",
+  "updated_at": "2026-11-17T17:32:19.226577+00:00",
+  "published_to": []
+}

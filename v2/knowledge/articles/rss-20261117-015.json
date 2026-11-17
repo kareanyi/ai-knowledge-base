@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261117-015",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+  "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+  "summary": "AT&T 指控 Comcast 在广告中将使用同轴电缆和 DOCSIS 技术的宽带服务宣传为“光纤赋能 Wi-Fi”，涉嫌虚假或误导性宣传。该报道聚焦 Comcast 的营销表述、AT&T 的法律行动，以及有线宽带与真正光纤宽带之间的差异。",
+  "tech_stack": [
+    "Fiber broadband",
+    "DOCSIS",
+    "Cable internet",
+    "Wi-Fi",
+    "Broadband advertising"
+  ],
+  "problem_solved": "揭示宽带运营商可能通过模糊“有线宽带”和“光纤宽带”的技术差异，误导消费者对网络速度、可靠性及基础设施的认知。",
+  "why_valuable": "此案凸显网络营销透明度的重要性，并帮助消费者辨别服务宣传背后的真实接入技术。",
+  "tags": [
+    "Broadband",
+    "Fiber",
+    "False Advertising",
+    "Comcast",
+    "Telecommunications"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-17T17:31:55.981383+00:00",
+  "updated_at": "2026-11-17T17:32:19.226945+00:00",
+  "published_to": []
+}

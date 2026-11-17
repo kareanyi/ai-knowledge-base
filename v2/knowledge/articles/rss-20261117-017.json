@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261117-017",
+  "source": "rss",
+  "source_url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+  "title": "Chemistry is Actually Geometry",
+  "summary": "文章提出“化学本质上就是几何学”的观点，主张许多化学现象可以通过分子、原子的空间结构与几何关系来理解和解释。内容借助化学与几何学的联系，尝试为读者建立跨学科认识复杂分子体系的新视角。",
+  "tech_stack": [
+    "Chemistry",
+    "Geometry",
+    "Molecular Structure",
+    "Scientific Visualization"
+  ],
+  "problem_solved": "解释为什么空间构型与几何关系能够成为理解化学性质和分子行为的关键。",
+  "why_valuable": "它把抽象的化学规律转化为直观的结构与空间问题，有助于降低理解分子科学的门槛并促进跨学科思考。",
+  "tags": [
+    "Chemistry",
+    "Geometry",
+    "Molecules",
+    "Science",
+    "Education"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-17T17:32:08.129465+00:00",
+  "updated_at": "2026-11-17T17:32:19.227081+00:00",
+  "published_to": []
+}

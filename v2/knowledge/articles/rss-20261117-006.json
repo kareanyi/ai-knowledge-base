@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261117-006",
+  "source": "rss",
+  "source_url": "https://alloyhtml.com/example.html",
+  "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+  "summary": "Alloy CSS 是一个无 JavaScript 依赖的 CSS UI 组件项目，通过纯 HTML 与 CSS 实现对话框、菜单和标签页等常见交互。它让开发者能够在禁用 JavaScript 的环境中仍可构建具有基本交互能力的网页界面。",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "Web Components"
+  ],
+  "problem_solved": "解决网页中对话框、菜单和标签页等交互组件过度依赖 JavaScript、导致禁用脚本后功能不可用的问题。",
+  "why_valuable": "它以零 JavaScript 的方式提升页面的渐进增强能力、无障碍访问性和部署可靠性，同时减少客户端脚本体积与维护成本。",
+  "tags": [
+    "CSS",
+    "HTML",
+    "UI Components",
+    "Progressive Enhancement",
+    "Accessibility"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-17T17:31:04.421127+00:00",
+  "updated_at": "2026-11-17T17:32:19.226319+00:00",
+  "published_to": []
+}

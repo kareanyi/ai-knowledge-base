@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261117-003",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+  "title": "NSA Internal Network Down",
+  "summary": "报道称，美国国家安全局用于高机密通信的内部网络发生故障，导致其高度机密的国家安全通信能力受到影响。该事件由 CNN 披露并经 Reuters 报道，重点在于关键政府通信基础设施的可用性与安全韧性。",
+  "tech_stack": [
+    "Secure Communications",
+    "Classified Network",
+    "Network Infrastructure",
+    "National Security Systems"
+  ],
+  "problem_solved": "该报道关注高机密国家安全通信网络中断问题，揭示关键政府通信基础设施在可用性和故障恢复方面面临的运维风险。",
+  "why_valuable": "事件凸显了机密通信系统对业务连续性、冗余架构和快速故障恢复能力的重要需求。",
+  "tags": [
+    "Cybersecurity",
+    "Network Security",
+    "Infrastructure",
+    "National Security",
+    "Outage"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-17T17:30:27.880744+00:00",
+  "updated_at": "2026-11-17T17:32:19.220474+00:00",
+  "published_to": []
+}

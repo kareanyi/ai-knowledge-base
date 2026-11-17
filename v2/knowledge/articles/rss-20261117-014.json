@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261117-014",
+  "source": "rss",
+  "source_url": "https://www.bugmenot.com/",
+  "title": "BugMeNot has closed",
+  "summary": "BugMeNot 宣布关闭其网站，标志着这一曾经提供网站账号共享和测试登录信息的服务正式停止运营。该消息在 Hacker News 社区引发了较大关注，讨论焦点可能包括服务关闭原因、用户数据与账号安全影响，以及替代方案和互联网服务的长期发展。",
+  "tech_stack": [
+    "Web",
+    "HTML",
+    "JavaScript"
+  ],
+  "problem_solved": "BugMeNot 曾帮助用户获取用于测试或临时访问的第三方网站共享账号，减少注册、验证和付费门槛。",
+  "why_valuable": "该服务的关闭反映了账号共享服务的运营风险与可持续性挑战，也提醒用户谨慎处理共享凭据和个人信息。",
+  "tags": [
+    "BugMeNot",
+    "AccountSharing",
+    "WebService",
+    "Closure",
+    "OnlinePrivacy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-17T17:31:51.394654+00:00",
+  "updated_at": "2026-11-17T17:32:19.226871+00:00",
+  "published_to": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261117-008",
+  "source": "rss",
+  "source_url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+  "title": "We don't need more apps. We need better open source",
+  "summary": "文章主张数字产品生态不应继续追求更多封闭应用，而应重视更高质量、可协作和可持续的开源软件。提供的信息仅包含标题、原文链接及 Hacker News 讨论数据，未包含正文，因此具体论据与实现方式无法确认。",
+  "tech_stack": [],
+  "problem_solved": "探讨应用数量不断增长但开放协作、共享创新和公共技术价值不足的问题。",
+  "why_valuable": "推动开发者优先建设可复用、可维护且具有公共价值的开源项目，而非仅增加封闭应用的数量。",
+  "tags": [
+    "Open Source",
+    "Software Ecosystem",
+    "Developer Community",
+    "Open Collaboration"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-17T17:31:14.549801+00:00",
+  "updated_at": "2026-11-17T17:32:19.226456+00:00",
+  "published_to": []
+}

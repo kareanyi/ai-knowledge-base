@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261117-001",
+  "source": "rss",
+  "source_url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+  "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+  "summary": "Optimizely 遭遇供应链攻击，攻击者通过其合法托管和分发的网页组件向 CNN、福克斯新闻、BBC 和 Salesforce 等知名网站植入恶意软件。由于这些站点拥有大量访问量和可信的域名基础设施，恶意内容能够借助供应链信任获得更广传播，并可能造成用户数据窃取、凭证泄露或进一步入侵。",
+  "tech_stack": [
+    "Optimizely",
+    "JavaScript",
+    "Supply Chain Security",
+    "Malware Analysis",
+    "Web Security"
+  ],
+  "problem_solved": "揭示并分析第三方网页组件遭入侵后如何将恶意软件传播到大量高流量网站，同时说明供应链安全风险可能跨越多个大型品牌和互联网基础设施。",
+  "why_valuable": "该事件展示了合法服务提供商和知名站点如何被用作大规模恶意软件分发渠道，有助于企业加强第三方组件管理、网站完整性监控和供应链安全防护。",
+  "tags": [
+    "Supply Chain Attack",
+    "Malware",
+    "Web Security",
+    "Optimizely",
+    "Incident Analysis"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-17T17:30:09.196107+00:00",
+  "updated_at": "2026-11-17T17:32:19.220173+00:00",
+  "published_to": []
+}

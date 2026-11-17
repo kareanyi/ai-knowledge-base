@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261117-004",
+  "source": "rss",
+  "source_url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+  "title": "Highly classified US national security communications network goes down",
+  "summary": "一则关于美国高度机密国家安全通信网络中断的新闻报道，涉及关键政府通信基础设施的运行与安全。该条目提供了 CNN 原文及 Hacker News 讨论链接，但未包含具体技术细节、故障原因或影响范围。",
+  "tech_stack": [
+    "Secure Communications",
+    "National Security Infrastructure",
+    "Classified Network"
+  ],
+  "problem_solved": "文章关注高度机密国家安全通信网络宕机事件及其潜在的安全、连续性和应急响应风险。",
+  "why_valuable": "该事件凸显关键通信基础设施对政府安全运作的重要性，并为网络冗余、故障排查和安全事件通报提供参考。",
+  "tags": [
+    "Cybersecurity",
+    "Network Outage",
+    "National Security",
+    "Secure Communications",
+    "Critical Infrastructure"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-17T17:30:32.804054+00:00",
+  "updated_at": "2026-11-17T17:32:19.226063+00:00",
+  "published_to": []
+}

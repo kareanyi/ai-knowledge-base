@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261117-007",
+  "source": "rss",
+  "source_url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+  "title": "What is the best harness for each model?",
+  "summary": "文章介绍 FrontierHarness Eval v1.1，核心目标是比较不同大语言模型最适合使用的评测或运行 harness。内容面向希望根据模型特性选择合适测试框架、并评估模型表现的开发者和研究者。",
+  "tech_stack": [
+    "FrontierHarness",
+    "LLM evaluation",
+    "Model harness",
+    "Hacker News"
+  ],
+  "problem_solved": "帮助用户为不同大语言模型选择更匹配的评测 harness，从而获得更可靠且具有可比性的模型测试结果。",
+  "why_valuable": "模型与评测框架的适配情况会显著影响结果的可信度，该资源可降低 harness 选择成本并提升评测质量。",
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Benchmark",
+    "Model Harness",
+    "FrontierHarness"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-17T17:31:10.769464+00:00",
+  "updated_at": "2026-11-17T17:32:19.226386+00:00",
+  "published_to": []
+}

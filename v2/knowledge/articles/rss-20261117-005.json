@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261117-005",
+  "source": "rss",
+  "source_url": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
+  "title": "Antfly learned to stop worrying and love Apache 2.0",
+  "summary": "Antfly 官方博客分享了该项目从其他许可证转向 Apache 2.0 许可的过程与理由。文章讨论了开源许可选择对项目社区建设、贡献者参与和企业采用的影响，标志着 Antfly（一个面向边缘场景的分布式键值数据库/数据平台）正式进入宽松开源许可阶段。整体内容偏向项目理念与工程文化，而非具体的技术实现细节。",
+  "tech_stack": [
+    "Apache 2.0 License",
+    "Edge Database",
+    "Distributed KV Store",
+    "Rust"
+  ],
+  "problem_solved": "通过采用宽松的 Apache 2.0 许可证，降低企业采用与二次开发的合规顾虑，从而吸引更多贡献者并推动项目生态扩张。",
+  "why_valuable": "许可策略是基础设施类项目能否获得广泛生产环境采用的关键因素，Apache 2.0 提供了明确的专利授权与宽松使用条款，比 AGPL 等 copyleft 许可更适合云原生与商业分发场景。",
+  "tags": [
+    "Open Source",
+    "Licensing",
+    "Edge Database",
+    "Key-Value Store",
+    "Project Governance"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-17T17:30:59.667557+00:00",
+  "updated_at": "2026-11-17T17:32:19.226233+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261117-012",
+  "source": "rss",
+  "source_url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+  "title": "Why 3dfx 1 cards had such a washed out color output?",
+  "summary": "该内容讨论 3dfx Voodoo1 图形卡为何会呈现发白、色彩饱和度不足的显示效果，并结合原始动态和 Hacker News 社区评论分析其潜在原因。内容聚焦复古图形硬件的显示质量与色彩输出问题，但现有材料主要提供链接和讨论数据，具体技术结论需查阅原文。",
+  "tech_stack": [
+    "3dfx Voodoo1",
+    "Voodoo Graphics",
+    "RGB Video",
+    "Graphics Drivers",
+    "CRT Displays"
+  ],
+  "problem_solved": "解释 3dfx Voodoo1 图形卡在特定显示环境中出现颜色发白、色彩还原偏差的技术原因。",
+  "why_valuable": "有助于复古硬件玩家和图形技术爱好者理解早期 3D 加速卡与显示器、DAC、驱动及信号链路之间的兼容性问题。",
+  "tags": [
+    "3dfx",
+    "Voodoo1",
+    "Color Output",
+    "Retro Graphics",
+    "Display Technology"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-17T17:31:40.843583+00:00",
+  "updated_at": "2026-11-17T17:32:19.226714+00:00",
+  "published_to": []
+}

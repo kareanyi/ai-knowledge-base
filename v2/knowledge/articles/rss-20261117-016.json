@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261117-016",
+  "source": "rss",
+  "source_url": "https://www.cs.cmu.edu/learn/",
+  "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+  "summary": "卡内基梅隆大学将其计算机科学课程免费发布到 YouTube，使全球学习者能够访问高质量的 CS 教学资源。该项目通过公开传播课程内容，降低了系统学习计算机科学的门槛。",
+  "tech_stack": [
+    "YouTube",
+    "Online Learning",
+    "MOOC"
+  ],
+  "problem_solved": "解决计算机科学优质课程获取成本高、覆盖范围有限以及传统学习时间和地点受限的问题。",
+  "why_valuable": "免费公开知名大学的完整课程资源，可为自学者、学生和教师提供高可信度的学习与教学参考。",
+  "tags": [
+    "Computer Science",
+    "Online Learning",
+    "Free Education",
+    "MOOC",
+    "YouTube"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-17T17:32:03.224419+00:00",
+  "updated_at": "2026-11-17T17:32:19.227014+00:00",
+  "published_to": []
+}
