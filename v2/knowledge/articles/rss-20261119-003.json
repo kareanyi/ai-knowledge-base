@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261119-003",
+  "source": "rss",
+  "source_url": "https://blog.plover.com/tech/bug-reports.html",
+  "title": "Google Chrome dev team declares bug report bankruptcy",
+  "summary": "文章讨论 Google Chrome 开发团队因 Chromium Bug Tracker 中长期积累了大量难以处理的漏洞与功能反馈，而以“bug report bankruptcy”的方式宣布停止处理或关闭相关问题报告。该案例反映了大型开源项目在用户持续提交低质量、重复或范围不明确的报告时所面临的维护资源压力，并探讨了更合理的问题反馈与生命周期管理机制。",
+  "tech_stack": [
+    "Chrome",
+    "Chromium",
+    "Bug Tracker",
+    "Issue Tracking"
+  ],
+  "problem_solved": "针对大型开源项目问题报告堆积、维护者不堪重负以及无效反馈难以清理的问题，提供一种停止处理积压报告的现实案例与管理思路。",
+  "why_valuable": "它揭示了开源软件维护中的资源瓶颈，可帮助项目团队和用户改进问题提交、审核、关闭及积压治理流程。",
+  "tags": [
+    "Chrome",
+    "Bug Tracking",
+    "Open Source",
+    "Project Maintenance",
+    "Community"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-19T17:13:27.467308+00:00",
+  "updated_at": "2026-11-19T17:16:15.048485+00:00",
+  "published_to": []
+}

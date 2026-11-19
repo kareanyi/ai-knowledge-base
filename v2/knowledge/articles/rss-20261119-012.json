@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261119-012",
+  "source": "rss",
+  "source_url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+  "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+  "summary": "介绍一款可在浏览器中将单张 A4 纸张折叠成 8 页迷你杂志（zine）的工具，并分享其在 Fanzines 应用中的相关更新。其核心用途是简化纸质小册子的排版、裁切与折叠流程，让用户无需专业桌面出版软件也能制作作品。",
+  "tech_stack": [
+    "JavaScript",
+    "HTML/CSS",
+    "Canvas/SVG",
+    "Browser Printing"
+  ],
+  "problem_solved": "解决单张 A4 纸张制作多页小册子时排版、裁切标记和折叠顺序复杂的问题。",
+  "why_valuable": "它降低了数字创作与纸质自出版之间的门槛，并以可预览、可打印的方式快速生成结构正确的 8 页 zine。",
+  "tags": [
+    "Browser",
+    "Zine",
+    "Publishing",
+    "Paper Folding",
+    "Web App"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-19T17:15:23.403465+00:00",
+  "updated_at": "2026-11-19T17:16:15.055000+00:00",
+  "published_to": []
+}

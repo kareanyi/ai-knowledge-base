@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261119-015",
+  "source": "rss",
+  "source_url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+  "title": "How the European Commission rolled out Matrix to more than 40k staff",
+  "summary": "文章介绍了欧盟委员会如何将 Matrix 通信平台分阶段推广给超过 4 万名工作人员。重点可能涵盖大规模部署的技术架构、身份与权限管理、用户迁移以及在公共机构环境中的运维实践，展示了 Matrix 在大型组织中的实际落地能力。",
+  "tech_stack": [
+    "Matrix",
+    "Element",
+    "Synapse",
+    "XMPP",
+    "Docker"
+  ],
+  "problem_solved": "为欧盟委员会提供安全、可控且支持实时协作的内部通信与即时 messaging 基础设施。",
+  "why_valuable": "该案例证明了去中心化开源通信平台能够满足大型公共机构在可扩展性、安全性和组织级部署方面的需求。",
+  "tags": [
+    "Matrix",
+    "Messaging",
+    "Enterprise",
+    "Public Sector",
+    "Collaboration"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-19T17:15:42.508022+00:00",
+  "updated_at": "2026-11-19T17:16:15.055212+00:00",
+  "published_to": []
+}

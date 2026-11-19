@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261119-019",
+  "source": "rss",
+  "source_url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+  "title": "Distributed, high-performance blob storage on SQLite",
+  "summary": "文章探讨如何基于 SQLite 构建高性能、分布式的大对象存储系统，重点可能包括 Blob 数据组织、并发读写优化、网络传输与节点间一致性。文章还结合工程实践讨论了架构设计、性能取舍及扩展性，为需要轻量分布式存储方案的开发者提供参考。",
+  "tech_stack": [
+    "SQLite",
+    "Blob Storage",
+    "Distributed Systems"
+  ],
+  "problem_solved": "解决在分布式环境中使用 SQLite 高效存储和管理大型二进制对象的问题。",
+  "why_valuable": "它展示了如何在不引入复杂专用数据库基础设施的情况下，利用 SQLite 构建具备良好性能和可扩展性的存储服务。",
+  "tags": [
+    "SQLite",
+    "Blob Storage",
+    "Distributed Systems",
+    "Performance",
+    "Storage"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-19T17:16:08.320195+00:00",
+  "updated_at": "2026-11-19T17:16:15.055501+00:00",
+  "published_to": []
+}

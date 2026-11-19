@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261119-016",
+  "source": "rss",
+  "source_url": "https://www.php.net/releases/8.6/en.php",
+  "title": "What's New in PHP 8.6",
+  "summary": "该内容指向 PHP 官方发布的 PHP 8.6 版本说明，用于介绍该版本带来的语言特性、标准库改进及运行时变化。所给正文仅包含文章链接与 Hacker News 讨论信息，未包含具体更新条目，因此无法可靠展开各项功能细节。",
+  "tech_stack": [
+    "PHP 8.6",
+    "PHP",
+    "Zend Engine"
+  ],
+  "problem_solved": "集中整理并说明 PHP 8.6 的新功能、变更和升级信息，帮助开发者了解新版本的能力与兼容性影响。",
+  "why_valuable": "官方版本说明是评估新特性、排查兼容性问题和规划 PHP 升级的重要权威参考。",
+  "tags": [
+    "PHP",
+    "Release Notes",
+    "Language Features",
+    "Software Development"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-19T17:15:48.859034+00:00",
+  "updated_at": "2026-11-19T17:16:15.055279+00:00",
+  "published_to": []
+}

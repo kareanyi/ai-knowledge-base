@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261119-004",
+  "source": "rss",
+  "source_url": "https://cornholenews.news",
+  "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+  "summary": "Cornhole News 是一个受 Hacker News 启发的地区性新闻网站，聚焦美国中西部地区的新闻与社区讨论。项目通过链接、评论数及社区积分等信息展示了该网站在 Hacker News 社区中的发布与反馈情况。",
+  "tech_stack": [],
+  "problem_solved": "为中西部地区提供集中化、社区驱动的新闻聚合与讨论平台。",
+  "why_valuable": "它将本地新闻与类似 Hacker News 的互动机制结合，方便用户发现和讨论区域性重要议题。",
+  "tags": [
+    "News",
+    "Community",
+    "Hacker News",
+    "Midwest",
+    "Web"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-19T17:13:31.560890+00:00",
+  "updated_at": "2026-11-19T17:16:15.054281+00:00",
+  "published_to": []
+}

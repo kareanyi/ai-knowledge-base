@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261119-018",
+  "source": "rss",
+  "source_url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+  "title": "Do not buy RAM, compress",
+  "summary": "文章讨论通过压缩内存中的数据来减少对物理 RAM 的需求，而不是直接购买更多内存。其核心价值在于帮助用户理解内存压缩的适用场景、收益与限制，并可能涉及操作系统或应用层面的压缩方案。",
+  "tech_stack": [
+    "RAM",
+    "Memory Compression",
+    "Zstandard",
+    "Linux",
+    "zram"
+  ],
+  "problem_solved": "通过压缩内存数据降低 RAM 占用，缓解内存不足并减少额外硬件采购需求。",
+  "why_valuable": "它提供了一种在资源受限环境中提升内存利用率和系统稳定性的实用思路。",
+  "tags": [
+    "Memory",
+    "Compression",
+    "RAM",
+    "Linux",
+    "Performance"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-19T17:15:58.056242+00:00",
+  "updated_at": "2026-11-19T17:16:15.055413+00:00",
+  "published_to": []
+}

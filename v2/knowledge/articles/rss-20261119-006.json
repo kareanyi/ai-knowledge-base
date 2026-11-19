@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261119-006",
+  "source": "rss",
+  "source_url": "https://tabbyml.github.io/weight-space-playground/",
+  "title": "Show HN: Watch weight-space programming in action with WebGPU",
+  "summary": "该项目构建了一个完全在浏览器中运行的权重空间编程交互式演示，使用户能够让 Qwen3.5-0.8B 检查模型、直接编辑权重并评估修改结果。由于完整循环所需显存过大，项目将其简化为一个具体案例：通过修改模型约 0.016% 的权重，在不进行梯度下降的情况下减少模型的推理循环次数。",
+  "tech_stack": [
+    "WebGPU",
+    "LLM",
+    "Qwen3.5-0.8B",
+    "Browser Computing",
+    "Weight Editing"
+  ],
+  "problem_solved": "它展示了如何在浏览器环境中实现并理解大语言模型的权重空间编程，以及通过少量权重修改改善模型推理行为的方法。",
+  "why_valuable": "它将通常需要服务器端 GPU 和较大显存资源的模型权重实验转化为可交互、可复现的浏览器学习体验。",
+  "tags": [
+    "WebGPU",
+    "LLM",
+    "Weight-Space Programming",
+    "Browser AI",
+    "Model Editing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-19T17:13:42.147745+00:00",
+  "updated_at": "2026-11-19T17:16:15.054557+00:00",
+  "published_to": []
+}

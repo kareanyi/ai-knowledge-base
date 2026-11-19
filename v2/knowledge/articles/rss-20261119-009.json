@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261119-009",
+  "source": "rss",
+  "source_url": "https://lastbook.org/",
+  "title": "Everything you need to survive and rebuild society",
+  "summary": "Last Book 是一个面向社会生存与重建的开放式知识项目，集中整理在灾难或文明中断后维持生活、恢复生产与重建社会所需的实用信息。内容以网页形式发布，并在 Hacker News 获得了 140 分和 71 条评论，显示出较强的社区关注度。",
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Static Web"
+  ],
+  "problem_solved": "为个人或社区在极端社会中断后快速获取生存、生产和文明重建所需的实用知识提供集中化资源。",
+  "why_valuable": "它将分散且容易被遗忘的应急与重建知识整理成可快速访问的系统性资料，在灾害、信息失联或技术基础设施崩溃时具有重要参考价值。",
+  "tags": [
+    "Survival",
+    "Resilience",
+    "Society",
+    "Knowledge Base",
+    "Open Knowledge"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-19T17:14:08.412397+00:00",
+  "updated_at": "2026-11-19T17:16:15.054789+00:00",
+  "published_to": []
+}

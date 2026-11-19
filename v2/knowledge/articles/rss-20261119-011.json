@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261119-011",
+  "source": "rss",
+  "source_url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+  "title": "OpenAI still has a WebRTC Problem",
+  "summary": "这是一篇讨论 OpenAI 在实时语音/视频传输方面仍依赖 WebRTC 技术的文章，探讨 WebRTC 在延迟、连接建立、带宽自适应与规模化服务上的固有缺陷。文章以 MoQ（Media over QUIC）作为替代方案切入，论证基于 QUIC 的媒体传输协议在实时 AI 音视频场景中更具优势，但目前尚未被 OpenAI 等主流平台采用。",
+  "tech_stack": [
+    "WebRTC",
+    "QUIC",
+    "MoQ (Media over QUIC)",
+    "WebTransport",
+    "OpenAI Realtime API"
+  ],
+  "problem_solved": "指出 WebRTC 在实时 AI 音视频应用中存在的握手延迟高、TURN 中继成本大、拥塞控制与带宽估计不适用于大模型实时流等扩展性瓶颈，并提出用基于 QUIC 的 MoQ 协议替代。",
+  "why_valuable": "为构建低延迟、可大规模部署的实时语音/视频智能体提供了协议层选型视角，帮助工程师理解 WebRTC 与 QUIC-based 传输在生产环境中的取舍。",
+  "tags": [
+    "WebRTC",
+    "QUIC",
+    "RealTime",
+    "Audio/Video",
+    "Protocol"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-19T17:14:25.989071+00:00",
+  "updated_at": "2026-11-19T17:16:15.054928+00:00",
+  "published_to": []
+}

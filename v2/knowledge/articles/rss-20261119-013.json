@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261119-013",
+  "source": "rss",
+  "source_url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+  "title": "Unblockable communication with gravity – Science Advances",
+  "summary": "这项发表于《Science Advances》的研究探讨了利用引力效应传递信息，使通信信号能够穿透传统障碍物。核心方向是将引力作为信息载体，为无法通过常规电磁手段跨越阻挡环境的通信提供新路径。",
+  "tech_stack": [
+    "Gravitational Physics",
+    "Quantum Information",
+    "Signal Encoding",
+    "Communication Systems",
+    "Scientific Instrumentation"
+  ],
+  "problem_solved": "解决传统无线或有线通信信号受墙体、建筑物及其他物理障碍物阻挡而无法可靠传输的问题。",
+  "why_valuable": "它可能为受限环境、远距离通信及难以部署常规通信基础设施的场景提供一种基于引力的新型技术路线。",
+  "tags": [
+    "Gravity",
+    "Communication",
+    "Quantum",
+    "Physics",
+    "Wireless"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-19T17:15:29.059581+00:00",
+  "updated_at": "2026-11-19T17:16:15.055067+00:00",
+  "published_to": []
+}

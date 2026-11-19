@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261119-005",
+  "source": "rss",
+  "source_url": "https://thedataexchange.media/pete-warden-moonshine/",
+  "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+  "summary": "文章是一期关于本地化 AI 的访谈，Pete Warden 以其语音项目 Moonshine Voice 为切入点，探讨语音识别与 AI 模型为何更适合在设备端运行。内容聚焦隐私、延迟、离线能力和边缘计算等本地 AI 的优势与潜在影响。",
+  "tech_stack": [
+    "Local AI",
+    "On-device Inference",
+    "Edge Computing",
+    "Voice Recognition",
+    "Moonshine Voice"
+  ],
+  "problem_solved": "通过将 AI 推理与语音处理迁移到本地设备，降低对云端服务的依赖，同时改善隐私保护、响应速度和离线可用性。",
+  "why_valuable": "本地 AI 可以在不向云端传输敏感数据的情况下提供低延迟、可持续且更易部署的智能语音体验。",
+  "tags": [
+    "Local AI",
+    "Edge AI",
+    "Voice AI",
+    "Privacy",
+    "On-device Inference"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-19T17:13:37.056041+00:00",
+  "updated_at": "2026-11-19T17:16:15.054425+00:00",
+  "published_to": []
+}

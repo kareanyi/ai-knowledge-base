@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261119-002",
+  "source": "rss",
+  "source_url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+  "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+  "summary": "文章报道称，英国政府被迫承认曾向苹果公司发出一项涉及加密机制的秘密命令。事件的核心争议是政府安全要求与用户隐私、加密安全及企业透明度之间的冲突，具体命令内容仍需结合原文或相关公开文件核实。",
+  "tech_stack": [
+    "Encryption",
+    "Apple Security",
+    "Cryptography"
+  ],
+  "problem_solved": "揭示秘密政府命令可能对高安全级别加密系统及用户隐私产生的干预风险，并推动相关行为的透明度讨论。",
+  "why_valuable": "该事件为评估政府监控权限、技术后门风险和加密保护的社会代价提供了重要案例。",
+  "tags": [
+    "Encryption",
+    "Privacy",
+    "Government Surveillance",
+    "Apple",
+    "Cybersecurity"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-19T17:13:22.592683+00:00",
+  "updated_at": "2026-11-19T17:16:15.048368+00:00",
+  "published_to": []
+}

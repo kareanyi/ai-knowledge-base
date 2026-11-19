@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261119-020",
+  "source": "rss",
+  "source_url": "https://kapteko.com/15-million-webservers/",
+  "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+  "summary": "文章探讨如何在单个虚拟机中运行约 1500 万个 Web 服务器，核心方案结合了用户态 TCP/IP 栈 smoltcp、DPDK 用户态网络数据面和 Linux AF_XDP 高性能网络接口。通过绕过传统内核网络栈并减少每个连接的内存与调度开销，该方案展示了超大规模连接密度下的 Web 服务部署可能性。",
+  "tech_stack": [
+    "smoltcp",
+    "DPDK",
+    "AF_XDP",
+    "Linux",
+    "Web Servers"
+  ],
+  "problem_solved": "解决单个虚拟机中 Web 服务器实例数量受传统内核网络栈、内存占用和调度开销限制的问题。",
+  "why_valuable": "它展示了利用用户态网络和高性能数据面突破单机连接密度限制的方法，对高并发服务、边缘计算和资源高效部署具有重要参考价值。",
+  "tags": [
+    "High Performance",
+    "Networking",
+    "Web Servers",
+    "DPDK",
+    "Scalability"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-19T17:16:14.180109+00:00",
+  "updated_at": "2026-11-19T17:16:15.055572+00:00",
+  "published_to": []
+}
