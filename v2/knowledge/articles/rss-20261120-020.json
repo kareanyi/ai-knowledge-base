@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261120-020",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/claude-black-hole-physics",
+  "title": "Claude solves two open problems in the physics of black holes",
+  "summary": "Anthropic 介绍 Claude 在黑洞物理研究中的应用，声称其解决了两个长期未解的开放问题。该案例重点展示了先进 AI 模型在数学推导、物理推理与科研假设验证中的潜力，同时也引发了关于模型贡献边界和研究可靠性的讨论。",
+  "tech_stack": [
+    "Claude",
+    "AI-assisted scientific discovery",
+    "Mathematical physics"
+  ],
+  "problem_solved": "利用 Claude 协助解决黑洞物理领域中两个长期存在的开放研究问题。",
+  "why_valuable": "它表明通用 AI 模型可能成为加速复杂科学研究、提出并验证新理论方案的 powerful 工具。",
+  "tags": [
+    "Claude",
+    "Black Holes",
+    "Scientific Discovery",
+    "Physics",
+    "AI Research"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-20T16:53:16.519784+00:00",
+  "updated_at": "2026-11-20T16:53:17.816239+00:00",
+  "published_to": []
+}

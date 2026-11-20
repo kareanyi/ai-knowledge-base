@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261120-002",
+  "source": "rss",
+  "source_url": "https://github.com/tristanbuckmaster/navier-stokes/",
+  "title": "Finite-time blow-up for the Navier–Stokes equations",
+  "summary": "该项目围绕 Navier–Stokes 方程有限时间爆破问题，尝试整理相关证明、推导与研究资料。其核心议题是流体动力学中经典黏性方程解在有限时间内失去正则性的可能性，属于高难度非线性偏微分方程研究。",
+  "tech_stack": [
+    "PDE Analysis",
+    "Fluid Dynamics",
+    "LaTeX",
+    "GitHub"
+  ],
+  "problem_solved": "研究 Navier–Stokes 方程解是否以及如何发生有限时间爆破，以推进经典流体方程正则性问题的理解。",
+  "why_valuable": "有限时间爆破研究直接关系到 Navier–Stokes 方程全局光滑性这一核心开放问题，并为非线性 PDE 的理论分析提供重要方法与结果。",
+  "tags": [
+    "Navier-Stokes",
+    "PDE",
+    "Blow-up",
+    "Fluid Dynamics",
+    "Mathematical Research"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:51:05.065926+00:00",
+  "updated_at": "2026-11-20T16:53:17.806806+00:00",
+  "published_to": []
+}

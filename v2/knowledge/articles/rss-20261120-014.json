@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261120-014",
+  "source": "rss",
+  "source_url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+  "title": "\"I can tell you wrote this yourself\"",
+  "summary": "文章从标题来看，核心观点是文本通常会保留作者自身的写作痕迹，使人们能够辨别内容是否真正由本人创作，并进一步讨论人类写作与机器生成文本之间的差异。当前输入仅包含标题、链接和 Hacker News 讨论数据，未提供正文，因此无法确认其具体论证方式；349 分和 326 条评论表明该主题引发了广泛讨论。",
+  "tech_stack": [
+    "Generative AI",
+    "Natural Language Processing",
+    "AI Detection",
+    "Stylometry",
+    "Large Language Models"
+  ],
+  "problem_solved": "探讨如何通过语言风格和个人表达特征判断文本是人类亲自撰写还是由 AI 辅助生成。",
+  "why_valuable": "在 AI 写作日益普及的背景下，识别个人写作痕迹有助于维护内容真实性，并帮助读者建立对机器生成文本的批判性判断。",
+  "tags": [
+    "AI",
+    "Writing",
+    "AI Detection",
+    "Stylometry",
+    "Authorship"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:52:22.389008+00:00",
+  "updated_at": "2026-11-20T16:53:17.815448+00:00",
+  "published_to": []
+}

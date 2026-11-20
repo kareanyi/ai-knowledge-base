@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261120-005",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+  "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+  "summary": "文章报道全球股市大幅下跌，尽管 Anthropic 创下纪录的 IPO 仍未能遏制由人工智能板块引发的抛售行情。内容聚焦 AI 热潮降温、资本市场承压以及 Anthropic 上市对市场情绪的影响。",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "Anthropic Claude"
+  ],
+  "problem_solved": "分析 Anthropic 上市与 AI 估值回落在全球股票市场下跌中所反映的风险和投资者情绪变化。",
+  "why_valuable": "它将头部 AI 公司的资本市场表现与全球科技股行情联系起来，为投资者理解 AI 热潮中的估值压力提供背景。",
+  "tags": [
+    "AI",
+    "IPO",
+    "Stock Markets",
+    "Anthropic",
+    "Tech Bubble"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-20T16:51:22.020740+00:00",
+  "updated_at": "2026-11-20T16:53:17.814180+00:00",
+  "published_to": []
+}

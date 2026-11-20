@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261120-017",
+  "source": "rss",
+  "source_url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+  "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+  "summary": "文章介绍了 PostgreSQL 19 新增的内置表膨胀清理能力，通过 REPACK 相关功能减少数据库表和索引中的空间浪费。其重点在于将原本依赖外部工具的维护流程整合进 PostgreSQL，从而简化运维并提升数据库维护效率。",
+  "tech_stack": [
+    "PostgreSQL 19",
+    "SQL",
+    "PostgreSQL REPACK"
+  ],
+  "problem_solved": "解决 PostgreSQL 表和索引因数据删除或更新产生的空间膨胀问题，并降低手动执行表重写与空间回收的运维成本。",
+  "why_valuable": "内置的膨胀清理机制可以减少停机时间和额外工具依赖，使 PostgreSQL 的日常空间维护更加简单可靠。",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "REPACK",
+    "Table Bloat",
+    "Performance"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:52:40.394628+00:00",
+  "updated_at": "2026-11-20T16:53:17.815859+00:00",
+  "published_to": []
+}

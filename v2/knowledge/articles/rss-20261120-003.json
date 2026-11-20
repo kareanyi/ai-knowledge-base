@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261120-003",
+  "source": "rss",
+  "source_url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+  "title": "Why there are still no non-WebKit browsers on iOS",
+  "summary": "文章分析了即使欧盟《数字市场法案》（DMA）要求 iOS 支持替代浏览器引擎，Apple 仍未允许 Gecko、Blink 等非 WebKit 引擎在 iOS 上运行的原因。内容涉及 Apple 的平台限制、监管规则与浏览器市场开放之间的冲突，以及真正跨平台浏览器所面临的工程和商业障碍。",
+  "tech_stack": [
+    "WebKit",
+    "Blink",
+    "Gecko",
+    "iOS",
+    "EU DMA"
+  ],
+  "problem_solved": "解释 iOS 长期绑定 WebKit 的技术与监管背景，以及这一限制为何尚未因反垄断新规而被实质打破。",
+  "why_valuable": "帮助读者理解浏览器引擎开放政策对创新、竞争、隐私安全和数字生态长期发展的重要性。",
+  "tags": [
+    "iOS",
+    "Browser Engines",
+    "WebKit",
+    "DMA",
+    "Regulation"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-20T16:51:09.931482+00:00",
+  "updated_at": "2026-11-20T16:53:17.806963+00:00",
+  "published_to": []
+}

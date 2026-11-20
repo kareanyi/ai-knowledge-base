@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261120-019",
+  "source": "rss",
+  "source_url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+  "title": "Vint Cerf on why TCP/IP was never patented",
+  "summary": "文章围绕 Vint Cerf 对 TCP/IP 当年为何未被申请专利的解释展开，探讨开放网络协议体系背后的技术与商业考量。TCP/IP 的开放标准化使其能够被全球广泛采用，并成为互联网持续演进的重要基础。",
+  "tech_stack": [
+    "TCP/IP",
+    "Internet Protocols",
+    "Open Standards"
+  ],
+  "problem_solved": "解释 TCP/IP 保持开放、未被专利化所体现的网络基础设施治理理念。",
+  "why_valuable": "理解开放协议为何推动互联网互联普及，有助于认识技术创新、标准制定与公共基础设施之间的关系。",
+  "tags": [
+    "TCP/IP",
+    "Networking",
+    "Open Standards",
+    "Internet History",
+    "Vint Cerf"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:52:54.610053+00:00",
+  "updated_at": "2026-11-20T16:53:17.816114+00:00",
+  "published_to": []
+}

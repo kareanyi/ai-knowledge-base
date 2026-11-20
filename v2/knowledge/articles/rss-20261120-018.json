@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261120-018",
+  "source": "rss",
+  "source_url": "https://github.com/openssl/openssl/pull/33652",
+  "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+  "summary": "该内容涉及 OpenSSL 的 EVP_EncodeBlock() 函数存在可能导致缓冲区溢出的高危漏洞，并关联修复代码 PR（PR #33652）。漏洞编号为 CVE-2026-121481，标注的 CVSS 评分为 9.8，意味着其潜在影响可能达到严重或危急级别；具体触发条件和受影响版本需以官方公告及补丁内容为准。",
+  "tech_stack": [
+    "C",
+    "OpenSSL",
+    "GitHub",
+    "Cryptography"
+  ],
+  "problem_solved": "该修复旨在消除 EVP_EncodeBlock() 在特定输入或调用方式下可能引发的缓冲区溢出风险，防止进程崩溃、内存破坏及潜在远程代码执行。",
+  "why_valuable": "EVP_EncodeBlock() 属于 OpenSSL 广泛使用的编码接口，修复这一关键漏洞可显著降低依赖该函数的应用和基础设施面临供应链与远程攻击风险。",
+  "tags": [
+    "OpenSSL",
+    "BufferOverflow",
+    "CVE",
+    "Cryptography",
+    "Security"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-20T16:52:50.267166+00:00",
+  "updated_at": "2026-11-20T16:53:17.815987+00:00",
+  "published_to": []
+}

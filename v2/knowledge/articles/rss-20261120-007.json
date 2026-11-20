@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261120-007",
+  "source": "rss",
+  "source_url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+  "title": "The Making of Oxygene",
+  "summary": "文章回顾了法国电子音乐家 Jean-Michel Jarre 的经典专辑《Oxygene》的创作过程，聚焦其实验性录音、电子音色设计与音乐制作方法。内容帮助读者了解早期合成器、序列器和录音技术在塑造专辑独特氛围中的作用。",
+  "tech_stack": [
+    "EMS VCS 3",
+    "Analog Synthesizers",
+    "Electronic Sequencers",
+    "Mellotron",
+    "Studio Recording"
+  ],
+  "problem_solved": "通过还原《Oxygene》的制作流程，展示了如何在数字合成器普及之前利用模拟设备创作复杂、沉浸式的电子音乐作品。",
+  "why_valuable": "它既提供了理解经典电子音乐专辑的创作背景，也为音乐制作人和合成器爱好者展示了早期实验录音方法。",
+  "tags": [
+    "Electronic Music",
+    "Synthesis",
+    "Studio Production",
+    "Jean-Michel Jarre",
+    "Oxygene"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:51:34.157503+00:00",
+  "updated_at": "2026-11-20T16:53:17.814485+00:00",
+  "published_to": []
+}

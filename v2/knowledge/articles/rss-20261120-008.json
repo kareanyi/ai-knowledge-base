@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261120-008",
+  "source": "rss",
+  "source_url": "https://architectlabs.com/blog/frostbite",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "summary": "文章介绍了名为 Frostbite 的新型 CPU 架构，其设计流程由 AI 深度参与，涵盖架构发现、设计与验证。该项目试图证明 AI 不仅能辅助芯片设计，还能够完成传统上高度依赖资深工程师的端到端硬件开发任务。",
+  "tech_stack": [
+    "Artificial Intelligence",
+    "CPU Architecture",
+    "Hardware Design Automation",
+    "Formal Verification"
+  ],
+  "problem_solved": "它探索利用 AI 自动化 CPU 架构的发现、设计和验证流程，从而减少传统芯片研发中漫长的人工设计周期与工程成本。",
+  "why_valuable": "如果其结果可复现并满足正确的工程约束，AI 驱动的芯片设计流程有望显著提升硬件研发效率，并拓展 AI 在复杂系统级工程中的应用。",
+  "tags": [
+    "AI",
+    "CPU",
+    "Chip Design",
+    "EDA",
+    "Formal Verification"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-20T16:51:39.975263+00:00",
+  "updated_at": "2026-11-20T16:53:17.814631+00:00",
+  "published_to": []
+}

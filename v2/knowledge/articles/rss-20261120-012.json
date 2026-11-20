@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261120-012",
+  "source": "rss",
+  "source_url": "https://signal.org/blog/protecting-your-privacy/",
+  "title": "Signal Is Serious About Protecting Your Privacy",
+  "summary": "Signal 官方文章阐述其保护用户隐私的承诺与实践，重点关注通信安全、数据最小化以及避免滥用用户数据。文章强调端到端加密是基础，但隐私保护还需要减少元数据收集并明确数据使用边界。",
+  "tech_stack": [
+    "Signal",
+    "End-to-End Encryption",
+    "Metadata Minimization"
+  ],
+  "problem_solved": "降低敏感通信在传输和平台运营过程中被监控、追踪或滥用的风险。",
+  "why_valuable": "帮助用户理解端到端加密之外仍可能存在的隐私风险，并为可信通信软件的安全原则提供参考。",
+  "tags": [
+    "Privacy",
+    "Security",
+    "Encryption",
+    "Signal",
+    "Messaging"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:51:56.910958+00:00",
+  "updated_at": "2026-11-20T16:53:17.815191+00:00",
+  "published_to": []
+}

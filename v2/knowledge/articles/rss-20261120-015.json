@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261120-015",
+  "source": "rss",
+  "source_url": "https://ffmpeg.org/download.html#release_9.1",
+  "title": "FFmpeg 9.1 'Gauss'",
+  "summary": "该内容介绍了 FFmpeg 9.1「Gauss」版本的发布信息，并附带官方下载页面及 Hacker News 讨论链接。FFmpeg 是一套功能完整的多媒体框架，可用于音视频的编解码、转码、滤镜处理和流媒体工具开发；该发布版本的具体变更亮点在所给内容中未展开。",
+  "tech_stack": [
+    "C",
+    "FFmpeg",
+    "libavcodec",
+    "libavfilter",
+    "多媒体编解码"
+  ],
+  "problem_solved": "提供统一的跨平台音视频处理、解码、编码、转码和滤镜处理能力，简化多媒体应用的开发流程。",
+  "why_valuable": "广泛的格式支持和成熟的命令行工具链，使 FFmpeg 成为媒体处理、直播转码及自动化音视频流水线的核心基础设施。",
+  "tags": [
+    "FFmpeg",
+    "Video",
+    "Audio",
+    "Codec",
+    "Multimedia"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:52:31.377280+00:00",
+  "updated_at": "2026-11-20T16:53:17.815580+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261120-010",
+  "source": "rss",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+  "title": "UK fridges secured from hackers",
+  "summary": "该内容关注英国联网智能冰箱曾面临的黑客攻击风险，并通过渗透测试揭示相关物联网设备的安全漏洞。Pentest Partners 的研究文章及 BBC 后续报道介绍漏洞被发现、修复和设备防护的过程。",
+  "tech_stack": [
+    "IoT",
+    "Embedded Systems",
+    "Penetration Testing",
+    "Network Security"
+  ],
+  "problem_solved": "通过识别和修补联网智能冰箱中的安全漏洞，降低家庭物联网设备被未授权访问或操控的风险。",
+  "why_valuable": "智能家电正在进入家庭网络，其安全状况直接影响用户隐私、家庭网络和物理设备的安全。",
+  "tags": [
+    "IoT Security",
+    "Smart Fridge",
+    "Penetration Testing",
+    "Vulnerability Research",
+    "Hacking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-20T16:51:48.465439+00:00",
+  "updated_at": "2026-11-20T16:53:17.814927+00:00",
+  "published_to": []
+}
