@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261121-001",
+  "source": "rss",
+  "source_url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+  "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+  "summary": "文章讨论使用 Lean 形式化系统对黎曼猜想进行机器验证的联合声明，目标是提高这一重大数学猜想证明的可检查性与可信度。Lean Prover 社区通过公开相关证明工作及社区讨论，展示了形式化数学在复杂定理验证中的实际应用。",
+  "tech_stack": [
+    "Lean 4",
+    "Theorem Proving",
+    "Formal Mathematics",
+    "Mathlib"
+  ],
+  "problem_solved": "通过形式化证明与机器检查，减少黎曼猜想等复杂数学结果在人工验证中的错误风险，并提升证明的可复现性。",
+  "why_valuable": "机器可检查的证明能够为重大数学发现提供独立验证机制，并推动数学研究、教材和软件工具的可信化。",
+  "tags": [
+    "Lean",
+    "Riemann Hypothesis",
+    "Formal Verification",
+    "Theorem Proving",
+    "Mathematics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:00:04.941918+00:00",
+  "updated_at": "2026-11-21T16:02:38.944999+00:00",
+  "published_to": []
+}

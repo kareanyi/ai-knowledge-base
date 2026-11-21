@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261121-012",
+  "source": "rss",
+  "source_url": "https://ninlive.com/",
+  "title": "NINLIVE: The Nine Inch Nails live archive",
+  "summary": "NINLIVE 是一个 Nine Inch Nails 现场演出的非官方档案网站，用于集中收录和浏览该乐队的现场影像资源。页面还关联了 Hacker News 讨论，表明该项目在音乐爱好者社区获得了一定关注。",
+  "tech_stack": [],
+  "problem_solved": "为 Nine Inch Nails 粉丝提供集中、易于访问的现场演出档案，解决相关视频资源分散且难以检索的问题。",
+  "why_valuable": "它保存并整理了具有较高收藏价值的现场演出内容，方便乐迷回顾和探索乐队演出历史。",
+  "tags": [
+    "Live Archive",
+    "Nine Inch Nails",
+    "Video Archive",
+    "Music"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:01:44.622607+00:00",
+  "updated_at": "2026-11-21T16:02:38.953253+00:00",
+  "published_to": []
+}

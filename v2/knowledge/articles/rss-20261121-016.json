@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261121-016",
+  "source": "rss",
+  "source_url": "https://manidoraisamy.com/developer-to-architect.html",
+  "title": "We promoted developers into architects without informing them",
+  "summary": "文章探讨了企业在未与开发者充分沟通、未明确职责与能力要求的情况下，直接将其晋升为架构师所带来的组织问题。重点可能涉及角色转变、架构决策权、技能差距以及管理者沟通不足所造成的负面影响。",
+  "tech_stack": [],
+  "problem_solved": "它旨在揭示开发者晋升架构师过程中职责不清、能力要求缺失和沟通不足所引发的管理与工程风险。",
+  "why_valuable": "该话题帮助技术管理者重新审视晋升机制，并为架构师角色定义、能力培养和团队沟通提供参考。",
+  "tags": [
+    "Software Architecture",
+    "Career Development",
+    "Engineering Management",
+    "Organizational Design"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-21T16:02:22.276539+00:00",
+  "updated_at": "2026-11-21T16:02:38.953742+00:00",
+  "published_to": []
+}

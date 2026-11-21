@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261121-015",
+  "source": "rss",
+  "source_url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+  "title": "Hurried Announcement: Alessandro Masullo GRH",
+  "summary": "This post is a brief pointer to an announcement by Alessandro Masullo concerning the Generalized Riemann Hypothesis (GRH), alongside a related claim of a GRH proof by Levent Alpöge. The supplied content contains only links and Hacker News engagement statistics, so the announcement's methodology, rigor, and acceptance cannot be assessed from this excerpt.",
+  "tech_stack": [
+    "Mathematics",
+    "Number Theory",
+    "Generalized Riemann Hypothesis",
+    "Mathematical Research"
+  ],
+  "problem_solved": "It purports to present a proof or major new evidence concerning the Generalized Riemann Hypothesis.",
+  "why_valuable": "A valid proof of GRH would be a landmark achievement with profound implications for number theory and related areas such as cryptography and analytic mathematics.",
+  "tags": [
+    "GRH",
+    "Number Theory",
+    "Mathematical Proof",
+    "Research Announcement"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-21T16:02:16.823449+00:00",
+  "updated_at": "2026-11-21T16:02:38.953620+00:00",
+  "published_to": []
+}

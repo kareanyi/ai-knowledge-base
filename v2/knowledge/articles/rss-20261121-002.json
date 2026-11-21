@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261121-002",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+  "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+  "summary": "文章围绕大量叠氮铅堆积后的爆炸风险展开，探讨这种高危险性含能材料在储存和处理过程中的真实危害。由于现有内容仅包含标题、链接及讨论热度信息，具体实验过程与结论无法从所给文本中确认。",
+  "tech_stack": [
+    "Energetic Materials",
+    "Explosive Chemistry",
+    "Process Safety",
+    "Chemical Handling"
+  ],
+  "problem_solved": "揭示大量叠氮铅在意外起爆时可能发生链式爆炸的严重后果，并强调对爆炸性化学品进行安全隔离、评估和处置的必要性。",
+  "why_valuable": "该内容能够提高实验室和工业环境中相关人员对叠氮铅堆积爆炸危险的认识，从而减少误触、违规操作及重大事故的发生。",
+  "tags": [
+    "Explosives",
+    "Lead Azide",
+    "Chemical Safety",
+    "Energetic Materials",
+    "Risk Assessment"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:00:10.319188+00:00",
+  "updated_at": "2026-11-21T16:02:38.945313+00:00",
+  "published_to": []
+}

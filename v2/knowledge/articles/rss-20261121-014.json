@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261121-014",
+  "source": "rss",
+  "source_url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+  "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+  "summary": "DreamCoder 是一款由 Mastering Emacs 作者推出的编程代理控制台与集成开发环境，定位是为开发者提供更结构化、高效的智能编码工作流。文章通过产品发布介绍其理念与功能，并借助 Hacker News 上较高的讨论热度反映了开发者社区对新型 AI 编程工具的关注。",
+  "tech_stack": [
+    "Emacs",
+    "AI-assisted coding",
+    "IDE",
+    "Coding harness"
+  ],
+  "problem_solved": "它旨在改善开发者组织、运行和监督 AI 编程代理及完成日常代码工作的体验。",
+  "why_valuable": "将编程代理能力与交互式 IDE 结合，可以降低智能辅助开发的使用门槛并提升复杂编码任务的效率。",
+  "tags": [
+    "IDE",
+    "Developer Tools",
+    "AI Coding",
+    "Emacs",
+    "Coding Agent"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:02:04.900351+00:00",
+  "updated_at": "2026-11-21T16:02:38.953493+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261121-006",
+  "source": "rss",
+  "source_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+  "title": "RCE in Gnupg",
+  "summary": "该公告披露了 GnuPG 中可能导致远程代码执行（RCE）的安全漏洞，但所提供内容未包含漏洞编号、受影响版本、利用条件或修复细节。整体属于高风险安全事件通告，需要开发者和管理员核对官方公告并及时升级。",
+  "tech_stack": [
+    "GnuPG",
+    "OpenPGP",
+    "C"
+  ],
+  "problem_solved": "修复 GnuPG 中可被远程利用并导致任意代码执行的安全漏洞。",
+  "why_valuable": "及时处理该漏洞可降低攻击者入侵加密通信环境、窃取密钥或执行恶意代码的风险。",
+  "tags": [
+    "Security",
+    "RCE",
+    "GnuPG",
+    "Cryptography",
+    "Vulnerability"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-21T16:00:38.312027+00:00",
+  "updated_at": "2026-11-21T16:02:38.952528+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261121-004",
+  "source": "rss",
+  "source_url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+  "title": "My Monitor Was Cutting My Download Speed by 75%",
+  "summary": "文章调查了 Apple Studio Display 导致网络下载速度意外下降约 75% 的问题，重点关注其以太网连接与网络配置对实际传输性能的影响。文章旨在还原速度瓶颈的成因，并说明如何避免显示器网络接口成为设备联网时的性能短板。",
+  "tech_stack": [
+    "Ethernet",
+    "macOS",
+    "USB-C",
+    "Thunderbolt",
+    "Network Diagnostics"
+  ],
+  "problem_solved": "诊断并解决通过 Studio Display 的以太网接口联网时下载速度被显著限制的问题。",
+  "why_valuable": "它揭示了容易被忽略的显示器网络接口瓶颈，可帮助用户避免将设备瓶颈误判为宽带或路由器性能不足。",
+  "tags": [
+    "Networking",
+    "Ethernet",
+    "StudioDisplay",
+    "Performance",
+    "Troubleshooting"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:00:26.574907+00:00",
+  "updated_at": "2026-11-21T16:02:38.952231+00:00",
+  "published_to": []
+}

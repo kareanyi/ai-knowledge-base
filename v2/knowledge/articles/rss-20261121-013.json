@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261121-013",
+  "source": "rss",
+  "source_url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+  "title": "Inkling 2 Mini",
+  "summary": "Inkling 2 Mini 是 Thinking Machines Lab 推出的轻量化模型版本，内容重点应围绕更快速、更低成本的智能编程或生成式 AI 能力展开。所给材料仅包含标题、链接和 Hacker News 互动数据，未提供文章正文，因此其具体架构、支持语言及应用场景无法从当前内容中确认。",
+  "tech_stack": [
+    "Large Language Models",
+    "AI-assisted coding",
+    "Generative AI"
+  ],
+  "problem_solved": "旨在以更轻量、低延迟和低成本的模型能力提升代码生成与软件开发效率。",
+  "why_valuable": "Mini 版本有望降低 AI 编程模型的使用门槛和运行成本，同时保留实用的代码辅助能力。",
+  "tags": [
+    "Inkling",
+    "Language Models",
+    "AI Coding",
+    "Generative AI"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:01:55.337950+00:00",
+  "updated_at": "2026-11-21T16:02:38.953380+00:00",
+  "published_to": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261121-005",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+  "title": "FBI reportedly investigating apparent hack of its criminal database",
+  "summary": "报道称，FBI 正调查其刑事数据库疑似遭到入侵或篡改的事件。该事件反映执法机构关键数据库面临的网络安全风险，并可能影响案件信息完整性、数据可信度及公众信任。",
+  "tech_stack": [],
+  "problem_solved": "报道并分析 FBI 刑事数据库疑似遭黑客攻击事件及其潜在影响。",
+  "why_valuable": "该事件凸显关键公共安全数据系统的安全风险，有助于推动政府机构加强数据库防护、访问控制和事件响应机制。",
+  "tags": [
+    "Cybersecurity",
+    "Data Breach",
+    "FBI",
+    "Criminal Database",
+    "Hacking"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:00:31.798646+00:00",
+  "updated_at": "2026-11-21T16:02:38.952399+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261121-009",
+  "source": "rss",
+  "source_url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+  "title": "Clojure will affect the way you think about programming (2017)",
+  "summary": "文章探讨了 Clojure 如何通过 Lisp 式语法、不可变数据、函数式抽象、REPL 和宏机制，改变开发者组织代码与表达问题的思维方式。它认为 Clojure 的简洁性和可扩展性不仅能提升程序设计能力，还能帮助程序员形成更抽象、更关注组合与变换的编程认知。",
+  "tech_stack": [
+    "Clojure",
+    "JVM",
+    "Java Interop"
+  ],
+  "problem_solved": "通过展示 Clojure 的语言设计与开发体验，解答如何利用函数式 Lisp 思维改善程序设计方法并扩展开发者的抽象能力。",
+  "why_valuable": "它提供了一套由具体语言特性支撑的编程思维模型，对希望掌握函数式编程、构建可组合系统或提升代码抽象能力的开发者很有启发。",
+  "tags": [
+    "Clojure",
+    "Functional Programming",
+    "Lisp",
+    "Programming Paradigms",
+    "Software Design"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-21T16:01:17.356716+00:00",
+  "updated_at": "2026-11-21T16:02:38.952896+00:00",
+  "published_to": []
+}

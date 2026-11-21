@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261121-018",
+  "source": "rss",
+  "source_url": "https://klauria.tech/klauria-art/",
+  "title": "I'm quite pleased by the tech architecture of my art website",
+  "summary": "文章分享了作者个人艺术网站的技术架构，并表达了对整体设计方案的满意。文章还收录了对应的 Hacker News 讨论链接，但当前提供的内容未展示具体的架构细节或技术栈。",
+  "tech_stack": [],
+  "problem_solved": "通过合理的技术架构支撑个人艺术网站的内容展示与长期维护。",
+  "why_valuable": "为独立开发者构建艺术类网站提供了架构设计思路和实践参考。",
+  "tags": [
+    "Web Architecture",
+    "Art Website",
+    "Frontend",
+    "Personal Website"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-21T16:02:33.175947+00:00",
+  "updated_at": "2026-11-21T16:02:38.953973+00:00",
+  "published_to": []
+}

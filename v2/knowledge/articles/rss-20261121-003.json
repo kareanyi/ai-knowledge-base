@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261121-003",
+  "source": "rss",
+  "source_url": "https://simple-bench.com/",
+  "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+  "summary": "文章评测了 Astra 6.2 和 Sol 6.2 在 SimpleBench 上的表现，结果表明两者未能达到预期，甚至明显“翻车”。该内容通过公开基准测试与社区讨论，揭示了模型在复杂任务和实际推理能力上的潜在不足。",
+  "tech_stack": [
+    "SimpleBench",
+    "LLM Evaluation",
+    "AI Benchmarking"
+  ],
+  "problem_solved": "通过标准化基准测试评估 Astra 6.2 与 Sol 6.2 的任务执行和推理能力，避免仅依据厂商声明判断模型效果。",
+  "why_valuable": "独立且可复现的评测结果能帮助开发者和用户识别模型宣传与真实能力之间的差距，并为模型选型提供依据。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Benchmarking",
+    "Model Evaluation",
+    "Reasoning"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-21T16:00:18.067877+00:00",
+  "updated_at": "2026-11-21T16:02:38.945462+00:00",
+  "published_to": []
+}

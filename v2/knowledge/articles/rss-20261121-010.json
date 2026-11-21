@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261121-010",
+  "source": "rss",
+  "source_url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+  "title": "Serious cyberattack thought backed by wealthy operators",
+  "summary": "该报道关注一次可能由资金雄厚的攻击者策划或支持的严重网络攻击，并讨论相关幕后力量的影响。由于输入仅包含标题、链接及社区讨论数据，缺少攻击主体、技术细节和事件背景，无法判断事件的具体性质与可信度。",
+  "tech_stack": [],
+  "problem_solved": "报道旨在揭示严重网络攻击背后的资金与组织支持关系，帮助公众了解其潜在的复杂性和威胁程度。",
+  "why_valuable": "对网络攻击赞助者及其资源能力的关注，有助于提升网络安全防御、风险评估和事件响应的警惕性。",
+  "tags": [
+    "Cybersecurity",
+    "Cyberattack",
+    "Threat Intelligence",
+    "Attack Funding",
+    "Security"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-21T16:01:21.851642+00:00",
+  "updated_at": "2026-11-21T16:02:38.953020+00:00",
+  "published_to": []
+}

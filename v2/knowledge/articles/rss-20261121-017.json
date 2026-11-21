@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261121-017",
+  "source": "rss",
+  "source_url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+  "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+  "summary": "文章探讨无外力作用下的 Navier–Stokes 方程是否必然产生奇异性，并将这一问题与广义黎曼猜想建立联系。其核心可能涉及流体方程的正则性、谱理论工具以及黎曼 ζ 函数零点性质的类比。",
+  "tech_stack": [
+    "Navier–Stokes Equations",
+    "Partial Differential Equations",
+    "Fluid Dynamics",
+    "Riemann Zeta Function",
+    "Spectral Theory"
+  ],
+  "problem_solved": "试图刻画无外力 Navier–Stokes 流动中奇点的形成条件，并借广义黎曼猜想框架解释其正则性与频谱性质。",
+  "why_valuable": "该研究有望深化对经典流体方程全局平滑性与奇性机制的理解，同时展示数学猜想在 PDE 分析中的潜在应用。",
+  "tags": [
+    "Navier-Stokes",
+    "PDE",
+    "Singularity",
+    "Riemann Hypothesis",
+    "Fluid Dynamics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-21T16:02:27.219107+00:00",
+  "updated_at": "2026-11-21T16:02:38.953854+00:00",
+  "published_to": []
+}
