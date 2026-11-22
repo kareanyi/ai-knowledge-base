@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261122-008",
+  "source": "rss",
+  "source_url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+  "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+  "summary": "Toyota, Nissan, and Honda plan to standardize selected vehicle parts across their joint manufacturing operations to reduce costs. The initiative highlights cross-company cooperation and could improve procurement efficiency, production flexibility, and vehicle affordability.",
+  "tech_stack": [
+    "Automotive Manufacturing",
+    "Parts Standardization",
+    "Supply Chain Management"
+  ],
+  "problem_solved": "It addresses duplicated parts development, fragmented procurement, and higher production costs by enabling automakers to share standardized components.",
+  "why_valuable": "Shared parts can lower supply-chain complexity and manufacturing expenses, potentially translating into more affordable vehicles for consumers.",
+  "tags": [
+    "Automotive",
+    "Manufacturing",
+    "Cost Reduction",
+    "Supply Chain",
+    "Standardization"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:23.932692+00:00",
+  "updated_at": "2026-11-22T16:06:36.391363+00:00",
+  "published_to": []
+}

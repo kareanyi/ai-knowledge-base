@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261122-005",
+  "source": "rss",
+  "source_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+  "summary": "文章分析了2028年AI数据中心的电力来源构成，预测Anthropic相关用电中约87%来自天然气、11%来自煤炭。其重点是揭示AI算力扩张对传统能源系统和数据中心供电模式的依赖。",
+  "tech_stack": [
+    "Data Centers",
+    "Grid Power",
+    "Natural Gas",
+    "Coal",
+    "AI Infrastructure"
+  ],
+  "problem_solved": "量化AI数据中心扩张对不同能源来源的依赖，帮助评估算力增长带来的能源结构与环境影响。",
+  "why_valuable": "这些预测揭示了AI基础设施增长背后的能源成本、供电稳定性及碳排放挑战，为企业、监管者和投资者提供决策依据。",
+  "tags": [
+    "AI",
+    "Data Centers",
+    "Energy",
+    "Anthropic",
+    "Infrastructure"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:08.071797+00:00",
+  "updated_at": "2026-11-22T16:06:36.391002+00:00",
+  "published_to": []
+}

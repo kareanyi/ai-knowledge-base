@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261122-011",
+  "source": "rss",
+  "source_url": "https://stulle.app/",
+  "title": "Sandwich Simulator",
+  "summary": "《Sandwich Simulator》是一款以三明治制作为主题的浏览器互动模拟项目，主页位于 stulle.app。该内容在 Hacker News 获得了 413 分和 142 条评论，表明其趣味性与互动性受到较高关注，但现有信息未提供具体玩法与实现细节。",
+  "tech_stack": [
+    "Web 技术",
+    "JavaScript",
+    "HTML/CSS"
+  ],
+  "problem_solved": "通过浏览器提供轻松、直观的三明治制作模拟体验，无需安装原生应用即可游玩。",
+  "why_valuable": "将日常主题与互动模拟相结合，兼具娱乐性和演示价值，能够吸引非技术用户快速体验 Web 应用。",
+  "tags": [
+    "Simulation",
+    "WebGame",
+    "Interactive",
+    "Sandwich",
+    "Browser"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:43.009298+00:00",
+  "updated_at": "2026-11-22T16:06:36.391646+00:00",
+  "published_to": []
+}

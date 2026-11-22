@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261122-016",
+  "source": "rss",
+  "source_url": "https://pwn.ai/upload2shell",
+  "title": "Upload2Shell (CVE-2026-125396)",
+  "summary": "内容介绍名为 Upload2Shell 的安全漏洞（CVE-2026-125396），相关技术文章发布于 pwn.ai，并在 Hacker News 社区获得较多讨论。当前提供的正文仅包含标题、链接和社区互动数据，未披露受影响组件、漏洞原理、利用方式或修复方案等关键细节。",
+  "tech_stack": [
+    "Shell",
+    "File Upload",
+    "CVE"
+  ],
+  "problem_solved": "该内容旨在分析并披露一个可能导致攻击者通过文件上传路径获得 Shell 执行权限或远程代码执行的高危漏洞。",
+  "why_valuable": "对安全研究者和系统管理员而言，理解该漏洞有助于评估暴露面、实施补丁与加固，并检查自身系统是否已被利用。",
+  "tags": [
+    "Cybersecurity",
+    "CVE",
+    "File Upload",
+    "Remote Code Execution",
+    "Shell Exploitation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-22T16:06:09.816448+00:00",
+  "updated_at": "2026-11-22T16:06:36.392047+00:00",
+  "published_to": []
+}

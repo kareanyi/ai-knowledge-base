@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261122-014",
+  "source": "rss",
+  "source_url": "https://linebender.org/blog/next-100-guis/",
+  "title": "Advice for the next 100 Rust GUIs",
+  "summary": "文章面向 Rust GUI 开发者，探讨如何构建未来 100 个高质量 Rust GUI 项目，重点涉及生态协作、技术选型与工程实践。其目标是通过总结现有项目和框架需求，缩小重复开发，塑造更具可持续性的 Rust GUI 技术生态。",
+  "tech_stack": [
+    "Rust",
+    "GUI",
+    "Winit",
+    "Tauri",
+    "EGUI"
+  ],
+  "problem_solved": "减少 Rust GUI 生态中的重复开发与碎片化，并为新项目提供可复用的架构、工具和实践指导。",
+  "why_valuable": "通过汇集开发者观点和项目经验，该文章能够帮助团队更高效地选择技术路线并推动 Rust GUI 生态成熟。",
+  "tags": [
+    "Rust",
+    "GUI",
+    "Software Architecture",
+    "Developer Experience",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-22T16:06:00.789310+00:00",
+  "updated_at": "2026-11-22T16:06:36.391891+00:00",
+  "published_to": []
+}

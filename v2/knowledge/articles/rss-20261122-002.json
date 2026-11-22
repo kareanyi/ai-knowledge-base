@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261122-002",
+  "source": "rss",
+  "source_url": "https://github.com/gulivan/worker755",
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "summary": "worker755 是一款以“扮演 LLM 子代理”为主题的游戏，玩家在模拟大语言模型代理协作流程的环境中完成游戏任务。项目通过将 AI 子代理概念游戏化，展示了任务委派、代理协作与自主执行等机制。该内容主要提供 GitHub 仓库、Show HN 讨论入口及社区反馈数据。",
+  "tech_stack": [
+    "LLM",
+    "AI Agents",
+    "GitHub"
+  ],
+  "problem_solved": "它以互动游戏的方式帮助玩家理解和体验 LLM 子代理在任务执行与代理协作中的角色。",
+  "why_valuable": "这种创新形式降低了理解 AI Agent 架构与子代理概念的门槛，同时为 AI 游戏和代理系统实验提供了新思路。",
+  "tags": [
+    "LLM",
+    "AI Agent",
+    "Game",
+    "Subagent",
+    "Show HN"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-22T16:04:53.796203+00:00",
+  "updated_at": "2026-11-22T16:06:36.384315+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261122-007",
+  "source": "rss",
+  "source_url": "https://github.com/EL4CTEO/fast-anything",
+  "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+  "summary": "Fast-Anything 提出一种渐进式性能优化思路：不将整个项目重写为 Rust，而是通过分析找出真正影响性能的关键代码，仅重写其中约 5% 的慢路径。这样既能利用 Rust 的性能优势，也能显著降低大型系统迁移和改造成本。",
+  "tech_stack": [
+    "Rust"
+  ],
+  "problem_solved": "解决大型项目整体重写成本过高、收益难以确定，同时又存在明显性能瓶颈的问题。",
+  "why_valuable": "它将性能优化从高风险的全量重构转变为可测量、可渐进实施的局部改进，从而提高采用 Rust 等高性能技术的投入产出比。",
+  "tags": [
+    "Rust",
+    "Performance",
+    "Profiling",
+    "Optimization",
+    "Refactoring"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:20.016575+00:00",
+  "updated_at": "2026-11-22T16:06:36.391209+00:00",
+  "published_to": []
+}

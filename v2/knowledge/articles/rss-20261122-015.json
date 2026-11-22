@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261122-015",
+  "source": "rss",
+  "source_url": "https://www.pandex.io",
+  "title": "Pandex – Official European Law for AI Agents, over MCP",
+  "summary": "Pandex 是一个面向 AI Agent 的欧洲官方法律信息服务，通过模型上下文协议（MCP）提供法律内容的结构化访问。它旨在让 AI 系统能够检索、引用并应用欧盟法律及相关官方资料，从而支持法律问答、合规分析和自动化决策工作流。",
+  "tech_stack": [
+    "MCP",
+    "AI Agents",
+    "European Law",
+    "LegalTech",
+    "API"
+  ],
+  "problem_solved": "解决 AI Agent 难以可靠检索、理解和引用欧洲官方法律资料的问题。",
+  "why_valuable": "它以标准化方式为 AI Agent 提供权威法律数据，有助于提升法律问答与合规应用的准确性和可追溯性。",
+  "tags": [
+    "AI",
+    "MCP",
+    "LegalTech",
+    "EU Law",
+    "AI Agents"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-22T16:06:04.938298+00:00",
+  "updated_at": "2026-11-22T16:06:36.391978+00:00",
+  "published_to": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261122-012",
+  "source": "rss",
+  "source_url": "https://alperenkeles.com/posts/vocab-for-testing/",
+  "title": "A Better Vocabulary for Testing",
+  "summary": "文章围绕软件测试领域中的术语与表达展开，旨在建立更清晰、一致的测试分类和沟通词汇。当前输入仅包含标题、链接及少量社区讨论信息，未提供文章正文，因此无法确认其具体测试框架、方法论或实现细节。",
+  "tech_stack": [
+    "Software Testing",
+    "Test Automation"
+  ],
+  "problem_solved": "解决测试团队在描述测试类型、层级和质量概念时术语混乱、沟通不清晰的问题。",
+  "why_valuable": "统一测试语言有助于团队准确讨论测试范围与质量，减少误解并提升协作效率。",
+  "tags": [
+    "Testing",
+    "Vocabulary",
+    "Software Quality",
+    "Team Communication"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:48.170332+00:00",
+  "updated_at": "2026-11-22T16:06:36.391748+00:00",
+  "published_to": []
+}

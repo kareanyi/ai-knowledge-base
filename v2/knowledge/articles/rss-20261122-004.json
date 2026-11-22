@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261122-004",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Nov/21/muru/",
+  "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+  "summary": "Muru 是由 mod_wsgi 创建者推出的 Rust Web 服务器，面向 Python 应用程序提供服务。项目借助 AI 辅助开发，目标是结合 Rust 的性能与优势，为 Python Web 应用提供更高效、轻量的部署方案。",
+  "tech_stack": [
+    "Rust",
+    "Python",
+    "WSGI",
+    "mod_wsgi",
+    "AI-assisted Development"
+  ],
+  "problem_solved": "解决 Python Web 应用服务器在性能、部署效率与资源占用方面存在局限的问题。",
+  "why_valuable": "它可能为现有 Python/WSGI 应用提供兼具高性能与 Rust 可靠性的新型生产部署基础设施。",
+  "tags": [
+    "Rust",
+    "Python",
+    "Web Server",
+    "WSGI",
+    "AI Development"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:02.855432+00:00",
+  "updated_at": "2026-11-22T16:06:36.390843+00:00",
+  "published_to": []
+}

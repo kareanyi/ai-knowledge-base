@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261122-009",
+  "source": "rss",
+  "source_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+  "title": "Data Processing Incidents on Inference Providers",
+  "summary": "OpenRouter 发布了关于推理提供商数据处理事件的公告，旨在披露相关事件及其对用户数据处理实践的影响。由于提供内容仅包含标题、链接和讨论热度，文章的具体事件、技术细节与应对措施无法从现有信息中进一步确认。",
+  "tech_stack": [],
+  "problem_solved": "通过公开说明推理提供商的数据处理事件，帮助用户评估 AI 服务中的数据隐私、安全与供应链风险。",
+  "why_valuable": "提高 AI 推理服务数据处理过程的透明度，并支持用户基于风险信息做出更明智的模型提供商选择。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Data Privacy",
+    "Security",
+    "Transparency"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:28.961518+00:00",
+  "updated_at": "2026-11-22T16:06:36.391465+00:00",
+  "published_to": []
+}

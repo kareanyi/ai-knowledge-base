@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261122-013",
+  "source": "rss",
+  "source_url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+  "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+  "summary": "PcapAnalyzer 是一个可自行托管的 PCAP 网络流量分析工具，内置 27 种问题检测器，用于发现数据包中的异常、配置错误或潜在网络问题。项目支持在自有环境中处理抓包数据，定位了需要人工检查原始流量文件和进行集中式网络分析的用户。该项目获得 141 个 Hacker News 讨论积分和 19 条评论，具有一定社区关注度。",
+  "tech_stack": [
+    "PCAP",
+    "Network Traffic Analysis",
+    "Self-hosted",
+    "Python"
+  ],
+  "problem_solved": "它通过自动化检测规则分析 PCAP 文件，帮助用户快速发现网络数据包中的异常和潜在问题。",
+  "why_valuable": "它降低了网络故障排查和流量审查的门槛，同时通过自托管方式提升数据隐私与部署灵活性。",
+  "tags": [
+    "Network Analysis",
+    "PCAP",
+    "Self-hosted",
+    "Packet Inspection",
+    "Security"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:52.830252+00:00",
+  "updated_at": "2026-11-22T16:06:36.391818+00:00",
+  "published_to": []
+}

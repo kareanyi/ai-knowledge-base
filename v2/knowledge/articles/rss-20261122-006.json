@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261122-006",
+  "source": "rss",
+  "source_url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+  "title": "Notes on the discrete Fourier transform (DFT)",
+  "summary": "这是一篇关于离散傅里叶变换（DFT）的学习笔记，旨在梳理其数学原理、计算过程及相关概念。内容面向希望深入理解频域分析与数字信号处理基础技术的读者。",
+  "tech_stack": [
+    "Discrete Fourier Transform",
+    "Digital Signal Processing",
+    "Complex Analysis",
+    "Numerical Analysis"
+  ],
+  "problem_solved": "帮助读者系统理解离散傅里叶变换的数学原理及其在频域分析中的作用。",
+  "why_valuable": "DFT 是信号处理、音频分析、通信和机器学习等领域的重要基础工具，掌握其原理有助于提升频谱分析能力。",
+  "tags": [
+    "DFT",
+    "Signal Processing",
+    "Fourier Transform",
+    "Frequency Analysis",
+    "Mathematics"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-22T16:05:12.654388+00:00",
+  "updated_at": "2026-11-22T16:06:36.391114+00:00",
+  "published_to": []
+}
