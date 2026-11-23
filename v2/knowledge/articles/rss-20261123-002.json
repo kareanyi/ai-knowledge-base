@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261123-002",
+  "source": "rss",
+  "source_url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+  "title": "Apple removed my open-source app from EU App Stores after 9 years",
+  "summary": "文章讨论开发者的开源笔记应用 FSNotes 在上线近九年后被 Apple 从欧盟区的 App Store 下架，以及开发者对下架原因和 Apple 区域应用政策不一致性的质疑。相关 Hacker News 讨论凸显了应用商店审核、平台治理规则及开源软件分发渠道对开发者的影响。",
+  "tech_stack": [
+    "Swift",
+    "SwiftUI",
+    "iOS",
+    "macOS",
+    "Apple App Store"
+  ],
+  "problem_solved": "FSNotes 提供面向 Apple 生态系统的开源笔记与文本管理功能，并帮助用户以开放方式管理和存储个人笔记。",
+  "why_valuable": "该事件揭示了大型应用商店的平台政策可能直接影响长期开源项目的可用性、分发稳定性和开发者权益。",
+  "tags": [
+    "Open Source",
+    "Apple",
+    "App Store",
+    "EU Regulation",
+    "Developer Rights"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-23T19:59:53.136793+00:00",
+  "updated_at": "2026-11-23T20:01:23.523722+00:00",
+  "published_to": []
+}

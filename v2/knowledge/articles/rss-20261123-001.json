@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261123-001",
+  "source": "rss",
+  "source_url": "https://arm.jonpalmisc.com/",
+  "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+  "summary": "该网站因 ARM 方面的要求，已决定于 2026 年 12 月 4 日停止运营。文章还链接到对应的 Hacker News 讨论区，目前获得了 193 分和 32 条评论，但正文未提供网站功能或技术实现的详细信息。",
+  "tech_stack": [],
+  "problem_solved": "文章通报该站点即将停运及其时间安排，但未明确说明原网站所解决的具体问题。",
+  "why_valuable": "它为关注该站点状态、停运原因及 ARM 相关知识产权或授权问题的读者提供了关键公告。",
+  "tags": [
+    "ARM",
+    "Website",
+    "Shutdown",
+    "Hacker News",
+    "Legal"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-23T19:59:47.355107+00:00",
+  "updated_at": "2026-11-23T20:01:23.523397+00:00",
+  "published_to": []
+}

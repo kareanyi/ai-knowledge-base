@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261123-015",
+  "source": "rss",
+  "source_url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+  "title": "Don't keep your SSH keys on disk",
+  "summary": "文章探讨了 SSH 私钥直接保存在磁盘上的安全风险，并主张避免让长期有效的私钥以明文文件形式存在。核心思路是利用 SSH Agent 等临时密钥持有机制，降低私钥泄露、被恶意软件读取或被备份系统意外收集的概率。",
+  "tech_stack": [
+    "SSH",
+    "OpenSSH",
+    "ssh-agent",
+    "FIDO2"
+  ],
+  "problem_solved": "降低 SSH 私钥长期存储在本地磁盘上时被未授权读取、复制或滥用的安全风险。",
+  "why_valuable": "通过减少磁盘上的长期凭据，可以显著缩小攻击面并提高多服务器运维环境中的身份凭据安全性。",
+  "tags": [
+    "SSH",
+    "Security",
+    "Key Management",
+    "Authentication"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-23T20:01:01.111994+00:00",
+  "updated_at": "2026-11-23T20:01:23.530498+00:00",
+  "published_to": []
+}

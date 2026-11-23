@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261123-014",
+  "source": "rss",
+  "source_url": "https://z.ai/blog/glm-5.4",
+  "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+  "summary": "GLM-5.4 是智谱 AI 推出的新一代编程模型，目标是实现更通用的代码生成与软件工程任务。其核心特性是首次采用 loop transformer 架构，通过循环式信息处理提升模型处理复杂、持续性编程任务的能力。",
+  "tech_stack": [
+    "GLM-5.4",
+    "Loop Transformer",
+    "Large Language Models",
+    "Code Generation"
+  ],
+  "problem_solved": "该模型旨在提升 AI 在复杂编程、代码生成及通用软件工程任务中的能力，减少人工编写和迭代代码的成本。",
+  "why_valuable": "循环式模型架构有望增强代码任务的持续推理与迭代能力，从而提高 AI 编程工具在真实开发场景中的实用性。",
+  "tags": [
+    "AI",
+    "Coding",
+    "Transformer",
+    "Software Engineering",
+    "Foundation Model"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:55.834074+00:00",
+  "updated_at": "2026-11-23T20:01:23.530401+00:00",
+  "published_to": []
+}

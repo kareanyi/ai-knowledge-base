@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261123-013",
+  "source": "rss",
+  "source_url": "https://github.com/os6/nospeaker",
+  "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+  "summary": "Nospeaker 是一项利用 MacBook 触控板中的触觉马达（通常是 Taptic Engine）播放声音的实验性项目。它尝试将原本用于触感反馈的硬件逆向转换为简易扬声器，为 macOS 设备提供一种 unconventional 的音频输出方式。",
+  "tech_stack": [
+    "Swift",
+    "macOS",
+    "AudioToolbox",
+    "AppKit",
+    "Taptic Engine"
+  ],
+  "problem_solved": "在没有外接扬声器或耳机时，探索通过 MacBook 触控板触觉马达直接发声的方法。",
+  "why_valuable": "该实验展示了消费电子触觉硬件的隐藏音频潜力，对硬件逆向、macOS 音频编程和创客实验具有参考价值。",
+  "tags": [
+    "macOS",
+    "Haptics",
+    "Audio",
+    "Hardware",
+    "Reverse Engineering"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:51.566913+00:00",
+  "updated_at": "2026-11-23T20:01:23.530319+00:00",
+  "published_to": []
+}

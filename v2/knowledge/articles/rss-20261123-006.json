@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261123-006",
+  "source": "rss",
+  "source_url": "https://ladybird.org/posts/alpha/",
+  "title": "Ladybird is now in alpha",
+  "summary": "Ladybird 宣布进入 alpha 阶段，正式推出可运行的早期版本。它是一款旨在提供独立、开源且不依赖 Chromium 等现有浏览器引擎的实验性浏览器，项目源自 SerenityOS 生态并获得了 Hacker News 社区的广泛关注。",
+  "tech_stack": [
+    "C++",
+    "SerenityOS",
+    "WebKit",
+    "POSIX",
+    "Unix"
+  ],
+  "problem_solved": "为开发者提供一个脱离 Chromium 等主流浏览器技术栈、可独立演进的开源浏览器及其渲染引擎。",
+  "why_valuable": "它推动浏览器内核实现的多样化，并为 Web 技术、操作系统和浏览器基础设施的创新研究与实验提供新的开源平台。",
+  "tags": [
+    "Browser",
+    "Open Source",
+    "Web Engine",
+    "Alpha Release",
+    "SerenityOS"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:15.191193+00:00",
+  "updated_at": "2026-11-23T20:01:23.529696+00:00",
+  "published_to": []
+}

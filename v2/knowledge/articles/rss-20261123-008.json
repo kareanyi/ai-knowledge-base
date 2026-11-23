@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261123-008",
+  "source": "rss",
+  "source_url": "https://boland.dev/snet/",
+  "title": "Building a wireless network adapter for the Super Nintendo",
+  "summary": "该项目为超级任天堂（SNES）设计并构建一款无线网络适配器，使经典游戏机能够接入无线网络。内容重点应是硬件适配器的设计、实现过程以及与原版 SNES 接口的集成。",
+  "tech_stack": [
+    "SNES",
+    "Wireless Networking",
+    "Custom Hardware",
+    "Embedded Systems"
+  ],
+  "problem_solved": "为不支持现代网络连接的超级任天堂提供无线联网能力。",
+  "why_valuable": "它既扩展了经典游戏机的功能，也为复古硬件与网络通信结合提供了具有实践价值的实现方案。",
+  "tags": [
+    "Retro Gaming",
+    "Wireless Network",
+    "Hardware",
+    "SNES",
+    "DIY"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:27.986182+00:00",
+  "updated_at": "2026-11-23T20:01:23.529884+00:00",
+  "published_to": []
+}

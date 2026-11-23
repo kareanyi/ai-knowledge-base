@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261123-004",
+  "source": "rss",
+  "source_url": "https://blog.kagi.com/kagi-mail-public-beta",
+  "title": "Kagi Mail (public beta)",
+  "summary": "Kagi Mail 已进入公开测试阶段，是 Kagi 推出的邮箱服务。该内容主要公布了产品测试发布及社区讨论信息，但未提供详细功能、技术实现或收费方案。",
+  "tech_stack": [],
+  "problem_solved": "为用户提供一个由 Kagi 推出的替代性邮箱服务，以满足日常收发邮件及隐私保护需求。",
+  "why_valuable": "公开测试让用户能够提前体验并反馈产品，同时可能为 Kagi 扩展搜索服务之外的生态提供入口。",
+  "tags": [
+    "Email",
+    "Kagi",
+    "Public Beta",
+    "Privacy",
+    "Product Launch"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:02.215290+00:00",
+  "updated_at": "2026-11-23T20:01:23.529398+00:00",
+  "published_to": []
+}

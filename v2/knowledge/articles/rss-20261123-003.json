@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261123-003",
+  "source": "rss",
+  "source_url": "https://www.greptile.com/blog/trex-computer-use",
+  "title": "How should an LLM see a computer?",
+  "summary": "文章探讨大语言模型应当如何感知和操作计算机，可能涉及将视觉理解、界面交互与工具调用结合，使模型能够像用户一样在图形环境中完成任务。当前提供的元信息较少，具体技术方案无法从内容中确认。",
+  "tech_stack": [
+    "LLM",
+    "Computer Use",
+    "Vision-Language Models",
+    "Tool Use"
+  ],
+  "problem_solved": "解决大语言模型难以理解计算机图形界面并可靠执行跨应用操作的问题。",
+  "why_valuable": "计算机使用能力可让模型从仅生成文本扩展到操作真实软件，从而支持更广泛的自动化任务。",
+  "tags": [
+    "LLM",
+    "Computer Use",
+    "AI Agents",
+    "Automation",
+    "Multimodal AI"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-23T19:59:58.015102+00:00",
+  "updated_at": "2026-11-23T20:01:23.523830+00:00",
+  "published_to": []
+}

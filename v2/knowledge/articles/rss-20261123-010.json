@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261123-010",
+  "source": "rss",
+  "source_url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+  "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+  "summary": "NariQ 将 270 亿参数的 Qwen3.8 模型量化为 3-bit 或更低精度，并以 GGUF 格式封装在约 10 GB 文件中。实验结果显示，3-bit 和 2.5-bit 版本在智能体任务、数学推理、多语言及图像理解等方面接近 BF16 性能，而 2-bit 版本出现较明显退化。",
+  "tech_stack": [
+    "GGUF",
+    "BF16",
+    "Model Quantization",
+    "Qwen",
+    "Hugging Face"
+  ],
+  "problem_solved": "在大幅降低大语言模型显存、存储和部署成本的同时，尽可能保留原始 BF16 模型的推理与智能体能力。",
+  "why_valuable": "低比特 GGUF 量化能够让 27B 级模型更容易地运行于消费级硬件和受限部署环境，同时维持较高的任务表现。",
+  "tags": [
+    "LLM",
+    "Quantization",
+    "GGUF",
+    "Qwen",
+    "Local AI"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:36.708802+00:00",
+  "updated_at": "2026-11-23T20:01:23.530052+00:00",
+  "published_to": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261123-005",
+  "source": "rss",
+  "source_url": "https://twitter.com/ylecun/status/2124550037912920090",
+  "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+  "summary": "文章质疑 Dario 对开放权重模型风险的强调，认为其真正动机可能是将开源模型非法化或边缘化，从而维持行业控制权。现有材料仅包含社交媒体帖子、讨论链接及互动数据，主要呈现一种批判开源 AI 监管与权力集中趋势的观点。",
+  "tech_stack": [
+    "Open-source AI models",
+    "X (Twitter)"
+  ],
+  "problem_solved": "揭示围绕开源 AI 模型安全风险的话语可能被用于限制技术传播并强化既有机构的监管与控制权。",
+  "why_valuable": "它促使决策者和开发者审视开源模型的合法性与风险叙事是否服务于公共利益，而非特定商业或政治优势。",
+  "tags": [
+    "Open Source",
+    "AI Models",
+    "AI Safety",
+    "Regulation",
+    "Power"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:07.195820+00:00",
+  "updated_at": "2026-11-23T20:01:23.529587+00:00",
+  "published_to": []
+}

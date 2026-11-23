@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261123-018",
+  "source": "rss",
+  "source_url": "https://spelunkr.tv",
+  "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+  "summary": "Spelunkr.tv 是一个免费的替代电视网络，将互联网档案馆中容易被遗忘的视频重新汇聚并通过网页提供观看。它旨在利用庞大的公共视频档案打造一个具有电视频道体验感的独立媒体平台。",
+  "tech_stack": [
+    "Internet Archive",
+    "HTML",
+    "JavaScript"
+  ],
+  "problem_solved": "解决互联网档案馆中大量旧视频缺乏发现渠道、难以被公众观看和重新传播的问题。",
+  "why_valuable": "它让文化遗产和历史影像获得了新的传播渠道，并以低成本提供独特的电视式观看体验。",
+  "tags": [
+    "Internet Archive",
+    "Streaming",
+    "Video",
+    "Digital Culture",
+    "Open Media"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-23T20:01:19.047934+00:00",
+  "updated_at": "2026-11-23T20:01:23.530741+00:00",
+  "published_to": []
+}

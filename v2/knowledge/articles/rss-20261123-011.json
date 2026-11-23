@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261123-011",
+  "source": "rss",
+  "source_url": "https://github.com/mikuta0407/win4wine",
+  "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+  "summary": "Win4wine 是一个运行于 Wine 之上的开源项目，尝试在 Linux 桌面环境中启动并集成 Windows Shell。它为习惯 Windows 操作方式、同时希望保留 Linux 系统环境的用户提供了一种桌面外壳替代方案。",
+  "tech_stack": [
+    "Linux",
+    "Wine",
+    "Windows Shell",
+    "GitHub"
+  ],
+  "problem_solved": "解决 Linux 用户无法直接使用 Windows Shell 桌面交互体验的问题。",
+  "why_valuable": "它降低了 Linux 与 Windows 软件生态之间的使用摩擦，同时保留 Linux 作为底层操作系统和桌面环境的优势。",
+  "tags": [
+    "Linux",
+    "Wine",
+    "Windows Shell",
+    "Desktop",
+    "Compatibility"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-23T20:00:41.688403+00:00",
+  "updated_at": "2026-11-23T20:01:23.530134+00:00",
+  "published_to": []
+}
