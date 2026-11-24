@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261124-014",
+  "source": "rss",
+  "source_url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+  "title": "Worshipping at the altar of Brendan Gregg",
+  "summary": "这篇文章以 Brendan Gregg 为主题，标题暗示其观点或方法在技术社区中受到近乎“崇拜式”的推崇。文章可能围绕 Brendan Gregg 的性能诊断思想展开讨论或反思，并通过 Hacker News 社区反馈体现相关观点的争议性与影响力。",
+  "tech_stack": [
+    "Linux",
+    "eBPF",
+    "Flame Graphs",
+    "Observability",
+    "Performance Engineering"
+  ],
+  "problem_solved": "讨论如何借助 Brendan Gregg 倡导的性能分析与可观测性方法定位复杂系统中的性能瓶颈，同时审视其观点被过度推崇的问题。",
+  "why_valuable": "Brendan Gregg 的实践方法对系统性能诊断具有重要参考价值，而对这种观点进行批判性讨论有助于读者避免盲目照搬。",
+  "tags": [
+    "Performance",
+    "Observability",
+    "eBPF",
+    "Flame Graphs",
+    "Brendan Gregg"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-24T19:28:18.402367+00:00",
+  "updated_at": "2026-11-24T19:29:14.564252+00:00",
+  "published_to": []
+}

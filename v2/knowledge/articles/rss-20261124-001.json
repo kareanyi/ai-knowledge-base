@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261124-001",
+  "source": "rss",
+  "source_url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+  "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+  "summary": "该内容介绍 OpenAI 在 GitHub 发布的一份数学预印本，声称区分了复杂性类 VP 与 VNP，并讨论其与 P=NP 问题的关联。现有材料仅包含标题、仓库地址及少量社区讨论数据，因此具体证明思路、结论强度和同行评审状态尚不明确。",
+  "tech_stack": [
+    "LaTeX",
+    "GitHub",
+    "Mathematics"
+  ],
+  "problem_solved": "研究确定性多项式时间可验证问题类 VP 与非确定性多项式时间问题类 VNP 之间的结构差异及其计算复杂性意义。",
+  "why_valuable": "若相关区分结果严谨成立，将有助于澄清 P 与 NP 之间的逻辑边界，并推动复杂性理论及可验证计算问题的研究。",
+  "tags": [
+    "Complexity Theory",
+    "VP",
+    "VNP",
+    "P vs NP",
+    "Mathematics"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-24T19:27:05.477661+00:00",
+  "updated_at": "2026-11-24T19:29:14.555691+00:00",
+  "published_to": []
+}

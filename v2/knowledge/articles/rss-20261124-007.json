@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261124-007",
+  "source": "rss",
+  "source_url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+  "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+  "summary": "报道称，曾与英伟达合作的 Megaspeed 被美国商务部实施出口禁令，反映美国对相关科技企业及供应链的出口管制正在加强。由于所提供内容仅包含标题、链接和讨论元数据，禁令的具体对象、原因、涉及产品及影响尚不明确。",
+  "tech_stack": [],
+  "problem_solved": "报道美国出口管制政策对 Megaspeed 及其与英伟达相关业务造成的合规与供应链影响。",
+  "why_valuable": "该事件有助于了解美国科技出口限制如何直接影响半导体企业、合作关系与市场准入。",
+  "tags": [
+    "Export Controls",
+    "NVIDIA",
+    "Semiconductors",
+    "Supply Chain",
+    "Geopolitics"
+  ],
+  "score": 4,
+  "status": "published",
+  "created_at": "2026-11-24T19:27:48.208301+00:00",
+  "updated_at": "2026-11-24T19:29:14.563325+00:00",
+  "published_to": []
+}

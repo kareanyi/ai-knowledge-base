@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261124-002",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+  "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+  "summary": "路透社报道，微软在一场历史性服务中断后将内部状态升级为“Code Red”，相关决定通过内部备忘录曝光。此次事件涉及微软云端或企业级服务的大规模可用性故障，并暴露了其在重大事故响应与内部沟通方面的情况。",
+  "tech_stack": [
+    "Microsoft Azure",
+    "Microsoft 365",
+    "云计算",
+    "分布式系统"
+  ],
+  "problem_solved": "文章聚焦微软重大服务中断后的事故响应，揭示了大型云平台在处理高可用性故障与内部危机升级时面临的问题。",
+  "why_valuable": "通过内部备忘录和官方表态，该事件为理解超大规模云服务的可靠性、故障治理及企业级事故响应机制提供了参考。",
+  "tags": [
+    "Microsoft",
+    "Cloud Outage",
+    "Incident Response",
+    "Reliability",
+    "Azure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-24T19:27:11.729439+00:00",
+  "updated_at": "2026-11-24T19:29:14.555957+00:00",
+  "published_to": []
+}

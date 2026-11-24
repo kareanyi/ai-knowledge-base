@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261124-003",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50630809",
+  "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+  "summary": "文章讨论一家使用 Anthropic API 的公司被指控进行模型蒸馏，以及企业如何在保护用户隐私的同时证明自己没有训练或蒸馏 Anthropic 的模型。作者称唯一可能被误判的行为是修改 AI 设置后自动运行回归基准测试，并希望在 24 小时期限内找到合规的举证方式。",
+  "tech_stack": [
+    "Anthropic API",
+    "LLM",
+    "Regression Testing",
+    "Model Distillation"
+  ],
+  "problem_solved": "为企业提供在隐私保护、API 合规和模型行为验证之间取得平衡的调查与举证思路，以应对模型蒸馏指控。",
+  "why_valuable": "该讨论揭示了生成式 AI 服务条款、自动化测试和数据隐私之间的实际冲突，可帮助 API 使用者改进审计、记录与合规沟通流程。",
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Model Distillation",
+    "API Compliance",
+    "Privacy"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-24T19:27:24.154643+00:00",
+  "updated_at": "2026-11-24T19:29:14.556093+00:00",
+  "published_to": []
+}

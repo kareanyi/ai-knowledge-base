@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261124-006",
+  "source": "rss",
+  "source_url": "https://masondata.ai/",
+  "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+  "summary": "Mason 是一款开源、轻量级的 PostgreSQL 只读副本替代方案，通过 DuckDB 的列式计算引擎加速分析型查询。项目旨在提供可直接接入现有 PostgreSQL 数据源的方案，同时降低 ClickHouse 等列式数据库的使用与优化门槛。",
+  "tech_stack": [
+    "PostgreSQL",
+    "DuckDB",
+    "Columnar Storage",
+    "SQL",
+    "Open Source"
+  ],
+  "problem_solved": "它解决在保持 PostgreSQL 使用方式的同时，高效执行大规模分析查询并避免传统行式数据库性能瓶颈的问题。",
+  "why_valuable": "它结合了 PostgreSQL 的兼容性与 DuckDB 的高性能列式分析能力，使团队能够低成本地为现有数据基础设施添加快速查询层。",
+  "tags": [
+    "PostgreSQL",
+    "DuckDB",
+    "Analytics",
+    "Columnar Database",
+    "Open Source"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-24T19:27:44.129737+00:00",
+  "updated_at": "2026-11-24T19:29:14.563182+00:00",
+  "published_to": []
+}

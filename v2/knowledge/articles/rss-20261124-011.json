@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261124-011",
+  "source": "rss",
+  "source_url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+  "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+  "summary": "文章探讨如何在同一个 USB-C 接口中同时处理 USB 3 和 USB 2 数据连接，重点分析其线序、通道复用及实现限制。由于 USB-C 使用可逆接口，不同协议的信号布局并不完全对称，因此双协议支持需要特殊的引脚与布线设计。",
+  "tech_stack": [
+    "USB-C",
+    "USB 3.0",
+    "USB 2.0",
+    "USB Power Delivery",
+    "Hardware Design"
+  ],
+  "problem_solved": "解释了在单个 USB-C 端口中同时提供 USB 3 与 USB 2 连接的可行方式及其硬件设计注意事项。",
+  "why_valuable": "有助于硬件开发者和高级用户理解 USB-C 双协议兼容的原理，避免因接口线序或通道共享导致的兼容性、设计与故障排查问题。",
+  "tags": [
+    "USB-C",
+    "USB 3",
+    "USB 2",
+    "Hardware",
+    "Connectivity"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-24T19:28:05.655355+00:00",
+  "updated_at": "2026-11-24T19:29:14.563861+00:00",
+  "published_to": []
+}

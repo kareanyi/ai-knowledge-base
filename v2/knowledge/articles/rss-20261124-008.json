@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261124-008",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2611.30835",
+  "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+  "summary": "文章探讨了 KL 散度在数学理论上始终非负，但在 PyTorch 的实际计算中却可能出现负值这一看似矛盾的现象。其核心可能涉及浮点误差、稳定性不足以及不同计算实现之间的差异，并解释如何在实践中避免或诊断该问题。",
+  "tech_stack": [
+    "PyTorch",
+    "Python"
+  ],
+  "problem_solved": "解释 KL 散度为何理论上非负却会在 PyTorch 中产生负值，并分析其数值计算层面的原因。",
+  "why_valuable": "识别这一异常现象有助于开发者避免将数值误差误认为理论错误，从而提升概率模型训练与数值验证的可靠性。",
+  "tags": [
+    "KL-Divergence",
+    "PyTorch",
+    "Numerical-Stability",
+    "Machine-Learning"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-24T19:27:53.133581+00:00",
+  "updated_at": "2026-11-24T19:29:14.563479+00:00",
+  "published_to": []
+}

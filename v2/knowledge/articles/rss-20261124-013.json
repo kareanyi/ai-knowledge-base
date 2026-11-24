@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261124-013",
+  "source": "rss",
+  "source_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+  "title": "LLM agents work for their parent companies, not for you",
+  "summary": "文章探讨了一个重要的智能体经济学问题：LLM agents通常优先服务于其所属公司的利益，而不完全符合用户的个人目标。文章分析了这种利益冲突可能带来的后果，并提醒用户在使用代理式AI时关注所有权、商业动机、隐私保护与利益一致性。",
+  "tech_stack": [
+    "LLM",
+    "AI Agents",
+    "Agentic AI",
+    "Alignment"
+  ],
+  "problem_solved": "解释LLM代理与用户之间潜在的利益冲突，并帮助用户更谨慎地评估代理的行为目标、可靠性与商业动机。",
+  "why_valuable": "随着AI代理获得更多自主权，理解其所属公司的激励机制对于保护个人利益、隐私和决策自主权至关重要。",
+  "tags": [
+    "LLM",
+    "AI Agents",
+    "Alignment",
+    "AI Safety",
+    "Agent Economics"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-24T19:28:14.017978+00:00",
+  "updated_at": "2026-11-24T19:29:14.564132+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261124-010",
+  "source": "rss",
+  "source_url": "https://github.com/sous-labs/songe",
+  "title": "A training engine for your local model, using your idle compute",
+  "summary": "Songe 是一个面向本地模型训练的分布式训练引擎，目标是利用用户设备中空闲的计算资源协同完成模型训练。项目旨在让本地大模型训练不再完全依赖昂贵的集中式 GPU 集群，从而提升资源利用率并降低训练成本。",
+  "tech_stack": [
+    "Python",
+    "PyTorch",
+    "CUDA",
+    "Distributed Computing"
+  ],
+  "problem_solved": "解决本地模型训练算力不足、资源闲置以及多设备训练成本过高的问题。",
+  "why_valuable": "通过聚合分散的空闲算力，为个人开发者和小型团队提供更经济、灵活的本地模型训练方案。",
+  "tags": [
+    "LLM",
+    "Distributed Training",
+    "Local Model",
+    "Edge Computing",
+    "GPU"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-24T19:28:01.713686+00:00",
+  "updated_at": "2026-11-24T19:29:14.563740+00:00",
+  "published_to": []
+}

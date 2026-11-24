@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261124-004",
+  "source": "rss",
+  "source_url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+  "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+  "summary": "该文章报道针对 Check Point 安全管理服务器的活动入侵活动，重点关注攻击者如何利用远程代码执行漏洞获取服务器控制权，并分析受影响范围与相关威胁指标。文章还提供 GreyNoise 社区中的威胁情报、攻击活动背景及 Hacker News 讨论信息，旨在帮助安全团队识别和应对相关攻击。",
+  "tech_stack": [
+    "Check Point Security Management",
+    "CVE-2025-29824",
+    "OS Command Injection",
+    "Linux",
+    "GreyNoise"
+  ],
+  "problem_solved": "揭示针对 Check Point 安全管理服务器的实际入侵活动及其利用的漏洞，帮助组织识别暴露风险、检测攻击并完成系统加固。",
+  "why_valuable": "及时披露真实攻击活动及漏洞利用细节，可以显著提升安全运营团队对高危入侵的发现和响应能力。",
+  "tags": [
+    "Cybersecurity",
+    "Intrusion Campaign",
+    "RCE",
+    "Check Point",
+    "Threat Intelligence"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-24T19:27:31.424513+00:00",
+  "updated_at": "2026-11-24T19:29:14.562744+00:00",
+  "published_to": []
+}
