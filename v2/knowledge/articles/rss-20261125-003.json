@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261125-003",
+  "source": "rss",
+  "source_url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+  "title": "Deriving Black-Scholes",
+  "summary": "文章旨在推导 Black-Scholes 期权定价公式，从金融假设出发，逐步建立描述期权价值演化的随机微分方程，并通过求解相应的偏微分方程得到闭式定价结果。内容重点是连接随机过程、微分方程与金融定价理论，帮助读者理解公式背后的数学逻辑。",
+  "tech_stack": [
+    "Black-Scholes Model",
+    "Stochastic Calculus",
+    "Partial Differential Equations",
+    "Itô Calculus",
+    "Financial Mathematics"
+  ],
+  "problem_solved": "系统推导 Black-Scholes 期权定价模型，并解释金融衍生品定价公式的数学基础。",
+  "why_valuable": "深入理解经典期权定价理论，有助于学习更复杂的衍生品模型、量化金融方法和金融风险管理。",
+  "tags": [
+    "Quantitative Finance",
+    "Options Pricing",
+    "Stochastic Calculus",
+    "Black-Scholes",
+    "Financial Mathematics"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-25T18:33:48.401124+00:00",
+  "updated_at": "2026-11-25T18:35:40.984157+00:00",
+  "published_to": []
+}

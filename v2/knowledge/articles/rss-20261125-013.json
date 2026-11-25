@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261125-013",
+  "source": "rss",
+  "source_url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+  "title": "Taking over US Treasury subdomains for $3 each",
+  "summary": "文章探讨如何以极低成本接管美国财政部相关的子域名，核心问题可能涉及过期资源、DNS 记录残留以及第三方云服务配置不当形成的悬空子域名漏洞。研究还可能说明漏洞发现、资产监控与域名接管之间的关联，以及低成本高影响安全风险的成因。",
+  "tech_stack": [
+    "DNS",
+    "Cloud Computing",
+    "Subdomain Takeover",
+    "Security Research"
+  ],
+  "problem_solved": "识别并分析因 DNS 记录与云资源状态不一致而导致的子域名接管风险，帮助组织发现可能被攻击者利用的过期资产。",
+  "why_valuable": "它揭示了看似微小且低成本的配置缺陷可能演变为钓鱼、凭据窃取或政府机构品牌仿冒攻击，因此对漏洞研究和资产安全管理具有重要参考价值。",
+  "tags": [
+    "Subdomain Takeover",
+    "DNS Security",
+    "Vulnerability Research",
+    "Cloud Security",
+    "Phishing"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-25T18:34:55.614822+00:00",
+  "updated_at": "2026-11-25T18:35:40.990462+00:00",
+  "published_to": []
+}

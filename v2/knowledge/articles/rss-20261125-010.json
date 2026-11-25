@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261125-010",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2611.31286",
+  "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+  "summary": "文章批评将自动化证明求解包装为新一轮技术突破的倾向，指出这种“工业化”路径可能延续形式化证明系统过去遭遇的瓶颈与失败模式。文章强调，应区分自动化产生的规模化噪声与真正可验证、可复现的数学进展，并重新审视该领域的实际价值。",
+  "tech_stack": [
+    "Automated Theorem Proving",
+    "Formal Verification",
+    "Logic",
+    "AI"
+  ],
+  "problem_solved": "针对自动化证明求解被过度宣传、实际成果与投入不成比例的问题，文章试图澄清其历史重复与技术炒作之间的关系。",
+  "why_valuable": "它提醒研究者和决策者以可验证产出评估自动化证明系统，避免将计算规模或噪声增长误认为真正的科学突破。",
+  "tags": [
+    "Theorem Proving",
+    "Formal Methods",
+    "AI Critique",
+    "Industrialization",
+    "Research Evaluation"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-25T18:34:39.042960+00:00",
+  "updated_at": "2026-11-25T18:35:40.990249+00:00",
+  "published_to": []
+}

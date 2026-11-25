@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261125-002",
+  "source": "rss",
+  "source_url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+  "title": "1Password Security Incident",
+  "summary": "这是 1Password 关于 2026 年 11 月安全事件的官方进展说明，旨在披露事件相关发现并更新受影响情况。当前输入仅包含文章与 Hacker News 讨论链接、热度及评论数量，缺少事件经过、技术细节和处置结果等实质内容。",
+  "tech_stack": [
+    "Security Incident Response",
+    "Password Management",
+    "Threat Analysis",
+    "Security Operations"
+  ],
+  "problem_solved": "通过官方通报说明安全事件的范围、影响及响应进展，帮助用户评估风险并采取必要的安全措施。",
+  "why_valuable": "安全事件通报能帮助 1Password 用户理解潜在凭据或账户风险，并及时采取防护、轮换凭据和监控异常活动等措施。",
+  "tags": [
+    "Security",
+    "Incident Response",
+    "Password Management",
+    "1Password",
+    "Cybersecurity"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-25T18:33:38.051090+00:00",
+  "updated_at": "2026-11-25T18:35:40.984048+00:00",
+  "published_to": []
+}

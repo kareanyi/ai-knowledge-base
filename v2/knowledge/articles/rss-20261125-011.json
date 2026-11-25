@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261125-011",
+  "source": "rss",
+  "source_url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+  "title": "Smart people who give a shit use tools",
+  "summary": "文章主张重视工程质量、投入时间和实际成果的开发者应主动使用工具，而不是依赖纯手工工作。现有输入仅包含标题、链接及 Hacker News 互动数据，未提供正文，因此无法进一步确认文章讨论的具体工具类型、实践方法或技术细节。",
+  "tech_stack": [],
+  "problem_solved": "通过工具化提升开发效率、减少重复性工作，并帮助工程师更专注于高价值的工程问题。",
+  "why_valuable": "它强调以实际产出衡量专业能力，为开发者采用工具和改善工作流提供直接观点。",
+  "tags": [
+    "Developer Tools",
+    "Engineering",
+    "Productivity",
+    "Automation"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-25T18:34:44.052187+00:00",
+  "updated_at": "2026-11-25T18:35:40.990324+00:00",
+  "published_to": []
+}

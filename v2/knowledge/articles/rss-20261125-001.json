@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261125-001",
+  "source": "rss",
+  "source_url": "https://iahmed.me/post/nlogn/",
+  "title": "How Can Anything Beat n log n?",
+  "summary": "文章围绕算法中 O(n log n) 的比较排序下界展开，探讨在特定模型与问题条件下是否可能出现更快的通用算法。当前提供的内容仅包含标题和链接，缺少正文，因此无法判断作者给出的具体论证、结论或实现方法。",
+  "tech_stack": [],
+  "problem_solved": "分析基于比较的排序算法为何通常需要 Ω(n log n) 时间，以及是否存在突破该下界的可能。",
+  "why_valuable": "理解 O(n log n) 下界有助于评估排序算法的最优性，并区分通用比较排序与可利用额外结构或假设的专用算法。",
+  "tags": [
+    "Algorithms",
+    "Complexity",
+    "Sorting",
+    "Lower Bounds"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-25T18:33:30.206867+00:00",
+  "updated_at": "2026-11-25T18:35:40.983736+00:00",
+  "published_to": []
+}

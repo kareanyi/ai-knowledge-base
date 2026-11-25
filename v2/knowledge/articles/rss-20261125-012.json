@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261125-012",
+  "source": "rss",
+  "source_url": "https://gpu-demo-gallery.pages.dev/",
+  "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+  "summary": "该项目在浏览器中重新运行 NVIDIA 和 ATI 时代的经典 GPU 技术演示，提供了无需安装旧硬件与原生驱动即可体验的在线画廊。其核心价值在于保存和复兴早期图形计算生态中的代表性 Demo，并通过现代 Web 技术降低复现门槛。",
+  "tech_stack": [
+    "WebGPU",
+    "JavaScript",
+    "WebAssembly",
+    "WebGL",
+    "GLSL"
+  ],
+  "problem_solved": "解决旧版 NVIDIA 和 ATI GPU 演示因依赖专用硬件、驱动程序及原生运行环境而难以再次体验的问题。",
+  "why_valuable": "它既让用户能够直接在浏览器中重温早期 GPU 技术，也能为学习现代图形 API 和研究显卡计算发展史提供可交互样本。",
+  "tags": [
+    "WebGPU",
+    "GPU",
+    "Browser",
+    "Graphics",
+    "Retro Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-25T18:34:50.551663+00:00",
+  "updated_at": "2026-11-25T18:35:40.990388+00:00",
+  "published_to": []
+}

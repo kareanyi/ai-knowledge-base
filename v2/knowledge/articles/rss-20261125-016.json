@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261125-016",
+  "source": "rss",
+  "source_url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+  "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+  "summary": "本文探讨如何绕过 iOS Safari 将网页动画帧率限制在 60 FPS 的问题，从而在支持高刷新率显示器的设备上构建更接近原生应用流畅度的 Web 应用。文章重点涉及浏览器动画调度机制、系统刷新率限制以及相应的前端性能优化与兼容性处理方案。",
+  "tech_stack": [
+    "JavaScript",
+    "Web APIs",
+    "requestAnimationFrame",
+    "iOS Safari",
+    "WebKit"
+  ],
+  "problem_solved": "解决 iOS Safari 在高刷新率设备上限制网页动画帧率、导致 Web 应用动画不够流畅的问题。",
+  "why_valuable": "通过突破浏览器的帧率限制，开发者可以提升交互响应和视觉流畅度，使 Web 应用的体验更接近原生应用。",
+  "tags": [
+    "iOS",
+    "Safari",
+    "Web Performance",
+    "Animation",
+    "High Refresh Rate"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-25T18:35:24.916902+00:00",
+  "updated_at": "2026-11-25T18:35:40.990676+00:00",
+  "published_to": []
+}

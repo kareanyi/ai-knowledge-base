@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261125-009",
+  "source": "rss",
+  "source_url": "https://github.com/xoxorwr/pw-loudness-eq",
+  "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+  "summary": "该项目逆向分析了 Windows 的 Loudness Equalization（响度均衡）机制，并将其重新实现为可用于 PipeWire 的音频处理组件。它让 Linux 用户能够获得类似 Windows 的响度补偿与动态范围控制体验。",
+  "tech_stack": [
+    "PipeWire",
+    "Rust",
+    "ALSA",
+    "Linux",
+    "Audio DSP"
+  ],
+  "problem_solved": "解决 Linux 音频环境中缺少与 Windows Loudness Equalization 等价功能的问题。",
+  "why_valuable": "它将专有 Windows 音频处理能力以开源方式引入 PipeWire，改善不同播放音量下的听感一致性和响度控制。",
+  "tags": [
+    "PipeWire",
+    "Audio",
+    "Loudness",
+    "Reverse Engineering",
+    "Linux"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-25T18:34:31.866213+00:00",
+  "updated_at": "2026-11-25T18:35:40.990170+00:00",
+  "published_to": []
+}

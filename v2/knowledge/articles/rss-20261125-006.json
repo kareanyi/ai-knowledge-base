@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261125-006",
+  "source": "rss",
+  "source_url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+  "title": "Rumors swirling that labs might have cracked Factoring in P",
+  "summary": "该帖子讨论 OpenAI 或 Anthropic 等 AI 实验室可能已找到解决 P 质因数分解问题的新方法，并将相关消息视为潜在的重要 AI 突破。内容主要来自 Reddit 讨论及 Hacker News 评论，但目前呈现的信息有限，具体技术细节、成果可信度与实验依据尚不明确。",
+  "tech_stack": [
+    "人工智能",
+    "大语言模型",
+    "数论",
+    "密码分析",
+    "计算理论"
+  ],
+  "problem_solved": "它探讨 AI 实验室是否可能借助新型推理或计算方法突破质因数分解难题，从而影响基于大整数分解的密码系统。",
+  "why_valuable": "若相关结果被证实，将展示先进 AI 在基础数学与密码学难题上的能力，并可能对算法、密码安全及科研自动化产生深远影响。",
+  "tags": [
+    "AI",
+    "Factorization",
+    "Cryptography",
+    "LLM",
+    "Mathematical Reasoning"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-25T18:34:11.005999+00:00",
+  "updated_at": "2026-11-25T18:35:40.989939+00:00",
+  "published_to": []
+}

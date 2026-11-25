@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261125-014",
+  "source": "rss",
+  "source_url": "https://buttons.joshwcomeau.com/",
+  "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+  "summary": "Buttons 是一个高质量按钮点击与按压音效资源库，收录了经过专业录制的交互声音。开发者可以使用这些音效增强网页、应用程序或数字界面的操作反馈与真实感。",
+  "tech_stack": [
+    "Web Audio API",
+    "JavaScript",
+    "HTML/CSS"
+  ],
+  "problem_solved": "为数字界面提供专业录制的按钮点击与按压音效，解决音效素材质量和交互真实感不足的问题。",
+  "why_valuable": "高质量、易获取的按钮音效能够显著提升产品的触觉感、沉浸感与用户参与度，同时减少自行录制和后期处理音效的成本。",
+  "tags": [
+    "Sound Effects",
+    "UI/UX",
+    "Web Audio",
+    "Audio Library",
+    "Interaction Design"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-25T18:35:00.145188+00:00",
+  "updated_at": "2026-11-25T18:35:40.990533+00:00",
+  "published_to": []
+}

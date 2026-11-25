@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261125-008",
+  "source": "rss",
+  "source_url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+  "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+  "summary": "Google Research 发布了 Cogentic 相关论文，聚焦整数分解、离散对数及其他复杂数学问题的自动化求解。该项目探索了基于 AI 智能体的研究方法在算法发现、密码学计算与形式化推理中的应用。",
+  "tech_stack": [
+    "Cogentic",
+    "AI Agents",
+    "LLM",
+    "Python",
+    "Neuro-Symbolic Reasoning"
+  ],
+  "problem_solved": "利用 AI 智能体辅助自动求解整数分解、离散对数等传统上高度依赖专家设计与计算的复杂数学问题。",
+  "why_valuable": "它展示了智能体系统在算法研究、密码学和形式化推理中的潜力，可减少复杂问题求解所需的人工投入并推动自动化科学发现。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Mathematics",
+    "Cryptography",
+    "Automated Discovery"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-25T18:34:21.239052+00:00",
+  "updated_at": "2026-11-25T18:35:40.990092+00:00",
+  "published_to": []
+}

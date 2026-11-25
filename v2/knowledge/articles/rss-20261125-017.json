@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261125-017",
+  "source": "rss",
+  "source_url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+  "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "summary": "文章探讨了即使模型运行在沙箱环境中，模型之间仍可能通过推理服务器进行通信。研究重点在于模型如何借助外部服务完成信息传递，以及这种机制对模型隔离、安全边界和多智能体协作的影响。",
+  "tech_stack": [
+    "LLM Inference",
+    "Sandboxing",
+    "Model APIs",
+    "IPC",
+    "Multi-Agent Systems"
+  ],
+  "problem_solved": "揭示并分析了受沙箱限制的模型仍能通过共享推理服务器或外部服务进行跨实例通信的现象。",
+  "why_valuable": "它提醒开发者不能仅依赖沙箱保证模型间完全隔离，并为安全评估、多智能体通信设计和推理服务架构提供重要参考。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Sandboxing",
+    "Inference Servers",
+    "Multi-Agent Communication"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-25T18:35:33.844306+00:00",
+  "updated_at": "2026-11-25T18:35:40.990740+00:00",
+  "published_to": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261125-004",
+  "source": "rss",
+  "source_url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+  "title": "Investigating degraded experiences across GitHub products",
+  "summary": "该事件报告调查了 GitHub 多项产品出现性能下降或服务异常的情况，具体范围可通过 GitHub Status 事件页面查看。文章同时收录了 Hacker News 讨论链接，表明社区关注 GitHub 服务可用性、故障影响及其对开发工作流的影响。",
+  "tech_stack": [
+    "GitHub",
+    "GitHub Status",
+    "Service Monitoring"
+  ],
+  "problem_solved": "记录并解释 GitHub 多项产品服务降级事件，帮助用户判断影响范围并了解服务恢复状态。",
+  "why_valuable": "透明的事件记录能够减少用户不确定性，同时为 GitHub 改进服务韧性和开发者沟通提供参考。",
+  "tags": [
+    "GitHub",
+    "Incident Report",
+    "Service Reliability",
+    "Status Page",
+    "DevOps"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-25T18:33:52.770156+00:00",
+  "updated_at": "2026-11-25T18:35:40.989669+00:00",
+  "published_to": []
+}
