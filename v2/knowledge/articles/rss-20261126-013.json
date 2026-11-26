@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-013",
+  "source": "rss",
+  "source_url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+  "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+  "summary": "文章回顾了《Lions' Commentary on Unix》一书的诞生背景与技术价值：通过对早期 Unix 6 内核源码的逐行注释，系统解释操作系统的设计与实现。该注释材料后来被 BSD 等系统借鉴并沿用约 20 年，揭示了 Unix 代码可读性、可移植性以及知识传承对软件产业的重要影响。",
+  "tech_stack": [
+    "Unix",
+    "C",
+    "BSD",
+    "Operating Systems"
+  ],
+  "problem_solved": "通过深度注释早期 Unix 内核源码，降低了理解复杂操作系统实现机制的学习门槛，并解决了系统设计知识难以有效传承的问题。",
+  "why_valuable": "它将晦涩的操作系统内核转化为可学习和可复用的知识体系，深刻影响了后续 Unix-like 系统的发展与软件工程实践。",
+  "tags": [
+    "Unix",
+    "Operating Systems",
+    "Source Code",
+    "History",
+    "BSD"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-26T18:16:51.543922+00:00",
+  "updated_at": "2026-11-26T18:17:23.686198+00:00",
+  "published_to": []
+}

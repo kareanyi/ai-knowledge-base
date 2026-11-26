@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261126-003",
+  "source": "rss",
+  "source_url": "https://diseasescuredbyai.com/",
+  "title": "Tracking Diseases Cured by AI",
+  "summary": "该网站尝试追踪并汇总由人工智能帮助治愈或解决的疾病案例。其目标是以集中化目录的方式展示 AI 在医疗疾病治疗中的实际进展，但当前输入未提供具体案例、实现方法或技术细节。",
+  "tech_stack": [],
+  "problem_solved": "集中整理和展示 AI 已被用于治愈或解决的疾病，帮助读者了解人工智能在医疗领域的实际应用。",
+  "why_valuable": "它为评估 AI 在医疗中的真实影响提供了结构化入口，有助于追踪技术从研究成果到实际治疗成果的转化。",
+  "tags": [
+    "AI",
+    "Healthcare",
+    "Disease Tracking",
+    "Medical Innovation"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-26T18:15:47.237305+00:00",
+  "updated_at": "2026-11-26T18:17:23.678280+00:00",
+  "published_to": []
+}

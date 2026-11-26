@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-002",
+  "source": "rss",
+  "source_url": "https://github.com/antonpictures/youtube-punisher",
+  "title": "YouTube Ad Punisher – Bypass anti-adblock",
+  "summary": "YouTube Ad Punisher 是一个用于对抗广告拦截器的浏览器扩展，可在检测到广告被屏蔽时触发惩罚机制，例如播放干扰性音频。该项目通过操纵 YouTube 页面内容，迫使广告拦截器恢复广告播放。",
+  "tech_stack": [
+    "JavaScript",
+    "Chrome Extension API",
+    "YouTube DOM API",
+    "HTML/CSS"
+  ],
+  "problem_solved": "解决广告拦截器屏蔽 YouTube 广告、导致内容创作者无法获得广告收益的问题。",
+  "why_valuable": "它为 YouTube 创作者提供了一种无需更改浏览器或操作系统配置即可检测广告拦截并恢复广告投放的技术方案。",
+  "tags": [
+    "YouTube",
+    "Adblock",
+    "Browser Extension",
+    "Ad Revenue",
+    "JavaScript"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-26T18:15:41.915400+00:00",
+  "updated_at": "2026-11-26T18:17:23.678138+00:00",
+  "published_to": []
+}

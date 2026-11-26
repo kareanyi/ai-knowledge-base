@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261126-015",
+  "source": "rss",
+  "source_url": "https://progrium.github.io/minipg/",
+  "title": "Minipg: PostgreSQL as a Single Executable",
+  "summary": "Minipg 探索将 PostgreSQL 打包成单一可执行文件，使数据库能够像普通程序一样直接分发和运行。内容重点介绍如何简化 PostgreSQL 的部署、启动与可移植性。",
+  "tech_stack": [
+    "PostgreSQL",
+    "Linux",
+    "SQL"
+  ],
+  "problem_solved": "简化 PostgreSQL 的安装和部署，避免用户手工配置数据库服务及多个依赖文件。",
+  "why_valuable": "单一可执行文件能降低 PostgreSQL 的使用门槛，并提升数据库在本地开发、测试和边缘环境中的可移植性。",
+  "tags": [
+    "PostgreSQL",
+    "Single Binary",
+    "Database",
+    "Deployment",
+    "Open Source"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-26T18:17:07.563400+00:00",
+  "updated_at": "2026-11-26T18:17:23.686437+00:00",
+  "published_to": []
+}

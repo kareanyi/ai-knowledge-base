@@ -1,0 +1,24 @@
+{
+  "id": "rss-20261126-005",
+  "source": "rss",
+  "source_url": "https://github.com/samueleverett01/bss-permanent-separations",
+  "title": "NP_R ≠ PAR_R",
+  "summary": "该仓库围绕命题“NP_R ≠ PAR_R”展开，旨在形式化论证两个复杂性或表达能力类别并不等价。项目名称中的“permanent separations”表明内容可能重点讨论某种永久分离性质及其对相关问题分类的影响。当前提供的材料仅包含仓库与 Hacker News 讨论链接，未展示证明方法、定义或实现细节。",
+  "tech_stack": [
+    "GitHub"
+  ],
+  "problem_solved": "通过构造或分析永久分离性质，证明 NP_R 与 PAR_R 属于不同的计算类别。",
+  "why_valuable": "该结果有助于明确相关问题的边界，并判断哪些计算任务无法从 NP_R 方法直接归入 PAR_R。",
+  "tags": [
+    "Complexity Theory",
+    "Formal Methods",
+    "Separation",
+    "Proof",
+    "GitHub"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-26T18:16:03.220255+00:00",
+  "updated_at": "2026-11-26T18:17:23.685172+00:00",
+  "published_to": []
+}

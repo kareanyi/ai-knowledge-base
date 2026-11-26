@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-009",
+  "source": "rss",
+  "source_url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+  "title": "Nextcloud Office Desktop app",
+  "summary": "文章介绍了适用于桌面的 Nextcloud Office 应用，将 EuroOffice 办公套件与 Nextcloud 云端协作能力结合，让用户可在桌面端编辑文档并与 Nextcloud 中的文件及协作功能联动。该方案面向希望兼顾本地办公体验与云端协作、版本管理和文件访问的用户。",
+  "tech_stack": [
+    "Nextcloud",
+    "EuroOffice",
+    "Collabora Online",
+    "WebDAV"
+  ],
+  "problem_solved": "解决用户在桌面办公与 Nextcloud 云端文档协作之间切换不便的问题。",
+  "why_valuable": "它在保留本地办公软件使用习惯的同时，提供了便捷的云端同步与团队协作能力。",
+  "tags": [
+    "Nextcloud",
+    "EuroOffice",
+    "Desktop",
+    "Cloud Collaboration",
+    "Productivity"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-26T18:16:31.332935+00:00",
+  "updated_at": "2026-11-26T18:17:23.685699+00:00",
+  "published_to": []
+}

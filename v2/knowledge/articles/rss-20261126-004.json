@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-004",
+  "source": "rss",
+  "source_url": "https://devnull.land/amd-specific-llama-cpp",
+  "title": "AMD Specific Patches for Llama.cpp",
+  "summary": "该文章介绍面向 AMD 硬件的 llama.cpp 定制补丁，重点可能涉及本地大语言模型推理在 AMD 平台上的兼容性与性能优化。当前输入仅包含标题、链接和讨论统计，未提供补丁代码或具体技术细节，因此无法确认其实现范围与实际效果。",
+  "tech_stack": [
+    "llama.cpp",
+    "AMD ROCm",
+    "HIP",
+    "C/C++"
+  ],
+  "problem_solved": "解决 llama.cpp 在 AMD 加速器或计算平台上运行时的兼容性、稳定性与推理性能问题。",
+  "why_valuable": "AMD 专属补丁可降低用户在非 CUDA 硬件上部署本地大模型推理的适配成本，并改善性能表现。",
+  "tags": [
+    "AMD",
+    "llama.cpp",
+    "LLM",
+    "GPU Acceleration",
+    "ROCm"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-26T18:15:52.173000+00:00",
+  "updated_at": "2026-11-26T18:17:23.684969+00:00",
+  "published_to": []
+}

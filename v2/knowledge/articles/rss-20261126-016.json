@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-016",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50649864",
+  "title": "Tell HN: Lots of Ask HNs again",
+  "summary": "该 Hacker News 讨论分析了 Ask HN 页面内容稀少、条目数量异常以及分页功能消失的问题。作者认为问题可能与 /ask 页面选取候选故事的来源和筛选机制有关，并尝试解释近期大量 Ask HN 重新出现的原因。",
+  "tech_stack": [
+    "Hacker News",
+    "Web 分页",
+    "内容筛选",
+    "数据池机制"
+  ],
+  "problem_solved": "定位并解释 Ask HN 页面帖子数量减少、分页异常及内容流不稳定的原因。",
+  "why_valuable": "揭示社区内容分发与排序机制中的潜在问题，有助于恢复 Ask HN 页面的可用性和信息完整性。",
+  "tags": [
+    "Hacker News",
+    "Ask HN",
+    "Pagination",
+    "Content Curation",
+    "Community"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-26T18:17:12.439380+00:00",
+  "updated_at": "2026-11-26T18:17:23.686553+00:00",
+  "published_to": []
+}

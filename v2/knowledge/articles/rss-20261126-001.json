@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-001",
+  "source": "rss",
+  "source_url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+  "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+  "summary": "该文章报道了勒索软件援助网站 RansomwareHelp 的首席技术官因电汇欺诈罪被起诉的新闻。事件涉及网络犯罪服务运营者可能利用其专业技术和行业信誉实施欺诈，同时引发对勒索软件应对服务可信度与监管的讨论。",
+  "tech_stack": [
+    "Cybersecurity",
+    "Ransomware",
+    "Wire Fraud",
+    "Digital Forensics"
+  ],
+  "problem_solved": "揭示勒索软件援助服务领域的从业者可能利用技术专业知识和受害者信任实施电汇欺诈，并警示相关机构加强背景审查与资金交易监管。",
+  "why_valuable": "该事件展示了网络犯罪与金融犯罪之间的交叉风险，为勒索软件援助平台、执法机构及企业安全团队提供了合规与信任治理方面的警示。",
+  "tags": [
+    "Cybersecurity",
+    "Ransomware",
+    "Wire Fraud",
+    "Indictment",
+    "Cybercrime"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-26T18:15:37.144477+00:00",
+  "updated_at": "2026-11-26T18:17:23.677812+00:00",
+  "published_to": []
+}

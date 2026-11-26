@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-010",
+  "source": "rss",
+  "source_url": "https://github.com/intel/intel-one-mono",
+  "title": "Intel One Mono font",
+  "summary": "Intel One Mono 是 Intel 开源的一款等宽字体项目，主要面向代码编辑器、终端和开发工具中的文本显示。项目强调清晰的字形区分、良好的可读性以及跨语言字符支持，旨在提升开发者长时间阅读代码时的视觉体验。",
+  "tech_stack": [
+    "OpenType",
+    "Variable Fonts",
+    "Font Tools",
+    "Glyphs"
+  ],
+  "problem_solved": "解决代码和终端文本显示中字符辨识度不足、不同字符容易混淆以及长时间阅读容易疲劳的问题。",
+  "why_valuable": "为开发者提供兼具清晰度、可读性和多语言支持的高质量开源等宽字体。",
+  "tags": [
+    "Font",
+    "Typography",
+    "Developer Tools",
+    "Open Source",
+    "Monospace"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-26T18:16:36.461600+00:00",
+  "updated_at": "2026-11-26T18:17:23.685817+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261126-011",
+  "source": "rss",
+  "source_url": "https://commandcode.ai/moat",
+  "title": "Moat: Your OpenRouter Replacement",
+  "summary": "文章介绍了 Moat，将其定位为 OpenRouter 的替代方案，旨在为开发者提供统一的 AI 模型访问与路由能力。现有内容仅包含标题、链接及讨论数据，未展示其具体架构、功能实现或性能指标。",
+  "tech_stack": [
+    "Moat",
+    "OpenRouter",
+    "LLM API",
+    "AI Gateway"
+  ],
+  "problem_solved": "为开发者提供统一的 AI 模型接入、路由与管理方案，以替代或减少对 OpenRouter 的依赖。",
+  "why_valuable": "统一入口可以降低多模型集成的接入成本，并提供更灵活、可控的模型调用基础设施。",
+  "tags": [
+    "AI",
+    "LLM",
+    "API",
+    "Router",
+    "Infrastructure"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-26T18:16:41.126162+00:00",
+  "updated_at": "2026-11-26T18:17:23.685938+00:00",
+  "published_to": []
+}

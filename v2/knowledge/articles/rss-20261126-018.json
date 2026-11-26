@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261126-018",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "summary": "文章报道《纽约时报》警告摄影师暂缓更新 Adobe Photoshop，因为新版软件加入的生成式 AI 功能可能改变图像编辑流程，并引发版权、创作署名和职业伦理方面的担忧。事件反映出 AI 工具进入主流创意软件后，专业用户对功能变更、默认行为及数据使用风险更加敏感。",
+  "tech_stack": [
+    "Adobe Photoshop",
+    "Generative AI",
+    "Adobe Firefly"
+  ],
+  "problem_solved": "文章探讨生成式 AI 功能被直接加入主流图像编辑软件后，摄影师在效率提升与版权、职业伦理及创作控制权之间面临的取舍。",
+  "why_valuable": "这一事件揭示了 AI 在成熟专业工作流中的落地风险，可帮助摄影师、设计师和软件厂商理解功能透明度、用户同意与知识产权治理的重要性。",
+  "tags": [
+    "AI",
+    "Photoshop",
+    "Photography",
+    "Generative AI",
+    "Copyright"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-26T18:17:22.592167+00:00",
+  "updated_at": "2026-11-26T18:17:23.686786+00:00",
+  "published_to": []
+}

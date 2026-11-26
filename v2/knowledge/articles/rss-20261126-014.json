@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261126-014",
+  "source": "rss",
+  "source_url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+  "title": "Unconditional Integer Factorization in Subexponential Time",
+  "summary": "该研究提出了一种无需额外假设即可在次指数时间内完成整数分解的算法，面向计算数论与密码学中的核心因数分解问题。Google Research 仓库收录了相关论文材料及可能的实验或验证代码，旨在展示该结果的方法、实现与复现路径。",
+  "tech_stack": [
+    "Computational Number Theory",
+    "Integer Factorization",
+    "Subexponential-Time Algorithms",
+    "Modular Arithmetic",
+    "Lattice Reduction"
+  ],
+  "problem_solved": "它解决在大整数无法高效利用 Shor 算法进行因数分解时，如何在经典计算模型下以可证明的次指数时间复杂度完成整数分解的问题。",
+  "why_valuable": "无需依赖未经验证假设的次指数因数分解算法能够推进经典计算数论，并直接关联 RSA 等公钥密码系统的安全评估。",
+  "tags": [
+    "Number Theory",
+    "Integer Factorization",
+    "Subexponential Algorithms",
+    "Cryptography",
+    "Lattice Methods"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-26T18:17:02.526118+00:00",
+  "updated_at": "2026-11-26T18:17:23.686315+00:00",
+  "published_to": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261126-006",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50656763",
+  "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+  "summary": "这是一则 Hacker News 讨论帖，用户希望寻找由独立开发者（Indie makers）制作的高质量课程、产品或书籍，尤其偏好非大型促销平台的教育资源。发帖者分享了 Three.js Journey 的使用体验，并邀请社区推荐类似的自学产品和内容。",
+  "tech_stack": [
+    "Three.js",
+    "JavaScript",
+    "Online Courses",
+    "E-books",
+    "Hacker News"
+  ],
+  "problem_solved": "帮助学习者筛选由独立开发者制作、评价较高且适合实际学习的编程课程、书籍和数字产品。",
+  "why_valuable": "独立开发者的资源通常更聚焦、个性化程度更高，能为希望避开大型平台促销的用户提供更精准的学习选择。",
+  "tags": [
+    "Indie Makers",
+    "Online Learning",
+    "JavaScript",
+    "Three.js",
+    "Resource Recommendations"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-26T18:16:07.197462+00:00",
+  "updated_at": "2026-11-26T18:17:23.685310+00:00",
+  "published_to": []
+}
