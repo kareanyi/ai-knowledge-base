@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261127-005",
+  "source": "rss",
+  "source_url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+  "title": "GPT 6.2 Astra Solves a Historical Mystery",
+  "summary": "一篇来自 Substack 专栏 \"Generative History\" 的文章，声称名为 \"GPT 6.2 Astra\" 的新一代模型成功破解了一起历史谜题。该文章通过让前沿大语言模型充当历史研究者/调查者的方式，展示 AI 在多步推理、史料检索与线索串联上的潜力。原文正文未在本输入中提供，仅有标题与链接，以及 Hacker News 上 100 分、43 条评论的讨论热度。",
+  "tech_stack": [
+    "GPT-6.2 Astra",
+    "Large Language Models",
+    "Multi-step Reasoning",
+    "AI Agents",
+    "Substack"
+  ],
+  "problem_solved": "试图展示大语言模型能否结合历史知识与推理能力，自主破解长期悬而未决的历史谜题，从而加速数字人文与历史研究。",
+  "why_valuable": "它把\"模型能力展示\"转化为可验证的真实研究案例，为 AI 辅助学术调查提供了新范式和讨论素材。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Historical Research",
+    "Reasoning",
+    "GPT"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-27T17:59:09.243271+00:00",
+  "updated_at": "2026-11-27T18:01:08.094803+00:00",
+  "published_to": []
+}

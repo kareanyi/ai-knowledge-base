@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261127-012",
+  "source": "rss",
+  "source_url": "https://eprint.iacr.org/2026/3020.pdf",
+  "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+  "summary": "本文提出了一种针对离散对数问题 (Discrete Logarithm Problem) 的确定性次指数时间算法。传统上求解 DLP 主要依赖指数时间的通用算法（如 Pollard rho）或需要随机化的亚指数算法（如 NFS 的随机化变体），而该工作试图给出确定性的次指数复杂度解法。论文发表于 IACR ePrint，并引发了 HN 上 178 分、77 条评论的广泛讨论。",
+  "tech_stack": [
+    "Computational Number Theory",
+    "Cryptography",
+    "Complexity Theory",
+    "Algorithm Design",
+    "Group Theory"
+  ],
+  "problem_solved": "在不使用随机化假设的前提下，为离散对数问题提供次指数时间复杂度的确定性求解算法，突破现有通用算法的时间复杂度瓶颈。",
+  "why_valuable": "确定性次指数 DLP 算法若成立，将直接削弱 ECC、DH 等基于离散对数假设的公钥密码体系，对密码学分析与实践产生深远影响。",
+  "tags": [
+    "Cryptography",
+    "Discrete Logarithm",
+    "Number Theory",
+    "Complexity",
+    "IACR"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-27T17:59:55.883551+00:00",
+  "updated_at": "2026-11-27T18:01:08.095495+00:00",
+  "published_to": []
+}

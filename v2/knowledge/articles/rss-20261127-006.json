@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261127-006",
+  "source": "rss",
+  "source_url": "https://bouncemarket.minhanhday.com/",
+  "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+  "summary": "bouncemarket 是一款实时预测市场游戏，玩家交易预测弹跳球最终落点。每次投球由服务器端模拟，并通过 Server-Sent Events 以小缓冲流式推送给客户端；球从初始位置开始确定性计算，因此回合可以被准确重放和后续分析。市场中还加入了会随市场状况参与交易的 AI 交易者。",
+  "tech_stack": [
+    "Server-Sent Events (SSE)",
+    "Server-side simulation",
+    "Real-time web clients",
+    "AI trading agents",
+    "Deterministic replay"
+  ],
+  "problem_solved": "它将弹跳球的落点预测转化为可交易、可实时观看和可重复分析的互动预测市场体验。",
+  "why_valuable": "该项目结合了物理模拟、实时数据流和 AI 驱动的市场行为，展示了预测市场在娱乐和实验性金融应用中的可行性。",
+  "tags": [
+    "Prediction Market",
+    "Real-time",
+    "Server-Sent Events",
+    "Simulation",
+    "AI Trading"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-27T17:59:13.726795+00:00",
+  "updated_at": "2026-11-27T18:01:08.094925+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261127-008",
+  "source": "rss",
+  "source_url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+  "title": "Making a 3D fantasy map like a 16th-Century atlas",
+  "summary": "文章介绍如何制作一张仿照 16 世纪地图风格的三维奇幻地图，重点可能涵盖地形建模、视觉效果与古地图装饰的结合。通过将真实地形处理与幻想化美术设计相结合，呈现具有历史感和立体感的奇幻世界地图。",
+  "tech_stack": [
+    "Blender",
+    "3D Modeling",
+    "Terrain Generation",
+    "Digital Cartography"
+  ],
+  "problem_solved": "展示如何在现代三维工具中还原古地图的视觉语言，并制作兼具立体地形与复古手绘风格的奇幻地图。",
+  "why_valuable": "它为游戏、叙事设计和世界观构建提供了将地理可视化与历史美术风格结合的实用创作思路。",
+  "tags": [
+    "3D Art",
+    "Fantasy Map",
+    "Cartography",
+    "Blender",
+    "Worldbuilding"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-27T17:59:27.004186+00:00",
+  "updated_at": "2026-11-27T18:01:08.095130+00:00",
+  "published_to": []
+}

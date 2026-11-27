@@ -1,0 +1,25 @@
+{
+  "id": "rss-20261127-010",
+  "source": "rss",
+  "source_url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+  "title": "US Air Force's cloud computing platform hacked",
+  "summary": "美国空军的云计算平台遭到黑客攻击，事件凸显了军事云基础设施面临的网络安全风险。报道重点关注这一安全事件及其对高敏感度云平台防护的启示。",
+  "tech_stack": [
+    "Cloud Computing",
+    "Cybersecurity"
+  ],
+  "problem_solved": "报道并分析美国空军云平台被入侵事件，揭示军事云系统面临的安全威胁与防护挑战。",
+  "why_valuable": "该事件有助于推动组织加强云环境中的访问控制、漏洞修复和安全事件响应能力。",
+  "tags": [
+    "Cybersecurity",
+    "Cloud",
+    "Air Force",
+    "Hacking",
+    "Defense"
+  ],
+  "score": 5,
+  "status": "published",
+  "created_at": "2026-11-27T17:59:38.033070+00:00",
+  "updated_at": "2026-11-27T18:01:08.095328+00:00",
+  "published_to": []
+}

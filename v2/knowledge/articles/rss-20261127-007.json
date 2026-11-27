@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261127-007",
+  "source": "rss",
+  "source_url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+  "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+  "summary": "该项目恢复了 Palm/HP TouchPad 上的 webOS，并发布 webOS Community Edition 3.2.0，为这款停产 15 年的设备提供现代 OTA 更新。其配套项目 Lunacy 和 Luna DE 分别将 webOS 应用生态扩展至 Android，以及通过 Electron SDK 兼容方式带到 Mac、Windows 和 Linux。",
+  "tech_stack": [
+    "webOS",
+    "Electron",
+    "Android",
+    "OTA",
+    "SDK"
+  ],
+  "problem_solved": "它解决了原厂 webOS 设备停止维护、系统老旧以及相关应用难以在现代平台运行的问题。",
+  "why_valuable": "该项目不仅保存了重要的消费电子和操作系统历史，还通过跨平台工具延续了 webOS 的应用生态与开发者参与价值。",
+  "tags": [
+    "webOS",
+    "Palm",
+    "Electron",
+    "Cross-platform",
+    "Retro Computing"
+  ],
+  "score": 8,
+  "status": "published",
+  "created_at": "2026-11-27T17:59:18.398567+00:00",
+  "updated_at": "2026-11-27T18:01:08.095010+00:00",
+  "published_to": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261127-011",
+  "source": "rss",
+  "source_url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+  "title": "New York and California age gating rules go into effect in the new year",
+  "summary": "文章关注纽约州和加利福尼亚州即将生效的年龄限制规定，以及这些规则对互联网平台和用户的影响。内容从数字隐私与EFF权益保护视角，分析年龄验证要求的实施及潜在争议。",
+  "tech_stack": [
+    "Age Verification",
+    "Identity Verification",
+    "Digital Privacy",
+    "Content Filtering"
+  ],
+  "problem_solved": "阐明新实施的年龄门槛规则如何规范线上内容访问，并评估其对用户隐私和平台合规的影响。",
+  "why_valuable": "帮助网站运营者、平台开发者和普通用户理解新法规带来的合规责任、隐私风险及权利保护问题。",
+  "tags": [
+    "Age Verification",
+    "Privacy",
+    "Regulation",
+    "Digital Rights",
+    "Online Safety"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-27T17:59:43.235841+00:00",
+  "updated_at": "2026-11-27T18:01:08.095416+00:00",
+  "published_to": []
+}

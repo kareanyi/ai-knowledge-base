@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261127-014",
+  "source": "rss",
+  "source_url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+  "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+  "summary": "文章宣布 Himalaya v3 正式稳定，并以 pimdir 标准统一个人信息管理数据的目录组织方式。Pimalaya/Himalaya 旨在通过标准化的本地数据结构提升邮件及其他个人数据在命令行工具之间的兼容性与可维护性。",
+  "tech_stack": [
+    "Rust",
+    "Command-line Interface",
+    "IMAP",
+    "SMTP",
+    "PIM Directory"
+  ],
+  "problem_solved": "通过定义统一的 pimdir 目录规范，解决不同命令行个人信息管理工具之间数据布局不一致、难以互操作的问题。",
+  "why_valuable": "统一的数据目录标准可降低工具集成和迁移成本，使邮件及相关个人数据能够被更可靠地管理、复用和自动化处理。",
+  "tags": [
+    "Email",
+    "CLI",
+    "PIM",
+    "Rust",
+    "Interoperability"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-27T18:00:07.982206+00:00",
+  "updated_at": "2026-11-27T18:01:08.095638+00:00",
+  "published_to": []
+}

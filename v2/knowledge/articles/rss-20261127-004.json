@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261127-004",
+  "source": "rss",
+  "source_url": "https://cr.yp.to/proofs/falseccp.html",
+  "title": "False computer-checked proofs",
+  "summary": "文章聚焦“经过计算机检查的证明仍可能是错误的”这一核心问题，分析形式化证明如何因逻辑基础、证明助手依赖、验证器实现缺陷或不充分的信任假设而产生虚假保证。它强调，形式化验证的可信度不仅取决于定理本身，还取决于证明内核、标准库和检查工具是否可靠并经过独立审计。",
+  "tech_stack": [
+    "Formal verification",
+    "Proof assistants",
+    "Type theory",
+    "Theorem proving"
+  ],
+  "problem_solved": "揭示自动检查的形式化证明也可能建立在错误或不可信的假设之上，从而避免将“机器验证通过”直接等同于“结论绝对正确”。",
+  "why_valuable": "对形式化验证的可信边界和潜在失效模式进行提醒，有助于研究者在依赖机器证明前识别并审计关键假设与实现风险。",
+  "tags": [
+    "Formal Verification",
+    "Theorem Proving",
+    "Proof Assistants",
+    "Software Correctness"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-27T17:58:51.331128+00:00",
+  "updated_at": "2026-11-27T18:01:08.094637+00:00",
+  "published_to": []
+}

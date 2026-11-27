@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261127-016",
+  "source": "rss",
+  "source_url": "https://construct22.com/",
+  "title": "Group chat where your AI talks behind your back",
+  "summary": "Construct 22 探索了一种带有人工智能代理的群聊体验：AI 能在多人对话中自主参与互动，并在群聊之外与用户进行更私密的双向交流。项目的核心价值在于展示 AI 如何从单纯的问答工具转变为具备独立表达、社交意识和多方协作能力的聊天参与者。",
+  "tech_stack": [
+    "Large Language Models",
+    "AI Agents",
+    "Real-time Web Chat",
+    "WebSockets",
+    "Web Application"
+  ],
+  "problem_solved": "解决传统 AI 助手只能与用户一对一交流、难以参与多人社交和群聊协作的问题。",
+  "why_valuable": "它探索了 AI 在群体对话中的新型角色，为智能助理、协作代理和社交产品设计提供了具有启发性的交互范式。",
+  "tags": [
+    "AI",
+    "Agents",
+    "Group Chat",
+    "Social AI",
+    "LLM"
+  ],
+  "score": 7,
+  "status": "published",
+  "created_at": "2026-11-27T18:00:37.446482+00:00",
+  "updated_at": "2026-11-27T18:01:08.095763+00:00",
+  "published_to": []
+}

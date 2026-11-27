@@ -1,0 +1,26 @@
+{
+  "id": "rss-20261127-020",
+  "source": "rss",
+  "source_url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+  "title": "Hard Drive pricing has gotten bad",
+  "summary": "文章讨论黑五期间机械硬盘价格异常上涨的现象，重点反映当前存储硬件市场定价失衡及消费者面临的成本压力。文章还通过 Hacker News 社区评论补充了市场背景与购买反馈。",
+  "tech_stack": [
+    "Hard Disk Drives",
+    "Data Storage",
+    "E-commerce"
+  ],
+  "problem_solved": "揭示黑五促销期间机械硬盘价格反而上涨的问题，帮助消费者判断存储设备的购买时机并规避高价陷阱。",
+  "why_valuable": "异常促销价格直接影响个人数据存储、企业备份和数据中心扩容成本，及时识别价格趋势具有实际采购价值。",
+  "tags": [
+    "Hardware",
+    "Storage",
+    "Pricing",
+    "Black Friday",
+    "Consumer Guide"
+  ],
+  "score": 6,
+  "status": "published",
+  "created_at": "2026-11-27T18:01:07.532355+00:00",
+  "updated_at": "2026-11-27T18:01:08.095978+00:00",
+  "published_to": []
+}
